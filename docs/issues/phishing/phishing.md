@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+October 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers Hit Florida Hurricane Victims with Fake FEMA Claims, Malware Files<a href="https://hackread.com/scammers-florida-hurricane-victim-fake-fema-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing campaigns are using newly registered domains related to hurricane relief efforts to trick victims into revealing sensitive information. Some are posing as FEMA assistance providers on forums like BlackBones to steal personal data and funds.
+</details>
+<div style="text-align: right" markdown="1">
+HackRead
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 8, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

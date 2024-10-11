@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 10, 2024
+October 10, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scammers Hit Florida Hurricane Victims with Fake FEMA Claims, Malware Files<a href="https://hackread.com/scammers-florida-hurricane-victim-fake-fema-malware/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Scammers Hit Florida Hurricane Victims with Fake FEMA Claims, Malware Files<a hr
 Phishing campaigns are using newly registered domains related to hurricane relief efforts to trick victims into revealing sensitive information. Some are posing as FEMA assistance providers on forums like BlackBones to steal personal data and funds.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+HackRead
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 10, 2024
+October 10, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Code Execution Flaw Discovered in Apache Subversion for Windows<a href="https://securityonline.info/cve-2024-45720-code-execution-flaw-discovered-in-apache-subversion-for-windows/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Code Execution Flaw Discovered in Apache Subversion for Windows<a href="https://
 Apache Subversion for Windows has been found to have a code execution flaw (CVE-2024-45720) with a CVSS score of 8.2. This vulnerability can be exploited to inject command line arguments and execute unintended programs.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 10, 2024
+October 10, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Detects Growing Use of File Hosting Services in Business Email Compromise Attacks<a href="https://thehackernews.com/2024/10/microsoft-detects-growing-use-of-file.html?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Microsoft Detects Growing Use of File Hosting Services in Business Email Comprom
 This tactic, known as living-off-trusted-sites (LOTS), allows threat actors to blend in with normal network traffic, making it difficult to detect and attribute malicious activity.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 10, 2024
+October 10, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Adobe Releases Security Updates to Patch Multiple Products<a href="https://thecyberexpress.com/adobe-security-update/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Adobe Releases Security Updates to Patch Multiple Products<a href="https://thecy
 Adobe has issued a security alert for critical vulnerabilities, urging users to update their software immediately to protect against potential cyber threats. The update enhances safety and protects against unauthorized access by cybercriminals.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 10, 2024
+October 10, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researcher Details Privilege Escalation in Palo Alto Networks’ GlobalProtect MSI Installer<a href="https://securityonline.info/researcher-details-privilege-escalation-in-palo-alto-networks-globalprotect-msi-installer-cve-2024-9473/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Researcher Details Privilege Escalation in Palo Alto Networks’ GlobalProtect M
 Researcher Michael Baer from SEC Consult Vulnerability Lab has identified a critical local privilege escalation flaw (CVE-2024-9473) in Palo Alto Networks’ GlobalProtect MSI installer.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 10, 2024
+October 10, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Progress Telerik UI, Cisco ASA WebVPN, QNAP QTS, and Linux Systems Under Attack<a href="https://thecyberexpress.com/telerik-cisco-qnap-linux-under-attack/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Progress Telerik UI, Cisco ASA WebVPN, QNAP QTS, and Linux Systems Under Attack<
 Vulnerabilities in Progress Telerik UI for WPF and D-Link routers have been exploited, along with the targeting of QNAP QTS firmware and Cisco ASA WebVPN. Additionally, critical flaws in PHP, GeoServer, and AVTECH IP cameras are under attack.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 10, 2024
+October 10, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitLab Users Urged to Update Now to Fix Critical Flaw<a href="https://securityonline.info/cve-2024-9164-cvss-9-6-gitlab-users-urged-to-update-now/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ GitLab Users Urged to Update Now to Fix Critical Flaw<a href="https://securityon
 GitLab released critical security updates for versions 17.4.2, 17.3.5, and 17.2.9 of both Community and Enterprise Editions, fixing vulnerabilities, including a critical flaw (CVE-2024-9164) that lets attackers run pipelines on arbitrary branches.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 10, 2024
+October 10, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lua Malware Targeting Student Gamers via Fake Game Cheats<a href="https://hackread.com/lua-malware-hit-student-gamers-fake-game-cheats/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Lua Malware Targeting Student Gamers via Fake Game Cheats<a href="https://hackre
 Morphisec Threat Labs has found advanced Lua malware targeting student gamers and educational institutions, taking advantage of Lua-based gaming engine supplements popular among students.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+HackRead
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 10, 2024
+October 10, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CyberVolk: From Hacktivism to Ransomware – Researcher Exposes New Threat<a href="https://securityonline.info/cybervolk-from-hacktivism-to-ransomware-researcher-exposes-new-threat/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ CyberVolk: From Hacktivism to Ransomware – Researcher Exposes New Threat<a hre
 Initially tied to pro-Russian hacktivist movements, CyberVolk has targeted Spain in response to geopolitical events. They have transitioned from DDoS attacks to ransomware, leading coordinated campaigns against Spanish institutions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 10, 2024
+October 10, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Fixes Five Zero-Days in October Patch Tuesday<a href="https://www.infosecurity-magazine.com/news/microsoft-five-zerodays-patch/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Microsoft Fixes Five Zero-Days in October Patch Tuesday<a href="https://www.info
 Two bugs were actively exploited, including an RCE vulnerability in Microsoft Management Console (CVE-2024-43572, CVSS score: 7.8). Another exploited zero-day (CVE-2024-43573, CVSS score: 6.5) is a Windows MSHTML platform spoofing vulnerability.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

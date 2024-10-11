@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 8, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Apache Avro SDK RCE flaw impacts Java applications<a href="https://securityaffairs.com/169469/security/apache-avro-java-sdk-critical-flaw.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical security flaw in Apache Avro SDK for Java has been revealed, allowing remote code execution on vulnerable systems. The vulnerability, CVE-2024-47561, affects all versions prior to 1.11.4.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 8, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Zero-Day Automotive Systems Vulnerabilities Exposed<a href="https://securityonline.info/critical-zero-day-automotive-systems-vulnerabilities-exposed/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UncoveredRecent research by security expert Amit Geynis has shed light on the presence of critical vulnerabilities in modern vehicles, raising concerns about the safety of connected cars.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 8, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Exploit Released for TeamViewer Flaws Letting Unprivileged Users Load Arbitrary Kernel Drivers<a href="https://securityonline.info/exploit-releases-for-teamviewer-flaws-cve-2024-7479-cve-2024-7481-let-unprivileged-users-load-arbitrary-kernel-drivers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These flaws enable attackers to execute arbitrary code and escalate privileges on Windows systems by exploiting inadequate cryptographic signature verification during driver installation.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 8, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC Exploit Released for Linux Kernel Flaw Enabling Container Escape<a href="https://securityonline.info/poc-exploit-releases-for-cve-2023-52447-a-linux-kernel-flaw-enabling-container-escape/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers disclosed technical details and a proof-of-concept (PoC) exploit for a vulnerability in the Linux kernel, tracked as CVE-2023-52447. This use-after-free flaw affects Linux kernel versions from v5.8 to v6.6, with a CVSS score of 7.8.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 7, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

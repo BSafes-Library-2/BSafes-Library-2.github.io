@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+October 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CyberVolk: From Hacktivism to Ransomware – Researcher Exposes New Threat<a href="https://securityonline.info/cybervolk-from-hacktivism-to-ransomware-researcher-exposes-new-threat/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Initially tied to pro-Russian hacktivist movements, CyberVolk has targeted Spain in response to geopolitical events. They have transitioned from DDoS attacks to ransomware, leading coordinated campaigns against Spanish institutions.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 7, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

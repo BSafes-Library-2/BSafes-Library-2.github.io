@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+October 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Progress Telerik UI, Cisco ASA WebVPN, QNAP QTS, and Linux Systems Under Attack<a href="https://thecyberexpress.com/telerik-cisco-qnap-linux-under-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerabilities in Progress Telerik UI for WPF and D-Link routers have been exploited, along with the targeting of QNAP QTS firmware and Cisco ASA WebVPN. Additionally, critical flaws in PHP, GeoServer, and AVTECH IP cameras are under attack.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 7, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

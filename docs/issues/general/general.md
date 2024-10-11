@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+October 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Detects Growing Use of File Hosting Services in Business Email Compromise Attacks<a href="https://thehackernews.com/2024/10/microsoft-detects-growing-use-of-file.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This tactic, known as living-off-trusted-sites (LOTS), allows threat actors to blend in with normal network traffic, making it difficult to detect and attribute malicious activity.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 8, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
