@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Progress Patches Critical Security Flaw CVE-2024-8015 (CVSS 9.1) in Telerik Report Server<a href="https://securityonline.info/progress-patches-critical-security-flaw-cve-2024-8015-cvss-9-1-in-telerik-report-server/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Progress Software has issued a security advisory regarding four new vulnerabilities in the Telerik Report Server. These flaws, designated as CVE-2024-7292, CVE-2024-7293, CVE-2024-7294, and CVE-2024-8015, impact versions before 2024 Q3 (10.2.24.924).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware by the (Bit)Bucket: Uncovering AsyncRAT<a href="https://www.gdatasoftware.com/blog/2024/10/38043-asyncrat-bitbucket?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+G DATA Security Lab discovered a malware campaign using Bitbucket to deploy AsyncRAT, a remote access trojan. The attackers employed multi-stage attacks to host and distribute malicious payloads, hiding their activities with Base64 encoding.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fog and Akira Ransomware Exploit Critical Veeam RCE Flaw After PoC Release<a href="https://securityonline.info/fog-akira-ransomware-exploit-critical-veeam-rce-flaw-cve-2024-40711-after-poc-release/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sophos X-Ops MDR and Incident Response warned of rising ransomware attacks exploiting Veeam Backup & Replication flaw CVE-2024-40711, allowing unauthorized account creation for ransomware deployments like Fog and Akira.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telekopye Transitions to Targeting Tourists via Hotel Booking Scam<a href="https://www.welivesecurity.com/en/eset-research/telekopye-hits-new-hunting-ground-hotel-booking-scams/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET researchers revealed that the Telekopye scam toolkit, previously known for targeting online marketplace users, has now turned its focus towards exploiting tourists via accommodation booking platforms like Booking.com and Airbnb.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of F5 BIG-IP Cookie Exploitation<a href="https://securityonline.info/cisa-warns-of-f5-big-ip-cookie-exploitation/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA has issued an urgent alert warning organizations about a vulnerability involving unencrypted persistent cookies in the F5 BIG-IP Local Traffic Manager (LTM) module, which could be exploited by cyber threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Critical Fortinet Flaw as Palo Alto Networks Issues Urgent Security Patches<a href="https://thehackernews.com/2024/10/cisa-warns-of-critical-fortinet-flaw-as.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA warned of a critical Fortinet flaw that allows remote code execution impacting FortiOS, FortiPAM, FortiProxy, and FortiWeb. Federal agencies must apply mitigations by October 30, 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trojan.AutoIt.1443 Hits 28,000 Users via Game Cheats, Office Tool<a href="https://hackread.com/trojan-autoit-1443-hits-users-game-cheats-office-tool/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware executes tasks to establish network access with Ncat, manipulates the system registry using IFEO, and controls system functions. It conducts cryptomining using SilentCryptoMiner and steals funds by swapping crypto wallet addresses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw Exposes Schneider Electric Industrial PCs to Attack<a href="https://securityonline.info/cve-2024-8884-cvss-9-8-critical-flaw-exposes-schneider-electric-industrial-pcs-to-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw, tracked as CVE-2024-8884, allows unauthorized actors to access sensitive information over an insecure HTTP connection, posing risks of DoS attacks, data leaks, and operational failures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Major Security Vulnerabilities in Industrial MMS Protocol Libraries<a href="https://thehackernews.com/2024/10/researchers-uncover-major-security.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered significant security vulnerabilities in industrial systems using the Manufacturing Message Specification (MMS) protocol that could have serious consequences if exploited.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tax Extension Malware Campaign Exploits Trusted GitHub Repositories to Deliver Remcos RAT<a href="https://securityonline.info/tax-extension-malware-campaign-exploits-trusted-github-repositories-to-deliver-remcos-rat/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent phishing campaign exploited GitHub links, targeting victims with promises of tax extension assistance. The emails urged recipients to download a password-protected archive from trusted repositories associated with tax organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 10, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
