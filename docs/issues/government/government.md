@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+October 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of F5 BIG-IP Cookie Exploitation<a href="https://securityonline.info/cisa-warns-of-f5-big-ip-cookie-exploitation/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA has issued an urgent alert warning organizations about a vulnerability involving unencrypted persistent cookies in the F5 BIG-IP Local Traffic Manager (LTM) module, which could be exploited by cyber threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Critical Fortinet Flaw as Palo Alto Networks Issues Urgent Security Patches<a href="https://thehackernews.com/2024/10/cisa-warns-of-critical-fortinet-flaw-as.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA warned of a critical Fortinet flaw that allows remote code execution impacting FortiOS, FortiPAM, FortiProxy, and FortiWeb. Federal agencies must apply mitigations by October 30, 2024.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 5, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

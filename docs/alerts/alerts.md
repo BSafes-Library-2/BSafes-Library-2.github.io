@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10 2024 - CISA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Best Practices to Configure BIG-IP LTM Systems to Encrypt HTTP Persistence Cookies <a href="https://www.cisa.gov/news-events/alerts/2024/10/10/best-practices-configure-big-ip-ltm-systems-encrypt-http-persistence-cookies"> Full Text</a>
+</p>
+<details>
+CISA has observed cyber threat actors leveraging unencrypted persistent cookies managed by the F5 BIG-IP Local Traffic Manager (LTM) module to enumerate other non-internet facing devices on the network. F5 BIG-IP is a suite of hardware and software solutions designed to manage and secure network traffic. A malicious cyber actor could leverage the information gathered from unencrypted persistence cookies to infer or identify additional network resources and potentially exploit vulnerabilities found in other devices present on the network.  
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 2 2024 - ASD, CISA, NSA, FBI, ISAC, NCSC, CCCS, Te Tira Tiaki, BFDI, NCSC, NISC, NPA, NIS, NCSC 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

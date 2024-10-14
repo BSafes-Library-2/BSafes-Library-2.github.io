@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+October 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fog and Akira Ransomware Exploit Critical Veeam RCE Flaw After PoC Release<a href="https://securityonline.info/fog-akira-ransomware-exploit-critical-veeam-rce-flaw-cve-2024-40711-after-poc-release/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sophos X-Ops MDR and Incident Response warned of rising ransomware attacks exploiting Veeam Backup &amp; Replication flaw CVE-2024-40711, allowing unauthorized account creation for ransomware deployments like Fog and Akira.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 19, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
