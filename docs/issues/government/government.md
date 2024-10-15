@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+October 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Security Bill 2024: Australia’s Strategic Leap Toward a Resilient Digital Ecosystem<a href="https://thecyberexpress.com/australian-cybersecurity-law/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Notable features of the law include mandatory cybersecurity standards for Internet of Things (IoT) devices and mandatory ransomware reporting for critical infrastructure entities.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU Adopts Cyber Resilience Act for Connected Devices<a href="https://www.infosecurity-magazine.com/news/eu-adopts-cyber-resilience-act/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Union Council has approved the Cyber Resilience Act (CRA) to establish cybersecurity requirements for products with digital components. This regulation will cover a wide range of connected devices.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 12, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

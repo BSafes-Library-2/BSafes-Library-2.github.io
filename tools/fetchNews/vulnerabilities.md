@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Progress Patches Critical Security Flaw CVE-2024-8015 (CVSS 9.1) in Telerik Report Server<a href="https://securityonline.info/progress-patches-critical-security-flaw-cve-2024-8015-cvss-9-1-in-telerik-report-server/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Progress Software has issued a security advisory regarding four new vulnerabilities in the Telerik Report Server. These flaws, designated as CVE-2024-7292, CVE-2024-7293, CVE-2024-7294, and CVE-2024-8015, impact versions before 2024 Q3 (10.2.24.924).
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw Exposes Schneider Electric Industrial PCs to Attack<a href="https://securityonline.info/cve-2024-8884-cvss-9-8-critical-flaw-exposes-schneider-electric-industrial-pcs-to-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw, tracked as CVE-2024-8884, allows unauthorized actors to access sensitive information over an insecure HTTP connection, posing risks of DoS attacks, data leaks, and operational failures.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Major Security Vulnerabilities in Industrial MMS Protocol Libraries<a href="https://thehackernews.com/2024/10/researchers-uncover-major-security.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered significant security vulnerabilities in industrial systems using the Manufacturing Message Specification (MMS) protocol that could have serious consequences if exploited.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 10, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

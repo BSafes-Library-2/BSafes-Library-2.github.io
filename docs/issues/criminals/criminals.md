@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bohemia and Cannabia Dark Web Markets Taken Down After Joint Police Operation<a href="https://thehackernews.com/2024/10/bohemia-and-cannabia-dark-web-markets.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Dutch police have dismantled Bohemia and Cannabia, considered the world's largest dark web market for illegal goods, drugs, and cybercrime. This action resulted from a joint investigation involving Ireland, the UK, and the US.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 19, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+October 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Updated Malware Strains Used in North Korean Fake Recruiter Scams<a href="https://therecord.media/updated-malware-strains-north-korea?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Palo Alto Networks Unit 42 discovered that these threat actors are posing as recruiters on platforms like LinkedIn to trick victims into downloading malware disguised as job-related tools.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 12, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

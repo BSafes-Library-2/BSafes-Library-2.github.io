@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+October 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telekopye Transitions to Targeting Tourists via Hotel Booking Scam<a href="https://www.welivesecurity.com/en/eset-research/telekopye-hits-new-hunting-ground-hotel-booking-scams/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET researchers revealed that the Telekopye scam toolkit, previously known for targeting online marketplace users, has now turned its focus towards exploiting tourists via accommodation booking platforms like Booking.com and Airbnb.
+</details>
+<div style="text-align: right" markdown="1">
+WeLiveSecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tax Extension Malware Campaign Exploits Trusted GitHub Repositories to Deliver Remcos RAT<a href="https://securityonline.info/tax-extension-malware-campaign-exploits-trusted-github-repositories-to-deliver-remcos-rat/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent phishing campaign exploited GitHub links, targeting victims with promises of tax extension assistance. The emails urged recipients to download a password-protected archive from trusted repositories associated with tax organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 10, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

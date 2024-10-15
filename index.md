@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2024
+October 14, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyrisma Raises $7M in Funding<a href="https://www.finsmes.com/2024/10/cyrisma-raises-7m-in-funding.html?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Cyrisma Raises $7M in Funding<a href="https://www.finsmes.com/2024/10/cyrisma-ra
 The Series A funding round was led by Blueprint Equity, with participation from SaaS Venture and Golden Ventures. Blueprint Equity’s Sheldon Lewis will join Cyrisma’s Board of Directors.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Finsmes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2024
+October 14, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: 156% Increase in OSS Malicious Packages<a href="https://www.infosecurity-magazine.com/news/156-increase-in-oss-malicious/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Report: 156% Increase in OSS Malicious Packages<a href="https://www.infosecurity
 Open-source software (OSS) usage is on the rise, with a 156% increase in open-source malware, as reported by Sonatype. Over 704,102 malicious packages have been identified since 2019, with 512,847 discovered since November 2023.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2024
+October 14, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bohemia and Cannabia Dark Web Markets Taken Down After Joint Police Operation<a href="https://thehackernews.com/2024/10/bohemia-and-cannabia-dark-web-markets.html?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Bohemia and Cannabia Dark Web Markets Taken Down After Joint Police Operation<a 
 The Dutch police have dismantled Bohemia and Cannabia, considered the world's largest dark web market for illegal goods, drugs, and cybercrime. This action resulted from a joint investigation involving Ireland, the UK, and the US.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2024
+October 14, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two Updated Malware Strains Used in North Korean Fake Recruiter Scams<a href="https://therecord.media/updated-malware-strains-north-korea?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Two Updated Malware Strains Used in North Korean Fake Recruiter Scams<a href="ht
 Researchers from Palo Alto Networks Unit 42 discovered that these threat actors are posing as recruiters on platforms like LinkedIn to trick victims into downloading malware disguised as job-related tools.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2024
+October 14, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Technical Analysis of DarkVision RAT<a href="https://www.zscaler.com/blogs/security-research/technical-analysis-darkvision-rat?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Technical Analysis of DarkVision RAT<a href="https://www.zscaler.com/blogs/secur
 Zscaler ThreatLabz observed DarkVision RAT in a new campaign in July 2024. The attack chain involves shellcode decryption, a Donut loader, and a .NET assembly called PureCrypter.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ZScalar
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2024
+October 14, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Security Bill 2024: Australia’s Strategic Leap Toward a Resilient Digital Ecosystem<a href="https://thecyberexpress.com/australian-cybersecurity-law/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Cyber Security Bill 2024: Australia’s Strategic Leap Toward a Resilient Digita
 Notable features of the law include mandatory cybersecurity standards for Internet of Things (IoT) devices and mandatory ransomware reporting for critical infrastructure entities.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2024
+October 14, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Warn of Critical Unpatched Vulnerability in Linear eMerge E3 Systems<a href="https://thehackernews.com/2024/10/experts-warn-of-critical-unpatched.html?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Experts Warn of Critical Unpatched Vulnerability in Linear eMerge E3 Systems<a h
 Cybersecurity researchers are warning about an unpatched vulnerability in Nice Linear eMerge E3 access controller systems that could allow for the execution of arbitrary operating system (OS) commands.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2024
+October 14, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EU Adopts Cyber Resilience Act for Connected Devices<a href="https://www.infosecurity-magazine.com/news/eu-adopts-cyber-resilience-act/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ EU Adopts Cyber Resilience Act for Connected Devices<a href="https://www.infosec
 The European Union Council has approved the Cyber Resilience Act (CRA) to establish cybersecurity requirements for products with digital components. This regulation will cover a wide range of connected devices.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2024
+October 14, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lynx Ransomware: A Rebranding of INC Ransomware<a href="https://unit42.paloaltonetworks.com/inc-ransomware-rebrand-to-lynx/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Lynx Ransomware: A Rebranding of INC Ransomware<a href="https://unit42.paloalton
 The malicious actors behind Lynx use tactics like double extortion, where they steal victims' data before encrypting it and threaten to leak or sell it if the ransom is not paid.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Palo Alto Network
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2024
+October 14, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zyxel Devices Targeted by Malicious Actors: Urgent Firmware Update Required<a href="https://securityonline.info/zyxel-devices-targeted-by-malicious-actors-urgent-firmware-update-required/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Zyxel Devices Targeted by Malicious Actors: Urgent Firmware Update Required<a hr
 Zyxel security appliances are being targeted by malicious actors, exploiting vulnerabilities in ATP and USG FLEX devices to steal credentials and gain unauthorized access via SSL VPN tunnels.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

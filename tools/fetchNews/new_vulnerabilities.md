@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Warn of Critical Unpatched Vulnerability in Linear eMerge E3 Systems<a href="https://thehackernews.com/2024/10/experts-warn-of-critical-unpatched.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers are warning about an unpatched vulnerability in Nice Linear eMerge E3 access controller systems that could allow for the execution of arbitrary operating system (OS) commands.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel Devices Targeted by Malicious Actors: Urgent Firmware Update Required<a href="https://securityonline.info/zyxel-devices-targeted-by-malicious-actors-urgent-firmware-update-required/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zyxel security appliances are being targeted by malicious actors, exploiting vulnerabilities in ATP and USG FLEX devices to steal credentials and gain unauthorized access via SSL VPN tunnels.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 12, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

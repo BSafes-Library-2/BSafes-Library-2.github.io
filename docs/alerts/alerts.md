@@ -18,6 +18,17 @@ CISA has observed cyber threat actors leveraging unencrypted persistent cookies 
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 9 2024 - Australian Government 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Introduction of landmark Cyber Security Legislation Package <a href="https://www.homeaffairs.gov.au/news-media/archive/article?itemId=1247"> Full Text</a>
+</p>
+<details>
+Australian Government is committed to enhancing the security and resilience of Australia’s cyber environment and critical infrastructure.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 2 2024 - ASD, CISA, NSA, FBI, ISAC, NCSC, CCCS, Te Tira Tiaki, BFDI, NCSC, NISC, NPA, NIS, NCSC 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

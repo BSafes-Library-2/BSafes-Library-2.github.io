@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+October 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: 156% Increase in OSS Malicious Packages<a href="https://www.infosecurity-magazine.com/news/156-increase-in-oss-malicious/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Open-source software (OSS) usage is on the rise, with a 156% increase in open-source malware, as reported by Sonatype. Over 704,102 malicious packages have been identified since 2019, with 512,847 discovered since November 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 10, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
