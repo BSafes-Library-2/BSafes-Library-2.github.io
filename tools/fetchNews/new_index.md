@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2024
+October 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyrisma Raises $7M in Funding<a href="https://www.finsmes.com/2024/10/cyrisma-raises-7m-in-funding.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series A funding round was led by Blueprint Equity, with participation from SaaS Venture and Golden Ventures. Blueprint Equity’s Sheldon Lewis will join Cyrisma’s Board of Directors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: 156% Increase in OSS Malicious Packages<a href="https://www.infosecurity-magazine.com/news/156-increase-in-oss-malicious/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Open-source software (OSS) usage is on the rise, with a 156% increase in open-source malware, as reported by Sonatype. Over 704,102 malicious packages have been identified since 2019, with 512,847 discovered since November 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bohemia and Cannabia Dark Web Markets Taken Down After Joint Police Operation<a href="https://thehackernews.com/2024/10/bohemia-and-cannabia-dark-web-markets.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Dutch police have dismantled Bohemia and Cannabia, considered the world's largest dark web market for illegal goods, drugs, and cybercrime. This action resulted from a joint investigation involving Ireland, the UK, and the US.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Updated Malware Strains Used in North Korean Fake Recruiter Scams<a href="https://therecord.media/updated-malware-strains-north-korea?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Palo Alto Networks Unit 42 discovered that these threat actors are posing as recruiters on platforms like LinkedIn to trick victims into downloading malware disguised as job-related tools.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Technical Analysis of DarkVision RAT<a href="https://www.zscaler.com/blogs/security-research/technical-analysis-darkvision-rat?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zscaler ThreatLabz observed DarkVision RAT in a new campaign in July 2024. The attack chain involves shellcode decryption, a Donut loader, and a .NET assembly called PureCrypter.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Security Bill 2024: Australia’s Strategic Leap Toward a Resilient Digital Ecosystem<a href="https://thecyberexpress.com/australian-cybersecurity-law/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Notable features of the law include mandatory cybersecurity standards for Internet of Things (IoT) devices and mandatory ransomware reporting for critical infrastructure entities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Warn of Critical Unpatched Vulnerability in Linear eMerge E3 Systems<a href="https://thehackernews.com/2024/10/experts-warn-of-critical-unpatched.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers are warning about an unpatched vulnerability in Nice Linear eMerge E3 access controller systems that could allow for the execution of arbitrary operating system (OS) commands.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU Adopts Cyber Resilience Act for Connected Devices<a href="https://www.infosecurity-magazine.com/news/eu-adopts-cyber-resilience-act/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Union Council has approved the Cyber Resilience Act (CRA) to establish cybersecurity requirements for products with digital components. This regulation will cover a wide range of connected devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lynx Ransomware: A Rebranding of INC Ransomware<a href="https://unit42.paloaltonetworks.com/inc-ransomware-rebrand-to-lynx/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malicious actors behind Lynx use tactics like double extortion, where they steal victims' data before encrypting it and threaten to leak or sell it if the ransom is not paid.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel Devices Targeted by Malicious Actors: Urgent Firmware Update Required<a href="https://securityonline.info/zyxel-devices-targeted-by-malicious-actors-urgent-firmware-update-required/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zyxel security appliances are being targeted by malicious actors, exploiting vulnerabilities in ATP and USG FLEX devices to steal credentials and gain unauthorized access via SSL VPN tunnels.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Progress Patches Critical Security Flaw CVE-2024-8015 (CVSS 9.1) in Telerik Report Server<a href="https://securityonline.info/progress-patches-critical-security-flaw-cve-2024-8015-cvss-9-1-in-telerik-report-server/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Progress Patches Critical Security Flaw CVE-2024-8015 (CVSS 9.1) in Telerik Repo
 Progress Software has issued a security advisory regarding four new vulnerabilities in the Telerik Report Server. These flaws, designated as CVE-2024-7292, CVE-2024-7293, CVE-2024-7294, and CVE-2024-8015, impact versions before 2024 Q3 (10.2.24.924).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2024
+October 12, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware by the (Bit)Bucket: Uncovering AsyncRAT<a href="https://www.gdatasoftware.com/blog/2024/10/38043-asyncrat-bitbucket?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Malware by the (Bit)Bucket: Uncovering AsyncRAT<a href="https://www.gdatasoftwar
 G DATA Security Lab discovered a malware campaign using Bitbucket to deploy AsyncRAT, a remote access trojan. The attackers employed multi-stage attacks to host and distribute malicious payloads, hiding their activities with Base64 encoding.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GData
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2024
+October 12, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fog and Akira Ransomware Exploit Critical Veeam RCE Flaw After PoC Release<a href="https://securityonline.info/fog-akira-ransomware-exploit-critical-veeam-rce-flaw-cve-2024-40711-after-poc-release/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Fog and Akira Ransomware Exploit Critical Veeam RCE Flaw After PoC Release<a hre
 Sophos X-Ops MDR and Incident Response warned of rising ransomware attacks exploiting Veeam Backup & Replication flaw CVE-2024-40711, allowing unauthorized account creation for ransomware deployments like Fog and Akira.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2024
+October 12, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Telekopye Transitions to Targeting Tourists via Hotel Booking Scam<a href="https://www.welivesecurity.com/en/eset-research/telekopye-hits-new-hunting-ground-hotel-booking-scams/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Telekopye Transitions to Targeting Tourists via Hotel Booking Scam<a href="https
 ESET researchers revealed that the Telekopye scam toolkit, previously known for targeting online marketplace users, has now turned its focus towards exploiting tourists via accommodation booking platforms like Booking.com and Airbnb.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+WeLiveSecurity
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2024
+October 12, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of F5 BIG-IP Cookie Exploitation<a href="https://securityonline.info/cisa-warns-of-f5-big-ip-cookie-exploitation/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ CISA Warns of F5 BIG-IP Cookie Exploitation<a href="https://securityonline.info/
 The CISA has issued an urgent alert warning organizations about a vulnerability involving unencrypted persistent cookies in the F5 BIG-IP Local Traffic Manager (LTM) module, which could be exploited by cyber threat actors.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2024
+October 11, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of Critical Fortinet Flaw as Palo Alto Networks Issues Urgent Security Patches<a href="https://thehackernews.com/2024/10/cisa-warns-of-critical-fortinet-flaw-as.html?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ CISA Warns of Critical Fortinet Flaw as Palo Alto Networks Issues Urgent Securit
 The CISA warned of a critical Fortinet flaw that allows remote code execution impacting FortiOS, FortiPAM, FortiProxy, and FortiWeb. Federal agencies must apply mitigations by October 30, 2024.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2024
+October 11, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trojan.AutoIt.1443 Hits 28,000 Users via Game Cheats, Office Tool<a href="https://hackread.com/trojan-autoit-1443-hits-users-game-cheats-office-tool/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Trojan.AutoIt.1443 Hits 28,000 Users via Game Cheats, Office Tool<a href="https:
 The malware executes tasks to establish network access with Ncat, manipulates the system registry using IFEO, and controls system functions. It conducts cryptomining using SilentCryptoMiner and steals funds by swapping crypto wallet addresses.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+HackRead
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2024
+October 11, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaw Exposes Schneider Electric Industrial PCs to Attack<a href="https://securityonline.info/cve-2024-8884-cvss-9-8-critical-flaw-exposes-schneider-electric-industrial-pcs-to-attack/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Critical Flaw Exposes Schneider Electric Industrial PCs to Attack<a href="https:
 The flaw, tracked as CVE-2024-8884, allows unauthorized actors to access sensitive information over an insecure HTTP connection, posing risks of DoS attacks, data leaks, and operational failures.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2024
+October 11, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover Major Security Vulnerabilities in Industrial MMS Protocol Libraries<a href="https://thehackernews.com/2024/10/researchers-uncover-major-security.html?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Researchers Uncover Major Security Vulnerabilities in Industrial MMS Protocol Li
 Researchers have discovered significant security vulnerabilities in industrial systems using the Manufacturing Message Specification (MMS) protocol that could have serious consequences if exploited.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2024
+October 11, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tax Extension Malware Campaign Exploits Trusted GitHub Repositories to Deliver Remcos RAT<a href="https://securityonline.info/tax-extension-malware-campaign-exploits-trusted-github-repositories-to-deliver-remcos-rat/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Tax Extension Malware Campaign Exploits Trusted GitHub Repositories to Deliver R
 A recent phishing campaign exploited GitHub links, targeting victims with promises of tax extension assistance. The emails urged recipients to download a password-protected archive from trusted repositories associated with tax organizations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
