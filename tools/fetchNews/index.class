@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Water Makara Uses Obfuscated JavaScript in Spear Phishing Campaign, Targets Brazil With Astaroth Malware<a href="https://www.trendmicro.com/en_us/research/24/j/water-makara-uses-obfuscated-javascript-in-spear-phishing-campai.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malicious emails contain ZIP files with harmful attachments that use mshta. exe to execute obfuscated JavaScript commands and establish connections to a command and control (C&C) server.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Banking Trojan TrickMo Compromised 13,000 Devices, Now Steals Device Unlock Patterns and PINs<a href="https://securityonline.info/banking-trojan-trickmo-compromised-13000-devices-now-steals-device-unlock-patterns-and-pins/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malware analyst Aazim Yaswant from Zimperium has unveiled new advanced features in the latest TrickMo samples, a banking trojan initially disclosed by Cleafy. The variant uses evasion techniques like obfuscation and zip file manipulation.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gmail Scam Alert: Hackers Spoof Google to Steal Credentials<a href="https://securityonline.info/gmail-scam-alert-hackers-spoof-google-to-steal-credentials/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security expert Sam Mitrovic recently warned about an advanced AI-driven phishing scheme aimed at Gmail users, including himself. The scheme began with a fake email from Google requesting an account recovery, followed by a fraudulent login page.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-day Flaws Exposed EV Chargers to Shutdowns and Data Theft<a href="https://hackread.com/zero-day-flaws-ev-chargers-to-shutdowns-data-theft/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities, rated as high and medium severity, could allow unauthorized access, disruption of charger operations, and privilege escalation for limited users. Exploiting these vulnerabilities could lead to remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Command-Jacking: The New Supply Chain Attack Technique<a href="https://checkmarx.com/blog/this-new-supply-chain-attack-technique-can-trojanize-all-your-cli-commands/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered that entry points in various programming ecosystems, such as PyPI, npm, Ruby Gems, NuGet, Dart Pub, and Rust Crates, can be exploited for software supply chain attacks.
+</details>
+<div style="text-align: right" markdown="1">
+CheckMarx
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher Reveals Critical Zendesk Email Spoofing Flaw<a href="https://securityonline.info/50000-bounty-researcher-reveals-critical-zendesk-email-spoofing-flaw-cve-2024-49193/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researcher Daniel uncovered a critical email spoofing flaw in Zendesk's system. Despite Zendesk initially dismissing the report, the seriousness of the vulnerability was acknowledged later, prompting companies to take immediate action.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Issues Guidance to Combat Rising Kerberoasting Attacks<a href="https://securityonline.info/microsoft-issues-guidance-to-combat-rising-kerberoasting-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kerberoasting attacks exploit the Kerberos protocol to steal AD credentials, allowing attackers extensive access to sensitive resources. It involves attackers cracking encrypted service tickets to obtain credentials and gain unauthorized access.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Earth Simnavaz Levies Advanced Cyberattacks Against UAE and Gulf Regions<a href="https://www.trendmicro.com/en_us/research/24/j/earth-simnavaz-cyberattacks-uae-gulf-regions.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group uses sophisticated tactics like leveraging Microsoft Exchange servers for credentials theft and exploiting vulnerabilities for privilege escalation. They blend malicious activity with normal network traffic to evade detection.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular Java Security Framework ‘pac4j’ Vulnerable to RCE<a href="https://securityonline.info/popular-java-security-framework-pac4j-vulnerable-to-rce-cve-2023-25581/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researcher Michael Stepankin from GitHub Security Lab identified a critical flaw in pac4j versions prior to 4.0.0. The vulnerability arises from improper handling of user profile attributes, allowing attackers to inject malicious serialized objects.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Plane Project Management Tool Patches Critical SSRF Flaw<a href="https://securityonline.info/plane-project-management-tool-patches-ssrf-flaw-cve-2024-4783/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This vulnerability could result in unauthorized access, sensitive data leakage, system manipulation, and port scanning. Users are advised to update to version v0.23 to mitigate the CVE-2024-47830 vulnerability that affects all versions prior.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 14, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

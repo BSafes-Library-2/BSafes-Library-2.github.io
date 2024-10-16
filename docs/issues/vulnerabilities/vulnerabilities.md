@@ -8,6 +8,76 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-day Flaws Exposed EV Chargers to Shutdowns and Data Theft<a href="https://hackread.com/zero-day-flaws-ev-chargers-to-shutdowns-data-theft/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities, rated as high and medium severity, could allow unauthorized access, disruption of charger operations, and privilege escalation for limited users. Exploiting these vulnerabilities could lead to remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher Reveals Critical Zendesk Email Spoofing Flaw<a href="https://securityonline.info/50000-bounty-researcher-reveals-critical-zendesk-email-spoofing-flaw-cve-2024-49193/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researcher Daniel uncovered a critical email spoofing flaw in Zendesk's system. Despite Zendesk initially dismissing the report, the seriousness of the vulnerability was acknowledged later, prompting companies to take immediate action.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Issues Guidance to Combat Rising Kerberoasting Attacks<a href="https://securityonline.info/microsoft-issues-guidance-to-combat-rising-kerberoasting-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kerberoasting attacks exploit the Kerberos protocol to steal AD credentials, allowing attackers extensive access to sensitive resources. It involves attackers cracking encrypted service tickets to obtain credentials and gain unauthorized access.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular Java Security Framework ‘pac4j’ Vulnerable to RCE<a href="https://securityonline.info/popular-java-security-framework-pac4j-vulnerable-to-rce-cve-2023-25581/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researcher Michael Stepankin from GitHub Security Lab identified a critical flaw in pac4j versions prior to 4.0.0. The vulnerability arises from improper handling of user profile attributes, allowing attackers to inject malicious serialized objects.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Plane Project Management Tool Patches Critical SSRF Flaw<a href="https://securityonline.info/plane-project-management-tool-patches-ssrf-flaw-cve-2024-4783/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This vulnerability could result in unauthorized access, sensitive data leakage, system manipulation, and port scanning. Users are advised to update to version v0.23 to mitigate the CVE-2024-47830 vulnerability that affects all versions prior.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 14, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

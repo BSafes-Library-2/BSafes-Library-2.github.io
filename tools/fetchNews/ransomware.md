@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+October 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lynx Ransomware: A Rebranding of INC Ransomware<a href="https://unit42.paloaltonetworks.com/inc-ransomware-rebrand-to-lynx/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malicious actors behind Lynx use tactics like double extortion, where they steal victims' data before encrypting it and threaten to leak or sell it if the ransom is not paid.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Network
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 12, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

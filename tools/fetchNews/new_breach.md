@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+October 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Banking Trojan TrickMo Compromised 13,000 Devices, Now Steals Device Unlock Patterns and PINs<a href="https://securityonline.info/banking-trojan-trickmo-compromised-13000-devices-now-steals-device-unlock-patterns-and-pins/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malware analyst Aazim Yaswant from Zimperium has unveiled new advanced features in the latest TrickMo samples, a banking trojan initially disclosed by Cleafy. The variant uses evasion techniques like obfuscation and zip file manipulation.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 28, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

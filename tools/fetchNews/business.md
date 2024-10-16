@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+October 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyrisma Raises $7M in Funding<a href="https://www.finsmes.com/2024/10/cyrisma-raises-7m-in-funding.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series A funding round was led by Blueprint Equity, with participation from SaaS Venture and Golden Ventures. Blueprint Equity’s Sheldon Lewis will join Cyrisma’s Board of Directors.
+</details>
+<div style="text-align: right" markdown="1">
+Finsmes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 23, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
