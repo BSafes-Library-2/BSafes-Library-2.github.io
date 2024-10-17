@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+October 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Command-Jacking: The New Supply Chain Attack Technique<a href="https://checkmarx.com/blog/this-new-supply-chain-attack-technique-can-trojanize-all-your-cli-commands/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered that entry points in various programming ecosystems, such as PyPI, npm, Ruby Gems, NuGet, Dart Pub, and Rust Crates, can be exploited for software supply chain attacks.
+</details>
+<div style="text-align: right" markdown="1">
+CheckMarx
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 14, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

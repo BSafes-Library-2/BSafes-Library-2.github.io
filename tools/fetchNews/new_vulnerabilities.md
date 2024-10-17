@@ -8,6 +8,90 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+E2EE Cloud Storage Vulnerabilities Exposed in Multiple Providers<a href="https://securityonline.info/broken-promises-e2ee-cloud-storage-vulnerabilities-exposed/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A report from Jonas Hofmann and Kien Tuong Truong of ETH Zurich revealed vulnerabilities in major end-to-end encryption (E2EE) cloud storage providers like Sync, pCloud, Icedrive, Seafile, and Tresorit.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Recently-Patched Firefox Bug Exploited Against Tor Browser Users<a href="https://therecord.media/recently-patched-firefox-bug-being-used-against-tor-browser-users?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Tor anonymity network issued an emergency patch for a security flaw (CVE-2024-9680) that lets attackers run malicious code in the browser's content process. It was discovered by ESET and first fixed by Mozilla in Firefox.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Jetpack Fixes Critical Information Disclosure Flaw Existing Since 2016<a href="https://www.bleepingcomputer.com/news/security/jetpack-fixes-critical-information-disclosure-flaw-existing-since-2016/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The issue has affected all Jetpack versions since 3.9.9. Automattic released patches for 101 impacted versions, urging website owners to ensure their plugins have been updated. No evidence of exploitation exists so far.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rittal IoT Interface and CMC III Processing Unit Plagued by Critical Security Flaws<a href="https://securityonline.info/rittal-iot-interface-and-cmc-iii-processing-unit-plagued-by-critical-security-flaws/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaws include improper signature verification for firmware upgrades (CVE-2024-47943), missing protection for alternate hardware interfaces (CVE-2024-47944), and predictable session ID generation (CVE-2024-47945).
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 16, 2024 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2024-9486 (CVSS 9.8): Kubernetes Image Builder Flaw Exposes VMs to Root Access<a href="https://securityonline.info/cve-2024-9486-cvss-9-8-kubernetes-image-builder-flaw-exposes-vms-to-root-access/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Kubernetes Security Response Committee reported two vulnerabilities in the Kubernetes Image Builder (CVE-2024-9486 and CVE-2024-9594) that could lead to root access on VMs due to default credentials used during the image build process.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux Systems Vulnerable to New ‘noexec’ Bypass Technique: Arbitrary Code Execution Now Possible<a href="https://securityonline.info/linux-systems-vulnerable-to-new-noexec-bypass-technique-arbitrary-code-execution-now-possible/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The technique involves using Perl, Bash, and PHP scripts to inject shellcode into running processes and load binaries from memory, even on partitions with 'noexec' enabled.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 15, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

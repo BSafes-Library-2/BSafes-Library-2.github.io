@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 16, 2024
+October 16, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 E2EE Cloud Storage Vulnerabilities Exposed in Multiple Providers<a href="https://securityonline.info/broken-promises-e2ee-cloud-storage-vulnerabilities-exposed/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ E2EE Cloud Storage Vulnerabilities Exposed in Multiple Providers<a href="https:/
 A report from Jonas Hofmann and Kien Tuong Truong of ETH Zurich revealed vulnerabilities in major end-to-end encryption (E2EE) cloud storage providers like Sync, pCloud, Icedrive, Seafile, and Tresorit.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 16, 2024
+October 16, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Adds Three Vulnerabilities in Windows Kernel, Mozilla Firefox, and SolarWinds Web Help Desk to KEV Catalog<a href="https://www.cisa.gov/news-events/alerts/2024/10/15/cisa-adds-three-known-exploited-vulnerabilities-catalog?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ CISA Adds Three Vulnerabilities in Windows Kernel, Mozilla Firefox, and SolarWin
 The Cybersecurity and Infrastructure Security Agency (CISA) has issued a warning regarding three critical security vulnerabilities affecting various software, including Microsoft Windows, Mozilla Firefox, and SolarWinds Web Help Desk.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CISA
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 16, 2024
+October 16, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Recently-Patched Firefox Bug Exploited Against Tor Browser Users<a href="https://therecord.media/recently-patched-firefox-bug-being-used-against-tor-browser-users?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Recently-Patched Firefox Bug Exploited Against Tor Browser Users<a href="https:/
 The Tor anonymity network issued an emergency patch for a security flaw (CVE-2024-9680) that lets attackers run malicious code in the browser's content process. It was discovered by ESET and first fixed by Mozilla in Firefox.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 16, 2024
+October 16, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Jetpack Fixes Critical Information Disclosure Flaw Existing Since 2016<a href="https://www.bleepingcomputer.com/news/security/jetpack-fixes-critical-information-disclosure-flaw-existing-since-2016/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Jetpack Fixes Critical Information Disclosure Flaw Existing Since 2016<a href="h
 The issue has affected all Jetpack versions since 3.9.9. Automattic released patches for 101 impacted versions, urging website owners to ensure their plugins have been updated. No evidence of exploitation exists so far.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 16, 2024
+October 16, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rittal IoT Interface and CMC III Processing Unit Plagued by Critical Security Flaws<a href="https://securityonline.info/rittal-iot-interface-and-cmc-iii-processing-unit-plagued-by-critical-security-flaws/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Rittal IoT Interface and CMC III Processing Unit Plagued by Critical Security Fl
 The flaws include improper signature verification for firmware upgrades (CVE-2024-47943), missing protection for alternate hardware interfaces (CVE-2024-47944), and predictable session ID generation (CVE-2024-47945).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 16, 2024
+October 16, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hijack Loader Found Abusing Genuine Code-Signing Certificates<a href="https://harfanglab.io/insidethelab/hijackloader-abusing-genuine-certificates/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Hijack Loader Found Abusing Genuine Code-Signing Certificates<a href="https://ha
 Cybersecurity researchers have unveiled a new malware campaign involving Hijack Loader artifacts signed with legitimate code-signing certificates. HarfangLab detected the attack chains aiming to deploy Lumma, an information stealer.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+HarFang Lab
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 16, 2024
+October 16, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CVE-2024-9486 (CVSS 9.8): Kubernetes Image Builder Flaw Exposes VMs to Root Access<a href="https://securityonline.info/cve-2024-9486-cvss-9-8-kubernetes-image-builder-flaw-exposes-vms-to-root-access/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ CVE-2024-9486 (CVSS 9.8): Kubernetes Image Builder Flaw Exposes VMs to Root Acce
 The Kubernetes Security Response Committee reported two vulnerabilities in the Kubernetes Image Builder (CVE-2024-9486 and CVE-2024-9594) that could lead to root access on VMs due to default credentials used during the image build process.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 16, 2024
+October 16, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Linux Variant of FASTCash Malware Helps Steal Money From ATMs<a href="https://www.bleepingcomputer.com/news/security/new-fastcash-malware-linux-variant-helps-steal-money-from-atms/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ New Linux Variant of FASTCash Malware Helps Steal Money From ATMs<a href="https:
 The new Linux variant was submitted to VirusTotal in June 2023 and can evade standard security tools, enabling the hackers to conduct transactions without detection. Additionally, a new Windows version was submitted in September 2024.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 16, 2024
+October 16, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Linux Systems Vulnerable to New ‘noexec’ Bypass Technique: Arbitrary Code Execution Now Possible<a href="https://securityonline.info/linux-systems-vulnerable-to-new-noexec-bypass-technique-arbitrary-code-execution-now-possible/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Linux Systems Vulnerable to New ‘noexec’ Bypass Technique: Arbitrary Code Ex
 The technique involves using Perl, Bash, and PHP scripts to inject shellcode into running processes and load binaries from memory, even on partitions with 'noexec' enabled.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 16, 2024
+October 16, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ErrorFather Campaign Deploys Cerberus Android Banking Trojan to Amplify Cyber Threats<a href="https://cyble.com/blog/hidden-in-plain-sight-errorfathers-deadly-deployment-of-cerberus/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ ErrorFather Campaign Deploys Cerberus Android Banking Trojan to Amplify Cyber Th
 This malware communicates with a Telegram bot and conducts financial fraud through remote attacks, keylogging, and overlay attacks. Despite modifications, ErrorFather is still based on the original Cerberus code.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyble
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

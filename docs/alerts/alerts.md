@@ -7,6 +7,21 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15 2024 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Three Known Exploited Vulnerabilities to Catalog <a href="https://www.cisa.gov/news-events/alerts/2024/10/15/cisa-adds-three-known-exploited-vulnerabilities-catalog?&web_view=true"> Full Text</a>
+</p>
+<details>
+CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.
+
+CVE-2024-30088 Microsoft Windows Kernel TOCTOU Race Condition Vulnerability
+CVE-2024-9680 Mozilla Firefox Use-After-Free Vulnerability
+CVE-2024-28987 SolarWinds Web Help Desk Hardcoded Credential Vulnerability
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 10 2024 - CISA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

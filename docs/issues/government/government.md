@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+October 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Three Vulnerabilities in Windows Kernel, Mozilla Firefox, and SolarWinds Web Help Desk to KEV Catalog<a href="https://www.cisa.gov/news-events/alerts/2024/10/15/cisa-adds-three-known-exploited-vulnerabilities-catalog?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has issued a warning regarding three critical security vulnerabilities affecting various software, including Microsoft Windows, Mozilla Firefox, and SolarWinds Web Help Desk.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 14, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

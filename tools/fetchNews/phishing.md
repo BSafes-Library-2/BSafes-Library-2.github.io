@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+October 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Water Makara Uses Obfuscated JavaScript in Spear Phishing Campaign, Targets Brazil With Astaroth Malware<a href="https://www.trendmicro.com/en_us/research/24/j/water-makara-uses-obfuscated-javascript-in-spear-phishing-campai.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malicious emails contain ZIP files with harmful attachments that use mshta. exe to execute obfuscated JavaScript commands and establish connections to a command and control (C&amp;C) server.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gmail Scam Alert: Hackers Spoof Google to Steal Credentials<a href="https://securityonline.info/gmail-scam-alert-hackers-spoof-google-to-steal-credentials/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security expert Sam Mitrovic recently warned about an advanced AI-driven phishing scheme aimed at Gmail users, including himself. The scheme began with a fake email from Google requesting an account recovery, followed by a fraudulent login page.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 14, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
