@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16 2024 - AI Safety Institute (AISI)
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Systemic AI Safety Grants <a href="https://www.aisi.gov.uk/grants"> Full Text</a>
+</p>
+<details>
+To fully address AI risks, we must consider both the capabilities of AI models and their potential impact on people, society and the systems they interact with.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 15 2024 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

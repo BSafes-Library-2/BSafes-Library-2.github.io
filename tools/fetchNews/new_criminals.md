@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brazil's Polícia Federal Arrested the Notorious Hacker USDoD<a href="https://securityaffairs.com/169914/cyber-crime/brazils-policia-federal-arrested-hacker-usdod.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Brazil's Polícia Federal has arrested hacker USDoD, known for breaches of National Public Data and InfraGard portals. CrowdStrike identified USDoD as Luan BG, a 33-year-old Brazilian man from Minas Gerais.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sri Lankan Police Arrest Over 200 Chinese Scammers<a href="https://www.healthcareinfosecurity.com/sri-lankan-police-arrest-over-200-chinese-scammers-a-26531?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sri Lankan authorities have arrested over 200 Chinese nationals for overstaying their visitor visas and participating in financial scams targeting victims in Asia. Raids led to the arrest of cybercriminals conducting pig-butchering scams.
+</details>
+<div style="text-align: right" markdown="1">
+Healthcare Infosecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 14, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+October 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia's Case Against REvil Hackers Proceeds as Government Recommends 6.5-Year Sentences<a href="https://therecord.media/russia-revil-hackers-case-sentencing?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian military prosecutor's office is seeking prison terms of up to 6.5 years for four individuals associated with the REvil hacking group, known for ransomware attacks. The group was disbanded in 2021, leading to the arrest of 14 suspects.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Charges Two Sudanese Nationals With Running ‘Anonymous Sudan’ Hacking Group<a href="https://www.nextgov.com/cybersecurity/2024/10/us-charges-2-running-anonymous-sudan-hacking-group/400325/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two brothers Ahmed Salah Yousif Omer and Alaa Salah Yusuuf Omer were charged with running the hacking group Anonymous Sudan, responsible for launching 35,000 DDoS attacks worldwide, targeting governments, hospitals, and critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+NextGov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 23, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
