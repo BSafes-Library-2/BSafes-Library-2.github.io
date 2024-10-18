@@ -34,6 +34,150 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hybrid Work Exposes New Vulnerabilities in Print Security<a href="https://www.darkreading.com/vulnerabilities-threats/hybrid-work-vulnerabilities-print-security?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hybrid work models have led to new vulnerabilities in corporate print infrastructure, including insecure and unmanaged printers, inadequate user authentication, exposed local spools, and inconsistent patching practices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brazil's Polícia Federal Arrested the Notorious Hacker USDoD<a href="https://securityaffairs.com/169914/cyber-crime/brazils-policia-federal-arrested-hacker-usdod.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Brazil's Polícia Federal has arrested hacker USDoD, known for breaches of National Public Data and InfraGard portals. CrowdStrike identified USDoD as Luan BG, a 33-year-old Brazilian man from Minas Gerais.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sri Lankan Police Arrest Over 200 Chinese Scammers<a href="https://www.healthcareinfosecurity.com/sri-lankan-police-arrest-over-200-chinese-scammers-a-26531?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sri Lankan authorities have arrested over 200 Chinese nationals for overstaying their visitor visas and participating in financial scams targeting victims in Asia. Raids led to the arrest of cybercriminals conducting pig-butchering scams.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia's Case Against REvil Hackers Proceeds as Government Recommends 6.5-Year Sentences<a href="https://therecord.media/russia-revil-hackers-case-sentencing?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian military prosecutor's office is seeking prison terms of up to 6.5 years for four individuals associated with the REvil hacking group, known for ransomware attacks. The group was disbanded in 2021, leading to the arrest of 14 suspects.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Charges Two Sudanese Nationals With Running ‘Anonymous Sudan’ Hacking Group<a href="https://www.nextgov.com/cybersecurity/2024/10/us-charges-2-running-anonymous-sudan-hacking-group/400325/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two brothers Ahmed Salah Yousif Omer and Alaa Salah Yusuuf Omer were charged with running the hacking group Anonymous Sudan, responsible for launching 35,000 DDoS attacks worldwide, targeting governments, hospitals, and critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Target Ukraine’s Potential Conscripts With MeduzaStealer Malware<a href="https://therecord.media/hackers-target-ukraine-draftees-meduzastealer-malware-telegram?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are targeting potential conscripts in Ukraine with the MeduzaStealer malware, distributed through a Telegram account disguised as a technical support bot for the Reserve+ government app.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nearly 400 US Healthcare Institutions Hit with Ransomware Over Last Year, Microsoft Says<a href="https://therecord.media/ransomware-healthcare-microsoft-last-year?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's annual Digital Defense Report revealed that 389 U.S. healthcare institutions fell victim to ransomware attacks in the last fiscal year, leading to network closures, system shutdowns, and disrupted medical operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Authentication Bypass Vulnerability Patched in Apache Solr<a href="https://securityonline.info/cve-2024-45216-critical-authentication-bypass-vulnerability-patched-in-apache-solr/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2024-45216 affects instances using PKIAuthenticationPlugin, potentially allowing authentication bypass. The second flaw, CVE-2024-45217, involves insecure initialization of ConfigSets during backup restore, enabling remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Government Launches AI Safety Scheme to Tackle Deepfakes<a href="https://www.infosecurity-magazine.com/news/uk-government-launches-ai-safety/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The AI Safety Institute’s Systemic Safety Grants Programme will provide researchers with up to £200,000 to investigate AI threats and potential solutions, particularly in sectors like healthcare and financial services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 16, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
