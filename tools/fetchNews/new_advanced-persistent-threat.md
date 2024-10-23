@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+October 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New China-Nexus APT Group IcePeony Targeting Asian Nations<a href="https://securityonline.info/icepeony-a-new-china-nexus-apt-group-targeting-asian-nations/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IcePeony employs sophisticated attack methods such as SQL injection, webshells, and a unique malware known as "IceCache" to achieve its goals. The group's primary objective seems to be credential theft.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 20, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

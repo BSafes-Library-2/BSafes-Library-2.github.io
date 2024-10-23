@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+October 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Nation-State Hackers APT41 Hit Gambling Sector for Financial Gain<a href="https://thehackernews.com/2024/10/chinese-nation-state-hackers-apt41-hit.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APT41, a Chinese nation-state actor, conducted a cyberattack targeting the gambling and gaming industry. Over six months, they gathered valuable information from a company including network configurations and user passwords.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 17, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

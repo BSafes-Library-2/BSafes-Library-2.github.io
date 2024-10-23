@@ -8,6 +8,76 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oracle WebLogic Flaw That Could Give Attackers Full Control<a href="https://securityonline.info/cve-2024-21216-cvss-9-8-oracle-weblogic-flaw-that-could-give-attackers-full-control/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These vulnerabilities, affecting versions 12.2.1.4.0 and 14.1.1.0.0, have high CVSS scores with CVE-2024-21216 being particularly critical, allowing for a remote system takeover.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw in SICK Products Exposes Systems to Remote Attacks<a href="https://securityonline.info/cve-2024-10025-cvss-9-1-critical-flaw-in-sick-products-exposes-systems-to-remote-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in various SICK products, identified as CVE-2024-10025, poses a significant cybersecurity risk to industries using the company's automation and sensor technologies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw in Synology Camera Firmware Expose Devices to RCE and DoS Attacks<a href="https://securityonline.info/critical-flaw-in-synology-camera-firmware-expose-devices-to-rce-and-dos-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Synology has released a security advisory, Synology-SA-24:17, warning of critical vulnerabilities in its camera firmware products such as Synology Camera BC500, TC500, and CC400W.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical File Read Flaw Discovered in Vendure E-commerce Platform<a href="https://securityonline.info/cve-2024-48914-cvss-9-1-critical-file-read-flaw-discovered-in-vendure-e-commerce-platform/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vendure, a popular open-source headless commerce platform, recently patched a critical security vulnerability (CVE-2024-48914) that allows attackers to read arbitrary files from the server.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Microsoft Windows Flaw PoC Exploit Published, Posing SYSTEM Privilege Threat<a href="https://securityonline.info/microsoft-windows-flaw-cve-2024-30090-poc-exploit-published-posing-system-privilege-threat/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researcher Angelboy (@scwuaptx) from DEVCORE discovered a privilege escalation vulnerability in Microsoft's Kernel Streaming service, labeled as CVE-2024-30090 with a CVSS score of 7.0.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 17, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

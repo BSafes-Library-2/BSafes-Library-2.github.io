@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+October 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hybrid Work Exposes New Vulnerabilities in Print Security<a href="https://www.darkreading.com/vulnerabilities-threats/hybrid-work-vulnerabilities-print-security?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hybrid work models have led to new vulnerabilities in corporate print infrastructure, including insecure and unmanaged printers, inadequate user authentication, exposed local spools, and inconsistent patching practices.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nearly 400 US Healthcare Institutions Hit with Ransomware Over Last Year, Microsoft Says<a href="https://therecord.media/ransomware-healthcare-microsoft-last-year?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's annual Digital Defense Report revealed that 389 U.S. healthcare institutions fell victim to ransomware attacks in the last fiscal year, leading to network closures, system shutdowns, and disrupted medical operations.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 15, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

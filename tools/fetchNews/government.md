@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+October 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Government Launches AI Safety Scheme to Tackle Deepfakes<a href="https://www.infosecurity-magazine.com/news/uk-government-launches-ai-safety/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The AI Safety Institute’s Systemic Safety Grants Programme will provide researchers with up to £200,000 to investigate AI threats and potential solutions, particularly in sectors like healthcare and financial services.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 16, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

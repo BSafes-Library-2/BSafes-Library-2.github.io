@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+October 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beast Ransomware: RaaS Platform Targets Windows, Linux, and VMware ESXi<a href="https://securityonline.info/beast-ransomware-raas-platform-targets-windows-linux-and-vmware-esxi/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybereason recently analyzed the Beast Ransomware, a Ransomware-as-a-Service platform actively targeting organizations since 2022, evolving with new features for Windows, Linux, and VMware ESXi servers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 14, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

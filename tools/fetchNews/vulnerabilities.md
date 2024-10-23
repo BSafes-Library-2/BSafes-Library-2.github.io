@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Authentication Bypass Vulnerability Patched in Apache Solr<a href="https://securityonline.info/cve-2024-45216-critical-authentication-bypass-vulnerability-patched-in-apache-solr/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2024-45216 affects instances using PKIAuthenticationPlugin, potentially allowing authentication bypass. The second flaw, CVE-2024-45217, involves insecure initialization of ConfigSets during backup restore, enabling remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 16, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

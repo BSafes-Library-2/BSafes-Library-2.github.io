@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+October 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bored BeaverTail Yacht Club – A Lazarus Lure<a href="https://www.esentire.com/blog/bored-beavertail-yacht-club-a-lazarus-lure?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+eSentire’s Threat Response Unit (TRU) has uncovered a phishing campaign targeting software developers using a fake NFT project called “Bored BeaverTail Yacht Club” to distribute malware known as BeaverTail.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 15, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
