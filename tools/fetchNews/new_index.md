@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2024
+October 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Nation-State Hackers APT41 Hit Gambling Sector for Financial Gain<a href="https://thehackernews.com/2024/10/chinese-nation-state-hackers-apt41-hit.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APT41, a Chinese nation-state actor, conducted a cyberattack targeting the gambling and gaming industry. Over six months, they gathered valuable information from a company including network configurations and user passwords.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GHOSTPULSE Employs New Pixel-Level Deception to Hide in PNG Files<a href="https://www.elastic.co/security-labs/tricks-and-treats?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Elastic Security Labs has discovered a significant development in the GHOSTPULSE malware family, which now hides its payload within the pixel structure of PNG files to evade detection.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beast Ransomware: RaaS Platform Targets Windows, Linux, and VMware ESXi<a href="https://securityonline.info/beast-ransomware-raas-platform-targets-windows-linux-and-vmware-esxi/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybereason recently analyzed the Beast Ransomware, a Ransomware-as-a-Service platform actively targeting organizations since 2022, evolving with new features for Windows, Linux, and VMware ESXi servers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bored BeaverTail Yacht Club – A Lazarus Lure<a href="https://www.esentire.com/blog/bored-beavertail-yacht-club-a-lazarus-lure?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+eSentire’s Threat Response Unit (TRU) has uncovered a phishing campaign targeting software developers using a fake NFT project called “Bored BeaverTail Yacht Club” to distribute malware known as BeaverTail.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oracle WebLogic Flaw That Could Give Attackers Full Control<a href="https://securityonline.info/cve-2024-21216-cvss-9-8-oracle-weblogic-flaw-that-could-give-attackers-full-control/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These vulnerabilities, affecting versions 12.2.1.4.0 and 14.1.1.0.0, have high CVSS scores with CVE-2024-21216 being particularly critical, allowing for a remote system takeover.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw in SICK Products Exposes Systems to Remote Attacks<a href="https://securityonline.info/cve-2024-10025-cvss-9-1-critical-flaw-in-sick-products-exposes-systems-to-remote-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in various SICK products, identified as CVE-2024-10025, poses a significant cybersecurity risk to industries using the company's automation and sensor technologies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New China-Nexus APT Group IcePeony Targeting Asian Nations<a href="https://securityonline.info/icepeony-a-new-china-nexus-apt-group-targeting-asian-nations/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IcePeony employs sophisticated attack methods such as SQL injection, webshells, and a unique malware known as "IceCache" to achieve its goals. The group's primary objective seems to be credential theft.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw in Synology Camera Firmware Expose Devices to RCE and DoS Attacks<a href="https://securityonline.info/critical-flaw-in-synology-camera-firmware-expose-devices-to-rce-and-dos-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Synology has released a security advisory, Synology-SA-24:17, warning of critical vulnerabilities in its camera firmware products such as Synology Camera BC500, TC500, and CC400W.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical File Read Flaw Discovered in Vendure E-commerce Platform<a href="https://securityonline.info/cve-2024-48914-cvss-9-1-critical-file-read-flaw-discovered-in-vendure-e-commerce-platform/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vendure, a popular open-source headless commerce platform, recently patched a critical security vulnerability (CVE-2024-48914) that allows attackers to read arbitrary files from the server.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Microsoft Windows Flaw PoC Exploit Published, Posing SYSTEM Privilege Threat<a href="https://securityonline.info/microsoft-windows-flaw-cve-2024-30090-poc-exploit-published-posing-system-privilege-threat/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researcher Angelboy (@scwuaptx) from DEVCORE discovered a privilege escalation vulnerability in Microsoft's Kernel Streaming service, labeled as CVE-2024-30090 with a CVSS score of 7.0.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hybrid Work Exposes New Vulnerabilities in Print Security<a href="https://www.darkreading.com/vulnerabilities-threats/hybrid-work-vulnerabilities-print-security?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Hybrid Work Exposes New Vulnerabilities in Print Security<a href="https://www.da
 Hybrid work models have led to new vulnerabilities in corporate print infrastructure, including insecure and unmanaged printers, inadequate user authentication, exposed local spools, and inconsistent patching practices.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2024
+October 17, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Brazil's Polícia Federal Arrested the Notorious Hacker USDoD<a href="https://securityaffairs.com/169914/cyber-crime/brazils-policia-federal-arrested-hacker-usdod.html?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Brazil's Polícia Federal Arrested the Notorious Hacker USDoD<a href="https://se
 Brazil's Polícia Federal has arrested hacker USDoD, known for breaches of National Public Data and InfraGard portals. CrowdStrike identified USDoD as Luan BG, a 33-year-old Brazilian man from Minas Gerais.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2024
+October 17, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sri Lankan Police Arrest Over 200 Chinese Scammers<a href="https://www.healthcareinfosecurity.com/sri-lankan-police-arrest-over-200-chinese-scammers-a-26531?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Sri Lankan Police Arrest Over 200 Chinese Scammers<a href="https://www.healthcar
 Sri Lankan authorities have arrested over 200 Chinese nationals for overstaying their visitor visas and participating in financial scams targeting victims in Asia. Raids led to the arrest of cybercriminals conducting pig-butchering scams.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Healthcare Infosecurity
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2024
+October 17, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia's Case Against REvil Hackers Proceeds as Government Recommends 6.5-Year Sentences<a href="https://therecord.media/russia-revil-hackers-case-sentencing?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Russia's Case Against REvil Hackers Proceeds as Government Recommends 6.5-Year S
 The Russian military prosecutor's office is seeking prison terms of up to 6.5 years for four individuals associated with the REvil hacking group, known for ransomware attacks. The group was disbanded in 2021, leading to the arrest of 14 suspects.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2024
+October 17, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Charges Two Sudanese Nationals With Running ‘Anonymous Sudan’ Hacking Group<a href="https://www.nextgov.com/cybersecurity/2024/10/us-charges-2-running-anonymous-sudan-hacking-group/400325/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ US Charges Two Sudanese Nationals With Running ‘Anonymous Sudan’ Hacking Gro
 Two brothers Ahmed Salah Yousif Omer and Alaa Salah Yusuuf Omer were charged with running the hacking group Anonymous Sudan, responsible for launching 35,000 DDoS attacks worldwide, targeting governments, hospitals, and critical infrastructure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+NextGov
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2024
+October 17, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Target Ukraine’s Potential Conscripts With MeduzaStealer Malware<a href="https://therecord.media/hackers-target-ukraine-draftees-meduzastealer-malware-telegram?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Hackers Target Ukraine’s Potential Conscripts With MeduzaStealer Malware<a hre
 Hackers are targeting potential conscripts in Ukraine with the MeduzaStealer malware, distributed through a Telegram account disguised as a technical support bot for the Reserve+ government app.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2024
+October 17, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nearly 400 US Healthcare Institutions Hit with Ransomware Over Last Year, Microsoft Says<a href="https://therecord.media/ransomware-healthcare-microsoft-last-year?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Nearly 400 US Healthcare Institutions Hit with Ransomware Over Last Year, Micros
 Microsoft's annual Digital Defense Report revealed that 389 U.S. healthcare institutions fell victim to ransomware attacks in the last fiscal year, leading to network closures, system shutdowns, and disrupted medical operations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2024
+October 17, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Authentication Bypass Vulnerability Patched in Apache Solr<a href="https://securityonline.info/cve-2024-45216-critical-authentication-bypass-vulnerability-patched-in-apache-solr/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Critical Authentication Bypass Vulnerability Patched in Apache Solr<a href="http
 CVE-2024-45216 affects instances using PKIAuthenticationPlugin, potentially allowing authentication bypass. The second flaw, CVE-2024-45217, involves insecure initialization of ConfigSets during backup restore, enabling remote code execution.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2024
+October 17, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK Government Launches AI Safety Scheme to Tackle Deepfakes<a href="https://www.infosecurity-magazine.com/news/uk-government-launches-ai-safety/?&web_view=true"> Full Text</a>
@@ -172,7 +332,7 @@ UK Government Launches AI Safety Scheme to Tackle Deepfakes<a href="https://www.
 The AI Safety Institute’s Systemic Safety Grants Programme will provide researchers with up to £200,000 to investigate AI threats and potential solutions, particularly in sectors like healthcare and financial services.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

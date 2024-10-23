@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Nation-State Hackers APT41 Hit Gambling Sector for Financial Gain<a href="https://thehackernews.com/2024/10/chinese-nation-state-hackers-apt41-hit.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APT41, a Chinese nation-state actor, conducted a cyberattack targeting the gambling and gaming industry. Over six months, they gathered valuable information from a company including network configurations and user passwords.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GHOSTPULSE Employs New Pixel-Level Deception to Hide in PNG Files<a href="https://www.elastic.co/security-labs/tricks-and-treats?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Elastic Security Labs has discovered a significant development in the GHOSTPULSE malware family, which now hides its payload within the pixel structure of PNG files to evade detection.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beast Ransomware: RaaS Platform Targets Windows, Linux, and VMware ESXi<a href="https://securityonline.info/beast-ransomware-raas-platform-targets-windows-linux-and-vmware-esxi/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybereason recently analyzed the Beast Ransomware, a Ransomware-as-a-Service platform actively targeting organizations since 2022, evolving with new features for Windows, Linux, and VMware ESXi servers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bored BeaverTail Yacht Club – A Lazarus Lure<a href="https://www.esentire.com/blog/bored-beavertail-yacht-club-a-lazarus-lure?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+eSentire’s Threat Response Unit (TRU) has uncovered a phishing campaign targeting software developers using a fake NFT project called “Bored BeaverTail Yacht Club” to distribute malware known as BeaverTail.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oracle WebLogic Flaw That Could Give Attackers Full Control<a href="https://securityonline.info/cve-2024-21216-cvss-9-8-oracle-weblogic-flaw-that-could-give-attackers-full-control/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These vulnerabilities, affecting versions 12.2.1.4.0 and 14.1.1.0.0, have high CVSS scores with CVE-2024-21216 being particularly critical, allowing for a remote system takeover.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw in SICK Products Exposes Systems to Remote Attacks<a href="https://securityonline.info/cve-2024-10025-cvss-9-1-critical-flaw-in-sick-products-exposes-systems-to-remote-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in various SICK products, identified as CVE-2024-10025, poses a significant cybersecurity risk to industries using the company's automation and sensor technologies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New China-Nexus APT Group IcePeony Targeting Asian Nations<a href="https://securityonline.info/icepeony-a-new-china-nexus-apt-group-targeting-asian-nations/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IcePeony employs sophisticated attack methods such as SQL injection, webshells, and a unique malware known as "IceCache" to achieve its goals. The group's primary objective seems to be credential theft.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw in Synology Camera Firmware Expose Devices to RCE and DoS Attacks<a href="https://securityonline.info/critical-flaw-in-synology-camera-firmware-expose-devices-to-rce-and-dos-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Synology has released a security advisory, Synology-SA-24:17, warning of critical vulnerabilities in its camera firmware products such as Synology Camera BC500, TC500, and CC400W.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical File Read Flaw Discovered in Vendure E-commerce Platform<a href="https://securityonline.info/cve-2024-48914-cvss-9-1-critical-file-read-flaw-discovered-in-vendure-e-commerce-platform/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vendure, a popular open-source headless commerce platform, recently patched a critical security vulnerability (CVE-2024-48914) that allows attackers to read arbitrary files from the server.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Microsoft Windows Flaw PoC Exploit Published, Posing SYSTEM Privilege Threat<a href="https://securityonline.info/microsoft-windows-flaw-cve-2024-30090-poc-exploit-published-posing-system-privilege-threat/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researcher Angelboy (@scwuaptx) from DEVCORE discovered a privilege escalation vulnerability in Microsoft's Kernel Streaming service, labeled as CVE-2024-30090 with a CVSS score of 7.0.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 17, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
