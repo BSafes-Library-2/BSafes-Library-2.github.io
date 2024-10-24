@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+October 23, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds ScienceLogic SL1 Vulnerability to Exploited Catalog After Active Zero-Day Attack<a href="https://thehackernews.com/2024/10/cisa-adds-sciencelogic-sl1.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, known as CVE-2024-9537, allows remote code execution due to a bug in a third-party component. Versions 12.1.3, 12.2.3, and 12.3 have been patched, along with versions 10.1.x, 10.2.x, 11.1.x, 11.2.x, and 11.3.x.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 17, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

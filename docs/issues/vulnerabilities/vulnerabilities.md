@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 23, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Releases vCenter Server Update to Fix Critical RCE Vulnerability<a href="https://thehackernews.com/2024/10/vmware-releases-vcenter-server-update.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has released software updates to address a security flaw in the vCenter Server, known as CVE-2024-38812, with a CVSS score of 9.8. The vulnerability involves a heap overflow issue in the DCE/RPC protocol implementation.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 23, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet Releases Patches for Undisclosed Critical FortiManager Vulnerability<a href="https://www.helpnetsecurity.com/2024/10/21/fortimanager-critical-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet has issued critical security updates for FortiManager to address a vulnerability exploited by Chinese threat actors. The company privately informed select customers of the issue and provided temporary mitigation advice.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 22, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+October 23, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Target Exposed Docker Remote API Servers With perfctl Malware<a href="https://www.trendmicro.com/en_us/research/24/j/attackers-target-exposed-docker-remote-api-servers-with-perfctl-.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack sequence starts with probing the Docker Remote API server by pinging it, creating a container with specific settings, and executing payloads using the Docker Exec API.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 22, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

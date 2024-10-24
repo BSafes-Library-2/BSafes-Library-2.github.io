@@ -34,6 +34,150 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unmasking Lumma Stealer: Analyzing Deceptive Tactics with Fake CAPTCHA<a href="https://blog.qualys.com/vulnerabilities-threat-research/2024/10/20/unmasking-lumma-stealer-analyzing-deceptive-tactics-with-fake-captcha?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware's execution relies on legitimate tools like PowerShell and mshta.exe. Once the fake CAPTCHA is clicked, a Base64-encoded PowerShell script is copied to the clipboard, triggering the download of a stager file.
+</details>
+<div style="text-align: right" markdown="1">
+Qualys
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Releases vCenter Server Update to Fix Critical RCE Vulnerability<a href="https://thehackernews.com/2024/10/vmware-releases-vcenter-server-update.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has released software updates to address a security flaw in the vCenter Server, known as CVE-2024-38812, with a CVSS score of 9.8. The vulnerability involves a heap overflow issue in the DCE/RPC protocol implementation.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet Releases Patches for Undisclosed Critical FortiManager Vulnerability<a href="https://www.helpnetsecurity.com/2024/10/21/fortimanager-critical-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet has issued critical security updates for FortiManager to address a vulnerability exploited by Chinese threat actors. The company privately informed select customers of the issue and provided temporary mitigation advice.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds ScienceLogic SL1 Vulnerability to Exploited Catalog After Active Zero-Day Attack<a href="https://thehackernews.com/2024/10/cisa-adds-sciencelogic-sl1.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, known as CVE-2024-9537, allows remote code execution due to a bug in a third-party component. Versions 12.1.3, 12.2.3, and 12.3 have been patched, along with versions 10.1.x, 10.2.x, 11.1.x, 11.2.x, and 11.3.x.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Early Cascade Injection Technique Enables Windows Process Creation and Stealthy Injection<a href="https://www.outflank.nl/blog/2024/10/15/introducing-early-cascade-injection-from-windows-process-creation-to-stealthy-injection/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researcher Guido Miggelenbrink from Outflank has introduced a new process injection method called Early Cascade Injection. This technique adds sophistication to evading Endpoint Detection and Response (EDR) systems, challenging even top-tier EDRs.
+</details>
+<div style="text-align: right" markdown="1">
+Outflank
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Target Exposed Docker Remote API Servers With perfctl Malware<a href="https://www.trendmicro.com/en_us/research/24/j/attackers-target-exposed-docker-remote-api-servers-with-perfctl-.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack sequence starts with probing the Docker Remote API server by pinging it, creating a container with specific settings, and executing payloads using the Docker Exec API.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VOIDMAW: A New Bypass Technique for Memory Scanners<a href="https://securityonline.info/voidmaw-a-new-bypass-technique-for-memory-scanners/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VOIDMAW is an innovative memory scanning bypass technique utilized by attackers to evade antivirus software. It can run non-. NET executables and supports multithreaded payloads, making it a potent tool for attackers.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake WordPress Plugins on 6,000 Sites Prompt Users to Install Malware<a href="https://thecyberexpress.com/fake-wordpress-plugins-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware campaign is based on ClickFix fake browser update malware and has infected over 6,000 sites since June 2024, totaling over 25,000 sites since August 2023. The hackers are using stolen credentials to install the bogus plugins.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Report Possible Bumblebee Loader Resurgence<a href="https://www.infosecurity-magazine.com/news/possible-bumblebee-resurgence/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Bumblebee loader resurfaced following the disruption of Operation Endgame in May 2024. Netskope Threat Labs identified a new infection chain employing Bumblebee malware, marking its return since the operation that targeted major malware botnets.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 22, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -44,7 +188,7 @@ Chinese Nation-State Hackers APT41 Hit Gambling Sector for Financial Gain<a href
 APT41, a Chinese nation-state actor, conducted a cyberattack targeting the gambling and gaming industry. Over six months, they gathered valuable information from a company including network configurations and user passwords.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -60,7 +204,7 @@ GHOSTPULSE Employs New Pixel-Level Deception to Hide in PNG Files<a href="https:
 Elastic Security Labs has discovered a significant development in the GHOSTPULSE malware family, which now hides its payload within the pixel structure of PNG files to evade detection.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Elastic
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -76,7 +220,7 @@ Beast Ransomware: RaaS Platform Targets Windows, Linux, and VMware ESXi<a href="
 Cybereason recently analyzed the Beast Ransomware, a Ransomware-as-a-Service platform actively targeting organizations since 2022, evolving with new features for Windows, Linux, and VMware ESXi servers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -92,7 +236,7 @@ Bored BeaverTail Yacht Club – A Lazarus Lure<a href="https://www.esentire.com/
 eSentire’s Threat Response Unit (TRU) has uncovered a phishing campaign targeting software developers using a fake NFT project called “Bored BeaverTail Yacht Club” to distribute malware known as BeaverTail.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Esentire
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -108,7 +252,7 @@ Oracle WebLogic Flaw That Could Give Attackers Full Control<a href="https://secu
 These vulnerabilities, affecting versions 12.2.1.4.0 and 14.1.1.0.0, have high CVSS scores with CVE-2024-21216 being particularly critical, allowing for a remote system takeover.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -124,7 +268,7 @@ Critical Flaw in SICK Products Exposes Systems to Remote Attacks<a href="https:/
 A critical vulnerability in various SICK products, identified as CVE-2024-10025, poses a significant cybersecurity risk to industries using the company's automation and sensor technologies.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -140,7 +284,7 @@ New China-Nexus APT Group IcePeony Targeting Asian Nations<a href="https://secur
 IcePeony employs sophisticated attack methods such as SQL injection, webshells, and a unique malware known as "IceCache" to achieve its goals. The group's primary objective seems to be credential theft.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -156,7 +300,7 @@ Critical Flaw in Synology Camera Firmware Expose Devices to RCE and DoS Attacks<
 Synology has released a security advisory, Synology-SA-24:17, warning of critical vulnerabilities in its camera firmware products such as Synology Camera BC500, TC500, and CC400W.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -172,7 +316,7 @@ Critical File Read Flaw Discovered in Vendure E-commerce Platform<a href="https:
 Vendure, a popular open-source headless commerce platform, recently patched a critical security vulnerability (CVE-2024-48914) that allows attackers to read arbitrary files from the server.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -188,7 +332,7 @@ Update: Microsoft Windows Flaw PoC Exploit Published, Posing SYSTEM Privilege Th
 Security researcher Angelboy (@scwuaptx) from DEVCORE discovered a privilege escalation vulnerability in Microsoft's Kernel Streaming service, labeled as CVE-2024-30090 with a CVSS score of 7.0.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
