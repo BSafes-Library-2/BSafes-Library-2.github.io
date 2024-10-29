@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia's APT29 Mimics AWS to Steal Windows Credentials<a href="https://www.darkreading.com/cyberattacks-data-breaches/russias-apt29-aws-windows-credentials?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent campaign by APT29 involved sending emails from fake Amazon Web Services (AWS) domains to trick recipients into opening malicious attachments containing configuration files for Remote Desktop.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Flaw in VMware vCenter Revealed<a href="https://securityonline.info/researcher-details-cve-2024-38812-cvss-9-8-critical-rce-flaw-in-vmware-vcenter/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This vulnerability, classified as CWE-122 (Heap-based Buffer Overflow), allows attackers to exploit memory handling in the DCERPC protocol and potentially execute remote code.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Windows Driver Signature Bypass Allows Kernel Rootkit Installs<a href="https://www.bleepingcomputer.com/news/security/new-windows-driver-signature-bypass-allows-kernel-rootkit-installs/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers can downgrade Windows kernel components to bypass security features such as Driver Signature Enforcement and deploy rootkits on fully patched systems by taking control of the Windows Update process.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HeptaX Cyberespionage Campaign Snoops Through Unauthorized RDP Connections<a href="https://thecyberexpress.com/heptax-cyberattack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers heavily rely on PowerShell and BAT scripts to download additional payloads and create an administrative user account on compromised systems, lowering authentication barriers for unauthorized remote access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RKE2 Flaw Exposes Windows Nodes to Privilege Escalation<a href="https://securityonline.info/cve-2023-32197-rke2-flaw-exposes-windows-nodes-privilege-escalation/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical security flaw, CVE-2023-32197, has been discovered in RKE2, affecting Windows nodes and allowing unauthorized access to sensitive files. This vulnerability, rated 9.1 on the CVSS scale, poses a privilege escalation risk.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Notorious Hacker Group TeamTNT Launches New Cloud Attacks for Crypto Mining<a href="https://www.aquasec.com/blog/threat-alert-teamtnts-docker-gatling-gun-campaign/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The TeamTNT cryptojacking group is preparing for a new large-scale campaign targeting cloud-native environments to mine cryptocurrencies and rent out breached servers to third parties.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine Warns of Mass Phishing Campaign Targeting Citizens Data<a href="https://www.infosecurity-magazine.com/news/ukraine-phishing-campaign-citizens/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers, identified as UAC-0218, send phishing links disguised as bills or payment details, which actually contain malware designed to steal data from victims' devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsUp Gold Users Beware: Critical Authentication Bypass Flaw Exposed<a href="https://securityonline.info/whatsup-gold-users-beware-critical-authentication-bypass-flaw-exposed-cve-2024-7763-cvss-9-8/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Progress Software has disclosed a severe vulnerability in WhatsUp Gold, a network monitoring solution, exposing organizations to cyberattacks by allowing unauthorized access to user credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Basta Ransomware Poses as IT Support on Microsoft Teams to Breach Networks<a href="https://www.bleepingcomputer.com/news/security/black-basta-ransomware-poses-as-it-support-on-microsoft-teams-to-breach-networks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a recent campaign observed by Rapid7 and ReliaQuest, Black Basta flooded employees' inboxes with emails and then contacted them through Microsoft Teams, posing as corporate help desks to assist with spam issues.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Discover Command Injection Flaw in Wi-Fi Alliance's Test Suite<a href="https://thehackernews.com/2024/10/researchers-discover-command-injection.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security flaw in the Wi-Fi Test Suite could allow unauthenticated local attackers to run arbitrary code with elevated privileges. The vulnerability, known as CVE-2024-41992, affects Arcadyan FMIMG51AX000J routers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 23, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
