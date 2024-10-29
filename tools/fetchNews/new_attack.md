@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+October 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HeptaX Cyberespionage Campaign Snoops Through Unauthorized RDP Connections<a href="https://thecyberexpress.com/heptax-cyberattack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers heavily rely on PowerShell and BAT scripts to download additional payloads and create an administrative user account on compromised systems, lowering authentication barriers for unauthorized remote access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 23, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

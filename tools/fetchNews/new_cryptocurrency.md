@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+October 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Notorious Hacker Group TeamTNT Launches New Cloud Attacks for Crypto Mining<a href="https://www.aquasec.com/blog/threat-alert-teamtnts-docker-gatling-gun-campaign/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The TeamTNT cryptojacking group is preparing for a new large-scale campaign targeting cloud-native environments to mine cryptocurrencies and rent out breached servers to third parties.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 23, 2024 <br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
