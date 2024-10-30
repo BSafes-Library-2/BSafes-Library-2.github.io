@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+October 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia's APT29 Mimics AWS to Steal Windows Credentials<a href="https://www.darkreading.com/cyberattacks-data-breaches/russias-apt29-aws-windows-credentials?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent campaign by APT29 involved sending emails from fake Amazon Web Services (AWS) domains to trick recipients into opening malicious attachments containing configuration files for Remote Desktop.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 22, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

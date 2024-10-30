@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+October 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Four REvil Members Sentenced to More Than Four Years in Prison<a href="https://therecord.media/four-revil-ransomware-gang-members-sentenced-prison-russia?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Artem Zayets and Alexey Malozemov received four-and-a-half and five years, respectively, while Daniil Puzyrevsky and Ruslan Khansvyarov got five-and-a-half and six years in prison each.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 17, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

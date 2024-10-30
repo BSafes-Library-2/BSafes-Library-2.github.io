@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+October 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Basta Ransomware Poses as IT Support on Microsoft Teams to Breach Networks<a href="https://www.bleepingcomputer.com/news/security/black-basta-ransomware-poses-as-it-support-on-microsoft-teams-to-breach-networks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a recent campaign observed by Rapid7 and ReliaQuest, Black Basta flooded employees' inboxes with emails and then contacted them through Microsoft Teams, posing as corporate help desks to assist with spam issues.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 22, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

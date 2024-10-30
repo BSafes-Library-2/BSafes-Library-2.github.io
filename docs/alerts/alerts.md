@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22 2024 - White House 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Doubling Down on Trusted Partnerships: Our Commitment to Researchers <a href="https://www.whitehouse.gov/oncd/briefing-room/2024/10/22/doubling-down-on-trusted-partnerships-our-commitment-to-researchers/"> Full Text</a>
+</p>
+<details>
+The cybersecurity threat environment is constantly evolving. It is more complex than ever before. Keeping ahead of the bad actors requires collective effort, built on trusted partnership.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 21 2024 - CISA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

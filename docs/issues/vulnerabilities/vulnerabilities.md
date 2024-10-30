@@ -8,6 +8,76 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC Exploit Released for 9.9-Rated Critical Grafana Vulnerability<a href="https://securityonline.info/grafana-vulnerability-cve-2024-9264-poc-released-for-9-9-rated-critical-flaw/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This vulnerability affects Grafana versions 11.0.x, 11.1.x, and 11.2.x, with a CVSS score of 9. 9, allowing attackers with 'viewer' permissions to exploit the SQL expressions feature.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Xlight FTP Server Flaw Leaves Users Exposed to Remote Attacks, PoC Published<a href="https://securityonline.info/cve-2024-46483-cvss-9-8-xlight-ftp-server-flaw-leaves-users-exposed-to-remote-attacks-poc-published/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This vulnerability, identified as CVE-2024-46483, allows unauthenticated attackers to execute remote code or trigger denial of service due to a pre-authentication heap overflow issue.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CLFS Flaw in Windows 11 Allows for Privilege Escalation, PoC Published<a href="https://securityonline.info/clfs-flaw-in-windows-11-allows-for-privilege-escalation-poc-published/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The issue is in the CClfsBaseFilePersisted::WriteMetadataBlock function, related to an unverified return value in ClfsDecodeBlock, leading to potential data corruption in CLFS, and a way for privilege escalation.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Synology Fixes Critical Vulnerabilities in Synology Photos and BeePhotos After Pwn2Own Exposure<a href="https://securityonline.info/synology-fixes-critical-vulnerabilities-in-synology-photos-and-beephotos-after-pwn2own-exposure/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Synology has released security updates to patch critical vulnerabilities in Synology Photos and BeePhotos, its photo management applications for network-attached storage (NAS) and personal cloud storage devices.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Research Reveals Spectre Vulnerability Persists in Latest AMD and Intel Processors<a href="https://thehackernews.com/2024/10/new-research-reveals-spectre.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research has revealed that both AMD and Intel processors are still vulnerable to speculative execution attacks, such as the Spectre security flaw discovered over six years ago.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 28, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 29, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Use Webflow to Deceive Users into Sharing Sensitive Login Credentials<a href="https://thehackernews.com/2024/10/cybercriminals-use-webflow-to-deceive.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Netskope Threat Labs reported a ten-fold increase in traffic to phishing pages created with Webflow between April and September 2024, affecting over 120 organizations worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 29, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC Exploit Released for 9.9-Rated Critical Grafana Vulnerability<a href="https://securityonline.info/grafana-vulnerability-cve-2024-9264-poc-released-for-9-9-rated-critical-flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This vulnerability affects Grafana versions 11.0.x, 11.1.x, and 11.2.x, with a CVSS score of 9. 9, allowing attackers with 'viewer' permissions to exploit the SQL expressions feature.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 29, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Government Issues New TLP Guidance for Cross-Sector Threat Intelligence Sharing<a href="https://thehackernews.com/2024/10/us-government-issues-new-tlp-guidance.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government follows Traffic Light Protocol (TLP) markings voluntarily on cybersecurity information to build trust in data handling for collaboration with partners.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 29, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Xlight FTP Server Flaw Leaves Users Exposed to Remote Attacks, PoC Published<a href="https://securityonline.info/cve-2024-46483-cvss-9-8-xlight-ftp-server-flaw-leaves-users-exposed-to-remote-attacks-poc-published/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This vulnerability, identified as CVE-2024-46483, allows unauthenticated attackers to execute remote code or trigger denial of service due to a pre-authentication heap overflow issue.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 29, 2024 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evasive Panda Using New CloudScout Toolset to Steal Data From Google Drive, Gmail, and Outlook<a href="https://www.welivesecurity.com/en/eset-research/cloudscout-evasive-panda-scouting-cloud-services/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A toolset called CloudScout developed by the APT group Evasive Panda is targeting Taiwanese institutions to extract cloud-based data. The attacks, discovered by ESET, exploit session cookies stolen by MgBot plugins to access cloud services.
+</details>
+<div style="text-align: right" markdown="1">
+WeLiveSecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 29, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CLFS Flaw in Windows 11 Allows for Privilege Escalation, PoC Published<a href="https://securityonline.info/clfs-flaw-in-windows-11-allows-for-privilege-escalation-poc-published/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The issue is in the CClfsBaseFilePersisted::WriteMetadataBlock function, related to an unverified return value in ClfsDecodeBlock, leading to potential data corruption in CLFS, and a way for privilege escalation.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 29, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia Targets Ukrainian Military via Spoofed Recruitment App<a href="https://www.darkreading.com/threat-intelligence/russia-kneecaps-ukraine-army-recruitment-spoofed-civil-defense-app?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Google's Threat Intelligence Group (TAG) and Mandiant have identified a campaign named UNC5812 that uses a fake version of the "Civil Defense" tool to drop malware and spread misinformation.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 29, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Synology Fixes Critical Vulnerabilities in Synology Photos and BeePhotos After Pwn2Own Exposure<a href="https://securityonline.info/synology-fixes-critical-vulnerabilities-in-synology-photos-and-beephotos-after-pwn2own-exposure/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Synology has released security updates to patch critical vulnerabilities in Synology Photos and BeePhotos, its photo management applications for network-attached storage (NAS) and personal cloud storage devices.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 29, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Research Reveals Spectre Vulnerability Persists in Latest AMD and Intel Processors<a href="https://thehackernews.com/2024/10/new-research-reveals-spectre.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research has revealed that both AMD and Intel processors are still vulnerable to speculative execution attacks, such as the Spectre security flaw discovered over six years ago.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 29, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Four REvil Members Sentenced to More Than Four Years in Prison<a href="https://therecord.media/four-revil-ransomware-gang-members-sentenced-prison-russia?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Artem Zayets and Alexey Malozemov received four-and-a-half and five years, respectively, while Daniil Puzyrevsky and Ruslan Khansvyarov got five-and-a-half and six years in prison each.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 28, 2024 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -44,7 +204,7 @@ Russia's APT29 Mimics AWS to Steal Windows Credentials<a href="https://www.darkr
 A recent campaign by APT29 involved sending emails from fake Amazon Web Services (AWS) domains to trick recipients into opening malicious attachments containing configuration files for Remote Desktop.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -60,7 +220,7 @@ Critical RCE Flaw in VMware vCenter Revealed<a href="https://securityonline.info
 This vulnerability, classified as CWE-122 (Heap-based Buffer Overflow), allows attackers to exploit memory handling in the DCERPC protocol and potentially execute remote code.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -76,7 +236,7 @@ New Windows Driver Signature Bypass Allows Kernel Rootkit Installs<a href="https
 Attackers can downgrade Windows kernel components to bypass security features such as Driver Signature Enforcement and deploy rootkits on fully patched systems by taking control of the Windows Update process.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -92,7 +252,7 @@ HeptaX Cyberespionage Campaign Snoops Through Unauthorized RDP Connections<a hre
 The attackers heavily rely on PowerShell and BAT scripts to download additional payloads and create an administrative user account on compromised systems, lowering authentication barriers for unauthorized remote access.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -108,7 +268,7 @@ Critical RKE2 Flaw Exposes Windows Nodes to Privilege Escalation<a href="https:/
 A critical security flaw, CVE-2023-32197, has been discovered in RKE2, affecting Windows nodes and allowing unauthorized access to sensitive files. This vulnerability, rated 9.1 on the CVSS scale, poses a privilege escalation risk.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -124,7 +284,7 @@ Notorious Hacker Group TeamTNT Launches New Cloud Attacks for Crypto Mining<a hr
 The TeamTNT cryptojacking group is preparing for a new large-scale campaign targeting cloud-native environments to mine cryptocurrencies and rent out breached servers to third parties.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Aqua
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -140,7 +300,7 @@ Ukraine Warns of Mass Phishing Campaign Targeting Citizens Data<a href="https://
 The attackers, identified as UAC-0218, send phishing links disguised as bills or payment details, which actually contain malware designed to steal data from victims' devices.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -156,7 +316,7 @@ WhatsUp Gold Users Beware: Critical Authentication Bypass Flaw Exposed<a href="h
 Progress Software has disclosed a severe vulnerability in WhatsUp Gold, a network monitoring solution, exposing organizations to cyberattacks by allowing unauthorized access to user credentials.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -172,7 +332,7 @@ Black Basta Ransomware Poses as IT Support on Microsoft Teams to Breach Networks
 In a recent campaign observed by Rapid7 and ReliaQuest, Black Basta flooded employees' inboxes with emails and then contacted them through Microsoft Teams, posing as corporate help desks to assist with spam issues.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -188,7 +348,7 @@ Researchers Discover Command Injection Flaw in Wi-Fi Alliance's Test Suite<a hre
 A security flaw in the Wi-Fi Test Suite could allow unauthenticated local attackers to run arbitrary code with elevated privileges. The vulnerability, known as CVE-2024-41992, affects Arcadyan FMIMG51AX000J routers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

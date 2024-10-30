@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+October 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Use Webflow to Deceive Users into Sharing Sensitive Login Credentials<a href="https://thehackernews.com/2024/10/cybercriminals-use-webflow-to-deceive.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Netskope Threat Labs reported a ten-fold increase in traffic to phishing pages created with Webflow between April and September 2024, affecting over 120 organizations worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 28, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
