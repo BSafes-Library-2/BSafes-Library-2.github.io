@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+October 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia Targets Ukrainian Military via Spoofed Recruitment App<a href="https://www.darkreading.com/threat-intelligence/russia-kneecaps-ukraine-army-recruitment-spoofed-civil-defense-app?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Google's Threat Intelligence Group (TAG) and Mandiant have identified a campaign named UNC5812 that uses a fake version of the "Civil Defense" tool to drop malware and spread misinformation.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 28, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+October 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evasive Panda Using New CloudScout Toolset to Steal Data From Google Drive, Gmail, and Outlook<a href="https://www.welivesecurity.com/en/eset-research/cloudscout-evasive-panda-scouting-cloud-services/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A toolset called CloudScout developed by the APT group Evasive Panda is targeting Taiwanese institutions to extract cloud-based data. The attacks, discovered by ESET, exploit session cookies stolen by MgBot plugins to access cloud services.
+</details>
+<div style="text-align: right" markdown="1">
+WeLiveSecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 28, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

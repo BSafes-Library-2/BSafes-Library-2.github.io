@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+October 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zenity Raises $38 Million Series B to Protect AI Copilots From Cyber Threats<a href="https://www.calcalistech.com/ctechnews/article/syfo5ial1e?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zenity, an Israeli startup specializing in securing AI copilots, raised $38 million in a Series B funding round led by Third Point Ventures and DTCP, with support from Microsoft’s M12 fund, Intel Capital, UpWest, and Vertex Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Calcalist
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Proofpoint Expands Data Security With Normalyze Acquisition<a href="https://www.bankinfosecurity.com/proofpoint-expands-data-security-normalyze-acquisition-a-26669?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Email security vendor Proofpoint has acquired Normalyze, a data security posture management startup, to address the growing security challenges tied to human error within complex data ecosystems.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Infosecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 14, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

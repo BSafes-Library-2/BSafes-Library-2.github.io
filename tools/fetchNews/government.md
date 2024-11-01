@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+October 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Government Issues New TLP Guidance for Cross-Sector Threat Intelligence Sharing<a href="https://thehackernews.com/2024/10/us-government-issues-new-tlp-guidance.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government follows Traffic Light Protocol (TLP) markings voluntarily on cybersecurity information to build trust in data handling for collaboration with partners.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 23, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

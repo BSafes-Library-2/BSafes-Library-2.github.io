@@ -8,6 +8,76 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 31, 2024  <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'CrossBarking' Attack Exposes Opera Browser Users via Private APIs<a href="https://www.darkreading.com/vulnerabilities-threats/crossbarking-attack-secret-apis-expose-opera-browser-users?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Guardio researchers demonstrated how hackers could exploit private APIs in Opera browser, gaining the ability to manipulate settings, hijack accounts, disable security extensions, add malicious extensions, and more.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 31, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Vulnerabilities in Open-Source AI and ML Models<a href="https://thehackernews.com/2024/10/researchers-uncover-vulnerabilities-in.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Around three dozen security vulnerabilities have been uncovered in various open-source artificial intelligence (AI) and machine learning (ML) models, some of which pose risks of remote code execution and data theft.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 31, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ChatGPT can be Manipulated Using Hexadecimal Encoding<a href="https://www.darkreading.com/application-security/chatgpt-manipulated-hex-code?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This technique leverages the model's ability to process multiple input formats and its focus on step-by-step instructions. By encoding malicious instructions in hexadecimal format, the model is tricked into decoding and executing them.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attacker Abuses Victim Resources to Reap Rewards from Titan Network<a href="https://www.trendmicro.com/en_us/research/24/j/titan-network.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro researchers observed an attacker exploiting the Atlassian Confluence vulnerability CVE-2023-22527 to achieve remote code execution for cryptomining via the Titan Network.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Windows Themes Zero-Day Gets Free, Unofficial Patches<a href="https://www.bleepingcomputer.com/news/security/new-windows-themes-zero-day-gets-free-unofficial-patches/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ACROS Security researchers found the new zero-day flaw while developing a micropatch for a security issue, which could leak user credentials, bypassing another Windows Themes spoofing vulnerability patched by Microsoft in January.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

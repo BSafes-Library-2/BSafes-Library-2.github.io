@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+October 31, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive PSAUX Ransomware Attack Targets 22,000 CyberPanel Instances<a href="https://www.bleepingcomputer.com/news/security/massive-psaux-ransomware-attack-targets-22-000-cyberpanel-instances/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LeakIX reported over 21,000 vulnerable CyberPanel instances exposed online, mainly in the U.S. Overnight, cybercriminals likely exploited these servers, installing the PSAUX ransomware to drastically reduce the number of exposed instances.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
