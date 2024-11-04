@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 31, 2024
+November 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LiteSpeed Cache Plugin Vulnerability Poses Admin Access Risk<a href="https://www.infosecurity-magazine.com/news/litespeed-cache-plugin-flaw-admin/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in the LiteSpeed Cache plugin for WordPress allows unauthorized users to gain administrator-level access, potentially leading to the installation of malicious plugins.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US and Israel Warn of Iranian Threat Actor’s New Tradecraft<a href="https://www.infosecurity-magazine.com/news/us-israel-iran-new-tradecraft/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The advisory highlighted new tactics used by Cotton Sandstorm, including new infrastructure tradecraft, harvesting open-source information, and incorporating generative AI in its operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Gain Domain Access via Microsoft SharePoint Server Exploit<a href="https://securityonline.info/cve-2024-38094-exploited-attackers-gain-domain-access-via-microsoft-sharepoint-server/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent report by Rapid7 detailed a significant compromise of a Microsoft SharePoint server, resulting in complete domain access for an attacker who utilized various sophisticated techniques.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malvertising Campaign Hijacks Facebook Accounts to Spread SYS01stealer Malware<a href="https://thehackernews.com/2024/10/malvertising-campaign-hijacks-facebook.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware is distributed through malvertising on platforms like Facebook, YouTube, and LinkedIn, targeting men aged 45 and above with enticing ads to steal browser data. Victims are lured to deceptive sites impersonating legitimate brands.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hikvision Patches Security Flaw in Network Cameras, Preventing Cleartext Credential Transmission<a href="https://securityonline.info/hikvision-patches-security-flaw-in-network-cameras-preventing-cleartext-credential-transmission/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hikvision, a prominent provider of network cameras and surveillance systems, has recently issued firmware updates to rectify a security flaw that could compromise users’ Dynamic DNS credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android Malware FakeCall Now Reroutes Bank Calls to Attackers<a href="https://www.bleepingcomputer.com/news/security/android-malware-fakecall-now-reroutes-bank-calls-to-attackers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Beyond voice phishing, FakeCall can capture live audio and video streams from compromised devices without user interaction. The new variant manipulates outgoing calls by setting itself as the default call handler, intercepting and redirecting calls.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+18-Year-Old Bug in X.Org Server Leaves Systems Vulnerable to Attack<a href="https://securityonline.info/cve-2024-9632-18-year-old-bug-in-x-org-server-leaves-systems-vulnerable-to-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical flaw was unearthed in the X.Org Server after being present in the codebase for 18 years. The vulnerability lies in the _XkbSetCompatMap() function, allowing attackers to seize control of affected systems through a buffer overflow attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Abstract Security Raises $15M in Series A Funding<a href="https://www.finsmes.com/2024/10/abstract-security-raises-15m-in-series-a-funding.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series A round was led by Munich Re Ventures, with participation from existing investors Crosslink Capital and Rally Ventures. The company intends to use the funds to continue its growth trajectory and expand its reach in the industry.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Releases Its First Ever International Strategic Plan<a href="https://www.cisa.gov/news-events/news/cisa-releases-its-first-ever-international-strategic-plan?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) has released its first international strategic plan to enhance collaboration in combating cyber threats to critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerability Patched in Waitress WSGI Server<a href="https://securityonline.info/critical-vulnerability-in-waitress-wsgi-server-cve-2024-49768-what-you-need-to-know/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Pylons Project has issued a crucial security advisory regarding a vulnerability in the Waitress WSGI server, identified as CVE-2024-49768 with a CVSS score of 9.1. This flaw poses a significant threat to applications utilizing Waitress.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2024  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 'CrossBarking' Attack Exposes Opera Browser Users via Private APIs<a href="https://www.darkreading.com/vulnerabilities-threats/crossbarking-attack-secret-apis-expose-opera-browser-users?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ October 31, 2024
 Guardio researchers demonstrated how hackers could exploit private APIs in Opera browser, gaining the ability to manipulate settings, hijack accounts, disable security extensions, add malicious extensions, and more.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 31, 2024
+October 31, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover Vulnerabilities in Open-Source AI and ML Models<a href="https://thehackernews.com/2024/10/researchers-uncover-vulnerabilities-in.html?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Researchers Uncover Vulnerabilities in Open-Source AI and ML Models<a href="http
 Around three dozen security vulnerabilities have been uncovered in various open-source artificial intelligence (AI) and machine learning (ML) models, some of which pose risks of remote code execution and data theft.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 31, 2024
+October 31, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chenlun’s Evolving Phishing Tactics Target Trusted Brands<a href="https://www.infosecurity-magazine.com/news/chenluns-phishing-tactics-target/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Chenlun’s Evolving Phishing Tactics Target Trusted Brands<a href="https://www.
 The newest wave of phishing, observed on October 18, 2024, involves messages alarming users about suspicious account activity and directing them to verify accounts through malicious links.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 31, 2024
+October 31, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ChatGPT can be Manipulated Using Hexadecimal Encoding<a href="https://www.darkreading.com/application-security/chatgpt-manipulated-hex-code?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ ChatGPT can be Manipulated Using Hexadecimal Encoding<a href="https://www.darkre
 This technique leverages the model's ability to process multiple input formats and its focus on step-by-step instructions. By encoding malicious instructions in hexadecimal format, the model is tricked into decoding and executing them.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 31, 2024
+October 31, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Massive PSAUX Ransomware Attack Targets 22,000 CyberPanel Instances<a href="https://www.bleepingcomputer.com/news/security/massive-psaux-ransomware-attack-targets-22-000-cyberpanel-instances/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Massive PSAUX Ransomware Attack Targets 22,000 CyberPanel Instances<a href="http
 LeakIX reported over 21,000 vulnerable CyberPanel instances exposed online, mainly in the U.S. Overnight, cybercriminals likely exploited these servers, installing the PSAUX ransomware to drastically reduce the number of exposed instances.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 30, 2024
+October 30, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zenity Raises $38 Million Series B to Protect AI Copilots From Cyber Threats<a href="https://www.calcalistech.com/ctechnews/article/syfo5ial1e?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Zenity Raises $38 Million Series B to Protect AI Copilots From Cyber Threats<a h
 Zenity, an Israeli startup specializing in securing AI copilots, raised $38 million in a Series B funding round led by Third Point Ventures and DTCP, with support from Microsoft’s M12 fund, Intel Capital, UpWest, and Vertex Ventures.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Calcalist
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 30, 2024
+October 30, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Proofpoint Expands Data Security With Normalyze Acquisition<a href="https://www.bankinfosecurity.com/proofpoint-expands-data-security-normalyze-acquisition-a-26669?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Proofpoint Expands Data Security With Normalyze Acquisition<a href="https://www.
 Email security vendor Proofpoint has acquired Normalyze, a data security posture management startup, to address the growing security challenges tied to human error within complex data ecosystems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Infosecurity
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 30, 2024
+October 30, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attacker Abuses Victim Resources to Reap Rewards from Titan Network<a href="https://www.trendmicro.com/en_us/research/24/j/titan-network.html?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Attacker Abuses Victim Resources to Reap Rewards from Titan Network<a href="http
 Trend Micro researchers observed an attacker exploiting the Atlassian Confluence vulnerability CVE-2023-22527 to achieve remote code execution for cryptomining via the Titan Network.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Trend Micro
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 30, 2024
+October 30, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Redline, Meta Infostealer Malware Operations Seized by Police<a href="https://www.bleepingcomputer.com/news/legal/redline-meta-infostealer-malware-operations-seized-by-police/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Redline, Meta Infostealer Malware Operations Seized by Police<a href="https://ww
 The Dutch National Police, in collaboration with the FBI and other international agencies, have successfully gained full access to the servers used by the Redline and Meta infostealers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 30, 2024
+October 30, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Windows Themes Zero-Day Gets Free, Unofficial Patches<a href="https://www.bleepingcomputer.com/news/security/new-windows-themes-zero-day-gets-free-unofficial-patches/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ New Windows Themes Zero-Day Gets Free, Unofficial Patches<a href="https://www.bl
 ACROS Security researchers found the new zero-day flaw while developing a micropatch for a security issue, which could leak user credentials, bypassing another Windows Themes spoofing vulnerability patched by Microsoft in January.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
