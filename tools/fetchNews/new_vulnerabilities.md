@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LiteSpeed Cache Plugin Vulnerability Poses Admin Access Risk<a href="https://www.infosecurity-magazine.com/news/litespeed-cache-plugin-flaw-admin/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in the LiteSpeed Cache plugin for WordPress allows unauthorized users to gain administrator-level access, potentially leading to the installation of malicious plugins.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hikvision Patches Security Flaw in Network Cameras, Preventing Cleartext Credential Transmission<a href="https://securityonline.info/hikvision-patches-security-flaw-in-network-cameras-preventing-cleartext-credential-transmission/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hikvision, a prominent provider of network cameras and surveillance systems, has recently issued firmware updates to rectify a security flaw that could compromise users’ Dynamic DNS credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+18-Year-Old Bug in X.Org Server Leaves Systems Vulnerable to Attack<a href="https://securityonline.info/cve-2024-9632-18-year-old-bug-in-x-org-server-leaves-systems-vulnerable-to-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical flaw was unearthed in the X.Org Server after being present in the codebase for 18 years. The vulnerability lies in the _XkbSetCompatMap() function, allowing attackers to seize control of affected systems through a buffer overflow attack.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerability Patched in Waitress WSGI Server<a href="https://securityonline.info/critical-vulnerability-in-waitress-wsgi-server-cve-2024-49768-what-you-need-to-know/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Pylons Project has issued a crucial security advisory regarding a vulnerability in the Waitress WSGI server, identified as CVE-2024-49768 with a CVSS score of 9.1. This flaw poses a significant threat to applications utilizing Waitress.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 31, 2024  <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

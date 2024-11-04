@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+October 31, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chenlun’s Evolving Phishing Tactics Target Trusted Brands<a href="https://www.infosecurity-magazine.com/news/chenluns-phishing-tactics-target/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The newest wave of phishing, observed on October 18, 2024, involves messages alarming users about suspicious account activity and directing them to verify accounts through malicious links.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+November 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US and Israel Warn of Iranian Threat Actor’s New Tradecraft<a href="https://www.infosecurity-magazine.com/news/us-israel-iran-new-tradecraft/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The advisory highlighted new tactics used by Cotton Sandstorm, including new infrastructure tradecraft, harvesting open-source information, and incorporating generative AI in its operations.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Releases Its First Ever International Strategic Plan<a href="https://www.cisa.gov/news-events/news/cisa-releases-its-first-ever-international-strategic-plan?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) has released its first international strategic plan to enhance collaboration in combating cyber threats to critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

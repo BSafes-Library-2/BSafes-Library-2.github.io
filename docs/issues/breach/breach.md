@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+November 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Gain Domain Access via Microsoft SharePoint Server Exploit<a href="https://securityonline.info/cve-2024-38094-exploited-attackers-gain-domain-access-via-microsoft-sharepoint-server/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent report by Rapid7 detailed a significant compromise of a Microsoft SharePoint server, resulting in complete domain access for an attacker who utilized various sophisticated techniques.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Abstract Security Raises $15M in Series A Funding<a href="https://www.finsmes.com/2024/10/abstract-security-raises-15m-in-series-a-funding.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series A round was led by Munich Re Ventures, with participation from existing investors Crosslink Capital and Rally Ventures. The company intends to use the funds to continue its growth trajectory and expand its reach in the industry.
+</details>
+<div style="text-align: right" markdown="1">
+Finsmes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 15, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

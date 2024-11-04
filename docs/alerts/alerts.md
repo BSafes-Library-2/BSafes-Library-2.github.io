@@ -7,6 +7,43 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 2024 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Releases Its First Ever International Strategic Plan <a href="https://www.cisa.gov/news-events/news/cisa-releases-its-first-ever-international-strategic-plan?&web_view=true"> Full Text</a>
+</p>
+<details>
+WASHINGTON – Today, the Cybersecurity and Infrastructure Security Agency (CISA) released its 2025–2026 International Strategic Plan, the agency’s first, which supports the agency’s first comprehensive strategic plan and aligns with the National Security Memorandum on Critical Infrastructure Security and Resilience. The International Strategic Plan focuses on how CISA will proactively engage international partners to strengthen the security and resilience of our nation’s critical infrastructure.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30 2024 - FBI, US Department of Treasury, Israel National Cyber Directorate
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Tradecraft of Iranian Cyber Group Aria Sepehr Ayandehsazan aka Emennet Pasargad <a href="https://www.ic3.gov/CSA/2024/241030.pdf"> Full Text</a>
+</p>
+<details>
+The Federal Bureau of Investigation (FBI), U.S. Department of Treasury, and Israel National Cyber
+Directorate are releasing this Cybersecurity Advisory (CSA) to warn network defenders of new cyber
+tradecraft of the Iranian cyber group Emennet Pasargad, which has been operating under the company
+name Aria Sepehr Ayandehsazan (ASA) and is known by the private sector terms Cotton Sandstorm,
+Marnanbridge, and Haywire Kitten. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 29 2024 - CISA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Releases Its First Ever International Strategic Plan <a href="https://www.cisa.gov/news-events/news/cisa-releases-its-first-ever-international-strategic-plan?&web_view=true"> Full Text</a>
+</p>
+<details>
+WASHINGTON – Today, the Cybersecurity and Infrastructure Security Agency (CISA) released its 2025–2026 International Strategic Plan, the agency’s first, which supports the agency’s first comprehensive strategic plan and aligns with the National Security Memorandum on Critical Infrastructure Security and Resilience. The International Strategic Plan focuses on how CISA will proactively engage international partners to strengthen the security and resilience of our nation’s critical infrastructure. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 22 2024 - White House 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
