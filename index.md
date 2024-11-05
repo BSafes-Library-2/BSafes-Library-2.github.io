@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Suspected Ukrainian Cyberattack Knocks Out Parking Enforcement in Russian City<a href="https://therecord.media/ukraine-cyberattack-russia-parking-tver?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A suspected cyberattack believed to be orchestrated by the Ukrainian Cyber Alliance led to the disruption of the parking enforcement system in the Russian city of Tver. Citizens were able to park for free.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New LightSpy Spyware Version Targets iPhones with Increased Surveillance Tactics<a href="https://thehackernews.com/2024/10/new-lightspy-spyware-version-targets.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have identified an enhanced version of an Apple iOS spyware known as LightSpy, which not only improves its functionalities but also adds destructive capabilities to prevent a compromised device from booting up.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Supply Chain Attack on Popular Animation Library Lottie-Player Targets Web3 Users<a href="https://securityonline.info/supply-chain-attack-on-popular-animation-library-lottie-player-targets-web3-users/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious actors executed a sophisticated supply chain attack on the widely-utilized JavaScript library lottie-player, infecting versions 2.0.5, 2.0.6, and 2.0.7 with malicious code that prompts a fake Web3 wallet connection.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Detectify Eyes AppSec Expansion After Insight Partners Buy<a href="https://www.healthcareinfosecurity.com/detectify-eyes-appsec-expansion-after-insight-partners-buy-a-26689?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Venture capital and private equity firm Insight Partners acquired a majority stake in the Swedish cybersecurity company, Detectify, to combine application security and attack surface management capabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Target Critical Zero-Day Vulnerability in PTZ Cameras<a href="https://www.bleepingcomputer.com/news/security/hackers-target-critical-zero-day-vulnerability-in-ptz-cameras/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are targeting PTZOptics pan-tilt-zoom live streaming cameras using two zero-day vulnerabilities, CVE-2024-8956 and CVE-2024-8957. GreyNoise discovered these flaws in April 2024 after noticing unusual activity on its honeypot.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC Exploit Releases for Critical Flaw in Synology TC500 and BC500 Camera to Get Root Access<a href="https://securityonline.info/poc-exploit-releases-for-critical-flaw-in-synology-tc500-and-bc500-camera-to-get-shell/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Synacktiv cybersecurity researcher Baptiste MOINE discovered a critical format string vulnerability in the Synology TC500 security camera, running on ARM 32-bit architecture.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular WordPress AI Plugin Exposed to Critical Security Risk<a href="https://securityonline.info/cve-2024-10392-cvss-9-8-popular-wordpress-ai-plugin-exposed-to-critical-security-risk/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This flaw, with a 9.8 CVSS score, allows unauthenticated attackers to upload harmful files to websites, gaining full control. The issue lies in the plugin’s image upload function, failing to validate file types properly.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Xiū Gǒu Phishing Kit Targets the U.S., U.K, Spain, Australia and Japan<a href="https://www.netcraft.com/blog/doggo-threat-actor-analysis/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new phishing kit called "Xiu Gou" has been targeting users in the US, UK, Spain, Australia, and Japan since at least September 2024. Discovered by Netcraft, it features a cartoon mascot and over 2000 phishing websites targeting various sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophos Mounted Counter-Offensive Operation to Foil Chinese Attackers<a href="https://www.helpnetsecurity.com/2024/10/31/sophos-china-defensive-operation/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sophos research uncovered adversarial tactics including the Cloud Snooper backdoor, Asnarök botnet campaign, UEFI bootkit exploits, and the CVE-2022-1040 zero-day vulnerability, all intercepted before harming targeted organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bugcrowd Receives $50M Growth Capital Facility from Silicon Valley Bank<a href="https://www.finsmes.com/2024/11/bugcrowd-receives-50m-growth-capital-facility-from-silicon-valley-bank.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company intends to use the funds to further scale its AI-powered platform globally, accelerate continued innovation, and leverage opportunities for strategic M&A, providing added value to clients, partners, and the hacker community.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 2, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
