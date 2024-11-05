@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+November 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Detectify Eyes AppSec Expansion After Insight Partners Buy<a href="https://www.healthcareinfosecurity.com/detectify-eyes-appsec-expansion-after-insight-partners-buy-a-26689?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Venture capital and private equity firm Insight Partners acquired a majority stake in the Swedish cybersecurity company, Detectify, to combine application security and attack surface management capabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bugcrowd Receives $50M Growth Capital Facility from Silicon Valley Bank<a href="https://www.finsmes.com/2024/11/bugcrowd-receives-50m-growth-capital-facility-from-silicon-valley-bank.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company intends to use the funds to further scale its AI-powered platform globally, accelerate continued innovation, and leverage opportunities for strategic M&amp;A, providing added value to clients, partners, and the hacker community.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 30, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 4, 2024
+November 4, 2024 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Suspected Ukrainian Cyberattack Knocks Out Parking Enforcement in Russian City<a href="https://therecord.media/ukraine-cyberattack-russia-parking-tver?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 4, 2024
+November 4, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New LightSpy Spyware Version Targets iPhones with Increased Surveillance Tactics<a href="https://thehackernews.com/2024/10/new-lightspy-spyware-version-targets.html?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 4, 2024
+November 4, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Supply Chain Attack on Popular Animation Library Lottie-Player Targets Web3 Users<a href="https://securityonline.info/supply-chain-attack-on-popular-animation-library-lottie-player-targets-web3-users/?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 4, 2024
+November 4, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Detectify Eyes AppSec Expansion After Insight Partners Buy<a href="https://www.healthcareinfosecurity.com/detectify-eyes-appsec-expansion-after-insight-partners-buy-a-26689?&web_view=true"> Full Text</a>
@@ -98,7 +98,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 4, 2024
+November 4, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Target Critical Zero-Day Vulnerability in PTZ Cameras<a href="https://www.bleepingcomputer.com/news/security/hackers-target-critical-zero-day-vulnerability-in-ptz-cameras/?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 4, 2024
+November 4, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PoC Exploit Releases for Critical Flaw in Synology TC500 and BC500 Camera to Get Root Access<a href="https://securityonline.info/poc-exploit-releases-for-critical-flaw-in-synology-tc500-and-bc500-camera-to-get-shell/?&web_view=true"> Full Text</a>
@@ -130,7 +130,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 4, 2024
+November 4, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Popular WordPress AI Plugin Exposed to Critical Security Risk<a href="https://securityonline.info/cve-2024-10392-cvss-9-8-popular-wordpress-ai-plugin-exposed-to-critical-security-risk/?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 4, 2024
+November 4, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Xiū Gǒu Phishing Kit Targets the U.S., U.K, Spain, Australia and Japan<a href="https://www.netcraft.com/blog/doggo-threat-actor-analysis/?&web_view=true"> Full Text</a>
@@ -162,7 +162,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 4, 2024
+November 4, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sophos Mounted Counter-Offensive Operation to Foil Chinese Attackers<a href="https://www.helpnetsecurity.com/2024/10/31/sophos-china-defensive-operation/?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 4, 2024
+November 4, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bugcrowd Receives $50M Growth Capital Facility from Silicon Valley Bank<a href="https://www.finsmes.com/2024/11/bugcrowd-receives-50m-growth-capital-facility-from-silicon-valley-bank.html?&web_view=true"> Full Text</a>

@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+November 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Supply Chain Attack on Popular Animation Library Lottie-Player Targets Web3 Users<a href="https://securityonline.info/supply-chain-attack-on-popular-animation-library-lottie-player-targets-web3-users/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious actors executed a sophisticated supply chain attack on the widely-utilized JavaScript library lottie-player, infecting versions 2.0.5, 2.0.6, and 2.0.7 with malicious code that prompts a fake Web3 wallet connection.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophos Mounted Counter-Offensive Operation to Foil Chinese Attackers<a href="https://www.helpnetsecurity.com/2024/10/31/sophos-china-defensive-operation/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sophos research uncovered adversarial tactics including the Cloud Snooper backdoor, Asnarök botnet campaign, UEFI bootkit exploits, and the CVE-2022-1040 zero-day vulnerability, all intercepted before harming targeted organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 31, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

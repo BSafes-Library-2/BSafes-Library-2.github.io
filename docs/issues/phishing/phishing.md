@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Xiū Gǒu Phishing Kit Targets the U.S., U.K, Spain, Australia and Japan<a href="https://www.netcraft.com/blog/doggo-threat-actor-analysis/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new phishing kit called "Xiu Gou" has been targeting users in the US, UK, Spain, Australia, and Japan since at least September 2024. Discovered by Netcraft, it features a cartoon mascot and over 2000 phishing websites targeting various sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 31, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
