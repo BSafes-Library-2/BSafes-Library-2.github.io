@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+November 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Interlock Ransomware Found Targeting FreeBSD Servers<a href="https://www.bleepingcomputer.com/news/security/meet-interlock-the-new-ransomware-targeting-freebsd-servers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware group named Interlock has been attacking organizations worldwide by targeting FreeBSD servers with a unique encryptor. Launched in September 2024, Interlock has already hit six organizations, including Wayne County, Michigan.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 28, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

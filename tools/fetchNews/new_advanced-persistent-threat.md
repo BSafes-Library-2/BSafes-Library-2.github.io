@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+November 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT36 Deploys ElizaRAT and ApoloStealer in Attacks on Indian Targets<a href="https://www.darkreading.com/cyberattacks-data-breaches/apt36-refines-tools-attacks-indian-targets?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over the past year, APT36 has been observed using three different versions of ElizaRAT in separate campaigns targeting Indian entities, with the latest version using Google Drive for command-and-control communications.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,76 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP Patches Zero-Day Flaw in QuRouter Following Pwn2Own Ireland 2024 Exploits<a href="https://securityonline.info/qnap-patches-zero-day-flaw-cve-2024-50389-in-qurouter-following-pwn2own-ireland-2024-exploits/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw, CVE-2024-50389, could allow hackers to compromise QuRouter devices, leading to a patch for affected versions 2.4.x. Users are urged to update to version 2.4.5.032 or later immediately.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Researchers Claim First Vulnerability Found Using AI<a href="https://www.infosecurity-magazine.com/news/google-first-vulnerability-found/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Google Project Zero and Google DeepMind discovered a vulnerability using a large language model (LLM). The vulnerability was found in SQLite, an open-source database engine, and reported to developers before its official release.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Century Systems Routers Vulnerable to Remote Exploitation<a href="https://securityonline.info/century-systems-routers-vulnerable-to-remote-exploitation-cve-2024-50357-cvss-9-8/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Century Systems Co. , Ltd. has issued a security advisory for their FutureNet NXR series routers due to a critical vulnerability (CVE-2024-50357) with a severity score of 9.8. This flaw allows attackers to exploit exposed REST-APIs remotely.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaws in Ollama AI Framework Could Enable DoS, Model Theft, and Poisoning<a href="https://thehackernews.com/2024/11/critical-flaws-in-ollama-ai-framework.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have detected six security vulnerabilities in the Ollama artificial intelligence framework that could be used by attackers for malicious activities like denial-of-service, model poisoning, and model theft.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Okta Fixes Auth Bypass Bug After 3-Month Lull<a href="https://www.darkreading.com/vulnerabilities-threats/okta-fixes-auth-bypass-bug-three-month-lull?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Okta fixed a bug that could let hackers bypass authentication by using long usernames or lengthy domain names. Cybercriminals could exploit this security hole to access Okta AD/LDAP delegated authentication with just a username.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 4, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
