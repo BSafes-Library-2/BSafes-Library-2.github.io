@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GPT-4o can be Used for Autonomous Voice-based Scams<a href="https://www.bleepingcomputer.com/news/security/chatgpt-4o-can-be-used-for-autonomous-voice-based-scams/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered that OpenAI's real-time voice API for OpenAI's GPT-4o can be exploited for financial scams with moderate success rates. GPT-4o is a new AI model from OpenAI that integrates text, voice, and vision inputs and outputs.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LastPass Alerts Users to Phishing Scam Using Fake Support Reviews on Chrome Web Store<a href="https://securityonline.info/warning-lastpass-alerts-users-to-phishing-scam-using-fake-support-reviews-on-chrome-web-store/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LastPass warns users of a social engineering campaign through deceptive reviews on its Chrome Web Store app page. Threat actors post fake reviews to lead users to a fake support number, aiming to collect sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 4, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

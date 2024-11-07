@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+November 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OWASP Beefs up GenAI Security Advice Amid Growing Deepfakes<a href="https://www.darkreading.com/vulnerabilities-threats/owasp-genai-security-guidance-growing-deepfakes?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OWASP's guidance focuses on building infrastructure for authenticating human identity in video calls, creating processes for financial transactions, and developing incident-response plans.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 17, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

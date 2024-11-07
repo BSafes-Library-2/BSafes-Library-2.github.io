@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 6, 2024
+November 6, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stealthy Process Injection Technique via New Kernel Callback Table Exposed<a href="https://securityonline.info/stealthy-process-injection-new-kernel-callback-table-technique-exposed/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Stealthy Process Injection Technique via New Kernel Callback Table Exposed<a hre
 Security researcher Hossam Ehab recently detailed a sophisticated method for process injection on Windows systems, involving manipulation of the Kernel Callback Table within the Process Environment Block (PEB).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 6, 2024
+November 6, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ABB Smart Building Software Flaws Invite In Hackers<a href="https://www.bankinfosecurity.com/abb-smart-building-software-flaws-invite-in-hackers-a-26722?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ ABB Smart Building Software Flaws Invite In Hackers<a href="https://www.bankinfo
 Vulnerabilities in a smart building energy management system have been identified, including an unpatched flaw from two years ago that hackers could exploit to take over misconfigured instances exposed to the internet.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Infosecurity
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 6, 2024
+November 6, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GPT-4o can be Used for Autonomous Voice-based Scams<a href="https://www.bleepingcomputer.com/news/security/chatgpt-4o-can-be-used-for-autonomous-voice-based-scams/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ GPT-4o can be Used for Autonomous Voice-based Scams<a href="https://www.bleeping
 Researchers have discovered that OpenAI's real-time voice API for OpenAI's GPT-4o can be exploited for financial scams with moderate success rates. GPT-4o is a new AI model from OpenAI that integrates text, voice, and vision inputs and outputs.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 6, 2024
+November 6, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GOOTLOADER Malware Continues to Evolve: Google Researchers Uncover Advanced Tactics<a href="https://securityonline.info/gootloader-malware-continues-to-evolve-google-researchers-uncover-advanced-tactics/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ GOOTLOADER Malware Continues to Evolve: Google Researchers Uncover Advanced Tact
 Google researchers recently analyzed GOOTLOADER, a JavaScript downloader used by cybercriminals for ransomware attacks and data exfiltration. This malware is distributed through compromised websites, targeting victims via SEO poisoning.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 6, 2024
+November 6, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LastPass Alerts Users to Phishing Scam Using Fake Support Reviews on Chrome Web Store<a href="https://securityonline.info/warning-lastpass-alerts-users-to-phishing-scam-using-fake-support-reviews-on-chrome-web-store/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ LastPass Alerts Users to Phishing Scam Using Fake Support Reviews on Chrome Web 
 LastPass warns users of a social engineering campaign through deceptive reviews on its Chrome Web Store app page. Threat actors post fake reviews to lead users to a fake support number, aiming to collect sensitive information.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 6, 2024
+November 6, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Patches Two High-Severity Chrome Vulnerabilities<a href="https://securityonline.info/google-chrome-patches-two-high-severity-vulnerabilities-update-now/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Google Patches Two High-Severity Chrome Vulnerabilities<a href="https://security
 Google has released a new update for Chrome browser (version 130.0.6723.116/.117) to fix two high-severity vulnerabilities (CVE-2024-10826 and CVE-2024-10827), which could be exploited by cybercriminals.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 6, 2024
+November 6, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 An Introduction to Operational Relay Box (ORB) Networks - Unpatched, Forgotten, and Obscured<a href="https://www.team-cymru.com/post/an-introduction-to-operational-relay-box-orb-networks-unpatched-forgotten-and-obscured?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ An Introduction to Operational Relay Box (ORB) Networks - Unpatched, Forgotten, 
 The S2 Research Team at Team Cymru has identified Operational Relay Box (ORB) networks as a rising threat in cybersecurity. These networks combine aspects of VPNs and botnets to enhance anonymity and resilience for threat actors.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cymru
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 6, 2024
+November 6, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unpatched XSS Flaw in pfSense Allows Remote Exploits, PoC Published<a href="https://securityonline.info/cve-2024-46538-unpatched-xss-flaw-in-pfsense-allows-remote-exploits-poc-published/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Unpatched XSS Flaw in pfSense Allows Remote Exploits, PoC Published<a href="http
 A critical XSS vulnerability (CVE-2024-46538) has been discovered in pfSense v2.5.2 by security researcher physicszq. This flaw in interfacesgroupsedit.php allows attackers to inject malicious scripts, potentially leading to remote code execution.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 6, 2024
+November 6, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OWASP Beefs up GenAI Security Advice Amid Growing Deepfakes<a href="https://www.darkreading.com/vulnerabilities-threats/owasp-genai-security-guidance-growing-deepfakes?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ OWASP Beefs up GenAI Security Advice Amid Growing Deepfakes<a href="https://www.
 OWASP's guidance focuses on building infrastructure for authenticating human identity in video calls, creating processes for financial transactions, and developing incident-response plans.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 6, 2024
+November 6, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PoC Exploit Released for Critical Symlink Flaw in Apple’s iOS<a href="https://securityonline.info/poc-exploit-releases-for-critical-symlink-flaw-in-apples-ios-cve-2024-44258/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ PoC Exploit Released for Critical Symlink Flaw in Apple’s iOS<a href="https://
 Cybersecurity researchers Maloufi and Mina highlighted CVE-2024-44258, a symlink vulnerability in Apple's ManagedConfiguration framework. This flaw allows attackers to redirect files to restricted areas during backup restoration.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
