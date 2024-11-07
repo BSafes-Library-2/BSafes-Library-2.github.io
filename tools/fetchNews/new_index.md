@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 5, 2024
+November 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stealthy Process Injection Technique via New Kernel Callback Table Exposed<a href="https://securityonline.info/stealthy-process-injection-new-kernel-callback-table-technique-exposed/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researcher Hossam Ehab recently detailed a sophisticated method for process injection on Windows systems, involving manipulation of the Kernel Callback Table within the Process Environment Block (PEB).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ABB Smart Building Software Flaws Invite In Hackers<a href="https://www.bankinfosecurity.com/abb-smart-building-software-flaws-invite-in-hackers-a-26722?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerabilities in a smart building energy management system have been identified, including an unpatched flaw from two years ago that hackers could exploit to take over misconfigured instances exposed to the internet.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GPT-4o can be Used for Autonomous Voice-based Scams<a href="https://www.bleepingcomputer.com/news/security/chatgpt-4o-can-be-used-for-autonomous-voice-based-scams/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered that OpenAI's real-time voice API for OpenAI's GPT-4o can be exploited for financial scams with moderate success rates. GPT-4o is a new AI model from OpenAI that integrates text, voice, and vision inputs and outputs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GOOTLOADER Malware Continues to Evolve: Google Researchers Uncover Advanced Tactics<a href="https://securityonline.info/gootloader-malware-continues-to-evolve-google-researchers-uncover-advanced-tactics/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google researchers recently analyzed GOOTLOADER, a JavaScript downloader used by cybercriminals for ransomware attacks and data exfiltration. This malware is distributed through compromised websites, targeting victims via SEO poisoning.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LastPass Alerts Users to Phishing Scam Using Fake Support Reviews on Chrome Web Store<a href="https://securityonline.info/warning-lastpass-alerts-users-to-phishing-scam-using-fake-support-reviews-on-chrome-web-store/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LastPass warns users of a social engineering campaign through deceptive reviews on its Chrome Web Store app page. Threat actors post fake reviews to lead users to a fake support number, aiming to collect sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Patches Two High-Severity Chrome Vulnerabilities<a href="https://securityonline.info/google-chrome-patches-two-high-severity-vulnerabilities-update-now/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released a new update for Chrome browser (version 130.0.6723.116/.117) to fix two high-severity vulnerabilities (CVE-2024-10826 and CVE-2024-10827), which could be exploited by cybercriminals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An Introduction to Operational Relay Box (ORB) Networks - Unpatched, Forgotten, and Obscured<a href="https://www.team-cymru.com/post/an-introduction-to-operational-relay-box-orb-networks-unpatched-forgotten-and-obscured?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The S2 Research Team at Team Cymru has identified Operational Relay Box (ORB) networks as a rising threat in cybersecurity. These networks combine aspects of VPNs and botnets to enhance anonymity and resilience for threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched XSS Flaw in pfSense Allows Remote Exploits, PoC Published<a href="https://securityonline.info/cve-2024-46538-unpatched-xss-flaw-in-pfsense-allows-remote-exploits-poc-published/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical XSS vulnerability (CVE-2024-46538) has been discovered in pfSense v2.5.2 by security researcher physicszq. This flaw in interfacesgroupsedit.php allows attackers to inject malicious scripts, potentially leading to remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OWASP Beefs up GenAI Security Advice Amid Growing Deepfakes<a href="https://www.darkreading.com/vulnerabilities-threats/owasp-genai-security-guidance-growing-deepfakes?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OWASP's guidance focuses on building infrastructure for authenticating human identity in video calls, creating processes for financial transactions, and developing incident-response plans.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC Exploit Released for Critical Symlink Flaw in Apple’s iOS<a href="https://securityonline.info/poc-exploit-releases-for-critical-symlink-flaw-in-apples-ios-cve-2024-44258/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers Maloufi and Mina highlighted CVE-2024-44258, a symlink vulnerability in Apple's ManagedConfiguration framework. This flaw allows attackers to redirect files to restricted areas during backup restoration.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 5, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Custom "Pygmy Goat" Malware Used in Sophos Firewall Hack on Government Network<a href="https://www.bleepingcomputer.com/news/security/custom-pygmy-goat-malware-used-in-sophos-firewall-hack-on-govt-network/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Custom "Pygmy Goat" Malware Used in Sophos Firewall Hack on Government Network<a
 The UK's National Cyber Security Centre (NCSC) has analyzed a Linux malware called "Pygmy Goat" that was developed to create backdoors in Sophos XG firewall devices as part of recent attacks by Chinese threat actors.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 5, 2024
+November 5, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP Patches Zero-Day Flaw in QuRouter Following Pwn2Own Ireland 2024 Exploits<a href="https://securityonline.info/qnap-patches-zero-day-flaw-cve-2024-50389-in-qurouter-following-pwn2own-ireland-2024-exploits/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ QNAP Patches Zero-Day Flaw in QuRouter Following Pwn2Own Ireland 2024 Exploits<a
 The flaw, CVE-2024-50389, could allow hackers to compromise QuRouter devices, leading to a patch for affected versions 2.4.x. Users are urged to update to version 2.4.5.032 or later immediately.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 5, 2024
+November 5, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HookBot Uses Advanced Techniques Beyond Keylogging for Data Theft<a href="https://securityonline.info/beyond-keylogging-hookbots-advanced-techniques-for-data-theft/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ HookBot Uses Advanced Techniques Beyond Keylogging for Data Theft<a href="https:
 Netcraft's recent study highlighted HookBot, an advanced Android banking trojan discovered in 2023, that uses overlay attacks, keylogging, and SMS interception to steal sensitive information like banking credentials and passwords.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 5, 2024
+November 5, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Researchers Claim First Vulnerability Found Using AI<a href="https://www.infosecurity-magazine.com/news/google-first-vulnerability-found/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Google Researchers Claim First Vulnerability Found Using AI<a href="https://www.
 Researchers from Google Project Zero and Google DeepMind discovered a vulnerability using a large language model (LLM). The vulnerability was found in SQLite, an open-source database engine, and reported to developers before its official release.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 5, 2024
+November 5, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Interlock Ransomware Found Targeting FreeBSD Servers<a href="https://www.bleepingcomputer.com/news/security/meet-interlock-the-new-ransomware-targeting-freebsd-servers/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ New Interlock Ransomware Found Targeting FreeBSD Servers<a href="https://www.ble
 A new ransomware group named Interlock has been attacking organizations worldwide by targeting FreeBSD servers with a unique encryptor. Launched in September 2024, Interlock has already hit six organizations, including Wayne County, Michigan.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 5, 2024
+November 5, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Century Systems Routers Vulnerable to Remote Exploitation<a href="https://securityonline.info/century-systems-routers-vulnerable-to-remote-exploitation-cve-2024-50357-cvss-9-8/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Century Systems Routers Vulnerable to Remote Exploitation<a href="https://securi
 Century Systems Co. , Ltd. has issued a security advisory for their FutureNet NXR series routers due to a critical vulnerability (CVE-2024-50357) with a severity score of 9.8. This flaw allows attackers to exploit exposed REST-APIs remotely.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 5, 2024
+November 5, 2024 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APT36 Deploys ElizaRAT and ApoloStealer in Attacks on Indian Targets<a href="https://www.darkreading.com/cyberattacks-data-breaches/apt36-refines-tools-attacks-indian-targets?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ APT36 Deploys ElizaRAT and ApoloStealer in Attacks on Indian Targets<a href="htt
 Over the past year, APT36 has been observed using three different versions of ElizaRAT in separate campaigns targeting Indian entities, with the latest version using Google Drive for command-and-control communications.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 5, 2024
+November 5, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaws in Ollama AI Framework Could Enable DoS, Model Theft, and Poisoning<a href="https://thehackernews.com/2024/11/critical-flaws-in-ollama-ai-framework.html?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Critical Flaws in Ollama AI Framework Could Enable DoS, Model Theft, and Poisoni
 Security researchers have detected six security vulnerabilities in the Ollama artificial intelligence framework that could be used by attackers for malicious activities like denial-of-service, model poisoning, and model theft.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 5, 2024
+November 5, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Okta Fixes Auth Bypass Bug After 3-Month Lull<a href="https://www.darkreading.com/vulnerabilities-threats/okta-fixes-auth-bypass-bug-three-month-lull?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Okta Fixes Auth Bypass Bug After 3-Month Lull<a href="https://www.darkreading.co
 Okta fixed a bug that could let hackers bypass authentication by using long usernames or lengthy domain names. Cybercriminals could exploit this security hole to access Okta AD/LDAP delegated authentication with just a username.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 5, 2024
+November 5, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beware of chalk-node: Malicious Package Steals Developer Data<a href="https://securityonline.info/beware-of-chalk-node-malicious-package-steals-developer-data/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Beware of chalk-node: Malicious Package Steals Developer Data<a href="https://se
 A malicious package called “chalk-node” is pretending to be the legitimate “chalk” library. This imposter package contains a script that steals sensitive data from victims' computers and sends it to external servers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -204,7 +364,7 @@ Suspected Ukrainian Cyberattack Knocks Out Parking Enforcement in Russian City<a
 A suspected cyberattack believed to be orchestrated by the Ukrainian Cyber Alliance led to the disruption of the parking enforcement system in the Russian city of Tver. Citizens were able to park for free.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -220,7 +380,7 @@ New LightSpy Spyware Version Targets iPhones with Increased Surveillance Tactics
 Cybersecurity researchers have identified an enhanced version of an Apple iOS spyware known as LightSpy, which not only improves its functionalities but also adds destructive capabilities to prevent a compromised device from booting up.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -236,7 +396,7 @@ Supply Chain Attack on Popular Animation Library Lottie-Player Targets Web3 User
 Malicious actors executed a sophisticated supply chain attack on the widely-utilized JavaScript library lottie-player, infecting versions 2.0.5, 2.0.6, and 2.0.7 with malicious code that prompts a fake Web3 wallet connection.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -252,7 +412,7 @@ Detectify Eyes AppSec Expansion After Insight Partners Buy<a href="https://www.h
 Venture capital and private equity firm Insight Partners acquired a majority stake in the Swedish cybersecurity company, Detectify, to combine application security and attack surface management capabilities.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Healthcare Infosecurity
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -268,7 +428,7 @@ Hackers Target Critical Zero-Day Vulnerability in PTZ Cameras<a href="https://ww
 Hackers are targeting PTZOptics pan-tilt-zoom live streaming cameras using two zero-day vulnerabilities, CVE-2024-8956 and CVE-2024-8957. GreyNoise discovered these flaws in April 2024 after noticing unusual activity on its honeypot.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -284,7 +444,7 @@ PoC Exploit Releases for Critical Flaw in Synology TC500 and BC500 Camera to Get
 Synacktiv cybersecurity researcher Baptiste MOINE discovered a critical format string vulnerability in the Synology TC500 security camera, running on ARM 32-bit architecture.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -300,7 +460,7 @@ Popular WordPress AI Plugin Exposed to Critical Security Risk<a href="https://se
 This flaw, with a 9.8 CVSS score, allows unauthenticated attackers to upload harmful files to websites, gaining full control. The issue lies in the plugin’s image upload function, failing to validate file types properly.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -316,7 +476,7 @@ Xiū Gǒu Phishing Kit Targets the U.S., U.K, Spain, Australia and Japan<a href=
 The new phishing kit called "Xiu Gou" has been targeting users in the US, UK, Spain, Australia, and Japan since at least September 2024. Discovered by Netcraft, it features a cartoon mascot and over 2000 phishing websites targeting various sectors.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Netcraft
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -332,7 +492,7 @@ Sophos Mounted Counter-Offensive Operation to Foil Chinese Attackers<a href="htt
 Sophos research uncovered adversarial tactics including the Cloud Snooper backdoor, Asnarök botnet campaign, UEFI bootkit exploits, and the CVE-2022-1040 zero-day vulnerability, all intercepted before harming targeted organizations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security 
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -348,7 +508,7 @@ Bugcrowd Receives $50M Growth Capital Facility from Silicon Valley Bank<a href="
 The company intends to use the funds to further scale its AI-powered platform globally, accelerate continued innovation, and leverage opportunities for strategic M&A, providing added value to clients, partners, and the hacker community.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Finsmes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
