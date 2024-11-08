@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Bug in Cisco UWRB Access Points Allows Attackers to Run Commands as Root<a href="https://securityaffairs.com/170646/security/cisco-uwrb-crirical-flaw.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability (CVE-2024-20418) lets remote, unauthenticated attackers execute commands with root privileges on vulnerable Ultra-Reliable Wireless Backhaul (URWB) access points.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Privilege Escalation Vulnerability in Veritas NetBackup on Windows Reported<a href="https://securityonline.info/new-privilege-escalation-vulnerability-in-veritas-netbackup-on-windows-update-required-to-mitigate-risks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Veritas has released a security advisory about a privilege escalation vulnerability in NetBackup on Windows systems. This vulnerability affects the primary server, media server, and client components of NetBackup on Windows.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 6, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

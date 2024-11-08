@@ -8,6 +8,76 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stealthy Process Injection Technique via New Kernel Callback Table Exposed<a href="https://securityonline.info/stealthy-process-injection-new-kernel-callback-table-technique-exposed/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researcher Hossam Ehab recently detailed a sophisticated method for process injection on Windows systems, involving manipulation of the Kernel Callback Table within the Process Environment Block (PEB).
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ABB Smart Building Software Flaws Invite In Hackers<a href="https://www.bankinfosecurity.com/abb-smart-building-software-flaws-invite-in-hackers-a-26722?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerabilities in a smart building energy management system have been identified, including an unpatched flaw from two years ago that hackers could exploit to take over misconfigured instances exposed to the internet.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Infosecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Patches Two High-Severity Chrome Vulnerabilities<a href="https://securityonline.info/google-chrome-patches-two-high-severity-vulnerabilities-update-now/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released a new update for Chrome browser (version 130.0.6723.116/.117) to fix two high-severity vulnerabilities (CVE-2024-10826 and CVE-2024-10827), which could be exploited by cybercriminals.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched XSS Flaw in pfSense Allows Remote Exploits, PoC Published<a href="https://securityonline.info/cve-2024-46538-unpatched-xss-flaw-in-pfsense-allows-remote-exploits-poc-published/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical XSS vulnerability (CVE-2024-46538) has been discovered in pfSense v2.5.2 by security researcher physicszq. This flaw in interfacesgroupsedit.php allows attackers to inject malicious scripts, potentially leading to remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC Exploit Released for Critical Symlink Flaw in Apple’s iOS<a href="https://securityonline.info/poc-exploit-releases-for-critical-symlink-flaw-in-apples-ios-cve-2024-44258/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers Maloufi and Mina highlighted CVE-2024-44258, a symlink vulnerability in Apple's ManagedConfiguration framework. This flaw allows attackers to redirect files to restricted areas during backup restoration.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 5, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

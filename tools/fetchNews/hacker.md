@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An Introduction to Operational Relay Box (ORB) Networks - Unpatched, Forgotten, and Obscured<a href="https://www.team-cymru.com/post/an-introduction-to-operational-relay-box-orb-networks-unpatched-forgotten-and-obscured?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The S2 Research Team at Team Cymru has identified Operational Relay Box (ORB) networks as a rising threat in cybersecurity. These networks combine aspects of VPNs and botnets to enhance anonymity and resilience for threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+Cymru
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 10, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

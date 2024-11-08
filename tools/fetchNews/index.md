@@ -1,4 +1,4 @@
----
+
 layout: default
 title: Welcome 
 nav_order: 1
@@ -33,6 +33,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 
 ## News
 {: .fs-6 .label .label-yellow }
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 7, 2024 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CrowdStrike Acquires Adaptive Shield in $300M Deal to Boost SaaS Security<a href="https://www.calcalistech.com/ctechnews/article/s1zuniozkx?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity giant CrowdStrike has acquired Israeli cyber startup Adaptive Shield for approximately $300 million. Adaptive Shield, founded in 2019, focuses on monitoring and controlling security in cloud environments to prevent potential attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Calcalis
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 7, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Germany Drafts Law to Protect Researchers Who Find Security Flaws<a href="https://www.bleepingcomputer.com/news/security/germany-drafts-law-to-protect-researchers-who-find-security-flaws/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Ministry of Justice in Germany is working on a law to protect security researchers who discover and report vulnerabilities to vendors, preventing them from facing criminal charges.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 7, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nigerian Man Sentenced to Over 26 Years in Real Estate Phishing Scams<a href="https://securityaffairs.com/170561/cyber-crime/nigerian-man-26-years-jail-phishing-scams.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nigerian Kolade Ojelade, a resident of the UK, has been sentenced to 26 years in a US prison for conducting phishing scams. He used a "man-in-the-middle" email phishing and spoofing attack to compromise the email accounts of real estate businesses.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affair
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 7, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Cloud to Mandate MFA for all Users in 2025<a href="https://www.cybersecuritydive.com/news/google-cloud-mandate-multifactor-authentication/732141/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Cloud announced that it will require multifactor authentication (MFA) for all users by the end of 2025. The company will roll out MFA in phases and start encouraging users to enroll this month.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 7, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Bug in Cisco UWRB Access Points Allows Attackers to Run Commands as Root<a href="https://securityaffairs.com/170646/security/cisco-uwrb-crirical-flaw.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability (CVE-2024-20418) lets remote, unauthenticated attackers execute commands with root privileges on vulnerable Ultra-Reliable Wireless Backhaul (URWB) access points.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 7, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Osmedeus: Open-Source Workflow Engine for Offensive Security<a href="https://www.helpnetsecurity.com/2024/11/06/osmedeus-open-source-workflow-engine-offensive-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Osmedeus is an open-source workflow engine designed for offensive security. It serves as a versatile foundation, enabling users to easily create customized reconnaissance systems and scale them across extensive target lists.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 7, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Suspect Behind Snowflake Data-Theft Attacks Arrested in Canada<a href="https://www.bleepingcomputer.com/news/security/suspect-behind-snowflake-data-theft-attacks-arrested-in-canada/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The investigations by Snowflake, Mandiant, and CrowdStrike revealed that an attacker known as UNC5537 utilized stolen customer credentials to target organizations that lacked multi-factor authentication protection on their Snowflake accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 7, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Privilege Escalation Vulnerability in Veritas NetBackup on Windows Reported<a href="https://securityonline.info/new-privilege-escalation-vulnerability-in-veritas-netbackup-on-windows-update-required-to-mitigate-risks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Veritas has released a security advisory about a privilege escalation vulnerability in NetBackup on Windows systems. This vulnerability affects the primary server, media server, and client components of NetBackup on Windows.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 7, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive Nigerian Cybercrime Bust Sees 130 Arrested<a href="https://www.infosecurity-magazine.com/news/massive-nigerian-cybercrime-bust/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a massive law enforcement operation, the Nigeria Police Force (NPF) has arrested 130 individuals over cybercrime accusations. Prince Olumuyiwa Adejobi, the NPF public relations officer, announced the arrests on X on November 3.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 7, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Recent Keylogger Malware Attributed to North Korean Group Andariel<a href="https://hybrid-analysis.blogspot.com/2024/11/recent-keylogger-attributed-to-north.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Known for targeted cyber espionage, Andariel has utilized this keylogger in attacks on U.S. organizations to gather sensitive information through keystroke and mouse logging.
+</details>
+<div style="text-align: right" markdown="1">
+Hybrid Analysis
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 6, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }

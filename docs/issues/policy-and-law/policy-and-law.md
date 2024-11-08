@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+November 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Germany Drafts Law to Protect Researchers Who Find Security Flaws<a href="https://www.bleepingcomputer.com/news/security/germany-drafts-law-to-protect-researchers-who-find-security-flaws/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Ministry of Justice in Germany is working on a law to protect security researchers who discover and report vulnerabilities to vendors, preventing them from facing criminal charges.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nigerian Man Sentenced to Over 26 Years in Real Estate Phishing Scams<a href="https://securityaffairs.com/170561/cyber-crime/nigerian-man-26-years-jail-phishing-scams.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nigerian Kolade Ojelade, a resident of the UK, has been sentenced to 26 years in a US prison for conducting phishing scams. He used a "man-in-the-middle" email phishing and spoofing attack to compromise the email accounts of real estate businesses.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affair
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

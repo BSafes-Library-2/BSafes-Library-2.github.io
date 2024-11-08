@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+November 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Osmedeus: Open-Source Workflow Engine for Offensive Security<a href="https://www.helpnetsecurity.com/2024/11/06/osmedeus-open-source-workflow-engine-offensive-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Osmedeus is an open-source workflow engine designed for offensive security. It serves as a versatile foundation, enabling users to easily create customized reconnaissance systems and scale them across extensive target lists.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 8, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
