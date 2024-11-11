@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 9, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Command Injection Flaw Threatens Over 61,000 D-Link NAS Devices<a href="https://securityonline.info/cve-2024-10914-cvss-9-2-command-injection-flaw-threatens-61000-d-link-nas-devices/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2024-10914, a critical vulnerability in D-Link NAS devices, affects over 61,000 systems globally. The flaw allows remote attackers to execute commands via HTTP GET requests. It impacts models like DNS-320, DNS-320LW, DNS-325, and DNS-340L.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 9, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NCSC Issues Security Guidance to Help Banish Malicious Adverts and Drive a Secure Advertising Ecosystem<a href="https://www.ncsc.gov.uk/blog-post/helping-banish-malicious-adverts?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Brands are advised by the National Cyber Security Centre (NCSC) to ensure that their digital advertising partners prioritize cybersecurity, collaboration, and transparency to reduce the risk of malvertising on their websites.
+</details>
+<div style="text-align: right" markdown="1">
+NCSC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 9, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco NDFC Vulnerability Grants Attackers Extensive Control<a href="https://securityonline.info/cve-2024-20536-cisco-ndfc-vulnerability-grants-attackers-extensive-control/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This flaw allows authenticated remote attackers to execute SQL commands on affected devices, posing a significant security risk. The vulnerability is due to inadequate user input validation in Cisco NDFC's REST API endpoint and management interface.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 9, 2024 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean APT BlueNoroff Targets Macs with Fake Crypto News and Novel Persistence<a href="https://www.sentinelone.com/labs/bluenoroff-hidden-risk-threat-actor-targets-macs-with-fake-crypto-news-and-novel-persistence/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SentinelLabs found a new type of malware being used by North Korean hackers to target businesses that deal with cryptocurrency. This malware is similar to attacks previously linked to BlueNoroff.
+</details>
+<div style="text-align: right" markdown="1">
+SentinelOne
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 9, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GodFather Malware Now Targets More Than 500 Banking and Crypto Apps<a href="https://securityonline.info/godfather-malware-now-targets-500-banking-and-crypto-apps/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The GodFather malware has now expanded to target over 500 banking and cryptocurrency applications globally, using sophisticated tactics like phishing sites and native code implementation to evade detection.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 9, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-Aligned MirrorFace Hackers Target EU Diplomats with World Expo 2025 Bait<a href="https://thehackernews.com/2024/11/china-aligned-mirrorface-hackers-target.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MirrorFace, a Chinese state-linked threat actor, targeted a diplomatic organization in the European Union for the first time. The attack used the World Expo 2025 in Osaka, Japan, as a lure.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 9, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Silent Skimmer Gets Loud Again<a href="https://unit42.paloaltonetworks.com/silent-skimmer-latest-campaign/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During a Silent Skimmer campaign in May 2024, attackers gained access to servers by exploiting outdated Telerik UI vulnerabilities, deploying reverse shells, and using tools like GodPotato for privilege escalation.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 9, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Copyright Infringement Emails Spread Rhadamanthys<a href="https://www.darkreading.com/cyberattacks-data-breaches/fake-copyright-infringement-emails-rhadamanthys?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The emails are automated, and they look like they come from legal representatives of real companies. Many of these companies are in the technology, media, and entertainment industries.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 8, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Authentication Bypass Flaw Impacts Apache ZooKeeper Admin Server<a href="https://securityonline.info/apache-zookeeper-security-alert-important-flaw-impacts-admin-server-cve-2024-51504/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This flaw, rated as "important," exposes the ZooKeeper Admin Server to authentication bypass via client IP spoofing due to weak default IP detection configurations in IP address detection.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 8, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Behind VEILDrive Campaign Exploit Microsoft Services for C2<a href="https://www.hunters.security/en/blog/veildrive-microsoft-services-malware-c2?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ongoing threat campaign known as VEILDrive is utilizing Microsoft services such as Teams, SharePoint, Quick Assist, and OneDrive in its operations to distribute spear-phishing attacks and store malware.
+</details>
+<div style="text-align: right" markdown="1">
+Hunters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 7, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

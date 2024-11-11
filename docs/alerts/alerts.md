@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 6, 2024 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Helping banish malicious adverts – and drive a secure advertising ecosystem <a href="https://www.ncsc.gov.uk/blog-post/helping-banish-malicious-adverts?&web_view=true%27"> Full Text</a>
+</p>
+<details>
+Online advertising is a key and growing component of the global digital economy. According to an industry review, the UK is expected to spend a projected £3.7 billion on advertising in 2024, and roughly three quarters of that will be digital content. This makes digital advertising a huge contributor to the UK economy, but public and commercial trust in the cyber security of the sector is essential if this is to remain the case.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 2024 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

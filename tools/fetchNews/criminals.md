@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Suspect Behind Snowflake Data-Theft Attacks Arrested in Canada<a href="https://www.bleepingcomputer.com/news/security/suspect-behind-snowflake-data-theft-attacks-arrested-in-canada/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The investigations by Snowflake, Mandiant, and CrowdStrike revealed that an attacker known as UNC5537 utilized stolen customer credentials to target organizations that lacked multi-factor authentication protection on their Snowflake accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive Nigerian Cybercrime Bust Sees 130 Arrested<a href="https://www.infosecurity-magazine.com/news/massive-nigerian-cybercrime-bust/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a massive law enforcement operation, the Nigeria Police Force (NPF) has arrested 130 individuals over cybercrime accusations. Prince Olumuyiwa Adejobi, the NPF public relations officer, announced the arrests on X on November 3.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 30, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

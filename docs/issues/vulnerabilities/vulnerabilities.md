@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 9, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Command Injection Flaw Threatens Over 61,000 D-Link NAS Devices<a href="https://securityonline.info/cve-2024-10914-cvss-9-2-command-injection-flaw-threatens-61000-d-link-nas-devices/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2024-10914, a critical vulnerability in D-Link NAS devices, affects over 61,000 systems globally. The flaw allows remote attackers to execute commands via HTTP GET requests. It impacts models like DNS-320, DNS-320LW, DNS-325, and DNS-340L.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 9, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco NDFC Vulnerability Grants Attackers Extensive Control<a href="https://securityonline.info/cve-2024-20536-cisco-ndfc-vulnerability-grants-attackers-extensive-control/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This flaw allows authenticated remote attackers to execute SQL commands on affected devices, posing a significant security risk. The vulnerability is due to inadequate user input validation in Cisco NDFC's REST API endpoint and management interface.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 8, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Authentication Bypass Flaw Impacts Apache ZooKeeper Admin Server<a href="https://securityonline.info/apache-zookeeper-security-alert-important-flaw-impacts-admin-server-cve-2024-51504/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This flaw, rated as "important," exposes the ZooKeeper Admin Server to authentication bypass via client IP spoofing due to weak default IP detection configurations in IP address detection.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 7, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

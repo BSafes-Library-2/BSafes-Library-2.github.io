@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+November 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CrowdStrike Acquires Adaptive Shield in $300M Deal to Boost SaaS Security<a href="https://www.calcalistech.com/ctechnews/article/s1zuniozkx?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity giant CrowdStrike has acquired Israeli cyber startup Adaptive Shield for approximately $300 million. Adaptive Shield, founded in 2019, focuses on monitoring and controlling security in cloud environments to prevent potential attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Calcalis
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 4, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

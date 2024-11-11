@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+November 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Cloud to Mandate MFA for all Users in 2025<a href="https://www.cybersecuritydive.com/news/google-cloud-mandate-multifactor-authentication/732141/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Cloud announced that it will require multifactor authentication (MFA) for all users by the end of 2025. The company will roll out MFA in phases and start encouraging users to enroll this month.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 6, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
