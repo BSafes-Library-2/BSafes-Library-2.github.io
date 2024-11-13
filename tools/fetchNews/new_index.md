@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2024
+November 12, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Node.js-based Wish Stealer Targets Discord, Browsers, and Cryptocurrency Wallets<a href="https://www.cyfirma.com/research/wish-stealer/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ New Node.js-based Wish Stealer Targets Discord, Browsers, and Cryptocurrency Wal
 CYFIRMA recently discovered a new malware called “Wish Stealer” that targets Windows users by stealing sensitive information from various sources like Discord, web browsers, cryptocurrency wallets, and social media accounts.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyfirma
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2024
+November 12, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Schneider Electric Warns of Multiple Vulnerabilities in Modicon Controllers<a href="https://securityonline.info/schneider-electric-warns-of-multiple-vulnerabilities-in-modicon-controllers/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Schneider Electric Warns of Multiple Vulnerabilities in Modicon Controllers<a hr
 Schneider Electric has issued a security notification regarding critical vulnerabilities in its Modicon M340, Momentum, and MC80 controllers. These programmable automation controllers (PACs) are used to monitor and control industrial operations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2024
+November 12, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Breaking Down Earth Estries' Persistent TTPs in Prolonged Cyber Operations<a href="https://www.trendmicro.com/en_us/research/24/k/breaking-down-earth-estries-persistent-ttps-in-prolonged-cyber-o.html?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Breaking Down Earth Estries' Persistent TTPs in Prolonged Cyber Operations<a hre
 Trend Micro identified two infection chains: the first uses PsExec and WMI for lateral movement, while the second exploits vulnerabilities in Microsoft Exchange servers with ChinaChopper web shell.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Trend Micro
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2024
+November 12, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SAP Patches Multiple Vulnerabilities in November 2024 Security Patch Day<a href="https://securityonline.info/sap-patches-multiple-vulnerabilities-in-november-2024-security-patch-day/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ SAP Patches Multiple Vulnerabilities in November 2024 Security Patch Day<a href=
 SAP released eight new security notes and updated two previously released notes to address critical flaws, including cross-site scripting, missing authorization checks, privilege escalation, information disclosure, and NULL pointer dereference.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2024
+November 12, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Visio Files Used in Sophisticated Phishing Attacks<a href="https://www.infosecurity-magazine.com/news/microsoft-visio-files-phishing/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Microsoft Visio Files Used in Sophisticated Phishing Attacks<a href="https://www
 Security researchers have noticed a rise in complex phishing attacks using Microsoft Visio files. These attacks use the . vsdx format of Visio, a file type commonly used for business diagrams, to hide malicious URLs and slip past security scans.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2024
+November 12, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical D-Link DSL-6740C Flaw Spotted, Immediate Replacement Advised<a href="https://securityonline.info/cve-2024-11068-cvss-9-8-critical-d-link-dsl-6740c-flaw-immediate-replacement-advised/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Critical D-Link DSL-6740C Flaw Spotted, Immediate Replacement Advised<a href="ht
 TWCERT/CC has identified critical vulnerabilities in the D-Link DSL-6740C modem. These include flaws like unauthorized modification of passwords, arbitrary file reading, and OS command injection.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2024
+November 12, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unpatched Epson Devices at Risk Due to Insecure Initial Password Configuration<a href="https://securityonline.info/unpatched-epson-devices-at-risk-cve-2024-47295-allows-easy-hijacking/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Unpatched Epson Devices at Risk Due to Insecure Initial Password Configuration<a
 A new security vulnerability, CVE-2024-47295, has been discovered in SEIKO EPSON products, allowing attackers to gain control of devices with administrative privileges due to an insecure initial password configuration in the Web Config software.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2024
+November 12, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Evasive ZIP File Concatenation Used to Deploy Trojan Targeting Windows Users<a href="https://perception-point.io/blog/evasive-concatenated-zip-trojan-targets-windows-users/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Evasive ZIP File Concatenation Used to Deploy Trojan Targeting Windows Users<a h
 According to Perception Point, hackers are increasingly using a technique called ZIP file concatenation to hide malicious payloads in compressed archives in a way that security solutions might miss.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Perception Point
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2024
+November 12, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 XStream Security Advisory Warns of a Denial of Service Vulnerability<a href="https://securityonline.info/xstream-security-advisory-denial-of-service-vulnerability-cve-2024-47072/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ XStream Security Advisory Warns of a Denial of Service Vulnerability<a href="htt
 The issue stems from how XStream’s BinaryStreamDriver handles string value IDs during deserialization, enabling attackers to create input that triggers an endless recursion loop and stack overflow.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2024
+November 12, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Industrial Companies in Europe Targeted with GuLoader<a href="https://www.helpnetsecurity.com/2024/11/07/industrial-europe-spear-phishing-guloader/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Industrial Companies in Europe Targeted with GuLoader<a href="https://www.helpne
 The malware employs memory injection techniques to execute malicious payloads without writing files to the disk, evading antivirus software. It includes anti-debugging tools to hinder analysis and injects shellcode into legitimate Windows processes.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
