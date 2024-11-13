@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Visio Files Used in Sophisticated Phishing Attacks<a href="https://www.infosecurity-magazine.com/news/microsoft-visio-files-phishing/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have noticed a rise in complex phishing attacks using Microsoft Visio files. These attacks use the . vsdx format of Visio, a file type commonly used for business diagrams, to hide malicious URLs and slip past security scans.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 9, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

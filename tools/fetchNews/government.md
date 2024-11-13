@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+November 9, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NCSC Issues Security Guidance to Help Banish Malicious Adverts and Drive a Secure Advertising Ecosystem<a href="https://www.ncsc.gov.uk/blog-post/helping-banish-malicious-adverts?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Brands are advised by the National Cyber Security Centre (NCSC) to ensure that their digital advertising partners prioritize cybersecurity, collaboration, and transparency to reduce the risk of malvertising on their websites.
+</details>
+<div style="text-align: right" markdown="1">
+NCSC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 2, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

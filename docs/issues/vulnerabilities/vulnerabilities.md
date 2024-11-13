@@ -8,6 +8,76 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Schneider Electric Warns of Multiple Vulnerabilities in Modicon Controllers<a href="https://securityonline.info/schneider-electric-warns-of-multiple-vulnerabilities-in-modicon-controllers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Schneider Electric has issued a security notification regarding critical vulnerabilities in its Modicon M340, Momentum, and MC80 controllers. These programmable automation controllers (PACs) are used to monitor and control industrial operations.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP Patches Multiple Vulnerabilities in November 2024 Security Patch Day<a href="https://securityonline.info/sap-patches-multiple-vulnerabilities-in-november-2024-security-patch-day/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SAP released eight new security notes and updated two previously released notes to address critical flaws, including cross-site scripting, missing authorization checks, privilege escalation, information disclosure, and NULL pointer dereference.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical D-Link DSL-6740C Flaw Spotted, Immediate Replacement Advised<a href="https://securityonline.info/cve-2024-11068-cvss-9-8-critical-d-link-dsl-6740c-flaw-immediate-replacement-advised/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TWCERT/CC has identified critical vulnerabilities in the D-Link DSL-6740C modem. These include flaws like unauthorized modification of passwords, arbitrary file reading, and OS command injection.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Epson Devices at Risk Due to Insecure Initial Password Configuration<a href="https://securityonline.info/unpatched-epson-devices-at-risk-cve-2024-47295-allows-easy-hijacking/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new security vulnerability, CVE-2024-47295, has been discovered in SEIKO EPSON products, allowing attackers to gain control of devices with administrative privileges due to an insecure initial password configuration in the Web Config software.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+XStream Security Advisory Warns of a Denial of Service Vulnerability<a href="https://securityonline.info/xstream-security-advisory-denial-of-service-vulnerability-cve-2024-47072/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The issue stems from how XStream’s BinaryStreamDriver handles string value IDs during deserialization, enabling attackers to create input that triggers an endless recursion loop and stack overflow.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 9, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

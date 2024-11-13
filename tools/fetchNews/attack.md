@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+November 9, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-Aligned MirrorFace Hackers Target EU Diplomats with World Expo 2025 Bait<a href="https://thehackernews.com/2024/11/china-aligned-mirrorface-hackers-target.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MirrorFace, a Chinese state-linked threat actor, targeted a diplomatic organization in the European Union for the first time. The attack used the World Expo 2025 in Osaka, Japan, as a lure.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 9, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Silent Skimmer Gets Loud Again<a href="https://unit42.paloaltonetworks.com/silent-skimmer-latest-campaign/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During a Silent Skimmer campaign in May 2024, attackers gained access to servers by exploiting outdated Telerik UI vulnerabilities, deploying reverse shells, and using tools like GodPotato for privilege escalation.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 8, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Behind VEILDrive Campaign Exploit Microsoft Services for C2<a href="https://www.hunters.security/en/blog/veildrive-microsoft-services-malware-c2?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ongoing threat campaign known as VEILDrive is utilizing Microsoft services such as Teams, SharePoint, Quick Assist, and OneDrive in its operations to distribute spear-phishing attacks and store malware.
+</details>
+<div style="text-align: right" markdown="1">
+Hunters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 4, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
