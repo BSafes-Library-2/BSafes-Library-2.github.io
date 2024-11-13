@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 9, 2024
+November 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Node.js-based Wish Stealer Targets Discord, Browsers, and Cryptocurrency Wallets<a href="https://www.cyfirma.com/research/wish-stealer/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CYFIRMA recently discovered a new malware called “Wish Stealer” that targets Windows users by stealing sensitive information from various sources like Discord, web browsers, cryptocurrency wallets, and social media accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Schneider Electric Warns of Multiple Vulnerabilities in Modicon Controllers<a href="https://securityonline.info/schneider-electric-warns-of-multiple-vulnerabilities-in-modicon-controllers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Schneider Electric has issued a security notification regarding critical vulnerabilities in its Modicon M340, Momentum, and MC80 controllers. These programmable automation controllers (PACs) are used to monitor and control industrial operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Breaking Down Earth Estries' Persistent TTPs in Prolonged Cyber Operations<a href="https://www.trendmicro.com/en_us/research/24/k/breaking-down-earth-estries-persistent-ttps-in-prolonged-cyber-o.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro identified two infection chains: the first uses PsExec and WMI for lateral movement, while the second exploits vulnerabilities in Microsoft Exchange servers with ChinaChopper web shell.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP Patches Multiple Vulnerabilities in November 2024 Security Patch Day<a href="https://securityonline.info/sap-patches-multiple-vulnerabilities-in-november-2024-security-patch-day/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SAP released eight new security notes and updated two previously released notes to address critical flaws, including cross-site scripting, missing authorization checks, privilege escalation, information disclosure, and NULL pointer dereference.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Visio Files Used in Sophisticated Phishing Attacks<a href="https://www.infosecurity-magazine.com/news/microsoft-visio-files-phishing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have noticed a rise in complex phishing attacks using Microsoft Visio files. These attacks use the . vsdx format of Visio, a file type commonly used for business diagrams, to hide malicious URLs and slip past security scans.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical D-Link DSL-6740C Flaw Spotted, Immediate Replacement Advised<a href="https://securityonline.info/cve-2024-11068-cvss-9-8-critical-d-link-dsl-6740c-flaw-immediate-replacement-advised/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TWCERT/CC has identified critical vulnerabilities in the D-Link DSL-6740C modem. These include flaws like unauthorized modification of passwords, arbitrary file reading, and OS command injection.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Epson Devices at Risk Due to Insecure Initial Password Configuration<a href="https://securityonline.info/unpatched-epson-devices-at-risk-cve-2024-47295-allows-easy-hijacking/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new security vulnerability, CVE-2024-47295, has been discovered in SEIKO EPSON products, allowing attackers to gain control of devices with administrative privileges due to an insecure initial password configuration in the Web Config software.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evasive ZIP File Concatenation Used to Deploy Trojan Targeting Windows Users<a href="https://perception-point.io/blog/evasive-concatenated-zip-trojan-targets-windows-users/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Perception Point, hackers are increasingly using a technique called ZIP file concatenation to hide malicious payloads in compressed archives in a way that security solutions might miss.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+XStream Security Advisory Warns of a Denial of Service Vulnerability<a href="https://securityonline.info/xstream-security-advisory-denial-of-service-vulnerability-cve-2024-47072/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The issue stems from how XStream’s BinaryStreamDriver handles string value IDs during deserialization, enabling attackers to create input that triggers an endless recursion loop and stack overflow.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Industrial Companies in Europe Targeted with GuLoader<a href="https://www.helpnetsecurity.com/2024/11/07/industrial-europe-spear-phishing-guloader/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware employs memory injection techniques to execute malicious payloads without writing files to the disk, evading antivirus software. It includes anti-debugging tools to hinder analysis and injects shellcode into legitimate Windows processes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 9, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Command Injection Flaw Threatens Over 61,000 D-Link NAS Devices<a href="https://securityonline.info/cve-2024-10914-cvss-9-2-command-injection-flaw-threatens-61000-d-link-nas-devices/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Critical Command Injection Flaw Threatens Over 61,000 D-Link NAS Devices<a href=
 CVE-2024-10914, a critical vulnerability in D-Link NAS devices, affects over 61,000 systems globally. The flaw allows remote attackers to execute commands via HTTP GET requests. It impacts models like DNS-320, DNS-320LW, DNS-325, and DNS-340L.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 9, 2024
+November 9, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NCSC Issues Security Guidance to Help Banish Malicious Adverts and Drive a Secure Advertising Ecosystem<a href="https://www.ncsc.gov.uk/blog-post/helping-banish-malicious-adverts?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ NCSC Issues Security Guidance to Help Banish Malicious Adverts and Drive a Secur
 Brands are advised by the National Cyber Security Centre (NCSC) to ensure that their digital advertising partners prioritize cybersecurity, collaboration, and transparency to reduce the risk of malvertising on their websites.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+NCSC
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 9, 2024
+November 9, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco NDFC Vulnerability Grants Attackers Extensive Control<a href="https://securityonline.info/cve-2024-20536-cisco-ndfc-vulnerability-grants-attackers-extensive-control/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Cisco NDFC Vulnerability Grants Attackers Extensive Control<a href="https://secu
 This flaw allows authenticated remote attackers to execute SQL commands on affected devices, posing a significant security risk. The vulnerability is due to inadequate user input validation in Cisco NDFC's REST API endpoint and management interface.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 9, 2024
+November 9, 2024 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean APT BlueNoroff Targets Macs with Fake Crypto News and Novel Persistence<a href="https://www.sentinelone.com/labs/bluenoroff-hidden-risk-threat-actor-targets-macs-with-fake-crypto-news-and-novel-persistence/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ North Korean APT BlueNoroff Targets Macs with Fake Crypto News and Novel Persist
 SentinelLabs found a new type of malware being used by North Korean hackers to target businesses that deal with cryptocurrency. This malware is similar to attacks previously linked to BlueNoroff.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+SentinelOne
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 9, 2024
+November 9, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GodFather Malware Now Targets More Than 500 Banking and Crypto Apps<a href="https://securityonline.info/godfather-malware-now-targets-500-banking-and-crypto-apps/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ GodFather Malware Now Targets More Than 500 Banking and Crypto Apps<a href="http
 The GodFather malware has now expanded to target over 500 banking and cryptocurrency applications globally, using sophisticated tactics like phishing sites and native code implementation to evade detection.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 9, 2024
+November 9, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-Aligned MirrorFace Hackers Target EU Diplomats with World Expo 2025 Bait<a href="https://thehackernews.com/2024/11/china-aligned-mirrorface-hackers-target.html?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ China-Aligned MirrorFace Hackers Target EU Diplomats with World Expo 2025 Bait<a
 MirrorFace, a Chinese state-linked threat actor, targeted a diplomatic organization in the European Union for the first time. The attack used the World Expo 2025 in Osaka, Japan, as a lure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 9, 2024
+November 9, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Silent Skimmer Gets Loud Again<a href="https://unit42.paloaltonetworks.com/silent-skimmer-latest-campaign/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Silent Skimmer Gets Loud Again<a href="https://unit42.paloaltonetworks.com/silen
 During a Silent Skimmer campaign in May 2024, attackers gained access to servers by exploiting outdated Telerik UI vulnerabilities, deploying reverse shells, and using tools like GodPotato for privilege escalation.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Palo Alto Networks
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 9, 2024
+November 9, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Copyright Infringement Emails Spread Rhadamanthys<a href="https://www.darkreading.com/cyberattacks-data-breaches/fake-copyright-infringement-emails-rhadamanthys?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Fake Copyright Infringement Emails Spread Rhadamanthys<a href="https://www.darkr
 The emails are automated, and they look like they come from legal representatives of real companies. Many of these companies are in the technology, media, and entertainment industries.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 8, 2024
+November 8, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Authentication Bypass Flaw Impacts Apache ZooKeeper Admin Server<a href="https://securityonline.info/apache-zookeeper-security-alert-important-flaw-impacts-admin-server-cve-2024-51504/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Authentication Bypass Flaw Impacts Apache ZooKeeper Admin Server<a href="https:/
 This flaw, rated as "important," exposes the ZooKeeper Admin Server to authentication bypass via client IP spoofing due to weak default IP detection configurations in IP address detection.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 8, 2024
+November 8, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actors Behind VEILDrive Campaign Exploit Microsoft Services for C2<a href="https://www.hunters.security/en/blog/veildrive-microsoft-services-malware-c2?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Threat Actors Behind VEILDrive Campaign Exploit Microsoft Services for C2<a href
 The ongoing threat campaign known as VEILDrive is utilizing Microsoft services such as Teams, SharePoint, Quick Assist, and OneDrive in its operations to distribute spear-phishing attacks and store malware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hunters
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
