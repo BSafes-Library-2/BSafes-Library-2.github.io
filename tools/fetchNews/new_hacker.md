@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Create Flutter Apps to Bypass macOS Security<a href="https://www.bleepingcomputer.com/news/security/north-korean-hackers-create-flutter-apps-to-bypass-macos-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean hackers have created Flutter apps to bypass macOS security measures. They created trojanized Notepad apps and minesweeper games using Flutter, which were signed and notarized by legitimate Apple developer IDs.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 12, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

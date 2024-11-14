@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2024 - CISA, FBI, NSA, ACSC, CCCS, CERT NZ, NCSC-UK
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2023 Top Routinely Exploited Vulnerabilities <a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-317a?&web_view=true"> Full Text</a>
+</p>
+<details>
+This advisory provides details, collected and compiled by the authoring agencies, on the Common Vulnerabilities and Exposures (CVEs) routinely and frequently exploited by malicious cyber actors in 2023 and their associated Common Weakness Enumerations (CWEs). Malicious cyber actors exploited more zero-day vulnerabilities to compromise enterprise networks in 2023 compared to 2022, allowing them to conduct operations against high priority targets.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 6, 2024 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

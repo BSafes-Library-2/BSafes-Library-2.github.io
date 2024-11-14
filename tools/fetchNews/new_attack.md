@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+November 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hamas Tied to October Wiper Attacks Using Eset Email<a href="https://www.healthcareinfosecurity.com/hamas-tied-to-october-wiper-attacks-using-eset-email-a-26795?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point Research indicated that WIRTE has expanded from espionage to include disruptive attacks. Evidence shows that the malware employed by this group is connected to SameCoin, a wiper malware that has previously affected Israeli entities.
+</details>
+<div style="text-align: right" markdown="1">
+Healthcare Infosecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 9, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+November 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, FBI, and NSA Reveal Top Routinely Exploited Vulnerabilities of 2023<a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-317a?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twelve out of the top 15 vulnerabilities were addressed last year, highlighting the importance of patching security flaws before they are exploited. The list included vulnerabilities in products from companies like Citrix, Cisco, Fortinet, and more.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 9, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+November 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple’s 45-Day Certificate Proposal: A Call to Action<a href="https://www.helpnetsecurity.com/2024/11/08/apple-shorter-certificate-lifespans-proposal/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has proposed a significant change to shorten the lifespan of TLS certificates from 398 days to just 45 days by 2027, with plans to put this proposal to a vote among Certification Authority Browser Forum (CA/B Forum) members soon.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 7, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

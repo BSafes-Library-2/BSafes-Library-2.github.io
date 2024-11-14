@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Exploit Method Targets Google Chrome Without Needing Zero-Days<a href="https://securityonline.info/javascript-drive-by-attacks-new-exploits-without-0-day-in-google-chrome/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher from Imperva found a new way for attackers to target Chrome users without needing zero-day vulnerabilities. Using the File System Access API, websites can read and write to local files when users give permission.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft November 2024 Patch Tuesday Fixes 91 Flaws, Including Four Zero-Days<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2024-patch-tuesday-fixes-4-zero-days-91-flaws/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft patched two actively exploited zero-days, including CVE-2024-43451, which exposes NTLM hashes with minimal interaction, and CVE-2024-49039, enabling privilege escalation via crafted applications.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Citrix Issues Patches for Zero-Day Recording Manager Bugs<a href="https://www.darkreading.com/cloud-security/citrix-patches-zero-day-recording-manager-bugs?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Citrix has released patches for two vulnerabilities in its Virtual Apps and Desktop technology that could allow remote attackers to escalate privileges or execute arbitrary code on affected systems.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 12, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
