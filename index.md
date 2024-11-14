@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, FBI, and NSA Reveal Top Routinely Exploited Vulnerabilities of 2023<a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-317a?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twelve out of the top 15 vulnerabilities were addressed last year, highlighting the importance of patching security flaws before they are exploited. The list included vulnerabilities in products from companies like Citrix, Cisco, Fortinet, and more.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'GoIssue' Cybercrime Tool Targets GitHub Developers for Bulk Credential Theft<a href="https://www.darkreading.com/cloud-security/goissue-cybercrime-tool-github-developers-en-masse?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cybercrime tool called GoIssue is being sold for $700 on a forum. It helps cyberattackers steal email addresses from GitHub profiles to use for further attacks like malware delivery and data breaches.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hamas Tied to October Wiper Attacks Using Eset Email<a href="https://www.healthcareinfosecurity.com/hamas-tied-to-october-wiper-attacks-using-eset-email-a-26795?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point Research indicated that WIRTE has expanded from espionage to include disruptive attacks. Evidence shows that the malware employed by this group is connected to SameCoin, a wiper malware that has previously affected Israeli entities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Create Flutter Apps to Bypass macOS Security<a href="https://www.bleepingcomputer.com/news/security/north-korean-hackers-create-flutter-apps-to-bypass-macos-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean hackers have created Flutter apps to bypass macOS security measures. They created trojanized Notepad apps and minesweeper games using Flutter, which were signed and notarized by legitimate Apple developer IDs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microchip Technology Reports $21.4M Expense From August Cyberattack<a href="https://www.cybersecuritydive.com/news/microchip-technology-cyberattack-financial-impact/732270/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microchip Technology revealed a $21.4 million cost incurred from a cyberattack in August 2024 in its quarterly report. SVP and CFO Eric Bjornholt stated that most of the expenses were due to the underutilization of factories caused by the incident.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Exploit Method Targets Google Chrome Without Needing Zero-Days<a href="https://securityonline.info/javascript-drive-by-attacks-new-exploits-without-0-day-in-google-chrome/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher from Imperva found a new way for attackers to target Chrome users without needing zero-day vulnerabilities. Using the File System Access API, websites can read and write to local files when users give permission.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple’s 45-Day Certificate Proposal: A Call to Action<a href="https://www.helpnetsecurity.com/2024/11/08/apple-shorter-certificate-lifespans-proposal/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has proposed a significant change to shorten the lifespan of TLS certificates from 398 days to just 45 days by 2027, with plans to put this proposal to a vote among Certification Authority Browser Forum (CA/B Forum) members soon.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unmasking the SEO Poisoning and Malware Networks Behind Fake E-Commerce Sites<a href="https://securityonline.info/seo-poisoning-unmasking-the-malware-networks-behind-fake-e-commerce/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A study by Trend Micro, Japanese authorities, and universities exposed a network of SEO malware families behind fake e-commerce scams targeting Japanese users. Nearly 50,000 fake e-commerce sites were reported in 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft November 2024 Patch Tuesday Fixes 91 Flaws, Including Four Zero-Days<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2024-patch-tuesday-fixes-4-zero-days-91-flaws/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft patched two actively exploited zero-days, including CVE-2024-43451, which exposes NTLM hashes with minimal interaction, and CVE-2024-49039, enabling privilege escalation via crafted applications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Citrix Issues Patches for Zero-Day Recording Manager Bugs<a href="https://www.darkreading.com/cloud-security/citrix-patches-zero-day-recording-manager-bugs?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Citrix has released patches for two vulnerabilities in its Virtual Apps and Desktop technology that could allow remote attackers to escalate privileges or execute arbitrary code on affected systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 12, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
