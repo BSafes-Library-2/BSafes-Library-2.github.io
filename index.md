@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fraud Network Uses 4,700 Fake Shopping Sites to Steal Credit Cards<a href="https://www.bleepingcomputer.com/news/security/fraud-network-uses-4-700-fake-shopping-sites-to-steal-credit-cards/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat group known as SilkSpecter, speculated to be from China, is using thousands of fake online stores to steal credit card information from shoppers in the U.S. and Europe.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New LodaRAT Campaign Targets Global Victims with Updated Capabilities<a href="https://securityonline.info/lodarat-strikes-again-new-campaign-targets-global-victims-with-updated-capabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Rapid7 have uncovered a new campaign using LodaRAT, a well-known remote access tool active since 2016. The latest variant expands by targeting cookies and credentials from Microsoft Edge and Brave browsers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Power Pages Misconfiguration Leads to Data Exposure<a href="https://www.infosecurity-magazine.com/news/microsoft-power-pages/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Misconfigurations in Microsoft Power Pages are exposing sensitive data. Excessive access permissions allow unauthorized users to access personal information like employee details and internal files.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Glove Stealer Malware Bypasses Chrome’s Cookie Encryption<a href="https://www.bleepingcomputer.com/news/security/new-glove-infostealer-malware-bypasses-google-chromes-cookie-encryption/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new malware named Glove Stealer can get around Google Chrome's App-Bound encryption to steal browser cookies. Security researchers found this malware during a phishing campaign and noted that it is still in the early stages of development.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LightSpy: APT41 Deploys Advanced DeepData Framework In Targeted Southern Asia Espionage Campaign<a href="https://blogs.blackberry.com/en/2024/11/lightspy-apt41-deploys-advanced-deepdata-framework-in-targeted-southern-asia-espionage-campaign?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DeepData v3.2.1228 framework allows for extensive data theft across platforms like WhatsApp, Telegram, Signal, DingDing, and Feishu. It consists of 12 specialized plugins for extracting messaging data, emails, credentials, and system information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Warns of Rising Cloaking Scams, AI-Driven Fraud, and Crypto Schemes<a href="https://thehackernews.com/2024/11/google-warns-of-rising-cloaking-scams.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has stated that scammers are using tactics such as cloaking to impersonate legitimate websites and conduct scams. Cloaking involves showing different content to search engines and users to manipulate search rankings and deceive people.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sliver and Ligolo-ng Attack Leverages Y Combinator Brand<a href="https://securityonline.info/trusted-name-weaponized-sliver-and-ligolo-ng-attack-leverages-y-combinator-brand/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers at Hunt.io have found a recent cyber operation using the Sliver command-and-control (C2) framework and Ligolo-ng tunneling tool. The operation targeted victims using the trusted name of Y Combinator.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sitting Ducks DNS Attacks Put Global Domains at Risk<a href="https://www.infosecurity-magazine.com/news/sitting-ducks-dns-attacks-global/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Using the Sitting Ducks attack, cybercriminals have taken control of many domain names since 2018, impacting numerous well-known companies, non-profits, and government entities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Find New Zero-Day Vulnerability in Fortinet Products<a href="https://www.infosecurity-magazine.com/news/watchtowr-new-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new vulnerability found by watchTowr triggers FortiJump and includes two file overwrite vulnerabilities. The company stated that Fortinet's patch for FortiJump is ineffective for all exploit methods.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Synology Issues Patches for Critical Camera Flaws Discovered at Pwn2Own<a href="https://securityonline.info/synology-issues-patches-for-critical-camera-flaws-discovered-at-pwn2own/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers from Viettel Cyber Security and Zien uncovered the vulnerabilities, which could allow remote attackers to execute arbitrary code or commands on affected devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 13, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
