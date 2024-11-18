@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+November 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Warns of Rising Cloaking Scams, AI-Driven Fraud, and Crypto Schemes<a href="https://thehackernews.com/2024/11/google-warns-of-rising-cloaking-scams.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has stated that scammers are using tactics such as cloaking to impersonate legitimate websites and conduct scams. Cloaking involves showing different content to search engines and users to manipulate search rankings and deceive people.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 7, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

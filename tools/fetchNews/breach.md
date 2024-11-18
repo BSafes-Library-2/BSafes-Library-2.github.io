@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+November 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microchip Technology Reports $21.4M Expense From August Cyberattack<a href="https://www.cybersecuritydive.com/news/microchip-technology-cyberattack-financial-impact/732270/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microchip Technology revealed a $21.4 million cost incurred from a cyberattack in August 2024 in its quarterly report. SVP and CFO Eric Bjornholt stated that most of the expenses were due to the underutilization of factories caused by the incident.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 1, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

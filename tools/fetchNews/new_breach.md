@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+November 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Power Pages Misconfiguration Leads to Data Exposure<a href="https://www.infosecurity-magazine.com/news/microsoft-power-pages/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Misconfigurations in Microsoft Power Pages are exposing sensitive data. Excessive access permissions allow unauthorized users to access personal information like employee details and internal files.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 13, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
