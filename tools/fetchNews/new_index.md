@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 16, 2024
+November 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Actively Exploited Vulnerabilities in Kemp LoadMaster and Palo Alto Networks PAN-OS<a href="https://securityonline.info/cisa-warns-of-actively-exploited-vulnerabilities-in-kemp-loadmaster-and-palo-alto-networks-pan-os/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has issued an urgent warning about three actively exploited vulnerabilities affecting popular networking and security products.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FrostyGoop’s Zoom-In: A Closer Look into the Malware Artifacts, Behaviors and Network Communications<a href="https://unit42.paloaltonetworks.com/frostygoop-malware-analysis/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FrostyGoop is the ninth reported OT-centric malware, but the first that used Modbus TCP communications to impact the power supply to heating services for over 600 apartment buildings.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Gangs on Recruitment Drive for Pen Testers<a href="https://www.infosecurity-magazine.com/news/ransomware-gangs-pen-testers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively seeing pen testers to join various ransomware affiliate programs, including Apos, Lynx and Rabbit Hole. Now, ransomware gangs are hiring people with the same level of expertise.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Hijack Unsecured Jupyter Notebooks to Stream Illegal Sports Broadcasts<a href="https://thehackernews.com/2024/11/hackers-hijack-unsecured-jupyter.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacks involve the hijack of unauthenticated Jupyter Notebooks to establish initial access, and perform a series of actions designed to facilitate illegal live streaming of sports events.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ngioweb Botnet Fuels NSOCKS Residential Proxy Network Exploiting IoT Devices<a href="https://thehackernews.com/2024/11/ngioweb-botnet-fuels-nsocks-residential.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two-thirds of these proxies are based in the U.S." "The network maintains a daily average of roughly 35,000 working bots, with 40% remaining active for a month or longer.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Palo Alto Networks patches two firewall zero-days used in attacks<a href="https://www.bleepingcomputer.com/news/security/palo-alto-networks-patches-two-firewall-zero-days-used-in-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first flaw, tracked as CVE-2024-0012, is an authentication bypass found in the PAN-OS management web interface that remote attackers can exploit to gain administrator privileges without requiring authentication or user interaction.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE bug in VMware vCenter Server now exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/critical-rce-bug-in-vmware-vcenter-server-now-exploited-in-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+?Broadcom has warned that attackers are now exploiting two VMware vCenter Server vulnerabilities, one of which is a critical remote code execution flaw. The RCE vulnerability was reported during China's 2024 Matrix Cup hacking contest.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang Akira leaks unprecedented number of victims’ data in one day<a href="https://therecord.media/akira-ransomware-group-publishes-unprecedented-leak-data?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Akira, a ransomware-as-a-service gang with a growing profile in the cybercrime underworld, has published a record number of new victims to its darknet leak site in a single day, and more apparently still being added.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spotify abused to promote pirated software and game cheats<a href="https://www.bleepingcomputer.com/news/security/spotify-abused-to-promote-pirated-software-and-game-cheats/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spotify playlists and podcasts are being abused to push pirated software, game cheat codes, and "warez" sites. By injecting targeted keywords and links in playlist names and podcast descriptions, threat actors may benefit from boosting SEO.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'Helldown' Ransomware Variant Expands Attacks to VMware and Linux Systems<a href="https://thehackernews.com/2024/11/new-helldown-ransomware-expands-attacks.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Helldown deploys Windows ransomware derived from the LockBit 3.0 code. Given the recent development of ransomware targeting ESX, it appears that the group could be evolving its current operations to target virtualized infrastructures via VMware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fraud Network Uses 4,700 Fake Shopping Sites to Steal Credit Cards<a href="https://www.bleepingcomputer.com/news/security/fraud-network-uses-4-700-fake-shopping-sites-to-steal-credit-cards/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Fraud Network Uses 4,700 Fake Shopping Sites to Steal Credit Cards<a href="https
 A threat group known as SilkSpecter, speculated to be from China, is using thousands of fake online stores to steal credit card information from shoppers in the U.S. and Europe.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 16, 2024
+November 16, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New LodaRAT Campaign Targets Global Victims with Updated Capabilities<a href="https://securityonline.info/lodarat-strikes-again-new-campaign-targets-global-victims-with-updated-capabilities/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ New LodaRAT Campaign Targets Global Victims with Updated Capabilities<a href="ht
 Researchers at Rapid7 have uncovered a new campaign using LodaRAT, a well-known remote access tool active since 2016. The latest variant expands by targeting cookies and credentials from Microsoft Edge and Brave browsers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 16, 2024
+November 16, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Power Pages Misconfiguration Leads to Data Exposure<a href="https://www.infosecurity-magazine.com/news/microsoft-power-pages/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Microsoft Power Pages Misconfiguration Leads to Data Exposure<a href="https://ww
 Misconfigurations in Microsoft Power Pages are exposing sensitive data. Excessive access permissions allow unauthorized users to access personal information like employee details and internal files.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 16, 2024
+November 16, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Glove Stealer Malware Bypasses Chrome’s Cookie Encryption<a href="https://www.bleepingcomputer.com/news/security/new-glove-infostealer-malware-bypasses-google-chromes-cookie-encryption/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ New Glove Stealer Malware Bypasses Chrome’s Cookie Encryption<a href="https://
 The new malware named Glove Stealer can get around Google Chrome's App-Bound encryption to steal browser cookies. Security researchers found this malware during a phishing campaign and noted that it is still in the early stages of development.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 16, 2024
+November 16, 2024 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LightSpy: APT41 Deploys Advanced DeepData Framework In Targeted Southern Asia Espionage Campaign<a href="https://blogs.blackberry.com/en/2024/11/lightspy-apt41-deploys-advanced-deepdata-framework-in-targeted-southern-asia-espionage-campaign?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ LightSpy: APT41 Deploys Advanced DeepData Framework In Targeted Southern Asia Es
 DeepData v3.2.1228 framework allows for extensive data theft across platforms like WhatsApp, Telegram, Signal, DingDing, and Feishu. It consists of 12 specialized plugins for extracting messaging data, emails, credentials, and system information.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Black Berry
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 16, 2024
+November 16, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Warns of Rising Cloaking Scams, AI-Driven Fraud, and Crypto Schemes<a href="https://thehackernews.com/2024/11/google-warns-of-rising-cloaking-scams.html?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Google Warns of Rising Cloaking Scams, AI-Driven Fraud, and Crypto Schemes<a hre
 Google has stated that scammers are using tactics such as cloaking to impersonate legitimate websites and conduct scams. Cloaking involves showing different content to search engines and users to manipulate search rankings and deceive people.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 16, 2024
+November 16, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sliver and Ligolo-ng Attack Leverages Y Combinator Brand<a href="https://securityonline.info/trusted-name-weaponized-sliver-and-ligolo-ng-attack-leverages-y-combinator-brand/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Sliver and Ligolo-ng Attack Leverages Y Combinator Brand<a href="https://securit
 Security researchers at Hunt.io have found a recent cyber operation using the Sliver command-and-control (C2) framework and Ligolo-ng tunneling tool. The operation targeted victims using the trusted name of Y Combinator.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 16, 2024
+November 16, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sitting Ducks DNS Attacks Put Global Domains at Risk<a href="https://www.infosecurity-magazine.com/news/sitting-ducks-dns-attacks-global/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Sitting Ducks DNS Attacks Put Global Domains at Risk<a href="https://www.infosec
 Using the Sitting Ducks attack, cybercriminals have taken control of many domain names since 2018, impacting numerous well-known companies, non-profits, and government entities.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2024
+November 15, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Find New Zero-Day Vulnerability in Fortinet Products<a href="https://www.infosecurity-magazine.com/news/watchtowr-new-vulnerability/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Researchers Find New Zero-Day Vulnerability in Fortinet Products<a href="https:/
 The new vulnerability found by watchTowr triggers FortiJump and includes two file overwrite vulnerabilities. The company stated that Fortinet's patch for FortiJump is ineffective for all exploit methods.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2024
+November 15, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Synology Issues Patches for Critical Camera Flaws Discovered at Pwn2Own<a href="https://securityonline.info/synology-issues-patches-for-critical-camera-flaws-discovered-at-pwn2own/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Synology Issues Patches for Critical Camera Flaws Discovered at Pwn2Own<a href="
 Security researchers from Viettel Cyber Security and Zien uncovered the vulnerabilities, which could allow remote attackers to execute arbitrary code or commands on affected devices.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
