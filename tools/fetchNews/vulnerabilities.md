@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Find New Zero-Day Vulnerability in Fortinet Products<a href="https://www.infosecurity-magazine.com/news/watchtowr-new-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new vulnerability found by watchTowr triggers FortiJump and includes two file overwrite vulnerabilities. The company stated that Fortinet's patch for FortiJump is ineffective for all exploit methods.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Synology Issues Patches for Critical Camera Flaws Discovered at Pwn2Own<a href="https://securityonline.info/synology-issues-patches-for-critical-camera-flaws-discovered-at-pwn2own/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers from Viettel Cyber Security and Zien uncovered the vulnerabilities, which could allow remote attackers to execute arbitrary code or commands on affected devices.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 13, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

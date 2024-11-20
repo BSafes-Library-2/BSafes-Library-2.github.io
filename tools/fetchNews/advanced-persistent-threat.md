@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+November 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LightSpy: APT41 Deploys Advanced DeepData Framework In Targeted Southern Asia Espionage Campaign<a href="https://blogs.blackberry.com/en/2024/11/lightspy-apt41-deploys-advanced-deepdata-framework-in-targeted-southern-asia-espionage-campaign?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DeepData v3.2.1228 framework allows for extensive data theft across platforms like WhatsApp, Telegram, Signal, DingDing, and Feishu. It consists of 12 specialized plugins for extracting messaging data, emails, credentials, and system information.
+</details>
+<div style="text-align: right" markdown="1">
+Black Berry
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 9, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

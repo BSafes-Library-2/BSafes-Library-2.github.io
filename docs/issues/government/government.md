@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+November 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Actively Exploited Vulnerabilities in Kemp LoadMaster and Palo Alto Networks PAN-OS<a href="https://securityonline.info/cisa-warns-of-actively-exploited-vulnerabilities-in-kemp-loadmaster-and-palo-alto-networks-pan-os/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has issued an urgent warning about three actively exploited vulnerabilities affecting popular networking and security products.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 13, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

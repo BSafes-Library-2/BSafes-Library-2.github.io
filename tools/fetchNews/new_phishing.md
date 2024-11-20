@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spotify abused to promote pirated software and game cheats<a href="https://www.bleepingcomputer.com/news/security/spotify-abused-to-promote-pirated-software-and-game-cheats/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spotify playlists and podcasts are being abused to push pirated software, game cheat codes, and "warez" sites. By injecting targeted keywords and links in playlist names and podcast descriptions, threat actors may benefit from boosting SEO.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 16, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

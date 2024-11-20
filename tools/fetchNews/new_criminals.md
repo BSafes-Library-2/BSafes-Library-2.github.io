@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Gangs on Recruitment Drive for Pen Testers<a href="https://www.infosecurity-magazine.com/news/ransomware-gangs-pen-testers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively seeing pen testers to join various ransomware affiliate programs, including Apos, Lynx and Rabbit Hole. Now, ransomware gangs are hiring people with the same level of expertise.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang Akira leaks unprecedented number of victims’ data in one day<a href="https://therecord.media/akira-ransomware-group-publishes-unprecedented-leak-data?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Akira, a ransomware-as-a-service gang with a growing profile in the cybercrime underworld, has published a record number of new victims to its darknet leak site in a single day, and more apparently still being added.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 7, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

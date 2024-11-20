@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+November 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Hijack Unsecured Jupyter Notebooks to Stream Illegal Sports Broadcasts<a href="https://thehackernews.com/2024/11/hackers-hijack-unsecured-jupyter.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacks involve the hijack of unauthenticated Jupyter Notebooks to establish initial access, and perform a series of actions designed to facilitate illegal live streaming of sports events.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 16, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+November 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New LodaRAT Campaign Targets Global Victims with Updated Capabilities<a href="https://securityonline.info/lodarat-strikes-again-new-campaign-targets-global-victims-with-updated-capabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Rapid7 have uncovered a new campaign using LodaRAT, a well-known remote access tool active since 2016. The latest variant expands by targeting cookies and credentials from Microsoft Edge and Brave browsers.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sliver and Ligolo-ng Attack Leverages Y Combinator Brand<a href="https://securityonline.info/trusted-name-weaponized-sliver-and-ligolo-ng-attack-leverages-y-combinator-brand/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers at Hunt.io have found a recent cyber operation using the Sliver command-and-control (C2) framework and Ligolo-ng tunneling tool. The operation targeted victims using the trusted name of Y Combinator.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sitting Ducks DNS Attacks Put Global Domains at Risk<a href="https://www.infosecurity-magazine.com/news/sitting-ducks-dns-attacks-global/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Using the Sitting Ducks attack, cybercriminals have taken control of many domain names since 2018, impacting numerous well-known companies, non-profits, and government entities.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 13, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

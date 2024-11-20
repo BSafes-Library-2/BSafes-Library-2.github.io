@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+November 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ngioweb Botnet Fuels NSOCKS Residential Proxy Network Exploiting IoT Devices<a href="https://thehackernews.com/2024/11/ngioweb-botnet-fuels-nsocks-residential.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two-thirds of these proxies are based in the U.S." "The network maintains a daily average of roughly 35,000 working bots, with 40% remaining active for a month or longer.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 20, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
