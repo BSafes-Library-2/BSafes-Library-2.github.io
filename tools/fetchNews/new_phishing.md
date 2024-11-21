@@ -8,6 +8,48 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+“Sad announcement” email leads to tech support scam<a href="https://www.malwarebytes.com/blog/news/2024/11/sad-announcement-email-leads-to-tech-support-scam?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tech support scammers are again stooping low with their email campaigns. This one hints that one of your contacts may have met an untimely end. It all starts with an email titled “Sad announcement” followed by a full name of someone you know.
+</details>
+<div style="text-align: right" markdown="1">
+Malware Bytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon and Audible flooded with 'forex trading' and warez listings<a href="https://www.bleepingcomputer.com/news/security/amazon-and-audible-flooded-with-forex-trading-and-warez-listings/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon, Amazon Music, and Audible, an Amazon-owned online audiobook and podcast service, have been flooded with bogus listings that push dubious "forex trading" sites, Telegram channels, and suspicious links claiming to offer pirated software.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AiTM Phishing, Hold the Gabagool: Analyzing the Gabagool Phishing Kit<a href="https://medium.com/@traclabs_/aitm-phishing-hold-the-gabagool-analyzing-the-gabagool-phishing-kit-531f5bbaf0e4?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor would initially compromise the user’s mailbox and begin sending phishing emails to other employees. These emails prompt recipients to view an image attached to the email.
+</details>
+<div style="text-align: right" markdown="1">
+Medium
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 19, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

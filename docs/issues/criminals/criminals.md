@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Exploit Weekend Lull to Launch Ransomware Attacks<a href="https://www.infosecurity-magazine.com/news/cybercriminals-exploit-weekend/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware gangs are increasingly targeting weekends and holidays, when cybersecurity teams are typically less staffed, according to a new report. 86% of study participants who experienced a ransomware attack were targeted on a weekend or holiday.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 19, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

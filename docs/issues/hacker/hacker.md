@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unveiling LIMINAL PANDA - Threats to Telecom Sector<a href="https://www.crowdstrike.com/en-us/blog/liminal-panda-telecom-sector-threats/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LIMINAL PANDA has used compromised telecom servers to initiate intrusions into further providers in other geographic regions.  The adversary conducts elements of their intrusion activity using protocols that support mobile telecommunications.
+</details>
+<div style="text-align: right" markdown="1">
+Crowdstrike
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 13, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
