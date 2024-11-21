@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2024
+November 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+“Sad announcement” email leads to tech support scam<a href="https://www.malwarebytes.com/blog/news/2024/11/sad-announcement-email-leads-to-tech-support-scam?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tech support scammers are again stooping low with their email campaigns. This one hints that one of your contacts may have met an untimely end. It all starts with an email titled “Sad announcement” followed by a full name of someone you know.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ghost Tap: Hackers Exploiting NFCGate to Steal Funds via Mobile Payments<a href="https://thehackernews.com/2024/11/ghost-tap-hackers-exploiting-nfcgate-to.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The technique, codenamed Ghost Tap by ThreatFabric, enables cybercriminals to cash-out money from stolen credit cards linked to mobile payment services such as Google Pay or Apple Pay and relaying NFC traffic.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon and Audible flooded with 'forex trading' and warez listings<a href="https://www.bleepingcomputer.com/news/security/amazon-and-audible-flooded-with-forex-trading-and-warez-listings/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon, Amazon Music, and Audible, an Amazon-owned online audiobook and podcast service, have been flooded with bogus listings that push dubious "forex trading" sites, Telegram channels, and suspicious links claiming to offer pirated software.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Decades-Old Security Vulnerabilities Found in Ubuntu's Needrestart Package<a href="https://thehackernews.com/2024/11/decades-old-security-vulnerabilities.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple decade-old security vulnerabilities have been disclosed in the needrestart package installed by default in Ubuntu Server (since version 21.04) that could allow a local attacker to gain root privileges without requiring user interaction.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Exploit Weekend Lull to Launch Ransomware Attacks<a href="https://www.infosecurity-magazine.com/news/cybercriminals-exploit-weekend/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware gangs are increasingly targeting weekends and holidays, when cybersecurity teams are typically less staffed, according to a new report. 86% of study participants who experienced a ransomware attack were targeted on a weekend or holiday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2024-51503: Trend Micro Deep Security Agent RCE Vulnerability Fixed<a href="https://securityonline.info/cve-2024-51503-trend-micro-deep-security-agent-rce-vulnerability-fixed/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently discovered vulnerability in the Trend Micro Deep Security 20 Agent could have allowed attackers to execute arbitrary code on affected machines. The vulnerability, identified as CVE-2024-51503, has been addressed in the latest update.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unveiling LIMINAL PANDA - Threats to Telecom Sector<a href="https://www.crowdstrike.com/en-us/blog/liminal-panda-telecom-sector-threats/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LIMINAL PANDA has used compromised telecom servers to initiate intrusions into further providers in other geographic regions.  The adversary conducts elements of their intrusion activity using protocols that support mobile telecommunications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+D-Link urges users to retire VPN routers impacted by unfixed RCE flaw<a href="https://www.bleepingcomputer.com/news/security/d-link-urges-users-to-retire-vpn-routers-impacted-by-unfixed-rce-flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+D-Link is warning customers to replace end-of-life VPN router models after a critical unauthenticated, remote code execution vulnerability was discovered that will not be fixed on these devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2024-47533 (CVSS 9.8): Cobbler Vulnerability Exposes Linux Servers to Compromise<a href="https://securityonline.info/cve-2024-47533-cvss-9-8-cobbler-vulnerability-exposes-linux-servers-to-compromise/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability has been discovered in Cobbler, a popular Linux installation server used for network-based deployments. The vulnerability is tracked as CVE-2024-47533 and assigned a CVSS score of 9.8.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AiTM Phishing, Hold the Gabagool: Analyzing the Gabagool Phishing Kit<a href="https://medium.com/@traclabs_/aitm-phishing-hold-the-gabagool-analyzing-the-gabagool-phishing-kit-531f5bbaf0e4?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor would initially compromise the user’s mailbox and begin sending phishing emails to other employees. These emails prompt recipients to view an image attached to the email.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of Actively Exploited Vulnerabilities in Kemp LoadMaster and Palo Alto Networks PAN-OS<a href="https://securityonline.info/cisa-warns-of-actively-exploited-vulnerabilities-in-kemp-loadmaster-and-palo-alto-networks-pan-os/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ CISA Warns of Actively Exploited Vulnerabilities in Kemp LoadMaster and Palo Alt
 The Cybersecurity and Infrastructure Security Agency (CISA) has issued an urgent warning about three actively exploited vulnerabilities affecting popular networking and security products.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2024
+November 19, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FrostyGoop’s Zoom-In: A Closer Look into the Malware Artifacts, Behaviors and Network Communications<a href="https://unit42.paloaltonetworks.com/frostygoop-malware-analysis/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ FrostyGoop’s Zoom-In: A Closer Look into the Malware Artifacts, Behaviors and 
 FrostyGoop is the ninth reported OT-centric malware, but the first that used Modbus TCP communications to impact the power supply to heating services for over 600 apartment buildings.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Palo Alto Networks
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2024
+November 19, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Gangs on Recruitment Drive for Pen Testers<a href="https://www.infosecurity-magazine.com/news/ransomware-gangs-pen-testers/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Ransomware Gangs on Recruitment Drive for Pen Testers<a href="https://www.infose
 Threat actors are actively seeing pen testers to join various ransomware affiliate programs, including Apos, Lynx and Rabbit Hole. Now, ransomware gangs are hiring people with the same level of expertise.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2024
+November 19, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Hijack Unsecured Jupyter Notebooks to Stream Illegal Sports Broadcasts<a href="https://thehackernews.com/2024/11/hackers-hijack-unsecured-jupyter.html?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Hackers Hijack Unsecured Jupyter Notebooks to Stream Illegal Sports Broadcasts<a
 The attacks involve the hijack of unauthenticated Jupyter Notebooks to establish initial access, and perform a series of actions designed to facilitate illegal live streaming of sports events.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2024
+November 19, 2024 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ngioweb Botnet Fuels NSOCKS Residential Proxy Network Exploiting IoT Devices<a href="https://thehackernews.com/2024/11/ngioweb-botnet-fuels-nsocks-residential.html?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Ngioweb Botnet Fuels NSOCKS Residential Proxy Network Exploiting IoT Devices<a h
 Two-thirds of these proxies are based in the U.S." "The network maintains a daily average of roughly 35,000 working bots, with 40% remaining active for a month or longer.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2024
+November 19, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Palo Alto Networks patches two firewall zero-days used in attacks<a href="https://www.bleepingcomputer.com/news/security/palo-alto-networks-patches-two-firewall-zero-days-used-in-attacks/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Palo Alto Networks patches two firewall zero-days used in attacks<a href="https:
 The first flaw, tracked as CVE-2024-0012, is an authentication bypass found in the PAN-OS management web interface that remote attackers can exploit to gain administrator privileges without requiring authentication or user interaction.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2024
+November 19, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical RCE bug in VMware vCenter Server now exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/critical-rce-bug-in-vmware-vcenter-server-now-exploited-in-attacks/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Critical RCE bug in VMware vCenter Server now exploited in attacks<a href="https
 ?Broadcom has warned that attackers are now exploiting two VMware vCenter Server vulnerabilities, one of which is a critical remote code execution flaw. The RCE vulnerability was reported during China's 2024 Matrix Cup hacking contest.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2024
+November 19, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gang Akira leaks unprecedented number of victims’ data in one day<a href="https://therecord.media/akira-ransomware-group-publishes-unprecedented-leak-data?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Ransomware gang Akira leaks unprecedented number of victims’ data in one day<a
 Akira, a ransomware-as-a-service gang with a growing profile in the cybercrime underworld, has published a record number of new victims to its darknet leak site in a single day, and more apparently still being added.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2024
+November 19, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spotify abused to promote pirated software and game cheats<a href="https://www.bleepingcomputer.com/news/security/spotify-abused-to-promote-pirated-software-and-game-cheats/?&web_view=true"> Full Text</a>
@@ -172,7 +332,7 @@ Spotify abused to promote pirated software and game cheats<a href="https://www.b
 Spotify playlists and podcasts are being abused to push pirated software, game cheat codes, and "warez" sites. By injecting targeted keywords and links in playlist names and podcast descriptions, threat actors may benefit from boosting SEO.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -188,7 +348,7 @@ New 'Helldown' Ransomware Variant Expands Attacks to VMware and Linux Systems<a 
 Helldown deploys Windows ransomware derived from the LockBit 3.0 code. Given the recent development of ransomware targeting ESX, it appears that the group could be evolving its current operations to target virtualized infrastructures via VMware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
