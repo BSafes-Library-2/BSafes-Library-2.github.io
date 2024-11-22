@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+November 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dozens of Central Asian targets hit in recent Russia-linked cyber-espionage campaign<a href="https://therecord.media/central-asia-cyber-espionage-tag-110-russia?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have identified an ongoing Russia-linked cyber-espionage campaign targeting human rights groups, private security companies, and state and educational institutions in Central Asia, East Asia, and Europe using custom malware.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 20, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+November 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ghost Tap: Hackers Exploiting NFCGate to Steal Funds via Mobile Payments<a href="https://thehackernews.com/2024/11/ghost-tap-hackers-exploiting-nfcgate-to.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The technique, codenamed Ghost Tap by ThreatFabric, enables cybercriminals to cash-out money from stolen credit cards linked to mobile payment services such as Google Pay or Apple Pay and relaying NFC traffic.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 19, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

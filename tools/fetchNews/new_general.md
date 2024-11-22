@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+November 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 145,000 Industrial Control Systems Across 175 Countries Found Exposed Online<a href="https://thehackernews.com/2024/11/over-145000-industrial-control-systems.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research has uncovered more than 145,000 internet-exposed Industrial Control Systems (ICS) across 175 countries, with the U.S. alone accounting for over one-third of the total exposures.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 16, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

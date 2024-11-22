@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet VPN design flaw hides successful brute-force attacks<a href="https://www.bleepingcomputer.com/news/security/fortinet-vpn-design-flaw-hides-successful-brute-force-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Pentera discovered that a successful login is recorded only if the process passes both the authentication and the authorization steps; otherwise, FortiClient VPN will log a failed authentication.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dozens of Central Asian targets hit in recent Russia-linked cyber-espionage campaign<a href="https://therecord.media/central-asia-cyber-espionage-tag-110-russia?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have identified an ongoing Russia-linked cyber-espionage campaign targeting human rights groups, private security companies, and state and educational institutions in Central Asia, East Asia, and Europe using custom malware.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NTLM Privilege Escalation: The Unpatched Microsoft Vulnerabilities No One is Talking About<a href="https://blog.morphisec.com/5-ntlm-vulnerabilities-unpatched-privilege-escalation-threats-in-microsoft?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Microsoft Outlook application in particular has become a primary target for initial access due to its frequent and often silent network connections, which can trigger unintended NTLM authentication.
+</details>
+<div style="text-align: right" markdown="1">
+MorphiSec
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Now BlueSky hit with crypto scams as it crosses 20 million users<a href="https://www.bleepingcomputer.com/news/security/now-bluesky-hit-with-crypto-scams-as-it-crosses-20-million-users/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A BlueSky post from last week featured an AI-generated image of Mark Zuckerberg and promoted crypto assets like "MetaChain" and "MetaCoin." The post misleads viewers into associating the advertised products with Meta.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unveiling WolfsBane: Gelsemium’s Linux counterpart to Gelsevirine<a href="https://www.welivesecurity.com/en/eset-research/unveiling-wolfsbane-gelsemiums-linux-counterpart-to-gelsevirine/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first backdoor, WolfsBane, is a Linux version of Gelsevirine, a Windows backdoor used by Gelsemium. WolfsBane is a Linux equivalent of Gelsemium’s Gelsevirine backdoor and the WolfsBane dropper is analogous to the Gelsemine dropper.
+</details>
+<div style="text-align: right" markdown="1">
+WeLiveSecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 145,000 Industrial Control Systems Across 175 Countries Found Exposed Online<a href="https://thehackernews.com/2024/11/over-145000-industrial-control-systems.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research has uncovered more than 145,000 internet-exposed Industrial Control Systems (ICS) across 175 countries, with the U.S. alone accounting for over one-third of the total exposures.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google's AI-Powered OSS-Fuzz Tool Finds 26 Vulnerabilities in Open-Source Projects<a href="https://thehackernews.com/2024/11/googles-ai-powered-oss-fuzz-tool-finds.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These particular vulnerabilities represent a milestone for automated vulnerability finding: each was found with AI, using AI-generated and enhanced fuzz targets. Google added the ability to leverage LLMs to improve fuzzing coverage in OSS-Fuzz.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2024-52940: AnyDesk Vulnerability Exposes User IP Addresses, PoC Published<a href="https://securityonline.info/cve-2024-52940-anydesk-vulnerability-exposes-user-ip-addresses-poc-published/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered vulnerability in popular remote desktop software AnyDesk could allow attackers to uncover users’ IP addresses, posing significant privacy risks. The flaw is tracked as CVE-2024-52940.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WorkflowKit Race Vulnerability (CVE-2024-27821): Researcher Reveals Exploit that Let Malicious Apps Hijack Shortcuts<a href="https://securityonline.info/workflowkit-race-vulnerability-cve-2024-27821-researcher-reveals-exploit-that-let-malicious-apps-hijack-shortcuts/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This vulnerability, dubbed the “WorkflowKit Race Vulnerability,” targets the extraction and signing processes of shortcuts within WorkflowKit, potentially allowing a malicious app to intercept and modify shortcut files during import.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2024-42450 (CVSS 10): Versa Networks Addresses Critical Vulnerability in Versa Director<a href="https://securityonline.info/cve-2024-42450-cvss-10-versa-networks-addresses-critical-vulnerability-in-versa-director/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Versa Networks has issued a security advisory addressing a critical vulnerability (CVE-2024-42450) affecting its Versa Director software. The vulnerability, carries a CVSS score of 10, could allow unauthenticated attackers to access sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 20, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

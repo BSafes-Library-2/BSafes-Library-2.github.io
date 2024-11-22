@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Now BlueSky hit with crypto scams as it crosses 20 million users<a href="https://www.bleepingcomputer.com/news/security/now-bluesky-hit-with-crypto-scams-as-it-crosses-20-million-users/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A BlueSky post from last week featured an AI-generated image of Mark Zuckerberg and promoted crypto assets like "MetaChain" and "MetaCoin." The post misleads viewers into associating the advertised products with Meta.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 20, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
