@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2024
+November 23, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-Linked TAG-112 Targets Tibetan Media with Cobalt Strike Espionage Campaign<a href="https://thehackernews.com/2024/11/china-linked-tag-112-targets-tibetan.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A China-linked nation-state group called TAG-112 compromised Tibetan media and university websites in a new cyber espionage campaign designed to facilitate the delivery of the Cobalt Strike post-exploitation toolkit.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Faux ChatGPT, Claude API Packages Deliver JarkaStealer<a href="https://www.darkreading.com/application-security/faux-chatgpt-claude-api-packages-jarkastealer?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two Python packages posing as tools to integrate with popular chatbots and provide API access are actually delivering "JarkaStealer," an infostealer designed to target potentially thousands of victims.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers breach US firm over Wi-Fi from Russia in 'Nearest Neighbor Attack'<a href="https://www.bleepingcomputer.com/news/security/hackers-breach-us-firm-over-wi-fi-from-russia-in-nearest-neighbor-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian state hackers APT28 breached a U.S. company through its enterprise WiFi network while being thousands of miles away, by leveraging a novel technique called "nearest neighbor attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT-K-47 Uses Hajj-Themed Lures to Deliver Advanced Asyncshell Malware<a href="https://thehackernews.com/2024/11/apt-k-47-uses-hajj-themed-lures-to.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack campaign is said to have used Hajj-themed lures to trick victims into executing a malicious payload under the guise of a Microsoft Compiled HTML Help (CHM) file.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked hackers target Linux systems with new spying malware<a href="https://therecord.media/china-hackers-linux-malware-target?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the researchers, a China-linked state-sponsored threat actor has been targeting Linux systems with previously unknown malware strains in a new espionage campaign.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Use Telegram Channels To Deliver Lumma Stealer Sophisticatedly<a href="https://gbhackers.com/hackers-telegram-lumma-stealer/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lumma Stealer, a sophisticated information-stealing malware, is spreading through Telegram channels, exploiting the platform’s popularity to bypass traditional security measures and target unsuspecting users, potentially compromising sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Earth Kasha Upgraded Their Arsenal With New Tactics To Attack Organizations<a href="https://gbhackers.com/earth-kasha-tactics-upgrade/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Earth Kasha, a threat actor linked to APT10, has expanded its targeting scope to India, Taiwan, and Japan, leveraging spear-phishing and exploiting vulnerabilities in public-facing applications like SSL-VPN and file storage services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unraveling Raspberry Robin's Layers: Analyzing Obfuscation Techniques and Core Mechanisms<a href="https://www.zscaler.com/blogs/security-research/unraveling-raspberry-robin-s-layers-analyzing-obfuscation-techniques-and?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Raspberry Robin, a stealthy malware discovered in 2021, leverages advanced obfuscation techniques to evade detection and analysis by infiltrating systems primarily via USB drives, utilizing  TOR network for covert communication with its C2 servers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta says it has removed 2 million accounts linked to pig butchering scams<a href="https://therecord.media/meta-takedown-pig-butchering-2million-accounts?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta has taken down more than 2 million accounts this year connected to pig butchering scams conducted from Southeast Asia and the United Arab Emirates, the company said Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2024-10126 & CVE-2024-10127: M-Files Addresses File Inclusion and Authentication Bypass Flaws<a href="https://securityonline.info/cve-2024-10126-cve-2024-10127-m-files-addresses-file-inclusion-and-authentication-bypass-flaws/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+M-Files, a leading provider of information management solutions, has released security updates to address two vulnerabilities in its server software. The vulnerabilities are identified as CVE-2024-10126 and CVE-2024-10127.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fortinet VPN design flaw hides successful brute-force attacks<a href="https://www.bleepingcomputer.com/news/security/fortinet-vpn-design-flaw-hides-successful-brute-force-attacks/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Fortinet VPN design flaw hides successful brute-force attacks<a href="https://ww
 Researchers at Pentera discovered that a successful login is recorded only if the process passes both the authentication and the authorization steps; otherwise, FortiClient VPN will log a failed authentication.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2024
+November 21, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dozens of Central Asian targets hit in recent Russia-linked cyber-espionage campaign<a href="https://therecord.media/central-asia-cyber-espionage-tag-110-russia?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Dozens of Central Asian targets hit in recent Russia-linked cyber-espionage camp
 Researchers have identified an ongoing Russia-linked cyber-espionage campaign targeting human rights groups, private security companies, and state and educational institutions in Central Asia, East Asia, and Europe using custom malware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2024
+November 21, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NTLM Privilege Escalation: The Unpatched Microsoft Vulnerabilities No One is Talking About<a href="https://blog.morphisec.com/5-ntlm-vulnerabilities-unpatched-privilege-escalation-threats-in-microsoft?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ NTLM Privilege Escalation: The Unpatched Microsoft Vulnerabilities No One is Tal
 The Microsoft Outlook application in particular has become a primary target for initial access due to its frequent and often silent network connections, which can trigger unintended NTLM authentication.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+MorphiSec
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2024
+November 21, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Now BlueSky hit with crypto scams as it crosses 20 million users<a href="https://www.bleepingcomputer.com/news/security/now-bluesky-hit-with-crypto-scams-as-it-crosses-20-million-users/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Now BlueSky hit with crypto scams as it crosses 20 million users<a href="https:/
 A BlueSky post from last week featured an AI-generated image of Mark Zuckerberg and promoted crypto assets like "MetaChain" and "MetaCoin." The post misleads viewers into associating the advertised products with Meta.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2024
+November 21, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unveiling WolfsBane: Gelsemium’s Linux counterpart to Gelsevirine<a href="https://www.welivesecurity.com/en/eset-research/unveiling-wolfsbane-gelsemiums-linux-counterpart-to-gelsevirine/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Unveiling WolfsBane: Gelsemium’s Linux counterpart to Gelsevirine<a href="http
 The first backdoor, WolfsBane, is a Linux version of Gelsevirine, a Windows backdoor used by Gelsemium. WolfsBane is a Linux equivalent of Gelsemium’s Gelsevirine backdoor and the WolfsBane dropper is analogous to the Gelsemine dropper.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+WeLiveSecurity
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2024
+November 21, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 145,000 Industrial Control Systems Across 175 Countries Found Exposed Online<a href="https://thehackernews.com/2024/11/over-145000-industrial-control-systems.html?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Over 145,000 Industrial Control Systems Across 175 Countries Found Exposed Onlin
 New research has uncovered more than 145,000 internet-exposed Industrial Control Systems (ICS) across 175 countries, with the U.S. alone accounting for over one-third of the total exposures.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2024
+November 21, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google's AI-Powered OSS-Fuzz Tool Finds 26 Vulnerabilities in Open-Source Projects<a href="https://thehackernews.com/2024/11/googles-ai-powered-oss-fuzz-tool-finds.html?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Google's AI-Powered OSS-Fuzz Tool Finds 26 Vulnerabilities in Open-Source Projec
 These particular vulnerabilities represent a milestone for automated vulnerability finding: each was found with AI, using AI-generated and enhanced fuzz targets. Google added the ability to leverage LLMs to improve fuzzing coverage in OSS-Fuzz.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2024
+November 21, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CVE-2024-52940: AnyDesk Vulnerability Exposes User IP Addresses, PoC Published<a href="https://securityonline.info/cve-2024-52940-anydesk-vulnerability-exposes-user-ip-addresses-poc-published/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ CVE-2024-52940: AnyDesk Vulnerability Exposes User IP Addresses, PoC Published<a
 A newly discovered vulnerability in popular remote desktop software AnyDesk could allow attackers to uncover users’ IP addresses, posing significant privacy risks. The flaw is tracked as CVE-2024-52940.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2024
+November 21, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WorkflowKit Race Vulnerability (CVE-2024-27821): Researcher Reveals Exploit that Let Malicious Apps Hijack Shortcuts<a href="https://securityonline.info/workflowkit-race-vulnerability-cve-2024-27821-researcher-reveals-exploit-that-let-malicious-apps-hijack-shortcuts/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ WorkflowKit Race Vulnerability (CVE-2024-27821): Researcher Reveals Exploit that
 This vulnerability, dubbed the “WorkflowKit Race Vulnerability,” targets the extraction and signing processes of shortcuts within WorkflowKit, potentially allowing a malicious app to intercept and modify shortcut files during import.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2024
+November 21, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CVE-2024-42450 (CVSS 10): Versa Networks Addresses Critical Vulnerability in Versa Director<a href="https://securityonline.info/cve-2024-42450-cvss-10-versa-networks-addresses-critical-vulnerability-in-versa-director/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ CVE-2024-42450 (CVSS 10): Versa Networks Addresses Critical Vulnerability in Ver
 Versa Networks has issued a security advisory addressing a critical vulnerability (CVE-2024-42450) affecting its Versa Director software. The vulnerability, carries a CVSS score of 10, could allow unauthenticated attackers to access sensitive data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
