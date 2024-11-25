@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2024-10126 &amp; CVE-2024-10127: M-Files Addresses File Inclusion and Authentication Bypass Flaws<a href="https://securityonline.info/cve-2024-10126-cve-2024-10127-m-files-addresses-file-inclusion-and-authentication-bypass-flaws/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+M-Files, a leading provider of information management solutions, has released security updates to address two vulnerabilities in its server software. The vulnerabilities are identified as CVE-2024-10126 and CVE-2024-10127.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 21, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

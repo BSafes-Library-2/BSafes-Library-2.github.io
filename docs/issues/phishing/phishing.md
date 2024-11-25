@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 23, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT-K-47 Uses Hajj-Themed Lures to Deliver Advanced Asyncshell Malware<a href="https://thehackernews.com/2024/11/apt-k-47-uses-hajj-themed-lures-to.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack campaign is said to have used Hajj-themed lures to trick victims into executing a malicious payload under the guise of a Microsoft Compiled HTML Help (CHM) file.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta says it has removed 2 million accounts linked to pig butchering scams<a href="https://therecord.media/meta-takedown-pig-butchering-2million-accounts?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta has taken down more than 2 million accounts this year connected to pig butchering scams conducted from Southeast Asia and the United Arab Emirates, the company said Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 21, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

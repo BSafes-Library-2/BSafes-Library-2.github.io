@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+November 23, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers breach US firm over Wi-Fi from Russia in 'Nearest Neighbor Attack'<a href="https://www.bleepingcomputer.com/news/security/hackers-breach-us-firm-over-wi-fi-from-russia-in-nearest-neighbor-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian state hackers APT28 breached a U.S. company through its enterprise WiFi network while being thousands of miles away, by leveraging a novel technique called "nearest neighbor attack.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 16, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

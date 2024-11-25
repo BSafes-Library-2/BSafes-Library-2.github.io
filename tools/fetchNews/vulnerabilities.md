@@ -8,6 +8,90 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet VPN design flaw hides successful brute-force attacks<a href="https://www.bleepingcomputer.com/news/security/fortinet-vpn-design-flaw-hides-successful-brute-force-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Pentera discovered that a successful login is recorded only if the process passes both the authentication and the authorization steps; otherwise, FortiClient VPN will log a failed authentication.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NTLM Privilege Escalation: The Unpatched Microsoft Vulnerabilities No One is Talking About<a href="https://blog.morphisec.com/5-ntlm-vulnerabilities-unpatched-privilege-escalation-threats-in-microsoft?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Microsoft Outlook application in particular has become a primary target for initial access due to its frequent and often silent network connections, which can trigger unintended NTLM authentication.
+</details>
+<div style="text-align: right" markdown="1">
+MorphiSec
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google's AI-Powered OSS-Fuzz Tool Finds 26 Vulnerabilities in Open-Source Projects<a href="https://thehackernews.com/2024/11/googles-ai-powered-oss-fuzz-tool-finds.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These particular vulnerabilities represent a milestone for automated vulnerability finding: each was found with AI, using AI-generated and enhanced fuzz targets. Google added the ability to leverage LLMs to improve fuzzing coverage in OSS-Fuzz.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2024-52940: AnyDesk Vulnerability Exposes User IP Addresses, PoC Published<a href="https://securityonline.info/cve-2024-52940-anydesk-vulnerability-exposes-user-ip-addresses-poc-published/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered vulnerability in popular remote desktop software AnyDesk could allow attackers to uncover users’ IP addresses, posing significant privacy risks. The flaw is tracked as CVE-2024-52940.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WorkflowKit Race Vulnerability (CVE-2024-27821): Researcher Reveals Exploit that Let Malicious Apps Hijack Shortcuts<a href="https://securityonline.info/workflowkit-race-vulnerability-cve-2024-27821-researcher-reveals-exploit-that-let-malicious-apps-hijack-shortcuts/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This vulnerability, dubbed the “WorkflowKit Race Vulnerability,” targets the extraction and signing processes of shortcuts within WorkflowKit, potentially allowing a malicious app to intercept and modify shortcut files during import.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2024-42450 (CVSS 10): Versa Networks Addresses Critical Vulnerability in Versa Director<a href="https://securityonline.info/cve-2024-42450-cvss-10-versa-networks-addresses-critical-vulnerability-in-versa-director/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Versa Networks has issued a security advisory addressing a critical vulnerability (CVE-2024-42450) affecting its Versa Director software. The vulnerability, carries a CVSS score of 10, could allow unauthenticated attackers to access sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 20, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
