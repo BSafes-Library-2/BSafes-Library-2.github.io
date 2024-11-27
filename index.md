@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Urges Agencies to Patch Critical "Array Networks" Flaw Amid Active Attacks<a href="https://thehackernews.com/2024/11/cisa-urges-agencies-to-patch-critical.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2023-28461 (CVSS score: 9.8), concerns a case of missing authentication that could be exploited to achieve arbitrary code execution remotely. Fixes were released in version 9.4.0.484 in March 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel Firewalls Targeted in Recent Ransomware Attacks<a href="https://securityaffairs.com/171382/cyber-crime/zyxel-firewall-ransomware-attacks.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zyxel warns that a ransomware gang has been exploiting a recently patched command injection vulnerability, CVE-2024-42057, in its firewalls for initial compromise. Remote, unauthenticated attackers could exploit the flaw to execute OS commands.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Haveli Purchases AppViewX to Strengthen Identity Automation<a href="https://www.bankinfosecurity.com/haveli-purchases-appviewx-to-strengthen-identity-automation-a-26893?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Austin-based private equity firm said acquiring a majority interest in AppViewX will help the New York-based firm capture the growing market opportunity due to emerging compliance standards and security challenges.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical WordPress Plugin Flaw Exposes 200,000 Sites<a href="https://securityonline.info/cve-2024-10542-cve-2024-10781-critical-wordpress-plugin-flaw-exposes-200000-sites/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These vulnerabilities, tracked as CVE-2024-10542 and CVE-2024-10781, could allow unauthenticated attackers to compromise websites by installing malicious plugins and executing arbitrary code.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Drinking Water Supplies Disrupted by Record Number of Undisclosed Cyber Incidents<a href="https://therecord.media/uk-drinking-water-infrastructure-cyber-incident-reports?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In 2024, there were at least six incidents affecting drinking water infrastructure, according to data collected by Recorded Future News using the Freedom of Information (FOI) Act. In previous years there were no more than two.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Turn to Pen Testers to Test Ransomware Efficiency<a href="https://www.helpnetsecurity.com/2024/11/22/pen-testers-ransomware-recruiting/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Any good developer knows that software needs to be tested before deploying in production environments. This is also true for ransomware gangs. They want to ensure that their ransomware can be deployed successfully against organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three-Quarters of Black Friday Spam Emails Identified as Scams<a href="https://www.infosecurity-magazine.com/news/black-friday-spam-emails-scams/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bitdefender said the growing prevalence of Black Friday scams “underscores the greed and daring of cybercriminals, who increasingly leverage fake offers and phishing tactics to exploit consumer shopping behaviors and trends.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PROSPERO & Proton66: Tracing Uncovering the Links Between Bulletproof Hosting Networks<a href="https://www.intrinsec.com/prospero-proton66-tracing-uncovering-the-links-between-bulletproof-networks/?cn-reloaded=1&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intrinsec’s analysis reveals operational similarities between PROSPERO and Proton66. Both systems share nearly identical peering agreements and are linked to the same internet exchange point in St. Petersburg.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Government IDs and Facial Recognition: A New Phishing Threat<a href="https://securityonline.info/government-ids-and-facial-recognition-a-new-phishing-threat/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent report by Harsh Patel and Brandon Cook from the Cofense Phishing Defense Center highlights a dangerous new tactic aimed at exploiting online users by combining phishing for government IDs with facial recognition video capture.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeliveryHero Subsidiary Fined $5.2 Million for Tracking Drivers’ Geolocation<a href="https://therecord.media/deliveryhero-subsidiary-fined-5-million-geolocation-data?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Italy’s data privacy regulator on Friday announced that it has levied a €5 million ($5.2 million) fine against an Italian GPS-based food delivery service for tracking the geolocation of its drivers, including outside of working hours.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 23, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

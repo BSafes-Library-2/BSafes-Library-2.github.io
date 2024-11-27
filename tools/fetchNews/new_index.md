@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2024
+November 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Urges Agencies to Patch Critical "Array Networks" Flaw Amid Active Attacks<a href="https://thehackernews.com/2024/11/cisa-urges-agencies-to-patch-critical.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2023-28461 (CVSS score: 9.8), concerns a case of missing authentication that could be exploited to achieve arbitrary code execution remotely. Fixes were released in version 9.4.0.484 in March 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel Firewalls Targeted in Recent Ransomware Attacks<a href="https://securityaffairs.com/171382/cyber-crime/zyxel-firewall-ransomware-attacks.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zyxel warns that a ransomware gang has been exploiting a recently patched command injection vulnerability, CVE-2024-42057, in its firewalls for initial compromise. Remote, unauthenticated attackers could exploit the flaw to execute OS commands.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Haveli Purchases AppViewX to Strengthen Identity Automation<a href="https://www.bankinfosecurity.com/haveli-purchases-appviewx-to-strengthen-identity-automation-a-26893?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Austin-based private equity firm said acquiring a majority interest in AppViewX will help the New York-based firm capture the growing market opportunity due to emerging compliance standards and security challenges.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical WordPress Plugin Flaw Exposes 200,000 Sites<a href="https://securityonline.info/cve-2024-10542-cve-2024-10781-critical-wordpress-plugin-flaw-exposes-200000-sites/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These vulnerabilities, tracked as CVE-2024-10542 and CVE-2024-10781, could allow unauthenticated attackers to compromise websites by installing malicious plugins and executing arbitrary code.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Drinking Water Supplies Disrupted by Record Number of Undisclosed Cyber Incidents<a href="https://therecord.media/uk-drinking-water-infrastructure-cyber-incident-reports?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In 2024, there were at least six incidents affecting drinking water infrastructure, according to data collected by Recorded Future News using the Freedom of Information (FOI) Act. In previous years there were no more than two.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Turn to Pen Testers to Test Ransomware Efficiency<a href="https://www.helpnetsecurity.com/2024/11/22/pen-testers-ransomware-recruiting/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Any good developer knows that software needs to be tested before deploying in production environments. This is also true for ransomware gangs. They want to ensure that their ransomware can be deployed successfully against organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three-Quarters of Black Friday Spam Emails Identified as Scams<a href="https://www.infosecurity-magazine.com/news/black-friday-spam-emails-scams/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bitdefender said the growing prevalence of Black Friday scams “underscores the greed and daring of cybercriminals, who increasingly leverage fake offers and phishing tactics to exploit consumer shopping behaviors and trends.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PROSPERO & Proton66: Tracing Uncovering the Links Between Bulletproof Hosting Networks<a href="https://www.intrinsec.com/prospero-proton66-tracing-uncovering-the-links-between-bulletproof-networks/?cn-reloaded=1&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intrinsec’s analysis reveals operational similarities between PROSPERO and Proton66. Both systems share nearly identical peering agreements and are linked to the same internet exchange point in St. Petersburg.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Government IDs and Facial Recognition: A New Phishing Threat<a href="https://securityonline.info/government-ids-and-facial-recognition-a-new-phishing-threat/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent report by Harsh Patel and Brandon Cook from the Cofense Phishing Defense Center highlights a dangerous new tactic aimed at exploiting online users by combining phishing for government IDs with facial recognition video capture.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeliveryHero Subsidiary Fined $5.2 Million for Tracking Drivers’ Geolocation<a href="https://therecord.media/deliveryhero-subsidiary-fined-5-million-geolocation-data?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Italy’s data privacy regulator on Friday announced that it has levied a €5 million ($5.2 million) fine against an Italian GPS-based food delivery service for tracking the geolocation of its drivers, including outside of working hours.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-Linked TAG-112 Targets Tibetan Media with Cobalt Strike Espionage Campaign<a href="https://thehackernews.com/2024/11/china-linked-tag-112-targets-tibetan.html?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ China-Linked TAG-112 Targets Tibetan Media with Cobalt Strike Espionage Campaign
 A China-linked nation-state group called TAG-112 compromised Tibetan media and university websites in a new cyber espionage campaign designed to facilitate the delivery of the Cobalt Strike post-exploitation toolkit.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2024
+November 23, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Faux ChatGPT, Claude API Packages Deliver JarkaStealer<a href="https://www.darkreading.com/application-security/faux-chatgpt-claude-api-packages-jarkastealer?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Faux ChatGPT, Claude API Packages Deliver JarkaStealer<a href="https://www.darkr
 Two Python packages posing as tools to integrate with popular chatbots and provide API access are actually delivering "JarkaStealer," an infostealer designed to target potentially thousands of victims.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2024
+November 23, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers breach US firm over Wi-Fi from Russia in 'Nearest Neighbor Attack'<a href="https://www.bleepingcomputer.com/news/security/hackers-breach-us-firm-over-wi-fi-from-russia-in-nearest-neighbor-attack/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Hackers breach US firm over Wi-Fi from Russia in 'Nearest Neighbor Attack'<a hre
 Russian state hackers APT28 breached a U.S. company through its enterprise WiFi network while being thousands of miles away, by leveraging a novel technique called "nearest neighbor attack.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2024
+November 23, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APT-K-47 Uses Hajj-Themed Lures to Deliver Advanced Asyncshell Malware<a href="https://thehackernews.com/2024/11/apt-k-47-uses-hajj-themed-lures-to.html?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ APT-K-47 Uses Hajj-Themed Lures to Deliver Advanced Asyncshell Malware<a href="h
 The attack campaign is said to have used Hajj-themed lures to trick victims into executing a malicious payload under the guise of a Microsoft Compiled HTML Help (CHM) file.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2024
+November 23, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked hackers target Linux systems with new spying malware<a href="https://therecord.media/china-hackers-linux-malware-target?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ China-linked hackers target Linux systems with new spying malware<a href="https:
 According to the researchers, a China-linked state-sponsored threat actor has been targeting Linux systems with previously unknown malware strains in a new espionage campaign.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2024
+November 23, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Use Telegram Channels To Deliver Lumma Stealer Sophisticatedly<a href="https://gbhackers.com/hackers-telegram-lumma-stealer/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Hackers Use Telegram Channels To Deliver Lumma Stealer Sophisticatedly<a href="h
 Lumma Stealer, a sophisticated information-stealing malware, is spreading through Telegram channels, exploiting the platform’s popularity to bypass traditional security measures and target unsuspecting users, potentially compromising sensitive data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2024
+November 23, 2024 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Earth Kasha Upgraded Their Arsenal With New Tactics To Attack Organizations<a href="https://gbhackers.com/earth-kasha-tactics-upgrade/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Earth Kasha Upgraded Their Arsenal With New Tactics To Attack Organizations<a hr
 Earth Kasha, a threat actor linked to APT10, has expanded its targeting scope to India, Taiwan, and Japan, leveraging spear-phishing and exploiting vulnerabilities in public-facing applications like SSL-VPN and file storage services.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2024
+November 22, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unraveling Raspberry Robin's Layers: Analyzing Obfuscation Techniques and Core Mechanisms<a href="https://www.zscaler.com/blogs/security-research/unraveling-raspberry-robin-s-layers-analyzing-obfuscation-techniques-and?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Unraveling Raspberry Robin's Layers: Analyzing Obfuscation Techniques and Core M
 Raspberry Robin, a stealthy malware discovered in 2021, leverages advanced obfuscation techniques to evade detection and analysis by infiltrating systems primarily via USB drives, utilizing  TOR network for covert communication with its C2 servers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ZScalar
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2024
+November 22, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meta says it has removed 2 million accounts linked to pig butchering scams<a href="https://therecord.media/meta-takedown-pig-butchering-2million-accounts?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Meta says it has removed 2 million accounts linked to pig butchering scams<a hre
 Meta has taken down more than 2 million accounts this year connected to pig butchering scams conducted from Southeast Asia and the United Arab Emirates, the company said Thursday.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2024
+November 22, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CVE-2024-10126 & CVE-2024-10127: M-Files Addresses File Inclusion and Authentication Bypass Flaws<a href="https://securityonline.info/cve-2024-10126-cve-2024-10127-m-files-addresses-file-inclusion-and-authentication-bypass-flaws/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ CVE-2024-10126 & CVE-2024-10127: M-Files Addresses File Inclusion and Authentica
 M-Files, a leading provider of information management solutions, has released security updates to address two vulnerabilities in its server software. The vulnerabilities are identified as CVE-2024-10126 and CVE-2024-10127.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
