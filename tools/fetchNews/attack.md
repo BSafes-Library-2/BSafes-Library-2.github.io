@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+November 23, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-Linked TAG-112 Targets Tibetan Media with Cobalt Strike Espionage Campaign<a href="https://thehackernews.com/2024/11/china-linked-tag-112-targets-tibetan.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A China-linked nation-state group called TAG-112 compromised Tibetan media and university websites in a new cyber espionage campaign designed to facilitate the delivery of the Cobalt Strike post-exploitation toolkit.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 23, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked hackers target Linux systems with new spying malware<a href="https://therecord.media/china-hackers-linux-malware-target?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the researchers, a China-linked state-sponsored threat actor has been targeting Linux systems with previously unknown malware strains in a new espionage campaign.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 21, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+November 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel Firewalls Targeted in Recent Ransomware Attacks<a href="https://securityaffairs.com/171382/cyber-crime/zyxel-firewall-ransomware-attacks.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zyxel warns that a ransomware gang has been exploiting a recently patched command injection vulnerability, CVE-2024-42057, in its firewalls for initial compromise. Remote, unauthenticated attackers could exploit the flaw to execute OS commands.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 23, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

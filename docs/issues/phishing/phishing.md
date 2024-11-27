@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three-Quarters of Black Friday Spam Emails Identified as Scams<a href="https://www.infosecurity-magazine.com/news/black-friday-spam-emails-scams/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bitdefender said the growing prevalence of Black Friday scams “underscores the greed and daring of cybercriminals, who increasingly leverage fake offers and phishing tactics to exploit consumer shopping behaviors and trends.”
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Government IDs and Facial Recognition: A New Phishing Threat<a href="https://securityonline.info/government-ids-and-facial-recognition-a-new-phishing-threat/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent report by Harsh Patel and Brandon Cook from the Cofense Phishing Defense Center highlights a dangerous new tactic aimed at exploiting online users by combining phishing for government IDs with facial recognition video capture.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 23, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

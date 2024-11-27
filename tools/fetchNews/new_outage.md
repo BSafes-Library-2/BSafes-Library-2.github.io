@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+November 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Drinking Water Supplies Disrupted by Record Number of Undisclosed Cyber Incidents<a href="https://therecord.media/uk-drinking-water-infrastructure-cyber-incident-reports?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In 2024, there were at least six incidents affecting drinking water infrastructure, according to data collected by Recorded Future News using the Freedom of Information (FOI) Act. In previous years there were no more than two.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 4, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

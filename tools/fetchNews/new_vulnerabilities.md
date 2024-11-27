@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical WordPress Plugin Flaw Exposes 200,000 Sites<a href="https://securityonline.info/cve-2024-10542-cve-2024-10781-critical-wordpress-plugin-flaw-exposes-200000-sites/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These vulnerabilities, tracked as CVE-2024-10542 and CVE-2024-10781, could allow unauthenticated attackers to compromise websites by installing malicious plugins and executing arbitrary code.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 22, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

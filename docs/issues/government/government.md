@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+November 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Urges Agencies to Patch Critical "Array Networks" Flaw Amid Active Attacks<a href="https://thehackernews.com/2024/11/cisa-urges-agencies-to-patch-critical.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2023-28461 (CVSS score: 9.8), concerns a case of missing authentication that could be exploited to achieve arbitrary code execution remotely. Fixes were released in version 9.4.0.484 in March 2023.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 19, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

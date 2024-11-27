@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+November 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeliveryHero Subsidiary Fined $5.2 Million for Tracking Drivers’ Geolocation<a href="https://therecord.media/deliveryhero-subsidiary-fined-5-million-geolocation-data?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Italy’s data privacy regulator on Friday announced that it has levied a €5 million ($5.2 million) fine against an Italian GPS-based food delivery service for tracking the geolocation of its drivers, including outside of working hours.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 7, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

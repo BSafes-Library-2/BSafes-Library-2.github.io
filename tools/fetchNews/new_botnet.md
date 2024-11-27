@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+November 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PROSPERO &amp; Proton66: Tracing Uncovering the Links Between Bulletproof Hosting Networks<a href="https://www.intrinsec.com/prospero-proton66-tracing-uncovering-the-links-between-bulletproof-networks/?cn-reloaded=1&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intrinsec’s analysis reveals operational similarities between PROSPERO and Proton66. Both systems share nearly identical peering agreements and are linked to the same internet exchange point in St. Petersburg.
+</details>
+<div style="text-align: right" markdown="1">
+Intrinsec
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 19, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
