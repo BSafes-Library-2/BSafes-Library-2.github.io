@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 26, 2024
+November 28, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Return of ANEL Backdoor in the Recent Earth Kasha Spear-Phishing Campaign in 2024<a href="https://www.trendmicro.com/en_us/research/24/k/return-of-anel-in-the-recent-earth-kasha-spearphishing-campaign.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign’s primary intrusion vector involved carefully crafted spear-phishing emails. These messages, often sent from compromised or free email accounts, contained links to malicious OneDrive-hosted ZIP files.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HPE Insight Remote Support Hit with Critical Vulnerabilities, Urgent Patch Released<a href="https://securityonline.info/hpe-insight-remote-support-hit-with-critical-vulnerabilities-urgent-patch-released/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HPE has issued an urgent security bulletin addressing critical vulnerabilities in its Insight Remote Support service. These flaws could allow attackers to gain unauthorized access to sensitive information or even execute malicious code remotely.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bootkitty: Analyzing the First UEFI Bootkit for Linux<a href="https://www.welivesecurity.com/en/eset-research/bootkitty-analyzing-first-uefi-bootkit-linux/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dubbed Bootkitty by its creators who go by the name BlackCat, the bootkit is assessed to be a proof-of-concept (PoC) and there is no evidence that it has been put to use in real-world attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Jenkins Users Beware: Multiple Security Vulnerabilities Discovered<a href="https://securityonline.info/jenkins-users-beware-multiple-security-vulnerabilities-discovered/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Jenkins has issued a security advisory addressing multiple vulnerabilities impacting both its core system and plugins. These flaws, ranging from denial of service to cross-site scripting, pose significant risks to Jenkins users if left unpatched.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Geico, Travelers Fined $11.3M for Lax Data Security<a href="https://www.darkreading.com/cybersecurity-operations/geico-travelers-fined-lax-data-security?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The two auto insurance companies will pay a hefty penalty for what the State of New York says was inadequate security that allowed hackers to compromise the personal data of more than 12,000 state residents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US National Security Officials Brief Telecom Executives<a href="https://www.bankinfosecurity.com/us-national-security-officials-brief-telecom-executives-a-26897?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House hosted a meeting with executives of the U.S. telecommunications sector to share intelligence pertaining to China's "significant cyberespionage campaign targeting the sector."
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers use you're fired lures in phishing campaign<a href="https://www.theregister.com/2024/11/28/fired_phishing_campaign_cloudflare/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack begins with an email that appears to be a legal notice informing recipients their employment has been terminated. In one of these scams, the email uses the subject line "Action Required: Tribunal Proceedings Against You".
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2024-42327 (CVSS 9.9): Critical SQL Injection Vulnerability Found in Zabbix<a href="https://securityonline.info/cve-2024-42327-critical-sql-injection-vulnerability-found-in-zabbix/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zabbix, a popular open-source IT infrastructure monitoring tool used by organizations worldwide, has been found to contain a critical SQL injection vulnerability (CVE-2024-42327) with a CVSS score of 9.9.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What’s up India? PixPirate is back and spreading via WhatsApp<a href="https://securityintelligence.com/posts/pixpirate-back-spreading-via-whatsapp/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new iteration of the PixPirate malware has been detected , marking the resurgence of a highly sophisticated threat. The malware is known for targeting financial services and now leverages WhatsApp as a primary vector for its propagation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Friday Fake Stores Surge 110%: How LLMs and Cheap Domains Empower Cybercrime<a href="https://securityonline.info/black-friday-fake-stores-surge-110-how-llms-and-cheap-domains-empower-cybercrime/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In its report, Netcraft revealed, “Between November 18 to 21 alone, Netcraft’s systems identified more than 9,000 new fake store domains hosted through SHOPYY. Over 66% of SHOPYY-powered domains analyzed by Netcraft were found to be fake stores.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Urges Agencies to Patch Critical "Array Networks" Flaw Amid Active Attacks<a href="https://thehackernews.com/2024/11/cisa-urges-agencies-to-patch-critical.html?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ CISA Urges Agencies to Patch Critical "Array Networks" Flaw Amid Active Attacks<
 The vulnerability, tracked as CVE-2023-28461 (CVSS score: 9.8), concerns a case of missing authentication that could be exploited to achieve arbitrary code execution remotely. Fixes were released in version 9.4.0.484 in March 2023.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 26, 2024
+November 26, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zyxel Firewalls Targeted in Recent Ransomware Attacks<a href="https://securityaffairs.com/171382/cyber-crime/zyxel-firewall-ransomware-attacks.html?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Zyxel Firewalls Targeted in Recent Ransomware Attacks<a href="https://securityaf
 Zyxel warns that a ransomware gang has been exploiting a recently patched command injection vulnerability, CVE-2024-42057, in its firewalls for initial compromise. Remote, unauthenticated attackers could exploit the flaw to execute OS commands.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 26, 2024
+November 26, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Haveli Purchases AppViewX to Strengthen Identity Automation<a href="https://www.bankinfosecurity.com/haveli-purchases-appviewx-to-strengthen-identity-automation-a-26893?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Haveli Purchases AppViewX to Strengthen Identity Automation<a href="https://www.
 The Austin-based private equity firm said acquiring a majority interest in AppViewX will help the New York-based firm capture the growing market opportunity due to emerging compliance standards and security challenges.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Info Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 26, 2024
+November 26, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical WordPress Plugin Flaw Exposes 200,000 Sites<a href="https://securityonline.info/cve-2024-10542-cve-2024-10781-critical-wordpress-plugin-flaw-exposes-200000-sites/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Critical WordPress Plugin Flaw Exposes 200,000 Sites<a href="https://securityonl
 These vulnerabilities, tracked as CVE-2024-10542 and CVE-2024-10781, could allow unauthenticated attackers to compromise websites by installing malicious plugins and executing arbitrary code.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 26, 2024
+November 26, 2024 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK Drinking Water Supplies Disrupted by Record Number of Undisclosed Cyber Incidents<a href="https://therecord.media/uk-drinking-water-infrastructure-cyber-incident-reports?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ UK Drinking Water Supplies Disrupted by Record Number of Undisclosed Cyber Incid
 In 2024, there were at least six incidents affecting drinking water infrastructure, according to data collected by Recorded Future News using the Freedom of Information (FOI) Act. In previous years there were no more than two.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 26, 2024
+November 26, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Turn to Pen Testers to Test Ransomware Efficiency<a href="https://www.helpnetsecurity.com/2024/11/22/pen-testers-ransomware-recruiting/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Cybercriminals Turn to Pen Testers to Test Ransomware Efficiency<a href="https:/
 Any good developer knows that software needs to be tested before deploying in production environments. This is also true for ransomware gangs. They want to ensure that their ransomware can be deployed successfully against organizations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 26, 2024
+November 26, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Three-Quarters of Black Friday Spam Emails Identified as Scams<a href="https://www.infosecurity-magazine.com/news/black-friday-spam-emails-scams/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Three-Quarters of Black Friday Spam Emails Identified as Scams<a href="https://w
 Bitdefender said the growing prevalence of Black Friday scams “underscores the greed and daring of cybercriminals, who increasingly leverage fake offers and phishing tactics to exploit consumer shopping behaviors and trends.”
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 26, 2024
+November 26, 2024 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PROSPERO & Proton66: Tracing Uncovering the Links Between Bulletproof Hosting Networks<a href="https://www.intrinsec.com/prospero-proton66-tracing-uncovering-the-links-between-bulletproof-networks/?cn-reloaded=1&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ PROSPERO & Proton66: Tracing Uncovering the Links Between Bulletproof Hosting Ne
 Intrinsec’s analysis reveals operational similarities between PROSPERO and Proton66. Both systems share nearly identical peering agreements and are linked to the same internet exchange point in St. Petersburg.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Intrinsec
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 26, 2024
+November 26, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Government IDs and Facial Recognition: A New Phishing Threat<a href="https://securityonline.info/government-ids-and-facial-recognition-a-new-phishing-threat/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Government IDs and Facial Recognition: A New Phishing Threat<a href="https://sec
 A recent report by Harsh Patel and Brandon Cook from the Cofense Phishing Defense Center highlights a dangerous new tactic aimed at exploiting online users by combining phishing for government IDs with facial recognition video capture.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 26, 2024
+November 26, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DeliveryHero Subsidiary Fined $5.2 Million for Tracking Drivers’ Geolocation<a href="https://therecord.media/deliveryhero-subsidiary-fined-5-million-geolocation-data?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ DeliveryHero Subsidiary Fined $5.2 Million for Tracking Drivers’ Geolocation<a
 Italy’s data privacy regulator on Friday announced that it has levied a €5 million ($5.2 million) fine against an Italian GPS-based food delivery service for tracking the geolocation of its drivers, including outside of working hours.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
