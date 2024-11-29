@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+November 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Friday Fake Stores Surge 110%: How LLMs and Cheap Domains Empower Cybercrime<a href="https://securityonline.info/black-friday-fake-stores-surge-110-how-llms-and-cheap-domains-empower-cybercrime/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In its report, Netcraft revealed, “Between November 18 to 21 alone, Netcraft’s systems identified more than 9,000 new fake store domains hosted through SHOPYY. Over 66% of SHOPYY-powered domains analyzed by Netcraft were found to be fake stores.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 21, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Return of ANEL Backdoor in the Recent Earth Kasha Spear-Phishing Campaign in 2024<a href="https://www.trendmicro.com/en_us/research/24/k/return-of-anel-in-the-recent-earth-kasha-spearphishing-campaign.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign’s primary intrusion vector involved carefully crafted spear-phishing emails. These messages, often sent from compromised or free email accounts, contained links to malicious OneDrive-hosted ZIP files.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HPE Insight Remote Support Hit with Critical Vulnerabilities, Urgent Patch Released<a href="https://securityonline.info/hpe-insight-remote-support-hit-with-critical-vulnerabilities-urgent-patch-released/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HPE has issued an urgent security bulletin addressing critical vulnerabilities in its Insight Remote Support service. These flaws could allow attackers to gain unauthorized access to sensitive information or even execute malicious code remotely.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bootkitty: Analyzing the First UEFI Bootkit for Linux<a href="https://www.welivesecurity.com/en/eset-research/bootkitty-analyzing-first-uefi-bootkit-linux/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dubbed Bootkitty by its creators who go by the name BlackCat, the bootkit is assessed to be a proof-of-concept (PoC) and there is no evidence that it has been put to use in real-world attacks.
+</details>
+<div style="text-align: right" markdown="1">
+WeLiveSecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Jenkins Users Beware: Multiple Security Vulnerabilities Discovered<a href="https://securityonline.info/jenkins-users-beware-multiple-security-vulnerabilities-discovered/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Jenkins has issued a security advisory addressing multiple vulnerabilities impacting both its core system and plugins. These flaws, ranging from denial of service to cross-site scripting, pose significant risks to Jenkins users if left unpatched.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Geico, Travelers Fined $11.3M for Lax Data Security<a href="https://www.darkreading.com/cybersecurity-operations/geico-travelers-fined-lax-data-security?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The two auto insurance companies will pay a hefty penalty for what the State of New York says was inadequate security that allowed hackers to compromise the personal data of more than 12,000 state residents.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US National Security Officials Brief Telecom Executives<a href="https://www.bankinfosecurity.com/us-national-security-officials-brief-telecom-executives-a-26897?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House hosted a meeting with executives of the U.S. telecommunications sector to share intelligence pertaining to China's "significant cyberespionage campaign targeting the sector."
+</details>
+<div style="text-align: right" markdown="1">
+Bank Infosecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers use you're fired lures in phishing campaign<a href="https://www.theregister.com/2024/11/28/fired_phishing_campaign_cloudflare/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack begins with an email that appears to be a legal notice informing recipients their employment has been terminated. In one of these scams, the email uses the subject line "Action Required: Tribunal Proceedings Against You".
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2024-42327 (CVSS 9.9): Critical SQL Injection Vulnerability Found in Zabbix<a href="https://securityonline.info/cve-2024-42327-critical-sql-injection-vulnerability-found-in-zabbix/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zabbix, a popular open-source IT infrastructure monitoring tool used by organizations worldwide, has been found to contain a critical SQL injection vulnerability (CVE-2024-42327) with a CVSS score of 9.9.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What’s up India? PixPirate is back and spreading via WhatsApp<a href="https://securityintelligence.com/posts/pixpirate-back-spreading-via-whatsapp/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new iteration of the PixPirate malware has been detected , marking the resurgence of a highly sophisticated threat. The malware is known for targeting financial services and now leverages WhatsApp as a primary vector for its propagation.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Friday Fake Stores Surge 110%: How LLMs and Cheap Domains Empower Cybercrime<a href="https://securityonline.info/black-friday-fake-stores-surge-110-how-llms-and-cheap-domains-empower-cybercrime/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In its report, Netcraft revealed, “Between November 18 to 21 alone, Netcraft’s systems identified more than 9,000 new fake store domains hosted through SHOPYY. Over 66% of SHOPYY-powered domains analyzed by Netcraft were found to be fake stores.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 26, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

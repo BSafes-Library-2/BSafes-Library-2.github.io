@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Turn to Pen Testers to Test Ransomware Efficiency<a href="https://www.helpnetsecurity.com/2024/11/22/pen-testers-ransomware-recruiting/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Any good developer knows that software needs to be tested before deploying in production environments. This is also true for ransomware gangs. They want to ensure that their ransomware can be deployed successfully against organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 20, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

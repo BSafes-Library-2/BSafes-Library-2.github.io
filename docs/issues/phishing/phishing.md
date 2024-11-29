@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Return of ANEL Backdoor in the Recent Earth Kasha Spear-Phishing Campaign in 2024<a href="https://www.trendmicro.com/en_us/research/24/k/return-of-anel-in-the-recent-earth-kasha-spearphishing-campaign.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign’s primary intrusion vector involved carefully crafted spear-phishing emails. These messages, often sent from compromised or free email accounts, contained links to malicious OneDrive-hosted ZIP files.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers use you're fired lures in phishing campaign<a href="https://www.theregister.com/2024/11/28/fired_phishing_campaign_cloudflare/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack begins with an email that appears to be a legal notice informing recipients their employment has been terminated. In one of these scams, the email uses the subject line "Action Required: Tribunal Proceedings Against You".
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 26, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
