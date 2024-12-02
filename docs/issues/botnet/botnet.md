@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+November 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+XorBot Botnet Resurfaces with Advanced Evasion and Exploits, Threatens IoT Devices<a href="https://securityonline.info/xorbot-botnet-resurfaces-with-advanced-evasion-and-exploits-threatens-iot-devices/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+XorBot operators have shifted their focus to profitability, openly advertising distributed denial-of-service (DDoS) attacks as a service under the alias “Masjesu Botnet.” They use Telegram for recruiting customers and promoting services.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 26, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

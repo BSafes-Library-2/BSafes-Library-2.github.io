@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+November 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MUT-8694 Supply Chain Attack Targets npm and PyPI Ecosystems<a href="https://securityonline.info/cybersecurity-alert-mut-8694-supply-chain-attack-targets-npm-and-pypi-ecosystems/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Datadog’s analysis revealed 42 malicious PyPI packages and 18 npm packages linked to the campaign, each mimicking legitimate libraries. The PyPI packages falsely claimed to resolve DLL and API issues, while many npm packages referenced Roblox.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 26, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

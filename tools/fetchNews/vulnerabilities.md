@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HPE Insight Remote Support Hit with Critical Vulnerabilities, Urgent Patch Released<a href="https://securityonline.info/hpe-insight-remote-support-hit-with-critical-vulnerabilities-urgent-patch-released/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HPE has issued an urgent security bulletin addressing critical vulnerabilities in its Insight Remote Support service. These flaws could allow attackers to gain unauthorized access to sensitive information or even execute malicious code remotely.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bootkitty: Analyzing the First UEFI Bootkit for Linux<a href="https://www.welivesecurity.com/en/eset-research/bootkitty-analyzing-first-uefi-bootkit-linux/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dubbed Bootkitty by its creators who go by the name BlackCat, the bootkit is assessed to be a proof-of-concept (PoC) and there is no evidence that it has been put to use in real-world attacks.
+</details>
+<div style="text-align: right" markdown="1">
+WeLiveSecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Jenkins Users Beware: Multiple Security Vulnerabilities Discovered<a href="https://securityonline.info/jenkins-users-beware-multiple-security-vulnerabilities-discovered/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Jenkins has issued a security advisory addressing multiple vulnerabilities impacting both its core system and plugins. These flaws, ranging from denial of service to cross-site scripting, pose significant risks to Jenkins users if left unpatched.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2024-42327 (CVSS 9.9): Critical SQL Injection Vulnerability Found in Zabbix<a href="https://securityonline.info/cve-2024-42327-critical-sql-injection-vulnerability-found-in-zabbix/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zabbix, a popular open-source IT infrastructure monitoring tool used by organizations worldwide, has been found to contain a critical SQL injection vulnerability (CVE-2024-42327) with a CVSS score of 9.9.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 26, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
