@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+December 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SmokeLoader Malware Campaign Targets Companies in Taiwan<a href="https://www.infosecurity-magazine.com/news/smokeloader-malware-taiwan/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SmokeLoader is a modular malware known for its adaptability and evasion techniques. It is being used in this attack to directly execute its payloads rather than serving as a downloader for other malicious software.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

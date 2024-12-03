@@ -8,6 +8,76 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over Two Dozen Flaws Identified in Advantech Industrial Wi-Fi Access Points – Patch ASAP<a href="https://thehackernews.com/2024/11/over-two-dozen-flaws-identified-in.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nearly two dozen security vulnerabilities have been disclosed in Advantech EKI industrial-grade wireless access point devices, some of which could be weaponized to bypass authentication and execute code with elevated privileges.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Fixes AI, Cloud, and ERP Security Flaws; One Exploited in Active Attacks<a href="https://thehackernews.com/2024/11/microsoft-fixes-ai-cloud-and-erp.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has addressed four security flaws impacting its artificial intelligence (AI), cloud, enterprise resource planning, and Partner Center offerings, including one that it said has been exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-Day in Active Directory Certificate Services: Researcher Exposes CVE-2024-49019 with PoC<a href="https://securityonline.info/zero-day-in-active-directory-certificate-services-researcher-exposes-cve-2024-49019-with-poc/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“An attacker can craft a CSR to include application policies that are preferred over the configured Extended Key Usage attributes specified in the template,” according to the TrustedSec analysis.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Integer Overflow Vulnerability in Windows Driver Enables Privilege Escalation, PoC Published<a href="https://securityonline.info/integer-overflow-vulnerability-in-windows-driver-enables-privilege-escalation-poc-published/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw, which allows a local attacker to exploit an integer overflow for privilege escalation, has been successfully demonstrated and highlighted during the prestigious TyphoonPWN 2024 event, earning second place.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Contiki-NG IoT OS Patches Critical Vulnerabilities<a href="https://securityonline.info/contiki-ng-iot-os-patches-critical-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the SNMP module is disabled by default in Contiki-NG, developers who have enabled it are strongly urged to update their systems. Patches for CVE-2024-41125 and CVE-2024-41126 are available in pull requests #2936 and #2937, respectively.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 28, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

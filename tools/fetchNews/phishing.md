@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Rockstar 2FA phishing service targets Microsoft 365 accounts<a href="https://www.bleepingcomputer.com/news/security/new-rockstar-2fa-phishing-service-targets-microsoft-365-accounts/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Like other AiTM platforms, Rockstar 2FA enables attackers to bypass multifactor authentication (MFA) protections on targeted accounts by intercepting valid session cookies.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 28, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
