@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+December 3, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Kimsuky Hackers Use Russian Email Addresses for Credential Theft Attacks<a href="https://thehackernews.com/2024/12/north-korean-kimsuky-hackers-use.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"Phishing emails were sent mainly through email services in Japan and Korea until early September," Korean cybersecurity firm Genians said. "Then, from mid-September, some phishing emails disguised as if they were sent from Russia were observed."
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 20, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

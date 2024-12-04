@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Novel Phishing Campaign Uses Corrupted Word Documents To Evade Security<a href="https://www.bleepingcomputer.com/news/security/novel-phising-campaign-uses-corrupted-word-documents-to-evade-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A novel phishing attack abuses Microsoft's Word file recovery feature by sending corrupted Word documents as email attachments, allowing them to bypass security software due to their damaged state but still be recoverable by the application.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 30, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

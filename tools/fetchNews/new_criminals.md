@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 3, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Korea Arrests CEO for Adding DDoS Feature to Satellite Receivers<a href="https://www.bleepingcomputer.com/news/security/korea-arrests-ceo-for-adding-ddos-feature-to-satellite-receivers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+South Korean police have arrested a CEO and five employees for manufacturing over 240,000 satellite receivers pre-loaded or later updated to include DDoS attack functionality at a purchaser's request.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 3, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware suspect Wazawaka reportedly arrested by Russia<a href="https://therecord.media/wazawaka-mikhail-matveev-reportedly-arrested-russia?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian authorities have charged a high-profile hacker for creating malware used to blackmail commercial organizations, the Russian interior ministry said in a statement late last week.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 2, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

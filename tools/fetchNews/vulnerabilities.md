@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Windows Server 2012 Zero-Day Gets Free, Unofficial Patches<a href="https://www.bleepingcomputer.com/news/security/new-windows-server-2012-zero-day-gets-free-unofficial-patches/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Free unofficial security patches have been released through the 0patch platform to address a zero-day vulnerability introduced over two years ago in the Windows Mark of the Web (MotW) security mechanism.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 30, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
