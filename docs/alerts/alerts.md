@@ -7,6 +7,21 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 3, 2024 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Three Known Exploited Vulnerabilities to Catalog <a href="https://www.cisa.gov/news-events/alerts/2024/12/03/cisa-adds-three-known-exploited-vulnerabilities-catalog"> Full Text</a>
+</p>
+<details>
+CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.
+
+CVE-2023-45727 North Grid Proself Improper Restriction of XML External Entity (XEE) Reference Vulnerability
+CVE-2024-11680 ProjectSend Improper Authentication Vulnerability
+CVE-2024-11667 Zyxel Multiple Firewalls Path Traversal Vulnerability
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 25, 2024 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

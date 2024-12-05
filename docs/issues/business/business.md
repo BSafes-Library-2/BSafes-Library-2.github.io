@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+December 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French Mobile Operators Join Forces to Tackle Rising Fraud<a href="https://www.infosecurity-magazine.com/news/france-mno-tackle-rising-fraud/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bouygues Telecom, Free, Orange, and SFR announced on December 3 that they will launch two network APIs for the French market in the first half of 2025 to help online businesses combat fraud and digital identity theft.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 26, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

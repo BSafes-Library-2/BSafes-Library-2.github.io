@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+December 3, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Shocking Speed of AWS Key Exploitation<a href="https://www.helpnetsecurity.com/2024/12/02/revoke-exposed-aws-keys/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers revealed that attackers tend to find and exploit (within a few minutes) AWS access keys leaked on GitHub and DockerHub, and within several hours those exposed on PyPI, Pastebin, and the Postman Community.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 23, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 3, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+People Facing Printer Problems Scammed via Fake Driver Downloads<a href="https://www.malwarebytes.com/blog/scams/2024/11/printer-problems-beware-the-bogus-help?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Victims clicking malicious Google ads are redirected to fake sites mimicking official printer brands, where scammers lure them into calling for support by offering printer drivers that fail to install.
+</details>
+<div style="text-align: right" markdown="1">
+Malware Bytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 2, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

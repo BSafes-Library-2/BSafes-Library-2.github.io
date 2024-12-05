@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+December 3, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT35 Forges Recruitment Sites, Launches Attacks on Aerospace and Semiconductor Industries in Multiple Countries<a href="https://threatbook.io/blog/id/1095?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In one of its campaigns, APT35 launched a fake recruitment site, particularly aimed at experts in drone design within the aerospace sector in Thailand. The site featured high-paying job postings, adding legitimacy to the ruse.
+</details>
+<div style="text-align: right" markdown="1">
+Threat Book
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 23, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

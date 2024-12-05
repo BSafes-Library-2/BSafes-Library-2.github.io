@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+December 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Solana Web3.js Library Compromised in Targeted Supply Chain Attack<a href="https://securityonline.info/solana-web3-js-library-compromised-in-targeted-supply-chain-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious code was injected into versions 1.95.6 and 1.95.7 of the library, which is downloaded over 350,000 times weekly from the npm registry. This code was designed to exfiltrate private keys, leading to cryptocurrency theft.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 3, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
