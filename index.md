@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside Akira Ransomware's Rust Experiment<a href="https://research.checkpoint.com/2024/inside-akira-ransomwares-rust-experiment/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point Research dissected Akira ransomware’s Rust version, targeting ESXi servers, revealing how Rust's design, compiler optimizations, and library usage complicate reverse-engineering.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+I-O DATA Routers Under Attack; Urgent Firmware Update Needed<a href="https://securityonline.info/i-o-data-routers-under-attack-urgent-firmware-update-needed/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japan's JPCERT/CC issued a warning that these vulnerabilities leave devices open to serious attacks, including credential theft, command execution, and complete firewall bypass.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Solana Web3.js Library Compromised in Targeted Supply Chain Attack<a href="https://securityonline.info/solana-web3-js-library-compromised-in-targeted-supply-chain-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious code was injected into versions 1.95.6 and 1.95.7 of the library, which is downloaded over 350,000 times weekly from the npm registry. This code was designed to exfiltrate private keys, leading to cryptocurrency theft.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC Confirms Root Privilege Exploit in TP-Link Archer AXE75 Vulnerability<a href="https://securityonline.info/poc-confirms-root-privilege-exploit-in-tp-link-archer-axe75-vulnerability-cve-2024-53375/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered vulnerability in the TP-Link Archer AXE75 router, tracked as CVE-2024-53375, could allow remote attackers to execute arbitrary commands on vulnerable devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds ProjectSend, North Grid Proself, and Zyxel Firewall Bugs to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/171638/security/u-s-cisa-adds-projectsend-north-grid-proself-and-zyxel-firewalls-bugs-to-its-known-exploited-vulnerabilities-catalog.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Remote, unauthenticated attackers can exploit this flaw by sending crafted HTTP requests to options.php, enabling unauthorized modification of the application’s configuration.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French Mobile Operators Join Forces to Tackle Rising Fraud<a href="https://www.infosecurity-magazine.com/news/france-mno-tackle-rising-fraud/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bouygues Telecom, Free, Orange, and SFR announced on December 3 that they will launch two network APIs for the French market in the first half of 2025 to help online businesses combat fraud and digital identity theft.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Veeam Issues Patch for Critical RCE Vulnerability in Service Provider Console<a href="https://thehackernews.com/2024/12/veeam-issues-patch-for-critical-rce.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2024-42448, carries a CVSS score of 9.9 out of a maximum of 10.0. The company noted that the bug was identified during internal testing.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Phishers Love New TLDs Like .shop, .top, and .xyz<a href="https://krebsonsecurity.com/2024/12/why-phishers-love-new-tlds-like-shop-top-and-xyz/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A study by Interisle Consulting found that new gTLDs introduced in the last few years command just 11% of the market for new domains, but accounted for roughly 37% of cybercrime domains reported between September 2023 and August 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MobSF XSS Vulnerability Let Attackers Inject Malicious Scripts<a href="https://gbhackers.com/mobsf-xss-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This vulnerability, CVE-2024-53999 is a Stored Cross-Site Scripting (XSS) flaw found in the “Diff or Compare” functionality, which occurs due to improper handling of file uploads with script-laden filenames.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ElizaRAT: Enhancing C2 Communication Through Google, Telegram, & Slack Services<a href="https://gbhackers.com/elizarat-enhancing-c2-communication/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Once executed, the malware extracts sensitive information from Userinfo.dll and transmits it to a remote server, which periodically checks for new instructions, enabling remote control over the compromised system.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 3, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

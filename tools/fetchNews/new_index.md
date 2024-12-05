@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 3, 2024
+December 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside Akira Ransomware's Rust Experiment<a href="https://research.checkpoint.com/2024/inside-akira-ransomwares-rust-experiment/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point Research dissected Akira ransomware’s Rust version, targeting ESXi servers, revealing how Rust's design, compiler optimizations, and library usage complicate reverse-engineering.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+I-O DATA Routers Under Attack; Urgent Firmware Update Needed<a href="https://securityonline.info/i-o-data-routers-under-attack-urgent-firmware-update-needed/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japan's JPCERT/CC issued a warning that these vulnerabilities leave devices open to serious attacks, including credential theft, command execution, and complete firewall bypass.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Solana Web3.js Library Compromised in Targeted Supply Chain Attack<a href="https://securityonline.info/solana-web3-js-library-compromised-in-targeted-supply-chain-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious code was injected into versions 1.95.6 and 1.95.7 of the library, which is downloaded over 350,000 times weekly from the npm registry. This code was designed to exfiltrate private keys, leading to cryptocurrency theft.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC Confirms Root Privilege Exploit in TP-Link Archer AXE75 Vulnerability<a href="https://securityonline.info/poc-confirms-root-privilege-exploit-in-tp-link-archer-axe75-vulnerability-cve-2024-53375/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered vulnerability in the TP-Link Archer AXE75 router, tracked as CVE-2024-53375, could allow remote attackers to execute arbitrary commands on vulnerable devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds ProjectSend, North Grid Proself, and Zyxel Firewall Bugs to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/171638/security/u-s-cisa-adds-projectsend-north-grid-proself-and-zyxel-firewalls-bugs-to-its-known-exploited-vulnerabilities-catalog.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Remote, unauthenticated attackers can exploit this flaw by sending crafted HTTP requests to options.php, enabling unauthorized modification of the application’s configuration.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French Mobile Operators Join Forces to Tackle Rising Fraud<a href="https://www.infosecurity-magazine.com/news/france-mno-tackle-rising-fraud/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bouygues Telecom, Free, Orange, and SFR announced on December 3 that they will launch two network APIs for the French market in the first half of 2025 to help online businesses combat fraud and digital identity theft.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Veeam Issues Patch for Critical RCE Vulnerability in Service Provider Console<a href="https://thehackernews.com/2024/12/veeam-issues-patch-for-critical-rce.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2024-42448, carries a CVSS score of 9.9 out of a maximum of 10.0. The company noted that the bug was identified during internal testing.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Phishers Love New TLDs Like .shop, .top, and .xyz<a href="https://krebsonsecurity.com/2024/12/why-phishers-love-new-tlds-like-shop-top-and-xyz/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A study by Interisle Consulting found that new gTLDs introduced in the last few years command just 11% of the market for new domains, but accounted for roughly 37% of cybercrime domains reported between September 2023 and August 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MobSF XSS Vulnerability Let Attackers Inject Malicious Scripts<a href="https://gbhackers.com/mobsf-xss-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This vulnerability, CVE-2024-53999 is a Stored Cross-Site Scripting (XSS) flaw found in the “Diff or Compare” functionality, which occurs due to improper handling of file uploads with script-laden filenames.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ElizaRAT: Enhancing C2 Communication Through Google, Telegram, & Slack Services<a href="https://gbhackers.com/elizarat-enhancing-c2-communication/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Once executed, the malware extracts sensitive information from Userinfo.dll and transmits it to a remote server, which periodically checks for new instructions, enabling remote control over the compromised system.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 3, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gafgyt Malware Broadens its Scope in Recent Attacks<a href="https://www.trendmicro.com/en_us/research/24/l/gafgyt-malware-targeting-docker-remote-api-servers.html?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Gafgyt Malware Broadens its Scope in Recent Attacks<a href="https://www.trendmic
 Gafgyt primarily targets vulnerable IoT devices, but Trend Micro researchers recently observed this malware being used to attack Docker Remote API servers, signifying a notable shift in its behavior.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Trend Micro
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 3, 2024
+December 3, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Kimsuky Hackers Use Russian Email Addresses for Credential Theft Attacks<a href="https://thehackernews.com/2024/12/north-korean-kimsuky-hackers-use.html?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ North Korean Kimsuky Hackers Use Russian Email Addresses for Credential Theft At
 "Phishing emails were sent mainly through email services in Japan and Korea until early September," Korean cybersecurity firm Genians said. "Then, from mid-September, some phishing emails disguised as if they were sent from Russia were observed."
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 3, 2024
+December 3, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia Sentences Hydra Dark Web Market Leader to Life in Prison<a href="https://www.bleepingcomputer.com/news/security/russia-sentences-hydra-dark-web-market-leader-to-life-in-prison/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Russia Sentences Hydra Dark Web Market Leader to Life in Prison<a href="https://
 Russian authorities have sentenced the leader of the criminal group behind the now-closed dark web platform Hydra Market to life in prison. Additionally, more than a dozen accomplices have also been convicted.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 3, 2024
+December 3, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 People Facing Printer Problems Scammed via Fake Driver Downloads<a href="https://www.malwarebytes.com/blog/scams/2024/11/printer-problems-beware-the-bogus-help?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ People Facing Printer Problems Scammed via Fake Driver Downloads<a href="https:/
 Victims clicking malicious Google ads are redirected to fake sites mimicking official printer brands, where scammers lure them into calling for support by offering printer drivers that fail to install.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Malware Bytes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 3, 2024
+December 3, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Korea Arrests CEO for Adding DDoS Feature to Satellite Receivers<a href="https://www.bleepingcomputer.com/news/security/korea-arrests-ceo-for-adding-ddos-feature-to-satellite-receivers/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Korea Arrests CEO for Adding DDoS Feature to Satellite Receivers<a href="https:/
 South Korean police have arrested a CEO and five employees for manufacturing over 240,000 satellite receivers pre-loaded or later updated to include DDoS attack functionality at a purchaser's request.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 3, 2024
+December 3, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Malware Families RevC2 and Venom Loader Spread vis MaaS Tools<a href="https://www.zscaler.com/blogs/security-research/unveiling-revc2-and-venom-loader?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ New Malware Families RevC2 and Venom Loader Spread vis MaaS Tools<a href="https:
 “RevC2 uses WebSockets to communicate with its command-and-control (C2) server. The malware is capable of stealing cookies and passwords, proxies network traffic, and enables remote code execution (RCE),” noted ThreatLabz.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ZSCaler
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 3, 2024
+December 3, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware suspect Wazawaka reportedly arrested by Russia<a href="https://therecord.media/wazawaka-mikhail-matveev-reportedly-arrested-russia?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Ransomware suspect Wazawaka reportedly arrested by Russia<a href="https://therec
 Russian authorities have charged a high-profile hacker for creating malware used to blackmail commercial organizations, the Russian interior ministry said in a statement late last week.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 3, 2024
+December 3, 2024 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APT35 Forges Recruitment Sites, Launches Attacks on Aerospace and Semiconductor Industries in Multiple Countries<a href="https://threatbook.io/blog/id/1095?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ APT35 Forges Recruitment Sites, Launches Attacks on Aerospace and Semiconductor 
 In one of its campaigns, APT35 launched a fake recruitment site, particularly aimed at experts in drone design within the aerospace sector in Thailand. The site featured high-paying job postings, adding legitimacy to the ruse.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Threat Book
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 3, 2024
+December 3, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ProFTPD Vulnerability Grants Root Access to Attackers<a href="https://securityonline.info/cve-2024-48651-proftpd-vulnerability-grants-root-access-to-attackers/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ ProFTPD Vulnerability Grants Root Access to Attackers<a href="https://securityon
 ProFTPD contains a critical security flaw that could allow attackers to gain root access to vulnerable systems. The vulnerability, tracked as CVE-2024-48651 (CVSS 7.5), exists in the mod_sql component of ProFTPD versions 1.3.8b and earlier.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 3, 2024
+December 3, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Shocking Speed of AWS Key Exploitation<a href="https://www.helpnetsecurity.com/2024/12/02/revoke-exposed-aws-keys/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ The Shocking Speed of AWS Key Exploitation<a href="https://www.helpnetsecurity.c
 Researchers revealed that attackers tend to find and exploit (within a few minutes) AWS access keys leaked on GitHub and DockerHub, and within several hours those exposed on PyPI, Pastebin, and the Postman Community.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
