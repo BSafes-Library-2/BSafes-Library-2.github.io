@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Criminals Use Generative Artificial Intelligence to Facilitate Financial Fraud<a href="https://www.ic3.gov/PSA/2024/PSA241203?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers use AI-generated text to appear believable to a reader to push social engineering, spear phishing, and financial fraud schemes such as romance, investment, and other confidence schemes or to hide common indicators of fraud schemes.
+</details>
+<div style="text-align: right" markdown="1">
+IC3
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Authorities Shut Down Crimenetwork, the Germany’s Largest Crime Marketplace<a href="https://securityaffairs.com/171658/cyber-crime/german-authorities-shut-down-crimenetwork.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operation was carried out by Public Prosecutor’s Office in Frankfurt am Main, the Central Office for Combating Cybercrime (ZIT), and the Federal Criminal Police Office (BKA).
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 3, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

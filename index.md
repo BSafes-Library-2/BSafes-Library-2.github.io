@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 5, 2024
+December 5, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beware of Celestial Stealer: New MaaS Targets Browsers and Crypto Wallets<a href="https://securityonline.info/beware-of-celestial-stealer-new-maas-targets-browsers-and-crypto-wallets/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Beware of Celestial Stealer: New MaaS Targets Browsers and Crypto Wallets<a href
 Celestial Stealer operates as a MaaS offering marketed on Telegram, with subscription plans available on a weekly, monthly, or lifetime basis. It is primarily designed for Windows 10 and 11.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 5, 2024
+December 5, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Andromeda/Gamarue Command-and-Control Cluster Targets APAC Industries<a href="https://securityonline.info/new-andromeda-gamarue-command-and-control-cluster-targets-apac-industries/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ New Andromeda/Gamarue Command-and-Control Cluster Targets APAC Industries<a href
 In a recent report, the Cybereason Security Services Team unveiled the discovery of a new cluster of Command-and-Control (C2) servers linked to the infamous Andromeda (aka Gamarue) malware family.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 5, 2024
+December 5, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EU’s First Ever Report on the State of Cybersecurity in the Union<a href="https://www.enisa.europa.eu/news/eus-first-ever-report-on-the-state-of-cybersecurity-in-the-union?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ EU’s First Ever Report on the State of Cybersecurity in the Union<a href="http
 In its first-ever Report on the State of Cybersecurity in the Union, published on December 3, ENISA said the cyber threat level to the EU between July 2023 and June 2024 was substantial.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ENISA
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 5, 2024
+December 5, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Criminals Use Generative Artificial Intelligence to Facilitate Financial Fraud<a href="https://www.ic3.gov/PSA/2024/PSA241203?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Criminals Use Generative Artificial Intelligence to Facilitate Financial Fraud<a
 Attackers use AI-generated text to appear believable to a reader to push social engineering, spear phishing, and financial fraud schemes such as romance, investment, and other confidence schemes or to hide common indicators of fraud schemes.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+IC3
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 5, 2024
+December 5, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical CyberPanel Flaw Under Active Attack, CISA Warns<a href="https://securityonline.info/cve-2024-51378-cvss-10-critical-cyberpanel-flaw-under-active-attack-cisa-warns/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Critical CyberPanel Flaw Under Active Attack, CISA Warns<a href="https://securit
 The flaw in CyberPanel, tracked as CVE-2024-51378, is being actively exploited by attackers to deploy ransomware, including strains like PSAUX, C3RB3R, and a variant of Babuk.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 5, 2024
+December 5, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US, Canada, Australia, and New Zealand Warn of China-Backed Cyber Espionage Campaign Targeting Telecom Networks<a href="https://thehackernews.com/2024/12/joint-advisory-warns-of-prc-backed.html?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ US, Canada, Australia, and New Zealand Warn of China-Backed Cyber Espionage Camp
 The U.S. CISA, NSA, FBI, Australia's ACSC, Canada's CCCS, and New Zealand’s NCSC warned that China-affiliated threat actors compromised networks of major global telecommunications providers to conduct a broad and significant cyber espionage campaign.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 5, 2024
+December 5, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple Vulnerabilities Found in Lorex 2K Indoor Wi-Fi Security Cameras<a href="https://www.rapid7.com/blog/post/2024/12/03/lorex-2k-indoor-wi-fi-security-camera-multiple-vulnerabilities-fixed/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Multiple Vulnerabilities Found in Lorex 2K Indoor Wi-Fi Security Cameras<a href=
 Discovered during the 2024 Pwn2Own IoT competition, these vulnerabilities let attackers compromise the devices, potentially accessing live video feeds and executing harmful code remotely.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Rapid 7
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 5, 2024
+December 5, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Authorities Shut Down Crimenetwork, the Germany’s Largest Crime Marketplace<a href="https://securityaffairs.com/171658/cyber-crime/german-authorities-shut-down-crimenetwork.html?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Authorities Shut Down Crimenetwork, the Germany’s Largest Crime Marketplace<a 
 The operation was carried out by Public Prosecutor’s Office in Frankfurt am Main, the Central Office for Combating Cybercrime (ZIT), and the Federal Criminal Police Office (BKA).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 5, 2024
+December 5, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 High-Severity Flaws in Veeam Backup & Replication Put Data at Risk<a href="https://securityonline.info/veeam-backup-replication-vulnerabilities-exposed-high-severity-flaws-put-data-at-risk/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ High-Severity Flaws in Veeam Backup & Replication Put Data at Risk<a href="https
 Veeam has fixed these vulnerabilities in Veeam Backup & Replication 12.3 (build 12.3.0.310) and Veeam Agent for Microsoft Windows 6.3 (build 6.3.0.177) and urges all users to upgrade to this version immediately.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 5, 2024
+December 5, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloudflare’s Developer Domains Increasingly Abused by Threat Actors<a href="https://www.bleepingcomputer.com/news/security/cloudflares-developer-domains-increasingly-abused-by-threat-actors/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Cloudflare’s Developer Domains Increasingly Abused by Threat Actors<a href="ht
 Cloudflare's 'pages.dev' and 'workers.dev' domains, used for deploying web pages and facilitating serverless computing, are being increasingly abused by cybercriminals for phishing and other malicious activities.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

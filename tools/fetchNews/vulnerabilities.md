@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+I-O DATA Routers Under Attack; Urgent Firmware Update Needed<a href="https://securityonline.info/i-o-data-routers-under-attack-urgent-firmware-update-needed/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japan's JPCERT/CC issued a warning that these vulnerabilities leave devices open to serious attacks, including credential theft, command execution, and complete firewall bypass.
+</details>
+<div style="text-align: right" markdown="1">
+
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC Confirms Root Privilege Exploit in TP-Link Archer AXE75 Vulnerability<a href="https://securityonline.info/poc-confirms-root-privilege-exploit-in-tp-link-archer-axe75-vulnerability-cve-2024-53375/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered vulnerability in the TP-Link Archer AXE75 router, tracked as CVE-2024-53375, could allow remote attackers to execute arbitrary commands on vulnerable devices.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Veeam Issues Patch for Critical RCE Vulnerability in Service Provider Console<a href="https://thehackernews.com/2024/12/veeam-issues-patch-for-critical-rce.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2024-42448, carries a CVSS score of 9.9 out of a maximum of 10.0. The company noted that the bug was identified during internal testing.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MobSF XSS Vulnerability Let Attackers Inject Malicious Scripts<a href="https://gbhackers.com/mobsf-xss-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This vulnerability, CVE-2024-53999 is a Stored Cross-Site Scripting (XSS) flaw found in the “Diff or Compare” functionality, which occurs due to improper handling of file uploads with script-laden filenames.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 3, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

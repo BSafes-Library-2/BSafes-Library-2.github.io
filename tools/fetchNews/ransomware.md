@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+December 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside Akira Ransomware's Rust Experiment<a href="https://research.checkpoint.com/2024/inside-akira-ransomwares-rust-experiment/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point Research dissected Akira ransomware’s Rust version, targeting ESXi servers, revealing how Rust's design, compiler optimizations, and library usage complicate reverse-engineering.
+</details>
+<div style="text-align: right" markdown="1">
+Check Point
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 5, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Phishers Love New TLDs Like .shop, .top, and .xyz<a href="https://krebsonsecurity.com/2024/12/why-phishers-love-new-tlds-like-shop-top-and-xyz/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A study by Interisle Consulting found that new gTLDs introduced in the last few years command just 11% of the market for new domains, but accounted for roughly 37% of cybercrime domains reported between September 2023 and August 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Krebs On Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 3, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

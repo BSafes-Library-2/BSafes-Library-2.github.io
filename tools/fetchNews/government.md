@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+December 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds ProjectSend, North Grid Proself, and Zyxel Firewall Bugs to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/171638/security/u-s-cisa-adds-projectsend-north-grid-proself-and-zyxel-firewalls-bugs-to-its-known-exploited-vulnerabilities-catalog.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Remote, unauthenticated attackers can exploit this flaw by sending crafted HTTP requests to options.php, enabling unauthorized modification of the application’s configuration.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 28, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

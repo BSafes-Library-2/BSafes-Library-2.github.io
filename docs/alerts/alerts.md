@@ -7,6 +7,28 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2024 - CISA, NSA, FBI, ACSC, CCCS, NCSC-NZ
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enhanced Visibility and Hardening Guidance for Communications Infrastructure <a href="https://www.cisa.gov/resources-tools/resources/enhanced-visibility-and-hardening-guidance-communications-infrastructure"> Full Text</a>
+</p>
+<details>
+The Cybersecurity and Infrastructure Security Agency (CISA), National Security Agency (NSA), Federal Bureau of Investigation (FBI), Australian Signals Directorate’s (ASD’s) Australian Cyber Security Centre (ACSC), Canadian Cyber Security Centre (CCCS), and New Zealand’s National Cyber Security Centre (NCSC-NZ) warn that People’s Republic of China (PRC)-affiliated threat actors compromised networks of major global telecommunications providers to conduct a broad and significant cyber espionage campaign. The authoring agencies are releasing this guide to highlight this threat and provide network engineers and defenders of communications infrastructure with best practices to strengthen their visibility and harden their network devices against successful exploitation carried out by PRC-affiliated and other malicious cyber actors. Although tailored to network defenders and engineers of communications infrastructure, this guide may also apply to organizations with on-premises enterprise equipment. The authoring agencies encourage telecommunications and other critical infrastructure organizations to apply the best practices in this guide.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 3, 2024 - ENISA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2024 Report on The State of Cybersecurity in The Union <a href="https://www.enisa.europa.eu/news/eus-first-ever-report-on-the-state-of-cybersecurity-in-the-union?&web_view=true#contentList"> Full Text</a>
+</p>
+<details>
+The report provides an evidence-based overview of the cybersecurity maturity state of play as well as an assessment of cybersecurity capabilities across Europe. The report also includes policy recommendations to address identified shortcomings and increase the level of cybersecurity in the EU. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 3, 2024 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
