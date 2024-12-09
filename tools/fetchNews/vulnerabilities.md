@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Vulnerabilities Found in Lorex 2K Indoor Wi-Fi Security Cameras<a href="https://www.rapid7.com/blog/post/2024/12/03/lorex-2k-indoor-wi-fi-security-camera-multiple-vulnerabilities-fixed/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Discovered during the 2024 Pwn2Own IoT competition, these vulnerabilities let attackers compromise the devices, potentially accessing live video feeds and executing harmful code remotely.
+</details>
+<div style="text-align: right" markdown="1">
+Rapid 7
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Severity Flaws in Veeam Backup &amp; Replication Put Data at Risk<a href="https://securityonline.info/veeam-backup-replication-vulnerabilities-exposed-high-severity-flaws-put-data-at-risk/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Veeam has fixed these vulnerabilities in Veeam Backup &amp; Replication 12.3 (build 12.3.0.310) and Veeam Agent for Microsoft Windows 6.3 (build 6.3.0.177) and urges all users to upgrade to this version immediately.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 4, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

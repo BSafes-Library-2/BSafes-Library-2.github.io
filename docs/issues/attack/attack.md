@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+December 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Romania’s Election Systems Targeted in Over 85,000 Cyberattacks<a href="https://www.bleepingcomputer.com/news/security/romanias-election-systems-targeted-in-over-85-000-cyberattacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors obtained access credentials for election-related websites and leaked them on a Russian hacker forum less than a week before the first presidential election round.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actor Targets Manufacturing Industry With Lumma Stealer and Amadey Bot<a href="https://cyble.com/blog/threat-actor-targets-manufacturing-industry-with-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This campaign leverages multiple Living-off-the-Land Binaries (LOLBins), such as ssh.exe, powershell.exe, and mshta.exe, to bypass traditional security mechanisms and remotely execute the next-stage payload.
+</details>
+<div style="text-align: right" markdown="1">
+Cyble
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 5, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

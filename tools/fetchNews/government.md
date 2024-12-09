@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+December 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU’s First Ever Report on the State of Cybersecurity in the Union<a href="https://www.enisa.europa.eu/news/eus-first-ever-report-on-the-state-of-cybersecurity-in-the-union?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In its first-ever Report on the State of Cybersecurity in the Union, published on December 3, ENISA said the cyber threat level to the EU between July 2023 and June 2024 was substantial.
+</details>
+<div style="text-align: right" markdown="1">
+ENISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical CyberPanel Flaw Under Active Attack, CISA Warns<a href="https://securityonline.info/cve-2024-51378-cvss-10-critical-cyberpanel-flaw-under-active-attack-cisa-warns/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw in CyberPanel, tracked as CVE-2024-51378, is being actively exploited by attackers to deploy ransomware, including strains like PSAUX, C3RB3R, and a variant of Babuk.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US, Canada, Australia, and New Zealand Warn of China-Backed Cyber Espionage Campaign Targeting Telecom Networks<a href="https://thehackernews.com/2024/12/joint-advisory-warns-of-prc-backed.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. CISA, NSA, FBI, Australia's ACSC, Canada's CCCS, and New Zealand’s NCSC warned that China-affiliated threat actors compromised networks of major global telecommunications providers to conduct a broad and significant cyber espionage campaign.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 4, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

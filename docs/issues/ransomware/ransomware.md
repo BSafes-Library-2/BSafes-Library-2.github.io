@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+December 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Basta Ransomware Campaign Drops Zbot, DarkGate, &amp; Custom Malware<a href="https://www.rapid7.com/blog/post/2024/12/04/black-basta-ransomware-campaign-drops-zbot-darkgate-and-custom-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a detailed analysis by Rapid7, the threat actors have refined their techniques, introducing novel methods for gaining access and delivering malware, including Zbot, DarkGate, and custom-developed tools.
+</details>
+<div style="text-align: right" markdown="1">
+Rapid 7
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 4, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
