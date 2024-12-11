@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 7, 2024
+December 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP Issues Critical Patch for NetWeaver AS for JAVA<a href="https://securityonline.info/cve-2024-47578-cvss-9-1-sap-issues-critical-patch-for-netweaver-as-for-java/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the most urgent issues, CVE-2024-47578, affects SAP NetWeaver AS for JAVA (Adobe Document Services). This vulnerability, combined with two related CVEs—CVE-2024-47579 and CVE-2024-47580—allows for severe exploitation risks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability in WPForms Plugins Affects 6 Million WordPress Sites, Enables Payment Refund and Subscription Cancellation<a href="https://www.wordfence.com/blog/2024/12/6000000-wordpress-sites-protected-against-payment-refund-and-subscription-cancellation-vulnerability-in-wpforms-wordpress-plugin/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, assigned a CVSS v3.1 base score of 8.5, allowed authenticated attackers with subscriber-level privileges or higher to execute unauthorized refunds of Stripe payments and cancellations of Stripe subscriptions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercrime gang arrested after turning Airbnbs into fraud centers<a href="https://www.bleepingcomputer.com/news/security/cybercrime-gang-arrested-after-turning-airbnbs-into-fraud-centers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the Dutch police, the fraudsters rent Airbnb properties and luxury apartments to use as temporary call centers from where they launched phishing campaigns. They contacted victims across Europe using email, SMS, or WhatsApp messages.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+System Two Security Raises $7M in Funding<a href="https://www.finsmes.com/2024/12/system-two-security-raises-7m-in-funding.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The round was led by Costanoa Ventures, with participation from Runtime Ventures, as well as The Hive and Webb Investment Network. The round was also joined by individual investors including Scott McNealy, Frederic Kerrest, Ash Devata, and others.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Radiant Links $50 Million Crypto Heist to North Korean Hackers<a href="https://www.bleepingcomputer.com/news/security/radiant-links-50-million-crypto-heist-to-north-korean-hackers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attribution comes after investigating the incident, assisted by cybersecurity experts at Mandiant, who say the attack was conducted by North Korean state-affiliated hackers known as Citrine Sleet, aka "UNC4736 and "AppleJeus."
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CyberProof acquires Interpres Security to enhance cybersecurity services<a href="https://www.techcircle.in/2024/12/04/cyberproof-acquires-interpres-security-to-enhance-cybersecurity-services?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The acquisition will enable CyberProof to provide clients with a comprehensive view of their cybersecurity posture, focusing on high-risk threats specific to industries, technologies, and locations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenWrt Sysupgrade Flaw Let Hackers Push Malicious Firmware Images<a href="https://www.bleepingcomputer.com/news/security/openwrt-sysupgrade-flaw-let-hackers-push-malicious-firmware-images/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The critical (CVSS v4 score: 9.3) flaw, tracked as CVE-2024-54143, was fixed within hours of being disclosed to OpenWrt's developers. However, users are urged to perform checks to ensure the safety of their installed firmware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Integrity360 expands European presence with Adsigo acquisition<a href="https://www.itpro.com/business/acquisition/integrity360-expands-european-presence-with-adsigo-acquisition?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The deal marks the next stage of Integrity360’s pan-European expansion plan and will expand the company’s presence in continental Europe, as well as bolster its PCI and cybersecurity compliance teams with additional skilled resources.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Socks5Systemz Botnet Powers Illegal Proxy Service with 85,000+ Hacked Devices<a href="https://thehackernews.com/2024/12/socks5systemz-botnet-powers-illegal.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The primary objective of the malware is to turn compromised systems into proxy exit nodes, which are then advertised for other actors, typically cybercriminals who are looking to obscure the source of their attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Prompt Injection Vulnerabilities in DeepSeek and Claude AI<a href="https://thehackernews.com/2024/12/researchers-uncover-prompt-injection.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details have emerged about a now-patched security flaw in the DeepSeek artificial intelligence (AI) chatbot that, if successfully exploited, could permit a bad actor to take control of a victim's account by means of a prompt injection attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 7, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Romania’s Election Systems Targeted in Over 85,000 Cyberattacks<a href="https://www.bleepingcomputer.com/news/security/romanias-election-systems-targeted-in-over-85-000-cyberattacks/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Romania’s Election Systems Targeted in Over 85,000 Cyberattacks<a href="https:
 Threat actors obtained access credentials for election-related websites and leaked them on a Russian hacker forum less than a week before the first presidential election round.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 7, 2024
+December 7, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover Flaws in Popular Open-Source Machine Learning Frameworks<a href="https://thehackernews.com/2024/12/researchers-uncover-flaws-in-popular.html?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Researchers Uncover Flaws in Popular Open-Source Machine Learning Frameworks<a h
 Cybersecurity researchers have disclosed multiple security flaws impacting open-source machine learning (ML) tools and frameworks such as MLflow, H2O, PyTorch, and MLeap that could pave the way for code execution.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 7, 2024
+December 7, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actor Targets Manufacturing Industry With Lumma Stealer and Amadey Bot<a href="https://cyble.com/blog/threat-actor-targets-manufacturing-industry-with-malware/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Threat Actor Targets Manufacturing Industry With Lumma Stealer and Amadey Bot<a 
 This campaign leverages multiple Living-off-the-Land Binaries (LOLBins), such as ssh.exe, powershell.exe, and mshta.exe, to bypass traditional security mechanisms and remotely execute the next-stage payload.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyble
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 7, 2024
+December 7, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MOONSHINE Exploit Kit and DarkNimbus Backdoor Enabling Earth Minotaur’s Multi-Platform Attacks<a href="https://www.trendmicro.com/en_us/research/24/l/earth-minotaur.html?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ MOONSHINE Exploit Kit and DarkNimbus Backdoor Enabling Earth Minotaur’s Multi-
 Earth Minotaur uses the MOONSHINE exploit kit to deliver the DarkNimbus backdoor to Android and Windows devices, targeting WeChat, and possibly making it a cross-platform threat.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Trend Micro
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 7, 2024
+December 7, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Black Basta Ransomware Campaign Drops Zbot, DarkGate, & Custom Malware<a href="https://www.rapid7.com/blog/post/2024/12/04/black-basta-ransomware-campaign-drops-zbot-darkgate-and-custom-malware/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Black Basta Ransomware Campaign Drops Zbot, DarkGate, & Custom Malware<a href="h
 According to a detailed analysis by Rapid7, the threat actors have refined their techniques, introducing novel methods for gaining access and delivering malware, including Zbot, DarkGate, and custom-developed tools.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Rapid 7
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 7, 2024
+December 7, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crypto-Stealing Malware Posing as a Meeting App Targets Web3 Professionals<a href="https://www.bleepingcomputer.com/news/security/crypto-stealing-malware-posing-as-a-meeting-app-targets-web3-pros/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Crypto-Stealing Malware Posing as a Meeting App Targets Web3 Professionals<a hre
 Cybercriminals are targeting people working in Web3 with fake business meetings using a fraudulent video conferencing platform that infects Windows and Macs with crypto-stealing malware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 6, 2024
+December 6, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mitel MiCollab Zero-Day Flaw Gets Proof-of-Concept Exploit<a href="https://www.bleepingcomputer.com/news/security/mitel-micollab-zero-day-flaw-gets-proof-of-concept-exploit/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Mitel MiCollab Zero-Day Flaw Gets Proof-of-Concept Exploit<a href="https://www.b
 Researchers released a PoC exploit that strings together a now-patched critical security flaw impacting Mitel MiCollab with an arbitrary file read zero-day, granting an attacker the ability to access files from susceptible instances.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 6, 2024
+December 6, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Browser Isolation Bypassed: QR Codes Used in Novel C2 Attacks<a href="https://securityonline.info/browser-isolation-bypassed-qr-codes-used-in-novel-c2-attacks/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Browser Isolation Bypassed: QR Codes Used in Novel C2 Attacks<a href="https://se
 A recent report from Thibault Van Geluwe de Berlaere at Mandiant unveils an innovative method for attackers to bypass browser isolation and execute command-and-control (C2) operations using QR codes.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 6, 2024
+December 6, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: 65% of Office Workers Bypass Cybersecurity to Boost Productivity<a href="https://www.helpnetsecurity.com/2024/12/04/employees-privileged-access-security-risk/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Report: 65% of Office Workers Bypass Cybersecurity to Boost Productivity<a href=
 High-risk access exists throughout the workplace, in almost every job role, proving that the time has come for organizations to re-think the way they protect their workforce, according to CyberArk.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 6, 2024
+December 6, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Europol Shuts Down Manson Market Fraud Marketplace, Seizes 50 Servers<a href="https://thehackernews.com/2024/12/europol-shuts-down-manson-market-fraud.html?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Europol Shuts Down Manson Market Fraud Marketplace, Seizes 50 Servers<a href="ht
 Manson Market ("manson-market[.]pw") is believed to have launched in 2022 as a way to peddle sensitive information that was illegally obtained from victims as part of phishing and vishing (voice phishing) schemes.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
