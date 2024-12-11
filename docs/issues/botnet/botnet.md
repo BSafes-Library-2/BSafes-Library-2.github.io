@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+December 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Socks5Systemz Botnet Powers Illegal Proxy Service with 85,000+ Hacked Devices<a href="https://thehackernews.com/2024/12/socks5systemz-botnet-powers-illegal.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The primary objective of the malware is to turn compromised systems into proxy exit nodes, which are then advertised for other actors, typically cybercriminals who are looking to obscure the source of their attacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

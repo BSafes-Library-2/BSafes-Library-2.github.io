@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+December 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: 65% of Office Workers Bypass Cybersecurity to Boost Productivity<a href="https://www.helpnetsecurity.com/2024/12/04/employees-privileged-access-security-risk/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+High-risk access exists throughout the workplace, in almost every job role, proving that the time has come for organizations to re-think the way they protect their workforce, according to CyberArk.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 28, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

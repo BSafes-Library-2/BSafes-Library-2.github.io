@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2024
+December 10, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SAP Issues Critical Patch for NetWeaver AS for JAVA<a href="https://securityonline.info/cve-2024-47578-cvss-9-1-sap-issues-critical-patch-for-netweaver-as-for-java/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ SAP Issues Critical Patch for NetWeaver AS for JAVA<a href="https://securityonli
 One of the most urgent issues, CVE-2024-47578, affects SAP NetWeaver AS for JAVA (Adobe Document Services). This vulnerability, combined with two related CVEs—CVE-2024-47579 and CVE-2024-47580—allows for severe exploitation risks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2024
+December 10, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerability in WPForms Plugins Affects 6 Million WordPress Sites, Enables Payment Refund and Subscription Cancellation<a href="https://www.wordfence.com/blog/2024/12/6000000-wordpress-sites-protected-against-payment-refund-and-subscription-cancellation-vulnerability-in-wpforms-wordpress-plugin/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Vulnerability in WPForms Plugins Affects 6 Million WordPress Sites, Enables Paym
 The vulnerability, assigned a CVSS v3.1 base score of 8.5, allowed authenticated attackers with subscriber-level privileges or higher to execute unauthorized refunds of Stripe payments and cancellations of Stripe subscriptions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+WordFence
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2024
+December 10, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercrime gang arrested after turning Airbnbs into fraud centers<a href="https://www.bleepingcomputer.com/news/security/cybercrime-gang-arrested-after-turning-airbnbs-into-fraud-centers/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Cybercrime gang arrested after turning Airbnbs into fraud centers<a href="https:
 According to the Dutch police, the fraudsters rent Airbnb properties and luxury apartments to use as temporary call centers from where they launched phishing campaigns. They contacted victims across Europe using email, SMS, or WhatsApp messages.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2024
+December 10, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 System Two Security Raises $7M in Funding<a href="https://www.finsmes.com/2024/12/system-two-security-raises-7m-in-funding.html?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ System Two Security Raises $7M in Funding<a href="https://www.finsmes.com/2024/1
 The round was led by Costanoa Ventures, with participation from Runtime Ventures, as well as The Hive and Webb Investment Network. The round was also joined by individual investors including Scott McNealy, Frederic Kerrest, Ash Devata, and others.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Finsmes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2024
+December 10, 2024 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Radiant Links $50 Million Crypto Heist to North Korean Hackers<a href="https://www.bleepingcomputer.com/news/security/radiant-links-50-million-crypto-heist-to-north-korean-hackers/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Radiant Links $50 Million Crypto Heist to North Korean Hackers<a href="https://w
 The attribution comes after investigating the incident, assisted by cybersecurity experts at Mandiant, who say the attack was conducted by North Korean state-affiliated hackers known as Citrine Sleet, aka "UNC4736 and "AppleJeus."
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2024
+December 10, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CyberProof acquires Interpres Security to enhance cybersecurity services<a href="https://www.techcircle.in/2024/12/04/cyberproof-acquires-interpres-security-to-enhance-cybersecurity-services?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ CyberProof acquires Interpres Security to enhance cybersecurity services<a href=
 The acquisition will enable CyberProof to provide clients with a comprehensive view of their cybersecurity posture, focusing on high-risk threats specific to industries, technologies, and locations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+TechCircle
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2024
+December 10, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OpenWrt Sysupgrade Flaw Let Hackers Push Malicious Firmware Images<a href="https://www.bleepingcomputer.com/news/security/openwrt-sysupgrade-flaw-let-hackers-push-malicious-firmware-images/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ OpenWrt Sysupgrade Flaw Let Hackers Push Malicious Firmware Images<a href="https
 The critical (CVSS v4 score: 9.3) flaw, tracked as CVE-2024-54143, was fixed within hours of being disclosed to OpenWrt's developers. However, users are urged to perform checks to ensure the safety of their installed firmware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2024
+December 10, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Integrity360 expands European presence with Adsigo acquisition<a href="https://www.itpro.com/business/acquisition/integrity360-expands-european-presence-with-adsigo-acquisition?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Integrity360 expands European presence with Adsigo acquisition<a href="https://w
 The deal marks the next stage of Integrity360’s pan-European expansion plan and will expand the company’s presence in continental Europe, as well as bolster its PCI and cybersecurity compliance teams with additional skilled resources.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ItPro
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2024
+December 10, 2024 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Socks5Systemz Botnet Powers Illegal Proxy Service with 85,000+ Hacked Devices<a href="https://thehackernews.com/2024/12/socks5systemz-botnet-powers-illegal.html?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Socks5Systemz Botnet Powers Illegal Proxy Service with 85,000+ Hacked Devices<a 
 The primary objective of the malware is to turn compromised systems into proxy exit nodes, which are then advertised for other actors, typically cybercriminals who are looking to obscure the source of their attacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2024
+December 10, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover Prompt Injection Vulnerabilities in DeepSeek and Claude AI<a href="https://thehackernews.com/2024/12/researchers-uncover-prompt-injection.html?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Researchers Uncover Prompt Injection Vulnerabilities in DeepSeek and Claude AI<a
 Details have emerged about a now-patched security flaw in the DeepSeek artificial intelligence (AI) chatbot that, if successfully exploited, could permit a bad actor to take control of a victim's account by means of a prompt injection attack.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

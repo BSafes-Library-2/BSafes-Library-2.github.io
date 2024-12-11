@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP Issues Critical Patch for NetWeaver AS for JAVA<a href="https://securityonline.info/cve-2024-47578-cvss-9-1-sap-issues-critical-patch-for-netweaver-as-for-java/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the most urgent issues, CVE-2024-47578, affects SAP NetWeaver AS for JAVA (Adobe Document Services). This vulnerability, combined with two related CVEs—CVE-2024-47579 and CVE-2024-47580—allows for severe exploitation risks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability in WPForms Plugins Affects 6 Million WordPress Sites, Enables Payment Refund and Subscription Cancellation<a href="https://www.wordfence.com/blog/2024/12/6000000-wordpress-sites-protected-against-payment-refund-and-subscription-cancellation-vulnerability-in-wpforms-wordpress-plugin/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, assigned a CVSS v3.1 base score of 8.5, allowed authenticated attackers with subscriber-level privileges or higher to execute unauthorized refunds of Stripe payments and cancellations of Stripe subscriptions.
+</details>
+<div style="text-align: right" markdown="1">
+WordFence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenWrt Sysupgrade Flaw Let Hackers Push Malicious Firmware Images<a href="https://www.bleepingcomputer.com/news/security/openwrt-sysupgrade-flaw-let-hackers-push-malicious-firmware-images/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The critical (CVSS v4 score: 9.3) flaw, tracked as CVE-2024-54143, was fixed within hours of being disclosed to OpenWrt's developers. However, users are urged to perform checks to ensure the safety of their installed firmware.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Prompt Injection Vulnerabilities in DeepSeek and Claude AI<a href="https://thehackernews.com/2024/12/researchers-uncover-prompt-injection.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details have emerged about a now-patched security flaw in the DeepSeek artificial intelligence (AI) chatbot that, if successfully exploited, could permit a bad actor to take control of a victim's account by means of a prompt injection attack.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 7, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

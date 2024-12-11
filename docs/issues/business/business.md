@@ -8,6 +8,48 @@ nav_order: 900027
 
 ## Business
 ---
+December 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+System Two Security Raises $7M in Funding<a href="https://www.finsmes.com/2024/12/system-two-security-raises-7m-in-funding.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The round was led by Costanoa Ventures, with participation from Runtime Ventures, as well as The Hive and Webb Investment Network. The round was also joined by individual investors including Scott McNealy, Frederic Kerrest, Ash Devata, and others.
+</details>
+<div style="text-align: right" markdown="1">
+Finsmes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CyberProof acquires Interpres Security to enhance cybersecurity services<a href="https://www.techcircle.in/2024/12/04/cyberproof-acquires-interpres-security-to-enhance-cybersecurity-services?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The acquisition will enable CyberProof to provide clients with a comprehensive view of their cybersecurity posture, focusing on high-risk threats specific to industries, technologies, and locations.
+</details>
+<div style="text-align: right" markdown="1">
+TechCircle
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Integrity360 expands European presence with Adsigo acquisition<a href="https://www.itpro.com/business/acquisition/integrity360-expands-european-presence-with-adsigo-acquisition?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The deal marks the next stage of Integrity360’s pan-European expansion plan and will expand the company’s presence in continental Europe, as well as bolster its PCI and cybersecurity compliance teams with additional skilled resources.
+</details>
+<div style="text-align: right" markdown="1">
+ItPro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 4, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
