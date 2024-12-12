@@ -8,6 +8,104 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache Superset Patches Multiple Security Flaws in Latest Release<a href="https://securityonline.info/apache-superset-patches-multi-security-flaws-in-latest-release/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These vulnerabilities, identified as CVE-2024-53947, CVE-2024-53948, and CVE-2024-53949, range in severity and could potentially allow attackers to bypass security controls, access sensitive data, and gain unauthorized privileges.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerability in Cleo Software Actively Exploited in the Wild<a href="https://securityonline.info/cve-2024-50623-critical-vulnerability-in-cleo-software-actively-exploited-in-the-wild/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exploitation chain leverages an arbitrary file-write vulnerability. The attackers plant malicious files in Cleo’s autorun directory, which the software automatically processes and deletes post-execution.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher Details a Critical TCC Bypass Flaw in macOS and iOS<a href="https://securityonline.info/researcher-details-cve-2024-44131-a-critical-tcc-bypass-in-macos-and-ios/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Designated as CVE-2024-44131, this flaw enables malicious applications to bypass user consent mechanisms and access sensitive data without the user’s knowledge. The vulnerability has since been patched in macOS 15 and iOS 18.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft December 2024 Patch Tuesday Fixes One Exploited Zero-Day, 71 Flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-december-2024-patch-tuesday-fixes-1-exploited-zero-day-71-flaws/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's December 2024 Patch Tuesday offered security updates for 71 flaws, including one actively exploited zero-day vulnerability. This Patch Tuesday fixed sixteen critical vulnerabilities, all of which are remote code execution flaws.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens Healthineers Addresses Critical Flaw in Medical Imaging Software<a href="https://securityonline.info/cve-2024-52335-siemens-healthineers-addresses-critical-flaw/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To address this vulnerability, Siemens Healthineers has released a new hotfix (HF05) for syngo.plaza VB30E. The company strongly advises all users to update their systems to the latest version as soon as possible.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Schneider Electric Warns of Critical Flaw in Modicon Controllers<a href="https://securityonline.info/schneider-electric-warns-of-critical-flaw-in-modicon-controllers-cve-2024-11737-cvss-9-8/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2024-11737 and assigned a CVSS score of 9.8, could allow an attacker to cause a denial of service and compromise the integrity of an affected controller.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome Gets Patches for Two High-Severity Vulnerabilities<a href="https://securityonline.info/google-chrome-patches-high-severity-vulnerabilities-cve-2024-12381-cve-2024-12382/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The update, rolling out progressively to Windows, Mac, and Linux users over the coming days/weeks, brings Chrome to version 131.0.6778.139/.140 for Windows and Mac, and 131.0.6778.139 for Linux.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 10, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
