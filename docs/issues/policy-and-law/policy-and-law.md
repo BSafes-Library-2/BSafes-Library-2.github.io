@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+December 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Sanctions Chinese Cyber Firm for Compromising ‘Thousands’ of Firewalls in 2020<a href="https://therecord.media/us-sanctions-chinese-cyber-firm-compromising-firewalls?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sichuan Silence Information Technology Company and one of its employees, Guan Tianfeng, were the targets of the sanctions, and the Justice Department indicted Guan for his role in the attacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 3, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

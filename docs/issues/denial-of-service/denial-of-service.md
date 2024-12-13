@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+December 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation PowerOFF Shuts Down 27 DDoS-for-Hire Platforms<a href="https://www.bleepingcomputer.com/news/security/operation-poweroff-shuts-down-27-ddos-for-hire-platforms/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law enforcement agencies from 15 countries have taken 27 DDoS-for-hire services offline, also known as "booters" or "stressers," arrested three administrators, and identified 300 customers of the platforms.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 11, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

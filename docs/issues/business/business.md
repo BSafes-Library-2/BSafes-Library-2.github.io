@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+December 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Astrix Security Secures $45M to Strengthen Nonhuman Identity Protection in Enterprise<a href="https://siliconangle.com/2024/12/10/astrix-security-secures-45m-strengthen-nonhuman-identity-protection-enterprise/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Menlo Ventures led the Series B round, with Workday Ventures and existing investors Bessemer Venture Partners Management, Charles River Ventures, and F2 Venture Capital also participating.
+</details>
+<div style="text-align: right" markdown="1">
+Siicon Angel
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 10, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
