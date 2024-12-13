@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2024
+December 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploiting CDN Integrations: A WAF Bypass Threatening Global Web Applications<a href="https://securityonline.info/exploiting-cdn-integrations-a-waf-bypass-threatening-global-web-applications/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+By exploiting this flaw, threat actors can bypass WAF protections, directly targeting backend servers and exposing them to distributed denial-of-service (DDoS) attacks or vulnerabilities within the web applications themselves.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hunk Companion WordPress Plugin Exploited to Install Vulnerable Plugins<a href="https://www.bleepingcomputer.com/news/security/hunk-companion-wordpress-plugin-exploited-to-install-vulnerable-plugins/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are exploiting a critical vulnerability in the "Hunk Companion" plugin to install and activate other plugins with exploitable flaws directly from the WordPress.org repository.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Splunk Secure Gateway App Vulnerability Allows Remote Code Execution<a href="https://securityonline.info/cve-2024-53247-splunk-secure-gateway-app-vulnerability-allows-remote-code-execution/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, identified as CVE-2024-53247 and with a CVSS score of 8.8, affects Splunk Enterprise versions below 9.3.2, 9.2.4, and 9.1.7, and versions below 3.2.461 and 3.7.13 of the Splunk Secure Gateway app on the Splunk Cloud Platform.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft MFA AuthQuake Flaw Enabled Unlimited Brute-Force Attempts Without Alerts<a href="https://thehackernews.com/2024/12/microsoft-mfa-authquake-flaw-enabled.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Oasis identified a vulnerability involving a lack of rate limits and extended validation time for Time-based One-Time Passwords (TOTPs), enabling attackers to rapidly guess all code permutations without alerting victims to failed login attempts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Sanctions Chinese Cyber Firm for Compromising ‘Thousands’ of Firewalls in 2020<a href="https://therecord.media/us-sanctions-chinese-cyber-firm-compromising-firewalls?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sichuan Silence Information Technology Company and one of its employees, Guan Tianfeng, were the targets of the sanctions, and the Justice Department indicted Guan for his role in the attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerability in Apache Struts Allows Remote Code Execution<a href="https://securityonline.info/cve-2024-53677-critical-vulnerability-in-apache-struts-allows-remote-code-execution/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Developers using the popular Apache Struts framework are urged to update their systems immediately following the discovery of a critical security flaw (CVE-2024-53677, CVSS 9.5) that could allow attackers to execute malicious code remotely.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Preventing Data Leakage in Low-Node/No-Code Environments<a href="https://www.helpnetsecurity.com/2024/12/10/lcnc-platforms/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Low-code/no-code (LCNC) platforms enable application development by citizen developers, often generating “shadow engineering” projects that evade security oversight. While they foster agility and innovation, they also bring risks like data leakage.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation PowerOFF Shuts Down 27 DDoS-for-Hire Platforms<a href="https://www.bleepingcomputer.com/news/security/operation-poweroff-shuts-down-27-ddos-for-hire-platforms/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law enforcement agencies from 15 countries have taken 27 DDoS-for-hire services offline, also known as "booters" or "stressers," arrested three administrators, and identified 300 customers of the platforms.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Astrix Security Secures $45M to Strengthen Nonhuman Identity Protection in Enterprise<a href="https://siliconangle.com/2024/12/10/astrix-security-secures-45m-strengthen-nonhuman-identity-protection-enterprise/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Menlo Ventures led the Series B round, with Workday Ventures and existing investors Bessemer Venture Partners Management, Charles River Ventures, and F2 Venture Capital also participating.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitLab Vulnerability Exposes User Accounts<a href="https://securityonline.info/cve-2024-11274-gitlab-vulnerability-exposes-user-accounts/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitLab issued an update, which includes versions 17.6.2, 17.5.4, and 17.4.6 for GitLab Community Edition (CE) and Enterprise Edition (EE), to tackle flaws that could lead to account takeovers, denial of service attacks, and information disclosure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apache Superset Patches Multiple Security Flaws in Latest Release<a href="https://securityonline.info/apache-superset-patches-multi-security-flaws-in-latest-release/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Apache Superset Patches Multiple Security Flaws in Latest Release<a href="https:
 These vulnerabilities, identified as CVE-2024-53947, CVE-2024-53948, and CVE-2024-53949, range in severity and could potentially allow attackers to bypass security controls, access sensitive data, and gain unauthorized privileges.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2024
+December 11, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Vulnerability in Cleo Software Actively Exploited in the Wild<a href="https://securityonline.info/cve-2024-50623-critical-vulnerability-in-cleo-software-actively-exploited-in-the-wild/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Critical Vulnerability in Cleo Software Actively Exploited in the Wild<a href="h
 The exploitation chain leverages an arbitrary file-write vulnerability. The attackers plant malicious files in Cleo’s autorun directory, which the software automatically processes and deletes post-execution.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2024
+December 11, 2024 -- [Malware](/docs/issues/malware/malware/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MoqHao Leverages iCloud and VK in Campaign Targeting Apple IDs and Android Device<a href="https://hunt.io/blog/moqhao-icloud-vk-targets-apple-android?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ MoqHao Leverages iCloud and VK in Campaign Targeting Apple IDs and Android Devic
 MoqHao, also known as Wroba and XLoader, is a mobile malware family linked to Roaming Mantis, a cybercrime group believed to be operating out of China. Malicious payloads are usually delivered through SMS phishing attacks targeting mobile devices.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hunt
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2024
+December 11, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researcher Details a Critical TCC Bypass Flaw in macOS and iOS<a href="https://securityonline.info/researcher-details-cve-2024-44131-a-critical-tcc-bypass-in-macos-and-ios/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Researcher Details a Critical TCC Bypass Flaw in macOS and iOS<a href="https://s
 Designated as CVE-2024-44131, this flaw enables malicious applications to bypass user consent mechanisms and access sensitive data without the user’s knowledge. The vulnerability has since been patched in macOS 15 and iOS 18.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2024
+December 11, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft December 2024 Patch Tuesday Fixes One Exploited Zero-Day, 71 Flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-december-2024-patch-tuesday-fixes-1-exploited-zero-day-71-flaws/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Microsoft December 2024 Patch Tuesday Fixes One Exploited Zero-Day, 71 Flaws<a h
 Microsoft's December 2024 Patch Tuesday offered security updates for 71 flaws, including one actively exploited zero-day vulnerability. This Patch Tuesday fixed sixteen critical vulnerabilities, all of which are remote code execution flaws.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2024
+December 11, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Siemens Healthineers Addresses Critical Flaw in Medical Imaging Software<a href="https://securityonline.info/cve-2024-52335-siemens-healthineers-addresses-critical-flaw/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Siemens Healthineers Addresses Critical Flaw in Medical Imaging Software<a href=
 To address this vulnerability, Siemens Healthineers has released a new hotfix (HF05) for syngo.plaza VB30E. The company strongly advises all users to update their systems to the latest version as soon as possible.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2024
+December 11, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Operation Digital Eye: Chinese APT Compromises Critical Digital Infrastructure via Visual Studio Code Tunnels<a href="https://www.sentinelone.com/labs/operation-digital-eye-chinese-apt-compromises-critical-digital-infrastructure-via-visual-studio-code-tunnels/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Operation Digital Eye: Chinese APT Compromises Critical Digital Infrastructure v
 The threat actors used a lateral movement capability indicative of the presence of a shared vendor or digital quartermaster maintaining and provisioning tooling within the Chinese APT ecosystem.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sentinel One
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2024
+December 11, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Schneider Electric Warns of Critical Flaw in Modicon Controllers<a href="https://securityonline.info/schneider-electric-warns-of-critical-flaw-in-modicon-controllers-cve-2024-11737-cvss-9-8/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Schneider Electric Warns of Critical Flaw in Modicon Controllers<a href="https:/
 The vulnerability, tracked as CVE-2024-11737 and assigned a CVSS score of 9.8, could allow an attacker to cause a denial of service and compromise the integrity of an affected controller.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2024
+December 11, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Chrome Gets Patches for Two High-Severity Vulnerabilities<a href="https://securityonline.info/google-chrome-patches-high-severity-vulnerabilities-cve-2024-12381-cve-2024-12382/?&web_view=true"> Full Text</a>
@@ -172,7 +332,7 @@ Google Chrome Gets Patches for Two High-Severity Vulnerabilities<a href="https:/
 The update, rolling out progressively to Windows, Mac, and Linux users over the coming days/weeks, brings Chrome to version 131.0.6778.139/.140 for Windows and Mac, and 131.0.6778.139 for Linux.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
