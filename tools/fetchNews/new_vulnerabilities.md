@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dell Warns of Critical Flaws in Enterprise Products, Including CVE-2024-37143 (CVSS 10)<a href="https://securityonline.info/dell-warns-of-critical-flaws-in-enterprise-products-including-cve-2024-37143/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These vulnerabilities, identified as CVE-2024-37143 and CVE-2024-37144, pose significant risks, ranging from remote code execution to information disclosure, with CVSS scores of 10.0 and 8.2, respectively.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Secure Email Gateways Fail to Stop Advanced Phishing Campaign Targeting Multiple Industries<a href="https://securityonline.info/secure-email-gateways-fail-to-stop-advanced-phishing-campaign-targeting-multiple-industries/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To conceal their malicious intent, the attackers employed URL redirections via Google AMP and encoded parameters to create a complex trail. This multi-layered strategy not only bypassed SEGs but also complicated manual detection efforts.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Woffice WordPress Theme Vulnerabilities Could Lead to Full Site Takeovers<a href="https://securityonline.info/over-15000-sites-at-risk-woffice-wordpress-theme-vulnerabilities-could-lead-to-full-site-takeovers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Patchstack identified two critical flaws in the Woffice Core plugin, which is required for the theme’s functionality. This includes a privilege escalation vulnerability (CVE-2024-43153) and an unauthenticated account takeover (CVE-2024-43234).
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 12, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

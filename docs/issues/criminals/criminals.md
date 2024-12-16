@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminal Marketplace Rydox Seized in International Law Enforcement Operation<a href="https://cyberscoop.com/rydox-cybercriminal-marketplace-seized-doj-albania-kosovo/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operation was carried out by the FBI’s Pittsburgh Office, Albania’s Special Anti-Corruption Body (SPAK) and its National Bureau of Investigation (BKH), the Kosovo Special Prosecution Office, the Kosovo Police, and the Royal Malaysian Police.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Scoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 10, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

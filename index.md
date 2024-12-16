@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2024
+December 14, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fortinet Acquires Perception Point, Boosting AI Security for Email and SaaS Apps<a href="https://www.calcalistech.com/ctechnews/article/s1sxwddnjl?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Fortinet Acquires Perception Point, Boosting AI Security for Email and SaaS Apps
 The acquisition highlights Fortinet’s strategy to extend its cybersecurity solutions beyond email, aiming to secure the broader digital workspace as businesses increasingly adopt cloud-first and hybrid environments.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cacalis Tech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2024
+December 14, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sublime Security Raises $60M in Series B Funding<a href="https://www.finsmes.com/2024/12/sublime-security-raises-60m-in-series-b-funding.html?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Sublime Security Raises $60M in Series B Funding<a href="https://www.finsmes.com
 The round was led by IVP, with participation from new investor Citi Ventures, as well as existing investors Index Ventures, Decibel Partners, and Slow Ventures. The company intends to use the funds to expand operations and its development efforts.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Finsmes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2024
+December 14, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dell Warns of Critical Flaws in Enterprise Products, Including CVE-2024-37143 (CVSS 10)<a href="https://securityonline.info/dell-warns-of-critical-flaws-in-enterprise-products-including-cve-2024-37143/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Dell Warns of Critical Flaws in Enterprise Products, Including CVE-2024-37143 (C
 These vulnerabilities, identified as CVE-2024-37143 and CVE-2024-37144, pose significant risks, ranging from remote code execution to information disclosure, with CVSS scores of 10.0 and 8.2, respectively.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2024
+December 14, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Secure Email Gateways Fail to Stop Advanced Phishing Campaign Targeting Multiple Industries<a href="https://securityonline.info/secure-email-gateways-fail-to-stop-advanced-phishing-campaign-targeting-multiple-industries/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Secure Email Gateways Fail to Stop Advanced Phishing Campaign Targeting Multiple
 To conceal their malicious intent, the attackers employed URL redirections via Google AMP and encoded parameters to create a complex trail. This multi-layered strategy not only bypassed SEGs but also complicated manual detection efforts.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2024
+December 14, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Silent Push Raises $10M in Series A Funding<a href="https://www.finsmes.com/2024/12/silent-push-raises-10m-in-series-a-funding.html?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Silent Push Raises $10M in Series A Funding<a href="https://www.finsmes.com/2024
 The round was led by Ten Eleven Ventures and Stepstone Group. The company intends to use the funds to accelerate its global expansion in EMEA and APJ regions and strengthen its GTM efforts.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Finsmes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2024
+December 14, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Woffice WordPress Theme Vulnerabilities Could Lead to Full Site Takeovers<a href="https://securityonline.info/over-15000-sites-at-risk-woffice-wordpress-theme-vulnerabilities-could-lead-to-full-site-takeovers/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Woffice WordPress Theme Vulnerabilities Could Lead to Full Site Takeovers<a href
 Patchstack identified two critical flaws in the Woffice Core plugin, which is required for the theme’s functionality. This includes a privilege escalation vulnerability (CVE-2024-43153) and an unauthenticated account takeover (CVE-2024-43234).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2024
+December 14, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Citrix Strengthens Zero-Trust Security with Acquisitions of deviceTRUST and strong.network<a href="https://siliconangle.com/2024/12/10/citrix-strengthens-zero-trust-security-acquisitions-devicetrust-strong-network/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Citrix Strengthens Zero-Trust Security with Acquisitions of deviceTRUST and stro
 The company acquired deviceTRUST GmbH and strong.network SA, both companies that specialize in security technology designed to provide zero-trust security for hybrid environments.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Silicon Angle
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2024
+December 14, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminal Marketplace Rydox Seized in International Law Enforcement Operation<a href="https://cyberscoop.com/rydox-cybercriminal-marketplace-seized-doj-albania-kosovo/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Cybercriminal Marketplace Rydox Seized in International Law Enforcement Operatio
 The operation was carried out by the FBI’s Pittsburgh Office, Albania’s Special Anti-Corruption Body (SPAK) and its National Bureau of Investigation (BKH), the Kosovo Special Prosecution Office, the Kosovo Police, and the Royal Malaysian Police.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyber Scoop
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2024
+December 14, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Linux Rootkit PUMAKIT Uses Advanced Stealth Techniques to Evade Detection<a href="https://thehackernews.com/2024/12/new-linux-rootkit-pumakit-uses-advanced.html?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ New Linux Rootkit PUMAKIT Uses Advanced Stealth Techniques to Evade Detection<a 
 Cybersecurity researchers have uncovered a new Linux rootkit called PUMAKIT that comes with capabilities to escalate privileges, hide files and directories, and conceal itself from system tools, while simultaneously evading detection.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2024
+December 14, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New IOCONTROL malware used in critical infrastructure attacks<a href="https://www.bleepingcomputer.com/news/security/new-iocontrol-malware-used-in-critical-infrastructure-attacks/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ New IOCONTROL malware used in critical infrastructure attacks<a href="https://ww
 The malware's modular nature makes it capable of compromising a broad spectrum of devices from various manufacturers, including D-Link, Hikvision, Baicells, Red Lion, Orpak, Phoenix Contact, Teltonika, and Unitronics.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

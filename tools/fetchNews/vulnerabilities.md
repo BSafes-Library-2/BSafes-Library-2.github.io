@@ -8,6 +8,90 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploiting CDN Integrations: A WAF Bypass Threatening Global Web Applications<a href="https://securityonline.info/exploiting-cdn-integrations-a-waf-bypass-threatening-global-web-applications/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+By exploiting this flaw, threat actors can bypass WAF protections, directly targeting backend servers and exposing them to distributed denial-of-service (DDoS) attacks or vulnerabilities within the web applications themselves.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hunk Companion WordPress Plugin Exploited to Install Vulnerable Plugins<a href="https://www.bleepingcomputer.com/news/security/hunk-companion-wordpress-plugin-exploited-to-install-vulnerable-plugins/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are exploiting a critical vulnerability in the "Hunk Companion" plugin to install and activate other plugins with exploitable flaws directly from the WordPress.org repository.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Splunk Secure Gateway App Vulnerability Allows Remote Code Execution<a href="https://securityonline.info/cve-2024-53247-splunk-secure-gateway-app-vulnerability-allows-remote-code-execution/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, identified as CVE-2024-53247 and with a CVSS score of 8.8, affects Splunk Enterprise versions below 9.3.2, 9.2.4, and 9.1.7, and versions below 3.2.461 and 3.7.13 of the Splunk Secure Gateway app on the Splunk Cloud Platform.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft MFA AuthQuake Flaw Enabled Unlimited Brute-Force Attempts Without Alerts<a href="https://thehackernews.com/2024/12/microsoft-mfa-authquake-flaw-enabled.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Oasis identified a vulnerability involving a lack of rate limits and extended validation time for Time-based One-Time Passwords (TOTPs), enabling attackers to rapidly guess all code permutations without alerting victims to failed login attempts.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerability in Apache Struts Allows Remote Code Execution<a href="https://securityonline.info/cve-2024-53677-critical-vulnerability-in-apache-struts-allows-remote-code-execution/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Developers using the popular Apache Struts framework are urged to update their systems immediately following the discovery of a critical security flaw (CVE-2024-53677, CVSS 9.5) that could allow attackers to execute malicious code remotely.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitLab Vulnerability Exposes User Accounts<a href="https://securityonline.info/cve-2024-11274-gitlab-vulnerability-exposes-user-accounts/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitLab issued an update, which includes versions 17.6.2, 17.5.4, and 17.4.6 for GitLab Community Edition (CE) and Enterprise Edition (EE), to tackle flaws that could lead to account takeovers, denial of service attacks, and information disclosure.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 11, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
