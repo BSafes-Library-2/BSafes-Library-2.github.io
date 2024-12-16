@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2024
+December 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet Acquires Perception Point, Boosting AI Security for Email and SaaS Apps<a href="https://www.calcalistech.com/ctechnews/article/s1sxwddnjl?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The acquisition highlights Fortinet’s strategy to extend its cybersecurity solutions beyond email, aiming to secure the broader digital workspace as businesses increasingly adopt cloud-first and hybrid environments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sublime Security Raises $60M in Series B Funding<a href="https://www.finsmes.com/2024/12/sublime-security-raises-60m-in-series-b-funding.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The round was led by IVP, with participation from new investor Citi Ventures, as well as existing investors Index Ventures, Decibel Partners, and Slow Ventures. The company intends to use the funds to expand operations and its development efforts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dell Warns of Critical Flaws in Enterprise Products, Including CVE-2024-37143 (CVSS 10)<a href="https://securityonline.info/dell-warns-of-critical-flaws-in-enterprise-products-including-cve-2024-37143/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These vulnerabilities, identified as CVE-2024-37143 and CVE-2024-37144, pose significant risks, ranging from remote code execution to information disclosure, with CVSS scores of 10.0 and 8.2, respectively.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Secure Email Gateways Fail to Stop Advanced Phishing Campaign Targeting Multiple Industries<a href="https://securityonline.info/secure-email-gateways-fail-to-stop-advanced-phishing-campaign-targeting-multiple-industries/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To conceal their malicious intent, the attackers employed URL redirections via Google AMP and encoded parameters to create a complex trail. This multi-layered strategy not only bypassed SEGs but also complicated manual detection efforts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Silent Push Raises $10M in Series A Funding<a href="https://www.finsmes.com/2024/12/silent-push-raises-10m-in-series-a-funding.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The round was led by Ten Eleven Ventures and Stepstone Group. The company intends to use the funds to accelerate its global expansion in EMEA and APJ regions and strengthen its GTM efforts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Woffice WordPress Theme Vulnerabilities Could Lead to Full Site Takeovers<a href="https://securityonline.info/over-15000-sites-at-risk-woffice-wordpress-theme-vulnerabilities-could-lead-to-full-site-takeovers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Patchstack identified two critical flaws in the Woffice Core plugin, which is required for the theme’s functionality. This includes a privilege escalation vulnerability (CVE-2024-43153) and an unauthenticated account takeover (CVE-2024-43234).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Citrix Strengthens Zero-Trust Security with Acquisitions of deviceTRUST and strong.network<a href="https://siliconangle.com/2024/12/10/citrix-strengthens-zero-trust-security-acquisitions-devicetrust-strong-network/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company acquired deviceTRUST GmbH and strong.network SA, both companies that specialize in security technology designed to provide zero-trust security for hybrid environments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminal Marketplace Rydox Seized in International Law Enforcement Operation<a href="https://cyberscoop.com/rydox-cybercriminal-marketplace-seized-doj-albania-kosovo/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operation was carried out by the FBI’s Pittsburgh Office, Albania’s Special Anti-Corruption Body (SPAK) and its National Bureau of Investigation (BKH), the Kosovo Special Prosecution Office, the Kosovo Police, and the Royal Malaysian Police.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Linux Rootkit PUMAKIT Uses Advanced Stealth Techniques to Evade Detection<a href="https://thehackernews.com/2024/12/new-linux-rootkit-pumakit-uses-advanced.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have uncovered a new Linux rootkit called PUMAKIT that comes with capabilities to escalate privileges, hide files and directories, and conceal itself from system tools, while simultaneously evading detection.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New IOCONTROL malware used in critical infrastructure attacks<a href="https://www.bleepingcomputer.com/news/security/new-iocontrol-malware-used-in-critical-infrastructure-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware's modular nature makes it capable of compromising a broad spectrum of devices from various manufacturers, including D-Link, Hikvision, Baicells, Red Lion, Orpak, Phoenix Contact, Teltonika, and Unitronics.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exploiting CDN Integrations: A WAF Bypass Threatening Global Web Applications<a href="https://securityonline.info/exploiting-cdn-integrations-a-waf-bypass-threatening-global-web-applications/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Exploiting CDN Integrations: A WAF Bypass Threatening Global Web Applications<a 
 By exploiting this flaw, threat actors can bypass WAF protections, directly targeting backend servers and exposing them to distributed denial-of-service (DDoS) attacks or vulnerabilities within the web applications themselves.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2024
+December 12, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hunk Companion WordPress Plugin Exploited to Install Vulnerable Plugins<a href="https://www.bleepingcomputer.com/news/security/hunk-companion-wordpress-plugin-exploited-to-install-vulnerable-plugins/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Hunk Companion WordPress Plugin Exploited to Install Vulnerable Plugins<a href="
 Hackers are exploiting a critical vulnerability in the "Hunk Companion" plugin to install and activate other plugins with exploitable flaws directly from the WordPress.org repository.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2024
+December 12, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Splunk Secure Gateway App Vulnerability Allows Remote Code Execution<a href="https://securityonline.info/cve-2024-53247-splunk-secure-gateway-app-vulnerability-allows-remote-code-execution/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Splunk Secure Gateway App Vulnerability Allows Remote Code Execution<a href="htt
 The vulnerability, identified as CVE-2024-53247 and with a CVSS score of 8.8, affects Splunk Enterprise versions below 9.3.2, 9.2.4, and 9.1.7, and versions below 3.2.461 and 3.7.13 of the Splunk Secure Gateway app on the Splunk Cloud Platform.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2024
+December 12, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft MFA AuthQuake Flaw Enabled Unlimited Brute-Force Attempts Without Alerts<a href="https://thehackernews.com/2024/12/microsoft-mfa-authquake-flaw-enabled.html?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Microsoft MFA AuthQuake Flaw Enabled Unlimited Brute-Force Attempts Without Aler
 Oasis identified a vulnerability involving a lack of rate limits and extended validation time for Time-based One-Time Passwords (TOTPs), enabling attackers to rapidly guess all code permutations without alerting victims to failed login attempts.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2024
+December 12, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Sanctions Chinese Cyber Firm for Compromising ‘Thousands’ of Firewalls in 2020<a href="https://therecord.media/us-sanctions-chinese-cyber-firm-compromising-firewalls?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ US Sanctions Chinese Cyber Firm for Compromising ‘Thousands’ of Firewalls in
 Sichuan Silence Information Technology Company and one of its employees, Guan Tianfeng, were the targets of the sanctions, and the Justice Department indicted Guan for his role in the attacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2024
+December 12, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Vulnerability in Apache Struts Allows Remote Code Execution<a href="https://securityonline.info/cve-2024-53677-critical-vulnerability-in-apache-struts-allows-remote-code-execution/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Critical Vulnerability in Apache Struts Allows Remote Code Execution<a href="htt
 Developers using the popular Apache Struts framework are urged to update their systems immediately following the discovery of a critical security flaw (CVE-2024-53677, CVSS 9.5) that could allow attackers to execute malicious code remotely.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2024
+December 12, 2024 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Preventing Data Leakage in Low-Node/No-Code Environments<a href="https://www.helpnetsecurity.com/2024/12/10/lcnc-platforms/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Preventing Data Leakage in Low-Node/No-Code Environments<a href="https://www.hel
 Low-code/no-code (LCNC) platforms enable application development by citizen developers, often generating “shadow engineering” projects that evade security oversight. While they foster agility and innovation, they also bring risks like data leakage.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2024
+December 12, 2024 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Operation PowerOFF Shuts Down 27 DDoS-for-Hire Platforms<a href="https://www.bleepingcomputer.com/news/security/operation-poweroff-shuts-down-27-ddos-for-hire-platforms/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Operation PowerOFF Shuts Down 27 DDoS-for-Hire Platforms<a href="https://www.ble
 Law enforcement agencies from 15 countries have taken 27 DDoS-for-hire services offline, also known as "booters" or "stressers," arrested three administrators, and identified 300 customers of the platforms.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2024
+December 12, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Astrix Security Secures $45M to Strengthen Nonhuman Identity Protection in Enterprise<a href="https://siliconangle.com/2024/12/10/astrix-security-secures-45m-strengthen-nonhuman-identity-protection-enterprise/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Astrix Security Secures $45M to Strengthen Nonhuman Identity Protection in Enter
 Menlo Ventures led the Series B round, with Workday Ventures and existing investors Bessemer Venture Partners Management, Charles River Ventures, and F2 Venture Capital also participating.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Siicon Angel
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2024
+December 12, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitLab Vulnerability Exposes User Accounts<a href="https://securityonline.info/cve-2024-11274-gitlab-vulnerability-exposes-user-accounts/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ GitLab Vulnerability Exposes User Accounts<a href="https://securityonline.info/c
 GitLab issued an update, which includes versions 17.6.2, 17.5.4, and 17.4.6 for GitLab Community Edition (CE) and Enterprise Edition (EE), to tackle flaws that could lead to account takeovers, denial of service attacks, and information disclosure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
