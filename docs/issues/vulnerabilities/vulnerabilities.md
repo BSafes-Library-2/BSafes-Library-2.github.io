@@ -8,6 +8,104 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 18, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Vulnerabilities in SHARP Routers Demand Urgent Firmware Updates<a href="https://securityonline.info/multiple-vulnerabilities-in-sharp-routers-demand-urgent-firmware-updates/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities impact various SHARP router models, including those provided by NTT DOCOMO, INC., SoftBank Corp., and KDDI CORPORATION. The flaws can lead to OS command injection, denial-of-service, and unauthorized file access.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 18, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Dirty DAG Vulnerabilities in Azure Data Factory’s Apache Airflow Integration<a href="https://unit42.paloaltonetworks.com/azure-data-factory-apache-airflow-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities can provide attackers with shadow admin control over Azure infrastructure, which could lead to data exfiltration, malware deployment and unauthorized data access.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 18, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit Critical Apache Struts RCE Flaw After PoC Exploit Release<a href="https://securityonline.info/hackers-exploit-critical-apache-struts-rce-flaw-cve-2024-53677-after-poc-exploit-release/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rated 9.5 on the CVSSv4  scale, CVE-2024-53677 allows remote attackers to execute arbitrary code by abusing flaws in the file upload logic. It affects a broad range of Apache Struts versions, including 2.0.0 to 2.5.33 and 6.0.0 to 6.3.0.2.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 18, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical XXE Vulnerability Found in http4k Toolkit<a href="https://securityonline.info/cve-2024-55875-cvss-9-8-critical-xxe-vulnerability-found-in-http4k-toolkit/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With a CVSS score of 9.8, this vulnerability poses significant risks, including sensitive data exposure, Server-Side Request Forgery (SSRF), and, under certain circumstances, remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Flaws in Volkswagen Group's Infotainment Units Allow for Vehicle Compromise<a href="https://securityaffairs.com/172024/hacking/volkswagen-group-infotainment-unit-flaws.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from PCAutomotive discovered multiple vulnerabilities in the infotainment units used in some Volkswagen. Remote attackers can exploit the flaws to achieve certain controls and track the location of cars in real time.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RCE Vulnerability Discovered in Laravel Pulse Monitoring Tool<a href="https://securityonline.info/cve-2024-55661-rce-vulnerability-discovered-in-laravel-pulse-monitoring-tool/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2024-55661, this vulnerability could allow authenticated users with access to the Pulse dashboard to execute arbitrary code on the server, potentially leading to full system compromise.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Open Sesame Attack: Ruijie Networks Devices Vulnerable to Remote Takeover<a href="https://www.darkreading.com/ics-ot-security/iot-cloud-cracked-open-sesame-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Internet of Things (IoT) vendor Ruijie Networks has shored up its Reyee cloud management platform against 10 newly discovered vulnerabilities that could have given adversaries control of thousands of connected devices in a single cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 14, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

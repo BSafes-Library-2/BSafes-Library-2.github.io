@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2024 - FBI 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HiatusRAT Actors Targeting Web Cameras and DVRs <a href="https://www.ic3.gov/CSA/2024/241216.pdf"> Full Text</a>
+</p>
+<details>
+The Federal Bureau of Investigation (FBI) is releasing this Private Industry Notification (PIN) to highlight HiatusRAT1 scanning campaigns against Chinese-branded web cameras and DVRs.  Private sector partners are encouraged to implement the recommendations listed in the “Mitigation” column of the table below to reduce the likelihood and impact of these attack campaigns.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 16, 2024 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -20,6 +31,18 @@ CVE-2024-35250 Microsoft Windows Kernel-Mode Driver Untrusted Pointer Dereferenc
 These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise.
 </details>
 </div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2024 - FTC 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New FTC Data Show Skyrocketing Consumer Reports About Game-Like Online Job Scams <a href="https://www.ftc.gov/news-events/news/press-releases/2024/12/new-ftc-data-show-skyrocketing-consumer-reports-about-game-online-job-scams?&web_view=true"> Full Text</a>
+</p>
+<details>
+New Federal Trade Commission complaint data show a sharp spike in online job scams that require consumers to repeat sets of tasks, which tracks closely with an increase in reported losses to job scams overall.
+</details>
+</div>
+
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 4, 2024 - CISA, NSA, FBI, ACSC, CCCS, NCSC-NZ

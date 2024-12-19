@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+December 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Novel 'TPUXtract' Attack can Infer the Internal Structure of AI Models<a href="https://www.darkreading.com/vulnerabilities-threats/tpuxtract-attackers-steal-ai-models?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at North Carolina State University demonstrated how to recreate a neural network using the electromagnetic (EM) signals emanating from the chip it runs on using a new method called "TPUXtract."
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 7, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

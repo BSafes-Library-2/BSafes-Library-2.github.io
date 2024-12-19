@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+December 18, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New FTC Data Show Skyrocketing Consumer Reports About Game-Like Online Job Scams<a href="https://www.ftc.gov/news-events/news/press-releases/2024/12/new-ftc-data-show-skyrocketing-consumer-reports-about-game-online-job-scams?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the FTC’s latest data spotlight, task scam reports skyrocketed from virtually none in 2020 to 5,000 in 2023, then quadrupled to an alarming 20,000 in just the first half of 2024.
+</details>
+<div style="text-align: right" markdown="1">
+FTC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 6, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

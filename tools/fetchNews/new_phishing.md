@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Investment Scam Leverages AI, Social Media Ads to Target Victims Worldwide<a href="https://thehackernews.com/2024/12/new-investment-scam-leverages-ai-social.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"The main goal of the fraudsters is to lead victims to phishing websites and forms that harvest their personal information," ESET noted in its H2 2024 Threat Report shared with The Hacker News.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Ads Distribute SocGholish Malware to Kaiser Permanente Employees<a href="https://www.malwarebytes.com/blog/news/2024/12/malicious-ad-distributes-socgholish-malware-to-kaiser-permanente-employees?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ads pretended to be the company's HR portal for benefits and paystub access. The threat was aimed at stealing employee login details, but instead of phishing, it led victims to a compromised website that asked them to update their browser.
+</details>
+<div style="text-align: right" markdown="1">
+MalwareBytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 4, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+December 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Clop Ransomware Claims Responsibility for Cleo Data Theft Attacks<a href="https://www.bleepingcomputer.com/news/security/clop-ransomware-claims-responsibility-for-cleo-data-theft-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Clop ransomware gang has confirmed to BleepingComputer that they are behind the recent Cleo data-theft attacks, utilizing zero-day exploits tracked as CVE-2024-50623 and CVE-2024-55956 to breach corporate networks and steal data.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 7, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

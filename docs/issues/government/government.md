@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+December 18, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Spots HiatusRAT Malware Attacks Targeting Web Cameras, DVRs<a href="https://www.bleepingcomputer.com/news/security/fbi-spots-hiatusrat-malware-attacks-targeting-web-cameras-dvrs/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As a private industry notification (PIN) published on Monday explains, the attackers focus their attacks on Chinese-branded devices that are still waiting for security patches or have already reached the end of life.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Says Windows Kernel Flaw Exploited in Attacks to Gain SYSTEM Privileges<a href="https://www.bleepingcomputer.com/news/security/windows-kernel-bug-now-exploited-in-attacks-to-gain-system-privileges/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2024-35250, this security flaw is due to an untrusted pointer dereference weakness that allows local attackers to gain SYSTEM privileges in low-complexity attacks that don't require user interaction.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 5, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

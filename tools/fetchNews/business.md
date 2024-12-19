@@ -8,6 +8,62 @@ nav_order: 900027
 
 ## Business
 ---
+December 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet Acquires Perception Point, Boosting AI Security for Email and SaaS Apps<a href="https://www.calcalistech.com/ctechnews/article/s1sxwddnjl?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The acquisition highlights Fortinet’s strategy to extend its cybersecurity solutions beyond email, aiming to secure the broader digital workspace as businesses increasingly adopt cloud-first and hybrid environments.
+</details>
+<div style="text-align: right" markdown="1">
+Cacalis Tech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sublime Security Raises $60M in Series B Funding<a href="https://www.finsmes.com/2024/12/sublime-security-raises-60m-in-series-b-funding.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The round was led by IVP, with participation from new investor Citi Ventures, as well as existing investors Index Ventures, Decibel Partners, and Slow Ventures. The company intends to use the funds to expand operations and its development efforts.
+</details>
+<div style="text-align: right" markdown="1">
+Finsmes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Silent Push Raises $10M in Series A Funding<a href="https://www.finsmes.com/2024/12/silent-push-raises-10m-in-series-a-funding.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The round was led by Ten Eleven Ventures and Stepstone Group. The company intends to use the funds to accelerate its global expansion in EMEA and APJ regions and strengthen its GTM efforts.
+</details>
+<div style="text-align: right" markdown="1">
+Finsmes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Citrix Strengthens Zero-Trust Security with Acquisitions of deviceTRUST and strong.network<a href="https://siliconangle.com/2024/12/10/citrix-strengthens-zero-trust-security-acquisitions-devicetrust-strong-network/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company acquired deviceTRUST GmbH and strong.network SA, both companies that specialize in security technology designed to provide zero-trust security for hybrid environments.
+</details>
+<div style="text-align: right" markdown="1">
+Silicon Angle
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 12, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
