@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+December 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Arctic Wolf Acquires BlackBerry’s Cylance Endpoint Security Unit for $160 Million<a href="https://siliconangle.com/2024/12/16/arctic-wolf-acquires-blackberrys-cylance-endpoint-security-unit-160m/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cylance became part of the company’s cybersecurity portfolio through a 2018 acquisition. The BlackBerry unit sells a software platform for protecting endpoints such as employee workstations.
+</details>
+<div style="text-align: right" markdown="1">
+Silicon Angle
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 14, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

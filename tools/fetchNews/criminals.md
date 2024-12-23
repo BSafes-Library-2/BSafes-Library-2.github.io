@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypted Hearts: Exposing the HeartCrypt Packer-as-a-Service Operation<a href="https://unit42.paloaltonetworks.com/packer-as-a-service-heartcrypt-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The majority of HeartCrypt customers are malware operators using families such as LummaStealer, Remcos, and Rhadamanthys. However, researchers also observed payloads from a wide variety of other crimeware families.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 14, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

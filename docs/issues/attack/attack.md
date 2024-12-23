@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+December 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Group Spotted Targeting Nuclear Engineers with CookiePlus Malware<a href="https://thehackernews.com/2024/12/lazarus-group-spotted-targeting-nuclear.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lazarus Group, an infamous North Korea threat actor, has been observed leveraging a "complex infection chain" targeting at least two employees belonging to an unnamed nuclear-related organization within the span of one month in January 2024.
+</details>
+<div style="text-align: right" markdown="1">
+The Hackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 17, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

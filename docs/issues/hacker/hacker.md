@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+December 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpacking the Diicot Malware Targeting Linux Environments<a href="https://www.wiz.io/blog/diicot-threat-group-malware-campaign?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Diicot threat group (also known as Mexals) is known for targeting Linux systems using techniques like self-propagating tools, custom UPX packers, Internet scanning, and cryptomining malware like XMRig.
+</details>
+<div style="text-align: right" markdown="1">
+Wiz
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UAC-0125 Abuses Cloudflare Workers to Distribute Malware Disguised as Army+ App<a href="https://thehackernews.com/2024/12/uac-0125-abuses-cloudflare-workers-to.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As part of the operation, the hackers create fraudulent websites that mimic the official page of a Ukrainian military app, Army+, tricking users into downloading an executable file disguised as an app installation package.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 3, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
