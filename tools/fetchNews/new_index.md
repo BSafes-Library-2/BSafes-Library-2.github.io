@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2024
+December 24, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major Biometric Data Farming Operation Uncovered<a href="https://www.infosecurity-magazine.com/news/major-biometric-data-farming/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have urged customer-facing businesses to improve their verification checks after discovering a large-scale identity farming operation on the dark web.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 24, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Pulled Off $308M Bitcoin Heist from Crypto Firm DMM Bitcoin<a href="https://thehackernews.com/2024/12/north-korean-hackers-pull-off-308m.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japanese and U.S. authorities have formerly attributed the theft of cryptocurrency worth $308 million from cryptocurrency company DMM Bitcoin in May 2024 to North Korean cyber actors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 24, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Intent Discovered in Two PyPI Packages<a href="https://www.fortinet.com/blog/threat-research/analyzing-malicious-intent-in-python-code?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet flagged two malicious Python packages, Zebo-0.1.0 and Cometlogger-0.1, exhibiting behaviors like keylogging, data exfiltration, webhook injection, and anti-VM checks while employing obfuscation to evade detection.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 24, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC Exploit Released for Windows Elevation of Privilege Vulnerability<a href="https://securityonline.info/poc-exploit-released-for-cve-2024-30085-windows-elevation-of-privilege-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researcher Alex Birnberg with SSD Secure Disclosure published the technical details and a proof-of-concept (PoC) exploit code for CVE-2024-30085, a Windows Cloud Files Mini Filter Driver Elevation of Privilege vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 24, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Acclaim Systems USAHERDS Flaw to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/172255/hacking/u-s-cisa-acclaim-systems-usaherds-flaw-known-exploited-vulnerabilities-catalog.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2021-44207, was exploited by the Chinese cyber-espionage group APT41 to breach multiple U.S. state government networks. The flaw stems from the use of hard-coded credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 24, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Webmin Vulnerability Leaves a Million Servers Exposed to RCE<a href="https://securityonline.info/cve-2024-12828-cvss-9-9-webmin-vulnerability-leaves-a-million-servers-exposed-to-rce/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability was discovered by Trend Micro’s Zero Day Initiative and has been addressed in Webmin version 2.111. All Webmin and Virtualmin administrators are strongly urged to update their installations immediately.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 24, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WikiKit AiTM Phishing Kit: Where Links Tell Lies<a href="https://trac-labs.com/wikikit-aitm-phishing-kit-where-links-tell-lies-abdea71ba094?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The WikiKit-powered phishing campaign began in early October 2024, targeting the automotive, manufacturing, medical, construction, consulting, and entertainment industries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 24, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerabilities Found in WordPress Plugins WPLMS and VibeBP<a href="https://www.infosecurity-magazine.com/news/flaws-wordpress-plugins-wplms/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Among the most severe flaws discovered by PatchStack were arbitrary file uploads, including CVE-2024-56046, allowing attackers to upload malicious files, potentially leading to remote code execution (RCE).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 24, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+“Holy League” Hacktivist Group Emerges, Targets West<a href="https://securityonline.info/holy-league-hacktivist-group-emerges-targets-west/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Holy League employs a blend of DDoS attacks, website defacements, and data breaches to incite fear and attract attention. Their propaganda combines dystopian visuals and religious themes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 24, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical CrushFTP Flaw Exposes Users to Account Takeover<a href="https://securityonline.info/cve-2024-53552-cvss-9-8-crushftp-flaw-exposes-users-to-account-takeover/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CrushFTP urges all users to update their servers to the latest versions (10.8.3 or 11.2.3) as soon as possible. In addition to patching, administrators must configure allowed email reset URL domains to further enhance security.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Supply Chain Attack on Rspack npm Packages Injects Cryptojacking Malware<a href="https://socket.dev/blog/rspack-supply-chain-attack?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Supply Chain Attack on Rspack npm Packages Injects Cryptojacking Malware<a href=
 Rspack, a popular high performance JavaScript bundler written in Rust, has been hit with a supply chain attack, affecting two of its npm packages, including @rspack/core and @rspack/cli. Versions 1.1.7 of both packages are affected.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Socket
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2024
+December 21, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unpacking the Diicot Malware Targeting Linux Environments<a href="https://www.wiz.io/blog/diicot-threat-group-malware-campaign?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Unpacking the Diicot Malware Targeting Linux Environments<a href="https://www.wi
 The Diicot threat group (also known as Mexals) is known for targeting Linux systems using techniques like self-propagating tools, custom UPX packers, Internet scanning, and cryptomining malware like XMRig.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Wiz
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2024
+December 21, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Microsoft VSCode Extensions Target Developers, Crypto Community<a href="https://www.bleepingcomputer.com/news/security/malicious-microsoft-vscode-extensions-target-devs-crypto-community/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Malicious Microsoft VSCode Extensions Target Developers, Crypto Community<a href
 Malicious Visual Studio Code extensions were discovered on the VSCode marketplace that download heavily obfuscated PowerShell payloads to target developers and cryptocurrency projects in supply chain attacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2024
+December 21, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SailPoint Acquires Imprivata’s IGA Business - Expands Portfolio<a href="https://hitconsultant.net/2024/12/16/sailpoint-acquires-imprivatas-iga-business/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ SailPoint Acquires Imprivata’s IGA Business - Expands Portfolio<a href="https:
 Identity security provider SailPoint acquired Imprivata’s Identity Governance and Administration (IGA) business, expanding its portfolio of healthcare security solutions. The two firms will collaborate as strategic partners in the healthcare market.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hit Consultant
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2024
+December 21, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UAC-0125 Abuses Cloudflare Workers to Distribute Malware Disguised as Army+ App<a href="https://thehackernews.com/2024/12/uac-0125-abuses-cloudflare-workers-to.html?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ UAC-0125 Abuses Cloudflare Workers to Distribute Malware Disguised as Army+ App<
 As part of the operation, the hackers create fraudulent websites that mimic the official page of a Ukrainian military app, Army+, tricking users into downloading an executable file disguised as an app installation package.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2024
+December 21, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaws in Rockwell Automation PowerMonitor 1000 Devices<a href="https://securityonline.info/critical-flaws-in-rockwell-automation-powermonitor-1000-devices-cvss-scores-hit-9-8-10/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Critical Flaws in Rockwell Automation PowerMonitor 1000 Devices<a href="https://
 The vulnerabilities, tracked as CVE-2024-12371, CVE-2024-12372, and CVE-2024-12373, have each been assigned a CVSS v3.1 Base Score of 9.8/10, underscoring their critical nature.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2024
+December 21, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bureau Raises $30M in Series B Funding<a href="https://www.finsmes.com/2024/12/bureau-raises-30m-in-series-b-funding.html?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Bureau Raises $30M in Series B Funding<a href="https://www.finsmes.com/2024/12/b
 The round was led by Sorenson Capital, with participation from PayPal Ventures and previous investors Commerce Ventures, GMO Venture Partners, and Village Global. It intends to use the funds to expand operations and its development efforts.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Finsmes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2024
+December 21, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Routers With Default Passwords are Attracting Mirai Infections, Juniper Says<a href="https://therecord.media/routers-with-default-passwords-mirai-malware-juniper?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Routers With Default Passwords are Attracting Mirai Infections, Juniper Says<a h
 A specific line of Juniper Networks devices can easily become infected with Mirai malware if users don’t scrap their default passwords, the networking equipment company said in an advisory.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2024
+December 21, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus Group Spotted Targeting Nuclear Engineers with CookiePlus Malware<a href="https://thehackernews.com/2024/12/lazarus-group-spotted-targeting-nuclear.html?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Lazarus Group Spotted Targeting Nuclear Engineers with CookiePlus Malware<a href
 The Lazarus Group, an infamous North Korea threat actor, has been observed leveraging a "complex infection chain" targeting at least two employees belonging to an unnamed nuclear-related organization within the span of one month in January 2024.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2024
+December 21, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OPSWAT Acquires Fend for OT Security<a href="https://www.msspalert.com/news/mssp-market-news-opswat-acquires-fend-for-ot-security?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ OPSWAT Acquires Fend for OT Security<a href="https://www.msspalert.com/news/mssp
 Critical infrastructure security firm OPSWAT, has acquired Fend Incorporated. Fend is a data pipeline and cybersecurity company dedicated to securing operational technology (OT) against cyber threats, ransomware, and other evolving risks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+MSSP Alert
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
