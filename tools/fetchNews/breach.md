@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+December 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Supply Chain Attack on Rspack npm Packages Injects Cryptojacking Malware<a href="https://socket.dev/blog/rspack-supply-chain-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rspack, a popular high performance JavaScript bundler written in Rust, has been hit with a supply chain attack, affecting two of its npm packages, including @rspack/core and @rspack/cli. Versions 1.1.7 of both packages are affected.
+</details>
+<div style="text-align: right" markdown="1">
+Socket
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 11, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

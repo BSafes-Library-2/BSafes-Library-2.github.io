@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 24, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WikiKit AiTM Phishing Kit: Where Links Tell Lies<a href="https://trac-labs.com/wikikit-aitm-phishing-kit-where-links-tell-lies-abdea71ba094?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The WikiKit-powered phishing campaign began in early October 2024, targeting the automotive, manufacturing, medical, construction, consulting, and entertainment industries.
+</details>
+<div style="text-align: right" markdown="1">
+TRAC Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 17, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaws in Rockwell Automation PowerMonitor 1000 Devices<a href="https://securityonline.info/critical-flaws-in-rockwell-automation-powermonitor-1000-devices-cvss-scores-hit-9-8-10/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities, tracked as CVE-2024-12371, CVE-2024-12372, and CVE-2024-12373, have each been assigned a CVSS v3.1 Base Score of 9.8/10, underscoring their critical nature.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Routers With Default Passwords are Attracting Mirai Infections, Juniper Says<a href="https://therecord.media/routers-with-default-passwords-mirai-malware-juniper?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A specific line of Juniper Networks devices can easily become infected with Mirai malware if users don’t scrap their default passwords, the networking equipment company said in an advisory.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 18, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

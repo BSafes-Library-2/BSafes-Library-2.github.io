@@ -8,6 +8,48 @@ nav_order: 900027
 
 ## Business
 ---
+December 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SailPoint Acquires Imprivata’s IGA Business - Expands Portfolio<a href="https://hitconsultant.net/2024/12/16/sailpoint-acquires-imprivatas-iga-business/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Identity security provider SailPoint acquired Imprivata’s Identity Governance and Administration (IGA) business, expanding its portfolio of healthcare security solutions. The two firms will collaborate as strategic partners in the healthcare market.
+</details>
+<div style="text-align: right" markdown="1">
+Hit Consultant
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bureau Raises $30M in Series B Funding<a href="https://www.finsmes.com/2024/12/bureau-raises-30m-in-series-b-funding.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The round was led by Sorenson Capital, with participation from PayPal Ventures and previous investors Commerce Ventures, GMO Venture Partners, and Village Global. It intends to use the funds to expand operations and its development efforts.
+</details>
+<div style="text-align: right" markdown="1">
+Finsmes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OPSWAT Acquires Fend for OT Security<a href="https://www.msspalert.com/news/mssp-market-news-opswat-acquires-fend-for-ot-security?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Critical infrastructure security firm OPSWAT, has acquired Fend Incorporated. Fend is a data pipeline and cybersecurity company dedicated to securing operational technology (OT) against cyber threats, ransomware, and other evolving risks.
+</details>
+<div style="text-align: right" markdown="1">
+MSSP Alert
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 17, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

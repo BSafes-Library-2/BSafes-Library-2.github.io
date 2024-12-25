@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 24, 2024
+December 24, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Major Biometric Data Farming Operation Uncovered<a href="https://www.infosecurity-magazine.com/news/major-biometric-data-farming/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Major Biometric Data Farming Operation Uncovered<a href="https://www.infosecurit
 Security researchers have urged customer-facing businesses to improve their verification checks after discovering a large-scale identity farming operation on the dark web.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 24, 2024
+December 24, 2024 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hackers Pulled Off $308M Bitcoin Heist from Crypto Firm DMM Bitcoin<a href="https://thehackernews.com/2024/12/north-korean-hackers-pull-off-308m.html?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ North Korean Hackers Pulled Off $308M Bitcoin Heist from Crypto Firm DMM Bitcoin
 Japanese and U.S. authorities have formerly attributed the theft of cryptocurrency worth $308 million from cryptocurrency company DMM Bitcoin in May 2024 to North Korean cyber actors.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 24, 2024
+December 24, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Intent Discovered in Two PyPI Packages<a href="https://www.fortinet.com/blog/threat-research/analyzing-malicious-intent-in-python-code?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Malicious Intent Discovered in Two PyPI Packages<a href="https://www.fortinet.co
 Fortinet flagged two malicious Python packages, Zebo-0.1.0 and Cometlogger-0.1, exhibiting behaviors like keylogging, data exfiltration, webhook injection, and anti-VM checks while employing obfuscation to evade detection.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Fortinet
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 24, 2024
+December 24, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PoC Exploit Released for Windows Elevation of Privilege Vulnerability<a href="https://securityonline.info/poc-exploit-released-for-cve-2024-30085-windows-elevation-of-privilege-vulnerability/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ PoC Exploit Released for Windows Elevation of Privilege Vulnerability<a href="ht
 Security researcher Alex Birnberg with SSD Secure Disclosure published the technical details and a proof-of-concept (PoC) exploit code for CVE-2024-30085, a Windows Cloud Files Mini Filter Driver Elevation of Privilege vulnerability.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 24, 2024
+December 24, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Adds Acclaim Systems USAHERDS Flaw to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/172255/hacking/u-s-cisa-acclaim-systems-usaherds-flaw-known-exploited-vulnerabilities-catalog.html?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ CISA Adds Acclaim Systems USAHERDS Flaw to its Known Exploited Vulnerabilities 
 The vulnerability, tracked as CVE-2021-44207, was exploited by the Chinese cyber-espionage group APT41 to breach multiple U.S. state government networks. The flaw stems from the use of hard-coded credentials.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 24, 2024
+December 24, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Webmin Vulnerability Leaves a Million Servers Exposed to RCE<a href="https://securityonline.info/cve-2024-12828-cvss-9-9-webmin-vulnerability-leaves-a-million-servers-exposed-to-rce/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Critical Webmin Vulnerability Leaves a Million Servers Exposed to RCE<a href="ht
 The vulnerability was discovered by Trend Micro’s Zero Day Initiative and has been addressed in Webmin version 2.111. All Webmin and Virtualmin administrators are strongly urged to update their installations immediately.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 24, 2024
+December 24, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WikiKit AiTM Phishing Kit: Where Links Tell Lies<a href="https://trac-labs.com/wikikit-aitm-phishing-kit-where-links-tell-lies-abdea71ba094?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ WikiKit AiTM Phishing Kit: Where Links Tell Lies<a href="https://trac-labs.com/w
 The WikiKit-powered phishing campaign began in early October 2024, targeting the automotive, manufacturing, medical, construction, consulting, and entertainment industries.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+TRAC Labs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 24, 2024
+December 24, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Vulnerabilities Found in WordPress Plugins WPLMS and VibeBP<a href="https://www.infosecurity-magazine.com/news/flaws-wordpress-plugins-wplms/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Critical Vulnerabilities Found in WordPress Plugins WPLMS and VibeBP<a href="htt
 Among the most severe flaws discovered by PatchStack were arbitrary file uploads, including CVE-2024-56046, allowing attackers to upload malicious files, potentially leading to remote code execution (RCE).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 24, 2024
+December 24, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 “Holy League” Hacktivist Group Emerges, Targets West<a href="https://securityonline.info/holy-league-hacktivist-group-emerges-targets-west/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ December 24, 2024
 Holy League employs a blend of DDoS attacks, website defacements, and data breaches to incite fear and attract attention. Their propaganda combines dystopian visuals and religious themes.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 24, 2024
+December 24, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical CrushFTP Flaw Exposes Users to Account Takeover<a href="https://securityonline.info/cve-2024-53552-cvss-9-8-crushftp-flaw-exposes-users-to-account-takeover/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Critical CrushFTP Flaw Exposes Users to Account Takeover<a href="https://securit
 CrushFTP urges all users to update their servers to the latest versions (10.8.3 or 11.2.3) as soon as possible. In addition to patching, administrators must configure allowed email reset URL domains to further enhance security.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

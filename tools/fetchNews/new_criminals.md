@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 24, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major Biometric Data Farming Operation Uncovered<a href="https://www.infosecurity-magazine.com/news/major-biometric-data-farming/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have urged customer-facing businesses to improve their verification checks after discovering a large-scale identity farming operation on the dark web.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 17, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
