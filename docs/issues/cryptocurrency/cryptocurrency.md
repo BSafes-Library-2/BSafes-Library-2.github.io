@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+December 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Zoom Meeting Links Lead to Million-Dollar Cryptocurrency Heist<a href="https://securityonline.info/fake-zoom-meeting-links-lead-to-million-dollar-cryptocurrency-heist/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phishing links, designed to mimic legitimate Zoom meeting invitations, directed users to a fraudulent domain, “app[.]us4zoom[.]us”, which closely resembled the genuine Zoom interface.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 24, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

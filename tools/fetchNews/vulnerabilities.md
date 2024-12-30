@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 24, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC Exploit Released for Windows Elevation of Privilege Vulnerability<a href="https://securityonline.info/poc-exploit-released-for-cve-2024-30085-windows-elevation-of-privilege-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researcher Alex Birnberg with SSD Secure Disclosure published the technical details and a proof-of-concept (PoC) exploit code for CVE-2024-30085, a Windows Cloud Files Mini Filter Driver Elevation of Privilege vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 24, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Webmin Vulnerability Leaves a Million Servers Exposed to RCE<a href="https://securityonline.info/cve-2024-12828-cvss-9-9-webmin-vulnerability-leaves-a-million-servers-exposed-to-rce/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability was discovered by Trend Micro’s Zero Day Initiative and has been addressed in Webmin version 2.111. All Webmin and Virtualmin administrators are strongly urged to update their installations immediately.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 24, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerabilities Found in WordPress Plugins WPLMS and VibeBP<a href="https://www.infosecurity-magazine.com/news/flaws-wordpress-plugins-wplms/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Among the most severe flaws discovered by PatchStack were arbitrary file uploads, including CVE-2024-56046, allowing attackers to upload malicious files, potentially leading to remote code execution (RCE).
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 24, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical CrushFTP Flaw Exposes Users to Account Takeover<a href="https://securityonline.info/cve-2024-53552-cvss-9-8-crushftp-flaw-exposes-users-to-account-takeover/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CrushFTP urges all users to update their servers to the latest versions (10.8.3 or 11.2.3) as soon as possible. In addition to patching, administrators must configure allowed email reset URL domains to further enhance security.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 21, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

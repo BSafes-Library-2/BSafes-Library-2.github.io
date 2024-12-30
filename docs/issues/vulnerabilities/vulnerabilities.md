@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical SSRF Vulnerability (CVE-2024-53353) Found in Invoice Ninja<a href="https://securityonline.info/critical-ssrf-vulnerability-cve-2024-53353-found-in-invoice-ninja/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw allows both local and remote users with permissions to create or edit invoices and low-privileged client portal users to inject malicious payloads during PDF generation in Invoice Ninja.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Palo Alto Releases Patch for PAN-OS DoS Flaw — Update Immediately<a href="https://thehackernews.com/2024/12/palo-alto-releases-patch-for-pan-os-dos.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw, tracked as CVE-2024-3393 (CVSS score: 8.7), impacts PAN-OS versions 10.X and 11.X, and Prisma Access running PAN-OS versions. It has been addressed in PAN-OS 10.1.14-h8, PAN-OS 10.2.10-h12, PAN-OS 11.1.5, PAN-OS 11.2.3, and later versions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 27, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical XXE Vulnerability Discovered in libxml2<a href="https://securityonline.info/cve-2024-40896-cvss-9-1-critical-xxe-vulnerability-discovered-in-libxml2/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2024-40896 (CVSS 9.1) and assigned a critical severity score of 9.1, affects libxml2 versions 2.11 prior to 2.11.9, 2.12 prior to 2.12.9, and 2.13 prior to 2.13.3.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 24, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

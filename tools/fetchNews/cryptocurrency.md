@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+December 24, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Pulled Off $308M Bitcoin Heist from Crypto Firm DMM Bitcoin<a href="https://thehackernews.com/2024/12/north-korean-hackers-pull-off-308m.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japanese and U.S. authorities have formerly attributed the theft of cryptocurrency worth $308 million from cryptocurrency company DMM Bitcoin in May 2024 to North Korean cyber actors.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 10, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
