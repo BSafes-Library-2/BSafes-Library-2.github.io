@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Espionage Cluster Paper Werewolf Engages in Destructive Behavior<a href="https://bi.zone/eng/expertise/blog/paper-werewolf-sovmeshchaet-kibershpionazh-s-destruktivnymi-deystviyami/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BI.ZONE Threat Intelligence team has recorded a surge in the activity of the Paper Werewolf cluster (aka GOFFEE), which has conducted at least seven campaigns since 2022. Victims include government, energy, financial, media, and other sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical SSRF Vulnerability (CVE-2024-53353) Found in Invoice Ninja<a href="https://securityonline.info/critical-ssrf-vulnerability-cve-2024-53353-found-in-invoice-ninja/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw allows both local and remote users with permissions to create or edit invoices and low-privileged client portal users to inject malicious payloads during PDF generation in Invoice Ninja.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Zoom Meeting Links Lead to Million-Dollar Cryptocurrency Heist<a href="https://securityonline.info/fake-zoom-meeting-links-lead-to-million-dollar-cryptocurrency-heist/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phishing links, designed to mimic legitimate Zoom meeting invitations, directed users to a fraudulent domain, “app[.]us4zoom[.]us”, which closely resembled the genuine Zoom interface.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FICORA and Kaiten Botnets Exploit Old D-Link Vulnerabilities for Global Attacks<a href="https://thehackernews.com/2024/12/ficora-and-kaiten-botnets-exploit-old-d.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers are warning about a spike in malicious activity that involves roping vulnerable D-Link routers into two different botnets, a Mirai variant dubbed FICORA and a Kaiten (aka Tsunami) variant called CAPSAICIN.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Expert Reveals Alarming Tactics Used in Google Impersonation Scams<a href="https://securityonline.info/google-impersonation-scams-cybersecurity-expert-reveals-alarming-tactics/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity expert Brian Krebs uncovered alarming new stories of two victims, Adam Griffin and Tony, who together lost millions of dollars in cryptocurrency to social engineering attacks that combined technical precision and emotional manipulation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Palo Alto Releases Patch for PAN-OS DoS Flaw — Update Immediately<a href="https://thehackernews.com/2024/12/palo-alto-releases-patch-for-pan-os-dos.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw, tracked as CVE-2024-3393 (CVSS score: 8.7), impacts PAN-OS versions 10.X and 11.X, and Prisma Access running PAN-OS versions. It has been addressed in PAN-OS 10.1.14-h8, PAN-OS 10.2.10-h12, PAN-OS 11.1.5, PAN-OS 11.2.3, and later versions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'OtterCookie' Malware Used to Backdoor Developers in Fake Job Offers<a href="https://www.bleepingcomputer.com/news/security/new-ottercookie-malware-used-to-backdoor-devs-in-fake-job-offers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A report from NTT Security Japan found that the Contagious Interview operation is now using a new piece of malware called OtterCookie, which was likely introduced in September and with a new variant appearing in the wild in November.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical XXE Vulnerability Discovered in libxml2<a href="https://securityonline.info/cve-2024-40896-cvss-9-1-critical-xxe-vulnerability-discovered-in-libxml2/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2024-40896 (CVSS 9.1) and assigned a critical severity score of 9.1, affects libxml2 versions 2.11 prior to 2.11.9, 2.12 prior to 2.12.9, and 2.13 prior to 2.13.3.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI Could Generate 10,000 Malware Variants, Evading Detection in 88% of Case<a href="https://thehackernews.com/2024/12/ai-could-generate-10000-malware.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unit 42 used LLMs to rewrite malware samples, bypassing detection by ML models like Innocent Until Proven Guilty (IUPG) and PhishingJS, creating 10,000 functional JavaScript variants without altering the functionality.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop Ransomware is Now Extorting 66 Cleo Data-Theft Victims<a href="https://www.bleepingcomputer.com/news/security/clop-ransomware-is-now-extorting-66-cleo-data-theft-victims/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cleo data theft attack represents another major success for Clop, who leveraged leveraging a zero-day vulnerability in Cleo LexiCom, VLTransfer, and Harmony products to steal data from the networks of breached companies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 24, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
