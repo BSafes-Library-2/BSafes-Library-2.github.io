@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+December 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+16 Chrome Extensions Hacked, Exposing Over 600,000 Users to Data Theft<a href="https://thehackernews.com/2024/12/16-chrome-extensions-hacked-exposing.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new attack campaign has targeted known Chrome browser extensions, leading to at least 16 extensions being compromised and exposing over 600,000 users to data exposure and credential theft.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 21, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Expert Reveals Alarming Tactics Used in Google Impersonation Scams<a href="https://securityonline.info/google-impersonation-scams-cybersecurity-expert-reveals-alarming-tactics/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity expert Brian Krebs uncovered alarming new stories of two victims, Adam Griffin and Tony, who together lost millions of dollars in cryptocurrency to social engineering attacks that combined technical precision and emotional manipulation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 24, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

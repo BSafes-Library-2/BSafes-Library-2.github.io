@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+December 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FICORA and Kaiten Botnets Exploit Old D-Link Vulnerabilities for Global Attacks<a href="https://thehackernews.com/2024/12/ficora-and-kaiten-botnets-exploit-old-d.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers are warning about a spike in malicious activity that involves roping vulnerable D-Link routers into two different botnets, a Mirai variant dubbed FICORA and a Kaiten (aka Tsunami) variant called CAPSAICIN.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 10, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 31, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrueNAS CORE Vulnerability Let Attackers Execute Remote Code<a href="https://gbhackers.com/truenas-core-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers Daan Keuper, Thijs Alkemade, and Khaled Nassar from Computest Sector 7 disclosed a critical vulnerability in TrueNAS CORE, a widely-used open-source storage operating system developed by iXsystems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+15,000+ Four-Faith Routers Exposed to New Exploit Due to Default Credentials<a href="https://thehackernews.com/2024/12/15000-four-faith-routers-exposed-to-new.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity flaw impacting select Four-Faith routers has come under active exploitation in the wild. The vulnerability, tracked as CVE-2024-12856, has been described as an OS command injection bug affecting router models F3x24 and F3x36.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 28, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

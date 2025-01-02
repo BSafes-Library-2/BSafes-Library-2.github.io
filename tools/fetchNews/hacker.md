@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+December 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Espionage Cluster Paper Werewolf Engages in Destructive Behavior<a href="https://bi.zone/eng/expertise/blog/paper-werewolf-sovmeshchaet-kibershpionazh-s-destruktivnymi-deystviyami/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BI.ZONE Threat Intelligence team has recorded a surge in the activity of the Paper Werewolf cluster (aka GOFFEE), which has conducted at least seven campaigns since 2022. Victims include government, energy, financial, media, and other sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 24, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+December 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop Ransomware is Now Extorting 66 Cleo Data-Theft Victims<a href="https://www.bleepingcomputer.com/news/security/clop-ransomware-is-now-extorting-66-cleo-data-theft-victims/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cleo data theft attack represents another major success for Clop, who leveraged leveraging a zero-day vulnerability in Cleo LexiCom, VLTransfer, and Harmony products to steal data from the networks of breached companies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 17, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

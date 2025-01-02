@@ -34,6 +34,70 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 31, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrueNAS CORE Vulnerability Let Attackers Execute Remote Code<a href="https://gbhackers.com/truenas-core-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers Daan Keuper, Thijs Alkemade, and Khaled Nassar from Computest Sector 7 disclosed a critical vulnerability in TrueNAS CORE, a widely-used open-source storage operating system developed by iXsystems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 30, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+16 Chrome Extensions Hacked, Exposing Over 600,000 Users to Data Theft<a href="https://thehackernews.com/2024/12/16-chrome-extensions-hacked-exposing.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new attack campaign has targeted known Chrome browser extensions, leading to at least 16 extensions being compromised and exposing over 600,000 users to data exposure and credential theft.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 30, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+15,000+ Four-Faith Routers Exposed to New Exploit Due to Default Credentials<a href="https://thehackernews.com/2024/12/15000-four-faith-routers-exposed-to-new.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity flaw impacting select Four-Faith routers has come under active exploitation in the wild. The vulnerability, tracked as CVE-2024-12856, has been described as an OS command injection bug affecting router models F3x24 and F3x36.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 30, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Deploy OtterCookie Malware in Contagious Interview Campaign<a href="https://thehackernews.com/2024/12/north-korean-hackers-deploy-ottercookie.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean threat actors behind the ongoing Contagious Interview campaign have been observed dropping a new JavaScript malware called OtterCookie. The development is a sign that the threat actors are actively updating their tools.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 28, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
