@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 2, 2025
+January 2, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New "DoubleClickjacking" Exploit Bypasses Clickjacking Protections to Enable Account Takeover<a href="https://thehackernews.com/2025/01/new-doubleclickjacking-exploit-bypasses.html?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ New "DoubleClickjacking" Exploit Bypasses Clickjacking Protections to Enable Acc
 Threat hunters have disclosed a new "widespread timing-based vulnerability class" that leverages a double-click sequence to facilitate clickjacking attacks and account takeovers in almost all major websites.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 2, 2025
+January 2, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Advancing Through the Cyberfront, LegionLoader Commander<a href="https://trac-labs.com/advancing-through-the-cyberfront-legionloader-commander-6af38ebe39d4?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Advancing Through the Cyberfront, LegionLoader Commander<a href="https://trac-la
 LegionLoader is a downloader malware written in C/C++ that first appeared in the wild in 2019. It is also known by other names, including Satacom and RobotDropper, and is tracked as CurlyGate by Mandiant.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+TRAC Labs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 2, 2025
+January 2, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Novel Multi-Turn Technique "Bad Likert Judge" Jailbreaks LLMs by Misusing Their Evaluation Capability<a href="https://unit42.paloaltonetworks.com/multi-turn-technique-jailbreaks-llms/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Novel Multi-Turn Technique "Bad Likert Judge" Jailbreaks LLMs by Misusing Their 
 The technique asks the target LLM to act as a judge scoring the harmfulness of a given response using the Likert scale, a rating scale measuring a respondent’s agreement or disagreement with a statement.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Palo Alto Networks
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 2, 2025
+January 2, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apache NiFi Vulnerability Exposes Sensitive Data to Unauthorized Users<a href="https://securityonline.info/cve-2024-56512-apache-nifi-vulnerability-exposes-sensitive-data-to-unauthorized-users/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Apache NiFi Vulnerability Exposes Sensitive Data to Unauthorized Users<a href="h
 A new vulnerability, tracked as CVE-2024-56512, affects all versions of Apache NiFi from 1.10.0 to 2.0.0. The vulnerability stems from a lack of fine-grained authorization when creating new Process Groups within NiFi.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 2, 2025
+January 2, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PoC Exploit Published for Linux Kernel Privilege Escalation Flaw<a href="https://securityonline.info/linux-kernel-vulnerability-cve-2023-4147-poc-exploit-published-for-privilege-escalation-flaw/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ PoC Exploit Published for Linux Kernel Privilege Escalation Flaw<a href="https:/
 The vulnerability affects Linux Kernel versions v5.9-rc1 to v6.5-rc3. Users and administrators are strongly advised to update their systems to the latest patched versions to mitigate the risk of exploitation.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 2, 2025
+January 2, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Progress Issues Critical Patch for WhatsUp Gold Network Monitoring Software<a href="https://securityonline.info/cve-2024-12108-whatsup-gold-network-monitoring-software/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Progress Issues Critical Patch for WhatsUp Gold Network Monitoring Software<a hr
 The most severe vulnerability (CVE-2024-12108) patched has a CVSS score of 9.6 and allows attackers to gain complete control of the Progress WhatsUp Gold server via the public API.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 2, 2025
+January 2, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Obfuscated NPM Package Disguised as an Ethereum Tool Deploys Quasar RAT<a href="https://thehackernews.com/2025/01/malicious-obfuscated-npm-package.html?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Malicious Obfuscated NPM Package Disguised as an Ethereum Tool Deploys Quasar RA
 The heavily obfuscated package, named ethereumvulncontracthandler, was published to npm on December 18, 2024, by a user named "solidit-dev-416." As of writing, it continues to be available for download. It has been downloaded 66 times to date.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 2, 2025
+January 2, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New NGate Trojan Drains Bank Accounts via NFC-based ATM Withdrawls<a href="https://securityonline.info/nfc-nightmare-new-ngate-trojan-drains-bank-accounts-via-atms/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ New NGate Trojan Drains Bank Accounts via NFC-based ATM Withdrawls<a href="https
 The NGate trojan relays data from the compromised device's NFC chip, allowing the attacker to withdraw money from the victim's accounts at ATMs without the victim’s involvement.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 2, 2025
+January 2, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 66,000 DrayTek Gateways Vulnerable to Remote Command Injection, PoC Published<a href="https://securityonline.info/66000-draytek-gateways-vulnerable-to-remote-command-injection-cve-2024-12987-poc-published/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ January 2, 2025
 Security researcher Netsecfish has discovered a command injection vulnerability, tracked as CVE-2024-12987, in the web management interface of popular DrayTek gateway devices. This flaw could enable attackers to execute arbitrary commands remotely.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 2, 2025
+January 2, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: PoC Exploit Code Published for Severe Oracle WebLogic Server Flaw<a href="https://securityonline.info/cve-2024-21182-poc-exploit-code-published-for-severe-weblogic-flaw/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Update: PoC Exploit Code Published for Severe Oracle WebLogic Server Flaw<a href
 The vulnerability resides in the Core component of Oracle’s WebLogic Server, a widely used Java EE application server. Supported versions impacted include 12.2.1.4.0 and 14.1.1.0.0.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -204,7 +204,7 @@ TrueNAS CORE Vulnerability Let Attackers Execute Remote Code<a href="https://gbh
 Security researchers Daan Keuper, Thijs Alkemade, and Khaled Nassar from Computest Sector 7 disclosed a critical vulnerability in TrueNAS CORE, a widely-used open-source storage operating system developed by iXsystems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -220,7 +220,7 @@ December 30, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 A new attack campaign has targeted known Chrome browser extensions, leading to at least 16 extensions being compromised and exposing over 600,000 users to data exposure and credential theft.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -236,7 +236,7 @@ December 30, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilit
 A high-severity flaw impacting select Four-Faith routers has come under active exploitation in the wild. The vulnerability, tracked as CVE-2024-12856, has been described as an OS command injection bug affecting router models F3x24 and F3x36.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -252,7 +252,7 @@ North Korean Hackers Deploy OtterCookie Malware in Contagious Interview Campaign
 North Korean threat actors behind the ongoing Contagious Interview campaign have been observed dropping a new JavaScript malware called OtterCookie. The development is a sign that the threat actors are actively updating their tools.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -268,7 +268,7 @@ Cyber Espionage Cluster Paper Werewolf Engages in Destructive Behavior<a href="h
 The BI.ZONE Threat Intelligence team has recorded a surge in the activity of the Paper Werewolf cluster (aka GOFFEE), which has conducted at least seven campaigns since 2022. Victims include government, energy, financial, media, and other sectors.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bi.Zone
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -284,7 +284,7 @@ Critical SSRF Vulnerability (CVE-2024-53353) Found in Invoice Ninja<a href="http
 The flaw allows both local and remote users with permissions to create or edit invoices and low-privileged client portal users to inject malicious payloads during PDF generation in Invoice Ninja.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -300,7 +300,7 @@ Fake Zoom Meeting Links Lead to Million-Dollar Cryptocurrency Heist<a href="http
 The phishing links, designed to mimic legitimate Zoom meeting invitations, directed users to a fraudulent domain, “app[.]us4zoom[.]us”, which closely resembled the genuine Zoom interface.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -316,7 +316,7 @@ FICORA and Kaiten Botnets Exploit Old D-Link Vulnerabilities for Global Attacks<
 Cybersecurity researchers are warning about a spike in malicious activity that involves roping vulnerable D-Link routers into two different botnets, a Mirai variant dubbed FICORA and a Kaiten (aka Tsunami) variant called CAPSAICIN.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -332,7 +332,7 @@ Cybersecurity Expert Reveals Alarming Tactics Used in Google Impersonation Scams
 Cybersecurity expert Brian Krebs uncovered alarming new stories of two victims, Adam Griffin and Tony, who together lost millions of dollars in cryptocurrency to social engineering attacks that combined technical precision and emotional manipulation.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -348,7 +348,7 @@ Palo Alto Releases Patch for PAN-OS DoS Flaw — Update Immediately<a href="http
 The flaw, tracked as CVE-2024-3393 (CVSS score: 8.7), impacts PAN-OS versions 10.X and 11.X, and Prisma Access running PAN-OS versions. It has been addressed in PAN-OS 10.1.14-h8, PAN-OS 10.2.10-h12, PAN-OS 11.1.5, PAN-OS 11.2.3, and later versions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -364,7 +364,7 @@ New 'OtterCookie' Malware Used to Backdoor Developers in Fake Job Offers<a href=
 A report from NTT Security Japan found that the Contagious Interview operation is now using a new piece of malware called OtterCookie, which was likely introduced in September and with a new variant appearing in the wild in November.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -380,7 +380,7 @@ Critical XXE Vulnerability Discovered in libxml2<a href="https://securityonline.
 The vulnerability, tracked as CVE-2024-40896 (CVSS 9.1) and assigned a critical severity score of 9.1, affects libxml2 versions 2.11 prior to 2.11.9, 2.12 prior to 2.12.9, and 2.13 prior to 2.13.3.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -396,7 +396,7 @@ AI Could Generate 10,000 Malware Variants, Evading Detection in 88% of Case<a hr
 Unit 42 used LLMs to rewrite malware samples, bypassing detection by ML models like Innocent Until Proven Guilty (IUPG) and PhishingJS, creating 10,000 functional JavaScript variants without altering the functionality.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -412,7 +412,7 @@ Clop Ransomware is Now Extorting 66 Cleo Data-Theft Victims<a href="https://www.
 The Cleo data theft attack represents another major success for Clop, who leveraged leveraging a zero-day vulnerability in Cleo LexiCom, VLTransfer, and Harmony products to steal data from the networks of breached companies.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

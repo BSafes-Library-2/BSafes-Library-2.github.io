@@ -8,6 +8,104 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 2, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New "DoubleClickjacking" Exploit Bypasses Clickjacking Protections to Enable Account Takeover<a href="https://thehackernews.com/2025/01/new-doubleclickjacking-exploit-bypasses.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat hunters have disclosed a new "widespread timing-based vulnerability class" that leverages a double-click sequence to facilitate clickjacking attacks and account takeovers in almost all major websites.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 2, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Novel Multi-Turn Technique "Bad Likert Judge" Jailbreaks LLMs by Misusing Their Evaluation Capability<a href="https://unit42.paloaltonetworks.com/multi-turn-technique-jailbreaks-llms/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The technique asks the target LLM to act as a judge scoring the harmfulness of a given response using the Likert scale, a rating scale measuring a respondent’s agreement or disagreement with a statement.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 2, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache NiFi Vulnerability Exposes Sensitive Data to Unauthorized Users<a href="https://securityonline.info/cve-2024-56512-apache-nifi-vulnerability-exposes-sensitive-data-to-unauthorized-users/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new vulnerability, tracked as CVE-2024-56512, affects all versions of Apache NiFi from 1.10.0 to 2.0.0. The vulnerability stems from a lack of fine-grained authorization when creating new Process Groups within NiFi.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 2, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC Exploit Published for Linux Kernel Privilege Escalation Flaw<a href="https://securityonline.info/linux-kernel-vulnerability-cve-2023-4147-poc-exploit-published-for-privilege-escalation-flaw/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability affects Linux Kernel versions v5.9-rc1 to v6.5-rc3. Users and administrators are strongly advised to update their systems to the latest patched versions to mitigate the risk of exploitation.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 2, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Progress Issues Critical Patch for WhatsUp Gold Network Monitoring Software<a href="https://securityonline.info/cve-2024-12108-whatsup-gold-network-monitoring-software/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most severe vulnerability (CVE-2024-12108) patched has a CVSS score of 9.6 and allows attackers to gain complete control of the Progress WhatsUp Gold server via the public API.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 2, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+66,000 DrayTek Gateways Vulnerable to Remote Command Injection, PoC Published<a href="https://securityonline.info/66000-draytek-gateways-vulnerable-to-remote-command-injection-cve-2024-12987-poc-published/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researcher Netsecfish has discovered a command injection vulnerability, tracked as CVE-2024-12987, in the web management interface of popular DrayTek gateway devices. This flaw could enable attackers to execute arbitrary commands remotely.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 2, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: PoC Exploit Code Published for Severe Oracle WebLogic Server Flaw<a href="https://securityonline.info/cve-2024-21182-poc-exploit-code-published-for-severe-weblogic-flaw/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability resides in the Core component of Oracle’s WebLogic Server, a widely used Java EE application server. Supported versions impacted include 12.2.1.4.0 and 14.1.1.0.0.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 31, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
