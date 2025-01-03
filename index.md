@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 2, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New "DoubleClickjacking" Exploit Bypasses Clickjacking Protections to Enable Account Takeover<a href="https://thehackernews.com/2025/01/new-doubleclickjacking-exploit-bypasses.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat hunters have disclosed a new "widespread timing-based vulnerability class" that leverages a double-click sequence to facilitate clickjacking attacks and account takeovers in almost all major websites.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 2, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Advancing Through the Cyberfront, LegionLoader Commander<a href="https://trac-labs.com/advancing-through-the-cyberfront-legionloader-commander-6af38ebe39d4?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LegionLoader is a downloader malware written in C/C++ that first appeared in the wild in 2019. It is also known by other names, including Satacom and RobotDropper, and is tracked as CurlyGate by Mandiant.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 2, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Novel Multi-Turn Technique "Bad Likert Judge" Jailbreaks LLMs by Misusing Their Evaluation Capability<a href="https://unit42.paloaltonetworks.com/multi-turn-technique-jailbreaks-llms/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The technique asks the target LLM to act as a judge scoring the harmfulness of a given response using the Likert scale, a rating scale measuring a respondent’s agreement or disagreement with a statement.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 2, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache NiFi Vulnerability Exposes Sensitive Data to Unauthorized Users<a href="https://securityonline.info/cve-2024-56512-apache-nifi-vulnerability-exposes-sensitive-data-to-unauthorized-users/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new vulnerability, tracked as CVE-2024-56512, affects all versions of Apache NiFi from 1.10.0 to 2.0.0. The vulnerability stems from a lack of fine-grained authorization when creating new Process Groups within NiFi.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 2, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC Exploit Published for Linux Kernel Privilege Escalation Flaw<a href="https://securityonline.info/linux-kernel-vulnerability-cve-2023-4147-poc-exploit-published-for-privilege-escalation-flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability affects Linux Kernel versions v5.9-rc1 to v6.5-rc3. Users and administrators are strongly advised to update their systems to the latest patched versions to mitigate the risk of exploitation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 2, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Progress Issues Critical Patch for WhatsUp Gold Network Monitoring Software<a href="https://securityonline.info/cve-2024-12108-whatsup-gold-network-monitoring-software/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most severe vulnerability (CVE-2024-12108) patched has a CVSS score of 9.6 and allows attackers to gain complete control of the Progress WhatsUp Gold server via the public API.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 2, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Obfuscated NPM Package Disguised as an Ethereum Tool Deploys Quasar RAT<a href="https://thehackernews.com/2025/01/malicious-obfuscated-npm-package.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The heavily obfuscated package, named ethereumvulncontracthandler, was published to npm on December 18, 2024, by a user named "solidit-dev-416." As of writing, it continues to be available for download. It has been downloaded 66 times to date.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 2, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New NGate Trojan Drains Bank Accounts via NFC-based ATM Withdrawls<a href="https://securityonline.info/nfc-nightmare-new-ngate-trojan-drains-bank-accounts-via-atms/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NGate trojan relays data from the compromised device's NFC chip, allowing the attacker to withdraw money from the victim's accounts at ATMs without the victim’s involvement.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 2, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+66,000 DrayTek Gateways Vulnerable to Remote Command Injection, PoC Published<a href="https://securityonline.info/66000-draytek-gateways-vulnerable-to-remote-command-injection-cve-2024-12987-poc-published/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researcher Netsecfish has discovered a command injection vulnerability, tracked as CVE-2024-12987, in the web management interface of popular DrayTek gateway devices. This flaw could enable attackers to execute arbitrary commands remotely.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 2, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: PoC Exploit Code Published for Severe Oracle WebLogic Server Flaw<a href="https://securityonline.info/cve-2024-21182-poc-exploit-code-published-for-severe-weblogic-flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability resides in the Core component of Oracle’s WebLogic Server, a widely used Java EE application server. Supported versions impacted include 12.2.1.4.0 and 14.1.1.0.0.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 31, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
