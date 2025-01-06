@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+January 4, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Game Sites Lead to Information Stealers<a href="https://www.malwarebytes.com/blog/news/2025/01/can-you-try-a-game-i-made-fake-game-sites-lead-to-information-stealers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new malware campaign targets users by sending direct messages on platforms like Discord, asking if they want to beta test a new video game. These messages often appear to come from the game’s developer.
+</details>
+<div style="text-align: right" markdown="1">
+Malware Bytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 28, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

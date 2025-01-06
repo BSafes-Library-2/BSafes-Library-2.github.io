@@ -8,6 +8,90 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 4, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SysBumps Attack Breaks macOS Kernel Address Space Layout Randomization for Apple Silicon<a href="https://securityonline.info/sysbumps-breaking-kernel-address-space-layout-randomization-on-macos-for-apple-silicon/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The SysBumps attack exploits speculative execution vulnerabilities in macOS system calls. This flaw enables attackers to bypass kernel isolation and infer the validity of kernel addresses.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 4, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Patched But Still Vulnerable: Windows BitLocker Encryption Bypassed Again<a href="https://securityonline.info/patched-but-still-vulnerable-windows-bitlocker-encryption-bypassed-again/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, dubbed “bitpixie” (CVE-2023-21563), was initially addressed by Microsoft in November 2022. However, researchers warned that attackers can exploit an outdated Windows bootloader via Secure Boot to extract encryption keys.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 4, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+iTerm2 Patches Critical Security Flaw Exposing User Input and Output<a href="https://securityonline.info/iterm2-patches-critical-security-vulnerability-exposing-user-input-and-output/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical security vulnerability, tracked as CVE-2025-22275 (CVSS 9.3) has been discovered and patched in iTerm2, a popular terminal emulator for macOS. The flaw is present in versions 3.5.6 through 3.5.10, and beta versions 3.5.6 and later.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 4, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Next.js Patches Denial-of-Service Vulnerability (CVE-2024-56332) in Server Actions<a href="https://securityonline.info/next-js-patches-denial-of-service-vulnerability-cve-2024-56332-in-server-actions/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The denial of service vulnerability (CVE-2024-56332) affects Next.js deployments using Server Actions, particularly those without protection against long-running function executions.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 3, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Active Directory Flaw can Crash any Microsoft Server<a href="https://www.darkreading.com/vulnerabilities-threats/active-directory-flaw-can-crash-any-microsoft-server-connected-to-the-internet?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of two critical Active Directory Domain Controller vulnerabilities patched by Microsoft last month goes beyond the original denial-of-service (DoS) attack chain and can be used to crash multiple, unpatched Windows servers at once.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 3, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Severe Security Flaws Patched in Microsoft Dynamics 365 and Power Apps Web API<a href="https://thehackernews.com/2025/01/severe-security-flaws-patched-in.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaws, discovered by Melbourne-based cybersecurity company Stratus Security, have been addressed as of May 2024. Two of the three flaws reside in Power Platform's OData Web API Filter, while the third vulnerability is rooted in the FetchXML API.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 2, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
