@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC Exploit Released for Windows Registry Elevation of Privilege Bug<a href="https://securityonline.info/cve-2024-43452-poc-exploit-released-for-windows-elevation-of-privilege-bug/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Reported by Mateusz Jurczyk of Google Project Zero, this flaw exploits a design oversight in Windows registry hive memory management, potentially allowing attackers to gain SYSTEM-level access on vulnerable machines.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit Social Security Administration Branding to Deliver ConnectWise RAT<a href="https://securityonline.info/hackers-exploit-social-security-administration-branding-to-deliver-connectwise-rat/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Earlier iterations of this campaign relied on ConnectWise’s infrastructure for command-and-control (C2) operations, but later versions use dynamic DNS services and attacker-hosted domains.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Karmada Vulnerability Grants Attackers Control of Kubernetes Systems<a href="https://securityonline.info/cve-2024-56513-karmada-vulnerability-grants-attackers-control-of-kubernetes-systems/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability affects all versions of Karmada prior to 1.12.0. Karmada has released version 1.12.0, which includes a patch for this vulnerability. Users are strongly advised to upgrade to this version or a later version as soon as possible.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Packages on npm, PyPI, and RubyGems Weaponize OAST Techniques for Data Exfiltration and Recon<a href="https://socket.dev/blog/weaponizing-oast-how-malicious-packages-exploit-npm-pypi-and-rubygems?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over the last year, researchers at Socket observed and identified malicious packages leveraging Out-of-Band Application Security Testing (OAST) services such as oastify[.]com and oast[.]fun to exfiltrate sensitive data to attacker-controlled servers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoCD Patches Critical Vulnerability Allowing User Privilege Escalation<a href="https://securityonline.info/gocd-patches-critical-vulnerability-allowing-user-privilege-escalation/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users are strongly urged to update to GoCD version 24.5.0, which includes the necessary patch to remediate this vulnerability. For those unable to upgrade, the GoCD project suggests blocking access to vulnerable paths and reducing the user base.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ASUS Routers at Risk Due to Two Command Injection Flaws<a href="https://securityonline.info/cve-2024-12912-cve-2024-13062-asus-routers-at-risk/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“Injection and execution vulnerabilities in certain ASUS router firmware series that allow authenticated attackers to trigger command execution have been identified in ASUS router AiCloud,” ASUS stated in their advisory.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NonEuclid RAT Combines Advanced Stealth, Anti-Detection, and Ransomware Capabilities<a href="https://www.cyfirma.com/research/noneuclid-rat/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Developed in C# for the .NET Framework 4.8, NonEuclid is built to evade detection and offers a suite of advanced capabilities, including ransomware encryption, privilege escalation, and anti-detection mechanisms.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaw in UpdraftPlus Plugin Exposes Millions of WordPress Sites to Unauthenticated PHP Object Injection Exploits<a href="https://securityonline.info/cve-2024-10957-exposes-over-3-million-wordpress-sites-to-unauthenticated-php-object-injection-exploits/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Identified as CVE-2024-10957 and assigned a CVSS score of 8.8, the UpdraftPlus Backup & Migration Plugin flaw could allow unauthenticated attackers to exploit PHP Object Injection vulnerabilities under certain conditions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CryptBot Spread via Websites Promising Cracked Software<a href="https://www.intrinsec.com/cryptbot-hunting-for-initial-access-vector/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CryptBot exploits search engine optimization (SEO) and partnerships with other malware operators to propagate its reach. CryptBot primarily spreads through websites offering fake cracked software.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Moxa Issues Critical Patches for its Cellular Routers and Network Security Appliances<a href="https://securityonline.info/cve-2024-9138-and-cve-2024-9140-cvss-9-8-moxa-calls-for-immediate-security-action/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These vulnerabilities, identified as CVE-2024-9138 and CVE-2024-9140, could allow attackers to gain unauthorized access to systems and execute commands, potentially compromising sensitive data and disrupting critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 4, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
