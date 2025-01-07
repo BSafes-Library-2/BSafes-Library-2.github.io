@@ -8,6 +8,90 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC Exploit Released for Windows Registry Elevation of Privilege Bug<a href="https://securityonline.info/cve-2024-43452-poc-exploit-released-for-windows-elevation-of-privilege-bug/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Reported by Mateusz Jurczyk of Google Project Zero, this flaw exploits a design oversight in Windows registry hive memory management, potentially allowing attackers to gain SYSTEM-level access on vulnerable machines.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Karmada Vulnerability Grants Attackers Control of Kubernetes Systems<a href="https://securityonline.info/cve-2024-56513-karmada-vulnerability-grants-attackers-control-of-kubernetes-systems/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability affects all versions of Karmada prior to 1.12.0. Karmada has released version 1.12.0, which includes a patch for this vulnerability. Users are strongly advised to upgrade to this version or a later version as soon as possible.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoCD Patches Critical Vulnerability Allowing User Privilege Escalation<a href="https://securityonline.info/gocd-patches-critical-vulnerability-allowing-user-privilege-escalation/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users are strongly urged to update to GoCD version 24.5.0, which includes the necessary patch to remediate this vulnerability. For those unable to upgrade, the GoCD project suggests blocking access to vulnerable paths and reducing the user base.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ASUS Routers at Risk Due to Two Command Injection Flaws<a href="https://securityonline.info/cve-2024-12912-cve-2024-13062-asus-routers-at-risk/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“Injection and execution vulnerabilities in certain ASUS router firmware series that allow authenticated attackers to trigger command execution have been identified in ASUS router AiCloud,” ASUS stated in their advisory.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaw in UpdraftPlus Plugin Exposes Millions of WordPress Sites to Unauthenticated PHP Object Injection Exploits<a href="https://securityonline.info/cve-2024-10957-exposes-over-3-million-wordpress-sites-to-unauthenticated-php-object-injection-exploits/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Identified as CVE-2024-10957 and assigned a CVSS score of 8.8, the UpdraftPlus Backup &amp; Migration Plugin flaw could allow unauthenticated attackers to exploit PHP Object Injection vulnerabilities under certain conditions.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Moxa Issues Critical Patches for its Cellular Routers and Network Security Appliances<a href="https://securityonline.info/cve-2024-9138-and-cve-2024-9140-cvss-9-8-moxa-calls-for-immediate-security-action/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These vulnerabilities, identified as CVE-2024-9138 and CVE-2024-9140, could allow attackers to gain unauthorized access to systems and execute commands, potentially compromising sensitive data and disrupting critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 4, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

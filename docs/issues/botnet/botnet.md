@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+January 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CryptBot Spread via Websites Promising Cracked Software<a href="https://www.intrinsec.com/cryptbot-hunting-for-initial-access-vector/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CryptBot exploits search engine optimization (SEO) and partnerships with other malware operators to propagate its reach. CryptBot primarily spreads through websites offering fake cracked software.
+</details>
+<div style="text-align: right" markdown="1">
+Intrinsec
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 28, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
