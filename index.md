@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 7, 2025
+January 7, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Novel Stealthy Steganography Backdoor Attack Targets Android Apps<a href="https://gbhackers.com/android-steganography-attacks/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Novel Stealthy Steganography Backdoor Attack Targets Android Apps<a href="https:
 BARWM is a novel attack technique that utilizes DNN-based steganography to generate sample-specific backdoor triggers that are imperceptible. It is able to circumvent the limitations of real-world deep learning (DL) models deployed on mobile devices.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 7, 2025
+January 7, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Double Cyber-Attacks on Taiwan<a href="https://www.infosecurity-magazine.com/news/chinese-hackers-attacks-taiwan/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Chinese Hackers Double Cyber-Attacks on Taiwan<a href="https://www.infosecurity-
 According to a new report from Taiwan's National Security Bureau, Taiwanese government networks experienced an average daily of 2.4 million cyber-attacks in 2024, most of which were attributed to Chinese state-backed hackers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 7, 2025
+January 7, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exploiting Misconfigurations in Argo Workflows for Kubernetes Cluster Takeover<a href="https://securityonline.info/exploiting-misconfigurations-in-argo-workflows-for-kubernetes-cluster-takeover/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Exploiting Misconfigurations in Argo Workflows for Kubernetes Cluster Takeover<a
 A researcher at E.V.A Information Security revealed alarming vulnerabilities stemming from misconfigurations in Argo Workflows instances. These flaws could allow attackers to compromise entire Kubernetes clusters.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 7, 2025
+January 7, 2025 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Sanctions Prominent Chinese Cyber Company for Role in Flax Typhoon Attacks<a href="https://therecord.media/us-sanctions-chinas-integrity-cyber-company-flax-typhoon?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ US Sanctions Prominent Chinese Cyber Company for Role in Flax Typhoon Attacks<a 
 The Treasury Department said Integrity Technology provided Flax Typhoon actors with infrastructure between the summer of 2022 and fall of 2023 — with the state-backed groups sharing and receiving information from the company.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 7, 2025
+January 7, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Supply Chain Attack Targets Key Ethereum Development Tools<a href="https://www.infosecurity-magazine.com/news/supply-chain-attack-targets/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Supply Chain Attack Targets Key Ethereum Development Tools<a href="https://www.i
 This attack, discovered by Socket, involves the distribution of 20 malicious npm packages created by three primary authors. One package, @nomicsfoundation/sdk-test, was downloaded 1092 times.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 7, 2025
+January 7, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nuclei Flaw Lets Malicious Templates Bypass Signature Verification<a href="https://www.bleepingcomputer.com/news/security/nuclei-flaw-lets-malicious-templates-bypass-signature-verification/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Nuclei Flaw Lets Malicious Templates Bypass Signature Verification<a href="https
 A now-fixed vulnerability in the open-source vulnerability scanner Nuclei could potentially allow attackers to bypass signature verification while sneaking malicious code into templates that execute on local systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 7, 2025
+January 7, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: Scammers Drain $500M From Crypto Wallets in a Year<a href="https://www.infosecurity-magazine.com/news/scammers-drain-500m-crypto-wallets/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Report: Scammers Drain $500M From Crypto Wallets in a Year<a href="https://www.i
 Victims lost close to $500 million from wallet drainer attacks in 2024, a 67% annual increase, according to new data from Scam Sniffers. The firm's Crypto Phishing Report 2024 is based on analysis of Ethereum Virtual Machine (EVM)-compatible chains.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 7, 2025
+January 7, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical OpenVPN Connect Vulnerability Leaks Private Keys<a href="https://securityonline.info/cve-2024-8474-openvpn-connect-vulnerability-leaks-private-keys/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Critical OpenVPN Connect Vulnerability Leaks Private Keys<a href="https://securi
 A recent vulnerability (CVE-2024-8474) in OpenVPN Connect leaves millions of users exposed. The flaw, present in versions before 3.5.0, allowed the app to log the configuration profile’s private key in clear text within the application log.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 7, 2025
+January 7, 2025 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 India Proposes Digital Data Rules with Tough Penalties and Cybersecurity Requirements<a href="https://thehackernews.com/2025/01/india-proposes-digital-data-rules-with.html?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ India Proposes Digital Data Rules with Tough Penalties and Cybersecurity Require
 "Data fiduciaries must provide clear and accessible information about how personal data is processed, enabling informed consent," India's Press Information Bureau (PIB) said in a statement released Sunday.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 7, 2025
+January 7, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical RCE Flaw in MediaTek Chipsets Impacts Millions<a href="https://securityonline.info/cve-2024-20154-critical-rce-flaw-in-mediatek-chipsets-impacts-millions/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Critical RCE Flaw in MediaTek Chipsets Impacts Millions<a href="https://security
 MediaTek released its January 2025 Product Security Bulletin, addressing a range of security flaws affecting its various chipsets. The bulletin details flaws found in products ranging from smartphones and tablets to IoT devices and smart TVs.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -348,7 +348,7 @@ Moxa Issues Critical Patches for its Cellular Routers and Network Security Appli
 These vulnerabilities, identified as CVE-2024-9138 and CVE-2024-9140, could allow attackers to gain unauthorized access to systems and execute commands, potentially compromising sensitive data and disrupting critical infrastructure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

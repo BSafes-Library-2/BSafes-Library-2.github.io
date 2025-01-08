@@ -8,6 +8,76 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Novel Stealthy Steganography Backdoor Attack Targets Android Apps<a href="https://gbhackers.com/android-steganography-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BARWM is a novel attack technique that utilizes DNN-based steganography to generate sample-specific backdoor triggers that are imperceptible. It is able to circumvent the limitations of real-world deep learning (DL) models deployed on mobile devices.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploiting Misconfigurations in Argo Workflows for Kubernetes Cluster Takeover<a href="https://securityonline.info/exploiting-misconfigurations-in-argo-workflows-for-kubernetes-cluster-takeover/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher at E.V.A Information Security revealed alarming vulnerabilities stemming from misconfigurations in Argo Workflows instances. These flaws could allow attackers to compromise entire Kubernetes clusters.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nuclei Flaw Lets Malicious Templates Bypass Signature Verification<a href="https://www.bleepingcomputer.com/news/security/nuclei-flaw-lets-malicious-templates-bypass-signature-verification/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A now-fixed vulnerability in the open-source vulnerability scanner Nuclei could potentially allow attackers to bypass signature verification while sneaking malicious code into templates that execute on local systems.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical OpenVPN Connect Vulnerability Leaks Private Keys<a href="https://securityonline.info/cve-2024-8474-openvpn-connect-vulnerability-leaks-private-keys/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent vulnerability (CVE-2024-8474) in OpenVPN Connect leaves millions of users exposed. The flaw, present in versions before 3.5.0, allowed the app to log the configuration profile’s private key in clear text within the application log.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Flaw in MediaTek Chipsets Impacts Millions<a href="https://securityonline.info/cve-2024-20154-critical-rce-flaw-in-mediatek-chipsets-impacts-millions/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MediaTek released its January 2025 Product Security Bulletin, addressing a range of security flaws affecting its various chipsets. The bulletin details flaws found in products ranging from smartphones and tablets to IoT devices and smart TVs.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 6, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

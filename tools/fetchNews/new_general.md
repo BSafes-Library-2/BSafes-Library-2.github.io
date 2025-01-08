@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+January 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Double Cyber-Attacks on Taiwan<a href="https://www.infosecurity-magazine.com/news/chinese-hackers-attacks-taiwan/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a new report from Taiwan's National Security Bureau, Taiwanese government networks experienced an average daily of 2.4 million cyber-attacks in 2024, most of which were attributed to Chinese state-backed hackers.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Scammers Drain $500M From Crypto Wallets in a Year<a href="https://www.infosecurity-magazine.com/news/scammers-drain-500m-crypto-wallets/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Victims lost close to $500 million from wallet drainer attacks in 2024, a 67% annual increase, according to new data from Scam Sniffers. The firm's Crypto Phishing Report 2024 is based on analysis of Ethereum Virtual Machine (EVM)-compatible chains.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 18, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

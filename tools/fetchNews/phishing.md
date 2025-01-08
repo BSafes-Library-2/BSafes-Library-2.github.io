@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+January 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit Social Security Administration Branding to Deliver ConnectWise RAT<a href="https://securityonline.info/hackers-exploit-social-security-administration-branding-to-deliver-connectwise-rat/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Earlier iterations of this campaign relied on ConnectWise’s infrastructure for command-and-control (C2) operations, but later versions use dynamic DNS services and attacker-hosted domains.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 4, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

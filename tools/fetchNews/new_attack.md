@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+January 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Supply Chain Attack Targets Key Ethereum Development Tools<a href="https://www.infosecurity-magazine.com/news/supply-chain-attack-targets/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This attack, discovered by Socket, involves the distribution of 20 malicious npm packages created by three primary authors. One package, @nomicsfoundation/sdk-test, was downloaded 1092 times.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 30, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
