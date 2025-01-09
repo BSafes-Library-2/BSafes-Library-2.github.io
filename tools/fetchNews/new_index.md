@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 7, 2025
+January 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crims Backdoored Their Backdoors. Then the Domains Lapsed<a href="https://www.theregister.com/2025/01/08/backdoored_backdoors/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thousands of vulnerable backdoors exist on expired domains and abandoned infrastructure, exposing government and academic hosts to potential hijacking by malicious actors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Research Highlights Vulnerabilities in MLOps Platforms Like Azure ML, BigML, and Google Cloud Vertex AI<a href="https://www.infosecurity-magazine.com/news/vulnerabilities-mlops-platforms/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have identified multiple attack scenarios targeting MLOps platforms like Azure Machine Learning (Azure ML), BigML and Google Cloud Vertex AI, among others.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Command Injection Vulnerability in Aviatrix Network Controller Patched<a href="https://securityonline.info/cve-2024-50603-cvss-10-critical-command-injection-vulnerability-in-aviatrix-controller/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability exists in Aviatrix Controller versions 7.x through 7.2.4820, where improper neutralization of special elements in system commands enables unauthenticated attackers to execute arbitrary code remotely.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pig Butchering Victim Sues Banks for Allowing Scammers To Open Accounts<a href="https://therecord.media/pig-butchering-sues-banks-know-your-customer-rules?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A California man has sued three banks for alleged “willful blindness” in allowing criminals to open accounts used to steal nearly $1 million from him in a cryptocurrency investment scam.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Mirai Botnet Targets Industrial Routers with Zero-Day Exploits<a href="https://www.bleepingcomputer.com/news/security/new-mirai-botnet-targets-industrial-routers-with-zero-day-exploits/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A relatively new Mirai-based botnet has been growing in sophistication and is now leveraging zero-day exploits for security flaws in industrial routers and smart home devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BIOS Flaws Expose Illumina iSeq 100 DNA Sequencers to Bootkit Attacks<a href="https://www.bleepingcomputer.com/news/security/bios-flaws-expose-iseq-dna-sequencers-to-bootkit-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found that the vulnerable BIOS (B480AM12 - 04/12/2018) on iSeq 100 did not have firmware protections enabled, which allowed modifying the code for booting the device.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Only 26% of Europe’s Top Companies Earn a High Rating for Cybersecurity<a href="https://www.helpnetsecurity.com/2025/01/06/european-companies-cybersecurity-rating/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the EU’s Digital Operational Resilience Act (DORA) deadline approaching on 17th January, 2025, Europe’s top 100 companies face an urgent cybersecurity challenge, according to SecurityScorecard.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trio of Critical Vulnerabilities in Netis Routers Enables Unauthenticated RCE<a href="https://securityonline.info/trio-of-critical-vulnerabilities-in-netis-routers-enables-unauthenticated-rce/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These vulnerabilities, tracked as CVE-2024-48455, CVE-2024-48456, and CVE-2024-48457, could be chained together to allow unauthenticated remote code execution (RCE), exposing thousands of devices to exploitation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Washington sues T-Mobile over 2021 data breach that spilled 79 million customer records<a href="https://techcrunch.com/2025/01/06/washington-sues-t-mobile-over-2021-data-breach-that-spilled-79-million-customer-records/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The state of Washington has sued T-Mobile over allegations that the phone giant failed to secure the personal data of millions of state residents prior to an August 2021 data breach that affected over 79 million customers across the U.S.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability Overload: 40,000+ CVEs in 2024<a href="https://securityonline.info/vulnerability-overload-40000-cves-in-2024/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researcher Jerry Gamblin has released his annual CVE data review. 2024 saw an unprecedented surge in published Common Vulnerabilities and Exposures (CVEs), reaching a record high of 40,009.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 7, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Novel Stealthy Steganography Backdoor Attack Targets Android Apps<a href="https://gbhackers.com/android-steganography-attacks/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Novel Stealthy Steganography Backdoor Attack Targets Android Apps<a href="https:
 BARWM is a novel attack technique that utilizes DNN-based steganography to generate sample-specific backdoor triggers that are imperceptible. It is able to circumvent the limitations of real-world deep learning (DL) models deployed on mobile devices.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 7, 2025
+January 7, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Double Cyber-Attacks on Taiwan<a href="https://www.infosecurity-magazine.com/news/chinese-hackers-attacks-taiwan/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Chinese Hackers Double Cyber-Attacks on Taiwan<a href="https://www.infosecurity-
 According to a new report from Taiwan's National Security Bureau, Taiwanese government networks experienced an average daily of 2.4 million cyber-attacks in 2024, most of which were attributed to Chinese state-backed hackers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 7, 2025
+January 7, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exploiting Misconfigurations in Argo Workflows for Kubernetes Cluster Takeover<a href="https://securityonline.info/exploiting-misconfigurations-in-argo-workflows-for-kubernetes-cluster-takeover/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Exploiting Misconfigurations in Argo Workflows for Kubernetes Cluster Takeover<a
 A researcher at E.V.A Information Security revealed alarming vulnerabilities stemming from misconfigurations in Argo Workflows instances. These flaws could allow attackers to compromise entire Kubernetes clusters.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 7, 2025
+January 7, 2025 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Sanctions Prominent Chinese Cyber Company for Role in Flax Typhoon Attacks<a href="https://therecord.media/us-sanctions-chinas-integrity-cyber-company-flax-typhoon?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ US Sanctions Prominent Chinese Cyber Company for Role in Flax Typhoon Attacks<a 
 The Treasury Department said Integrity Technology provided Flax Typhoon actors with infrastructure between the summer of 2022 and fall of 2023 — with the state-backed groups sharing and receiving information from the company.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 7, 2025
+January 7, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Supply Chain Attack Targets Key Ethereum Development Tools<a href="https://www.infosecurity-magazine.com/news/supply-chain-attack-targets/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Supply Chain Attack Targets Key Ethereum Development Tools<a href="https://www.i
 This attack, discovered by Socket, involves the distribution of 20 malicious npm packages created by three primary authors. One package, @nomicsfoundation/sdk-test, was downloaded 1092 times.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 7, 2025
+January 7, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nuclei Flaw Lets Malicious Templates Bypass Signature Verification<a href="https://www.bleepingcomputer.com/news/security/nuclei-flaw-lets-malicious-templates-bypass-signature-verification/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Nuclei Flaw Lets Malicious Templates Bypass Signature Verification<a href="https
 A now-fixed vulnerability in the open-source vulnerability scanner Nuclei could potentially allow attackers to bypass signature verification while sneaking malicious code into templates that execute on local systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 7, 2025
+January 7, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: Scammers Drain $500M From Crypto Wallets in a Year<a href="https://www.infosecurity-magazine.com/news/scammers-drain-500m-crypto-wallets/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Report: Scammers Drain $500M From Crypto Wallets in a Year<a href="https://www.i
 Victims lost close to $500 million from wallet drainer attacks in 2024, a 67% annual increase, according to new data from Scam Sniffers. The firm's Crypto Phishing Report 2024 is based on analysis of Ethereum Virtual Machine (EVM)-compatible chains.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 7, 2025
+January 7, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical OpenVPN Connect Vulnerability Leaks Private Keys<a href="https://securityonline.info/cve-2024-8474-openvpn-connect-vulnerability-leaks-private-keys/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Critical OpenVPN Connect Vulnerability Leaks Private Keys<a href="https://securi
 A recent vulnerability (CVE-2024-8474) in OpenVPN Connect leaves millions of users exposed. The flaw, present in versions before 3.5.0, allowed the app to log the configuration profile’s private key in clear text within the application log.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 7, 2025
+January 7, 2025 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 India Proposes Digital Data Rules with Tough Penalties and Cybersecurity Requirements<a href="https://thehackernews.com/2025/01/india-proposes-digital-data-rules-with.html?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ India Proposes Digital Data Rules with Tough Penalties and Cybersecurity Require
 "Data fiduciaries must provide clear and accessible information about how personal data is processed, enabling informed consent," India's Press Information Bureau (PIB) said in a statement released Sunday.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 7, 2025
+January 7, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical RCE Flaw in MediaTek Chipsets Impacts Millions<a href="https://securityonline.info/cve-2024-20154-critical-rce-flaw-in-mediatek-chipsets-impacts-millions/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Critical RCE Flaw in MediaTek Chipsets Impacts Millions<a href="https://security
 MediaTek released its January 2025 Product Security Bulletin, addressing a range of security flaws affecting its various chipsets. The bulletin details flaws found in products ranging from smartphones and tablets to IoT devices and smart TVs.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -348,7 +508,7 @@ Moxa Issues Critical Patches for its Cellular Routers and Network Security Appli
 These vulnerabilities, identified as CVE-2024-9138 and CVE-2024-9140, could allow attackers to gain unauthorized access to systems and execute commands, potentially compromising sensitive data and disrupting critical infrastructure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
