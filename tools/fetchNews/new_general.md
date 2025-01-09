@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+January 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Only 26% of Europe’s Top Companies Earn a High Rating for Cybersecurity<a href="https://www.helpnetsecurity.com/2025/01/06/european-companies-cybersecurity-rating/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the EU’s Digital Operational Resilience Act (DORA) deadline approaching on 17th January, 2025, Europe’s top 100 companies face an urgent cybersecurity challenge, according to SecurityScorecard.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability Overload: 40,000+ CVEs in 2024<a href="https://securityonline.info/vulnerability-overload-40000-cves-in-2024/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researcher Jerry Gamblin has released his annual CVE data review. 2024 saw an unprecedented surge in published Common Vulnerabilities and Exposures (CVEs), reaching a record high of 40,009.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 7, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

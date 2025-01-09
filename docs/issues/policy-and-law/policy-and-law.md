@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+January 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pig Butchering Victim Sues Banks for Allowing Scammers To Open Accounts<a href="https://therecord.media/pig-butchering-sues-banks-know-your-customer-rules?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A California man has sued three banks for alleged “willful blindness” in allowing criminals to open accounts used to steal nearly $1 million from him in a cryptocurrency investment scam.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 7, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

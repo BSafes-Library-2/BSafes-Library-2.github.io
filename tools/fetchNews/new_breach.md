@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+January 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Washington sues T-Mobile over 2021 data breach that spilled 79 million customer records<a href="https://techcrunch.com/2025/01/06/washington-sues-t-mobile-over-2021-data-breach-that-spilled-79-million-customer-records/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The state of Washington has sued T-Mobile over allegations that the phone giant failed to secure the personal data of millions of state residents prior to an August 2021 data breach that affected over 79 million customers across the U.S.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 30, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

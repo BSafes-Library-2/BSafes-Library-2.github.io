@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 8, 2025
+January 8, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crims Backdoored Their Backdoors. Then the Domains Lapsed<a href="https://www.theregister.com/2025/01/08/backdoored_backdoors/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Crims Backdoored Their Backdoors. Then the Domains Lapsed<a href="https://www.th
 Thousands of vulnerable backdoors exist on expired domains and abandoned infrastructure, exposing government and academic hosts to potential hijacking by malicious actors.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 8, 2025
+January 8, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Research Highlights Vulnerabilities in MLOps Platforms Like Azure ML, BigML, and Google Cloud Vertex AI<a href="https://www.infosecurity-magazine.com/news/vulnerabilities-mlops-platforms/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ New Research Highlights Vulnerabilities in MLOps Platforms Like Azure ML, BigML,
 Security researchers have identified multiple attack scenarios targeting MLOps platforms like Azure Machine Learning (Azure ML), BigML and Google Cloud Vertex AI, among others.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 8, 2025
+January 8, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Command Injection Vulnerability in Aviatrix Network Controller Patched<a href="https://securityonline.info/cve-2024-50603-cvss-10-critical-command-injection-vulnerability-in-aviatrix-controller/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Critical Command Injection Vulnerability in Aviatrix Network Controller Patched<
 The vulnerability exists in Aviatrix Controller versions 7.x through 7.2.4820, where improper neutralization of special elements in system commands enables unauthenticated attackers to execute arbitrary code remotely.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 8, 2025
+January 8, 2025 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pig Butchering Victim Sues Banks for Allowing Scammers To Open Accounts<a href="https://therecord.media/pig-butchering-sues-banks-know-your-customer-rules?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Pig Butchering Victim Sues Banks for Allowing Scammers To Open Accounts<a href="
 A California man has sued three banks for alleged “willful blindness” in allowing criminals to open accounts used to steal nearly $1 million from him in a cryptocurrency investment scam.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 8, 2025
+January 8, 2025 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Mirai Botnet Targets Industrial Routers with Zero-Day Exploits<a href="https://www.bleepingcomputer.com/news/security/new-mirai-botnet-targets-industrial-routers-with-zero-day-exploits/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ New Mirai Botnet Targets Industrial Routers with Zero-Day Exploits<a href="https
 A relatively new Mirai-based botnet has been growing in sophistication and is now leveraging zero-day exploits for security flaws in industrial routers and smart home devices.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 8, 2025
+January 8, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BIOS Flaws Expose Illumina iSeq 100 DNA Sequencers to Bootkit Attacks<a href="https://www.bleepingcomputer.com/news/security/bios-flaws-expose-iseq-dna-sequencers-to-bootkit-attacks/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ BIOS Flaws Expose Illumina iSeq 100 DNA Sequencers to Bootkit Attacks<a href="ht
 Researchers found that the vulnerable BIOS (B480AM12 - 04/12/2018) on iSeq 100 did not have firmware protections enabled, which allowed modifying the code for booting the device.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 8, 2025
+January 8, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: Only 26% of Europe’s Top Companies Earn a High Rating for Cybersecurity<a href="https://www.helpnetsecurity.com/2025/01/06/european-companies-cybersecurity-rating/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Report: Only 26% of Europe’s Top Companies Earn a High Rating for Cybersecurit
 With the EU’s Digital Operational Resilience Act (DORA) deadline approaching on 17th January, 2025, Europe’s top 100 companies face an urgent cybersecurity challenge, according to SecurityScorecard.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 8, 2025
+January 8, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trio of Critical Vulnerabilities in Netis Routers Enables Unauthenticated RCE<a href="https://securityonline.info/trio-of-critical-vulnerabilities-in-netis-routers-enables-unauthenticated-rce/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Trio of Critical Vulnerabilities in Netis Routers Enables Unauthenticated RCE<a 
 These vulnerabilities, tracked as CVE-2024-48455, CVE-2024-48456, and CVE-2024-48457, could be chained together to allow unauthenticated remote code execution (RCE), exposing thousands of devices to exploitation.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 8, 2025
+January 8, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Washington sues T-Mobile over 2021 data breach that spilled 79 million customer records<a href="https://techcrunch.com/2025/01/06/washington-sues-t-mobile-over-2021-data-breach-that-spilled-79-million-customer-records/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Washington sues T-Mobile over 2021 data breach that spilled 79 million customer 
 The state of Washington has sued T-Mobile over allegations that the phone giant failed to secure the personal data of millions of state residents prior to an August 2021 data breach that affected over 79 million customers across the U.S.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Tech Crunch
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 8, 2025
+January 8, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerability Overload: 40,000+ CVEs in 2024<a href="https://securityonline.info/vulnerability-overload-40000-cves-in-2024/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Vulnerability Overload: 40,000+ CVEs in 2024<a href="https://securityonline.info
 Security researcher Jerry Gamblin has released his annual CVE data review. 2024 saw an unprecedented surge in published Common Vulnerabilities and Exposures (CVEs), reaching a record high of 40,009.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

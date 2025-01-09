@@ -8,6 +8,76 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crims Backdoored Their Backdoors. Then the Domains Lapsed<a href="https://www.theregister.com/2025/01/08/backdoored_backdoors/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thousands of vulnerable backdoors exist on expired domains and abandoned infrastructure, exposing government and academic hosts to potential hijacking by malicious actors.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Research Highlights Vulnerabilities in MLOps Platforms Like Azure ML, BigML, and Google Cloud Vertex AI<a href="https://www.infosecurity-magazine.com/news/vulnerabilities-mlops-platforms/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have identified multiple attack scenarios targeting MLOps platforms like Azure Machine Learning (Azure ML), BigML and Google Cloud Vertex AI, among others.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Command Injection Vulnerability in Aviatrix Network Controller Patched<a href="https://securityonline.info/cve-2024-50603-cvss-10-critical-command-injection-vulnerability-in-aviatrix-controller/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability exists in Aviatrix Controller versions 7.x through 7.2.4820, where improper neutralization of special elements in system commands enables unauthenticated attackers to execute arbitrary code remotely.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BIOS Flaws Expose Illumina iSeq 100 DNA Sequencers to Bootkit Attacks<a href="https://www.bleepingcomputer.com/news/security/bios-flaws-expose-iseq-dna-sequencers-to-bootkit-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found that the vulnerable BIOS (B480AM12 - 04/12/2018) on iSeq 100 did not have firmware protections enabled, which allowed modifying the code for booting the device.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trio of Critical Vulnerabilities in Netis Routers Enables Unauthenticated RCE<a href="https://securityonline.info/trio-of-critical-vulnerabilities-in-netis-routers-enables-unauthenticated-rce/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These vulnerabilities, tracked as CVE-2024-48455, CVE-2024-48456, and CVE-2024-48457, could be chained together to allow unauthenticated remote code execution (RCE), exposing thousands of devices to exploitation.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 7, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

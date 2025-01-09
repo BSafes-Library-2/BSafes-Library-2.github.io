@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+January 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Sanctions Prominent Chinese Cyber Company for Role in Flax Typhoon Attacks<a href="https://therecord.media/us-sanctions-chinas-integrity-cyber-company-flax-typhoon?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Treasury Department said Integrity Technology provided Flax Typhoon actors with infrastructure between the summer of 2022 and fall of 2023 — with the state-backed groups sharing and receiving information from the company.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India Proposes Digital Data Rules with Tough Penalties and Cybersecurity Requirements<a href="https://thehackernews.com/2025/01/india-proposes-digital-data-rules-with.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"Data fiduciaries must provide clear and accessible information about how personal data is processed, enabling informed consent," India's Press Information Bureau (PIB) said in a statement released Sunday.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 12, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
