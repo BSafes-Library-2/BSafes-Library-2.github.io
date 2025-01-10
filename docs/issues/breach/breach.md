@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+January 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian ISP Confirms Ukrainian Hackers "Destroyed" its Network<a href="https://www.bleepingcomputer.com/news/security/russian-isp-confirms-ukrainian-hackers-destroyed-its-network/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+?Ukrainian hacktivists, part of the Ukrainian Cyber Alliance group, announced on Tuesday they had breached Russian internet service provider Nodex's network and wiped hacked systems after stealing sensitive documents.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 8, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

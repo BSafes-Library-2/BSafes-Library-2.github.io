@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+January 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1Password Acquires SaaS Access Management Provider Trelica<a href="https://www.darkreading.com/identity-access-management-security/1password-acqiures-saas-access-management-trelica?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+1Password on Monday announced that it has acquired software-as-a-service (SaaS) access management provider Trelica. Although terms of the transaction were not disclosed, 1Password said it is the largest acquisition by company revenue in its history.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 21, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

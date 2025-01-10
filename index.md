@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2025
+January 9, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CVE-2024-5594 (CVSS 9.1): Critical Vulnerability in OpenVPN Enables Code Execution<a href="https://securityonline.info/cve-2024-5594-cvss-9-1-critical-vulnerability-in-openvpn-enables-code-execution/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ CVE-2024-5594 (CVSS 9.1): Critical Vulnerability in OpenVPN Enables Code Executi
 The most critical flaw (CVE-2024-5594) allows attackers to inject arbitrary data into third-party executables or plugins. The flaw, with a CVSS score of 9.1, could be exploited by a malicious OpenVPN peer to execute code or cause DoS conditions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2025
+January 9, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Command Injection Flaws in HPE Aruba Devices, PoC Publicly Available<a href="https://securityonline.info/cve-2024-54006-cve-2024-54007-command-injection-flaws-in-hpe-aruba-devices-poc-publicly-available/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Command Injection Flaws in HPE Aruba Devices, PoC Publicly Available<a href="htt
 To address these vulnerabilities, HPE Aruba Networking has released software version V2.1.2.0-B0033 for the 501 Wireless Client Bridge. Users are strongly advised to upgrade to this version as soon as possible.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2025
+January 9, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploit KerioControl Firewall Flaw to Steal Admin CSRF Tokens<a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-keriocontrol-firewall-flaw-to-steal-admin-csrf-tokens/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Hackers Exploit KerioControl Firewall Flaw to Steal Admin CSRF Tokens<a href="ht
 Hackers are trying to exploit CVE-2024-52875, a critical CRLF injection vulnerability that leads to 1-click remote code execution (RCE) attacks in the GFI KerioControl firewall product.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2025
+January 9, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apache OpenMeetings Users Urged to Patch Critical Flaw<a href="https://securityonline.info/apache-openmeetings-users-urged-to-patch-critical-flaw-cve-2024-54676-cvss-9-8/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Apache OpenMeetings Users Urged to Patch Critical Flaw<a href="https://securityo
 The vulnerability stems from insecure deserialization of untrusted data in OpenMeetings’ cluster mode. This issue arises due to a lack of proper whitelisting and blacklisting configurations for OpenJPA, a Java persistence framework used in it.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2025
+January 9, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitLab Tackles Critical Security Flaws in Latest Patch Release<a href="https://securityonline.info/gitlab-tackles-critical-security-flaws-in-latest-patch-release/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ GitLab Tackles Critical Security Flaws in Latest Patch Release<a href="https://s
 GitLab has released an important patch update to fix several security vulnerabilities affecting its import functionality and other core features. The new versions 17.7.1, 17.6.3, and 17.5.5 are available for download.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2025
+January 9, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian ISP Confirms Ukrainian Hackers "Destroyed" its Network<a href="https://www.bleepingcomputer.com/news/security/russian-isp-confirms-ukrainian-hackers-destroyed-its-network/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Russian ISP Confirms Ukrainian Hackers "Destroyed" its Network<a href="https://w
 ?Ukrainian hacktivists, part of the Ukrainian Cyber Alliance group, announced on Tuesday they had breached Russian internet service provider Nodex's network and wiped hacked systems after stealing sensitive documents.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2025
+January 9, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unpatched Critical Flaws Impact Fancy Product Designer WordPress Plugin<a href="https://www.bleepingcomputer.com/news/security/unpatched-critical-flaws-impact-fancy-product-designer-wordpress-plugin/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Unpatched Critical Flaws Impact Fancy Product Designer WordPress Plugin<a href="
 Despite Patchstack notifying the vendor of the issues a day after discovering them, Radykal hasn't responded. Even after releasing 20 new versions, with the latest being 6.4.3, released 2 months ago, the two critical security issues remain unpatched.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2025
+January 9, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 “Butcher Shop” Phishing Campaign Targets Legal, Government and Construction Firms<a href="https://www.obsidiansecurity.com/blog/butcher-shop-phishing-campaign-targets-organizations/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ January 9, 2025
 Obsidian uncovered a new phishing campaign targeting Microsoft 365 accounts. The campaign uses a mix of email redirects and open redirect vulnerabilities, which makes it hard for traditional phishing solutions to detect and block.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Obsidian
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2025
+January 9, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mutiple Vulnerabilities Found in Palo Alto Networks Expedition Tool<a href="https://securityonline.info/mutiple-vulnerabilities-found-in-palo-alto-networks-expedition-tool/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Mutiple Vulnerabilities Found in Palo Alto Networks Expedition Tool<a href="http
 Palo Alto Networks has issued a security advisory addressing multiple vulnerabilities in its Expedition migration tool, which could expose sensitive data and allow unauthorized actions on affected systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2025
+January 9, 2025 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 1Password Acquires SaaS Access Management Provider Trelica<a href="https://www.darkreading.com/identity-access-management-security/1password-acqiures-saas-access-management-trelica?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ January 9, 2025
 1Password on Monday announced that it has acquired software-as-a-service (SaaS) access management provider Trelica. Although terms of the transaction were not disclosed, 1Password said it is the largest acquisition by company revenue in its history.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
