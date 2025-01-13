@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2025
+January 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI-Driven Ransomware FunkSec Targets 85 Victims Using Double Extortion Tactics<a href="https://thehackernews.com/2025/01/ai-driven-ransomware-funksec-targets-85.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have shed light on a nascent artificial intelligence (AI) assisted ransomware family called FunkSec that sprang forth in late 2024, and has claimed more than 85 victims to date.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Claim to Breach Russian State Agency Managing Property, Land Records<a href="https://therecord.media/hackers-claim-to-breach-russian-state-agency-land-records?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of hackers with unknown ties has claimed responsibility for breaching a Russian government agency, Rosreestr, which is responsible for managing property and land records.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Professionals Baited by Fake Windows LDAP Exploits<a href="https://www.theregister.com/2025/01/09/security_pros_baited_by_fake/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro spotted what appears to be a fork of the legitimate LDAPNightmare PoC exploit, initially published by SafeBreach Labs on January 1. But the "forked" exploit PoC actually leads to the download and execution of information-stealing malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Scam Targets Job Seekers with XMRig Cryptominer<a href="https://thehackernews.com/2025/01/crowdstrike-warns-of-phishing-scam.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CrowdStrike researchers warned of a phishing campaign that exploits its own branding to distribute a cryptocurrency miner that's disguised as an employee CRM application as part of a supposed recruitment process.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Project Zero Researcher Uncovers Zero-Click Exploit Targeting Samsung Devices<a href="https://thehackernews.com/2025/01/google-project-zero-researcher-uncovers.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers detailed a now-patched security flaw impacting Monkey's Audio decoder on Samsung smartphones that could lead to code execution. The vulnerability, tracked as CVE-2024-49415, affects Samsung devices running Android versions 12, 13, and 14.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Banshee Stealer Variant Bypasses Antivirus with Apple’s XProtect-Inspired Encryption<a href="https://thehackernews.com/2025/01/new-banshee-stealer-variant-bypasses.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Offered under a malware-as-a-service (MaaS) model to other cybercriminals for $3,000 a month, Banshee Stealer is capable of harvesting data from web browsers, cryptocurrency wallets, and files matching specific extensions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unmasking Play Ransomware: Tactics, Techniques, and Mitigation Strategies<a href="https://securityonline.info/unmasking-play-ransomware-tactics-techniques-and-mitigation-strategies/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Play ransomware, also known as Balloonfly or PlayCrypt, has emerged as a significant cyber threat since its discovery in June 2022. Responsible for over 300 global attacks, this ransomware encrypts files and appends them with the “.PLAY” extension.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious npm Packages Target Solana Private Keys and Drain Victims' Wallets<a href="https://socket.dev/blog/gmail-for-exfiltration-malicious-npm-packages-target-solana-private-keys-and-drain-victim-s?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The packages – @async-mutex/mutex, dexscreener, solana-transaction-toolkit, and solana-stable-web-huks – exploit typosquatting to deceive developers into downloading them. These packages steal sensitive data and drain victims’ wallets.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MirrorFace Leverages ANEL and NOOPDOOR in Multi-Year Cyberattacks on Japan<a href="https://thehackernews.com/2025/01/mirrorface-leverages-anel-and-noopdoor.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japanese authorities have accused a China-linked hacking group, known as MirrorFace, of carrying out a long-running cyberattack campaign against organizations and individuals in Japan since 2019.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stealthy Credit Card Skimmer Targets WordPress Checkout Pages via Database Injection<a href="https://blog.sucuri.net/2025/01/stealthy-credit-card-skimmer-targets-wordpress-checkout-pages-via-database-injection.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The credit card skimmer silently injects malicious JavaScript into database entries to steal sensitive payment details. The malware activates on checkout pages by hijacking existing payment fields or injecting a fake credit card form.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 9, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CVE-2024-5594 (CVSS 9.1): Critical Vulnerability in OpenVPN Enables Code Execution<a href="https://securityonline.info/cve-2024-5594-cvss-9-1-critical-vulnerability-in-openvpn-enables-code-execution/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ CVE-2024-5594 (CVSS 9.1): Critical Vulnerability in OpenVPN Enables Code Executi
 The most critical flaw (CVE-2024-5594) allows attackers to inject arbitrary data into third-party executables or plugins. The flaw, with a CVSS score of 9.1, could be exploited by a malicious OpenVPN peer to execute code or cause DoS conditions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2025
+January 9, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Command Injection Flaws in HPE Aruba Devices, PoC Publicly Available<a href="https://securityonline.info/cve-2024-54006-cve-2024-54007-command-injection-flaws-in-hpe-aruba-devices-poc-publicly-available/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Command Injection Flaws in HPE Aruba Devices, PoC Publicly Available<a href="htt
 To address these vulnerabilities, HPE Aruba Networking has released software version V2.1.2.0-B0033 for the 501 Wireless Client Bridge. Users are strongly advised to upgrade to this version as soon as possible.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2025
+January 9, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploit KerioControl Firewall Flaw to Steal Admin CSRF Tokens<a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-keriocontrol-firewall-flaw-to-steal-admin-csrf-tokens/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Hackers Exploit KerioControl Firewall Flaw to Steal Admin CSRF Tokens<a href="ht
 Hackers are trying to exploit CVE-2024-52875, a critical CRLF injection vulnerability that leads to 1-click remote code execution (RCE) attacks in the GFI KerioControl firewall product.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2025
+January 9, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apache OpenMeetings Users Urged to Patch Critical Flaw<a href="https://securityonline.info/apache-openmeetings-users-urged-to-patch-critical-flaw-cve-2024-54676-cvss-9-8/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Apache OpenMeetings Users Urged to Patch Critical Flaw<a href="https://securityo
 The vulnerability stems from insecure deserialization of untrusted data in OpenMeetings’ cluster mode. This issue arises due to a lack of proper whitelisting and blacklisting configurations for OpenJPA, a Java persistence framework used in it.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2025
+January 9, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitLab Tackles Critical Security Flaws in Latest Patch Release<a href="https://securityonline.info/gitlab-tackles-critical-security-flaws-in-latest-patch-release/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ GitLab Tackles Critical Security Flaws in Latest Patch Release<a href="https://s
 GitLab has released an important patch update to fix several security vulnerabilities affecting its import functionality and other core features. The new versions 17.7.1, 17.6.3, and 17.5.5 are available for download.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2025
+January 9, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian ISP Confirms Ukrainian Hackers "Destroyed" its Network<a href="https://www.bleepingcomputer.com/news/security/russian-isp-confirms-ukrainian-hackers-destroyed-its-network/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Russian ISP Confirms Ukrainian Hackers "Destroyed" its Network<a href="https://w
 ?Ukrainian hacktivists, part of the Ukrainian Cyber Alliance group, announced on Tuesday they had breached Russian internet service provider Nodex's network and wiped hacked systems after stealing sensitive documents.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2025
+January 9, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unpatched Critical Flaws Impact Fancy Product Designer WordPress Plugin<a href="https://www.bleepingcomputer.com/news/security/unpatched-critical-flaws-impact-fancy-product-designer-wordpress-plugin/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Unpatched Critical Flaws Impact Fancy Product Designer WordPress Plugin<a href="
 Despite Patchstack notifying the vendor of the issues a day after discovering them, Radykal hasn't responded. Even after releasing 20 new versions, with the latest being 6.4.3, released 2 months ago, the two critical security issues remain unpatched.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2025
+January 9, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 “Butcher Shop” Phishing Campaign Targets Legal, Government and Construction Firms<a href="https://www.obsidiansecurity.com/blog/butcher-shop-phishing-campaign-targets-organizations/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ January 9, 2025
 Obsidian uncovered a new phishing campaign targeting Microsoft 365 accounts. The campaign uses a mix of email redirects and open redirect vulnerabilities, which makes it hard for traditional phishing solutions to detect and block.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Obsidian
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2025
+January 9, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mutiple Vulnerabilities Found in Palo Alto Networks Expedition Tool<a href="https://securityonline.info/mutiple-vulnerabilities-found-in-palo-alto-networks-expedition-tool/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Mutiple Vulnerabilities Found in Palo Alto Networks Expedition Tool<a href="http
 Palo Alto Networks has issued a security advisory addressing multiple vulnerabilities in its Expedition migration tool, which could expose sensitive data and allow unauthorized actions on affected systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2025
+January 9, 2025 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 1Password Acquires SaaS Access Management Provider Trelica<a href="https://www.darkreading.com/identity-access-management-security/1password-acqiures-saas-access-management-trelica?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ January 9, 2025
 1Password on Monday announced that it has acquired software-as-a-service (SaaS) access management provider Trelica. Although terms of the transaction were not disclosed, 1Password said it is the largest acquisition by company revenue in its history.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
