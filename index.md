@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2025
+January 11, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AI-Driven Ransomware FunkSec Targets 85 Victims Using Double Extortion Tactics<a href="https://thehackernews.com/2025/01/ai-driven-ransomware-funksec-targets-85.html?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ AI-Driven Ransomware FunkSec Targets 85 Victims Using Double Extortion Tactics<a
 Cybersecurity researchers have shed light on a nascent artificial intelligence (AI) assisted ransomware family called FunkSec that sprang forth in late 2024, and has claimed more than 85 victims to date.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2025
+January 11, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Claim to Breach Russian State Agency Managing Property, Land Records<a href="https://therecord.media/hackers-claim-to-breach-russian-state-agency-land-records?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Hackers Claim to Breach Russian State Agency Managing Property, Land Records<a h
 A group of hackers with unknown ties has claimed responsibility for breaching a Russian government agency, Rosreestr, which is responsible for managing property and land records.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2025
+January 10, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Professionals Baited by Fake Windows LDAP Exploits<a href="https://www.theregister.com/2025/01/09/security_pros_baited_by_fake/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Security Professionals Baited by Fake Windows LDAP Exploits<a href="https://www.
 Trend Micro spotted what appears to be a fork of the legitimate LDAPNightmare PoC exploit, initially published by SafeBreach Labs on January 1. But the "forked" exploit PoC actually leads to the download and execution of information-stealing malware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2025
+January 10, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing Scam Targets Job Seekers with XMRig Cryptominer<a href="https://thehackernews.com/2025/01/crowdstrike-warns-of-phishing-scam.html?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Phishing Scam Targets Job Seekers with XMRig Cryptominer<a href="https://thehack
 CrowdStrike researchers warned of a phishing campaign that exploits its own branding to distribute a cryptocurrency miner that's disguised as an employee CRM application as part of a supposed recruitment process.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2025
+January 10, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Project Zero Researcher Uncovers Zero-Click Exploit Targeting Samsung Devices<a href="https://thehackernews.com/2025/01/google-project-zero-researcher-uncovers.html?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Google Project Zero Researcher Uncovers Zero-Click Exploit Targeting Samsung Dev
 Researchers detailed a now-patched security flaw impacting Monkey's Audio decoder on Samsung smartphones that could lead to code execution. The vulnerability, tracked as CVE-2024-49415, affects Samsung devices running Android versions 12, 13, and 14.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2025
+January 10, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Banshee Stealer Variant Bypasses Antivirus with Apple’s XProtect-Inspired Encryption<a href="https://thehackernews.com/2025/01/new-banshee-stealer-variant-bypasses.html?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ New Banshee Stealer Variant Bypasses Antivirus with Apple’s XProtect-Inspired 
 Offered under a malware-as-a-service (MaaS) model to other cybercriminals for $3,000 a month, Banshee Stealer is capable of harvesting data from web browsers, cryptocurrency wallets, and files matching specific extensions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2025
+January 10, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unmasking Play Ransomware: Tactics, Techniques, and Mitigation Strategies<a href="https://securityonline.info/unmasking-play-ransomware-tactics-techniques-and-mitigation-strategies/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Unmasking Play Ransomware: Tactics, Techniques, and Mitigation Strategies<a href
 Play ransomware, also known as Balloonfly or PlayCrypt, has emerged as a significant cyber threat since its discovery in June 2022. Responsible for over 300 global attacks, this ransomware encrypts files and appends them with the “.PLAY” extension.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2025
+January 10, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious npm Packages Target Solana Private Keys and Drain Victims' Wallets<a href="https://socket.dev/blog/gmail-for-exfiltration-malicious-npm-packages-target-solana-private-keys-and-drain-victim-s?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Malicious npm Packages Target Solana Private Keys and Drain Victims' Wallets<a h
 The packages – @async-mutex/mutex, dexscreener, solana-transaction-toolkit, and solana-stable-web-huks – exploit typosquatting to deceive developers into downloading them. These packages steal sensitive data and drain victims’ wallets.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Socket
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2025
+January 10, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MirrorFace Leverages ANEL and NOOPDOOR in Multi-Year Cyberattacks on Japan<a href="https://thehackernews.com/2025/01/mirrorface-leverages-anel-and-noopdoor.html?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ MirrorFace Leverages ANEL and NOOPDOOR in Multi-Year Cyberattacks on Japan<a hre
 Japanese authorities have accused a China-linked hacking group, known as MirrorFace, of carrying out a long-running cyberattack campaign against organizations and individuals in Japan since 2019.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2025
+January 10, 2025 -- [Skimming](/docs/issues/skimming/skimming/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stealthy Credit Card Skimmer Targets WordPress Checkout Pages via Database Injection<a href="https://blog.sucuri.net/2025/01/stealthy-credit-card-skimmer-targets-wordpress-checkout-pages-via-database-injection.html?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Stealthy Credit Card Skimmer Targets WordPress Checkout Pages via Database Injec
 The credit card skimmer silently injects malicious JavaScript into database entries to steal sensitive payment details. The malware activates on checkout pages by hijacking existing payment fields or injecting a fake credit card form.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sucuri
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+January 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Claim to Breach Russian State Agency Managing Property, Land Records<a href="https://therecord.media/hackers-claim-to-breach-russian-state-agency-land-records?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of hackers with unknown ties has claimed responsibility for breaching a Russian government agency, Rosreestr, which is responsible for managing property and land records.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 9, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

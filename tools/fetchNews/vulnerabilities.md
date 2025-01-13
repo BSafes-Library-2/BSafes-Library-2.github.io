@@ -8,6 +8,104 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2024-5594 (CVSS 9.1): Critical Vulnerability in OpenVPN Enables Code Execution<a href="https://securityonline.info/cve-2024-5594-cvss-9-1-critical-vulnerability-in-openvpn-enables-code-execution/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most critical flaw (CVE-2024-5594) allows attackers to inject arbitrary data into third-party executables or plugins. The flaw, with a CVSS score of 9.1, could be exploited by a malicious OpenVPN peer to execute code or cause DoS conditions.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Command Injection Flaws in HPE Aruba Devices, PoC Publicly Available<a href="https://securityonline.info/cve-2024-54006-cve-2024-54007-command-injection-flaws-in-hpe-aruba-devices-poc-publicly-available/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To address these vulnerabilities, HPE Aruba Networking has released software version V2.1.2.0-B0033 for the 501 Wireless Client Bridge. Users are strongly advised to upgrade to this version as soon as possible.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit KerioControl Firewall Flaw to Steal Admin CSRF Tokens<a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-keriocontrol-firewall-flaw-to-steal-admin-csrf-tokens/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are trying to exploit CVE-2024-52875, a critical CRLF injection vulnerability that leads to 1-click remote code execution (RCE) attacks in the GFI KerioControl firewall product.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache OpenMeetings Users Urged to Patch Critical Flaw<a href="https://securityonline.info/apache-openmeetings-users-urged-to-patch-critical-flaw-cve-2024-54676-cvss-9-8/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability stems from insecure deserialization of untrusted data in OpenMeetings’ cluster mode. This issue arises due to a lack of proper whitelisting and blacklisting configurations for OpenJPA, a Java persistence framework used in it.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitLab Tackles Critical Security Flaws in Latest Patch Release<a href="https://securityonline.info/gitlab-tackles-critical-security-flaws-in-latest-patch-release/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitLab has released an important patch update to fix several security vulnerabilities affecting its import functionality and other core features. The new versions 17.7.1, 17.6.3, and 17.5.5 are available for download.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Critical Flaws Impact Fancy Product Designer WordPress Plugin<a href="https://www.bleepingcomputer.com/news/security/unpatched-critical-flaws-impact-fancy-product-designer-wordpress-plugin/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite Patchstack notifying the vendor of the issues a day after discovering them, Radykal hasn't responded. Even after releasing 20 new versions, with the latest being 6.4.3, released 2 months ago, the two critical security issues remain unpatched.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mutiple Vulnerabilities Found in Palo Alto Networks Expedition Tool<a href="https://securityonline.info/mutiple-vulnerabilities-found-in-palo-alto-networks-expedition-tool/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Palo Alto Networks has issued a security advisory addressing multiple vulnerabilities in its Expedition migration tool, which could expose sensitive data and allow unauthorized actions on affected systems.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 8, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

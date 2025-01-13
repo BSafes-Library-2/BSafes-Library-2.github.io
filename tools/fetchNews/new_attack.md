@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+January 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MirrorFace Leverages ANEL and NOOPDOOR in Multi-Year Cyberattacks on Japan<a href="https://thehackernews.com/2025/01/mirrorface-leverages-anel-and-noopdoor.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japanese authorities have accused a China-linked hacking group, known as MirrorFace, of carrying out a long-running cyberattack campaign against organizations and individuals in Japan since 2019.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 7, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

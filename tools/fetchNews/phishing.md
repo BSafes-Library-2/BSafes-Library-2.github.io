@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+January 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+“Butcher Shop” Phishing Campaign Targets Legal, Government and Construction Firms<a href="https://www.obsidiansecurity.com/blog/butcher-shop-phishing-campaign-targets-organizations/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Obsidian uncovered a new phishing campaign targeting Microsoft 365 accounts. The campaign uses a mix of email redirects and open redirect vulnerabilities, which makes it hard for traditional phishing solutions to detect and block.
+</details>
+<div style="text-align: right" markdown="1">
+Obsidian
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 6, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

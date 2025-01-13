@@ -8,6 +8,20 @@ nav_order: 900190
 
 ## Skimming
 ---
+January 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stealthy Credit Card Skimmer Targets WordPress Checkout Pages via Database Injection<a href="https://blog.sucuri.net/2025/01/stealthy-credit-card-skimmer-targets-wordpress-checkout-pages-via-database-injection.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The credit card skimmer silently injects malicious JavaScript into database entries to steal sensitive payment details. The malware activates on checkout pages by hijacking existing payment fields or injecting a fake credit card form.
+</details>
+<div style="text-align: right" markdown="1">
+Sucuri
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 17, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

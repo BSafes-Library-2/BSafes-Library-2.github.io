@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+January 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI-Driven Ransomware FunkSec Targets 85 Victims Using Double Extortion Tactics<a href="https://thehackernews.com/2025/01/ai-driven-ransomware-funksec-targets-85.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have shed light on a nascent artificial intelligence (AI) assisted ransomware family called FunkSec that sprang forth in late 2024, and has claimed more than 85 victims to date.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unmasking Play Ransomware: Tactics, Techniques, and Mitigation Strategies<a href="https://securityonline.info/unmasking-play-ransomware-tactics-techniques-and-mitigation-strategies/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Play ransomware, also known as Balloonfly or PlayCrypt, has emerged as a significant cyber threat since its discovery in June 2022. Responsible for over 300 global attacks, this ransomware encrypts files and appends them with the “.PLAY” extension.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 26, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
