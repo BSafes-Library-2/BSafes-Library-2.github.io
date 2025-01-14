@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+January 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HexaLocker Returns in New Improved Variant Propagated via Skuld Stealer<a href="https://securityonline.info/hexalocker-v2-ransomware-reborn-with-advanced-tactics/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HexaLocker V2 exhibits a major evolution in both functionality and complexity compared to its predecessor. According to Cyble Research and Intelligence Labs, the ransomware now combines advanced encryption techniques with data theft capabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 11, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

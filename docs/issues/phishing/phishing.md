@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+January 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Trend Exploiting YouTube URLs Through Microsoft Office 365 Expiry Themes<a href="https://www.cyderes.com/blog/phishing-trend-exploiting-youtube-urls-through-o365-expiry-themes?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Cyderes warned of a recent wave of phishing campaigns leveraging cleverly disguised URLs and Microsoft 365 password expiry lures to trick users into divulging sensitive credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyderes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Texts Trick Apple iMessage Users Into Disabling Protection<a href="https://www.bleepingcomputer.com/news/security/phishing-texts-trick-apple-imessage-users-into-disabling-protection/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple iMessage automatically disables links in messages from unknown senders for protection. However, if users reply to these messages or save the sender's contact information, the links get re-enabled, which can be abused by scammers.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 10, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

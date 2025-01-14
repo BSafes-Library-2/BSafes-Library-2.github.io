@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+January 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Traffic Sites Attacked in “zqxq” Campaign Through Obfuscated Javascript Injection<a href="https://www.malwarebytes.com/blog/news/2025/01/groupgreeting-e-card-site-attacked-inzqxq-campaign?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware used in the campaign hides in legitimate files using scrambled variables and custom functions like HttpClient, rand, and token. These methods evade detection and hinder analysis by researchers.
+</details>
+<div style="text-align: right" markdown="1">
+Maleware Bytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RedDelta Deploys PlugX Malware to Target Mongolia and Taiwan in Espionage Campaigns<a href="https://thehackernews.com/2025/01/reddelta-deploys-plugx-malware-to.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mongolia, Taiwan, Myanmar, Vietnam, and Cambodia have been targeted by the China-nexus RedDelta threat actor to deliver a customized version of the PlugX backdoor between July 2023 and December 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 10, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

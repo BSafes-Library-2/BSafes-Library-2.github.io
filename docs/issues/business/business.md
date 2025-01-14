@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+January 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cado Security Poised to be Purchased by Darktrace<a href="https://www.scworld.com/brief/cado-security-poised-to-be-purchased-by-darktrace?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Darktrace plans to purchase a cloud forensics and automation startup led by the former head of PwC's incident response business to enhance the security of multi-cloud environments.
+</details>
+<div style="text-align: right" markdown="1">
+SC Media
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 9, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

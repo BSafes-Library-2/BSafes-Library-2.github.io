@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerability Patched in GiveWP Plugin<a href="https://patchstack.com/articles/critical-vulnerability-patched-in-givewp-plugin/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The GiveWP plugin (version 3.19.3 and below) suffers from an unauthenticated PHP Object Injection vulnerability. The vulnerability occurred due to the insecure storage of meta in the DB which ended up being unserialized.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NETGEAR Router Flaw Exploited in the Wild for Years, PoC Published<a href="https://securityonline.info/cve-2024-12847-cvss-9-8-netgear-router-flaw-exploited-in-the-wild-for-years-poc-published/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security vulnerability in some Netgear routers allows remote attackers to gain unauthorized access and control over the devices. The vulnerability, tracked as CVE-2024-12847 (CVSS 9.8), has been exploited in the wild since at least 2017.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 10, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

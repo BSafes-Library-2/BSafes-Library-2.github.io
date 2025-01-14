@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Project Zero Researcher Uncovers Zero-Click Exploit Targeting Samsung Devices<a href="https://thehackernews.com/2025/01/google-project-zero-researcher-uncovers.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers detailed a now-patched security flaw impacting Monkey's Audio decoder on Samsung smartphones that could lead to code execution. The vulnerability, tracked as CVE-2024-49415, affects Samsung devices running Android versions 12, 13, and 14.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 9, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

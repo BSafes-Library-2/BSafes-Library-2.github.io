@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2025
+January 13, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Software Cracks and Installers Used to Bring Malware to Your Device<a href="https://www.trendmicro.com/en_us/research/25/a/how-cracks-and-installers-bring-malware-to-your-device.html?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Software Cracks and Installers Used to Bring Malware to Your Device<a href="http
 Threat actors often leverage reputable file hosting services like Mediafire and Mega.nz to conceal the origin of their malware and make detection and removal more difficult.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Trend Micro
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2025
+January 13, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing Trend Exploiting YouTube URLs Through Microsoft Office 365 Expiry Themes<a href="https://www.cyderes.com/blog/phishing-trend-exploiting-youtube-urls-through-o365-expiry-themes?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Phishing Trend Exploiting YouTube URLs Through Microsoft Office 365 Expiry Theme
 Researchers at Cyderes warned of a recent wave of phishing campaigns leveraging cleverly disguised URLs and Microsoft 365 password expiry lures to trick users into divulging sensitive credentials.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyderes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2025
+January 13, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HexaLocker Returns in New Improved Variant Propagated via Skuld Stealer<a href="https://securityonline.info/hexalocker-v2-ransomware-reborn-with-advanced-tactics/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ HexaLocker Returns in New Improved Variant Propagated via Skuld Stealer<a href="
 HexaLocker V2 exhibits a major evolution in both functionality and complexity compared to its predecessor. According to Cyble Research and Intelligence Labs, the ransomware now combines advanced encryption techniques with data theft capabilities.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2025
+January 13, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing Texts Trick Apple iMessage Users Into Disabling Protection<a href="https://www.bleepingcomputer.com/news/security/phishing-texts-trick-apple-imessage-users-into-disabling-protection/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Phishing Texts Trick Apple iMessage Users Into Disabling Protection<a href="http
 Apple iMessage automatically disables links in messages from unknown senders for protection. However, if users reply to these messages or save the sender's contact information, the links get re-enabled, which can be abused by scammers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2025
+January 13, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 High-Traffic Sites Attacked in “zqxq” Campaign Through Obfuscated Javascript Injection<a href="https://www.malwarebytes.com/blog/news/2025/01/groupgreeting-e-card-site-attacked-inzqxq-campaign?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ High-Traffic Sites Attacked in “zqxq” Campaign Through Obfuscated Javascript
 The malware used in the campaign hides in legitimate files using scrambled variables and custom functions like HttpClient, rand, and token. These methods evade detection and hinder analysis by researchers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Maleware Bytes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2025
+January 13, 2025 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cado Security Poised to be Purchased by Darktrace<a href="https://www.scworld.com/brief/cado-security-poised-to-be-purchased-by-darktrace?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Cado Security Poised to be Purchased by Darktrace<a href="https://www.scworld.co
 Darktrace plans to purchase a cloud forensics and automation startup led by the former head of PwC's incident response business to enhance the security of multi-cloud environments.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+SC Media
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2025
+January 13, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Vulnerability Patched in GiveWP Plugin<a href="https://patchstack.com/articles/critical-vulnerability-patched-in-givewp-plugin/?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2025
+January 13, 2025 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Web3 attack exploits transaction simulations to steal crypto<a href="https://www.bleepingcomputer.com/news/security/new-web3-attack-exploits-transaction-simulations-to-steal-crypto/?&web_view=true"> Full Text</a>
@@ -162,7 +162,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2025
+January 13, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NETGEAR Router Flaw Exploited in the Wild for Years, PoC Published<a href="https://securityonline.info/cve-2024-12847-cvss-9-8-netgear-router-flaw-exploited-in-the-wild-for-years-poc-published/?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2025
+January 13, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RedDelta Deploys PlugX Malware to Target Mongolia and Taiwan in Espionage Campaigns<a href="https://thehackernews.com/2025/01/reddelta-deploys-plugx-malware-to.html?&web_view=true"> Full Text</a>
