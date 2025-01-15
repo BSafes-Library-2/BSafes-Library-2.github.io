@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+January 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattackers Hide Infostealers in YouTube Comments<a href="https://www.darkreading.com/threat-intelligence/cyberattackers-infostealers-youtube-comments-google-search?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are targeting people interested in pirated and cracked software downloads by abusing YouTube and Google search results. Threat actors are posing as "guides" offering legitimate software installation tutorials to lure viewers.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fancy Bear spotted using real Kazak government documents in spearpishing campaign<a href="https://cyberscoop.com/fancy-bear-kazakhstan-russia-sekoia/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacking group linked to Russian intelligence has been observed leveraging seemingly legitimate documents from the Kazakhstan government as phishing lures to infect and spy on government officials in Central Asia.
+</details>
+<div style="text-align: right" markdown="1">
+CyberScoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 13, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

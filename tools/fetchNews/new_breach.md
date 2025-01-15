@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+January 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stolen Path of Exile 2 admin account used to hack player accounts<a href="https://www.bleepingcomputer.com/news/security/stolen-path-of-exile-2-admin-account-used-to-hack-player-accounts/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Path of Exile 2 developers confirmed that a hacked admin account allowed a threat actor to change the password and access at least 66 accounts, finally explaining how PoE 2 accounts have been breached since November.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 11, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

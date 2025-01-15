@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers are encrypting AWS S3 data without using ransomware<a href="https://helpnetsecurity.com/2025/01/13/codefinger-encrypting-aws-s3-data-without-ransomware-sse-c/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware gang dubbed Codefinger is encrypting data stored in target organizations’ AWS S3 buckets with AWS’s server-side encryption option with customer-provided keys (SSE-C), and asking for money to hand over the key they used.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 24, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
