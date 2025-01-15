@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2025
+January 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical IBM DOORS Next Flaw Enables Remote Code Execution<a href="https://securityonline.info/cve-2024-41787-cvss-9-8-critical-ibm-doors-next-flaw-enables-remote-code-execution/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The two vulnerabilities, both rated with a CVSS Base Score of 9.8, reflect severe risks to organizations relying on IBM’s DOORS Next and Rhapsody Model Manager software for engineering requirements management and systems design.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattackers Hide Infostealers in YouTube Comments<a href="https://www.darkreading.com/threat-intelligence/cyberattackers-infostealers-youtube-comments-google-search?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are targeting people interested in pirated and cracked software downloads by abusing YouTube and Google search results. Threat actors are posing as "guides" offering legitimate software installation tutorials to lure viewers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers are encrypting AWS S3 data without using ransomware<a href="https://helpnetsecurity.com/2025/01/13/codefinger-encrypting-aws-s3-data-without-ransomware-sse-c/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware gang dubbed Codefinger is encrypting data stored in target organizations’ AWS S3 buckets with AWS’s server-side encryption option with customer-provided keys (SSE-C), and asking for money to hand over the key they used.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: macOS bug lets hackers install malicious kernel drivers<a href="https://www.bleepingcomputer.com/news/security/microsoft-macos-bug-lets-hackers-install-malicious-kernel-drivers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple recently addressed a macOS vulnerability that allows attackers to bypass System Integrity Protection (SIP) and install malicious kernel drivers by loading third-party kernel extensions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA orders agencies to patch BeyondTrust bug exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-beyondtrust-bug-exploited-in-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has tagged a command injection vulnerability (CVE-2024-12686) in BeyondTrust's Privileged Remote Access (PRA) and Remote Support (RS) as actively exploited in attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux Kernel Privilege Escalation Vulnerability (CVE-2024-27397) Exploited: PoC Released<a href="https://securityonline.info/linux-kernel-privilege-escalation-vulnerability-cve-2024-27397-exploited-poc-released/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This vulnerability resides in the netfilter nf_tables component and can be exploited during rollback operations involving expired elements. The issue specifically arises in the nft_set_elem_expired function defined in nf_tables.h.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stolen Path of Exile 2 admin account used to hack player accounts<a href="https://www.bleepingcomputer.com/news/security/stolen-path-of-exile-2-admin-account-used-to-hack-player-accounts/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Path of Exile 2 developers confirmed that a hacked admin account allowed a threat actor to change the password and access at least 66 accounts, finally explaining how PoE 2 accounts have been breached since November.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fancy Bear spotted using real Kazak government documents in spearpishing campaign<a href="https://cyberscoop.com/fancy-bear-kazakhstan-russia-sekoia/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacking group linked to Russian intelligence has been observed leveraging seemingly legitimate documents from the Kazakhstan government as phishing lures to infect and spy on government officials in Central Asia.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Snoops exploited Fortinet firewalls with 'probable' 0-day<a href="https://www.theregister.com/2025/01/14/miscreants_mass_exploited_fortinet_firewalls/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Miscreants running a "mass exploitation campaign" against Fortinet firewalls, which peaked in December, may be using an unpatched zero-day vulnerability to compromise the equipment.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel Urges Patch Application for Privilege Escalation Vulnerability (CVE-2024-12398)<a href="https://securityonline.info/zyxel-urges-patch-application-for-privilege-escalation-vulnerability-cve-2024-12398/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zyxel has issued an advisory for a newly identified security vulnerability, CVE-2024-12398, that affects multiple access points (AP) and security routers. The vulnerability is an improper privilege management flaw within the web management interface.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Software Cracks and Installers Used to Bring Malware to Your Device<a href="https://www.trendmicro.com/en_us/research/25/a/how-cracks-and-installers-bring-malware-to-your-device.html?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Software Cracks and Installers Used to Bring Malware to Your Device<a href="http
 Threat actors often leverage reputable file hosting services like Mediafire and Mega.nz to conceal the origin of their malware and make detection and removal more difficult.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Trend Micro
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2025
+January 13, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing Trend Exploiting YouTube URLs Through Microsoft Office 365 Expiry Themes<a href="https://www.cyderes.com/blog/phishing-trend-exploiting-youtube-urls-through-o365-expiry-themes?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Phishing Trend Exploiting YouTube URLs Through Microsoft Office 365 Expiry Theme
 Researchers at Cyderes warned of a recent wave of phishing campaigns leveraging cleverly disguised URLs and Microsoft 365 password expiry lures to trick users into divulging sensitive credentials.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyderes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2025
+January 13, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HexaLocker Returns in New Improved Variant Propagated via Skuld Stealer<a href="https://securityonline.info/hexalocker-v2-ransomware-reborn-with-advanced-tactics/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ HexaLocker Returns in New Improved Variant Propagated via Skuld Stealer<a href="
 HexaLocker V2 exhibits a major evolution in both functionality and complexity compared to its predecessor. According to Cyble Research and Intelligence Labs, the ransomware now combines advanced encryption techniques with data theft capabilities.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2025
+January 13, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing Texts Trick Apple iMessage Users Into Disabling Protection<a href="https://www.bleepingcomputer.com/news/security/phishing-texts-trick-apple-imessage-users-into-disabling-protection/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Phishing Texts Trick Apple iMessage Users Into Disabling Protection<a href="http
 Apple iMessage automatically disables links in messages from unknown senders for protection. However, if users reply to these messages or save the sender's contact information, the links get re-enabled, which can be abused by scammers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2025
+January 13, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 High-Traffic Sites Attacked in “zqxq” Campaign Through Obfuscated Javascript Injection<a href="https://www.malwarebytes.com/blog/news/2025/01/groupgreeting-e-card-site-attacked-inzqxq-campaign?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ High-Traffic Sites Attacked in “zqxq” Campaign Through Obfuscated Javascript
 The malware used in the campaign hides in legitimate files using scrambled variables and custom functions like HttpClient, rand, and token. These methods evade detection and hinder analysis by researchers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Maleware Bytes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2025
+January 13, 2025 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cado Security Poised to be Purchased by Darktrace<a href="https://www.scworld.com/brief/cado-security-poised-to-be-purchased-by-darktrace?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Cado Security Poised to be Purchased by Darktrace<a href="https://www.scworld.co
 Darktrace plans to purchase a cloud forensics and automation startup led by the former head of PwC's incident response business to enhance the security of multi-cloud environments.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+SC Media
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2025
+January 13, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Vulnerability Patched in GiveWP Plugin<a href="https://patchstack.com/articles/critical-vulnerability-patched-in-givewp-plugin/?&web_view=true"> Full Text</a>
@@ -146,7 +306,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2025
+January 13, 2025 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Web3 attack exploits transaction simulations to steal crypto<a href="https://www.bleepingcomputer.com/news/security/new-web3-attack-exploits-transaction-simulations-to-steal-crypto/?&web_view=true"> Full Text</a>
@@ -162,7 +322,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2025
+January 13, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NETGEAR Router Flaw Exploited in the Wild for Years, PoC Published<a href="https://securityonline.info/cve-2024-12847-cvss-9-8-netgear-router-flaw-exploited-in-the-wild-for-years-poc-published/?&web_view=true"> Full Text</a>
@@ -178,7 +338,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2025
+January 13, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RedDelta Deploys PlugX Malware to Target Mongolia and Taiwan in Espionage Campaigns<a href="https://thehackernews.com/2025/01/reddelta-deploys-plugx-malware-to.html?&web_view=true"> Full Text</a>
