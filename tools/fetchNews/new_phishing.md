@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+January 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'Sneaky 2FA' Phishing Kit Targets Microsoft 365 Accounts with 2FA Code Bypass<a href="https://thehackernews.com/2025/01/new-sneaky-2fa-phishing-kit-targets.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have detailed a new adversary-in-the-middle (AitM) phishing kit that's capable of Microsoft 365 accounts with an aim to steal credentials and two-factor authentication (2FA) codes since at least October 2024.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 14, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

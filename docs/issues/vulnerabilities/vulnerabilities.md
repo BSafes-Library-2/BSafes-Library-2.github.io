@@ -8,6 +8,76 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NVIDIA Releases Security Update for Container Toolkit and GPU Operator<a href="https://securityonline.info/nvidia-releases-security-update-for-container-toolkit-and-gpu-operator/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The security update released by NVIDIA addresses three security flaws that could potentially allow attackers to execute malicious code, escalate privileges, or launch denial-of-service attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AWS Patches Vulnerabilities in WorkSpaces, AppStream 2.0, and DCV Clients<a href="https://securityonline.info/aws-patches-vulnerabilities-in-workspaces-appstream-2-0-and-dcv-clients/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These vulnerabilities, identified as CVE-2025-0500 and CVE-2025-0501, carry a CVSSv4 score of 7.7. The vulnerabilities, if exploited, could allow attackers to perform man-in-the-middle (MITM) attacks, granting unauthorized access to remote sessions.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Veeam Releases Patch for High-Risk SSRF Vulnerability CVE-2025-23082 in Azure Backup Solution<a href="https://securityonline.info/veeam-releases-patch-for-high-risk-ssrf-vulnerability-cve-2025-23082-in-azure-backup-solution/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Veeam disclosed a critical vulnerability in its Veeam Backup for Microsoft Azure product. Identified as CVE-2025-23082, this Server-Side Request Forgery (SSRF) vulnerability carries a CVSS score of 7.2, placing it in the high-severity category.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Find Exploit Allowing NTLMv1 Despite Active Directory Restrictions<a href="https://thehackernews.com/2025/01/researchers-find-exploit-allowing.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have found that the Microsoft Active Directory Group Policy that's designed to disable NT LAN Manager (NTLM) v1 can be trivially bypassed by a misconfiguration.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular WordPress Caching Plugin Exposes Millions of Sites to Attack<a href="https://securityonline.info/cve-2024-12365-popular-wordpress-caching-plugin-exposes-millions-of-sites-to-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Any website using W3 Total Cache version 2.8.1 or earlier is vulnerable. Given the plugin’s popularity with over 1 million active installations, this represents a significant portion of the WordPress ecosystem.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 14, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

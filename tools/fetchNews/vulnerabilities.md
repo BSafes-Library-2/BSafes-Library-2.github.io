@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical IBM DOORS Next Flaw Enables Remote Code Execution<a href="https://securityonline.info/cve-2024-41787-cvss-9-8-critical-ibm-doors-next-flaw-enables-remote-code-execution/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The two vulnerabilities, both rated with a CVSS Base Score of 9.8, reflect severe risks to organizations relying on IBM’s DOORS Next and Rhapsody Model Manager software for engineering requirements management and systems design.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: macOS bug lets hackers install malicious kernel drivers<a href="https://www.bleepingcomputer.com/news/security/microsoft-macos-bug-lets-hackers-install-malicious-kernel-drivers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple recently addressed a macOS vulnerability that allows attackers to bypass System Integrity Protection (SIP) and install malicious kernel drivers by loading third-party kernel extensions.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux Kernel Privilege Escalation Vulnerability (CVE-2024-27397) Exploited: PoC Released<a href="https://securityonline.info/linux-kernel-privilege-escalation-vulnerability-cve-2024-27397-exploited-poc-released/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This vulnerability resides in the netfilter nf_tables component and can be exploited during rollback operations involving expired elements. The issue specifically arises in the nft_set_elem_expired function defined in nf_tables.h.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel Urges Patch Application for Privilege Escalation Vulnerability (CVE-2024-12398)<a href="https://securityonline.info/zyxel-urges-patch-application-for-privilege-escalation-vulnerability-cve-2024-12398/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zyxel has issued an advisory for a newly identified security vulnerability, CVE-2024-12398, that affects multiple access points (AP) and security routers. The vulnerability is an improper privilege management flaw within the web management interface.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 13, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

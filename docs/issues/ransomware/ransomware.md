@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+January 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RansomHub Affiliate Leverages Python-based Backdoor to Maintain Access and Deploy Encryptors<a href="https://www.guidepointsecurity.com/blog/ransomhub-affiliate-leverage-python-based-backdoor/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an incident response in Q4 2024, GuidePoint Security identified evidence of a threat actor utilizing a Python-based backdoor to maintain access to compromised endpoints. The threat actor later leveraged this access to deploy RansomHub encryptors.
+</details>
+<div style="text-align: right" markdown="1">
+GuidePoint
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 13, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

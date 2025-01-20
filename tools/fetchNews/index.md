@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2025
+January 18, 2025 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IoT Botnet Linked to Large-scale DDoS Attacks Since the End of 2024<a href="https://www.trendmicro.com/en_us/research/25/a/iot-botnet-linked-to-ddos-attacks.html?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ IoT Botnet Linked to Large-scale DDoS Attacks Since the End of 2024<a href="http
 The botnet comprises malware variants derived from Mirai and Bashlite and infects IoT devices by exploiting vulnerabilities and weak credentials. The primary devices used in the botnet were wireless routers and IP cameras from well-known brands.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Trend Micro
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2025
+January 18, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NVIDIA Releases Security Update for Container Toolkit and GPU Operator<a href="https://securityonline.info/nvidia-releases-security-update-for-container-toolkit-and-gpu-operator/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ NVIDIA Releases Security Update for Container Toolkit and GPU Operator<a href="h
 The security update released by NVIDIA addresses three security flaws that could potentially allow attackers to execute malicious code, escalate privileges, or launch denial-of-service attacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2025
+January 18, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New 'Sneaky 2FA' Phishing Kit Targets Microsoft 365 Accounts with 2FA Code Bypass<a href="https://thehackernews.com/2025/01/new-sneaky-2fa-phishing-kit-targets.html?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ New 'Sneaky 2FA' Phishing Kit Targets Microsoft 365 Accounts with 2FA Code Bypas
 Cybersecurity researchers have detailed a new adversary-in-the-middle (AitM) phishing kit that's capable of Microsoft 365 accounts with an aim to steal credentials and two-factor authentication (2FA) codes since at least October 2024.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2025
+January 18, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AWS Patches Vulnerabilities in WorkSpaces, AppStream 2.0, and DCV Clients<a href="https://securityonline.info/aws-patches-vulnerabilities-in-workspaces-appstream-2-0-and-dcv-clients/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ AWS Patches Vulnerabilities in WorkSpaces, AppStream 2.0, and DCV Clients<a href
 These vulnerabilities, identified as CVE-2025-0500 and CVE-2025-0501, carry a CVSSv4 score of 7.7. The vulnerabilities, if exploited, could allow attackers to perform man-in-the-middle (MITM) attacks, granting unauthorized access to remote sessions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2025
+January 18, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious PyPI Package ‘pycord-self’ Targets Discord Developers with Token Theft and Backdoor Exploit<a href="https://socket.dev/blog/malicious-pypi-package-targets-discord-developers-with-token-theft-and-backdoor?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Malicious PyPI Package ‘pycord-self’ Targets Discord Developers with Token T
 The malicious package, named pycord-self, mimics the legitimate discord.py-self library, a widely used Python wrapper for the Discord user API. The legitimate package was released on April 8, 2023, whereas the malicious one appeared on June 20, 2024.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Socket
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17, 2025
+January 17, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RansomHub Affiliate Leverages Python-based Backdoor to Maintain Access and Deploy Encryptors<a href="https://www.guidepointsecurity.com/blog/ransomhub-affiliate-leverage-python-based-backdoor/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ RansomHub Affiliate Leverages Python-based Backdoor to Maintain Access and Deplo
 In an incident response in Q4 2024, GuidePoint Security identified evidence of a threat actor utilizing a Python-based backdoor to maintain access to compromised endpoints. The threat actor later leveraged this access to deploy RansomHub encryptors.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GuidePoint
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17, 2025
+January 17, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Veeam Releases Patch for High-Risk SSRF Vulnerability CVE-2025-23082 in Azure Backup Solution<a href="https://securityonline.info/veeam-releases-patch-for-high-risk-ssrf-vulnerability-cve-2025-23082-in-azure-backup-solution/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Veeam Releases Patch for High-Risk SSRF Vulnerability CVE-2025-23082 in Azure Ba
 Veeam disclosed a critical vulnerability in its Veeam Backup for Microsoft Azure product. Identified as CVE-2025-23082, this Server-Side Request Forgery (SSRF) vulnerability carries a CVSS score of 7.2, placing it in the high-severity category.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17, 2025
+January 17, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Find Exploit Allowing NTLMv1 Despite Active Directory Restrictions<a href="https://thehackernews.com/2025/01/researchers-find-exploit-allowing.html?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Researchers Find Exploit Allowing NTLMv1 Despite Active Directory Restrictions<a
 Cybersecurity researchers have found that the Microsoft Active Directory Group Policy that's designed to disable NT LAN Manager (NTLM) v1 can be trivially bypassed by a misconfiguration.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17, 2025
+January 17, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Popular WordPress Caching Plugin Exposes Millions of Sites to Attack<a href="https://securityonline.info/cve-2024-12365-popular-wordpress-caching-plugin-exposes-millions-of-sites-to-attack/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Popular WordPress Caching Plugin Exposes Millions of Sites to Attack<a href="htt
 Any website using W3 Total Cache version 2.8.1 or earlier is vulnerable. Given the plugin’s popularity with over 1 million active installations, this represents a significant portion of the WordPress ecosystem.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17, 2025
+January 17, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Use Google Search Ads to Steal Google Ads Accounts<a href="https://www.bleepingcomputer.com/news/security/hackers-use-google-search-ads-to-steal-google-ads-accounts/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Hackers Use Google Search Ads to Steal Google Ads Accounts<a href="https://www.b
 The attackers are running ads on Google Search impersonating Google Ads, showing as sponsored results that redirect potential victims to fake login pages hosted on Google Sites but looking like the official Google Ads homepage.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
