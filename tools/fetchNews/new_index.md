@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 14, 2025
+January 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IoT Botnet Linked to Large-scale DDoS Attacks Since the End of 2024<a href="https://www.trendmicro.com/en_us/research/25/a/iot-botnet-linked-to-ddos-attacks.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The botnet comprises malware variants derived from Mirai and Bashlite and infects IoT devices by exploiting vulnerabilities and weak credentials. The primary devices used in the botnet were wireless routers and IP cameras from well-known brands.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NVIDIA Releases Security Update for Container Toolkit and GPU Operator<a href="https://securityonline.info/nvidia-releases-security-update-for-container-toolkit-and-gpu-operator/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The security update released by NVIDIA addresses three security flaws that could potentially allow attackers to execute malicious code, escalate privileges, or launch denial-of-service attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'Sneaky 2FA' Phishing Kit Targets Microsoft 365 Accounts with 2FA Code Bypass<a href="https://thehackernews.com/2025/01/new-sneaky-2fa-phishing-kit-targets.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have detailed a new adversary-in-the-middle (AitM) phishing kit that's capable of Microsoft 365 accounts with an aim to steal credentials and two-factor authentication (2FA) codes since at least October 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AWS Patches Vulnerabilities in WorkSpaces, AppStream 2.0, and DCV Clients<a href="https://securityonline.info/aws-patches-vulnerabilities-in-workspaces-appstream-2-0-and-dcv-clients/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These vulnerabilities, identified as CVE-2025-0500 and CVE-2025-0501, carry a CVSSv4 score of 7.7. The vulnerabilities, if exploited, could allow attackers to perform man-in-the-middle (MITM) attacks, granting unauthorized access to remote sessions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious PyPI Package ‘pycord-self’ Targets Discord Developers with Token Theft and Backdoor Exploit<a href="https://socket.dev/blog/malicious-pypi-package-targets-discord-developers-with-token-theft-and-backdoor?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malicious package, named pycord-self, mimics the legitimate discord.py-self library, a widely used Python wrapper for the Discord user API. The legitimate package was released on April 8, 2023, whereas the malicious one appeared on June 20, 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RansomHub Affiliate Leverages Python-based Backdoor to Maintain Access and Deploy Encryptors<a href="https://www.guidepointsecurity.com/blog/ransomhub-affiliate-leverage-python-based-backdoor/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an incident response in Q4 2024, GuidePoint Security identified evidence of a threat actor utilizing a Python-based backdoor to maintain access to compromised endpoints. The threat actor later leveraged this access to deploy RansomHub encryptors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Veeam Releases Patch for High-Risk SSRF Vulnerability CVE-2025-23082 in Azure Backup Solution<a href="https://securityonline.info/veeam-releases-patch-for-high-risk-ssrf-vulnerability-cve-2025-23082-in-azure-backup-solution/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Veeam disclosed a critical vulnerability in its Veeam Backup for Microsoft Azure product. Identified as CVE-2025-23082, this Server-Side Request Forgery (SSRF) vulnerability carries a CVSS score of 7.2, placing it in the high-severity category.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Find Exploit Allowing NTLMv1 Despite Active Directory Restrictions<a href="https://thehackernews.com/2025/01/researchers-find-exploit-allowing.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have found that the Microsoft Active Directory Group Policy that's designed to disable NT LAN Manager (NTLM) v1 can be trivially bypassed by a misconfiguration.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular WordPress Caching Plugin Exposes Millions of Sites to Attack<a href="https://securityonline.info/cve-2024-12365-popular-wordpress-caching-plugin-exposes-millions-of-sites-to-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Any website using W3 Total Cache version 2.8.1 or earlier is vulnerable. Given the plugin’s popularity with over 1 million active installations, this represents a significant portion of the WordPress ecosystem.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Use Google Search Ads to Steal Google Ads Accounts<a href="https://www.bleepingcomputer.com/news/security/hackers-use-google-search-ads-to-steal-google-ads-accounts/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers are running ads on Google Search impersonating Google Ads, showing as sponsored results that redirect potential victims to fake login pages hosted on Google Sites but looking like the official Google Ads homepage.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical IBM DOORS Next Flaw Enables Remote Code Execution<a href="https://securityonline.info/cve-2024-41787-cvss-9-8-critical-ibm-doors-next-flaw-enables-remote-code-execution/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Critical IBM DOORS Next Flaw Enables Remote Code Execution<a href="https://secur
 The two vulnerabilities, both rated with a CVSS Base Score of 9.8, reflect severe risks to organizations relying on IBM’s DOORS Next and Rhapsody Model Manager software for engineering requirements management and systems design.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 14, 2025
+January 14, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattackers Hide Infostealers in YouTube Comments<a href="https://www.darkreading.com/threat-intelligence/cyberattackers-infostealers-youtube-comments-google-search?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Cyberattackers Hide Infostealers in YouTube Comments<a href="https://www.darkrea
 Attackers are targeting people interested in pirated and cracked software downloads by abusing YouTube and Google search results. Threat actors are posing as "guides" offering legitimate software installation tutorials to lure viewers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 14, 2025
+January 14, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers are encrypting AWS S3 data without using ransomware<a href="https://helpnetsecurity.com/2025/01/13/codefinger-encrypting-aws-s3-data-without-ransomware-sse-c/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Attackers are encrypting AWS S3 data without using ransomware<a href="https://he
 A ransomware gang dubbed Codefinger is encrypting data stored in target organizations’ AWS S3 buckets with AWS’s server-side encryption option with customer-provided keys (SSE-C), and asking for money to hand over the key they used.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 14, 2025
+January 14, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: macOS bug lets hackers install malicious kernel drivers<a href="https://www.bleepingcomputer.com/news/security/microsoft-macos-bug-lets-hackers-install-malicious-kernel-drivers/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Microsoft: macOS bug lets hackers install malicious kernel drivers<a href="https
 Apple recently addressed a macOS vulnerability that allows attackers to bypass System Integrity Protection (SIP) and install malicious kernel drivers by loading third-party kernel extensions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 14, 2025
+January 14, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA orders agencies to patch BeyondTrust bug exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-beyondtrust-bug-exploited-in-attacks/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ CISA orders agencies to patch BeyondTrust bug exploited in attacks<a href="https
 CISA has tagged a command injection vulnerability (CVE-2024-12686) in BeyondTrust's Privileged Remote Access (PRA) and Remote Support (RS) as actively exploited in attacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 14, 2025
+January 14, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Linux Kernel Privilege Escalation Vulnerability (CVE-2024-27397) Exploited: PoC Released<a href="https://securityonline.info/linux-kernel-privilege-escalation-vulnerability-cve-2024-27397-exploited-poc-released/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Linux Kernel Privilege Escalation Vulnerability (CVE-2024-27397) Exploited: PoC 
 This vulnerability resides in the netfilter nf_tables component and can be exploited during rollback operations involving expired elements. The issue specifically arises in the nft_set_elem_expired function defined in nf_tables.h.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 14, 2025
+January 14, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stolen Path of Exile 2 admin account used to hack player accounts<a href="https://www.bleepingcomputer.com/news/security/stolen-path-of-exile-2-admin-account-used-to-hack-player-accounts/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Stolen Path of Exile 2 admin account used to hack player accounts<a href="https:
 Path of Exile 2 developers confirmed that a hacked admin account allowed a threat actor to change the password and access at least 66 accounts, finally explaining how PoE 2 accounts have been breached since November.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 14, 2025
+January 14, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fancy Bear spotted using real Kazak government documents in spearpishing campaign<a href="https://cyberscoop.com/fancy-bear-kazakhstan-russia-sekoia/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Fancy Bear spotted using real Kazak government documents in spearpishing campaig
 A hacking group linked to Russian intelligence has been observed leveraging seemingly legitimate documents from the Kazakhstan government as phishing lures to infect and spy on government officials in Central Asia.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CyberScoop
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 14, 2025
+January 14, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Snoops exploited Fortinet firewalls with 'probable' 0-day<a href="https://www.theregister.com/2025/01/14/miscreants_mass_exploited_fortinet_firewalls/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Snoops exploited Fortinet firewalls with 'probable' 0-day<a href="https://www.th
 Miscreants running a "mass exploitation campaign" against Fortinet firewalls, which peaked in December, may be using an unpatched zero-day vulnerability to compromise the equipment.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 14, 2025
+January 14, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zyxel Urges Patch Application for Privilege Escalation Vulnerability (CVE-2024-12398)<a href="https://securityonline.info/zyxel-urges-patch-application-for-privilege-escalation-vulnerability-cve-2024-12398/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Zyxel Urges Patch Application for Privilege Escalation Vulnerability (CVE-2024-1
 Zyxel has issued an advisory for a newly identified security vulnerability, CVE-2024-12398, that affects multiple access points (AP) and security routers. The vulnerability is an improper privilege management flaw within the web management interface.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -300,7 +460,7 @@ Critical Vulnerability Patched in GiveWP Plugin<a href="https://patchstack.com/a
 The GiveWP plugin (version 3.19.3 and below) suffers from an unauthenticated PHP Object Injection vulnerability. The vulnerability occurred due to the insecure storage of meta in the DB which ended up being unserialized.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Patch Stack
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -316,7 +476,7 @@ New Web3 attack exploits transaction simulations to steal crypto<a href="https:/
 The attack, spotted by ScamSniffer, highlights a flaw in transaction simulation mechanisms used in modern Web3 wallets, meant to safeguard users from fraudulent and malicious transactions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -332,7 +492,7 @@ NETGEAR Router Flaw Exploited in the Wild for Years, PoC Published<a href="https
 A security vulnerability in some Netgear routers allows remote attackers to gain unauthorized access and control over the devices. The vulnerability, tracked as CVE-2024-12847 (CVSS 9.8), has been exploited in the wild since at least 2017.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -348,7 +508,7 @@ RedDelta Deploys PlugX Malware to Target Mongolia and Taiwan in Espionage Campai
 Mongolia, Taiwan, Myanmar, Vietnam, and Cambodia have been targeted by the China-nexus RedDelta threat actor to deliver a customized version of the PlugX backdoor between July 2023 and December 2024.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
