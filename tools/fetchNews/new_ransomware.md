@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+January 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Basta Ransomware Exploits Microsoft Teams for Phishing Attacks<a href="https://securityonline.info/black-basta-exploits-microsoft-teams-for-phishing-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign begins with an email bombing strategy where victims’ inboxes are flooded with benign spam emails, such as newsletter subscriptions. This tactic aims to distract users and mask the malicious intent.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 17, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

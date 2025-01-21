@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+January 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Python-Based Bots Exploiting PHP Servers Fuel Gambling Platform Proliferation<a href="https://thehackernews.com/2025/01/python-based-bots-exploiting-php.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack chains particularly involve attempts to deploy GSocket by leveraging web pre-existing web shells installed on already compromised servers. Most of the attacks have been found to single out servers running the popular LMS, Moodle.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 18, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

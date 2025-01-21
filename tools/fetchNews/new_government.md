@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+January 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU To Launch Support Centre by 2026 to Boost Healthcare Cybersecurity<a href="https://www.infosecurity-magazine.com/news/eu-centre-defend-hospitals/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The action plan was made public on January 15, 2025, after being first mentioned in July 2024 in the EU Commission's Political Guidelines 2024-2029 document. It aims to help healthcare entities mitigate the rapidly increasing cyber threats they face.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 14, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

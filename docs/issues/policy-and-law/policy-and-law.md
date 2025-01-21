@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+January 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FCC Enacts Rule Requiring Telecom Operators To Secure Networks<a href="https://www.cybersecuritydive.com/news/fcc-telecom-cyber-rules/737689/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The declaratory ruling, which took effect immediately, clarifies that telecom operators are legally obligated to secure networks under Section 105 of the Communications Assistance for Law Enforcement Act.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 8, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

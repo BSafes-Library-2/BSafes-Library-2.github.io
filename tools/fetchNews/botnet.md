@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+January 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IoT Botnet Linked to Large-scale DDoS Attacks Since the End of 2024<a href="https://www.trendmicro.com/en_us/research/25/a/iot-botnet-linked-to-ddos-attacks.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The botnet comprises malware variants derived from Mirai and Bashlite and infects IoT devices by exploiting vulnerabilities and weak credentials. The primary devices used in the botnet were wireless routers and IP cameras from well-known brands.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 8, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

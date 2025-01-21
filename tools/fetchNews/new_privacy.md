@@ -8,6 +8,34 @@ nav_order: 900165
 
 ## Privacy
 ---
+January 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC Orders GM to Stop Collecting and Selling Driver’s Data<a href="https://www.bleepingcomputer.com/news/legal/ftc-orders-gm-to-stop-collecting-and-selling-drivers-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Trade Commission (FTC) is taking action against General Motors (GM) and its subsidiary, OnStar, for unlawful collection and selling drivers' precise geolocation and driving behavior data from millions of vehicles.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Noyb Files GDPR Complaints Against TikTok and Five Chinese Tech Giants<a href="https://www.infosecurity-magazine.com/news/noyb-gdpr-complaints-tiktok-temu/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The accused firms include AliExpress, Shein, Temu, TikTok, WeChat and Xiaomi. The non-profit alleges these companies unlawfully send Europeans’ personal data outside of the EU, especially to China.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 1, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
