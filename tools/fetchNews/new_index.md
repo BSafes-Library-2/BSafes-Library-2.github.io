@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 20, 2025
+January 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Apache Ambari Security Vulnerabilities Discovered<a href="https://securityonline.info/critical-apache-ambari-security-vulnerabilities-discovered-what-you-need-to-know/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These vulnerabilities (CVE-2025-23195, CVE-2025-23196, and CVE-2024-51941), ranging from moderate to important severity, could allow attackers to gain unauthorized access to sensitive data and execute malicious code on vulnerable systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PlushDaemon APT Targets South Korean VPN Provider in Supply Chain Attack<a href="https://thehackernews.com/2025/01/plushdaemon-apt-targets-south-korean.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PlushDaemon is assessed to be a China-nexus group that has been operational since at least 2019, targeting individuals and entities in China, Taiwan, Hong Kong, South Korea, the United States, and New Zealand.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Node.js Vulnerability Exposes Sensitive Data and Resources<a href="https://securityonline.info/cve-2025-23083-node-js-vulnerability-exposes-sensitive-data-and-resources/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2025-23083, affects Node.js versions 20, 22, and 23. It exists in the diagnostics_channel utility, which can be used to hook into events, including worker thread creation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mirai Variant Murdoc Botnet Exploits AVTECH IP Cameras and Huawei Routers<a href="https://thehackernews.com/2025/01/murdocbotnet-found-exploiting-avtech-ip.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign is known to be active since at least July 2024, with over 1,370 systems infected to date. A majority of the infections have been located in Malaysia, Mexico, Thailand, Indonesia, and Vietnam.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw in AdForest Theme Allows Complete Account Takeover, Thousands of Sites at Risk<a href="https://securityonline.info/cve-2024-12857-critical-flaw-in-adforest-theme-allows-complete-account-takeover-thousands-of-sites-at-risk/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A severe security flaw (CVE-2024-12857) has been discovered in the AdForest WordPress theme, a popular premium classified ads theme with over 8,743 sales globally. This vulnerability, rated CVSS 9.8, allows attackers to bypass authentication.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ChatGPT Crawler Vulnerability can Enable DDoS Attacks via HTTP Requests<a href="https://securityonline.info/chatgpt-crawler-vulnerability-ddos-attacks-via-http-requests/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This intriguing flaw was reported by cybersecurity researcher Benjamin Flesch. According to him, a single HTTP request to the ChatGPT API could trigger a flood of unrelenting network requests targeting a specific web resource.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Telecom Giant Rostelecom Investigates Suspected Cyberattack on Contractor<a href="https://therecord.media/rostelecom-russia-contractor-data-breach?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company stated that the contractor is responsible for maintaining Rostelecom’s corporate website and procurement portal, both of which were reportedly targeted by hackers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Homebrew Phishing Site Appears in Google Search, Raising Concerns<a href="https://securityonline.info/homebrew-phishing-site-appears-in-google-search-raising-concerns/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phishing website was designed to look identical to the official Homebrew website (brew.sh). However, when users clicked on the ad, they were redirected to a malicious website that contained installation code for a backdoor.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unsecured Tunneling Protocols Expose 4.2 Million Hosts, Including VPNs and Routers<a href="https://thehackernews.com/2025/01/unsecured-tunneling-protocols-expose-42.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as 4.2 million hosts have been found susceptible to the attacks, including VPN servers, ISP home routers, core internet routers, mobile network gateways, and content delivery network (CDN) nodes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 21, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Found New Android Malware Linked to DoNot Team APT Group<a href="https://securityaffairs.com/173257/apt/donot-team-android-malware.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DoNot APT group has been observed misusing the OneSignal platform, which typically provides tools for sending push notifications, in-app messages, emails, and SMS. The group is leveraging OneSignal to deliver phishing links through notifications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 20, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EU To Launch Support Centre by 2026 to Boost Healthcare Cybersecurity<a href="https://www.infosecurity-magazine.com/news/eu-centre-defend-hospitals/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ EU To Launch Support Centre by 2026 to Boost Healthcare Cybersecurity<a href="ht
 The action plan was made public on January 15, 2025, after being first mentioned in July 2024 in the EU Commission's Political Guidelines 2024-2029 document. It aims to help healthcare entities mitigate the rapidly increasing cyber threats they face.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 20, 2025
+January 20, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Weaponized Software Targets Chinese-Speaking Organizations<a href="https://intezer.com/blog/malware-analysis/weaponized-software-targets-chinese/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Weaponized Software Targets Chinese-Speaking Organizations<a href="https://intez
 This campaign stands out due to its unique focus on Chinese-speaking victims and organizations across China, Hong Kong, and Taiwan. It demonstrates an attack that broadly targets one specific demographic.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+INTEZER
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 20, 2025
+January 20, 2025 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FTC Orders GM to Stop Collecting and Selling Driver’s Data<a href="https://www.bleepingcomputer.com/news/legal/ftc-orders-gm-to-stop-collecting-and-selling-drivers-data/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ FTC Orders GM to Stop Collecting and Selling Driver’s Data<a href="https://www
 The Federal Trade Commission (FTC) is taking action against General Motors (GM) and its subsidiary, OnStar, for unlawful collection and selling drivers' precise geolocation and driving behavior data from millions of vehicles.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 20, 2025
+January 20, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New PoC Exploit Code Released for Zero-Day Vulnerability in Windows CLFS Driver<a href="https://securityonline.info/zero-day-vulnerability-in-windows-exploited-cve-2024-49138-poc-code-released/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ New PoC Exploit Code Released for Zero-Day Vulnerability in Windows CLFS Driver<
 The vulnerability, described as an elevation of privilege flaw, is linked to the CLFS Driver, a core Windows component used for logging system operations. Microsoft confirmed it had been actively exploited in the wild before the patch release.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 20, 2025
+January 20, 2025 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Python-Based Bots Exploiting PHP Servers Fuel Gambling Platform Proliferation<a href="https://thehackernews.com/2025/01/python-based-bots-exploiting-php.html?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Python-Based Bots Exploiting PHP Servers Fuel Gambling Platform Proliferation<a 
 The attack chains particularly involve attempts to deploy GSocket by leveraging web pre-existing web shells installed on already compromised servers. Most of the attacks have been found to single out servers running the popular LMS, Moodle.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 20, 2025
+January 20, 2025 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Noyb Files GDPR Complaints Against TikTok and Five Chinese Tech Giants<a href="https://www.infosecurity-magazine.com/news/noyb-gdpr-complaints-tiktok-temu/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Noyb Files GDPR Complaints Against TikTok and Five Chinese Tech Giants<a href="h
 The accused firms include AliExpress, Shein, Temu, TikTok, WeChat and Xiaomi. The non-profit alleges these companies unlawfully send Europeans’ personal data outside of the EU, especially to China.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 20, 2025
+January 20, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Moxa Warns of Critical Authorization Vulnerability in EDS-508A Series Ethernet Switches<a href="https://securityonline.info/cve-2024-12297-cvss-9-2-critical-authorization-vulnerability-in-moxa-eds-508a-series/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Moxa Warns of Critical Authorization Vulnerability in EDS-508A Series Ethernet S
 This flaw affects EDS-508A Series running the firmware version 3.11 and earlier. Moxa has developed a security patch to address the vulnerability. Administrators are encouraged to “contact Moxa Technical Support for the security patch.”
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 20, 2025
+January 20, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Black Basta Ransomware Exploits Microsoft Teams for Phishing Attacks<a href="https://securityonline.info/black-basta-exploits-microsoft-teams-for-phishing-attacks/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Black Basta Ransomware Exploits Microsoft Teams for Phishing Attacks<a href="htt
 The campaign begins with an email bombing strategy where victims’ inboxes are flooded with benign spam emails, such as newsletter subscriptions. This tactic aims to distract users and mask the malicious intent.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 20, 2025
+January 20, 2025 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FCC Enacts Rule Requiring Telecom Operators To Secure Networks<a href="https://www.cybersecuritydive.com/news/fcc-telecom-cyber-rules/737689/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ FCC Enacts Rule Requiring Telecom Operators To Secure Networks<a href="https://w
 The declaratory ruling, which took effect immediately, clarifies that telecom operators are legally obligated to secure networks under Section 105 of the Communications Assistance for Law Enforcement Act.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 20, 2025
+January 20, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaws in WGS-804HPT Switches Enable RCE and Network Exploitation<a href="https://thehackernews.com/2025/01/critical-flaws-in-wgs-804hpt-switches.html?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Critical Flaws in WGS-804HPT Switches Enable RCE and Network Exploitation<a href
 Successful exploitation of the flaws could permit an attacker to hijack the execution flow by embedding a shellcode in the HTTP request and gain the ability to execute operating system commands.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
