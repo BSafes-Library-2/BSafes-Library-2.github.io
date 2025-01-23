@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+January 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mirai Variant Murdoc Botnet Exploits AVTECH IP Cameras and Huawei Routers<a href="https://thehackernews.com/2025/01/murdocbotnet-found-exploiting-avtech-ip.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign is known to be active since at least July 2024, with over 1,370 systems infected to date. A majority of the infections have been located in Malaysia, Mexico, Thailand, Indonesia, and Vietnam.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 20, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

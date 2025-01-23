@@ -8,6 +8,34 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+January 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PlushDaemon APT Targets South Korean VPN Provider in Supply Chain Attack<a href="https://thehackernews.com/2025/01/plushdaemon-apt-targets-south-korean.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PlushDaemon is assessed to be a China-nexus group that has been operational since at least 2019, targeting individuals and entities in China, Taiwan, Hong Kong, South Korea, the United States, and New Zealand.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 21, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Found New Android Malware Linked to DoNot Team APT Group<a href="https://securityaffairs.com/173257/apt/donot-team-android-malware.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DoNot APT group has been observed misusing the OneSignal platform, which typically provides tools for sending push notifications, in-app messages, emails, and SMS. The group is leveraging OneSignal to deliver phishing links through notifications.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 3, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

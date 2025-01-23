@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New PoC Exploit Code Released for Zero-Day Vulnerability in Windows CLFS Driver<a href="https://securityonline.info/zero-day-vulnerability-in-windows-exploited-cve-2024-49138-poc-code-released/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, described as an elevation of privilege flaw, is linked to the CLFS Driver, a core Windows component used for logging system operations. Microsoft confirmed it had been actively exploited in the wild before the patch release.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Moxa Warns of Critical Authorization Vulnerability in EDS-508A Series Ethernet Switches<a href="https://securityonline.info/cve-2024-12297-cvss-9-2-critical-authorization-vulnerability-in-moxa-eds-508a-series/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This flaw affects EDS-508A Series running the firmware version 3.11 and earlier. Moxa has developed a security patch to address the vulnerability. Administrators are encouraged to “contact Moxa Technical Support for the security patch.”
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaws in WGS-804HPT Switches Enable RCE and Network Exploitation<a href="https://thehackernews.com/2025/01/critical-flaws-in-wgs-804hpt-switches.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Successful exploitation of the flaws could permit an attacker to hijack the execution flow by embedding a shellcode in the HTTP request and gain the ability to execute operating system commands.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 18, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
