@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 1, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FDA, CISA Warn About Vulnerabilities in Patient Health Monitors<a href="https://www.cybersecuritydive.com/news/FDA-CISA-patient-monitor-Contec/738919/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unauthorized users could control the monitors, interrupt their functions, or corrupt patient data. A backdoor in the software allows bypassing cybersecurity controls, exposing patient data.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 31, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Broadcom Patches VMware Aria Flaws – Exploits May Lead to Credential Theft<a href="https://thehackernews.com/2025/01/broadcom-patches-vmware-aria-flaws.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Broadcom has released security updates to patch five security flaws impacting VMware Aria Operations and Aria Operations for Logs, warning customers that attackers could exploit them to gain elevated access or obtain sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 22, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+January 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Homebrew Phishing Site Appears in Google Search, Raising Concerns<a href="https://securityonline.info/homebrew-phishing-site-appears-in-google-search-raising-concerns/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phishing website was designed to look identical to the official Homebrew website (brew.sh). However, when users clicked on the ad, they were redirected to a malicious website that contained installation code for a backdoor.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 18, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

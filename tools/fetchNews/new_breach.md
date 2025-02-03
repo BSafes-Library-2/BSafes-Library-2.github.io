@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+February 1, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Group's Latest Heist Hits Hundreds of Victims Globally<a href="https://www.theregister.com/2025/01/29/lazarus_groups_supply_chain_attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea's Lazarus Group compromised hundreds of victims across the globe in a massive secret-stealing supply chain attack that was ongoing as of earlier this month, according to security researchers.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 31, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Solana Pump.fun Tool DogWifTool Compromised to Drain Crypto Wallets<a href="https://www.bleepingcomputer.com/news/security/solana-pumpfun-tool-dogwiftool-compromised-to-drain-wallets/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers have compromised the Windows version of the DogWifTools software for promoting meme coins on the Solana blockchain in a supply-chain attack that drained users' wallets.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 14, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

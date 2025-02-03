@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+February 1, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Syncjacking Attack Enables Full Browser and Device Takeover<a href="https://www.infosecurity-magazine.com/news/full-browser-device-takeover/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new attack method, discovered by security researchers at SquareX, involves several steps, including Google profile hijacking, browser hijacking, and, eventually, device takeover.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 1, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HTTP Client Tools Exploitation for Account Takeover Attacks<a href="https://www.proofpoint.com/us/blog/threat-insight/http-client-tools-exploitation-account-takeover-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Most HTTP-based cloud attacks utilize brute force methods, resulting in low success rates. Proofpoint found that a recent campaign using the unique HTTP client Axios had an especially high success rate, compromising 43% of targeted user accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Proofpoint
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 31, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stealthy Attack Deploys Coyote Banking Trojan via LNK Files<a href="https://www.fortinet.com/blog/threat-research/coyote-banking-trojan-a-stealthy-attack-via-lnk-files?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Once deployed, the Coyote Banking Trojan can carry out various malicious activities, including keylogging, capturing screenshots, and displaying phishing overlays to steal sensitive credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 22, 2025 <br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

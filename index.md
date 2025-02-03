@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 1, 2025
+February 1, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus Group's Latest Heist Hits Hundreds of Victims Globally<a href="https://www.theregister.com/2025/01/29/lazarus_groups_supply_chain_attack/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Lazarus Group's Latest Heist Hits Hundreds of Victims Globally<a href="https://w
 North Korea's Lazarus Group compromised hundreds of victims across the globe in a massive secret-stealing supply chain attack that was ongoing as of earlier this month, according to security researchers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 1, 2025
+February 1, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Syncjacking Attack Enables Full Browser and Device Takeover<a href="https://www.infosecurity-magazine.com/news/full-browser-device-takeover/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Syncjacking Attack Enables Full Browser and Device Takeover<a href="https://www.
 The new attack method, discovered by security researchers at SquareX, involves several steps, including Google profile hijacking, browser hijacking, and, eventually, device takeover.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 1, 2025
+February 1, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FDA, CISA Warn About Vulnerabilities in Patient Health Monitors<a href="https://www.cybersecuritydive.com/news/FDA-CISA-patient-monitor-Contec/738919/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ FDA, CISA Warn About Vulnerabilities in Patient Health Monitors<a href="https://
 Unauthorized users could control the monitors, interrupt their functions, or corrupt patient data. A backdoor in the software allows bypassing cybersecurity controls, exposing patient data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 1, 2025
+February 1, 2025 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CL-STA-0048 Espionage Operation Takes Aim at High-Value Targets in South Asia<a href="https://unit42.paloaltonetworks.com/espionage-campaign-targets-south-asian-entities/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ CL-STA-0048 Espionage Operation Takes Aim at High-Value Targets in South Asia<a 
 The campaign primarily aimed to obtain the personal information of government employees and steal sensitive data from targeted organizations. These objectives bear the hallmarks of a nation-state advanced persistent threat (APT) espionage operation.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Palo Alto Networks
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 1, 2025
+February 1, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HTTP Client Tools Exploitation for Account Takeover Attacks<a href="https://www.proofpoint.com/us/blog/threat-insight/http-client-tools-exploitation-account-takeover-attacks?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ HTTP Client Tools Exploitation for Account Takeover Attacks<a href="https://www.
 Most HTTP-based cloud attacks utilize brute force methods, resulting in low success rates. Proofpoint found that a recent campaign using the unique HTTP client Axios had an especially high success rate, compromising 43% of targeted user accounts.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Proofpoint
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 31, 2025
+January 31, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Technical Analysis of Xloader Versions 6 and 7<a href="https://www.zscaler.com/blogs/security-research/technical-analysis-xloader-versions-6-and-7-part-1?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Technical Analysis of Xloader Versions 6 and 7<a href="https://www.zscaler.com/b
 Xloader is known for its ability to steal sensitive information from web browsers, email clients, and FTP applications, as well as deploy second-stage payloads on infected systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ZScalar
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 31, 2025
+January 31, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stealthy Attack Deploys Coyote Banking Trojan via LNK Files<a href="https://www.fortinet.com/blog/threat-research/coyote-banking-trojan-a-stealthy-attack-via-lnk-files?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Stealthy Attack Deploys Coyote Banking Trojan via LNK Files<a href="https://www.
 Once deployed, the Coyote Banking Trojan can carry out various malicious activities, including keylogging, capturing screenshots, and displaying phishing overlays to steal sensitive credentials.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Fortinet
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 31, 2025
+January 31, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Seizes Cracked.io, Nulled.to Hacking Forums in Operation Talent<a href="https://www.bleepingcomputer.com/news/security/fbi-seizes-crackedio-nulledto-hacking-forums-in-operation-talent/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ FBI Seizes Cracked.io, Nulled.to Hacking Forums in Operation Talent<a href="http
 The FBI has seized the domains for the infamous Cracked.io and Nulled.to hacking forums, which are known for their focus on cybercrime, password theft, cracking, and credential stuffing attacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 31, 2025
+January 31, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Solana Pump.fun Tool DogWifTool Compromised to Drain Crypto Wallets<a href="https://www.bleepingcomputer.com/news/security/solana-pumpfun-tool-dogwiftool-compromised-to-drain-wallets/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Solana Pump.fun Tool DogWifTool Compromised to Drain Crypto Wallets<a href="http
 Hackers have compromised the Windows version of the DogWifTools software for promoting meme coins on the Solana blockchain in a supply-chain attack that drained users' wallets.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 31, 2025
+January 31, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Broadcom Patches VMware Aria Flaws – Exploits May Lead to Credential Theft<a href="https://thehackernews.com/2025/01/broadcom-patches-vmware-aria-flaws.html?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Broadcom Patches VMware Aria Flaws – Exploits May Lead to Credential Theft<a h
 Broadcom has released security updates to patch five security flaws impacting VMware Aria Operations and Aria Operations for Logs, warning customers that attackers could exploit them to gain elevated access or obtain sensitive information.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

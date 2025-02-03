@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+February 1, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CL-STA-0048 Espionage Operation Takes Aim at High-Value Targets in South Asia<a href="https://unit42.paloaltonetworks.com/espionage-campaign-targets-south-asian-entities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign primarily aimed to obtain the personal information of government employees and steal sensitive data from targeted organizations. These objectives bear the hallmarks of a nation-state advanced persistent threat (APT) espionage operation.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 22, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

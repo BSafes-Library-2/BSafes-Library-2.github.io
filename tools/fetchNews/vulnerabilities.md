@@ -8,6 +8,76 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Apache Ambari Security Vulnerabilities Discovered<a href="https://securityonline.info/critical-apache-ambari-security-vulnerabilities-discovered-what-you-need-to-know/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These vulnerabilities (CVE-2025-23195, CVE-2025-23196, and CVE-2024-51941), ranging from moderate to important severity, could allow attackers to gain unauthorized access to sensitive data and execute malicious code on vulnerable systems.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Node.js Vulnerability Exposes Sensitive Data and Resources<a href="https://securityonline.info/cve-2025-23083-node-js-vulnerability-exposes-sensitive-data-and-resources/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2025-23083, affects Node.js versions 20, 22, and 23. It exists in the diagnostics_channel utility, which can be used to hook into events, including worker thread creation.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw in AdForest Theme Allows Complete Account Takeover, Thousands of Sites at Risk<a href="https://securityonline.info/cve-2024-12857-critical-flaw-in-adforest-theme-allows-complete-account-takeover-thousands-of-sites-at-risk/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A severe security flaw (CVE-2024-12857) has been discovered in the AdForest WordPress theme, a popular premium classified ads theme with over 8,743 sales globally. This vulnerability, rated CVSS 9.8, allows attackers to bypass authentication.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ChatGPT Crawler Vulnerability can Enable DDoS Attacks via HTTP Requests<a href="https://securityonline.info/chatgpt-crawler-vulnerability-ddos-attacks-via-http-requests/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This intriguing flaw was reported by cybersecurity researcher Benjamin Flesch. According to him, a single HTTP request to the ChatGPT API could trigger a flood of unrelenting network requests targeting a specific web resource.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unsecured Tunneling Protocols Expose 4.2 Million Hosts, Including VPNs and Routers<a href="https://thehackernews.com/2025/01/unsecured-tunneling-protocols-expose-42.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as 4.2 million hosts have been found susceptible to the attacks, including VPN servers, ISP home routers, core internet routers, mobile network gateways, and content delivery network (CDN) nodes.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 20, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
