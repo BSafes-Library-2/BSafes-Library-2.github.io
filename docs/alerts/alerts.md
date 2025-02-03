@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2025 - FDA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Vulnerabilities with Certain Patient Monitors from Contec and Epsimed: FDA Safety Communication <a href="https://www.fda.gov/medical-devices/safety-communications/cybersecurity-vulnerabilities-certain-patient-monitors-contec-and-epsimed-fda-safety-communication"> Full Text</a>
+</p>
+<details>
+The U.S. Food and Drug Administration (FDA) is raising awareness among health care providers, health care facilities, patients, and caregivers that cybersecurity vulnerabilities in Contec CMS8000 patient monitors and Epsimed MN-120 patient monitors (which are Contec CMS8000 patient monitors relabeled as MN-120) may put patients at risk after being connected to the internet.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 13, 2025 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
