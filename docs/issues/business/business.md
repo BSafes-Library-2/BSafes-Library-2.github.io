@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+February 3, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Seraphic Raises $29M to Secure Browsers in the Enterprise<a href="https://siliconangle.com/2025/01/30/seraphic-raises-29m-secure-browsers-enterprise/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series A funding round was led by GreatPoint Ventures (GPV), with participation from the CrowdStrike Falcon Fund and existing investors Planven, Cota Capital, and Storm Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Silicon Angle
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 3, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oligo Security Raises $50M in Series B Funding<a href="https://www.finsmes.com/2025/01/oligo-security-raises-50m-in-series-b-funding.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The round was led by Greenfield Partners, with participation from Red Dot Capital Partners, Strait Capital, and existing investors Ballistic Ventures, Lightspeed Venture Partners, and TLV Partners.
+</details>
+<div style="text-align: right" markdown="1">
+Finsmes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 13, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

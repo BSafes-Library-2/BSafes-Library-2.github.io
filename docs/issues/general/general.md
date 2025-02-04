@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+February 3, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeepSeek’s Popularity Sparks Surge in Crypto Phishing and Malware Campaigns<a href="https://thecyberexpress.com/deepseeks-surge-sparks-malware-campaigns/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Following the DeepSeek’s rapid popularity, a concerning trend has emerged. Cybercriminals have begun to exploit its growing recognition to launch scams and malware campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 3, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Details Nefarious Gemini Use by Iranian, Chinese, and North Korean Hackers<a href="https://www.theregister.com/2025/01/31/state_spies_google_gemini/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While state-backed actors have successfully used Gemini for tasks such as creating phishing content and gathering information on surveillance targets, Google has indicated that its protective measures have prevented the generation of malware.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 13, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

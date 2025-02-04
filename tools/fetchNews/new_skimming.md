@@ -8,6 +8,20 @@ nav_order: 900190
 
 ## Skimming
 ---
+February 3, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Double-Entry Web Skimming Attack Campaign Hits 17 Websites<a href="https://hackread.com/casio-16-websites-double-entry-web-skimming-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Interestingly, unlike typical skimmers that target checkout pages, this one targeted the cart page. It intercepted the checkout button click and presented users with a fake, multi-step payment form within a pop-up window.
+</details>
+<div style="text-align: right" markdown="1">
+HackRead
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 10, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
