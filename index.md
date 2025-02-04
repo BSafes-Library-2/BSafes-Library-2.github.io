@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 3, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MediaTek Warns of Critical WLAN Vulnerabilities Expose Millions to Remote Attacks<a href="https://securityonline.info/mediateks-february-2025-security-bulletin-critical-wlan-vulnerabilities-expose-millions-to-remote-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three particularly concerning vulnerabilities (CVE-2025-20633, CVE-2025-20632, CVE-2025-20631) reside in the WLAN AP driver. An incorrect bounds check could allow remote code execution without needing any additional privileges or user interaction.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 3, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Use Fake Wedding Invitations to Spread Android Malware in Southeast Asia<a href="https://therecord.media/hackers-wedding-invitations-southeast-asia?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The primary goal of the attackers appears to be gaining full control of victims’ WhatsApp and Telegram accounts, allowing them to spread malware further or send fraudulent money requests to contacts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 3, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Double-Entry Web Skimming Attack Campaign Hits 17 Websites<a href="https://hackread.com/casio-16-websites-double-entry-web-skimming-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Interestingly, unlike typical skimmers that target checkout pages, this one targeted the cart page. It intercepted the checkout button click and presented users with a fake, multi-step payment form within a pop-up window.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 3, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeepSeek’s Popularity Sparks Surge in Crypto Phishing and Malware Campaigns<a href="https://thecyberexpress.com/deepseeks-surge-sparks-malware-campaigns/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Following the DeepSeek’s rapid popularity, a concerning trend has emerged. Cybercriminals have begun to exploit its growing recognition to launch scams and malware campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 3, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Seraphic Raises $29M to Secure Browsers in the Enterprise<a href="https://siliconangle.com/2025/01/30/seraphic-raises-29m-secure-browsers-enterprise/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series A funding round was led by GreatPoint Ventures (GPV), with participation from the CrowdStrike Falcon Fund and existing investors Planven, Cota Capital, and Storm Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 3, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: PoC Exploit Released for macOS Kernel Vulnerability<a href="https://securityonline.info/poc-exploit-released-for-macos-kernel-vulnerability-cve-2025-24118-cvss-9-8/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered race condition in Apple’s macOS kernel (XNU) could allow attackers to escalate privileges, corrupt memory, and potentially achieve kernel-level code execution, according to security researcher Joseph Ravichandran of MIT CSAIL.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 3, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Details Nefarious Gemini Use by Iranian, Chinese, and North Korean Hackers<a href="https://www.theregister.com/2025/01/31/state_spies_google_gemini/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While state-backed actors have successfully used Gemini for tasks such as creating phishing content and gathering information on surveillance targets, Google has indicated that its protective measures have prevented the generation of malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 3, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+End-of-Life D-Link Routers Vulnerable to Unauthenticated RCE<a href="https://securityonline.info/cve-2024-57376-end-of-life-d-link-routers-vulnerable-to-unauthenticated-rce/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The affected routers, including D-Link DSR-150, DSR-150N, DSR-250, DSR-250N, DSR-500N, and DSR-1000N, reached their end-of-life (EOL) status in 2015 and 2024, meaning they no longer receive security updates or support from D-Link.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 3, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta Confirms Zero-Click WhatsApp Spyware Attack Targeting 90 Journalists, Activists<a href="https://thehackernews.com/2025/02/meta-confirms-zero-click-whatsapp.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign, which targeted around 90 members, involved the use of spyware from an Israeli company known as Paragon Solutions. The attackers were neutralized in December 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 3, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oligo Security Raises $50M in Series B Funding<a href="https://www.finsmes.com/2025/01/oligo-security-raises-50m-in-series-b-funding.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The round was led by Greenfield Partners, with participation from Red Dot Capital Partners, Strait Capital, and existing investors Ballistic Ventures, Lightspeed Venture Partners, and TLV Partners.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 1, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
