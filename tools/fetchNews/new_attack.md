@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+February 4, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kazakhstan to Audit Foreign Ministry After Suspected Russia-Linked Cyberattack<a href="https://therecord.media/kazakhstan-foreign-ministry-cyberattack-russia?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hacker group behind this operation — tracked as UAC-0063 — is potentially linked to the Russian state-sponsored threat actor APT28, also known as Fancy Bear or BlueDelta.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 3, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

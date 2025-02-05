@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+February 3, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta Confirms Zero-Click WhatsApp Spyware Attack Targeting 90 Journalists, Activists<a href="https://thehackernews.com/2025/02/meta-confirms-zero-click-whatsapp.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign, which targeted around 90 members, involved the use of spyware from an Israeli company known as Paragon Solutions. The attackers were neutralized in December 2024.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 1, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

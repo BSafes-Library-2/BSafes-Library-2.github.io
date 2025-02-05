@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 3, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MediaTek Warns of Critical WLAN Vulnerabilities Expose Millions to Remote Attacks<a href="https://securityonline.info/mediateks-february-2025-security-bulletin-critical-wlan-vulnerabilities-expose-millions-to-remote-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three particularly concerning vulnerabilities (CVE-2025-20633, CVE-2025-20632, CVE-2025-20631) reside in the WLAN AP driver. An incorrect bounds check could allow remote code execution without needing any additional privileges or user interaction.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 3, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: PoC Exploit Released for macOS Kernel Vulnerability<a href="https://securityonline.info/poc-exploit-released-for-macos-kernel-vulnerability-cve-2025-24118-cvss-9-8/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered race condition in Apple’s macOS kernel (XNU) could allow attackers to escalate privileges, corrupt memory, and potentially achieve kernel-level code execution, according to security researcher Joseph Ravichandran of MIT CSAIL.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 3, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+End-of-Life D-Link Routers Vulnerable to Unauthenticated RCE<a href="https://securityonline.info/cve-2024-57376-end-of-life-d-link-routers-vulnerable-to-unauthenticated-rce/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The affected routers, including D-Link DSR-150, DSR-150N, DSR-250, DSR-250N, DSR-500N, and DSR-1000N, reached their end-of-life (EOL) status in 2015 and 2024, meaning they no longer receive security updates or support from D-Link.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 1, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
