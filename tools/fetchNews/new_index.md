@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 3, 2025
+February 4, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Package Exploits Go Module Proxy Caching for Persistence<a href="https://socket.dev/blog/malicious-package-exploits-go-module-proxy-caching-for-persistence?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Socket researchers discovered a malicious typosquat package in the Go ecosystem, impersonating the widely used BoltDB database module (github.com/boltdb/bolt), a tool trusted by many organizations including Shopify and Heroku.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 4, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: PoC Privilege Escalation Exploit Revealed for Active Directory Domain Services<a href="https://securityonline.info/privilege-escalation-in-active-directory-domain-services-cve-2025-21293-exploit-revealed-with-poc-code/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exploit takes advantage of Windows Performance Counters, a mechanism that allows applications and services to register monitoring routines via PerfMon.exe or Windows Management Instrumentation (WMI).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 4, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fully Undetectable macOS Backdoor Called "Tiny FUD" Discovered<a href="https://securityonline.info/tiny-fud-fully-undetectable-macos-backdoor-discovered/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This stealthy macOS malware leverages process name manipulation, DYLD injection, and C2-based command execution to operate undetected, making it a significant threat to Apple users.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 4, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AMD SEV-SNP Vulnerability Allows Malicious Microcode Injection with Admin Access<a href="https://thehackernews.com/2025/02/amd-sev-snp-vulnerability-allows.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security vulnerability has been disclosed in AMD's Secure Encrypted Virtualization (SEV) that could permit an attacker to load a malicious CPU microcode under specific conditions. The flaw, tracked as CVE-2024-56161, carries a CVSS score of 7.2.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 4, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeepSeek AI Tools Impersonated by Info-Stealer Malware on PyPI<a href="https://www.bleepingcomputer.com/news/security/deepseek-ai-tools-impersonated-by-infostealer-malware-on-pypi/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Positive Technologies researchers who discovered the campaign and reported it to PyPI, the packages posing as Python clients for DeepSeek AI were infostealers that stole data from developers who utilized them.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 4, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patches Critical Azure AI Face Service Vulnerability with CVSS 9.9 Score<a href="https://thehackernews.com/2025/02/microsoft-patches-critical-azure-ai.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released patches to address two Critical-rated security flaws impacting Azure AI Face Service and Microsoft Account that could allow a malicious actor to escalate their privileges under certain conditions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 4, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+7-Zip Vulnerability Exploited in Attacks on Ukraine<a href="https://securityonline.info/cve-2025-0411-7-zip-vulnerability-exploited-in-attacks-on-ukraine/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2025-0411, allows attackers to bypass Windows Mark-of-the-Web (MOTW) protections, which are designed to prevent the execution of malicious files downloaded from the internet.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 4, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Fixes Android Kernel Zero-Day Exploited in Attacks<a href="https://www.bleepingcomputer.com/news/security/google-fixes-android-kernel-zero-day-exploited-in-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This high-severity zero-day (tracked as CVE-2024-53104) is a privilege escalation security flaw in the Android Kernel's USB Video Class driver that allows authenticated local threat actors to elevate privileges in low-complexity attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 4, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft SharePoint Connector Flaw Could Have Enabled Credential Theft Across Power Platform<a href="https://thehackernews.com/2025/02/microsoft-sharepoint-connector-flaw.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, at its core, is an instance of server-side request forgery (SSRF) stemming from the use of the "custom value" functionality within the SharePoint connector that permits an attacker to insert their own URLs as part of a flow.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 4, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kazakhstan to Audit Foreign Ministry After Suspected Russia-Linked Cyberattack<a href="https://therecord.media/kazakhstan-foreign-ministry-cyberattack-russia?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hacker group behind this operation — tracked as UAC-0063 — is potentially linked to the Russian state-sponsored threat actor APT28, also known as Fancy Bear or BlueDelta.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 3, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MediaTek Warns of Critical WLAN Vulnerabilities Expose Millions to Remote Attacks<a href="https://securityonline.info/mediateks-february-2025-security-bulletin-critical-wlan-vulnerabilities-expose-millions-to-remote-attacks/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ MediaTek Warns of Critical WLAN Vulnerabilities Expose Millions to Remote Attack
 Three particularly concerning vulnerabilities (CVE-2025-20633, CVE-2025-20632, CVE-2025-20631) reside in the WLAN AP driver. An incorrect bounds check could allow remote code execution without needing any additional privileges or user interaction.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 3, 2025
+February 3, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Use Fake Wedding Invitations to Spread Android Malware in Southeast Asia<a href="https://therecord.media/hackers-wedding-invitations-southeast-asia?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Hackers Use Fake Wedding Invitations to Spread Android Malware in Southeast Asia
 The primary goal of the attackers appears to be gaining full control of victims’ WhatsApp and Telegram accounts, allowing them to spread malware further or send fraudulent money requests to contacts.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 3, 2025
+February 3, 2025 -- [Skimming](/docs/issues/skimming/skimming/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Double-Entry Web Skimming Attack Campaign Hits 17 Websites<a href="https://hackread.com/casio-16-websites-double-entry-web-skimming-attack/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Double-Entry Web Skimming Attack Campaign Hits 17 Websites<a href="https://hackr
 Interestingly, unlike typical skimmers that target checkout pages, this one targeted the cart page. It intercepted the checkout button click and presented users with a fake, multi-step payment form within a pop-up window.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+HackRead
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 3, 2025
+February 3, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DeepSeek’s Popularity Sparks Surge in Crypto Phishing and Malware Campaigns<a href="https://thecyberexpress.com/deepseeks-surge-sparks-malware-campaigns/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ DeepSeek’s Popularity Sparks Surge in Crypto Phishing and Malware Campaigns<a 
 Following the DeepSeek’s rapid popularity, a concerning trend has emerged. Cybercriminals have begun to exploit its growing recognition to launch scams and malware campaigns.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 3, 2025
+February 3, 2025 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Seraphic Raises $29M to Secure Browsers in the Enterprise<a href="https://siliconangle.com/2025/01/30/seraphic-raises-29m-secure-browsers-enterprise/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Seraphic Raises $29M to Secure Browsers in the Enterprise<a href="https://silico
 The Series A funding round was led by GreatPoint Ventures (GPV), with participation from the CrowdStrike Falcon Fund and existing investors Planven, Cota Capital, and Storm Ventures.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Silicon Angle
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 3, 2025
+February 3, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: PoC Exploit Released for macOS Kernel Vulnerability<a href="https://securityonline.info/poc-exploit-released-for-macos-kernel-vulnerability-cve-2025-24118-cvss-9-8/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Update: PoC Exploit Released for macOS Kernel Vulnerability<a href="https://secu
 A newly discovered race condition in Apple’s macOS kernel (XNU) could allow attackers to escalate privileges, corrupt memory, and potentially achieve kernel-level code execution, according to security researcher Joseph Ravichandran of MIT CSAIL.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 3, 2025
+February 3, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Details Nefarious Gemini Use by Iranian, Chinese, and North Korean Hackers<a href="https://www.theregister.com/2025/01/31/state_spies_google_gemini/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Google Details Nefarious Gemini Use by Iranian, Chinese, and North Korean Hacker
 While state-backed actors have successfully used Gemini for tasks such as creating phishing content and gathering information on surveillance targets, Google has indicated that its protective measures have prevented the generation of malware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 3, 2025
+February 3, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 End-of-Life D-Link Routers Vulnerable to Unauthenticated RCE<a href="https://securityonline.info/cve-2024-57376-end-of-life-d-link-routers-vulnerable-to-unauthenticated-rce/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ End-of-Life D-Link Routers Vulnerable to Unauthenticated RCE<a href="https://sec
 The affected routers, including D-Link DSR-150, DSR-150N, DSR-250, DSR-250N, DSR-500N, and DSR-1000N, reached their end-of-life (EOL) status in 2015 and 2024, meaning they no longer receive security updates or support from D-Link.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 3, 2025
+February 3, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meta Confirms Zero-Click WhatsApp Spyware Attack Targeting 90 Journalists, Activists<a href="https://thehackernews.com/2025/02/meta-confirms-zero-click-whatsapp.html?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Meta Confirms Zero-Click WhatsApp Spyware Attack Targeting 90 Journalists, Activ
 The campaign, which targeted around 90 members, involved the use of spyware from an Israeli company known as Paragon Solutions. The attackers were neutralized in December 2024.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 3, 2025
+February 3, 2025 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Oligo Security Raises $50M in Series B Funding<a href="https://www.finsmes.com/2025/01/oligo-security-raises-50m-in-series-b-funding.html?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Oligo Security Raises $50M in Series B Funding<a href="https://www.finsmes.com/2
 The round was led by Greenfield Partners, with participation from Red Dot Capital Partners, Strait Capital, and existing investors Ballistic Ventures, Lightspeed Venture Partners, and TLV Partners.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Finsmes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
