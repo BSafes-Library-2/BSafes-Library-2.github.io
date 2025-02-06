@@ -34,7 +34,151 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 4, 2025
+February 5, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Four Actively Exploited Vulnerabilities to KEV Catalog, Urges Fixes by February 25<a href="https://thehackernews.com/2025/02/cisa-adds-four-actively-exploited.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These include forced browsing in Apache OFBiz (CVE-2024-45195), information disclosure in Microsoft .NET Framework (CVE-2024-29059), and OS command injection and local file inclusion in Paessler PRTG Network Monitor (CVE-2018-9276, CVE-2018-19410).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 5, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Aim to Lure Traitorous Insiders via Ransom Notes<a href="https://www.darkreading.com/threat-intelligence/cybercriminals-traitorous-insiders-ransom-notes?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware actors are now using a new tactic by offering individuals millions of dollars to betray their employers and share confidential company information. These actors include groups like Sarcoma and DoNex.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 5, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Netgear Warns Users to Patch Critical WiFi Router Vulnerabilities<a href="https://www.bleepingcomputer.com/news/security/netgear-warns-users-to-patch-critical-wifi-router-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The two critical security vulnerabilities impact multiple WiFi 6 access points (WAX206, WAX214v2, and WAX220) and Nighthawk Pro Gaming router models (XR1000, XR1000v2, XR500).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 5, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State-Linked Hackers Deploy New FlexibleFerret macOS Malware in Fake Job Interview Campaign<a href="https://www.cybersecuritydive.com/news/north-korean-hackers--fake-interview/739165/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple addressed several variants of the macOS malware family in a signature update for XProtect last week. However, the North Korean threat actors adapted to the update by deploying FlexibleFerret, which is not detected by XProtect.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 5, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Veeam Backup Vulnerability Enables Remote Code Execution<a href="https://securityonline.info/cve-2025-23114-cvss-9-0-critical-veeam-backup-vulnerability-enables-remote-code-execution/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability affects a wide range of Veeam products, including Veeam Backup for Salesforce, Nutanix AHV, AWS, Microsoft Azure, Google Cloud, Oracle Linux Virtualization Manager, and Red Hat Virtualization.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 5, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Russian Threat Group Hacks Into U.S. Oil and Gas Facilities<a href="https://thecyberexpress.com/new-russian-threat-group-hacks-u-s-energy/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sector 16 claimed sole responsibility for hacking into the control systems of a U.S. oil and gas production facility, and released a video “purportedly demonstrating their access to the facility’s operational data and systems,” Cyble said.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 5, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian Organizations Targeted in Zero-Day Campaign and Homoglyph Attacks<a href="https://www.trendmicro.com/en_us/research/25/a/cve-2025-0411-ukrainian-organizations-targeted.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability was actively exploited by Russian cybercrime groups through spear-phishing campaigns, using homoglyph attacks to spoof document extensions and trick users and the Windows Operating System into executing malicious files.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 5, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: PoC Exploit Released for Linux Kernel Enabling Privilege Escalation and Container Escape<a href="https://securityonline.info/poc-releases-for-linux-kernel-flaw-cve-2024-36972-double-free-flaw-enables-privilege-escalation-and-container-escape/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability affects various Linux kernel versions, including v6.8 to v6.9, v5.15.147, v6.1.78, and v6.6.17. System administrators are advised to upgrade to patched versions immediately.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 5, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AsyncRAT Abusing Python and Cloudflare Tunnels for Stealthy Malware Delivery<a href="https://gbhackers.com/asyncrat-abusing-python-and-trycloudflare/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AsyncRAT, known for its asynchronous communication capabilities, enables attackers to control compromised systems, exfiltrate sensitive data, and execute commands undetected.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 4, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Package Exploits Go Module Proxy Caching for Persistence<a href="https://socket.dev/blog/malicious-package-exploits-go-module-proxy-caching-for-persistence?&web_view=true"> Full Text</a>
@@ -44,13 +188,13 @@ Malicious Package Exploits Go Module Proxy Caching for Persistence<a href="https
 Socket researchers discovered a malicious typosquat package in the Go ecosystem, impersonating the widely used BoltDB database module (github.com/boltdb/bolt), a tool trusted by many organizations including Shopify and Heroku.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Socket
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 4, 2025
+February 4, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: PoC Privilege Escalation Exploit Revealed for Active Directory Domain Services<a href="https://securityonline.info/privilege-escalation-in-active-directory-domain-services-cve-2025-21293-exploit-revealed-with-poc-code/?&web_view=true"> Full Text</a>
@@ -60,13 +204,13 @@ Update: PoC Privilege Escalation Exploit Revealed for Active Directory Domain Se
 The exploit takes advantage of Windows Performance Counters, a mechanism that allows applications and services to register monitoring routines via PerfMon.exe or Windows Management Instrumentation (WMI).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 4, 2025
+February 4, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fully Undetectable macOS Backdoor Called "Tiny FUD" Discovered<a href="https://securityonline.info/tiny-fud-fully-undetectable-macos-backdoor-discovered/?&web_view=true"> Full Text</a>
@@ -76,13 +220,13 @@ Fully Undetectable macOS Backdoor Called "Tiny FUD" Discovered<a href="https://s
 This stealthy macOS malware leverages process name manipulation, DYLD injection, and C2-based command execution to operate undetected, making it a significant threat to Apple users.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 4, 2025
+February 4, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AMD SEV-SNP Vulnerability Allows Malicious Microcode Injection with Admin Access<a href="https://thehackernews.com/2025/02/amd-sev-snp-vulnerability-allows.html?&web_view=true"> Full Text</a>
@@ -92,13 +236,13 @@ AMD SEV-SNP Vulnerability Allows Malicious Microcode Injection with Admin Access
 A security vulnerability has been disclosed in AMD's Secure Encrypted Virtualization (SEV) that could permit an attacker to load a malicious CPU microcode under specific conditions. The flaw, tracked as CVE-2024-56161, carries a CVSS score of 7.2.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 4, 2025
+February 4, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DeepSeek AI Tools Impersonated by Info-Stealer Malware on PyPI<a href="https://www.bleepingcomputer.com/news/security/deepseek-ai-tools-impersonated-by-infostealer-malware-on-pypi/?&web_view=true"> Full Text</a>
@@ -108,13 +252,13 @@ DeepSeek AI Tools Impersonated by Info-Stealer Malware on PyPI<a href="https://w
 According to Positive Technologies researchers who discovered the campaign and reported it to PyPI, the packages posing as Python clients for DeepSeek AI were infostealers that stole data from developers who utilized them.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 4, 2025
+February 4, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Patches Critical Azure AI Face Service Vulnerability with CVSS 9.9 Score<a href="https://thehackernews.com/2025/02/microsoft-patches-critical-azure-ai.html?&web_view=true"> Full Text</a>
@@ -124,13 +268,13 @@ Microsoft Patches Critical Azure AI Face Service Vulnerability with CVSS 9.9 Sco
 Microsoft has released patches to address two Critical-rated security flaws impacting Azure AI Face Service and Microsoft Account that could allow a malicious actor to escalate their privileges under certain conditions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 4, 2025
+February 4, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 7-Zip Vulnerability Exploited in Attacks on Ukraine<a href="https://securityonline.info/cve-2025-0411-7-zip-vulnerability-exploited-in-attacks-on-ukraine/?&web_view=true"> Full Text</a>
@@ -140,13 +284,13 @@ February 4, 2025
 The vulnerability, tracked as CVE-2025-0411, allows attackers to bypass Windows Mark-of-the-Web (MOTW) protections, which are designed to prevent the execution of malicious files downloaded from the internet.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 4, 2025
+February 4, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Fixes Android Kernel Zero-Day Exploited in Attacks<a href="https://www.bleepingcomputer.com/news/security/google-fixes-android-kernel-zero-day-exploited-in-attacks/?&web_view=true"> Full Text</a>
@@ -156,13 +300,13 @@ Google Fixes Android Kernel Zero-Day Exploited in Attacks<a href="https://www.bl
 This high-severity zero-day (tracked as CVE-2024-53104) is a privilege escalation security flaw in the Android Kernel's USB Video Class driver that allows authenticated local threat actors to elevate privileges in low-complexity attacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 4, 2025
+February 4, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft SharePoint Connector Flaw Could Have Enabled Credential Theft Across Power Platform<a href="https://thehackernews.com/2025/02/microsoft-sharepoint-connector-flaw.html?&web_view=true"> Full Text</a>
@@ -172,13 +316,13 @@ Microsoft SharePoint Connector Flaw Could Have Enabled Credential Theft Across P
 The vulnerability, at its core, is an instance of server-side request forgery (SSRF) stemming from the use of the "custom value" functionality within the SharePoint connector that permits an attacker to insert their own URLs as part of a flow.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 4, 2025
+February 4, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kazakhstan to Audit Foreign Ministry After Suspected Russia-Linked Cyberattack<a href="https://therecord.media/kazakhstan-foreign-ministry-cyberattack-russia?&web_view=true"> Full Text</a>
@@ -188,7 +332,7 @@ Kazakhstan to Audit Foreign Ministry After Suspected Russia-Linked Cyberattack<a
 The hacker group behind this operation — tracked as UAC-0063 — is potentially linked to the Russian state-sponsored threat actor APT28, also known as Fancy Bear or BlueDelta.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
