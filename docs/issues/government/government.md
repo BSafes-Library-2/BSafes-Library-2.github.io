@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+February 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Four Actively Exploited Vulnerabilities to KEV Catalog, Urges Fixes by February 25<a href="https://thehackernews.com/2025/02/cisa-adds-four-actively-exploited.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These include forced browsing in Apache OFBiz (CVE-2024-45195), information disclosure in Microsoft .NET Framework (CVE-2024-29059), and OS command injection and local file inclusion in Paessler PRTG Network Monitor (CVE-2018-9276, CVE-2018-19410).
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 20, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

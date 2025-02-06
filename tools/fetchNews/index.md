@@ -34,6 +34,150 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 5, 2025 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Four Actively Exploited Vulnerabilities to KEV Catalog, Urges Fixes by February 25<a href="https://thehackernews.com/2025/02/cisa-adds-four-actively-exploited.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These include forced browsing in Apache OFBiz (CVE-2024-45195), information disclosure in Microsoft .NET Framework (CVE-2024-29059), and OS command injection and local file inclusion in Paessler PRTG Network Monitor (CVE-2018-9276, CVE-2018-19410).
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 5, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Aim to Lure Traitorous Insiders via Ransom Notes<a href="https://www.darkreading.com/threat-intelligence/cybercriminals-traitorous-insiders-ransom-notes?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware actors are now using a new tactic by offering individuals millions of dollars to betray their employers and share confidential company information. These actors include groups like Sarcoma and DoNex.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 5, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Netgear Warns Users to Patch Critical WiFi Router Vulnerabilities<a href="https://www.bleepingcomputer.com/news/security/netgear-warns-users-to-patch-critical-wifi-router-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The two critical security vulnerabilities impact multiple WiFi 6 access points (WAX206, WAX214v2, and WAX220) and Nighthawk Pro Gaming router models (XR1000, XR1000v2, XR500).
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 5, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State-Linked Hackers Deploy New FlexibleFerret macOS Malware in Fake Job Interview Campaign<a href="https://www.cybersecuritydive.com/news/north-korean-hackers--fake-interview/739165/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple addressed several variants of the macOS malware family in a signature update for XProtect last week. However, the North Korean threat actors adapted to the update by deploying FlexibleFerret, which is not detected by XProtect.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 5, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Veeam Backup Vulnerability Enables Remote Code Execution<a href="https://securityonline.info/cve-2025-23114-cvss-9-0-critical-veeam-backup-vulnerability-enables-remote-code-execution/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability affects a wide range of Veeam products, including Veeam Backup for Salesforce, Nutanix AHV, AWS, Microsoft Azure, Google Cloud, Oracle Linux Virtualization Manager, and Red Hat Virtualization.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 5, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Russian Threat Group Hacks Into U.S. Oil and Gas Facilities<a href="https://thecyberexpress.com/new-russian-threat-group-hacks-u-s-energy/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sector 16 claimed sole responsibility for hacking into the control systems of a U.S. oil and gas production facility, and released a video “purportedly demonstrating their access to the facility’s operational data and systems,” Cyble said.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 5, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian Organizations Targeted in Zero-Day Campaign and Homoglyph Attacks<a href="https://www.trendmicro.com/en_us/research/25/a/cve-2025-0411-ukrainian-organizations-targeted.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability was actively exploited by Russian cybercrime groups through spear-phishing campaigns, using homoglyph attacks to spoof document extensions and trick users and the Windows Operating System into executing malicious files.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 5, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: PoC Exploit Released for Linux Kernel Enabling Privilege Escalation and Container Escape<a href="https://securityonline.info/poc-releases-for-linux-kernel-flaw-cve-2024-36972-double-free-flaw-enables-privilege-escalation-and-container-escape/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability affects various Linux kernel versions, including v6.8 to v6.9, v5.15.147, v6.1.78, and v6.6.17. System administrators are advised to upgrade to patched versions immediately.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 5, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AsyncRAT Abusing Python and Cloudflare Tunnels for Stealthy Malware Delivery<a href="https://gbhackers.com/asyncrat-abusing-python-and-trycloudflare/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AsyncRAT, known for its asynchronous communication capabilities, enables attackers to control compromised systems, exfiltrate sensitive data, and execute commands undetected.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 4, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

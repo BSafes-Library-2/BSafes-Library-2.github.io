@@ -7,6 +7,22 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 4, 2025 - CISA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Four Known Exploited Vulnerabilities to Catalog <a href="https://www.cisa.gov/news-events/alerts/2025/02/04/cisa-adds-four-known-exploited-vulnerabilities-catalog"> Full Text</a>
+</p>
+<details>
+CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.
+
+CVE-2024-45195 Apache OFBiz Forced Browsing Vulnerability
+CVE-2024-29059 Microsoft .NET Framework Information Disclosure Vulnerability
+CVE-2018-9276 Paessler PRTG Network Monitor OS Command Injection Vulnerability
+CVE-2018-19410 Paessler PRTG Network Monitor Local File Inclusion Vulnerability
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 30, 2025 - FDA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

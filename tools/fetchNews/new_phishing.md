@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+February 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State-Linked Hackers Deploy New FlexibleFerret macOS Malware in Fake Job Interview Campaign<a href="https://www.cybersecuritydive.com/news/north-korean-hackers--fake-interview/739165/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple addressed several variants of the macOS malware family in a signature update for XProtect last week. However, the North Korean threat actors adapted to the update by deploying FlexibleFerret, which is not detected by XProtect.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 3, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

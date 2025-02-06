@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Netgear Warns Users to Patch Critical WiFi Router Vulnerabilities<a href="https://www.bleepingcomputer.com/news/security/netgear-warns-users-to-patch-critical-wifi-router-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The two critical security vulnerabilities impact multiple WiFi 6 access points (WAX206, WAX214v2, and WAX220) and Nighthawk Pro Gaming router models (XR1000, XR1000v2, XR500).
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Veeam Backup Vulnerability Enables Remote Code Execution<a href="https://securityonline.info/cve-2025-23114-cvss-9-0-critical-veeam-backup-vulnerability-enables-remote-code-execution/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability affects a wide range of Veeam products, including Veeam Backup for Salesforce, Nutanix AHV, AWS, Microsoft Azure, Google Cloud, Oracle Linux Virtualization Manager, and Red Hat Virtualization.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: PoC Exploit Released for Linux Kernel Enabling Privilege Escalation and Container Escape<a href="https://securityonline.info/poc-releases-for-linux-kernel-flaw-cve-2024-36972-double-free-flaw-enables-privilege-escalation-and-container-escape/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability affects various Linux kernel versions, including v6.8 to v6.9, v5.15.147, v6.1.78, and v6.6.17. System administrators are advised to upgrade to patched versions immediately.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 4, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
