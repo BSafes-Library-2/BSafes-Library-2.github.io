@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+February 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Riot Raises $30 Million for its Cybersecurity Product Suite Focused on Employees<a href="https://techcrunch.com/2025/02/03/riot-raises-30-million-for-its-cybersecurity-product-suite-focused-on-employees/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+French startup Riot has raised a $30 million Series B funding round after reaching $10 million in annual revenue in 2024. Left Lane Capital led the round, with participation from existing investors Y Combinator, Base10, and FundersClub.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 3, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+February 6, 202 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threefold Increase in Malware Targeting Credential Stores<a href="https://www.infosecurity-magazine.com/news/threefold-increase-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Infostealers continued to grow in popularity on the cybercrime underground last year, with credentials from password stores appearing in 29% of malware samples analyzed by Picus Security.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: 768 CVEs Exploited in 2024, Reflecting a 20% Increase from 639 in 2023<a href="https://thehackernews.com/2025/02/768-cves-exploited-in-2024-reflecting.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Describing 2024 as "another banner year for threat actors targeting the exploitation of vulnerabilities," VulnCheck said 23.6% of known exploited vulnerabilities (KEV) were known to be weaponized either on or before the day their CVEs were disclosed.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 3, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

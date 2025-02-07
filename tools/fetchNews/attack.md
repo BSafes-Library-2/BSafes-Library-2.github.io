@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+February 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian Organizations Targeted in Zero-Day Campaign and Homoglyph Attacks<a href="https://www.trendmicro.com/en_us/research/25/a/cve-2025-0411-ukrainian-organizations-targeted.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability was actively exploited by Russian cybercrime groups through spear-phishing campaigns, using homoglyph attacks to spoof document extensions and trick users and the Windows Operating System into executing malicious files.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 4, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

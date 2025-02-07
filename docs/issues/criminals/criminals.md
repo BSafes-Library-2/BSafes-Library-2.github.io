@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+February 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+XE Group Goes From Credit Card Skimming to Exploiting Zero-Days<a href="https://intezer.com/blog/research/xe-group-exploiting-zero-days/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Vietnamese cybercrime group, XE Group, has changed its tactics from focusing on credit card skimming to exploiting zero-day vulnerabilities in a widely used software called VeraCore. This software is used to manage orders and operations.
+</details>
+<div style="text-align: right" markdown="1">
+Intezer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TAG-124 Traffic Distribution System Powers Multiple Malware Campaigns<a href="https://securityonline.info/tag-124-a-deep-dive-into-the-traffic-distribution-system-powering-malware-campaigns/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The TDS network comprises compromised WordPress websites, actor-controlled payload servers, and a sophisticated management system, allowing cybercriminals to dynamically route traffic to malicious content while evading detection.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 5, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

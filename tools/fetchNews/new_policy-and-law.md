@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+February 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian Charged With Stealing $65 Million Using DeFi Crypto Exploits<a href="https://www.bleepingcomputer.com/news/security/canadian-charged-with-stealing-65-million-using-defi-crypto-exploits/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The 22-year-old Canadian national allegedly exploited flaws in the automated smart contracts used by the KyberSwap and Indexed Finance decentralized exchange aggregators and operators of digital token liquidity pools on the Ethereum network.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+California Man Steals $50 Million Using Fake Investment Sites, Gets Seven Years<a href="https://www.bleepingcomputer.com/news/security/california-man-steals-50-million-using-fake-investment-sites-gets-7-years/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 59-year-old man from Irvine, California, was sentenced to 87 months in prison for his involvement in an investor fraud ring that stole $50 million between 2012 and October 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 20, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
