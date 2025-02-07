@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 5, 2025
+February 6, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+XE Group Goes From Credit Card Skimming to Exploiting Zero-Days<a href="https://intezer.com/blog/research/xe-group-exploiting-zero-days/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Vietnamese cybercrime group, XE Group, has changed its tactics from focusing on credit card skimming to exploiting zero-day vulnerabilities in a widely used software called VeraCore. This software is used to manage orders and operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 6, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Riot Raises $30 Million for its Cybersecurity Product Suite Focused on Employees<a href="https://techcrunch.com/2025/02/03/riot-raises-30-million-for-its-cybersecurity-product-suite-focused-on-employees/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+French startup Riot has raised a $30 million Series B funding round after reaching $10 million in annual revenue in 2024. Left Lane Capital led the round, with participation from existing investors Y Combinator, Base10, and FundersClub.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 6, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threefold Increase in Malware Targeting Credential Stores<a href="https://www.infosecurity-magazine.com/news/threefold-increase-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Infostealers continued to grow in popularity on the cybercrime underground last year, with credentials from password stores appearing in 29% of malware samples analyzed by Picus Security.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 6, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ValleyRAT Malware Variant Spreads via Fake Chrome Downloads<a href="https://hackread.com/valleyrat-malware-variant-fake-chrome-downloads/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers at Morphisec Threat Lab discovered a new version of the sophisticated ValleyRAT malware distributed through various channels including phishing emails, instant messaging platforms, and compromised websites.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 6, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian Charged With Stealing $65 Million Using DeFi Crypto Exploits<a href="https://www.bleepingcomputer.com/news/security/canadian-charged-with-stealing-65-million-using-defi-crypto-exploits/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The 22-year-old Canadian national allegedly exploited flaws in the automated smart contracts used by the KyberSwap and Indexed Finance decentralized exchange aggregators and operators of digital token liquidity pools on the Ethereum network.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 6, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BadDNS: Open-source tool checks for subdomain takeovers<a href="https://www.helpnetsecurity.com/2025/02/03/baddns-open-source-tool-check-domain-subdomain-takeover/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BadDNS is an open-source Python tool used to check domain and subdomain takeovers. By examining client-side resources and security headers, it can uncover risks that could lead to malicious code being injected if a trusted domain is compromised.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 6, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TAG-124 Traffic Distribution System Powers Multiple Malware Campaigns<a href="https://securityonline.info/tag-124-a-deep-dive-into-the-traffic-distribution-system-powering-malware-campaigns/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The TDS network comprises compromised WordPress websites, actor-controlled payload servers, and a sophisticated management system, allowing cybercriminals to dynamically route traffic to malicious content while evading detection.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 6, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: 768 CVEs Exploited in 2024, Reflecting a 20% Increase from 639 in 2023<a href="https://thehackernews.com/2025/02/768-cves-exploited-in-2024-reflecting.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Describing 2024 as "another banner year for threat actors targeting the exploitation of vulnerabilities," VulnCheck said 23.6% of known exploited vulnerabilities (KEV) were known to be weaponized either on or before the day their CVEs were disclosed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 6, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Five Eyes Cyber Agencies Share Security Guidance for Network Edge Devices<a href="https://www.bleepingcomputer.com/news/security/cyber-agencies-share-security-guidance-for-network-edge-devices/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Edge devices are often targeted and compromised because they don't support Endpoint Detection and Response (EDR) solutions, allowing threat actors to gain initial access to the targets' internal enterprise networks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 6, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+California Man Steals $50 Million Using Fake Investment Sites, Gets Seven Years<a href="https://www.bleepingcomputer.com/news/security/california-man-steals-50-million-using-fake-investment-sites-gets-7-years/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 59-year-old man from Irvine, California, was sentenced to 87 months in prison for his involvement in an investor fraud ring that stole $50 million between 2012 and October 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 5, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Adds Four Actively Exploited Vulnerabilities to KEV Catalog, Urges Fixes by February 25<a href="https://thehackernews.com/2025/02/cisa-adds-four-actively-exploited.html?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ CISA Adds Four Actively Exploited Vulnerabilities to KEV Catalog, Urges Fixes by
 These include forced browsing in Apache OFBiz (CVE-2024-45195), information disclosure in Microsoft .NET Framework (CVE-2024-29059), and OS command injection and local file inclusion in Paessler PRTG Network Monitor (CVE-2018-9276, CVE-2018-19410).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 5, 2025
+February 5, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Aim to Lure Traitorous Insiders via Ransom Notes<a href="https://www.darkreading.com/threat-intelligence/cybercriminals-traitorous-insiders-ransom-notes?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Cybercriminals Aim to Lure Traitorous Insiders via Ransom Notes<a href="https://
 Ransomware actors are now using a new tactic by offering individuals millions of dollars to betray their employers and share confidential company information. These actors include groups like Sarcoma and DoNex.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 5, 2025
+February 5, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Netgear Warns Users to Patch Critical WiFi Router Vulnerabilities<a href="https://www.bleepingcomputer.com/news/security/netgear-warns-users-to-patch-critical-wifi-router-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Netgear Warns Users to Patch Critical WiFi Router Vulnerabilities<a href="https:
 The two critical security vulnerabilities impact multiple WiFi 6 access points (WAX206, WAX214v2, and WAX220) and Nighthawk Pro Gaming router models (XR1000, XR1000v2, XR500).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 5, 2025
+February 5, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 State-Linked Hackers Deploy New FlexibleFerret macOS Malware in Fake Job Interview Campaign<a href="https://www.cybersecuritydive.com/news/north-korean-hackers--fake-interview/739165/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ State-Linked Hackers Deploy New FlexibleFerret macOS Malware in Fake Job Intervi
 Apple addressed several variants of the macOS malware family in a signature update for XProtect last week. However, the North Korean threat actors adapted to the update by deploying FlexibleFerret, which is not detected by XProtect.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 5, 2025
+February 5, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Veeam Backup Vulnerability Enables Remote Code Execution<a href="https://securityonline.info/cve-2025-23114-cvss-9-0-critical-veeam-backup-vulnerability-enables-remote-code-execution/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Critical Veeam Backup Vulnerability Enables Remote Code Execution<a href="https:
 The vulnerability affects a wide range of Veeam products, including Veeam Backup for Salesforce, Nutanix AHV, AWS, Microsoft Azure, Google Cloud, Oracle Linux Virtualization Manager, and Red Hat Virtualization.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 5, 2025
+February 5, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Russian Threat Group Hacks Into U.S. Oil and Gas Facilities<a href="https://thecyberexpress.com/new-russian-threat-group-hacks-u-s-energy/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ New Russian Threat Group Hacks Into U.S. Oil and Gas Facilities<a href="https://
 Sector 16 claimed sole responsibility for hacking into the control systems of a U.S. oil and gas production facility, and released a video “purportedly demonstrating their access to the facility’s operational data and systems,” Cyble said.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 5, 2025
+February 5, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukrainian Organizations Targeted in Zero-Day Campaign and Homoglyph Attacks<a href="https://www.trendmicro.com/en_us/research/25/a/cve-2025-0411-ukrainian-organizations-targeted.html?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Ukrainian Organizations Targeted in Zero-Day Campaign and Homoglyph Attacks<a hr
 The vulnerability was actively exploited by Russian cybercrime groups through spear-phishing campaigns, using homoglyph attacks to spoof document extensions and trick users and the Windows Operating System into executing malicious files.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Trend Micro
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 5, 2025
+February 5, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: PoC Exploit Released for Linux Kernel Enabling Privilege Escalation and Container Escape<a href="https://securityonline.info/poc-releases-for-linux-kernel-flaw-cve-2024-36972-double-free-flaw-enables-privilege-escalation-and-container-escape/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Update: PoC Exploit Released for Linux Kernel Enabling Privilege Escalation and 
 The vulnerability affects various Linux kernel versions, including v6.8 to v6.9, v5.15.147, v6.1.78, and v6.6.17. System administrators are advised to upgrade to patched versions immediately.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 5, 2025
+February 5, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AsyncRAT Abusing Python and Cloudflare Tunnels for Stealthy Malware Delivery<a href="https://gbhackers.com/asyncrat-abusing-python-and-trycloudflare/?&web_view=true"> Full Text</a>
@@ -172,7 +332,7 @@ AsyncRAT Abusing Python and Cloudflare Tunnels for Stealthy Malware Delivery<a h
 AsyncRAT, known for its asynchronous communication capabilities, enables attackers to control compromised systems, exfiltrate sensitive data, and execute commands undetected.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
