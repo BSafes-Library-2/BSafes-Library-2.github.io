@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2025
+February 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Spoof Microsoft ADFS Login Pages to Steal Credentials<a href="https://www.bleepingcomputer.com/news/security/hackers-spoof-microsoft-adfs-login-pages-to-steal-credentials/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A help desk phishing campaign targets an organization's Microsoft Active Directory Federation Services (ADFS) using spoofed login pages to steal credentials and bypass multi-factor authentication (MFA) protections.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS Attacks Reportedly Behind DayZ and Arma Network Outages<a href="https://www.bleepingcomputer.com/news/security/ddos-attacks-reportedly-behind-dayz-and-arma-network-outages/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing distributed denial of service (DDoS) attack targets Bohemia Interactive's infrastructure, preventing players of DayZ and Arma Reforger from playing the games online.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher Outsmarts, Jailbreaks OpenAI's New o3-mini<a href="https://www.darkreading.com/application-security/researcher-jailbreaks-openai-o3-mini?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite its improvements, a CyberArk researcher found a way to exploit o3-mini by pretending to be a historian seeking knowledge. While engaging with it, he eventually led it to produce steps that could be used to exploit a critical Windows process.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Flaw in Microsoft Outlook Now Exploited in Attacks<a href="https://www.bleepingcomputer.com/news/security/critical-rce-bug-in-microsoft-outlook-now-exploited-in-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Discovered by Check Point vulnerability researcher Haifei Li and tracked as CVE-2024-21413, the flaw is caused by improper input validation when opening emails with malicious links using vulnerable Outlook versions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Basket of Bank Trojans Defraud Citizens of East India<a href="https://www.darkreading.com/cyberattacks-data-breaches/bank-trojans-defraud-citizens-east-india?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Victims receive WhatsApp messages containing malicious Android Package Kit (APK) files. Once downloaded, these APKs appear as fake apps of major banks like HDFC Bank and ICICI Bank.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA tags Microsoft .NET and Apache OFBiz bugs as exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-tags-microsoft-net-and-apache-ofbiz-bugs-as-exploited-in-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity & Infrastructure Security Agency (CISA) has added four vulnerabilities to its Known Exploited Vulnerabilities catalog, urging federal agencies and large organizations to apply the available security updates as soon as possible.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Robocallers Posing as FCC Fraud Prevention Team Call FCC Staff<a href="https://www.bleepingcomputer.com/news/security/robocallers-posing-as-fcc-fraud-prevention-team-call-fcc-staff/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FCC has proposed a $4,492,500 fine against VoIP service provider Telnyx for allegedly allowing customers to make robocalls posing as fictitious FCC "Fraud Prevention Team," by failing to comply with Know Your Customer (KYC) rules.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Hackers Exploit SimpleHelp RMM Flaws to Deploy Sliver malware<a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-simplehelp-rmm-flaws-to-deploy-sliver-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack started with the threat actors exploiting the vulnerabilities in the SimpleHelp RMM client, tracked as CVE-2024-57726, CVE-2024-57727, and CVE-2024-57728, to establish an unauthorized connection to a target endpoint.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Use NOVA Stealer to Target Russian Organizations<a href="https://bi.zone/eng/expertise/blog/nova-khorosho-zabytoe-staroe/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BI.ZONE Threat Intelligence team has reported a significant ongoing campaign distributing the NOVA stealer, a new commercial variant of the SnakeLogger malware. This campaign is primarily targeting Russian organizations across various sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Addressed Two Critical Flaws in its Identity Services Engine<a href="https://securityaffairs.com/173946/security/cisco-addressed-critical-flaws-in-identity-services-engine.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco addressed multiple vulnerabilities, including two critical remote code execution flaws, tracked as CVE-2025-20124 (CVSS score of 9.9) and CVE-2025-20125 (CVSS score of 9.1), in Identity Services Engine (ISE).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 6, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 XE Group Goes From Credit Card Skimming to Exploiting Zero-Days<a href="https://intezer.com/blog/research/xe-group-exploiting-zero-days/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ XE Group Goes From Credit Card Skimming to Exploiting Zero-Days<a href="https://
 A Vietnamese cybercrime group, XE Group, has changed its tactics from focusing on credit card skimming to exploiting zero-day vulnerabilities in a widely used software called VeraCore. This software is used to manage orders and operations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Intezer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2025
+February 6, 2025 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Riot Raises $30 Million for its Cybersecurity Product Suite Focused on Employees<a href="https://techcrunch.com/2025/02/03/riot-raises-30-million-for-its-cybersecurity-product-suite-focused-on-employees/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Riot Raises $30 Million for its Cybersecurity Product Suite Focused on Employees
 French startup Riot has raised a $30 million Series B funding round after reaching $10 million in annual revenue in 2024. Left Lane Capital led the round, with participation from existing investors Y Combinator, Base10, and FundersClub.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Tech Crunch
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2025
+February 6, 202 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threefold Increase in Malware Targeting Credential Stores<a href="https://www.infosecurity-magazine.com/news/threefold-increase-malware/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Threefold Increase in Malware Targeting Credential Stores<a href="https://www.in
 Infostealers continued to grow in popularity on the cybercrime underground last year, with credentials from password stores appearing in 29% of malware samples analyzed by Picus Security.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2025
+February 6, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New ValleyRAT Malware Variant Spreads via Fake Chrome Downloads<a href="https://hackread.com/valleyrat-malware-variant-fake-chrome-downloads/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ New ValleyRAT Malware Variant Spreads via Fake Chrome Downloads<a href="https://
 Cybersecurity researchers at Morphisec Threat Lab discovered a new version of the sophisticated ValleyRAT malware distributed through various channels including phishing emails, instant messaging platforms, and compromised websites.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+HackRead
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2025
+February 6, 2025 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Canadian Charged With Stealing $65 Million Using DeFi Crypto Exploits<a href="https://www.bleepingcomputer.com/news/security/canadian-charged-with-stealing-65-million-using-defi-crypto-exploits/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Canadian Charged With Stealing $65 Million Using DeFi Crypto Exploits<a href="ht
 The 22-year-old Canadian national allegedly exploited flaws in the automated smart contracts used by the KyberSwap and Indexed Finance decentralized exchange aggregators and operators of digital token liquidity pools on the Ethereum network.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2025
+February 6, 2025 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BadDNS: Open-source tool checks for subdomain takeovers<a href="https://www.helpnetsecurity.com/2025/02/03/baddns-open-source-tool-check-domain-subdomain-takeover/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ BadDNS: Open-source tool checks for subdomain takeovers<a href="https://www.help
 BadDNS is an open-source Python tool used to check domain and subdomain takeovers. By examining client-side resources and security headers, it can uncover risks that could lead to malicious code being injected if a trusted domain is compromised.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+HelpNet Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2025
+February 6, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TAG-124 Traffic Distribution System Powers Multiple Malware Campaigns<a href="https://securityonline.info/tag-124-a-deep-dive-into-the-traffic-distribution-system-powering-malware-campaigns/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ TAG-124 Traffic Distribution System Powers Multiple Malware Campaigns<a href="ht
 The TDS network comprises compromised WordPress websites, actor-controlled payload servers, and a sophisticated management system, allowing cybercriminals to dynamically route traffic to malicious content while evading detection.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2025
+February 6, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: 768 CVEs Exploited in 2024, Reflecting a 20% Increase from 639 in 2023<a href="https://thehackernews.com/2025/02/768-cves-exploited-in-2024-reflecting.html?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Report: 768 CVEs Exploited in 2024, Reflecting a 20% Increase from 639 in 2023<a
 Describing 2024 as "another banner year for threat actors targeting the exploitation of vulnerabilities," VulnCheck said 23.6% of known exploited vulnerabilities (KEV) were known to be weaponized either on or before the day their CVEs were disclosed.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2025
+February 6, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Five Eyes Cyber Agencies Share Security Guidance for Network Edge Devices<a href="https://www.bleepingcomputer.com/news/security/cyber-agencies-share-security-guidance-for-network-edge-devices/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Five Eyes Cyber Agencies Share Security Guidance for Network Edge Devices<a href
 Edge devices are often targeted and compromised because they don't support Endpoint Detection and Response (EDR) solutions, allowing threat actors to gain initial access to the targets' internal enterprise networks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2025
+February 6, 2025 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 California Man Steals $50 Million Using Fake Investment Sites, Gets Seven Years<a href="https://www.bleepingcomputer.com/news/security/california-man-steals-50-million-using-fake-investment-sites-gets-7-years/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ California Man Steals $50 Million Using Fake Investment Sites, Gets Seven Years<
 A 59-year-old man from Irvine, California, was sentenced to 87 months in prison for his involvement in an investor fraud ring that stole $50 million between 2012 and October 2020.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
