@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+February 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Five Eyes Cyber Agencies Share Security Guidance for Network Edge Devices<a href="https://www.bleepingcomputer.com/news/security/cyber-agencies-share-security-guidance-for-network-edge-devices/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Edge devices are often targeted and compromised because they don't support Endpoint Detection and Response (EDR) solutions, allowing threat actors to gain initial access to the targets' internal enterprise networks.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 5, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

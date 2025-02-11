@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+February 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Orders Agencies to Patch Linux Kernel Bug Exploited in Attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-linux-kernel-bug-exploited-in-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2024-53104, the security bug was first introduced in kernel version 2.6.26 and was patched by Google for Android users on Monday. The February 2025 Android security bulletin warns that it may be under limited, targeted exploitation.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA tags Microsoft .NET and Apache OFBiz bugs as exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-tags-microsoft-net-and-apache-ofbiz-bugs-as-exploited-in-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity &amp; Infrastructure Security Agency (CISA) has added four vulnerabilities to its Known Exploited Vulnerabilities catalog, urging federal agencies and large organizations to apply the available security updates as soon as possible.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 6, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

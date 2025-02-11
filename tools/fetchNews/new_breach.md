@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+February 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Basket of Bank Trojans Defraud Citizens of East India<a href="https://www.darkreading.com/cyberattacks-data-breaches/bank-trojans-defraud-citizens-east-india?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Victims receive WhatsApp messages containing malicious Android Package Kit (APK) files. Once downloaded, these APKs appear as fake apps of major banks like HDFC Bank and ICICI Bank.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 5, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

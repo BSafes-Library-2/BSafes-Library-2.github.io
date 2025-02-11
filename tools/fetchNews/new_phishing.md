@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+February 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scalable Vector Graphics Files Pose a Novel Phishing Threat<a href="https://news.sophos.com/en-us/2025/02/05/svg-phishing/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers have been observed using the graphics file format scalable vector graphics (SVG) for this purpose. SVGs contain Extensible Markup Language (XML)-like text instructions to draw resizable, vector-based images on a computer.
+</details>
+<div style="text-align: right" markdown="1">
+Sophos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Spoof Microsoft ADFS Login Pages to Steal Credentials<a href="https://www.bleepingcomputer.com/news/security/hackers-spoof-microsoft-adfs-login-pages-to-steal-credentials/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A help desk phishing campaign targets an organization's Microsoft Active Directory Federation Services (ADFS) using spoofed login pages to steal credentials and bypass multi-factor authentication (MFA) protections.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 5, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

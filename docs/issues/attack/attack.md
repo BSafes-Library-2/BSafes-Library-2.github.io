@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+February 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Says Attackers Use Exposed ASP.NET Keys to Deploy Malware<a href="https://www.bleepingcomputer.com/news/security/microsoft-says-attackers-use-exposed-aspnet-keys-to-deploy-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors also use machine keys from publicly available sources in code injection attacks to create malicious ViewStates (used by ASP.NET Web Forms to control state and preserve pages) by attaching crafted message authentication code (MAC).
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive Brute Force Attack Uses 2.8 Million IPs to Target VPN Devices<a href="https://www.bleepingcomputer.com/news/security/massive-brute-force-attack-uses-28-million-ips-to-target-vpn-devices/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large-scale brute force password attack using almost 2.8 million IP addresses is underway, attempting to guess the credentials for a wide range of networking devices, including those from Palo Alto Networks, Ivanti, and SonicWall.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Use NOVA Stealer to Target Russian Organizations<a href="https://bi.zone/eng/expertise/blog/nova-khorosho-zabytoe-staroe/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BI.ZONE Threat Intelligence team has reported a significant ongoing campaign distributing the NOVA stealer, a new commercial variant of the SnakeLogger malware. This campaign is primarily targeting Russian organizations across various sectors.
+</details>
+<div style="text-align: right" markdown="1">
+BI.Zone
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 5, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

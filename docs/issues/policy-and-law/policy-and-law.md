@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+February 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Robocallers Posing as FCC Fraud Prevention Team Call FCC Staff<a href="https://www.bleepingcomputer.com/news/security/robocallers-posing-as-fcc-fraud-prevention-team-call-fcc-staff/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FCC has proposed a $4,492,500 fine against VoIP service provider Telnyx for allegedly allowing customers to make robocalls posing as fictitious FCC "Fraud Prevention Team," by failing to comply with Know Your Customer (KYC) rules.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 6, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
