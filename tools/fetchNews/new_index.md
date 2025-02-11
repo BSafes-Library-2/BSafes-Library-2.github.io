@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 10, 2025
+February 10, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Anatomy of Abyss Locker Ransomware Attack<a href="https://www.sygnia.co/blog/abyss-locker-ransomware-attack-analysis/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ The Anatomy of Abyss Locker Ransomware Attack<a href="https://www.sygnia.co/blog
 The threat actors behind Abyss Locker consistently employ a TTP of deploying malware on critical network devices to tunnel their activity within the network. This includes targeting VPN appliances, network- attached storage (NAS) and ESXi servers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sygnia
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 10, 2025
+February 10, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WordPress ASE Plugin Vulnerability Threatens Site Security<a href="https://www.infosecurity-magazine.com/news/wordpress-ase-plugin-flaw/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ WordPress ASE Plugin Vulnerability Threatens Site Security<a href="https://www.i
 Security analysts at Patchstack discovered that the flaw was due to insufficient checks on user role restoration. Specifically, the process failed to include robust permission verification, relying only on a nonce check.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 10, 2025
+February 10, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Flesh Stealer Snoops on Web Browsers and Cryptocurrency Wallets<a href="https://www.cyfirma.com/research/flesh-stealer-unmasking-the-blue-masked-thief/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Flesh Stealer Snoops on Web Browsers and Cryptocurrency Wallets<a href="https://
 Flesh Stealer has been actively promoted on Discord, Telegram channels, and underground forums like Pyrex Guru. Employing Base64 obfuscation techniques to conceal its functions and strings, the stealer first emerged in August 2024.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyfirma
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 10, 2025
+February 10, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical SQL Injection Bug Patched in Zimbra Collaboration<a href="https://securityonline.info/cve-2025-25064-cvss-9-8-critical-sql-injection-bug-in-zimbra-collaboration/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Critical SQL Injection Bug Patched in Zimbra Collaboration<a href="https://secur
 CVE-2025-25064 (CVSS 9.8) is a critical SQL injection vulnerability that affects Zimbra Collaboration versions 10.0.x before 10.0.12 and 10.1.x before 10.1.4. This vulnerability is due to insufficient sanitization of a user-supplied parameter.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 10, 2025
+February 10, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Says Attackers Use Exposed ASP.NET Keys to Deploy Malware<a href="https://www.bleepingcomputer.com/news/security/microsoft-says-attackers-use-exposed-aspnet-keys-to-deploy-malware/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Microsoft Says Attackers Use Exposed ASP.NET Keys to Deploy Malware<a href="http
 Threat actors also use machine keys from publicly available sources in code injection attacks to create malicious ViewStates (used by ASP.NET Web Forms to control state and preserve pages) by attaching crafted message authentication code (MAC).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 10, 2025
+February 10, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers exploit Cityworks RCE bug to breach Microsoft IIS servers<a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-cityworks-rce-bug-to-breach-microsoft-iis-servers/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Hackers exploit Cityworks RCE bug to breach Microsoft IIS servers<a href="https:
 The flaw, tracked as CVE-2025-0994, is a high severity (CVSS v4.0 score: 8.6) deserialization problem that allows authenticated users to perform RCE attacks against a customer's Microsoft Internet Information Services (IIS) servers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 10, 2025
+February 10, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scalable Vector Graphics Files Pose a Novel Phishing Threat<a href="https://news.sophos.com/en-us/2025/02/05/svg-phishing/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Scalable Vector Graphics Files Pose a Novel Phishing Threat<a href="https://news
 Attackers have been observed using the graphics file format scalable vector graphics (SVG) for this purpose. SVGs contain Extensible Markup Language (XML)-like text instructions to draw resizable, vector-based images on a computer.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sophos
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 10, 2025
+February 10, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaw in ABB Drive Composer Enables File System Access<a href="https://securityonline.info/cve-2024-48510-cvss-9-8-critical-flaw-in-abb-drive-composer-enables-file-system-access/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Critical Flaw in ABB Drive Composer Enables File System Access<a href="https://s
 The vulnerability stems from improper directory validation, allowing attackers to craft malicious Drive Composer files (such as parameter backup files) that, when opened, can extract files to arbitrary locations on the victim’s system.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 10, 2025
+February 10, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Massive Brute Force Attack Uses 2.8 Million IPs to Target VPN Devices<a href="https://www.bleepingcomputer.com/news/security/massive-brute-force-attack-uses-28-million-ips-to-target-vpn-devices/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Massive Brute Force Attack Uses 2.8 Million IPs to Target VPN Devices<a href="ht
 A large-scale brute force password attack using almost 2.8 million IP addresses is underway, attempting to guess the credentials for a wide range of networking devices, including those from Palo Alto Networks, Ivanti, and SonicWall.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 10, 2025
+February 10, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Orders Agencies to Patch Linux Kernel Bug Exploited in Attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-linux-kernel-bug-exploited-in-attacks/?&web_view=true"> Full Text</a>
@@ -188,13 +188,13 @@ CISA Orders Agencies to Patch Linux Kernel Bug Exploited in Attacks<a href="http
 Tracked as CVE-2024-53104, the security bug was first introduced in kernel version 2.6.26 and was patched by Google for Android users on Monday. The February 2025 Android security bulletin warns that it may be under limited, targeted exploitation.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 8, 2025
+February 8, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Spoof Microsoft ADFS Login Pages to Steal Credentials<a href="https://www.bleepingcomputer.com/news/security/hackers-spoof-microsoft-adfs-login-pages-to-steal-credentials/?&web_view=true"> Full Text</a>
@@ -204,13 +204,13 @@ Hackers Spoof Microsoft ADFS Login Pages to Steal Credentials<a href="https://ww
 A help desk phishing campaign targets an organization's Microsoft Active Directory Federation Services (ADFS) using spoofed login pages to steal credentials and bypass multi-factor authentication (MFA) protections.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 8, 2025
+February 8, 2025 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DDoS Attacks Reportedly Behind DayZ and Arma Network Outages<a href="https://www.bleepingcomputer.com/news/security/ddos-attacks-reportedly-behind-dayz-and-arma-network-outages/?&web_view=true"> Full Text</a>
@@ -220,13 +220,13 @@ DDoS Attacks Reportedly Behind DayZ and Arma Network Outages<a href="https://www
 An ongoing distributed denial of service (DDoS) attack targets Bohemia Interactive's infrastructure, preventing players of DayZ and Arma Reforger from playing the games online.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 8, 2025
+February 8, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researcher Outsmarts, Jailbreaks OpenAI's New o3-mini<a href="https://www.darkreading.com/application-security/researcher-jailbreaks-openai-o3-mini?&web_view=true"> Full Text</a>
@@ -236,13 +236,13 @@ Researcher Outsmarts, Jailbreaks OpenAI's New o3-mini<a href="https://www.darkre
 Despite its improvements, a CyberArk researcher found a way to exploit o3-mini by pretending to be a historian seeking knowledge. While engaging with it, he eventually led it to produce steps that could be used to exploit a critical Windows process.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 8, 2025
+February 8, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical RCE Flaw in Microsoft Outlook Now Exploited in Attacks<a href="https://www.bleepingcomputer.com/news/security/critical-rce-bug-in-microsoft-outlook-now-exploited-in-attacks/?&web_view=true"> Full Text</a>
@@ -252,13 +252,13 @@ Critical RCE Flaw in Microsoft Outlook Now Exploited in Attacks<a href="https://
 Discovered by Check Point vulnerability researcher Haifei Li and tracked as CVE-2024-21413, the flaw is caused by improper input validation when opening emails with malicious links using vulnerable Outlook versions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 8, 2025
+February 8, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Basket of Bank Trojans Defraud Citizens of East India<a href="https://www.darkreading.com/cyberattacks-data-breaches/bank-trojans-defraud-citizens-east-india?&web_view=true"> Full Text</a>
@@ -268,13 +268,13 @@ Basket of Bank Trojans Defraud Citizens of East India<a href="https://www.darkre
 Victims receive WhatsApp messages containing malicious Android Package Kit (APK) files. Once downloaded, these APKs appear as fake apps of major banks like HDFC Bank and ICICI Bank.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 8, 2025
+February 8, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA tags Microsoft .NET and Apache OFBiz bugs as exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-tags-microsoft-net-and-apache-ofbiz-bugs-as-exploited-in-attacks/?&web_view=true"> Full Text</a>
@@ -284,13 +284,13 @@ CISA tags Microsoft .NET and Apache OFBiz bugs as exploited in attacks<a href="h
 The US Cybersecurity & Infrastructure Security Agency (CISA) has added four vulnerabilities to its Known Exploited Vulnerabilities catalog, urging federal agencies and large organizations to apply the available security updates as soon as possible.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 8, 2025
+February 8, 2025 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Robocallers Posing as FCC Fraud Prevention Team Call FCC Staff<a href="https://www.bleepingcomputer.com/news/security/robocallers-posing-as-fcc-fraud-prevention-team-call-fcc-staff/?&web_view=true"> Full Text</a>
@@ -300,13 +300,13 @@ Robocallers Posing as FCC Fraud Prevention Team Call FCC Staff<a href="https://w
 The FCC has proposed a $4,492,500 fine against VoIP service provider Telnyx for allegedly allowing customers to make robocalls posing as fictitious FCC "Fraud Prevention Team," by failing to comply with Know Your Customer (KYC) rules.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 8, 2025
+February 8, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Hackers Exploit SimpleHelp RMM Flaws to Deploy Sliver malware<a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-simplehelp-rmm-flaws-to-deploy-sliver-malware/?&web_view=true"> Full Text</a>
@@ -316,13 +316,13 @@ Update: Hackers Exploit SimpleHelp RMM Flaws to Deploy Sliver malware<a href="ht
 The attack started with the threat actors exploiting the vulnerabilities in the SimpleHelp RMM client, tracked as CVE-2024-57726, CVE-2024-57727, and CVE-2024-57728, to establish an unauthorized connection to a target endpoint.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 7, 2025
+February 7, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Use NOVA Stealer to Target Russian Organizations<a href="https://bi.zone/eng/expertise/blog/nova-khorosho-zabytoe-staroe/?&web_view=true"> Full Text</a>
@@ -332,13 +332,13 @@ Attackers Use NOVA Stealer to Target Russian Organizations<a href="https://bi.zo
 The BI.ZONE Threat Intelligence team has reported a significant ongoing campaign distributing the NOVA stealer, a new commercial variant of the SnakeLogger malware. This campaign is primarily targeting Russian organizations across various sectors.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+BI.Zone
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 7, 2025
+February 7, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Addressed Two Critical Flaws in its Identity Services Engine<a href="https://securityaffairs.com/173946/security/cisco-addressed-critical-flaws-in-identity-services-engine.html?&web_view=true"> Full Text</a>
@@ -348,7 +348,7 @@ Cisco Addressed Two Critical Flaws in its Identity Services Engine<a href="https
 Cisco addressed multiple vulnerabilities, including two critical remote code execution flaws, tracked as CVE-2025-20124 (CVSS score of 9.9) and CVE-2025-20125 (CVSS score of 9.1), in Identity Services Engine (ISE).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
