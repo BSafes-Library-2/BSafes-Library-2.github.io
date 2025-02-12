@@ -8,6 +8,118 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress ASE Plugin Vulnerability Threatens Site Security<a href="https://www.infosecurity-magazine.com/news/wordpress-ase-plugin-flaw/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts at Patchstack discovered that the flaw was due to insufficient checks on user role restoration. Specifically, the process failed to include robust permission verification, relying only on a nonce check.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical SQL Injection Bug Patched in Zimbra Collaboration<a href="https://securityonline.info/cve-2025-25064-cvss-9-8-critical-sql-injection-bug-in-zimbra-collaboration/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2025-25064 (CVSS 9.8) is a critical SQL injection vulnerability that affects Zimbra Collaboration versions 10.0.x before 10.0.12 and 10.1.x before 10.1.4. This vulnerability is due to insufficient sanitization of a user-supplied parameter.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers exploit Cityworks RCE bug to breach Microsoft IIS servers<a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-cityworks-rce-bug-to-breach-microsoft-iis-servers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw, tracked as CVE-2025-0994, is a high severity (CVSS v4.0 score: 8.6) deserialization problem that allows authenticated users to perform RCE attacks against a customer's Microsoft Internet Information Services (IIS) servers.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw in ABB Drive Composer Enables File System Access<a href="https://securityonline.info/cve-2024-48510-cvss-9-8-critical-flaw-in-abb-drive-composer-enables-file-system-access/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability stems from improper directory validation, allowing attackers to craft malicious Drive Composer files (such as parameter backup files) that, when opened, can extract files to arbitrary locations on the victim’s system.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher Outsmarts, Jailbreaks OpenAI's New o3-mini<a href="https://www.darkreading.com/application-security/researcher-jailbreaks-openai-o3-mini?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite its improvements, a CyberArk researcher found a way to exploit o3-mini by pretending to be a historian seeking knowledge. While engaging with it, he eventually led it to produce steps that could be used to exploit a critical Windows process.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Flaw in Microsoft Outlook Now Exploited in Attacks<a href="https://www.bleepingcomputer.com/news/security/critical-rce-bug-in-microsoft-outlook-now-exploited-in-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Discovered by Check Point vulnerability researcher Haifei Li and tracked as CVE-2024-21413, the flaw is caused by improper input validation when opening emails with malicious links using vulnerable Outlook versions.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Hackers Exploit SimpleHelp RMM Flaws to Deploy Sliver malware<a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-simplehelp-rmm-flaws-to-deploy-sliver-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack started with the threat actors exploiting the vulnerabilities in the SimpleHelp RMM client, tracked as CVE-2024-57726, CVE-2024-57727, and CVE-2024-57728, to establish an unauthorized connection to a target endpoint.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Addressed Two Critical Flaws in its Identity Services Engine<a href="https://securityaffairs.com/173946/security/cisco-addressed-critical-flaws-in-identity-services-engine.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco addressed multiple vulnerabilities, including two critical remote code execution flaws, tracked as CVE-2025-20124 (CVSS score of 9.9) and CVE-2025-20125 (CVSS score of 9.1), in Identity Services Engine (ISE).
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 5, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

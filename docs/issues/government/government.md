@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+February 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Critical Elber Flaws – PoC Available, No Patch<a href="https://securityonline.info/cve-2025-0674-cvss-9-8-cve-2025-0675-cisa-warns-of-critical-elber-flaws-poc-available-no-patch/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Elber has stated that they do not plan to mitigate these vulnerabilities as the affected equipment is either end-of-life or almost end-of-life. CISA recommends that users of affected devices take defensive measures to minimize the risks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 10, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 11, 2025
+February 11, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Patches Actively Exploited iOS Zero-Day in Emergency Update<a href="https://thehackernews.com/2025/02/apple-patches-actively-exploited-ios.html?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Apple Patches Actively Exploited iOS Zero-Day in Emergency Update<a href="https:
 Tracked as CVE-2025-24200, the vulnerability has been described as an authorization issue that could enable a malicious actor to disable USB Restricted Mode on a locked device as part of a cyber-physical attack.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 11, 2025
+February 11, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Progress LoadMaster Security Update Addresses Multiple Vulnerabilities<a href="https://securityonline.info/progress-loadmaster-security-update-multiple-vulnerabilities-addressed/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Progress LoadMaster Security Update Addresses Multiple Vulnerabilities<a href="h
 These vulnerabilities stem from improper input validation, enabling attackers with access to the LoadMaster management interface to inject malicious commands via crafted HTTP requests.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 11, 2025
+February 11, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical RCE Vulnerability Found in Visual Weather Products<a href="https://securityonline.info/cve-2025-1077-cvssv4-9-5-critical-rce-vulnerability-found-in-visual-weather-products/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Critical RCE Vulnerability Found in Visual Weather Products<a href="https://secu
 IBL Software Engineering urged users to take immediate action to remediate the CVE-2025-1077 vulnerability. The recommended solution is to upgrade to the patched versions of Visual Weather: 7.3.10 or higher, or 8.6.0 or higher.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 11, 2025
+February 11, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple Vulnerabilities Addressed in SAP Security Patch Day February 2025<a href="https://securityonline.info/sap-security-patch-day-february-2025-multi-vulnerabilities-addressed/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Multiple Vulnerabilities Addressed in SAP Security Patch Day February 2025<a hre
 The most severe vulnerability addressed (CVE-2025-0064, CVSS 8.7) allows an attacker with admin rights to impersonate any user within the SAP BusinessObjects Business Intelligence platform.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 11, 2025
+February 11, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Police Dismantles 8Base Ransomware Gang Under Operation Phobos Aetor<a href="https://securityaffairs.com/174078/cyber-crime/police-dismantled-8base-ransomware-gang.html?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Police Dismantles 8Base Ransomware Gang Under Operation Phobos Aetor<a href="htt
 The police arrested four European citizens in Phuket, Thailand, who are suspected of having stolen over $16 million through ransomware attacks affecting over 1,000 victims worldwide.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 11, 2025
+February 11, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: GitHub Enterprise SAML Bypass Flaw Uncovered With Technical Analysis and Exploit PoC<a href="https://securityonline.info/github-enterprise-saml-bypass-flaw-cve-2025-23369-exposed-technical-analysis-and-exploit-poc/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Update: GitHub Enterprise SAML Bypass Flaw Uncovered With Technical Analysis and
 Given the severity of this issue, organizations using GitHub Enterprise with SAML authentication enabled are strongly advised to review their authentication configurations and apply patches immediately.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 11, 2025
+February 11, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious ML Models Discovered on Hugging Face Platform<a href="https://www.reversinglabs.com/blog/rl-identifies-malware-ml-model-hosted-on-hugging-face?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Malicious ML Models Discovered on Hugging Face Platform<a href="https://www.reve
 Researchers at Reversing Labs have discovered two malicious machine learning (ML) models available on Hugging Face, the leading hub for sharing AI models and applications.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ReversingLabs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 11, 2025
+February 11, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of Critical Elber Flaws – PoC Available, No Patch<a href="https://securityonline.info/cve-2025-0674-cvss-9-8-cve-2025-0675-cisa-warns-of-critical-elber-flaws-poc-available-no-patch/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ CISA Warns of Critical Elber Flaws – PoC Available, No Patch<a href="https://s
 Elber has stated that they do not plan to mitigate these vulnerabilities as the affected equipment is either end-of-life or almost end-of-life. CISA recommends that users of affected devices take defensive measures to minimize the risks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 11, 2025
+February 11, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DragonRank Exploits IIS Servers with BadIIS Malware for SEO Fraud and Gambling Redirects<a href="https://thehackernews.com/2025/02/dragonrank-exploits-iis-servers-with.html?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ DragonRank Exploits IIS Servers with BadIIS Malware for SEO Fraud and Gambling R
 Targets of the campaign include IIS servers located in India, Thailand, Vietnam, Philippines, Singapore, Taiwan, South Korea, Japan, and Brazil. These servers are associated with government, universities, tech companies, and telecommunications firms.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 11, 2025
+February 11, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scammers Use Fake Facebook Copyright Notices to Hijack Accounts<a href="https://hackread.com/scammers-use-fake-facebook-copyright-notices-to-hijack-accounts/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Scammers Use Fake Facebook Copyright Notices to Hijack Accounts<a href="https://
 This campaign, which began around December 20th, 2024, primarily focuses on companies within the EU, the US, and Australia. Still, some instances have also been detected in Chinese and Arabic languages, indicating a global reach.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+HackRead
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

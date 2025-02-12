@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+February 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police Dismantles 8Base Ransomware Gang Under Operation Phobos Aetor<a href="https://securityaffairs.com/174078/cyber-crime/police-dismantled-8base-ransomware-gang.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The police arrested four European citizens in Phuket, Thailand, who are suspected of having stolen over $16 million through ransomware attacks affecting over 1,000 victims worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 6, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+February 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DragonRank Exploits IIS Servers with BadIIS Malware for SEO Fraud and Gambling Redirects<a href="https://thehackernews.com/2025/02/dragonrank-exploits-iis-servers-with.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Targets of the campaign include IIS servers located in India, Thailand, Vietnam, Philippines, Singapore, Taiwan, South Korea, Japan, and Brazil. These servers are associated with government, universities, tech companies, and telecommunications firms.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 10, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
