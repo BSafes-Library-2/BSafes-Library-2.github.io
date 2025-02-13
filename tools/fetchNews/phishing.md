@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+February 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers Use Fake Facebook Copyright Notices to Hijack Accounts<a href="https://hackread.com/scammers-use-fake-facebook-copyright-notices-to-hijack-accounts/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This campaign, which began around December 20th, 2024, primarily focuses on companies within the EU, the US, and Australia. Still, some instances have also been detected in Chinese and Arabic languages, indicating a global reach.
+</details>
+<div style="text-align: right" markdown="1">
+HackRead
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 10, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

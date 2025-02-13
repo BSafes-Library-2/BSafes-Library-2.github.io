@@ -8,6 +8,76 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Patches Actively Exploited iOS Zero-Day in Emergency Update<a href="https://thehackernews.com/2025/02/apple-patches-actively-exploited-ios.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2025-24200, the vulnerability has been described as an authorization issue that could enable a malicious actor to disable USB Restricted Mode on a locked device as part of a cyber-physical attack.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Progress LoadMaster Security Update Addresses Multiple Vulnerabilities<a href="https://securityonline.info/progress-loadmaster-security-update-multiple-vulnerabilities-addressed/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These vulnerabilities stem from improper input validation, enabling attackers with access to the LoadMaster management interface to inject malicious commands via crafted HTTP requests.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Vulnerability Found in Visual Weather Products<a href="https://securityonline.info/cve-2025-1077-cvssv4-9-5-critical-rce-vulnerability-found-in-visual-weather-products/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IBL Software Engineering urged users to take immediate action to remediate the CVE-2025-1077 vulnerability. The recommended solution is to upgrade to the patched versions of Visual Weather: 7.3.10 or higher, or 8.6.0 or higher.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Vulnerabilities Addressed in SAP Security Patch Day February 2025<a href="https://securityonline.info/sap-security-patch-day-february-2025-multi-vulnerabilities-addressed/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most severe vulnerability addressed (CVE-2025-0064, CVSS 8.7) allows an attacker with admin rights to impersonate any user within the SAP BusinessObjects Business Intelligence platform.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: GitHub Enterprise SAML Bypass Flaw Uncovered With Technical Analysis and Exploit PoC<a href="https://securityonline.info/github-enterprise-saml-bypass-flaw-cve-2025-23369-exposed-technical-analysis-and-exploit-poc/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Given the severity of this issue, organizations using GitHub Enterprise with SAML authentication enabled are strongly advised to review their authentication configurations and apply patches immediately.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 10, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

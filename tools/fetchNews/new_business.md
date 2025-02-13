@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+February 12, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Semgrep Bags $100M in Series D to Elevate AI-Driven Code Security<a href="https://fintech.global/2025/02/06/semgrep-bags-100m-in-series-d-to-elevate-ai-driven-code-security-innovations/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The round was spearheaded by Menlo Ventures, with significant contributions from existing stakeholders including Felicis Ventures, Harpoon Ventures, Lightspeed Venture Partners, Redpoint Ventures, and Sequoia Capital.
+</details>
+<div style="text-align: right" markdown="1">
+Fintech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 6, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
