@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 12, 2025
+February 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Surge in Attacks Exploiting Old ThinkPHP and ownCloud Flaws<a href="https://www.bleepingcomputer.com/news/security/surge-in-attacks-exploiting-old-thinkphp-and-owncloud-flaws/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat monitoring platform GreyNoise reported spikes in threat actors leveraging CVE-2022-47945 and CVE-2023-49103 that affect ThinkPHP Framework and the open-source ownCloud solution for file sharing and syncing.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: PoC Exploit Published for macOS Security Flaw Enabling KASLR Bypass<a href="https://securityonline.info/macos-security-breach-cve-2024-54531-poc-published-attackers-can-bypass-kaslr/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2024-54531, allows an app to bypass KASLR, effectively revealing the kernel’s memory layout. It leverages speculative execution during system calls, a previously unexploited weakness in Apple’s kernel isolation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Palo Alto Networks Fixes Two High-Severity PAN-OS Vulnerabilities<a href="https://securityonline.info/cve-2025-0108-cve-2025-0110-palo-alto-networks-fixes-high-severity-pan-os-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2025-0108 affects PAN-OS versions 11.2 (before 11.2.4-h4), 11.1 (before 11.1.6-h1), 10.2 (before 10.2.13-h3), and 10.1 (before 10.1.14-h9). CVE-2025-0110 affects PAN-OS OpenConfig plugin versions before 2.1.2.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerability in Falcon Sensor for Linux Enables TLS MiTM Exploits<a href="https://gbhackers.com/critical-vulnerability-in-falcon-sensor/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While no evidence of exploitation has been detected, CrowdStrike has rated the flaw as high severity, with a CVSS score of 8.1. The flaw affects versions of the Falcon sensor for Linux, Kubernetes Admission Controller, and Container Sensor.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+zkLend Loses $9.5M in Crypto Heist, Asks Hacker to Return 90%<a href="https://www.bleepingcomputer.com/news/cryptocurrency/zklend-loses-95m-in-crypto-heist-asks-hacker-to-return-90-percent/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Decentralized money lender zkLend suffered a breach where threat actors exploited a smart contract vulnerability to steal 3,600 Ethereum (ETH), worth $9.5 million at the time.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NVIDIA Patches High-Severity Vulnerability in Jetson and IGX Orin Platforms<a href="https://securityonline.info/cve-2024-0112-nvidia-patches-high-severity-vulnerability-in-jetson-and-igx-orin-platforms/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“NVIDIA Jetson AGX Orin™ and NVIDIA IGX Orin software contain a vulnerability where an attacker can cause an improper input validation issue by escalating certain permissions to a limited degree,” the bulletin explains.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Dupe Targets Into Typing Powershell Commands as Admin<a href="https://www.bleepingcomputer.com/news/security/dprk-hackers-dupe-targets-into-typing-powershell-commands-as-admin/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean state actor ‘Kimsuky’ (aka ‘Emerald Sleet’ or ‘Velvet Chollima’) has been observed using a new tactic involving deceptive error messages or prompts that direct victims to execute malicious code themselves, often via PowerShell commands.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome Gets Patches for Four High-Severity Vulnerabilities in Latest Stable Channel Update<a href="https://securityonline.info/chrome-patches-four-high-severity-vulnerabilities-in-latest-stable-channel-update/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The update, which will roll out over the coming days and weeks, patches vulnerabilities in key components of the Chrome browser, including the V8 JavaScript engine, the Browser UI, and the Navigation component.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magento Credit Card Stealer Disguised in an Tag<a href="https://blog.sucuri.net/2025/02/magento-credit-card-stealer-disguised-in-an-tag.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Analyzing the decoded version of the malicious script reveals that it first checks whether the user is on the checkout page and ensures the script hasn’t run yet in the current session.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Microsoft Windows, Zyxel Device Dlaws to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/174135/security/u-s-cisa-adds-microsoft-windows-zyxel-device-flaws-known-exploited-vulnerabilities-catalog.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA added four vulnerabilities to its KEV catalog, including OS command injection flaws in Zyxel CPE Series devices (CVE-2024-40891 and CVE-2024-40890) and two Windows flaws (CVE-2025-21418 and CVE-2025-21391).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 12, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Misconfigured APIs Expose Sensitive Medical Data in Major Diagnostic Chain<a href="https://securityonline.info/misconfigured-apis-expose-sensitive-medical-data-in-major-diagnostic-chain/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Misconfigured APIs Expose Sensitive Medical Data in Major Diagnostic Chain<a hre
 A recent investigation by CloudSEK’s BeVigil platform has revealed critical vulnerabilities in the API infrastructure of a prominent diagnostic chain, exposing sensitive personal and medical data of potentially millions of users.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 12, 2025
+February 12, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 12,000 KerioControl Firewalls Exposed to Exploited RCE Flaw<a href="https://www.bleepingcomputer.com/news/security/over-12-000-keriocontrol-firewalls-exposed-to-exploited-rce-flaw/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Over 12,000 KerioControl Firewalls Exposed to Exploited RCE Flaw<a href="https:/
 GFI Software released a security update for the problem with version 9.4.5 Patch 1 on December 19, 2024, yet three weeks later, according to Censys, over 23,800 instances remained vulnerable.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 12, 2025
+February 12, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OpenSSL Patched High-Severity Flaw Enabling Man-in-the-Middle Attacks<a href="https://securityaffairs.com/174111/security/openssl-patched-the-vulnerability-cve-2024-12797.html?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ OpenSSL Patched High-Severity Flaw Enabling Man-in-the-Middle Attacks<a href="ht
 The vulnerability impacts TLS clients that explicitly enable RPKs and rely on SSL_VERIFY_PEER to detect authentication failures. Project maintainers pointed out that RPKs are disabled by default in both TLS clients and TLS servers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 12, 2025
+February 12, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Exploit a New Zero-Day to Hijack Fortinet Firewalls<a href="https://securityaffairs.com/174117/hacking/fortinet-fortios-zero-day-exploited.html?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Attackers Exploit a New Zero-Day to Hijack Fortinet Firewalls<a href="https://se
 Fortinet warned that threat actors are exploiting a new zero-day vulnerability, tracked as CVE-2025-24472 (CVSS score of 8.1), in FortiOS and FortiProxy to hijack Fortinet firewalls.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 12, 2025
+February 12, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Triplestrength Hits Victims With Ransomware, Cloud Hijacks, Cryptomining<a href="https://www.theregister.com/2025/02/11/triplestrength_google/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Triplestrength Hits Victims With Ransomware, Cloud Hijacks, Cryptomining<a href=
 A previously unknown gang dubbed Triplestrength poses a triple threat to organizations: It infects victims' computers with ransomware, then hijacks their cloud accounts to illegally mine for cryptocurrency.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 12, 2025
+February 12, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SonicWall Firewall Exploit Lets Hackers Hijack VPN Sessions, Patch Now<a href="https://www.bleepingcomputer.com/news/security/sonicwall-firewall-exploit-lets-hackers-hijack-vpn-sessions-patch-now/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ SonicWall Firewall Exploit Lets Hackers Hijack VPN Sessions, Patch Now<a href="h
 Security researchers at Bishop Fox have published complete exploitation details for the CVE-2024-53704 vulnerability that bypasses the authentication mechanism in certain SonicOS SSL VPN application versions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 12, 2025
+February 12, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft February 2025 Patch Tuesday Fixes 4 Zero-Days, 55 Flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-february-2025-patch-tuesday-fixes-4-zero-days-55-flaws/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Microsoft February 2025 Patch Tuesday Fixes 4 Zero-Days, 55 Flaws<a href="https:
 This month's Patch Tuesday fixes two actively exploited and two publicly exposed zero-day vulnerabilities. Microsoft classifies a zero-day flaw as one that is publicly disclosed or actively exploited while no official fix is available.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 12, 2025
+February 12, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ivanti Patches Critical Flaws in Connect Secure and Policy Secure<a href="https://thehackernews.com/2025/02/ivanti-patches-critical-flaws-in.html?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Ivanti Patches Critical Flaws in Connect Secure and Policy Secure<a href="https:
 Ivanti has released security updates to address multiple security flaws impacting Connect Secure (ICS), Policy Secure (IPS), and Cloud Services Application (CSA) that could be exploited to achieve arbitrary code execution.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 12, 2025
+February 12, 2025 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Semgrep Bags $100M in Series D to Elevate AI-Driven Code Security<a href="https://fintech.global/2025/02/06/semgrep-bags-100m-in-series-d-to-elevate-ai-driven-code-security-innovations/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Semgrep Bags $100M in Series D to Elevate AI-Driven Code Security<a href="https:
 The round was spearheaded by Menlo Ventures, with significant contributions from existing stakeholders including Felicis Ventures, Harpoon Ventures, Lightspeed Venture Partners, Redpoint Ventures, and Sequoia Capital.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Fintech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 12, 2025
+February 12, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 University Site Cloned to Evade Ad Detection and Distribute Fake Cisco AnyConnect Installer<a href="https://www.malwarebytes.com/blog/news/2025/02/university-site-cloned-to-evade-ad-detection-distributes-fake-cisco-installer?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ University Site Cloned to Evade Ad Detection and Distribute Fake Cisco AnyConnec
 The attackers are using a clever technique to evade detection by security systems. They have cloned the website of a German university that uses Cisco AnyConnect and are using it as a “white page” to fool ad detection systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+MalwareBytes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
