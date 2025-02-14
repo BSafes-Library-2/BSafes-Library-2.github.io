@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+February 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+zkLend Loses $9.5M in Crypto Heist, Asks Hacker to Return 90%<a href="https://www.bleepingcomputer.com/news/cryptocurrency/zklend-loses-95m-in-crypto-heist-asks-hacker-to-return-90-percent/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Decentralized money lender zkLend suffered a breach where threat actors exploited a smart contract vulnerability to steal 3,600 Ethereum (ETH), worth $9.5 million at the time.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 8, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

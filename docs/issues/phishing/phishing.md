@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+February 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Dupe Targets Into Typing Powershell Commands as Admin<a href="https://www.bleepingcomputer.com/news/security/dprk-hackers-dupe-targets-into-typing-powershell-commands-as-admin/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean state actor ‘Kimsuky’ (aka ‘Emerald Sleet’ or ‘Velvet Chollima’) has been observed using a new tactic involving deceptive error messages or prompts that direct victims to execute malicious code themselves, often via PowerShell commands.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 12, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

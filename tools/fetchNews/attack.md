@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+February 12, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Exploit a New Zero-Day to Hijack Fortinet Firewalls<a href="https://securityaffairs.com/174117/hacking/fortinet-fortios-zero-day-exploited.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet warned that threat actors are exploiting a new zero-day vulnerability, tracked as CVE-2025-24472 (CVSS score of 8.1), in FortiOS and FortiProxy to hijack Fortinet firewalls.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 12, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Triplestrength Hits Victims With Ransomware, Cloud Hijacks, Cryptomining<a href="https://www.theregister.com/2025/02/11/triplestrength_google/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown gang dubbed Triplestrength poses a triple threat to organizations: It infects victims' computers with ransomware, then hijacks their cloud accounts to illegally mine for cryptocurrency.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 11, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

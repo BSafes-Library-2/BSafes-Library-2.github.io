@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+February 12, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+University Site Cloned to Evade Ad Detection and Distribute Fake Cisco AnyConnect Installer<a href="https://www.malwarebytes.com/blog/news/2025/02/university-site-cloned-to-evade-ad-detection-distributes-fake-cisco-installer?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers are using a clever technique to evade detection by security systems. They have cloned the website of a German university that uses Cisco AnyConnect and are using it as a “white page” to fool ad detection systems.
+</details>
+<div style="text-align: right" markdown="1">
+MalwareBytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 11, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

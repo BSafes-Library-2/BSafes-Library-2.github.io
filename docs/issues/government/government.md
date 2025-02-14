@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+February 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Microsoft Windows, Zyxel Device Dlaws to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/174135/security/u-s-cisa-adds-microsoft-windows-zyxel-device-flaws-known-exploited-vulnerabilities-catalog.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA added four vulnerabilities to its KEV catalog, including OS command injection flaws in Zyxel CPE Series devices (CVE-2024-40891 and CVE-2024-40890) and two Windows flaws (CVE-2025-21418 and CVE-2025-21391).
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 11, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

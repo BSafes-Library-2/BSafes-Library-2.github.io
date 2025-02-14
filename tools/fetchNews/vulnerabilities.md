@@ -8,6 +8,90 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 12, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Misconfigured APIs Expose Sensitive Medical Data in Major Diagnostic Chain<a href="https://securityonline.info/misconfigured-apis-expose-sensitive-medical-data-in-major-diagnostic-chain/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent investigation by CloudSEK’s BeVigil platform has revealed critical vulnerabilities in the API infrastructure of a prominent diagnostic chain, exposing sensitive personal and medical data of potentially millions of users.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 12, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 12,000 KerioControl Firewalls Exposed to Exploited RCE Flaw<a href="https://www.bleepingcomputer.com/news/security/over-12-000-keriocontrol-firewalls-exposed-to-exploited-rce-flaw/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GFI Software released a security update for the problem with version 9.4.5 Patch 1 on December 19, 2024, yet three weeks later, according to Censys, over 23,800 instances remained vulnerable.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 12, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenSSL Patched High-Severity Flaw Enabling Man-in-the-Middle Attacks<a href="https://securityaffairs.com/174111/security/openssl-patched-the-vulnerability-cve-2024-12797.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability impacts TLS clients that explicitly enable RPKs and rely on SSL_VERIFY_PEER to detect authentication failures. Project maintainers pointed out that RPKs are disabled by default in both TLS clients and TLS servers.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 12, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall Firewall Exploit Lets Hackers Hijack VPN Sessions, Patch Now<a href="https://www.bleepingcomputer.com/news/security/sonicwall-firewall-exploit-lets-hackers-hijack-vpn-sessions-patch-now/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers at Bishop Fox have published complete exploitation details for the CVE-2024-53704 vulnerability that bypasses the authentication mechanism in certain SonicOS SSL VPN application versions.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 12, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft February 2025 Patch Tuesday Fixes 4 Zero-Days, 55 Flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-february-2025-patch-tuesday-fixes-4-zero-days-55-flaws/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This month's Patch Tuesday fixes two actively exploited and two publicly exposed zero-day vulnerabilities. Microsoft classifies a zero-day flaw as one that is publicly disclosed or actively exploited while no official fix is available.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 12, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ivanti Patches Critical Flaws in Connect Secure and Policy Secure<a href="https://thehackernews.com/2025/02/ivanti-patches-critical-flaws-in.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ivanti has released security updates to address multiple security flaws impacting Connect Secure (ICS), Policy Secure (IPS), and Cloud Services Application (CSA) that could be exploited to achieve arbitrary code execution.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 11, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
