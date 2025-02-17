@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows Explorer GUI Zero-Day Vulnerability Actively Exploited in the Wild<a href="https://gbhackers.com/new-microsoft-windows-gui-0-day-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw involves how Windows handles files extracted from compressed “RAR” archives. When extracted into a folder, these files appear invisible in the Windows Explorer GUI, misleading users into believing the folder is empty.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'whoAMI' Attack Enables Code Execution on Amazon EC2 Instances<a href="https://www.bleepingcomputer.com/news/security/whoami-attacks-give-hackers-code-execution-on-amazon-ec2-instances/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dubbed "whoAMI," the attack was crafted by DataDog researchers in August 2024, who demonstrated that it's possible for attackers to gain code execution within AWS accounts by exploiting how software projects retrieve AMI IDs.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WinZip Vulnerability Opens Door to Remote Code Execution<a href="https://securityonline.info/cve-2025-1240-winzip-vulnerability-opens-door-to-remote-code-execution/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2025-1240 and with a CVSS score of 7.8, stems from insufficient validation of user-supplied data during 7Z file parsing. While the vulnerability itself is serious, exploitation requires user interaction.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 13, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+February 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A10 Networks Buys ThreatX Protect To Boost AI And WAAP Security<a href="https://www.crn.com/news/security/2025/a10-networks-buys-threatx-protect-to-boost-ai-security-and-waap?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Network security standout A10 Networks is boosting its cybersecurity portfolio around web application and API protection (WAAP) by purchasing the assets and key employees from ThreatX Protect.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Quantum-Focused QuSecure Gets $28 Million in Funding<a href="https://www.channelfutures.com/mergers-acquisitions/quantum-focused-qusecure-gets-28-million-funding?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QuSecure has closed its latest round of funding with $28 million, which it will use to advance post-quantum technology and help educate partners on best practices for helping customers battle future security threats.
+</details>
+<div style="text-align: right" markdown="1">
+Channel Futures
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 12, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

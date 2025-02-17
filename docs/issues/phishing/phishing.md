@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+February 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian-Linked Hackers Found Using 'Device Code Phishing' to Hijack Accounts<a href="https://thehackernews.com/2025/02/microsoft-russian-linked-hackers-using.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Storm-2372 actors use a phishing technique called 'device code phishing.' Users are lured to log in to productivity apps while the actors capture the information from the authentication codes to hijack their accounts.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Use CAPTCHA Trick on Webflow CDN PDFs to Bypass Security Scanners<a href="https://thehackernews.com/2025/02/hackers-use-captcha-trick-on-webflow.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A widespread phishing campaign has been observed leveraging bogus PDF documents hosted on the Webflow content delivery network (CDN) with an aim to steal credit card information and commit financial fraud.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 13, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

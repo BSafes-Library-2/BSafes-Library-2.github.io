@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+February 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Valve Removed the Game PirateFi From the Steam Platform After Discovery of Hidden Malware<a href="https://securityaffairs.com/174205/malware/valve-removed-a-game-from-steam.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Valve removed the game PirateFi from the Steam video game platform because it contained malicious code designed to steal browser cookies and hijack accounts. The company also advised affected users to reformat their operating systems for mitigation.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 13, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
