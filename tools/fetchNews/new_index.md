@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 13, 2025
+February 15, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Valve Removed the Game PirateFi From the Steam Platform After Discovery of Hidden Malware<a href="https://securityaffairs.com/174205/malware/valve-removed-a-game-from-steam.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Valve removed the game PirateFi from the Steam video game platform because it contained malicious code designed to steal browser cookies and hijack accounts. The company also advised affected users to reformat their operating systems for mitigation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows Explorer GUI Zero-Day Vulnerability Actively Exploited in the Wild<a href="https://gbhackers.com/new-microsoft-windows-gui-0-day-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw involves how Windows handles files extracted from compressed “RAR” archives. When extracted into a folder, these files appear invisible in the Windows Explorer GUI, misleading users into believing the folder is empty.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian-Linked Hackers Found Using 'Device Code Phishing' to Hijack Accounts<a href="https://thehackernews.com/2025/02/microsoft-russian-linked-hackers-using.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Storm-2372 actors use a phishing technique called 'device code phishing.' Users are lured to log in to productivity apps while the actors capture the information from the authentication codes to hijack their accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China’s Salt Typhoon Hackers Targeting Cisco Devices Used by Telcos, Universities<a href="https://cyberscoop.com/salt-typhoon-china-ongoing-telecom-attack-spree/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recorded Future researchers said the Chinese nation-state threat group intruded five additional telecom networks between December and January, including two unnamed providers in the U.S..
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean APT43 Uses PowerShell and Dropbox in Targeted South Korea Cyberattacks<a href="https://thehackernews.com/2025/02/north-korean-apt43-uses-powershell-and.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack campaign, dubbed DEEP#DRIVE by Securonix, has been attributed to a hacking group known as Kimsuky, also tracked as APT43, Emerald Sleet, Sparkling Pisces, Springtail, TA427, and Velvet Chollima.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'whoAMI' Attack Enables Code Execution on Amazon EC2 Instances<a href="https://www.bleepingcomputer.com/news/security/whoami-attacks-give-hackers-code-execution-on-amazon-ec2-instances/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dubbed "whoAMI," the attack was crafted by DataDog researchers in August 2024, who demonstrated that it's possible for attackers to gain code execution within AWS accounts by exploiting how software projects retrieve AMI IDs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Use CAPTCHA Trick on Webflow CDN PDFs to Bypass Security Scanners<a href="https://thehackernews.com/2025/02/hackers-use-captcha-trick-on-webflow.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A widespread phishing campaign has been observed leveraging bogus PDF documents hosted on the Webflow content delivery network (CDN) with an aim to steal credit card information and commit financial fraud.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A10 Networks Buys ThreatX Protect To Boost AI And WAAP Security<a href="https://www.crn.com/news/security/2025/a10-networks-buys-threatx-protect-to-boost-ai-security-and-waap?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Network security standout A10 Networks is boosting its cybersecurity portfolio around web application and API protection (WAAP) by purchasing the assets and key employees from ThreatX Protect.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WinZip Vulnerability Opens Door to Remote Code Execution<a href="https://securityonline.info/cve-2025-1240-winzip-vulnerability-opens-door-to-remote-code-execution/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2025-1240 and with a CVSS score of 7.8, stems from insufficient validation of user-supplied data during 7Z file parsing. While the vulnerability itself is serious, exploitation requires user interaction.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Quantum-Focused QuSecure Gets $28 Million in Funding<a href="https://www.channelfutures.com/mergers-acquisitions/quantum-focused-qusecure-gets-28-million-funding?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QuSecure has closed its latest round of funding with $28 million, which it will use to advance post-quantum technology and help educate partners on best practices for helping customers battle future security threats.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 13, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Surge in Attacks Exploiting Old ThinkPHP and ownCloud Flaws<a href="https://www.bleepingcomputer.com/news/security/surge-in-attacks-exploiting-old-thinkphp-and-owncloud-flaws/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Surge in Attacks Exploiting Old ThinkPHP and ownCloud Flaws<a href="https://www.
 Threat monitoring platform GreyNoise reported spikes in threat actors leveraging CVE-2022-47945 and CVE-2023-49103 that affect ThinkPHP Framework and the open-source ownCloud solution for file sharing and syncing.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 13, 2025
+February 13, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: PoC Exploit Published for macOS Security Flaw Enabling KASLR Bypass<a href="https://securityonline.info/macos-security-breach-cve-2024-54531-poc-published-attackers-can-bypass-kaslr/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Update: PoC Exploit Published for macOS Security Flaw Enabling KASLR Bypass<a hr
 The vulnerability, tracked as CVE-2024-54531, allows an app to bypass KASLR, effectively revealing the kernel’s memory layout. It leverages speculative execution during system calls, a previously unexploited weakness in Apple’s kernel isolation.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 13, 2025
+February 13, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Palo Alto Networks Fixes Two High-Severity PAN-OS Vulnerabilities<a href="https://securityonline.info/cve-2025-0108-cve-2025-0110-palo-alto-networks-fixes-high-severity-pan-os-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Palo Alto Networks Fixes Two High-Severity PAN-OS Vulnerabilities<a href="https:
 CVE-2025-0108 affects PAN-OS versions 11.2 (before 11.2.4-h4), 11.1 (before 11.1.6-h1), 10.2 (before 10.2.13-h3), and 10.1 (before 10.1.14-h9). CVE-2025-0110 affects PAN-OS OpenConfig plugin versions before 2.1.2.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 13, 2025
+February 13, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Vulnerability in Falcon Sensor for Linux Enables TLS MiTM Exploits<a href="https://gbhackers.com/critical-vulnerability-in-falcon-sensor/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Critical Vulnerability in Falcon Sensor for Linux Enables TLS MiTM Exploits<a hr
 While no evidence of exploitation has been detected, CrowdStrike has rated the flaw as high severity, with a CVSS score of 8.1. The flaw affects versions of the Falcon sensor for Linux, Kubernetes Admission Controller, and Container Sensor.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 13, 2025
+February 13, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 zkLend Loses $9.5M in Crypto Heist, Asks Hacker to Return 90%<a href="https://www.bleepingcomputer.com/news/cryptocurrency/zklend-loses-95m-in-crypto-heist-asks-hacker-to-return-90-percent/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ zkLend Loses $9.5M in Crypto Heist, Asks Hacker to Return 90%<a href="https://ww
 Decentralized money lender zkLend suffered a breach where threat actors exploited a smart contract vulnerability to steal 3,600 Ethereum (ETH), worth $9.5 million at the time.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 13, 2025
+February 13, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NVIDIA Patches High-Severity Vulnerability in Jetson and IGX Orin Platforms<a href="https://securityonline.info/cve-2024-0112-nvidia-patches-high-severity-vulnerability-in-jetson-and-igx-orin-platforms/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ NVIDIA Patches High-Severity Vulnerability in Jetson and IGX Orin Platforms<a hr
 “NVIDIA Jetson AGX Orin™ and NVIDIA IGX Orin software contain a vulnerability where an attacker can cause an improper input validation issue by escalating certain permissions to a limited degree,” the bulletin explains.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 13, 2025
+February 13, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hackers Dupe Targets Into Typing Powershell Commands as Admin<a href="https://www.bleepingcomputer.com/news/security/dprk-hackers-dupe-targets-into-typing-powershell-commands-as-admin/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ North Korean Hackers Dupe Targets Into Typing Powershell Commands as Admin<a hre
 North Korean state actor ‘Kimsuky’ (aka ‘Emerald Sleet’ or ‘Velvet Chollima’) has been observed using a new tactic involving deceptive error messages or prompts that direct victims to execute malicious code themselves, often via PowerShell commands.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 13, 2025
+February 13, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Chrome Gets Patches for Four High-Severity Vulnerabilities in Latest Stable Channel Update<a href="https://securityonline.info/chrome-patches-four-high-severity-vulnerabilities-in-latest-stable-channel-update/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Google Chrome Gets Patches for Four High-Severity Vulnerabilities in Latest Stab
 The update, which will roll out over the coming days and weeks, patches vulnerabilities in key components of the Chrome browser, including the V8 JavaScript engine, the Browser UI, and the Navigation component.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 13, 2025
+February 13, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Magento Credit Card Stealer Disguised in an Tag<a href="https://blog.sucuri.net/2025/02/magento-credit-card-stealer-disguised-in-an-tag.html?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Magento Credit Card Stealer Disguised in an Tag<a href="https://blog.sucuri.net/
 Analyzing the decoded version of the malicious script reveals that it first checks whether the user is on the checkout page and ensures the script hasn’t run yet in the current session.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sucuri
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 13, 2025
+February 13, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Adds Microsoft Windows, Zyxel Device Dlaws to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/174135/security/u-s-cisa-adds-microsoft-windows-zyxel-device-flaws-known-exploited-vulnerabilities-catalog.html?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ CISA Adds Microsoft Windows, Zyxel Device Dlaws to its Known Exploited Vulnerabi
 The CISA added four vulnerabilities to its KEV catalog, including OS command injection flaws in Zyxel CPE Series devices (CVE-2024-40891 and CVE-2024-40890) and two Windows flaws (CVE-2025-21418 and CVE-2025-21391).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
