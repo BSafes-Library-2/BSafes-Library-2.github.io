@@ -34,6 +34,118 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Metasploit-Ready: CVE-2025-1094 SQLi in PostgreSQL Exposes Systems to Remote Attacks<a href="https://securityonline.info/metasploit-ready-cve-2025-1094-sqli-in-postgresql-exposes-systems-to-remote-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2025-1094 stems from an “incorrect assumption that when attacker-controlled untrusted input has been safely escaped via PostgreSQL’s string escaping routines, it cannot be leveraged to generate a successful SQL injection attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2022-31631 (CVSS 9.1): Critical PHP Flaw Exposes Websites to SQL Injection Attacks<a href="https://securityonline.info/cve-2022-31631-cvss-9-1-critical-php-flaw-exposes-websites-to-sql-injection-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A serious vulnerability has been discovered in PHP, potentially exposing websites and applications to SQL injection attacks. This function is commonly used to sanitize user-supplied data before it’s used in database queries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Palo Alto Networks and SonicWall Firewalls Under Attack<a href="https://www.infosecurity-magazine.com/news/palo-alto-networks-sonicwall/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Palo Alto Networks and SonicWall customers are being advised to patch their products, after it emerged that threat actors are actively exploiting vulnerabilities in both.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PirateFi game on Steam caught installing password-stealing malware<a href="https://www.bleepingcomputer.com/news/security/piratefi-game-on-steam-caught-installing-password-stealing-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A free-to-play game named PirateFi in the Steam store has been distributing the Vidar infostealing malware to unsuspecting users. Statistics on the title's page shows that up to 1,500 individuals may be impacted.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OAuth Phishing Alert: Fake 'Adobe Drive X' App Abusing Microsoft Login<a href="https://cofense.com/blog/oauth-phishing-alert-fake-adobe-drive-x-app-abusing-microsoft-login?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have taken phishing to the next level by weaponizing custom Microsoft 365 applications to request sensitive information from users. User is taken to a legitimate Microsoft authentication page, making the phishing attack more convincing.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Russian Threat Actors Targeting Microsoft Device Code Authentication<a href="https://www.volexity.com/blog/2025/02/13/multiple-russian-threat-actors-targeting-microsoft-device-code-authentication/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Volexity has observed multiple Russian threat actors conducting social-engineering and spear-phishing campaigns targeting organizations with the ultimate goal of compromising Microsoft 365 accounts via Device Code Authentication phishing.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+YouTube ID exploited to find Gmail deets, says researcher<a href="https://www.theregister.com/2025/02/17/infosec_news_in_brief/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher found that Google could leak the email addresses of YouTube channels. Last week he explained he found two vulnerabilities that, when chained, make it possible to sniff out the email addresses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 15, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,119 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2025
+February 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Metasploit-Ready: CVE-2025-1094 SQLi in PostgreSQL Exposes Systems to Remote Attacks<a href="https://securityonline.info/metasploit-ready-cve-2025-1094-sqli-in-postgresql-exposes-systems-to-remote-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2025-1094 stems from an “incorrect assumption that when attacker-controlled untrusted input has been safely escaped via PostgreSQL’s string escaping routines, it cannot be leveraged to generate a successful SQL injection attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2022-31631 (CVSS 9.1): Critical PHP Flaw Exposes Websites to SQL Injection Attacks<a href="https://securityonline.info/cve-2022-31631-cvss-9-1-critical-php-flaw-exposes-websites-to-sql-injection-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A serious vulnerability has been discovered in PHP, potentially exposing websites and applications to SQL injection attacks. This function is commonly used to sanitize user-supplied data before it’s used in database queries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Palo Alto Networks and SonicWall Firewalls Under Attack<a href="https://www.infosecurity-magazine.com/news/palo-alto-networks-sonicwall/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Palo Alto Networks and SonicWall customers are being advised to patch their products, after it emerged that threat actors are actively exploiting vulnerabilities in both.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PirateFi game on Steam caught installing password-stealing malware<a href="https://www.bleepingcomputer.com/news/security/piratefi-game-on-steam-caught-installing-password-stealing-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A free-to-play game named PirateFi in the Steam store has been distributing the Vidar infostealing malware to unsuspecting users. Statistics on the title's page shows that up to 1,500 individuals may be impacted.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OAuth Phishing Alert: Fake 'Adobe Drive X' App Abusing Microsoft Login<a href="https://cofense.com/blog/oauth-phishing-alert-fake-adobe-drive-x-app-abusing-microsoft-login?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have taken phishing to the next level by weaponizing custom Microsoft 365 applications to request sensitive information from users. User is taken to a legitimate Microsoft authentication page, making the phishing attack more convincing.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Russian Threat Actors Targeting Microsoft Device Code Authentication<a href="https://www.volexity.com/blog/2025/02/13/multiple-russian-threat-actors-targeting-microsoft-device-code-authentication/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Volexity has observed multiple Russian threat actors conducting social-engineering and spear-phishing campaigns targeting organizations with the ultimate goal of compromising Microsoft 365 accounts via Device Code Authentication phishing.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+YouTube ID exploited to find Gmail deets, says researcher<a href="https://www.theregister.com/2025/02/17/infosec_news_in_brief/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher found that Google could leak the email addresses of YouTube channels. Last week he explained he found two vulnerabilities that, when chained, make it possible to sniff out the email addresses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Valve Removed the Game PirateFi From the Steam Platform After Discovery of Hidden Malware<a href="https://securityaffairs.com/174205/malware/valve-removed-a-game-from-steam.html?&web_view=true"> Full Text</a>
@@ -44,13 +156,13 @@ Valve Removed the Game PirateFi From the Steam Platform After Discovery of Hidde
 Valve removed the game PirateFi from the Steam video game platform because it contained malicious code designed to steal browser cookies and hijack accounts. The company also advised affected users to reformat their operating systems for mitigation.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2025
+February 15, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows Explorer GUI Zero-Day Vulnerability Actively Exploited in the Wild<a href="https://gbhackers.com/new-microsoft-windows-gui-0-day-vulnerability/?&web_view=true"> Full Text</a>
@@ -60,13 +172,13 @@ Windows Explorer GUI Zero-Day Vulnerability Actively Exploited in the Wild<a hre
 The flaw involves how Windows handles files extracted from compressed “RAR” archives. When extracted into a folder, these files appear invisible in the Windows Explorer GUI, misleading users into believing the folder is empty.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2025
+February 15, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian-Linked Hackers Found Using 'Device Code Phishing' to Hijack Accounts<a href="https://thehackernews.com/2025/02/microsoft-russian-linked-hackers-using.html?&web_view=true"> Full Text</a>
@@ -76,13 +188,13 @@ Russian-Linked Hackers Found Using 'Device Code Phishing' to Hijack Accounts<a h
 The Storm-2372 actors use a phishing technique called 'device code phishing.' Users are lured to log in to productivity apps while the actors capture the information from the authentication codes to hijack their accounts.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2025
+February 15, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China’s Salt Typhoon Hackers Targeting Cisco Devices Used by Telcos, Universities<a href="https://cyberscoop.com/salt-typhoon-china-ongoing-telecom-attack-spree/?&web_view=true"> Full Text</a>
@@ -92,13 +204,13 @@ China’s Salt Typhoon Hackers Targeting Cisco Devices Used by Telcos, Universit
 Recorded Future researchers said the Chinese nation-state threat group intruded five additional telecom networks between December and January, including two unnamed providers in the U.S..
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CyberScoop
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2025
+February 14, 2025 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean APT43 Uses PowerShell and Dropbox in Targeted South Korea Cyberattacks<a href="https://thehackernews.com/2025/02/north-korean-apt43-uses-powershell-and.html?&web_view=true"> Full Text</a>
@@ -108,13 +220,13 @@ North Korean APT43 Uses PowerShell and Dropbox in Targeted South Korea Cyberatta
 The attack campaign, dubbed DEEP#DRIVE by Securonix, has been attributed to a hacking group known as Kimsuky, also tracked as APT43, Emerald Sleet, Sparkling Pisces, Springtail, TA427, and Velvet Chollima.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2025
+February 14, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New 'whoAMI' Attack Enables Code Execution on Amazon EC2 Instances<a href="https://www.bleepingcomputer.com/news/security/whoami-attacks-give-hackers-code-execution-on-amazon-ec2-instances/?&web_view=true"> Full Text</a>
@@ -124,13 +236,13 @@ New 'whoAMI' Attack Enables Code Execution on Amazon EC2 Instances<a href="https
 Dubbed "whoAMI," the attack was crafted by DataDog researchers in August 2024, who demonstrated that it's possible for attackers to gain code execution within AWS accounts by exploiting how software projects retrieve AMI IDs.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2025
+February 14, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Use CAPTCHA Trick on Webflow CDN PDFs to Bypass Security Scanners<a href="https://thehackernews.com/2025/02/hackers-use-captcha-trick-on-webflow.html?&web_view=true"> Full Text</a>
@@ -140,13 +252,13 @@ Hackers Use CAPTCHA Trick on Webflow CDN PDFs to Bypass Security Scanners<a href
 A widespread phishing campaign has been observed leveraging bogus PDF documents hosted on the Webflow content delivery network (CDN) with an aim to steal credit card information and commit financial fraud.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2025
+February 14, 2025 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A10 Networks Buys ThreatX Protect To Boost AI And WAAP Security<a href="https://www.crn.com/news/security/2025/a10-networks-buys-threatx-protect-to-boost-ai-security-and-waap?&web_view=true"> Full Text</a>
@@ -156,13 +268,13 @@ A10 Networks Buys ThreatX Protect To Boost AI And WAAP Security<a href="https://
 Network security standout A10 Networks is boosting its cybersecurity portfolio around web application and API protection (WAAP) by purchasing the assets and key employees from ThreatX Protect.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CRN
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2025
+February 14, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WinZip Vulnerability Opens Door to Remote Code Execution<a href="https://securityonline.info/cve-2025-1240-winzip-vulnerability-opens-door-to-remote-code-execution/?&web_view=true"> Full Text</a>
@@ -172,13 +284,13 @@ WinZip Vulnerability Opens Door to Remote Code Execution<a href="https://securit
 The vulnerability, tracked as CVE-2025-1240 and with a CVSS score of 7.8, stems from insufficient validation of user-supplied data during 7Z file parsing. While the vulnerability itself is serious, exploitation requires user interaction.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2025
+February 14, 2025 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Quantum-Focused QuSecure Gets $28 Million in Funding<a href="https://www.channelfutures.com/mergers-acquisitions/quantum-focused-qusecure-gets-28-million-funding?&web_view=true"> Full Text</a>
@@ -188,7 +300,7 @@ Quantum-Focused QuSecure Gets $28 Million in Funding<a href="https://www.channel
 QuSecure has closed its latest round of funding with $28 million, which it will use to advance post-quantum technology and help educate partners on best practices for helping customers battle future security threats.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Channel Futures
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
