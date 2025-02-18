@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+February 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean APT43 Uses PowerShell and Dropbox in Targeted South Korea Cyberattacks<a href="https://thehackernews.com/2025/02/north-korean-apt43-uses-powershell-and.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack campaign, dubbed DEEP#DRIVE by Securonix, has been attributed to a hacking group known as Kimsuky, also tracked as APT43, Emerald Sleet, Sparkling Pisces, Springtail, TA427, and Velvet Chollima.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 1, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

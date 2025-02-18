@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+February 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OAuth Phishing Alert: Fake 'Adobe Drive X' App Abusing Microsoft Login<a href="https://cofense.com/blog/oauth-phishing-alert-fake-adobe-drive-x-app-abusing-microsoft-login?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have taken phishing to the next level by weaponizing custom Microsoft 365 applications to request sensitive information from users. User is taken to a legitimate Microsoft authentication page, making the phishing attack more convincing.
+</details>
+<div style="text-align: right" markdown="1">
+Confense
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Russian Threat Actors Targeting Microsoft Device Code Authentication<a href="https://www.volexity.com/blog/2025/02/13/multiple-russian-threat-actors-targeting-microsoft-device-code-authentication/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Volexity has observed multiple Russian threat actors conducting social-engineering and spear-phishing campaigns targeting organizations with the ultimate goal of compromising Microsoft 365 accounts via Device Code Authentication phishing.
+</details>
+<div style="text-align: right" markdown="1">
+Volexity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 15, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

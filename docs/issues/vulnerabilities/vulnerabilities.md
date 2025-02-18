@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Metasploit-Ready: CVE-2025-1094 SQLi in PostgreSQL Exposes Systems to Remote Attacks<a href="https://securityonline.info/metasploit-ready-cve-2025-1094-sqli-in-postgresql-exposes-systems-to-remote-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2025-1094 stems from an “incorrect assumption that when attacker-controlled untrusted input has been safely escaped via PostgreSQL’s string escaping routines, it cannot be leveraged to generate a successful SQL injection attack.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2022-31631 (CVSS 9.1): Critical PHP Flaw Exposes Websites to SQL Injection Attacks<a href="https://securityonline.info/cve-2022-31631-cvss-9-1-critical-php-flaw-exposes-websites-to-sql-injection-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A serious vulnerability has been discovered in PHP, potentially exposing websites and applications to SQL injection attacks. This function is commonly used to sanitize user-supplied data before it’s used in database queries.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Palo Alto Networks and SonicWall Firewalls Under Attack<a href="https://www.infosecurity-magazine.com/news/palo-alto-networks-sonicwall/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Palo Alto Networks and SonicWall customers are being advised to patch their products, after it emerged that threat actors are actively exploiting vulnerabilities in both.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+YouTube ID exploited to find Gmail deets, says researcher<a href="https://www.theregister.com/2025/02/17/infosec_news_in_brief/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher found that Google could leak the email addresses of YouTube channels. Last week he explained he found two vulnerabilities that, when chained, make it possible to sniff out the email addresses.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 15, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
