@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+February 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inconsistent Security Strategies Fuel Third-Party Threats<a href="https://www.helpnetsecurity.com/2025/02/14/third-party-data-breach-risks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+About 47% of organizations have experienced a data breach or cyberattack over the past 12 months that involved a third-party accessing their network, according to Imprivata and the Ponemon Institute.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 6, 202 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

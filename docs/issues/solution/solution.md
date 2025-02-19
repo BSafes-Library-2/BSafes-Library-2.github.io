@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+February 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android's New Feature Blocks Fraudsters from Sideloading Apps During Calls<a href="https://thehackernews.com/2025/02/androids-new-feature-blocks-fraudsters.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new in-call anti-scammer protections include preventing Android users from turning on settings to install apps from unknown sources and granting access to the Accessibility Services.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 6, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

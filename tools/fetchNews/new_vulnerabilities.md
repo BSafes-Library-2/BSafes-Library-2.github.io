@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC Exploits for Two Critical LibreOffice Vulnerabilities Released, Patch ASAP<a href="https://securityonline.info/libreoffice-vulnerabilities-cve-2024-12425-cve-2024-12426-pocs-released-patch-asap/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These flaws—CVE-2024-12425 (Arbitrary File Write) and CVE-2024-12426 (Remote File Read)—require no user interaction beyond opening a malicious document, making them highly exploitable in both desktop and server environments.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Juniper Warns of Critical Authentication Bypass Flaw in Session Smart Routers<a href="https://securityonline.info/cve-2025-21589-cvss-9-8-critical-authentication-bypass-flaw-in-juniper-session-smart-routers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Currently, Juniper SIRT is not aware of any malicious exploitation of the CVE-2025-21589 vulnerability. However, given the severity of the flaw, prompt action is crucial to prevent potential attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AMD Patches Multiple Vulnerabilities in Embedded Processors<a href="https://securityonline.info/amd-patches-multi-vulnerabilities-in-embedded-processors/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AMD has released security updates addressing multiple vulnerabilities in its EPYC and Ryzen Embedded processors, some of which could allow arbitrary code execution, memory corruption, or privilege escalation.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 17, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

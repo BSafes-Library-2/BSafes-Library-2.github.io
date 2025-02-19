@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+February 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EarthKapre Leverages Cloud Infrastructure and DLL Sideloading for Data Exfiltration<a href="https://www.esentire.com/blog/unraveling-the-many-stages-and-techniques-used-by-redcurl-earthkapre-apt?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This latest attack chain showcases the group’s ability to weaponize legitimate tools, leveraging DLL sideloading techniques and cloud-based infrastructure to stealthily infiltrate networks and exfiltrate sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+ESentire
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 28, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
