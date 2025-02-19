@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Earth Preta Mixes Legitimate and Malicious Components to Sidestep Detection<a href="https://www.trendmicro.com/en_us/research/25/b/earth-preta-mixes-legitimate-and-malicious-components-to-sidestep-detection.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Earth Preta’s malware, a variant of the TONESHELL backdoor, is sideloaded with a legitimate Electronic Arts application and communicates with a command-and-control server for data exfiltration.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black-Hat SEO Campaign Lures Indian Users Into Visiting Potential Phishing Schemes<a href="https://www.cloudsek.com/blog/the-faux-seo-spiderweb-exploring-how-black-hat-seo-has-riddled-the-indian-internet-space?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a recent development, analysts at CloudSEK have discovered the much maligned use of black hat Search Engine Poisoning by threat actors, to push Rummy and Investment focused websites to unsuspecting users.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inconsistent Security Strategies Fuel Third-Party Threats<a href="https://www.helpnetsecurity.com/2025/02/14/third-party-data-breach-risks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+About 47% of organizations have experienced a data breach or cyberattack over the past 12 months that involved a third-party accessing their network, according to Imprivata and the Ponemon Institute.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC Exploits for Two Critical LibreOffice Vulnerabilities Released, Patch ASAP<a href="https://securityonline.info/libreoffice-vulnerabilities-cve-2024-12425-cve-2024-12426-pocs-released-patch-asap/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These flaws—CVE-2024-12425 (Arbitrary File Write) and CVE-2024-12426 (Remote File Read)—require no user interaction beyond opening a malicious document, making them highly exploitable in both desktop and server environments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South Korea Suspends Downloads of AI Chatbot DeepSeek<a href="https://www.infosecurity-magazine.com/news/south-korea-suspends-deepseek/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Personal Information Protection Commission (PIPC) of South Korea announced the suspension on February 15, citing deficiencies in the app’s communication features and data processing practices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EarthKapre Leverages Cloud Infrastructure and DLL Sideloading for Data Exfiltration<a href="https://www.esentire.com/blog/unraveling-the-many-stages-and-techniques-used-by-redcurl-earthkapre-apt?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This latest attack chain showcases the group’s ability to weaponize legitimate tools, leveraging DLL sideloading techniques and cloud-based infrastructure to stealthily infiltrate networks and exfiltrate sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android's New Feature Blocks Fraudsters from Sideloading Apps During Calls<a href="https://thehackernews.com/2025/02/androids-new-feature-blocks-fraudsters.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new in-call anti-scammer protections include preventing Android users from turning on settings to install apps from unknown sources and granting access to the Accessibility Services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Juniper Warns of Critical Authentication Bypass Flaw in Session Smart Routers<a href="https://securityonline.info/cve-2025-21589-cvss-9-8-critical-authentication-bypass-flaw-in-juniper-session-smart-routers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Currently, Juniper SIRT is not aware of any malicious exploitation of the CVE-2025-21589 vulnerability. However, given the severity of the flaw, prompt action is crucial to prevent potential attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of New XCSSET macOS Malware Variant Used for Cryptocurrency Theft<a href="https://www.bleepingcomputer.com/news/security/microsoft-spots-xcsset-macos-malware-variant-used-for-crypto-theft/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new variant of the XCSSET macOS modular malware has emerged in attacks that target users' sensitive information, including digital wallets and data from the legitimate Notes app.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AMD Patches Multiple Vulnerabilities in Embedded Processors<a href="https://securityonline.info/amd-patches-multi-vulnerabilities-in-embedded-processors/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AMD has released security updates addressing multiple vulnerabilities in its EPYC and Ryzen Embedded processors, some of which could allow arbitrary code execution, memory corruption, or privilege escalation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 17, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
