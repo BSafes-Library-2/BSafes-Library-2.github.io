@@ -7,6 +7,20 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2025 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Releases Two Industrial Control Systems Advisories <a href="https://www.cisa.gov/news-events/alerts/2025/02/18/cisa-releases-two-industrial-control-systems-advisories"> Full Text</a>
+</p>
+<details>
+CISA released two Industrial Control Systems (ICS) advisories on February 18, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.
+
+ICSA-24-191-01 Delta Electronics CNCSoft-G2 (Update A)
+ICSA-25-035-02 Rockwell Automation GuardLogix 5380 and 5580 (Update A)
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 11, 2025 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
