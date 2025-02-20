@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+February 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Estonian Duo Plead Guilty to $577m Crypto Ponzi Scheme<a href="https://www.infosecurity-magazine.com/news/estonian-duo-guilty-577m-crypto/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two Estonian nationals are facing up to 20 years behind bars after pleading guilty to running a huge cryptocurrency fraud scheme that netted hundreds of millions of dollars.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 8, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

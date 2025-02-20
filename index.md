@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 19, 2025
+February 19, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two New OpenSSH Bugs Threaten Enterprise Security, Uptime<a href="https://www.theregister.com/2025/02/18/openssh_vulnerabilities_mitm_dos/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Two New OpenSSH Bugs Threaten Enterprise Security, Uptime<a href="https://www.th
 Qualys discovered the bugs (CVE-2025-26465 and CVE-2025-26466) in January, per its disclosure timeline. These vulnerabilities enable machine-in-the-middle (MitM) attacks and pre-authentication denial-of-service (DoS) attacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 19, 2025
+February 19, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Issues Two New ICS Advisories Addressing Exploits and Vulnerabilities<a href="https://gbhackers.com/cisa-issues-two-new-ics-advisories/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ CISA Issues Two New ICS Advisories Addressing Exploits and Vulnerabilities<a hre
 These advisories flagged under ICSA-24-191-01 (Update A) and ICSA-25-035-02 (Update A), address high-severity flaws that could enable remote code execution and denial-of-service attacks across industrial environments.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 19, 2025
+February 19, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CERT-In Warns of High-Severity Vulnerabilities in Mozilla Firefox and Thunderbird<a href="https://thecyberexpress.com/critical-vulnerabilities-in-mozilla-products/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ CERT-In Warns of High-Severity Vulnerabilities in Mozilla Firefox and Thunderbir
 Mozilla has responded swiftly to these vulnerabilities, releasing a series of security fixes in updated versions, including Firefox 135, Firefox ESR 115.20, Firefox ESR 128.7, Thunderbird 135, and Thunderbird ESR 128.7.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 19, 2025
+February 19, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exploit Code Published for Critical GatesAir Transmitter Vulnerabilities, No Patches Available Yet<a href="https://securityonline.info/exploit-code-published-for-critical-gatesair-transmitter-vulnerabilities-no-patches-available-yet/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Exploit Code Published for Critical GatesAir Transmitter Vulnerabilities, No Pat
 Security researcher Mohamed Shahat has disclosed three critical vulnerabilities affecting GatesAir Maxiva UAXT and VAXT transmitters. These transmitters are widely used in various industries, including broadcasting, transportation, and public safety.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 19, 2025
+February 19, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chrome Buffer Overflow Flaws Let Hackers Execute Arbitrary Code & Gain System Access<a href="https://gbhackers.com/chrome-buffer-overflow-flaws/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Chrome Buffer Overflow Flaws Let Hackers Execute Arbitrary Code & Gain System Ac
 The update (version 133.0.6943.126/.127 for Windows/Mac and 133.0.6943.126 for Linux) follows the discovery of exploits in Chrome’s V8 JavaScript engine, GPU component, and network stack, underscoring escalating risks to billions of users worldwide.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 19, 2025
+February 19, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apache Ignite Vulnerability Could Allow Remote Code Execution<a href="https://securityonline.info/cve-2024-52577-cvss-9-5-apache-ignite-vulnerability-could-allow-remote-code-execution/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Apache Ignite Vulnerability Could Allow Remote Code Execution<a href="https://se
 The Apache Ignite team has addressed this vulnerability in version 2.17.0. Users of affected versions are strongly urged to upgrade to the latest release as soon as possible.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 19, 2025
+February 19, 2025 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Winnti APT41 Targets Japanese Firms in RevivalStone Cyber Espionage Campaign<a href="https://thehackernews.com/2025/02/winnti-apt41-targets-japanese-firms-in.html?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Winnti APT41 Targets Japanese Firms in RevivalStone Cyber Espionage Campaign<a h
 The China-linked threat actor known as Winnti has been attributed to a new campaign dubbed RevivalStone that targeted Japanese companies in the manufacturing, materials, and energy sectors in March 2024.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 19, 2025
+February 19, 2025 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Estonian Duo Plead Guilty to $577m Crypto Ponzi Scheme<a href="https://www.infosecurity-magazine.com/news/estonian-duo-guilty-577m-crypto/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Estonian Duo Plead Guilty to $577m Crypto Ponzi Scheme<a href="https://www.infos
 Two Estonian nationals are facing up to 20 years behind bars after pleading guilty to running a huge cryptocurrency fraud scheme that netted hundreds of millions of dollars.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 19, 2025
+February 19, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Xerox Printer Flaws Could Let Attackers Capture Windows Active Directory Credentials<a href="https://thehackernews.com/2025/02/new-xerox-printer-flaws-could-let.html?&web_view=true"> Full Text</a>
@@ -172,7 +172,7 @@ New Xerox Printer Flaws Could Let Attackers Capture Windows Active Directory Cre
 Following responsible disclosure on March 26, 2024, the vulnerabilities were addressed as part of Service Pack 57.75.53 released late last month for VersaLink C7020, 7025, and 7030 series printers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

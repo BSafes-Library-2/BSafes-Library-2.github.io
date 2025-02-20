@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+February 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black-Hat SEO Campaign Lures Indian Users Into Visiting Potential Phishing Schemes<a href="https://www.cloudsek.com/blog/the-faux-seo-spiderweb-exploring-how-black-hat-seo-has-riddled-the-indian-internet-space?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a recent development, analysts at CloudSEK have discovered the much maligned use of black hat Search Engine Poisoning by threat actors, to push Rummy and Investment focused websites to unsuspecting users.
+</details>
+<div style="text-align: right" markdown="1">
+Cloudsek
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 17, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

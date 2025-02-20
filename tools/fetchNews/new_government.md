@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+February 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Issues Two New ICS Advisories Addressing Exploits and Vulnerabilities<a href="https://gbhackers.com/cisa-issues-two-new-ics-advisories/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These advisories flagged under ICSA-24-191-01 (Update A) and ICSA-25-035-02 (Update A), address high-severity flaws that could enable remote code execution and denial-of-service attacks across industrial environments.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CERT-In Warns of High-Severity Vulnerabilities in Mozilla Firefox and Thunderbird<a href="https://thecyberexpress.com/critical-vulnerabilities-in-mozilla-products/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla has responded swiftly to these vulnerabilities, releasing a series of security fixes in updated versions, including Firefox 135, Firefox ESR 115.20, Firefox ESR 128.7, Thunderbird 135, and Thunderbird ESR 128.7.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 18, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
