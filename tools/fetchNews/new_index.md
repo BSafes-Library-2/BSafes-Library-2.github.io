@@ -34,7 +34,151 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2025
+February 19, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two New OpenSSH Bugs Threaten Enterprise Security, Uptime<a href="https://www.theregister.com/2025/02/18/openssh_vulnerabilities_mitm_dos/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Qualys discovered the bugs (CVE-2025-26465 and CVE-2025-26466) in January, per its disclosure timeline. These vulnerabilities enable machine-in-the-middle (MitM) attacks and pre-authentication denial-of-service (DoS) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 19, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Issues Two New ICS Advisories Addressing Exploits and Vulnerabilities<a href="https://gbhackers.com/cisa-issues-two-new-ics-advisories/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These advisories flagged under ICSA-24-191-01 (Update A) and ICSA-25-035-02 (Update A), address high-severity flaws that could enable remote code execution and denial-of-service attacks across industrial environments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 19, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CERT-In Warns of High-Severity Vulnerabilities in Mozilla Firefox and Thunderbird<a href="https://thecyberexpress.com/critical-vulnerabilities-in-mozilla-products/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla has responded swiftly to these vulnerabilities, releasing a series of security fixes in updated versions, including Firefox 135, Firefox ESR 115.20, Firefox ESR 128.7, Thunderbird 135, and Thunderbird ESR 128.7.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 19, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploit Code Published for Critical GatesAir Transmitter Vulnerabilities, No Patches Available Yet<a href="https://securityonline.info/exploit-code-published-for-critical-gatesair-transmitter-vulnerabilities-no-patches-available-yet/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researcher Mohamed Shahat has disclosed three critical vulnerabilities affecting GatesAir Maxiva UAXT and VAXT transmitters. These transmitters are widely used in various industries, including broadcasting, transportation, and public safety.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 19, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome Buffer Overflow Flaws Let Hackers Execute Arbitrary Code & Gain System Access<a href="https://gbhackers.com/chrome-buffer-overflow-flaws/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The update (version 133.0.6943.126/.127 for Windows/Mac and 133.0.6943.126 for Linux) follows the discovery of exploits in Chrome’s V8 JavaScript engine, GPU component, and network stack, underscoring escalating risks to billions of users worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 19, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache Ignite Vulnerability Could Allow Remote Code Execution<a href="https://securityonline.info/cve-2024-52577-cvss-9-5-apache-ignite-vulnerability-could-allow-remote-code-execution/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Apache Ignite team has addressed this vulnerability in version 2.17.0. Users of affected versions are strongly urged to upgrade to the latest release as soon as possible.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 19, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Winnti APT41 Targets Japanese Firms in RevivalStone Cyber Espionage Campaign<a href="https://thehackernews.com/2025/02/winnti-apt41-targets-japanese-firms-in.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The China-linked threat actor known as Winnti has been attributed to a new campaign dubbed RevivalStone that targeted Japanese companies in the manufacturing, materials, and energy sectors in March 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 19, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Estonian Duo Plead Guilty to $577m Crypto Ponzi Scheme<a href="https://www.infosecurity-magazine.com/news/estonian-duo-guilty-577m-crypto/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two Estonian nationals are facing up to 20 years behind bars after pleading guilty to running a huge cryptocurrency fraud scheme that netted hundreds of millions of dollars.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 19, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Xerox Printer Flaws Could Let Attackers Capture Windows Active Directory Credentials<a href="https://thehackernews.com/2025/02/new-xerox-printer-flaws-could-let.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Following responsible disclosure on March 26, 2024, the vulnerabilities were addressed as part of Service Pack 57.75.53 released late last month for VersaLink C7020, 7025, and 7030 series printers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Earth Preta Mixes Legitimate and Malicious Components to Sidestep Detection<a href="https://www.trendmicro.com/en_us/research/25/b/earth-preta-mixes-legitimate-and-malicious-components-to-sidestep-detection.html?&web_view=true"> Full Text</a>
@@ -44,13 +188,13 @@ Earth Preta Mixes Legitimate and Malicious Components to Sidestep Detection<a hr
 Earth Preta’s malware, a variant of the TONESHELL backdoor, is sideloaded with a legitimate Electronic Arts application and communicates with a command-and-control server for data exfiltration.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Trend Micro
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2025
+February 18, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Black-Hat SEO Campaign Lures Indian Users Into Visiting Potential Phishing Schemes<a href="https://www.cloudsek.com/blog/the-faux-seo-spiderweb-exploring-how-black-hat-seo-has-riddled-the-indian-internet-space?&web_view=true"> Full Text</a>
@@ -60,13 +204,13 @@ Black-Hat SEO Campaign Lures Indian Users Into Visiting Potential Phishing Schem
 In a recent development, analysts at CloudSEK have discovered the much maligned use of black hat Search Engine Poisoning by threat actors, to push Rummy and Investment focused websites to unsuspecting users.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cloudsek
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2025
+February 18, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Inconsistent Security Strategies Fuel Third-Party Threats<a href="https://www.helpnetsecurity.com/2025/02/14/third-party-data-breach-risks/?&web_view=true"> Full Text</a>
@@ -76,13 +220,13 @@ Inconsistent Security Strategies Fuel Third-Party Threats<a href="https://www.he
 About 47% of organizations have experienced a data breach or cyberattack over the past 12 months that involved a third-party accessing their network, according to Imprivata and the Ponemon Institute.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2025
+February 18, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PoC Exploits for Two Critical LibreOffice Vulnerabilities Released, Patch ASAP<a href="https://securityonline.info/libreoffice-vulnerabilities-cve-2024-12425-cve-2024-12426-pocs-released-patch-asap/?&web_view=true"> Full Text</a>
@@ -92,13 +236,13 @@ PoC Exploits for Two Critical LibreOffice Vulnerabilities Released, Patch ASAP<a
 These flaws—CVE-2024-12425 (Arbitrary File Write) and CVE-2024-12426 (Remote File Read)—require no user interaction beyond opening a malicious document, making them highly exploitable in both desktop and server environments.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2025
+February 18, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 South Korea Suspends Downloads of AI Chatbot DeepSeek<a href="https://www.infosecurity-magazine.com/news/south-korea-suspends-deepseek/?&web_view=true"> Full Text</a>
@@ -108,13 +252,13 @@ South Korea Suspends Downloads of AI Chatbot DeepSeek<a href="https://www.infose
 The Personal Information Protection Commission (PIPC) of South Korea announced the suspension on February 15, citing deficiencies in the app’s communication features and data processing practices.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2025
+February 18, 2025 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EarthKapre Leverages Cloud Infrastructure and DLL Sideloading for Data Exfiltration<a href="https://www.esentire.com/blog/unraveling-the-many-stages-and-techniques-used-by-redcurl-earthkapre-apt?&web_view=true"> Full Text</a>
@@ -124,13 +268,13 @@ EarthKapre Leverages Cloud Infrastructure and DLL Sideloading for Data Exfiltrat
 This latest attack chain showcases the group’s ability to weaponize legitimate tools, leveraging DLL sideloading techniques and cloud-based infrastructure to stealthily infiltrate networks and exfiltrate sensitive data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ESentire
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2025
+February 18, 2025 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android's New Feature Blocks Fraudsters from Sideloading Apps During Calls<a href="https://thehackernews.com/2025/02/androids-new-feature-blocks-fraudsters.html?&web_view=true"> Full Text</a>
@@ -140,13 +284,13 @@ Android's New Feature Blocks Fraudsters from Sideloading Apps During Calls<a hre
 The new in-call anti-scammer protections include preventing Android users from turning on settings to install apps from unknown sources and granting access to the Accessibility Services.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2025
+February 18, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Juniper Warns of Critical Authentication Bypass Flaw in Session Smart Routers<a href="https://securityonline.info/cve-2025-21589-cvss-9-8-critical-authentication-bypass-flaw-in-juniper-session-smart-routers/?&web_view=true"> Full Text</a>
@@ -156,13 +300,13 @@ Juniper Warns of Critical Authentication Bypass Flaw in Session Smart Routers<a 
 Currently, Juniper SIRT is not aware of any malicious exploitation of the CVE-2025-21589 vulnerability. However, given the severity of the flaw, prompt action is crucial to prevent potential attacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2025
+February 18, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of New XCSSET macOS Malware Variant Used for Cryptocurrency Theft<a href="https://www.bleepingcomputer.com/news/security/microsoft-spots-xcsset-macos-malware-variant-used-for-crypto-theft/?&web_view=true"> Full Text</a>
@@ -172,13 +316,13 @@ Microsoft Warns of New XCSSET macOS Malware Variant Used for Cryptocurrency Thef
 A new variant of the XCSSET macOS modular malware has emerged in attacks that target users' sensitive information, including digital wallets and data from the legitimate Notes app.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2025
+February 18, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AMD Patches Multiple Vulnerabilities in Embedded Processors<a href="https://securityonline.info/amd-patches-multi-vulnerabilities-in-embedded-processors/?&web_view=true"> Full Text</a>
@@ -188,7 +332,7 @@ AMD Patches Multiple Vulnerabilities in Embedded Processors<a href="https://secu
 AMD has released security updates addressing multiple vulnerabilities in its EPYC and Ryzen Embedded processors, some of which could allow arbitrary code execution, memory corruption, or privilege escalation.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
