@@ -8,6 +8,76 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two New OpenSSH Bugs Threaten Enterprise Security, Uptime<a href="https://www.theregister.com/2025/02/18/openssh_vulnerabilities_mitm_dos/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Qualys discovered the bugs (CVE-2025-26465 and CVE-2025-26466) in January, per its disclosure timeline. These vulnerabilities enable machine-in-the-middle (MitM) attacks and pre-authentication denial-of-service (DoS) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploit Code Published for Critical GatesAir Transmitter Vulnerabilities, No Patches Available Yet<a href="https://securityonline.info/exploit-code-published-for-critical-gatesair-transmitter-vulnerabilities-no-patches-available-yet/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researcher Mohamed Shahat has disclosed three critical vulnerabilities affecting GatesAir Maxiva UAXT and VAXT transmitters. These transmitters are widely used in various industries, including broadcasting, transportation, and public safety.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 19, 2025 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome Buffer Overflow Flaws Let Hackers Execute Arbitrary Code &amp; Gain System Access<a href="https://gbhackers.com/chrome-buffer-overflow-flaws/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The update (version 133.0.6943.126/.127 for Windows/Mac and 133.0.6943.126 for Linux) follows the discovery of exploits in Chrome’s V8 JavaScript engine, GPU component, and network stack, underscoring escalating risks to billions of users worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache Ignite Vulnerability Could Allow Remote Code Execution<a href="https://securityonline.info/cve-2024-52577-cvss-9-5-apache-ignite-vulnerability-could-allow-remote-code-execution/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Apache Ignite team has addressed this vulnerability in version 2.17.0. Users of affected versions are strongly urged to upgrade to the latest release as soon as possible.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Xerox Printer Flaws Could Let Attackers Capture Windows Active Directory Credentials<a href="https://thehackernews.com/2025/02/new-xerox-printer-flaws-could-let.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Following responsible disclosure on March 26, 2024, the vulnerabilities were addressed as part of Service Pack 57.75.53 released late last month for VersaLink C7020, 7025, and 7030 series printers.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 18, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

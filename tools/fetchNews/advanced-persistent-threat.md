@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+February 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Winnti APT41 Targets Japanese Firms in RevivalStone Cyber Espionage Campaign<a href="https://thehackernews.com/2025/02/winnti-apt41-targets-japanese-firms-in.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The China-linked threat actor known as Winnti has been attributed to a new campaign dubbed RevivalStone that targeted Japanese companies in the manufacturing, materials, and energy sectors in March 2024.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 14, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

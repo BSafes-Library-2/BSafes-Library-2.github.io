@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+February 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackLock Becomes the World's Fastest Rising Ransomware Operator<a href="https://www.reliaquest.com/blog/threat-spotlight-inside-the-worlds-fastest-rising-ransomware-operator-blacklock/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BlackLock actively recruits key players, known as traffers, to support the early stages of ransomware attacks. These individuals drive malicious traffic, steer victims to harmful content, and help establish initial access for campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+Reliaquest
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 11, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
