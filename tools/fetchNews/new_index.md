@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 20, 2025
+February 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SpyLend Android malware downloaded 100,000 times from Google Play<a href="https://www.bleepingcomputer.com/news/security/spylend-android-malware-downloaded-100-000-times-from-google-play/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Android malware app called SpyLend has been downloaded over 100,000 times from Google Play, where it masqueraded as a financial tool but became a predatory loan app for those in India.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Drained $1.4 Billion of Cryptocurrency From Bybit Exchange<a href="https://therecord.media/hackers-drained-bybit-crypto-exchange-hack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Dubai-based company said the incident occurred when the company was moving funds from a “cold” wallet — a wallet whose private keys are kept offline for security reasons — to an online “warm” wallet.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REF7707 Espionage Campaign Targets South America and Southeast Asia<a href="https://securityonline.info/ref7707-espionage-campaign-targets-south-america-and-southeast-asia/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers behind REF7707 deployed novel malware families—FINALDRAFT, GUIDLOADER, and PATHLOADER—to gain persistence and execute highly sophisticated network intrusions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian State Hackers Spy on Ukrainian Military Through Signal App<a href="https://therecord.media/russian-state-hackers-spy-on-ukraine-military-signal?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google’s security team said in a report on Wednesday that Signal’s popularity among military personnel, politicians, journalists and activists has made it a prime target for espionage operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon Prime Phishing Scam Steals Login, Payment Info<a href="https://securityonline.info/amazon-prime-phishing-scam-steals-login-payment-info/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cofense Phishing Defense Center (PDC) has identified a new phishing campaign that specifically targets Amazon Prime users, attempting to steal login credentials, security answers, and payment details.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New XELERA Ransomware Campaign Spreading Through Malicious Documents<a href="https://securityonline.info/new-xelera-ransomware-campaign-spreading-through-malicious-documents/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers at Seqrite Labs APT-Team uncovered a sophisticated spear-phishing attack that delivers a Python-based ransomware via malicious documents disguised as job notifications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA and FBI Warn of Ghost Ransomware Which has Breached Organizations in 70 Countries<a href="https://www.bleepingcomputer.com/news/security/cisa-and-fbi-ghost-ransomware-breached-orgs-in-70-countries/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Names linked to this group include Ghost, Cring, Crypt3r, Phantom, Strike, Hello, Wickrme, HsHarada, and Rapture, with ransomware samples used in their attacks including Cring.exe, Ghost.exe, ElysiumO.exe, and Locker.exe.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Proof-of-Concept Exploit Released for Four Ivanti Vulnerabilities<a href="https://www.cybersecuritydive.com/news/proof-of-concept-exploit-released-for-4-ivanti-vulnerabilities/740475/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Horizon3.ai researchers on Wednesday released technical details and a proof-of-concept (PoC) exploit for four critical Ivanti vulnerabilities that were first disclosed and patched last month.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Bleeding Edge of Phishing: darcula-suite 3.0 Enables DIY Phishing of Any Brand<a href="https://www.netcraft.com/blog/darcula-v3-phishing-kits-targeting-any-brand/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new version of the phishing-as-a-service (PhaaS) platform "Darcula" is launching, with a feature that allows anyone to spoof any brand online, with no technical skill required.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 330 Million Credentials Compromised by Infostealers<a href="https://www.infosecurity-magazine.com/news/330-million-credentials/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Infostealers became one of the “most significant initial access vectors” in the threat landscape last year, with one threat intelligence company claiming to find over 330 million compromised credentials linked to the malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 20, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New FrigidStealer Malware Infects Macs via Fake Browser Updates<a href="https://www.bleepingcomputer.com/news/security/new-frigidstealer-infostealer-infects-macs-via-fake-browser-updates/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ New FrigidStealer Malware Infects Macs via Fake Browser Updates<a href="https://
 FrigidStealer is a Go-based malware built with the WailsIO framework to make the installer appear legitimate during infection. The malware extracts saved cookies, login credentials, and password-related files stored in Safari or Chrome on macOS.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 20, 2025
+February 20, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple Vulnerabilities Discovered in NVIDIA CUDA Toolkit<a href="https://unit42.paloaltonetworks.com/nvidia-cuda-toolkit-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Multiple Vulnerabilities Discovered in NVIDIA CUDA Toolkit<a href="https://unit4
 These vulnerabilities have been assigned Common Vulnerability Scoring System (CVSS) numbers ranging from 2.8 to 3.3 representing a Low level of impact. Successful exploitation could lead to limited denial of service and information disclosure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Palo Alto Networks
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 20, 2025
+February 20, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rhadamanthys Stealer Being Distributed Through MSC Files<a href="https://asec.ahnlab.com/en/86391/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Rhadamanthys Stealer Being Distributed Through MSC Files<a href="https://asec.ah
 The malicious MSC file is often disguised as a harmless document, such as a Word file. When the victim opens the file, it downloads and executes a PowerShell script from an external server. This script then decodes and runs the Rhadamanthys Stealer.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ASEC
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 20, 2025
+February 20, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SICK Warns of Severe Security Flaws in MEAC300 Sensors<a href="https://securityonline.info/sick-warns-of-severe-security-flaws-in-meac300-sensors-cve-2025-0867-rated-9-9-cvss/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ SICK Warns of Severe Security Flaws in MEAC300 Sensors<a href="https://securityo
 The vulnerabilities, tracked as CVE-2022-0778 and CVE-2025-0867, could allow attackers to cause a denial of service or potentially execute arbitrary code on affected devices.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 20, 2025
+February 20, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Signal, Line, and Gmail Installers Target Chinese-Speaking Users with Backdoors<a href="https://hunt.io/blog/backdoored-executables-for-signal-line-gmail-target-chinese-users?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Malicious Signal, Line, and Gmail Installers Target Chinese-Speaking Users with 
 The attackers rely on search engine optimization (SEO) poisoning to direct users to fraudulent download pages for apps like Signal, Line, and Gmail, which deliver ZIP files containing executable malware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hunt
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 20, 2025
+February 20, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Windows Disk Cleanup Tool Flaw Exploited to Gain SYSTEM Privileges, PoC Released<a href="https://securityonline.info/cve-2025-21420-windows-disk-cleanup-tool-flaw-exploited-to-gain-system-privileges-poc-released/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Update: Windows Disk Cleanup Tool Flaw Exploited to Gain SYSTEM Privileges, PoC 
 The vulnerability was anonymously disclosed to Microsoft and subsequently, a proof-of-concept exploit was published on GitHub by a security researcher. The exploit leverages a DLL sideloading technique with cleanmgr.exe.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 20, 2025
+February 20, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Highly Obfuscated .NET sectopRAT Disguises as Chrome Extension<a href="https://gbhackers.com/highly-obfuscated-net-sectoprat-mimic/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Highly Obfuscated .NET sectopRAT Disguises as Chrome Extension<a href="https://g
 Recently, cybersecurity researchers uncovered a new campaign where sectopRAT disguises itself as a legitimate Google Chrome extension named “Google Docs,” further amplifying its stealth and data-theft capabilities.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 20, 2025
+February 20, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Netgear C7800 Router Flaw Exposes User Credentials, No Patch!<a href="https://securityonline.info/cve-2022-41545-netgear-c7800-router-flaw-exposes-user-credentials-no-patch/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Netgear C7800 Router Flaw Exposes User Credentials, No Patch!<a href="https://se
 An attacker who successfully performs a man-in-the-middle attack on the WLAN or LAN can intercept user credentials. This could grant full control over the router, enabling settings manipulation, data theft, or launch further attacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 20, 2025
+February 20, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackLock Becomes the World's Fastest Rising Ransomware Operator<a href="https://www.reliaquest.com/blog/threat-spotlight-inside-the-worlds-fastest-rising-ransomware-operator-blacklock/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ BlackLock Becomes the World's Fastest Rising Ransomware Operator<a href="https:/
 BlackLock actively recruits key players, known as traffers, to support the early stages of ransomware attacks. These individuals drive malicious traffic, steer victims to harmful content, and help establish initial access for campaigns.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Reliaquest
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 20, 2025
+February 20, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Patches Actively Exploited Power Pages Privilege Escalation Vulnerability<a href="https://thehackernews.com/2025/02/microsoft-patches-actively-exploited.html?&web_view=true"> Full Text</a>
@@ -189,7 +349,7 @@ The two critical-rated vulnerabilities include CVE-2025-21355 (CVSS score: 8.6),
 CVE-2025-24989 (CVSS score: 8.2), a Microsoft Power Pages elevation of privilege vulnerability.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

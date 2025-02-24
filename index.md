@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SpyLend Android malware downloaded 100,000 times from Google Play<a href="https://www.bleepingcomputer.com/news/security/spylend-android-malware-downloaded-100-000-times-from-google-play/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Android malware app called SpyLend has been downloaded over 100,000 times from Google Play, where it masqueraded as a financial tool but became a predatory loan app for those in India.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Drained $1.4 Billion of Cryptocurrency From Bybit Exchange<a href="https://therecord.media/hackers-drained-bybit-crypto-exchange-hack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Dubai-based company said the incident occurred when the company was moving funds from a “cold” wallet — a wallet whose private keys are kept offline for security reasons — to an online “warm” wallet.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REF7707 Espionage Campaign Targets South America and Southeast Asia<a href="https://securityonline.info/ref7707-espionage-campaign-targets-south-america-and-southeast-asia/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers behind REF7707 deployed novel malware families—FINALDRAFT, GUIDLOADER, and PATHLOADER—to gain persistence and execute highly sophisticated network intrusions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian State Hackers Spy on Ukrainian Military Through Signal App<a href="https://therecord.media/russian-state-hackers-spy-on-ukraine-military-signal?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google’s security team said in a report on Wednesday that Signal’s popularity among military personnel, politicians, journalists and activists has made it a prime target for espionage operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon Prime Phishing Scam Steals Login, Payment Info<a href="https://securityonline.info/amazon-prime-phishing-scam-steals-login-payment-info/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cofense Phishing Defense Center (PDC) has identified a new phishing campaign that specifically targets Amazon Prime users, attempting to steal login credentials, security answers, and payment details.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New XELERA Ransomware Campaign Spreading Through Malicious Documents<a href="https://securityonline.info/new-xelera-ransomware-campaign-spreading-through-malicious-documents/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers at Seqrite Labs APT-Team uncovered a sophisticated spear-phishing attack that delivers a Python-based ransomware via malicious documents disguised as job notifications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA and FBI Warn of Ghost Ransomware Which has Breached Organizations in 70 Countries<a href="https://www.bleepingcomputer.com/news/security/cisa-and-fbi-ghost-ransomware-breached-orgs-in-70-countries/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Names linked to this group include Ghost, Cring, Crypt3r, Phantom, Strike, Hello, Wickrme, HsHarada, and Rapture, with ransomware samples used in their attacks including Cring.exe, Ghost.exe, ElysiumO.exe, and Locker.exe.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Proof-of-Concept Exploit Released for Four Ivanti Vulnerabilities<a href="https://www.cybersecuritydive.com/news/proof-of-concept-exploit-released-for-4-ivanti-vulnerabilities/740475/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Horizon3.ai researchers on Wednesday released technical details and a proof-of-concept (PoC) exploit for four critical Ivanti vulnerabilities that were first disclosed and patched last month.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Bleeding Edge of Phishing: darcula-suite 3.0 Enables DIY Phishing of Any Brand<a href="https://www.netcraft.com/blog/darcula-v3-phishing-kits-targeting-any-brand/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new version of the phishing-as-a-service (PhaaS) platform "Darcula" is launching, with a feature that allows anyone to spoof any brand online, with no technical skill required.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 330 Million Credentials Compromised by Infostealers<a href="https://www.infosecurity-magazine.com/news/330-million-credentials/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Infostealers became one of the “most significant initial access vectors” in the threat landscape last year, with one threat intelligence company claiming to find over 330 million compromised credentials linked to the malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 20, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
