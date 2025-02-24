@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+February 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Drained $1.4 Billion of Cryptocurrency From Bybit Exchange<a href="https://therecord.media/hackers-drained-bybit-crypto-exchange-hack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Dubai-based company said the incident occurred when the company was moving funds from a “cold” wallet — a wallet whose private keys are kept offline for security reasons — to an online “warm” wallet.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 13, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

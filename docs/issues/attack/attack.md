@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+February 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REF7707 Espionage Campaign Targets South America and Southeast Asia<a href="https://securityonline.info/ref7707-espionage-campaign-targets-south-america-and-southeast-asia/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers behind REF7707 deployed novel malware families—FINALDRAFT, GUIDLOADER, and PATHLOADER—to gain persistence and execute highly sophisticated network intrusions.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 15, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

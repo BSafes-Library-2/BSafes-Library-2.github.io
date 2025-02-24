@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+February 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian State Hackers Spy on Ukrainian Military Through Signal App<a href="https://therecord.media/russian-state-hackers-spy-on-ukraine-military-signal?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google’s security team said in a report on Wednesday that Signal’s popularity among military personnel, politicians, journalists and activists has made it a prime target for espionage operations.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 20, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

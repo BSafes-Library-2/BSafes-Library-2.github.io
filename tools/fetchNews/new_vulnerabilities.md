@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 21, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Proof-of-Concept Exploit Released for Four Ivanti Vulnerabilities<a href="https://www.cybersecuritydive.com/news/proof-of-concept-exploit-released-for-4-ivanti-vulnerabilities/740475/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Horizon3.ai researchers on Wednesday released technical details and a proof-of-concept (PoC) exploit for four critical Ivanti vulnerabilities that were first disclosed and patched last month.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 20, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

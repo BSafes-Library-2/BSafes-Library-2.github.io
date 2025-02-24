@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+February 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon Prime Phishing Scam Steals Login, Payment Info<a href="https://securityonline.info/amazon-prime-phishing-scam-steals-login-payment-info/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cofense Phishing Defense Center (PDC) has identified a new phishing campaign that specifically targets Amazon Prime users, attempting to steal login credentials, security answers, and payment details.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 21, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Bleeding Edge of Phishing: darcula-suite 3.0 Enables DIY Phishing of Any Brand<a href="https://www.netcraft.com/blog/darcula-v3-phishing-kits-targeting-any-brand/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new version of the phishing-as-a-service (PhaaS) platform "Darcula" is launching, with a feature that allows anyone to spoof any brand online, with no technical skill required.
+</details>
+<div style="text-align: right" markdown="1">
+NetCraft
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 18, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

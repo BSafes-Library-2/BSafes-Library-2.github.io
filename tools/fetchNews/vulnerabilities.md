@@ -8,6 +8,77 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Vulnerabilities Discovered in NVIDIA CUDA Toolkit<a href="https://unit42.paloaltonetworks.com/nvidia-cuda-toolkit-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These vulnerabilities have been assigned Common Vulnerability Scoring System (CVSS) numbers ranging from 2.8 to 3.3 representing a Low level of impact. Successful exploitation could lead to limited denial of service and information disclosure.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SICK Warns of Severe Security Flaws in MEAC300 Sensors<a href="https://securityonline.info/sick-warns-of-severe-security-flaws-in-meac300-sensors-cve-2025-0867-rated-9-9-cvss/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities, tracked as CVE-2022-0778 and CVE-2025-0867, could allow attackers to cause a denial of service or potentially execute arbitrary code on affected devices.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Windows Disk Cleanup Tool Flaw Exploited to Gain SYSTEM Privileges, PoC Released<a href="https://securityonline.info/cve-2025-21420-windows-disk-cleanup-tool-flaw-exploited-to-gain-system-privileges-poc-released/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability was anonymously disclosed to Microsoft and subsequently, a proof-of-concept exploit was published on GitHub by a security researcher. The exploit leverages a DLL sideloading technique with cleanmgr.exe.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Netgear C7800 Router Flaw Exposes User Credentials, No Patch!<a href="https://securityonline.info/cve-2022-41545-netgear-c7800-router-flaw-exposes-user-credentials-no-patch/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An attacker who successfully performs a man-in-the-middle attack on the WLAN or LAN can intercept user credentials. This could grant full control over the router, enabling settings manipulation, data theft, or launch further attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patches Actively Exploited Power Pages Privilege Escalation Vulnerability<a href="https://thehackernews.com/2025/02/microsoft-patches-actively-exploited.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The two critical-rated vulnerabilities include CVE-2025-21355 (CVSS score: 8.6), a Microsoft Bing remote code execution vulnerability, and 
+CVE-2025-24989 (CVSS score: 8.2), a Microsoft Power Pages elevation of privilege vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 19, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

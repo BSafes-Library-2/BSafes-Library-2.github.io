@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 19, 2025 - CISA, FBI, MS-ISAC
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA and Partners Release Advisory on Ghost (Cring) Ransomware <a href="https://www.cisa.gov/news-events/alerts/2025/02/19/cisa-and-partners-release-advisory-ghost-cring-ransomware"> Full Text</a>
+</p>
+<details>
+Today, CISA—in partnership with the Federal Bureau of Investigation (FBI) and Multi-State Information Sharing and Analysis Center (MS-ISAC)—released a joint Cybersecurity Advisory, #StopRansomware: Ghost (Cring) Ransomware. This advisory provides network defenders with indicators of compromise (IOCs), tactics, techniques, and procedures (TTPs), and detection methods associated with Ghost ransomware activity identified through FBI investigations.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 18, 2025 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
