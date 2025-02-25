@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+February 21, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 330 Million Credentials Compromised by Infostealers<a href="https://www.infosecurity-magazine.com/news/330-million-credentials/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Infostealers became one of the “most significant initial access vectors” in the threat landscape last year, with one threat intelligence company claiming to find over 330 million compromised credentials linked to the malware.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 15, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
