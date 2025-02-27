@@ -8,6 +8,90 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-Day in Parallels Desktop Allows Root Privilege Escalation, PoC Released<a href="https://securityonline.info/0-day-in-parallels-desktop-allows-root-privilege-escalation-poc-released/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Independent researcher Mickey Jin (@patch1t) publicly disclosed the exploit after Parallels left the vulnerability unpatched for over seven months, despite multiple responsible disclosure attempts.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exim Mail Transfer Vulnerability Allows Attackers to Inject Malicious SQL<a href="https://gbhackers.com/exim-mail-transfer-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Systems become vulnerable when compiled with the _USE_SQLITE_ option, which activates SQLite integration for hints database management, and when administrators enable ETRN commands without proper serialization safeguards.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Libxml2 Flaws Could Lead to Code Execution<a href="https://securityonline.info/cve-2024-56171-cve-2025-24928-libxml2-flaws-could-lead-to-code-execution/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users of libxml2 are strongly encouraged to update to the latest versions, 2.12.10 or 2.13.6, to address these vulnerabilities. Older branches of libxml2 will not receive updates.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Moxa PT Switches Vulnerable to Denial-of-Service Attack<a href="https://securityonline.info/moxa-pt-switches-vulnerable-to-cve-2024-9404-denial-of-service-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2024-9404 poses a significant remote threat if the affected PT switches are exposed to publicly accessible networks. Attackers could exploit this vulnerability to disrupt critical operations in various industrial environments.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerability in Pentaho Business Analytics Server<a href="https://securityonline.info/cve-2024-37361-cvss-9-9-critical-vulnerability-in-pentaho-business-analytics-server/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To fully address the critical vulnerability (CVE-2024-37361), users are advised to upgrade to the latest Hitachi Vantara Pentaho 10.2 release or, for version 9.3, to install Service Pack 9.3.0.9 or higher.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Flags Craft CMS Vulnerability CVE-2025-23209 Amid Active Attacks<a href="https://thehackernews.com/2025/02/cisa-flags-craft-cms-vulnerability-cve.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw is tracked as CVE-2025-23209 and is a high severity (CVSS v3 score: 8.0)  code injection (RCE) vulnerability impacting Craft CMS versions 4 and 5. Federal agencies have until March 13, 2025, to patch the Craft CMS flaw.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker Newes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 21, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

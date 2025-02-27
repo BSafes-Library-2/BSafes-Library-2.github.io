@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+February 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PolarEdge Botnet: 2,000+ IoT Devices Infected<a href="https://securityonline.info/polaredge-botnet-2000-iot-devices-infected/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The botnet has infected over 2,000 devices globally and has been active since at least late 2023. The attack campaign exploits CVE-2023-20118, a remote code execution (RCE) vulnerability affecting multiple Cisco Small Business Router models.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 22, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

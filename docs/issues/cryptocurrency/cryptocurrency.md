@@ -8,6 +8,21 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+February 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitVenom Malware Steals $456K in Bitcoin Using Fake GitHub Projects to Hijack Wallets<a href="https://thehackernews.com/2025/02/gitvenom-malware-steals-456k-in-bitcoin.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers are calling attention to an ongoing campaign that's targeting gamers and cryptocurrency investors under the guise of open-source projects hosted on GitHub.
+q
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 22, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
