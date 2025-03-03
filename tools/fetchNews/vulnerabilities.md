@@ -8,6 +8,76 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rsync Flaws Allow Hackers to Take Over Servers, PoC Published<a href="https://securityonline.info/cve-2024-12084-cve-2024-12085-rsync-flaws-allow-hackers-to-take-over-servers-poc-published/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Cloud Vulnerability Research published the technical details and proof-of-concept (PoC) exploits for five critical Rsync vulnerabilities, identified as CVE-2024-12084, CVE-2024-12085, CVE-2024-12086, CVE-2024-12087, and CVE-2024-12088.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive WordPress Plugin Vulnerability Exposes Millions to XSS Attacks<a href="https://securityonline.info/cve-2025-24752-massive-wordpress-plugin-vulnerability-exposes-millions-to-xss-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2025-24752, is a reflected Cross-Site Scripting (XSS) issue that could allow malicious actors to inject harmful scripts into unsuspecting users’ browsers.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GRUB2 Bootloader Vulnerabilities Expose Millions of Systems to Attacks<a href="https://securityonline.info/grub2-bootloader-vulnerabilities-expose-millions-of-systems-to-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A series of critical vulnerabilities have been discovered in GRUB2, the popular boot loader used by many Linux distributions. These flaws could allow attackers to bypass security measures, potentially compromising millions of systems globally.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenH264 Codec Vulnerability Poses Remote Code Execution Risk<a href="https://securityonline.info/openh264-codec-vulnerability-cve-2025-27091-remote-code-execution-possible/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2025-27091 and assigned a CVSSv4 score of 8.6, this vulnerability could allow remote attackers to trigger a heap overflow, potentially leading to arbitrary code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Exploiting Cisco Vulnerabilities Tied to Salt Typhoon Campaign<a href="https://www.cybersecuritydive.com/news/attackers-exploiting-cisco-vulnerabilities-tied-to-salt-typhoon-campaign/740859/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GreyNoise researchers observed active exploitation of two Cisco vulnerabilities, CVE-2018-0171 and CVE-2023-20198, which reportedly have been used in recent attacks by the Chinese nation-state threat group known as Salt Typhoon.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 24, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

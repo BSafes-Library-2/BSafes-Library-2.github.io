@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+February 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Have I Been Pwned Adds 284M Accounts Stolen by Infostealer Malware<a href="https://www.bleepingcomputer.com/news/security/have-i-been-pwned-adds-284m-accounts-stolen-by-infostealer-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HIBP founder Troy Hunt found 284,132,969 compromised accounts while analyzing 1.5TB of stealer logs likely collected from numerous sources and shared on a Telegram channel known as “ALIEN TXTBASE.”
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 21, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

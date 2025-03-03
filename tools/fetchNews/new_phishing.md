@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 1, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New PayPal Scam Tricks Users with Convincing Ads and Pages<a href="https://securityonline.info/new-paypal-scam-tricks-users-with-convincing-ads-and-pages/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The scammers create ads that impersonate PayPal, often using hacked advertiser accounts. They exploit PayPal’s “no-code checkout” feature, designed for merchants to accept payments online or in person without needing a developer or coding knowledge.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 24, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

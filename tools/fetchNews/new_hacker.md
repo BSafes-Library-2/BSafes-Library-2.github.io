@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 1, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lotus Blossom Espionage Group Targets Multiple Industries With Different Versions of Sagerunex and Hacking Tools<a href="https://blog.talosintelligence.com/lotus-blossom-espionage-group/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos uncovered two new variants of the Sagerunex backdoor, which were detected during attacks on telecommunications and media companies, as well as many Sagerunex variants persistent in the government and manufacturing industries.
+</details>
+<div style="text-align: right" markdown="1">
+Talo Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 18, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

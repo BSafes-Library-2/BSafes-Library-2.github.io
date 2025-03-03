@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+March 1, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-Linked Threat Actor Uses RustDoor and Koi Stealer for macOS to Target the Cryptocurrency Sector<a href="https://unit42.paloaltonetworks.com/macos-malware-targets-crypto-sector/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In this campaign, Unit 42 researchers discovered a Rust-based macOS malware nicknamed RustDoor masquerading as a legitimate software update, as well as a previously undocumented macOS variant of a malware family known as Koi Stealer.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 26, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

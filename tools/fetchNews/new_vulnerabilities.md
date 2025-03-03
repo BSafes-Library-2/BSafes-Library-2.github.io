@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 1, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens Teamcenter vulnerability could allow account takeover (CVE-2025-23363)<a href="https://www.helpnetsecurity.com/2025/02/27/siemens-teamcenter-vulnerability-could-allow-account-takeover-cve-2025-23363/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity vulnerability (CVE-2025-23363) in the Siemens Teamcenter product lifecycle management (PLM) software could allow an attacker to steal users’ valid session data and gain unauthorized access to the vulnerable application.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security 
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 1, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Account Takeover Vulnerability Found in Better Auth Library<a href="https://securityonline.info/account-takeover-vulnerability-found-in-better-auth-library/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical security vulnerability has been discovered in the Better Auth library, a popular TypeScript authentication framework. The vulnerability could allow attackers to bypass security measures and potentially take over user accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 1, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LibreOffice Flaws Allow Attackers to Run Malicious Files on Windows<a href="https://gbhackers.com/libreoffice-flaws/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, which impacts versions before 24.8.5, revolves around improper validation of non-file URLs interpreted as Windows file paths through the ShellExecute function.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 26, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

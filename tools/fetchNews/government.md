@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+February 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Microsoft and Zimbra Flaws to KEV Catalog Amid Active Exploitation<a href="https://thehackernews.com/2025/02/cisa-adds-microsoft-and-zimbra-flaws-to.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA on Tuesday placed two security flaws impacting Microsoft Partner Center and Synacor Zimbra Collaboration Suite (ZCS) to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 21, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
