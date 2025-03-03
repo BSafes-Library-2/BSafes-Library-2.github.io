@@ -34,14 +34,14 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 26, 2025
+March 1, 2025
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-GitVenom Malware Steals $456K in Bitcoin Using Fake GitHub Projects to Hijack Wallets<a href="https://thehackernews.com/2025/02/gitvenom-malware-steals-456k-in-bitcoin.html?&web_view=true"> Full Text</a>
+New PayPal Scam Tricks Users with Convincing Ads and Pages<a href="https://securityonline.info/new-paypal-scam-tricks-users-with-convincing-ads-and-pages/?&web_view=true"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-Cybersecurity researchers are calling attention to an ongoing campaign that's targeting gamers and cryptocurrency investors under the guise of open-source projects hosted on GitHub.
+The scammers create ads that impersonate PayPal, often using hacked advertiser accounts. They exploit PayPal’s “no-code checkout” feature, designed for merchants to accept payments online or in person without needing a developer or coding knowledge.
 </details>
 <div style="text-align: right" markdown="1">
 Cyware
@@ -50,7 +50,168 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 26, 2025
+March 1, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Malware Campaign Uses Fake “Mods” and “Cracks” to Steal User Data<a href="https://gbhackers.com/new-github-scam/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated malware campaign leveraging GitHub repositories disguised as game modifications and cracked software has been uncovered, exposing a dangerous convergence of social engineering tactics and automated credential harvesting.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens Teamcenter vulnerability could allow account takeover (CVE-2025-23363)<a href="https://www.helpnetsecurity.com/2025/02/27/siemens-teamcenter-vulnerability-could-allow-account-takeover-cve-2025-23363/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity vulnerability (CVE-2025-23363) in the Siemens Teamcenter product lifecycle management (PLM) software could allow an attacker to steal users’ valid session data and gain unauthorized access to the vulnerable application.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vo1d malware botnet grows to 1.6 million Android TVs worldwide<a href="https://www.bleepingcomputer.com/news/security/vo1d-malware-botnet-grows-to-16-million-android-tvs-worldwide/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new variant of the Vo1d malware botnet has grown to 1,590,299 infected Android TV devices across 226 countries, recruiting devices as part of anonymous proxy server networks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Account Takeover Vulnerability Found in Better Auth Library<a href="https://securityonline.info/account-takeover-vulnerability-found-in-better-auth-library/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical security vulnerability has been discovered in the Better Auth library, a popular TypeScript authentication framework. The vulnerability could allow attackers to bypass security measures and potentially take over user accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lotus Blossom Espionage Group Targets Multiple Industries With Different Versions of Sagerunex and Hacking Tools<a href="https://blog.talosintelligence.com/lotus-blossom-espionage-group/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos uncovered two new variants of the Sagerunex backdoor, which were detected during attacks on telecommunications and media companies, as well as many Sagerunex variants persistent in the government and manufacturing industries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LibreOffice Flaws Allow Attackers to Run Malicious Files on Windows<a href="https://gbhackers.com/libreoffice-flaws/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, which impacts versions before 24.8.5, revolves around improper validation of non-file URLs interpreted as Windows file paths through the ShellExecute function.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-Linked Threat Actor Uses RustDoor and Koi Stealer for macOS to Target the Cryptocurrency Sector<a href="https://unit42.paloaltonetworks.com/macos-malware-targets-crypto-sector/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In this campaign, Unit 42 researchers discovered a Rust-based macOS malware nicknamed RustDoor masquerading as a legitimate software update, as well as a previously undocumented macOS variant of a malware family known as Koi Stealer.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 28, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake WordPress Plugin Impacts SEO by Injecting Casino Spam<a href="https://blog.sucuri.net/2025/02/fake-wordpress-plugin-impacts-seo-by-injecting-casino-spam.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers used multiple stealthy methods to evade detection: naming the plugin an innocent-sounding name, and hiding it in the WordPress plugins directory versus a core file to avoid being found by integrity checks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 28, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VSCode Extensions With 9 Million Installs Pulled Over Security Risks<a href="https://www.bleepingcomputer.com/news/security/vscode-extensions-with-9-million-installs-pulled-over-security-risks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has removed two popular VSCode extensions, 'Material Theme – Free' and  'Material Theme Icons – Free,' from the Visual Studio Marketplace for allegedly containing malicious code.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 26, 2025 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitVenom Malware Steals $456K in Bitcoin Using Fake GitHub Projects to Hijack Wallets<a href="https://thehackernews.com/2025/02/gitvenom-malware-steals-456k-in-bitcoin.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers are calling attention to an ongoing campaign that's targeting gamers and cryptocurrency investors under the guise of open-source projects hosted on GitHub.
+q
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 26, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Auto-Color Linux Backdoor Targets North American Governments, Universities<a href="https://www.bleepingcomputer.com/news/security/new-auto-color-linux-backdoor-targets-north-american-govts-universities/?&web_view=true"> Full Text</a>
@@ -60,13 +221,13 @@ New Auto-Color Linux Backdoor Targets North American Governments, Universities<a
 A previously undocumented Linux backdoor dubbed 'Auto-Color' was observed in attacks between November and December 2024, targeting universities and government organizations in North America and Asia.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 26, 2025
+February 26, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rsync Flaws Allow Hackers to Take Over Servers, PoC Published<a href="https://securityonline.info/cve-2024-12084-cve-2024-12085-rsync-flaws-allow-hackers-to-take-over-servers-poc-published/?&web_view=true"> Full Text</a>
@@ -76,13 +237,13 @@ Rsync Flaws Allow Hackers to Take Over Servers, PoC Published<a href="https://se
 Google Cloud Vulnerability Research published the technical details and proof-of-concept (PoC) exploits for five critical Rsync vulnerabilities, identified as CVE-2024-12084, CVE-2024-12085, CVE-2024-12086, CVE-2024-12087, and CVE-2024-12088.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 26, 2025
+February 26, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Massive WordPress Plugin Vulnerability Exposes Millions to XSS Attacks<a href="https://securityonline.info/cve-2025-24752-massive-wordpress-plugin-vulnerability-exposes-millions-to-xss-attacks/?&web_view=true"> Full Text</a>
@@ -92,13 +253,13 @@ Massive WordPress Plugin Vulnerability Exposes Millions to XSS Attacks<a href="h
 The vulnerability, tracked as CVE-2025-24752, is a reflected Cross-Site Scripting (XSS) issue that could allow malicious actors to inject harmful scripts into unsuspecting users’ browsers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 26, 2025
+February 26, 2025 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PolarEdge Botnet: 2,000+ IoT Devices Infected<a href="https://securityonline.info/polaredge-botnet-2000-iot-devices-infected/?&web_view=true"> Full Text</a>
@@ -108,13 +269,13 @@ PolarEdge Botnet: 2,000+ IoT Devices Infected<a href="https://securityonline.inf
 The botnet has infected over 2,000 devices globally and has been active since at least late 2023. The attack campaign exploits CVE-2023-20118, a remote code execution (RCE) vulnerability affecting multiple Cisco Small Business Router models.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 26, 2025
+February 26, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GRUB2 Bootloader Vulnerabilities Expose Millions of Systems to Attacks<a href="https://securityonline.info/grub2-bootloader-vulnerabilities-expose-millions-of-systems-to-attacks/?&web_view=true"> Full Text</a>
@@ -124,13 +285,13 @@ GRUB2 Bootloader Vulnerabilities Expose Millions of Systems to Attacks<a href="h
 A series of critical vulnerabilities have been discovered in GRUB2, the popular boot loader used by many Linux distributions. These flaws could allow attackers to bypass security measures, potentially compromising millions of systems globally.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 26, 2025
+February 26, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OpenH264 Codec Vulnerability Poses Remote Code Execution Risk<a href="https://securityonline.info/openh264-codec-vulnerability-cve-2025-27091-remote-code-execution-possible/?&web_view=true"> Full Text</a>
@@ -140,13 +301,13 @@ OpenH264 Codec Vulnerability Poses Remote Code Execution Risk<a href="https://se
 Tracked as CVE-2025-27091 and assigned a CVSSv4 score of 8.6, this vulnerability could allow remote attackers to trigger a heap overflow, potentially leading to arbitrary code execution.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 26, 2025
+February 26, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Have I Been Pwned Adds 284M Accounts Stolen by Infostealer Malware<a href="https://www.bleepingcomputer.com/news/security/have-i-been-pwned-adds-284m-accounts-stolen-by-infostealer-malware/?&web_view=true"> Full Text</a>
@@ -156,13 +317,13 @@ Have I Been Pwned Adds 284M Accounts Stolen by Infostealer Malware<a href="https
 HIBP founder Troy Hunt found 284,132,969 compromised accounts while analyzing 1.5TB of stealer logs likely collected from numerous sources and shared on a Telegram channel known as “ALIEN TXTBASE.”
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 26, 2025
+February 26, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Exploiting Cisco Vulnerabilities Tied to Salt Typhoon Campaign<a href="https://www.cybersecuritydive.com/news/attackers-exploiting-cisco-vulnerabilities-tied-to-salt-typhoon-campaign/740859/?&web_view=true"> Full Text</a>
@@ -172,13 +333,13 @@ Attackers Exploiting Cisco Vulnerabilities Tied to Salt Typhoon Campaign<a href=
 GreyNoise researchers observed active exploitation of two Cisco vulnerabilities, CVE-2018-0171 and CVE-2023-20198, which reportedly have been used in recent attacks by the Chinese nation-state threat group known as Salt Typhoon.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 26, 2025
+February 26, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Adds Microsoft and Zimbra Flaws to KEV Catalog Amid Active Exploitation<a href="https://thehackernews.com/2025/02/cisa-adds-microsoft-and-zimbra-flaws-to.html?&web_view=true"> Full Text</a>
@@ -188,7 +349,7 @@ CISA Adds Microsoft and Zimbra Flaws to KEV Catalog Amid Active Exploitation<a h
 The CISA on Tuesday placed two security flaws impacting Microsoft Partner Center and Synacor Zimbra Collaboration Suite (ZCS) to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
