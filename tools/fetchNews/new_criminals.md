@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: North Korean Hackers Finish Initial Laundering Stage After Stealing Over $1 Billion From Bybit<a href="https://therecord.media/north-koreans-initial-laundering-bybit-hack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts from multiple blockchain security companies said Monday that the hackers were able to move all of the stolen ETH coins to new addresses — the first step taken before the funds can be laundered further.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Fake IT Workers Leverage GitHub to Build Personas<a href="https://www.infosecurity-magazine.com/news/north-korean-fake-it-workers-github/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers tracked a global network of IT workers posing as Vietnamese, Japanese, and Singaporean nationals attempting to obtain employment in remote engineering and full-stack blockchain developer positions in Japan and the US.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 20, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

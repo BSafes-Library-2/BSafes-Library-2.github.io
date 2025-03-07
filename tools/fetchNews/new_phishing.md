@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark Caracal Threat Group Likely Refreshed its Malware Arsenal in Recent Campaign<a href="https://therecord.media/dark-caracal-hackers-poco-rat-bandook?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the latest Poco RAT campaign, the hackers used phishing emails to impersonate financial institutions and business service providers. Victims received emails warning them of overdue invoices, with attachments disguised as official documents.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 1, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

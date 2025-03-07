@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 5, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lumma Stealer Expands Attack Surface with Fake Booking Sites and CAPTCHA Tricks<a href="https://securityonline.info/lummastealer-expands-attack-surface-with-fake-booking-sites-and-captcha-tricks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign’s infection chain was first detected in early 2025, targeting users booking trips to Palawan, Philippines. Within a week, the attack vector shifted to a hotel in Munich, Germany, indicating a broader global focus on travel-related sites.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 5, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoho Patches Account Takeover Vulnerability in ADSelfService Plus<a href="https://securityonline.info/cve-2025-1723-zoho-patches-account-takeover-vulnerability-in-adselfservice-plus/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability stems from improper session management, potentially exposing sensitive user information and enabling attackers to hijack accounts. Zoho has confirmed that the issue has been resolved in ADSelfService Plus version 6511.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 5, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: North Korean Hackers Finish Initial Laundering Stage After Stealing Over $1 Billion From Bybit<a href="https://therecord.media/north-koreans-initial-laundering-bybit-hack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts from multiple blockchain security companies said Monday that the hackers were able to move all of the stolen ETH coins to new addresses — the first step taken before the funds can be laundered further.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 5, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NVIDIA Addresses High-Severity HGX Management Controller Vulnerability<a href="https://securityonline.info/cve-2024-0114-nvidia-addresses-high-severity-hmc-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nvidia has issued a security update addressing two vulnerabilities (CVE-2024-0114 and CVE-2024-0141) in its Hopper HGX 8-GPU HMC, including a high-severity flaw that could allow unauthorized code execution, privilege escalation, and data tampering.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 5, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark Caracal Threat Group Likely Refreshed its Malware Arsenal in Recent Campaign<a href="https://therecord.media/dark-caracal-hackers-poco-rat-bandook?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the latest Poco RAT campaign, the hackers used phishing emails to impersonate financial institutions and business service providers. Victims received emails warning them of overdue invoices, with attachments disguised as official documents.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 5, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC Exploit Published for Critical HPE Insight RS Flaw Posing RCE Risks<a href="https://securityonline.info/hpe-insight-rs-flaw-cve-2024-53676-poc-exploit-published-rce-risk-looms/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability stems from improper path validation in the processAtatchmentDataStream method. This flaw allows attackers to bypass directory restrictions and upload malicious files outside the intended directory.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 5, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Cyber-Espionage Campaign Targets UAE Aviation Sector and Transport Infrastructure<a href="https://www.infosecurity-magazine.com/news/espionage-campaign-targets-uae/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack campaign, attributed by Proofpoint to a cluster known as UNK_CraftyCamel, employed a sophisticated infection chain to deploy a newly discovered backdoor named Sosano.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 5, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vim Users Warned Code Execution Flaw That can be Trigged by Crafted TAR Files<a href="https://securityonline.info/vim-users-warned-crafted-tar-files-could-trigger-code-execution-cve-2025-27423/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Vim project has released patch v9.1.1164, which addresses CVE-2025-27423. Users are strongly advised to update their Vim installations to this version or later immediately.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 5, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Fake IT Workers Leverage GitHub to Build Personas<a href="https://www.infosecurity-magazine.com/news/north-korean-fake-it-workers-github/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers tracked a global network of IT workers posing as Vietnamese, Japanese, and Singaporean nationals attempting to obtain employment in remote engineering and full-stack blockchain developer positions in Japan and the US.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 5, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Broadcom Fixes Three VMware Zero-Days Exploited in Attacks<a href="https://www.bleepingcomputer.com/news/security/broadcom-fixes-three-vmware-zero-days-exploited-in-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The three zero-day vulnerabilities (CVE-2025-22224, CVE-2025-22225, and CVE-2025-22226) impact VMware ESX products, including VMware ESXi, vSphere, Workstation, Fusion, Cloud Foundation, and Telco Cloud Platform.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 1, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

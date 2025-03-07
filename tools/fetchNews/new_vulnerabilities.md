@@ -8,6 +8,76 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoho Patches Account Takeover Vulnerability in ADSelfService Plus<a href="https://securityonline.info/cve-2025-1723-zoho-patches-account-takeover-vulnerability-in-adselfservice-plus/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability stems from improper session management, potentially exposing sensitive user information and enabling attackers to hijack accounts. Zoho has confirmed that the issue has been resolved in ADSelfService Plus version 6511.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NVIDIA Addresses High-Severity HGX Management Controller Vulnerability<a href="https://securityonline.info/cve-2024-0114-nvidia-addresses-high-severity-hmc-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nvidia has issued a security update addressing two vulnerabilities (CVE-2024-0114 and CVE-2024-0141) in its Hopper HGX 8-GPU HMC, including a high-severity flaw that could allow unauthorized code execution, privilege escalation, and data tampering.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC Exploit Published for Critical HPE Insight RS Flaw Posing RCE Risks<a href="https://securityonline.info/hpe-insight-rs-flaw-cve-2024-53676-poc-exploit-published-rce-risk-looms/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability stems from improper path validation in the processAtatchmentDataStream method. This flaw allows attackers to bypass directory restrictions and upload malicious files outside the intended directory.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vim Users Warned Code Execution Flaw That can be Trigged by Crafted TAR Files<a href="https://securityonline.info/vim-users-warned-crafted-tar-files-could-trigger-code-execution-cve-2025-27423/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Vim project has released patch v9.1.1164, which addresses CVE-2025-27423. Users are strongly advised to update their Vim installations to this version or later immediately.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Broadcom Fixes Three VMware Zero-Days Exploited in Attacks<a href="https://www.bleepingcomputer.com/news/security/broadcom-fixes-three-vmware-zero-days-exploited-in-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The three zero-day vulnerabilities (CVE-2025-22224, CVE-2025-22225, and CVE-2025-22226) impact VMware ESX products, including VMware ESXi, vSphere, Workstation, Fusion, Cloud Foundation, and Telco Cloud Platform.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 1, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
