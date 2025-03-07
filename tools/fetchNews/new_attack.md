@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+March 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-Linked Silk Typhoon Expands Cyberattacks to IT Supply Chains for Initial Access<a href="https://thehackernews.com/2025/03/china-linked-silk-typhoon-expands-cyber.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The China-linked threat actor behind the zero-day exploitation of security flaws in Microsoft Exchange servers in January 2021 has shifted its tactics to target the IT supply chain as a means to obtain initial access to corporate networks.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophisticated Business Email Compromise Attack Targets B2B Transactions<a href="https://www.trendmicro.com/en_us/research/25/c/from-event-to-insight.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack involved three business partners (Partner A, Partner B, and Partner C) exchanging invoices via email. The threat actor gained access to a third-party email server, giving them complete visibility into ongoing transactions.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 5, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2025
+March 6, 2025 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BadBox Malware Disrupted on 500K Infected Android Devices<a href="https://www.bleepingcomputer.com/news/security/badbox-malware-disrupted-on-500k-infected-android-devices/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ BadBox Malware Disrupted on 500K Infected Android Devices<a href="https://www.bl
 The BadBox Android malware botnet has been disrupted again by removing 24 malicious apps from Google Play and sinkholing communications for half a million infected devices.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2025
+March 6, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 YouTube Warns of AI-Generated Video of its CEO Used in Phishing Attacks<a href="https://www.bleepingcomputer.com/news/security/youtube-warns-of-ai-generated-video-of-its-ceo-used-in-phishing-attacks/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ YouTube Warns of AI-Generated Video of its CEO Used in Phishing Attacks<a href="
 YouTube warned of an AI-generated video of the company's CEO used in phishing attacks to steal creators' credentials. The scammers share it as a private video with targeted users via emails claiming a change in YouTube's monetization policy.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2025
+March 6, 2025 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Charges 12 Chinese Nationals in State-Backed Hacking Operations<a href="https://thehackernews.com/2025/03/us-charges-12-chinese-nationals-in.html?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ U.S. Charges 12 Chinese Nationals in State-Backed Hacking Operations<a href="htt
 The U.S. Department of Justice (DoJ) has announced charges against 12 Chinese nationals for their alleged participation in a wide-ranging scheme designed to steal data and suppress free speech and dissent globally.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2025
+March 6, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Code Execution Vulnerability Patched in Elastic Kibana<a href="https://securityonline.info/cve-2025-25012-cvss-9-9-critical-code-execution-vulnerability-patched-in-elastic-kibana/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Critical Code Execution Vulnerability Patched in Elastic Kibana<a href="https://
 Elastic has released a security update to address a critical vulnerability in Kibana. The vulnerability, tracked as CVE-2025-25012 and assigned a CVSS score of 9.9, could allow attackers to execute arbitrary code on vulnerable systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2025
+March 6, 2025 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco-backed Cybersecurity Startup SpecterOps Raises $75M In Series B Funding<a href="https://www.crn.com/news/networking/2025/cisco-backed-cybersecurity-startup-specterops-raises-75m-in-series-b-funding?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Cisco-backed Cybersecurity Startup SpecterOps Raises $75M In Series B Funding<a 
 Cybersecurity startup SpecterOps on Wednesday revealed it has raised $75 million in a Series B financing round that will go towards scaling its flagship platform for detecting and removing identity-based attack paths.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CRN
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2025
+March 6, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-Linked Silk Typhoon Expands Cyberattacks to IT Supply Chains for Initial Access<a href="https://thehackernews.com/2025/03/china-linked-silk-typhoon-expands-cyber.html?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ China-Linked Silk Typhoon Expands Cyberattacks to IT Supply Chains for Initial A
 The China-linked threat actor behind the zero-day exploitation of security flaws in Microsoft Exchange servers in January 2021 has shifted its tactics to target the IT supply chain as a means to obtain initial access to corporate networks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2025
+March 6, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: Over Half of Organizations Report Serious OT Security Incidents<a href="https://www.infosecurity-magazine.com/news/half-organizations-serious-ot/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Report: Over Half of Organizations Report Serious OT Security Incidents<a href="
 A new report by the SANS Institute revealed that most organizations suffered an incident leading to data loss, unauthorized access, operational disruption, or other events. Just 43% indicated no such incident occurred over the past 12 months.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2025
+March 6, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaw in Chaty Pro Plugin Exposes Thousands of WordPress Sites to Takeover<a href="https://securityonline.info/cve-2025-26776-cvss-10-in-chaty-pro-plugin-exposes-thousands-of-wordpress-sites-to-takeover/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Critical Flaw in Chaty Pro Plugin Exposes Thousands of WordPress Sites to Takeov
 The vulnerability stems from a lack of proper authorization and security checks in the code responsible for handling user input. The developers of Chaty Pro have addressed CVE-2025-26776 in version 3.3.4.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2025
+March 6, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sophisticated Business Email Compromise Attack Targets B2B Transactions<a href="https://www.trendmicro.com/en_us/research/25/c/from-event-to-insight.html?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Sophisticated Business Email Compromise Attack Targets B2B Transactions<a href="
 The attack involved three business partners (Partner A, Partner B, and Partner C) exchanging invoices via email. The threat actor gained access to a third-party email server, giving them complete visibility into ongoing transactions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Trend Micro
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2025
+March 6, 2025 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Open-Source Tool 'Rayhunter' Helps Users Detect Stingray Attacks<a href="https://www.bleepingcomputer.com/news/security/open-source-tool-rayhunter-helps-users-detect-stingray-attacks/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Open-Source Tool 'Rayhunter' Helps Users Detect Stingray Attacks<a href="https:/
 The Electronic Frontier Foundation (EFF) has released a free, open-source tool named Rayhunter that is designed to detect cell-site simulators (CSS), also known as IMSI catchers or Stingrays.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

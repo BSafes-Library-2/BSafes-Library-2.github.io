@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+March 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco-backed Cybersecurity Startup SpecterOps Raises $75M In Series B Funding<a href="https://www.crn.com/news/networking/2025/cisco-backed-cybersecurity-startup-specterops-raises-75m-in-series-b-funding?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity startup SpecterOps on Wednesday revealed it has raised $75 million in a Series B financing round that will go towards scaling its flagship platform for detecting and removing identity-based attack paths.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 14, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

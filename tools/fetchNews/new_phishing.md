@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+YouTube Warns of AI-Generated Video of its CEO Used in Phishing Attacks<a href="https://www.bleepingcomputer.com/news/security/youtube-warns-of-ai-generated-video-of-its-ceo-used-in-phishing-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+YouTube warned of an AI-generated video of the company's CEO used in phishing attacks to steal creators' credentials. The scammers share it as a private video with targeted users via emails claiming a change in YouTube's monetization policy.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 5, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

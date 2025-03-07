@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+March 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Cyber-Espionage Campaign Targets UAE Aviation Sector and Transport Infrastructure<a href="https://www.infosecurity-magazine.com/news/espionage-campaign-targets-uae/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack campaign, attributed by Proofpoint to a cluster known as UNK_CraftyCamel, employed a sophisticated infection chain to deploy a newly discovered backdoor named Sosano.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 22, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
