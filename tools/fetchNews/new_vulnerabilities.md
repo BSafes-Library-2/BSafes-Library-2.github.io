@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Vulnerabilities Discovered in ICONICS Suite SCADA System<a href="https://unit42.paloaltonetworks.com/vulnerabilities-in-iconics-software-suite/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unit 42 assessed the ICONICS Suite SCADA system and identified five vulnerabilities in versions 10.97.2 and earlier for Windows. The ICONICS security team issued multiple patches in 2024 to resolve these issues.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 6, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

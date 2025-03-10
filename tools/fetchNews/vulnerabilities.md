@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Code Execution Vulnerability Patched in Elastic Kibana<a href="https://securityonline.info/cve-2025-25012-cvss-9-9-critical-code-execution-vulnerability-patched-in-elastic-kibana/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Elastic has released a security update to address a critical vulnerability in Kibana. The vulnerability, tracked as CVE-2025-25012 and assigned a CVSS score of 9.9, could allow attackers to execute arbitrary code on vulnerable systems.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw in Chaty Pro Plugin Exposes Thousands of WordPress Sites to Takeover<a href="https://securityonline.info/cve-2025-26776-cvss-10-in-chaty-pro-plugin-exposes-thousands-of-wordpress-sites-to-takeover/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability stems from a lack of proper authorization and security checks in the code responsible for handling user input. The developers of Chaty Pro have addressed CVE-2025-26776 in version 3.3.4.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 5, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

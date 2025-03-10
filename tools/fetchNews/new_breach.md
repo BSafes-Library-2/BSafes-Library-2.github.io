@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+March 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qilin Ransomware Gang Claims the Hack of the Ministry of Foreign Affairs of Ukraine<a href="https://securityaffairs.com/175025/cyber-crime/qilin-ransomware-ministry-of-foreign-affairs-of-ukraine.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group stated that it stole sensitive data such as private correspondence, personal information, and official decrees. The ransomware group declared that they had already sold some of the alleged stolen information to third parties.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 1,000 WordPress Sites Infected with JavaScript Backdoors Enabling Persistent Attacker Access<a href="https://thehackernews.com/2025/03/over-1000-wordpress-sites-infected-with.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malicious JavaScript code has been found to be served via cdn.csyndication[.]com. As of writing, as many as 908 websites contain references to the domain in question.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 26, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

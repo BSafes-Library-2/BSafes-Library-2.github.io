@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medusa Ransomware Activity Continues to Increase<a href="https://www.security.com/threat-intelligence/medusa-ransomware-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Medusa ransomware attacks jumped by 42% between 2023 and 2024. This increase in activity continues to escalate, with almost twice as many Medusa attacks observed in January and February 2025 as in the first two months of 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 22, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
