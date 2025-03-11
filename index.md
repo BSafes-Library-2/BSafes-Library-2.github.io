@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PHP-CGI RCE Flaw Exploited in Attacks on Japan's Tech, Telecom, and E-Commerce Sectors<a href="https://thehackernews.com/2025/03/php-cgi-rce-flaw-exploited-in-attacks.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"The attacker has exploited the vulnerability CVE-2024-4577, a remote code execution (RCE) flaw in the PHP-CGI implementation of PHP on Windows, to gain initial access to victim machines," Cisco Talos researchers said.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Large-Scale Fraud Operation "PrintSteal" Generates Fake KYC Documents Through Spoofed Sites<a href="https://securityonline.info/printsteal-unmasking-a-large-scale-kyc-document-fraud-operation/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Operating under a network of impersonating websites, the scheme has exploited Common Service Centre (CSC) platforms to produce and distribute fake Aadhaar cards, birth certificates, PAN cards, and other identity documents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of North Korean Hackers Joining Qilin Ransomware Gang<a href="https://www.bleepingcomputer.com/news/security/microsoft-north-korean-hackers-now-deploying-qilin-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"Moonstone Sleet has previously exclusively deployed their own custom ransomware in their attacks, and this represents the first instance they are deploying ransomware developed by a RaaS operator," Microsoft researchers said.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Majority of Orgs Hit by AI Cyber-Attacks as Detection Lags<a href="https://www.infosecurity-magazine.com/news/majority-of-orgs-hit-by-ai/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Most (87%) security professionals have reported that their organization has encountered an AI-driven cyber-attack in the last year, with the technology increasingly takes hold, according to a new report by SoSafe.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN7, FIN8, and Others Use Ragnar Loader for Persistent Access and Ransomware Operations<a href="https://thehackernews.com/2025/03/fin7-fin8-and-others-use-ragnar-loader.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat hunters have shed light on a "sophisticated and evolving malware toolkit" called Ragnar Loader that's used by various cybercrime and ransomware groups like Ragnar Locker (aka Monstrous Mantis), FIN7, FIN8, and Ruthless Mantis (ex-REvil).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Groups Favor Repeatable Access Over Mass Exploits<a href="https://www.infosecurity-magazine.com/news/ransomware-repeatable-access/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware groups have shifted away from mass compromise events from vulnerability exploits towards “reliable and repeatable” methods to gain access to victim networks, according to Travelers’ latest Cyber Threat Report.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US seizes $23 million in crypto linked to LastPass breaches<a href="https://www.bleepingcomputer.com/news/security/us-seizes-23-million-in-crypto-stolen-via-password-manager-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. authorities have seized over $23 million in cryptocurrency linked to the theft of $150 million from a Ripple crypto wallet in January 2024. Investigators believe hackers who breached LastPass in 2022 were behind the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Chirp tool uses audio tones to transfer data between devices<a href="https://www.bleepingcomputer.com/news/software/new-chirp-tool-uses-audio-tones-to-transfer-data-between-devices/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new open-source tool named 'Chirp' transmits data between computers (and smartphones) through different audio tones. Other microphone-equipped computers running Chirp may capture the sound and translate the message back into text.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Undocumented commands found in Bluetooth chip used by a billion devices<a href="https://www.bleepingcomputer.com/news/security/undocumented-commands-found-in-bluetooth-chip-used-by-a-billion-devices/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tarlogic Security has detected a backdoor in the ESP32, a microcontroller that enables WiFi and Bluetooth connection and is present in millions of mass-market IoT devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US cities warn of wave of unpaid parking phishing texts<a href="https://www.bleepingcomputer.com/news/security/us-cities-warn-of-wave-of-unpaid-parking-phishing-texts/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US cities are warning of an ongoing mobile phishing campaign pretending to be texts from the city's parking violation departments about unpaid parking invoices, that if unpaid, will incur an additional $35 fine per day.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 8, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
