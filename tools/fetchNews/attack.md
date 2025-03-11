@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+March 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Akira Ransomware Gang Encrypted Network From a Webcam to Bypass EDR<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-encrypted-network-from-a-webcam-to-bypass-edr/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Akira ransomware gang was spotted using an unsecured webcam to launch encryption attacks on a victim's network, effectively circumventing Endpoint Detection and Response (EDR), which was blocking the encryptor in Windows.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia Claims Ukraine Hacked State Youth Organizations to Recruit Minors<a href="https://therecord.media/russia-claims-ukraine-hacked-kremlin-backed-youth-organizations?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian security agency has accused Ukraine of hacking two Kremlin-backed youth military-patriotic organizations to gather student data for potential recruitment in espionage or terrorist activities.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'Desert Dexter' Campaign Hits Over 900 Victims in Middle East, North Africa, and Other Regions<a href="https://gbhackers.com/new-malware-desert-dexter-hits/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind Desert Dexter employ a multi-stage attack chain that leverages social media platforms, legitimate file-sharing services, and geopolitical lures to distribute a modified version of the AsyncRAT malware.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 6, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

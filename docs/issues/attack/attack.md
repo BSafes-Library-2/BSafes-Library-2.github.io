@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+March 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Majority of Orgs Hit by AI Cyber-Attacks as Detection Lags<a href="https://www.infosecurity-magazine.com/news/majority-of-orgs-hit-by-ai/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Most (87%) security professionals have reported that their organization has encountered an AI-driven cyber-attack in the last year, with the technology increasingly takes hold, according to a new report by SoSafe.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 8, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
