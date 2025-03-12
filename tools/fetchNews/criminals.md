@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of North Korean Hackers Joining Qilin Ransomware Gang<a href="https://www.bleepingcomputer.com/news/security/microsoft-north-korean-hackers-now-deploying-qilin-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"Moonstone Sleet has previously exclusively deployed their own custom ransomware in their attacks, and this represents the first instance they are deploying ransomware developed by a RaaS operator," Microsoft researchers said.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 5, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

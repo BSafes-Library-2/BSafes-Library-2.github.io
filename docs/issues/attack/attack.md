@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+March 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blind Eagle: …And Justice for All - Check Point Research<a href="https://research.checkpoint.com/2025/blind-eagle-and-justice-for-all/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point Research discovered a series of ongoing campaigns targeting Colombian institutions and government entities since November 2024. The campaigns are linked to Blind Eagle and deliver malicious .url files.
+</details>
+<div style="text-align: right" markdown="1">
+CheckPoint
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 10, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Large-Scale Fraud Operation "PrintSteal" Generates Fake KYC Documents Through Spoofed Sites<a href="https://securityonline.info/printsteal-unmasking-a-large-scale-kyc-document-fraud-operation/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Operating under a network of impersonating websites, the scheme has exploited Common Service Centre (CSC) platforms to produce and distribute fake Aadhaar cards, birth certificates, PAN cards, and other identity documents.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US cities warn of wave of unpaid parking phishing texts<a href="https://www.bleepingcomputer.com/news/security/us-cities-warn-of-wave-of-unpaid-parking-phishing-texts/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US cities are warning of an ongoing mobile phishing campaign pretending to be texts from the city's parking violation departments about unpaid parking invoices, that if unpaid, will incur an additional $35 fine per day.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 8, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

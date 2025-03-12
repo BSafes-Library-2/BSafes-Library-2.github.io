@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+March 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Groups Favor Repeatable Access Over Mass Exploits<a href="https://www.infosecurity-magazine.com/news/ransomware-repeatable-access/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware groups have shifted away from mass compromise events from vulnerability exploits towards “reliable and repeatable” methods to gain access to victim networks, according to Travelers’ latest Cyber Threat Report.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 6, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

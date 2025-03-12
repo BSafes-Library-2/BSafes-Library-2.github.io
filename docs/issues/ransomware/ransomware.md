@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EByte Ransomware: A New Go-Based Threat with Advanced Encryption Techniques<a href="https://securityonline.info/ebyte-ransomware-a-new-go-based-threat-with-advanced-encryption-techniques/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CYFIRMA has identified a new ransomware variant, EByte Ransomware, written in Go and actively targeting Windows systems. This malware leverages advanced cryptographic methods, combining ChaCha20 for encryption and ECIES for secure key transmission.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 8, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

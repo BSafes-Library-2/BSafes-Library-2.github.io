@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+March 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Use ZIP Files to Deploy Malicious PowerShell Scripts<a href="https://gbhackers.com/north-korean-hackers-use-zip-files/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean state-sponsored hackers, known as APT37 or ScarCruft, have been employing sophisticated tactics to breach systems, leveraging malicious ZIP files containing LNK files to initiate attacks.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 19, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
