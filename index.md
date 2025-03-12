@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Use ZIP Files to Deploy Malicious PowerShell Scripts<a href="https://gbhackers.com/north-korean-hackers-use-zip-files/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean state-sponsored hackers, known as APT37 or ScarCruft, have been employing sophisticated tactics to breach systems, leveraging malicious ZIP files containing LNK files to initiate attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet Identifies Malicious Packages in the Wild: Insights and Trends from November 2024 Onward<a href="https://www.fortinet.com/blog/threat-research/fortinet-identifies-malicious-packages-in-the-wild-insights-and-trends?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+1,082 packages employed minimal code within a low file count, around 1,052 packages utilized suspicious installation scripts, 1,043 instances lacked repository URLs, and 974 packages contained suspicious URLs for C2 servers communication.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blind Eagle: …And Justice for All - Check Point Research<a href="https://research.checkpoint.com/2025/blind-eagle-and-justice-for-all/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point Research discovered a series of ongoing campaigns targeting Colombian institutions and government entities since November 2024. The campaigns are linked to Blind Eagle and deliver malicious .url files.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple vulnerabilities found in ICONICS industrial SCADA software<a href="https://cyberscoop.com/iconics-scada-vulnerabilities-2025-palo-alto/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A popular set of SCADA software systems used in critical infrastructure around the world suffered from at least five known vulnerabilities that could have allowed for privilege escalation, DLL hijacking and the ability to modify critical files.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP Patches High-Severity XSS and Authorization Flaws in Latest Security Updates<a href="https://securityonline.info/sap-patches-high-severity-xss-and-authorization-flaws-in-latest-security-updates/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SAP has released its latest round of security updates, addressing 21 new vulnerabilities and providing 3 updates to previously released Security Notes. The updates include fixes for several high-severity vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phantom Goblin Malware: Stealthy Attacks via VSCode Tunnels<a href="https://securityonline.info/phantom-goblin-malware-stealthy-attacks-via-vscode-tunnels/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware campaign, dubbed Phantom Goblin, has been uncovered. This attack uses social engineering tactics to trick victims into executing a malicious LNK file, initiating a multi-stage attack aimed at stealing browser credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US govt says Americans lost record $12.5 billion to fraud in 2024<a href="https://www.bleepingcomputer.com/news/security/us-govt-says-americans-lost-record-125-billion-to-fraud-in-2024/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Consumers reported that investment scams resulted in the highest losses, totaling around $5.7 billion with a median loss of over $9,000 and exceeding all other fraud categories.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Deep Dive into Strela Stealer and how it Targets European Countries<a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/a-deep-dive-into-strela-stealer-and-how-it-targets-european-countries/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Strela Stealer is an infostealer that exfiltrates email log-in credentials and has been in the wild since late 2022. It is a precisely focused malware, targeting Mozilla Thunderbird and Microsoft Outlook on systems in chosen European countries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome Update: 5 Security Fixes, High-Risk Flaws Addressed ASAP<a href="https://securityonline.info/chrome-update-5-security-fixes-high-risk-flaws-addressed-asap/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An important security update has been released for the Chrome Stable channel, addressing five vulnerabilities, including three high-severity flaws that could allow attackers to execute arbitrary code.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EByte Ransomware: A New Go-Based Threat with Advanced Encryption Techniques<a href="https://securityonline.info/ebyte-ransomware-a-new-go-based-threat-with-advanced-encryption-techniques/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CYFIRMA has identified a new ransomware variant, EByte Ransomware, written in Go and actively targeting Windows systems. This malware leverages advanced cryptographic methods, combining ChaCha20 for encryption and ECIES for secure key transmission.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 10, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
