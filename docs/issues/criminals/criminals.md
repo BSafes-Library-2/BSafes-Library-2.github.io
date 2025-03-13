@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 12, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Investigate Potential Links Between Belsen and ZeroSevenGroup<a href="https://www.kelacyber.com/blog/could-the-belsen-group-be-associated-with-zerosevengroup/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Belsen Group surfaced in January 2025, leaking Fortinet data and selling network access, while ZeroSevenGroup had been active earlier, breaching companies and monetizing stolen data.
+</details>
+<div style="text-align: right" markdown="1">
+Kela
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 10, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

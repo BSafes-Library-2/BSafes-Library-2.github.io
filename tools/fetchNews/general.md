@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+March 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US govt says Americans lost record $12.5 billion to fraud in 2024<a href="https://www.bleepingcomputer.com/news/security/us-govt-says-americans-lost-record-125-billion-to-fraud-in-2024/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Consumers reported that investment scams resulted in the highest losses, totaling around $5.7 billion with a median loss of over $9,000 and exceeding all other fraud categories.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 10, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

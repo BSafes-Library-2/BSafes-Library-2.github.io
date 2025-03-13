@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2025 - NCSC, Switzerland 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reporting cyberattacks on critical infrastructure mandatory from 1 April 2025 <a href="https://www.ncsc.admin.ch/ncsc/en/home/aktuell/im-fokus/2025/meldepflicht-2025.html"> Full Text</a>
+</p>
+<details>
+07.03.2025 - At its meeting on 7 March, the Federal Council introduced a reporting obligation for cyberattacks on critical infrastructure, which will come into force on 1 April. Operators of critical infrastructure will be required to report cyberattacks to the National Cyber Security Centre (NCSC) within 24 hours of discovery. These reports will enable the NCSC to assist victims of cyberattacks and alert operators of critical infrastructure.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 25, 2025 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

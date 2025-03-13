@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+March 12, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Critical PHP RCE vulnerability Mass Exploited in New Attacks<a href="https://www.bleepingcomputer.com/news/security/critical-php-rce-vulnerability-mass-exploited-in-new-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GreyNoise detected 1,089 unique IPs exploiting CVE-2024-4577 in January 2025, with attacks spreading beyond Japan to Singapore, Indonesia, the UK, Spain, and India. Over 43% of attacks originate from Germany and China.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 11, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
