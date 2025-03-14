@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 12, 2025
+March 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SideWinder APT Targets Maritime, Nuclear, and IT Sectors Across Asia, Middle East, and Africa<a href="https://thehackernews.com/2025/03/sidewinder-apt-targets-maritime-nuclear.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacks, observed in 2024, spread across Bangladesh, Cambodia, Djibouti, Egypt, the United Arab Emirates, and Vietnam. Other targets of interest include nuclear power plants and nuclear energy infrastructure in South Asia and Africa.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tenda AC7 Routers at Risk of Root Compromise, PoC Released<a href="https://securityonline.info/cve-2025-1851-tenda-ac7-routers-at-risk-of-root-compromise-poc-released/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability is a stack-based buffer overflow within the formSetFirewallCfg function. A remote attacker can exploit this flaw by sending a specially crafted payload to the router’s web interface.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI-Assisted Fake GitHub Repositories Fuel SmartLoader and Lumma Stealer Distribution<a href="https://www.trendmicro.com/en_us/research/25/c/ai-assisted-fake-github-repositories.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Research uncovered a campaign that uses fake GitHub repositories to distribute SmartLoader, which is then used to deliver Lumma Stealer and other malicious payloads.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens Exposes 9.8-Rated Bootloader Flaw in SINAMICS S200 Devices<a href="https://securityonline.info/cve-2024-56336-siemens-exposes-9-8-rated-bootloader-flaw-in-sinamics-s200-drives/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability has been assigned a CVSS v3.1 base score of 9.8. Siemens has not released a firmware update to address the vulnerability. Customers are urged to follow the recommendations in the security advisory to protect their devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Elysium Ransomware: A New Variant of the Ghost Family Targeting Critical Infrastructure<a href="https://securityonline.info/elysium-ransomware-a-new-variant-of-the-ghost-family-targeting-critical-infrastructure/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This group has been active since 2021, targeting organizations in critical infrastructure, healthcare, and government sectors. The attackers typically gain initial access by exploiting known vulnerabilities in outdated applications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AMI Releases Updates to Address Vulnerabilities in SPx, AptioV and EDK2<a href="https://securityonline.info/cve-2024-54085-ami-spx-vulnerability-scores-critical-cvss-10/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AMI has released updates to address these vulnerabilities. The AptioV and EDK2 vulnerabilities are fixed in version BKC_5.38, while the SPx vulnerability is addressed in versions SPx_12.7+ and SPx_13.5.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DCRat Malware Exploits YouTube to Hijack User Credentials<a href="https://cyberpress.org/dcrat-malware-exploits-youtube/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Analysts have identified 34 different plugins associated with DCRat, enabling dangerous functionalities such as keystroke logging, webcam access, file theft, and password exfiltration.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Issues High-Severity Security Alert for IOS XR Software<a href="https://securityonline.info/cisco-issues-high-severity-security-alert-for-ios-xr-software-cve-2025-20138/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability impacts Cisco IOS XR 64-bit Software across all device configurations. To determine if a specific Cisco software release is vulnerable, users are advised to consult the “Fixed Software” section of the advisory.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla Warns Users to Update Firefox Before Certificate Expires<a href="https://www.bleepingcomputer.com/news/software/mozilla-warns-users-to-update-firefox-before-certificate-expires/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla is warning Firefox users to update their browsers to the latest version to avoid facing disruption and security risks caused by the upcoming expiration of one of the company's root certificates.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Breach Juniper Networks Routers With Custom Backdoors and Rootkits<a href="https://thehackernews.com/2025/03/chinese-hackers-breach-juniper-networks.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest activity, spotted in mid-2024, involves the use of implants that are based on TinyShell, a C-based backdoor that has been put to use by various Chinese hacking groups like Liminal Panda and Velvet Ant in the past.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Copilot Spoofing Emerges as a New Phishing Vector<a href="https://cofense.com/blog/microsoft-copilot-spoofing-a-new-phishing-vector?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Microsoft Copilot Spoofing Emerges as a New Phishing Vector<a href="https://cofe
 A new phishing campaign exploited Microsoft Copilot's novelty by sending emails with spoofed invoices. These emails direct users to fake login pages that capture credentials, enhanced by Microsoft branding and a counterfeit MFA page.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cofense
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 12, 2025
+March 12, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Investigate Potential Links Between Belsen and ZeroSevenGroup<a href="https://www.kelacyber.com/blog/could-the-belsen-group-be-associated-with-zerosevengroup/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Researchers Investigate Potential Links Between Belsen and ZeroSevenGroup<a href
 The Belsen Group surfaced in January 2025, leaking Fortinet data and selling network access, while ZeroSevenGroup had been active earlier, breaching companies and monetizing stolen data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Kela
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 12, 2025
+March 12, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Moxa Issues Fix for Critical Authentication Bypass Vulnerability in PT Switches<a href="https://thehackernews.com/2025/03/moxa-issues-fix-for-critical.html?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Moxa Issues Fix for Critical Authentication Bypass Vulnerability in PT Switches<
 Taiwanese company Moxa has released a security update to address a critical security flaw impacting its PT switches that could permit an attacker to bypass authentication guarantees.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 12, 2025
+March 12, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Binance Wallet Email Promises TRUMP Coin, Installs Malware<a href="https://hackread.com/fake-binance-wallet-email-trump-coin-malware/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Fake Binance Wallet Email Promises TRUMP Coin, Installs Malware<a href="https://
 The phishing emails, sent under the name “Binance,” urge recipients to claim newly launched Trump-themed cryptocurrency. A link directs users to a counterfeit Binance website that mimics official branding.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+HackRead
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 12, 2025
+March 12, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PlayPraetor Malware Targets Android Users via Fake Play Store Apps to Steal Passwords<a href="https://gbhackers.com/playpraetor-malware-targets-android-users/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ PlayPraetor Malware Targets Android Users via Fake Play Store Apps to Steal Pass
 The primary motive behind these attacks is financial gain. Threat actors exploit stolen data by draining funds from compromised accounts, making unauthorized transactions, or selling the accounts on dark web marketplaces.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 12, 2025
+March 12, 2025 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Forcepoint Acquires Getvisibility to Strengthen its AI-Driven Data Security Offerings<a href="https://www.siliconrepublic.com/business/forcepoint-getvisibility-acquisition-cybersecurity?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Forcepoint Acquires Getvisibility to Strengthen its AI-Driven Data Security Offe
 Forcepoint is acquiring Cork-based Getvisibility in a deal that aims to enhance its risk mitigation and security management offerings while speeding up compliance for its enterprise and government clientele.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Silicon Republic
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 12, 2025
+March 12, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaw Found in Siemens SiPass Access Control Systems<a href="https://securityonline.info/cve-2025-27494-cvss-9-1critical-flaw-found-in-siemens-sipass-access-control-systems/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Critical Flaw Found in Siemens SiPass Access Control Systems<a href="https://sec
 Siemens has issued a security advisory warning of multiple vulnerabilities in SiPass integrated access control systems. The vulnerabilities could allow attackers to execute commands on the devices with root privileges and access sensitive data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 12, 2025
+March 12, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Critical PHP RCE vulnerability Mass Exploited in New Attacks<a href="https://www.bleepingcomputer.com/news/security/critical-php-rce-vulnerability-mass-exploited-in-new-attacks/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Update: Critical PHP RCE vulnerability Mass Exploited in New Attacks<a href="htt
 GreyNoise detected 1,089 unique IPs exploiting CVE-2024-4577 in January 2025, with attacks spreading beyond Japan to Singapore, Indonesia, the UK, Spain, and India. Over 43% of attacks originate from Germany and China.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 12, 2025
+March 12, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Switzerland Mandates Cyber Reporting for Critical Infrastructure<a href="https://www.infosecurity-magazine.com/news/switzerland-mandates-cyber/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Switzerland Mandates Cyber Reporting for Critical Infrastructure<a href="https:/
 Switzerland’s NCSC will require critical infrastructure organizations to report cyberattacks within 24 hours. The new policy related to security breach notification is introduced as a response to the increasing number of cyber incidents.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 12, 2025
+March 12, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Font Library FreeType Flaw Exploited in the Wild, Millions at Risk<a href="https://securityonline.info/cve-2025-27363-font-library-freetype-flaw-exploited-in-the-wild-millions-at-risk/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Font Library FreeType Flaw Exploited in the Wild, Millions at Risk<a href="https
 A critical vulnerability in the FreeType font rendering library has been revealed, potentially putting millions of devices at risk of RCE. The flaw, tracked as CVE-2025-27363 and having a CVSS score of 8.1, impacts FreeType versions 2.13.0 and below.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
