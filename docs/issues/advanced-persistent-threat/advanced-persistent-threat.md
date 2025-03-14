@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+March 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SideWinder APT Targets Maritime, Nuclear, and IT Sectors Across Asia, Middle East, and Africa<a href="https://thehackernews.com/2025/03/sidewinder-apt-targets-maritime-nuclear.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacks, observed in 2024, spread across Bangladesh, Cambodia, Djibouti, Egypt, the United Arab Emirates, and Vietnam. Other targets of interest include nuclear power plants and nuclear energy infrastructure in South Asia and Africa.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 11, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

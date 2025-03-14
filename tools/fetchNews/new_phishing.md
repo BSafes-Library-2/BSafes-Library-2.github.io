@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI-Assisted Fake GitHub Repositories Fuel SmartLoader and Lumma Stealer Distribution<a href="https://www.trendmicro.com/en_us/research/25/c/ai-assisted-fake-github-repositories.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Research uncovered a campaign that uses fake GitHub repositories to distribute SmartLoader, which is then used to deliver Lumma Stealer and other malicious payloads.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 12, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

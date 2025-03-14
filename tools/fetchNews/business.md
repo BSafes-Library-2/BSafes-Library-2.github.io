@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+March 12, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Forcepoint Acquires Getvisibility to Strengthen its AI-Driven Data Security Offerings<a href="https://www.siliconrepublic.com/business/forcepoint-getvisibility-acquisition-cybersecurity?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Forcepoint is acquiring Cork-based Getvisibility in a deal that aims to enhance its risk mitigation and security management offerings while speeding up compliance for its enterprise and government clientele.
+</details>
+<div style="text-align: right" markdown="1">
+Silicon Republic
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 6, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

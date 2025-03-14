@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 12, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Copilot Spoofing Emerges as a New Phishing Vector<a href="https://cofense.com/blog/microsoft-copilot-spoofing-a-new-phishing-vector?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign exploited Microsoft Copilot's novelty by sending emails with spoofed invoices. These emails direct users to fake login pages that capture credentials, enhanced by Microsoft branding and a counterfeit MFA page.
+</details>
+<div style="text-align: right" markdown="1">
+Cofense
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 10, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 12, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Moxa Issues Fix for Critical Authentication Bypass Vulnerability in PT Switches<a href="https://thehackernews.com/2025/03/moxa-issues-fix-for-critical.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese company Moxa has released a security update to address a critical security flaw impacting its PT switches that could permit an attacker to bypass authentication guarantees.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 12, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw Found in Siemens SiPass Access Control Systems<a href="https://securityonline.info/cve-2025-27494-cvss-9-1critical-flaw-found-in-siemens-sipass-access-control-systems/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Siemens has issued a security advisory warning of multiple vulnerabilities in SiPass integrated access control systems. The vulnerabilities could allow attackers to execute commands on the devices with root privileges and access sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 12, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Font Library FreeType Flaw Exploited in the Wild, Millions at Risk<a href="https://securityonline.info/cve-2025-27363-font-library-freetype-flaw-exploited-in-the-wild-millions-at-risk/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in the FreeType font rendering library has been revealed, potentially putting millions of devices at risk of RCE. The flaw, tracked as CVE-2025-27363 and having a CVSS score of 8.1, impacts FreeType versions 2.13.0 and below.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 11, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
