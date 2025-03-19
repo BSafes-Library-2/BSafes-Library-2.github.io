@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+March 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Issues Warning Over Free Online File Converters That Actually Install Malware<a href="https://www.malwarebytes.com/blog/news/2025/03/warning-over-free-online-file-converters-that-actually-install-malware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Instead of converting files, the tools actually load malware onto victims’ computers. The FBI warned specifically that the malware infection can also lead to ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Malware Bytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 12, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

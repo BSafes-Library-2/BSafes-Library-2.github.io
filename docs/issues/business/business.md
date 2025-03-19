@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+March 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Varonis Acquires Database Security Firm Cyral<a href="https://www.crn.com.au/news/nasdaq-listed-varonis-buys-database-security-firm-cyral-615773?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New York City-based Varonis said it has acquired Florida-headquartered Cyral, a next-generation database activity monitoring provider, to enhance its data security platform offerings.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 12, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

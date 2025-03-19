@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+March 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla Warns Users to Update Firefox Before Certificate Expires<a href="https://www.bleepingcomputer.com/news/software/mozilla-warns-users-to-update-firefox-before-certificate-expires/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla is warning Firefox users to update their browsers to the latest version to avoid facing disruption and security risks caused by the upcoming expiration of one of the company's root certificates.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 11, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

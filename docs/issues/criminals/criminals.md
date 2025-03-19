@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto Traps, Fake Giveaways Trick Victims During Ramadan<a href="https://securityonline.info/ramadan-scam-alert-crypto-traps-fake-giveaways-explode/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals use deceptive tactics to target individuals and organizations during Ramadan, employing fraudulent donation requests, fake giveaways, and cryptocurrency schemes.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zservers: Bulletproof Hosting for Online Crime<a href="https://intel471.com/blog/zservers-bulletproof-hosting-for-crime?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zservers has operated in the open for more than a dozen years, facilitating connectivity for numerous ransomware affiliates and brands including LockBit, BianLian, Hunters International, and other fraudsters.
+</details>
+<div style="text-align: right" markdown="1">
+Intel 471
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 12, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

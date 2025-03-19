@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tenda AC7 Routers at Risk of Root Compromise, PoC Released<a href="https://securityonline.info/cve-2025-1851-tenda-ac7-routers-at-risk-of-root-compromise-poc-released/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability is a stack-based buffer overflow within the formSetFirewallCfg function. A remote attacker can exploit this flaw by sending a specially crafted payload to the router’s web interface.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens Exposes 9.8-Rated Bootloader Flaw in SINAMICS S200 Devices<a href="https://securityonline.info/cve-2024-56336-siemens-exposes-9-8-rated-bootloader-flaw-in-sinamics-s200-drives/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability has been assigned a CVSS v3.1 base score of 9.8. Siemens has not released a firmware update to address the vulnerability. Customers are urged to follow the recommendations in the security advisory to protect their devices.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AMI Releases Updates to Address Vulnerabilities in SPx, AptioV and EDK2<a href="https://securityonline.info/cve-2024-54085-ami-spx-vulnerability-scores-critical-cvss-10/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AMI has released updates to address these vulnerabilities. The AptioV and EDK2 vulnerabilities are fixed in version BKC_5.38, while the SPx vulnerability is addressed in versions SPx_12.7+ and SPx_13.5.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Issues High-Severity Security Alert for IOS XR Software<a href="https://securityonline.info/cisco-issues-high-severity-security-alert-for-ios-xr-software-cve-2025-20138/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability impacts Cisco IOS XR 64-bit Software across all device configurations. To determine if a specific Cisco software release is vulnerable, users are advised to consult the “Fixed Software” section of the advisory.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 12, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

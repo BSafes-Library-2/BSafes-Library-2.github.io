@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2025
+March 18, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unpatched Windows Zero-Day Flaw Exploited by 11 State-Sponsored Threat Groups Since 2017<a href="https://thehackernews.com/2025/03/unpatched-windows-zero-day-flaw.html?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Unpatched Windows Zero-Day Flaw Exploited by 11 State-Sponsored Threat Groups Si
 An unpatched security flaw impacting Microsoft Windows has been exploited by 11 state-sponsored groups from China, Iran, North Korea, and Russia as part of data theft, espionage, and financially motivated campaigns that date back to 2017.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2025
+March 18, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple Security Vulnerabilities Plague PHP, Exposing Applications to Risk<a href="https://securityonline.info/multiple-security-vulnerabilities-plague-php-exposing-applications-to-risk/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Multiple Security Vulnerabilities Plague PHP, Exposing Applications to Risk<a hr
 Researchers reported multiple security flaws in PHP’s HTTP stream wrapper, exposing web applications to risks like information leaks, denial of service, and request smuggling.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2025
+March 18, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Exploit OpenAI ChatGPT Vulnerability in the Wild<a href="https://securityonline.info/cve-2024-27564-attackers-exploit-openai-vulnerability-in-the-wild/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Attackers Exploit OpenAI ChatGPT Vulnerability in the Wild<a href="https://secur
 A server-side request forgery (SSRF) vulnerability in ChatGPT, tracked as CVE-2024-27564, has become a significant target for cybercriminals, with over 10,479 attack attempts recorded from a single malicious IP, according to Veriti’s latest research.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2025
+March 18, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Large-Scale Malicious App Campaign Bypasses Android Security to Conduct Ad Fraud<a href="https://www.infosecurity-magazine.com/news/malicious-app-bypass-android/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Large-Scale Malicious App Campaign Bypasses Android Security to Conduct Ad Fraud
 A large-scale ad fraud campaign has resulted in more than 60 million downloads of malicious Android apps from the Google Play Store, according to a new analysis by Bitdefender.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2025
+March 18, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Steganographic Campaign Found Distributing Multiple Malware Variants<a href="https://www.seqrite.com/blog/steganographic-campaign-distributing-malware/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ New Steganographic Campaign Found Distributing Multiple Malware Variants<a href=
 The campaign was found distributing Remcos and AsyncRAT via phishing emails with malicious Excel files. These exploit vulnerabilities, download disguised JPGs with encoded payloads, and use process hollowing to steal data and maintain control.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Seqrite
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2025
+March 18, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sophisticated Phishing Campaign Exploiting Microsoft 365 Infrastructure<a href="https://guardz.com/blog/sophisticated-phishing-campaign-exploiting-microsoft-365-infrastructure/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Sophisticated Phishing Campaign Exploiting Microsoft 365 Infrastructure<a href="
 By leveraging legitimate Microsoft domains and tenant misconfigurations, attackers conduct Business Email Compromise (BEC) operations, tricking users to provide information while maintaining a high degree of legitimacy.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Quardz
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2025
+March 18, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OctoV2 Android Banking Trojan Masquerades as Deepseek AI in Phishing Attack<a href="https://securityonline.info/octov2-android-banking-trojan-masquerades-as-deepseek-ai-in-phishing-attack/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ OctoV2 Android Banking Trojan Masquerades as Deepseek AI in Phishing Attack<a hr
 A new report from K7 Labs uncovered a sophisticated Android banking trojan campaign that is disguised as a popular AI chatbot to deceive users. The OctoV2 malware is being spread through deceptive websites that mimic Deepseek AI.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2025
+March 18, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Issues Warning Over Free Online File Converters That Actually Install Malware<a href="https://www.malwarebytes.com/blog/news/2025/03/warning-over-free-online-file-converters-that-actually-install-malware?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ FBI Issues Warning Over Free Online File Converters That Actually Install Malwar
 Instead of converting files, the tools actually load malware onto victims’ computers. The FBI warned specifically that the malware infection can also lead to ransomware attacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Malware Bytes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2025
+March 18, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of New StilachiRAT Malware Used for Crypto Theft, Reconnaissance<a href="https://www.bleepingcomputer.com/news/security/microsoft-new-rat-malware-used-for-crypto-theft-reconnaissance/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Microsoft Warns of New StilachiRAT Malware Used for Crypto Theft, Reconnaissance
 While the malware (dubbed StilachiRAT) hasn't yet reached widespread distribution, Microsoft says it decided to publicly share indicators of compromise and mitigation guidance to help network defenders detect this threat and reduce its impact.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2025
+March 18, 2025 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Varonis Acquires Database Security Firm Cyral<a href="https://www.crn.com.au/news/nasdaq-listed-varonis-buys-database-security-firm-cyral-615773?&web_view=true"> Full Text</a>
@@ -188,13 +188,13 @@ Varonis Acquires Database Security Firm Cyral<a href="https://www.crn.com.au/new
 New York City-based Varonis said it has acquired Florida-headquartered Cyral, a next-generation database activity monitoring provider, to enhance its data security platform offerings.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CRN
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2025
+March 15, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crypto Traps, Fake Giveaways Trick Victims During Ramadan<a href="https://securityonline.info/ramadan-scam-alert-crypto-traps-fake-giveaways-explode/?&web_view=true"> Full Text</a>
@@ -204,13 +204,13 @@ Crypto Traps, Fake Giveaways Trick Victims During Ramadan<a href="https://securi
 Cybercriminals use deceptive tactics to target individuals and organizations during Ramadan, employing fraudulent donation requests, fake giveaways, and cryptocurrency schemes.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2025
+March 15, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake CAPTCHA Malware Exploits Windows Users to Run PowerShell Commands<a href="https://gbhackers.com/fake-captcha-malware-exploits-windows-users/?&web_view=true"> Full Text</a>
@@ -220,13 +220,13 @@ Fake CAPTCHA Malware Exploits Windows Users to Run PowerShell Commands<a href="h
 The attack chain comprises several stages in which attackers use a deceptive fake CAPTCHA prompt to trick users into executing a malicious PowerShell command, making it appear as a legitimate part of the verification process.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2025
+March 15, 2025 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mass-Scale Crypto Scam Exploits Fake Investments and Pyramid Schemes<a href="https://unit42.paloaltonetworks.com/fraud-crypto-platforms-campaign/?&web_view=true"> Full Text</a>
@@ -236,13 +236,13 @@ Mass-Scale Crypto Scam Exploits Fake Investments and Pyramid Schemes<a href="htt
 A large-scale crypto investment scam targeted victims via fraudulent websites and mobile apps, impersonating trusted brands and promising unrealistic returns. The scheme operates like a pyramid scam, primarily targeting users in East Africa and Asia.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Palo Alto Networks
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2025
+March 15, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Black Basta Ransomware Gang Creates Tool to Automate VPN Brute-Force Attacks<a href="https://www.bleepingcomputer.com/news/security/black-basta-ransomware-creates-automated-tool-to-brute-force-vpns/?&web_view=true"> Full Text</a>
@@ -252,13 +252,13 @@ Black Basta Ransomware Gang Creates Tool to Automate VPN Brute-Force Attacks<a h
 The Black Basta ransomware operation created an automated brute-forcing framework dubbed 'BRUTED' to breach edge networking devices like firewalls and VPNs to gain network access and scale ransomware attacks on vulnerable internet-exposed endpoints.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2025
+March 15, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus Breaches IIS Servers With Web Shells and Evolving C2 Tactics<a href="https://securityonline.info/lazarus-breaches-iis-web-shells-evolving-c2-tactics-unveiled/?&web_view=true"> Full Text</a>
@@ -268,13 +268,13 @@ Lazarus Breaches IIS Servers With Web Shells and Evolving C2 Tactics<a href="htt
 The notorious North Korean threat actor Lazarus Group has been identified breaching Windows web servers to establish command-and-control (C2) infrastructure, leveraging compromised machines as proxy servers for further attacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2025
+March 15, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Coinbase Phishing Email Tricks Users With Fake Wallet Migration<a href="https://www.bleepingcomputer.com/news/security/coinbase-phishing-email-tricks-users-with-fake-wallet-migration/?&web_view=true"> Full Text</a>
@@ -284,13 +284,13 @@ Coinbase Phishing Email Tricks Users With Fake Wallet Migration<a href="https://
 A large-scale Coinbase phishing attack poses as a mandatory wallet migration, tricking recipients into setting up a new wallet with a pre-generated recovery phrase controlled by attackers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 14, 2025
+March 14, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 JSPSpy Combined With Custom File Management Tool in Webshell Infrastructure<a href="https://hunt.io/blog/jspspy-filebroser-custom-webshell-management?&web_view=true"> Full Text</a>
@@ -300,13 +300,13 @@ JSPSpy Combined With Custom File Management Tool in Webshell Infrastructure<a hr
 Hunt researchers recently identified a cluster of JSPSpy web shell servers with an unexpected addition: Filebroser, a rebranded version of the open-source File Browser file management project.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hunt
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 14, 2025
+March 14, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Sobolan Malware Campaign Targets Jupyter Notebooks and Cloud-Native Environments<a href="https://securityonline.info/new-sobolan-malware-campaign-targets-jupyter-notebooks-and-cloud-native-environments/?&web_view=true"> Full Text</a>
@@ -316,13 +316,13 @@ New Sobolan Malware Campaign Targets Jupyter Notebooks and Cloud-Native Environm
 The Sobolan malware campaign utilizes a multi-stage attack chain to infiltrate and compromise systems, deploying cryptominers and establishing persistent backdoors for long-term control.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 14, 2025
+March 14, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zservers: Bulletproof Hosting for Online Crime<a href="https://intel471.com/blog/zservers-bulletproof-hosting-for-crime?&web_view=true"> Full Text</a>
@@ -332,13 +332,13 @@ Zservers: Bulletproof Hosting for Online Crime<a href="https://intel471.com/blog
 Zservers has operated in the open for more than a dozen years, facilitating connectivity for numerous ransomware affiliates and brands including LockBit, BianLian, Hunters International, and other fraudsters.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Intel 471
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 14, 2025
+March 14, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Miniaudio and Adobe Acrobat Reader Vulnerabilities Discovered<a href="https://blog.talosintelligence.com/miniaudio-and-adobe-acrobat-reader-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -349,7 +349,7 @@ CVE-2024-41147 is an out-of-bounds write vulnerability in Miniaudio.
 CVE-2025-27163 and CVE-2025-27164 are out-of-bounds read vulnerabilities in the font functionality in Adobe Acrobat, which can lead to information disclosure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Talos
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

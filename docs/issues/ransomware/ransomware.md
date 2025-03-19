@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Basta Ransomware Gang Creates Tool to Automate VPN Brute-Force Attacks<a href="https://www.bleepingcomputer.com/news/security/black-basta-ransomware-creates-automated-tool-to-brute-force-vpns/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Black Basta ransomware operation created an automated brute-forcing framework dubbed 'BRUTED' to breach edge networking devices like firewalls and VPNs to gain network access and scale ransomware attacks on vulnerable internet-exposed endpoints.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 13, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
