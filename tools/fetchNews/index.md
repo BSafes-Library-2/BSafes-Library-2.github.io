@@ -34,6 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto Traps, Fake Giveaways Trick Victims During Ramadan<a href="https://securityonline.info/ramadan-scam-alert-crypto-traps-fake-giveaways-explode/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals use deceptive tactics to target individuals and organizations during Ramadan, employing fraudulent donation requests, fake giveaways, and cryptocurrency schemes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake CAPTCHA Malware Exploits Windows Users to Run PowerShell Commands<a href="https://gbhackers.com/fake-captcha-malware-exploits-windows-users/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack chain comprises several stages in which attackers use a deceptive fake CAPTCHA prompt to trick users into executing a malicious PowerShell command, making it appear as a legitimate part of the verification process.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mass-Scale Crypto Scam Exploits Fake Investments and Pyramid Schemes<a href="https://unit42.paloaltonetworks.com/fraud-crypto-platforms-campaign/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large-scale crypto investment scam targeted victims via fraudulent websites and mobile apps, impersonating trusted brands and promising unrealistic returns. The scheme operates like a pyramid scam, primarily targeting users in East Africa and Asia.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Basta Ransomware Gang Creates Tool to Automate VPN Brute-Force Attacks<a href="https://www.bleepingcomputer.com/news/security/black-basta-ransomware-creates-automated-tool-to-brute-force-vpns/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Black Basta ransomware operation created an automated brute-forcing framework dubbed 'BRUTED' to breach edge networking devices like firewalls and VPNs to gain network access and scale ransomware attacks on vulnerable internet-exposed endpoints.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Breaches IIS Servers With Web Shells and Evolving C2 Tactics<a href="https://securityonline.info/lazarus-breaches-iis-web-shells-evolving-c2-tactics-unveiled/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious North Korean threat actor Lazarus Group has been identified breaching Windows web servers to establish command-and-control (C2) infrastructure, leveraging compromised machines as proxy servers for further attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coinbase Phishing Email Tricks Users With Fake Wallet Migration<a href="https://www.bleepingcomputer.com/news/security/coinbase-phishing-email-tricks-users-with-fake-wallet-migration/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large-scale Coinbase phishing attack poses as a mandatory wallet migration, tricking recipients into setting up a new wallet with a pre-generated recovery phrase controlled by attackers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+JSPSpy Combined With Custom File Management Tool in Webshell Infrastructure<a href="https://hunt.io/blog/jspspy-filebroser-custom-webshell-management?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hunt researchers recently identified a cluster of JSPSpy web shell servers with an unexpected addition: Filebroser, a rebranded version of the open-source File Browser file management project.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Sobolan Malware Campaign Targets Jupyter Notebooks and Cloud-Native Environments<a href="https://securityonline.info/new-sobolan-malware-campaign-targets-jupyter-notebooks-and-cloud-native-environments/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Sobolan malware campaign utilizes a multi-stage attack chain to infiltrate and compromise systems, deploying cryptominers and establishing persistent backdoors for long-term control.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zservers: Bulletproof Hosting for Online Crime<a href="https://intel471.com/blog/zservers-bulletproof-hosting-for-crime?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zservers has operated in the open for more than a dozen years, facilitating connectivity for numerous ransomware affiliates and brands including LockBit, BianLian, Hunters International, and other fraudsters.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Miniaudio and Adobe Acrobat Reader Vulnerabilities Discovered<a href="https://blog.talosintelligence.com/miniaudio-and-adobe-acrobat-reader-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2024-41147 is an out-of-bounds write vulnerability in Miniaudio.
+CVE-2025-27163 and CVE-2025-27164 are out-of-bounds read vulnerabilities in the font functionality in Adobe Acrobat, which can lead to information disclosure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 13, 2025 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

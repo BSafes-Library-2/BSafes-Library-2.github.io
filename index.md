@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Windows Zero-Day Flaw Exploited by 11 State-Sponsored Threat Groups Since 2017<a href="https://thehackernews.com/2025/03/unpatched-windows-zero-day-flaw.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unpatched security flaw impacting Microsoft Windows has been exploited by 11 state-sponsored groups from China, Iran, North Korea, and Russia as part of data theft, espionage, and financially motivated campaigns that date back to 2017.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Security Vulnerabilities Plague PHP, Exposing Applications to Risk<a href="https://securityonline.info/multiple-security-vulnerabilities-plague-php-exposing-applications-to-risk/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers reported multiple security flaws in PHP’s HTTP stream wrapper, exposing web applications to risks like information leaks, denial of service, and request smuggling.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Exploit OpenAI ChatGPT Vulnerability in the Wild<a href="https://securityonline.info/cve-2024-27564-attackers-exploit-openai-vulnerability-in-the-wild/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A server-side request forgery (SSRF) vulnerability in ChatGPT, tracked as CVE-2024-27564, has become a significant target for cybercriminals, with over 10,479 attack attempts recorded from a single malicious IP, according to Veriti’s latest research.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Large-Scale Malicious App Campaign Bypasses Android Security to Conduct Ad Fraud<a href="https://www.infosecurity-magazine.com/news/malicious-app-bypass-android/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large-scale ad fraud campaign has resulted in more than 60 million downloads of malicious Android apps from the Google Play Store, according to a new analysis by Bitdefender.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Steganographic Campaign Found Distributing Multiple Malware Variants<a href="https://www.seqrite.com/blog/steganographic-campaign-distributing-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign was found distributing Remcos and AsyncRAT via phishing emails with malicious Excel files. These exploit vulnerabilities, download disguised JPGs with encoded payloads, and use process hollowing to steal data and maintain control.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophisticated Phishing Campaign Exploiting Microsoft 365 Infrastructure<a href="https://guardz.com/blog/sophisticated-phishing-campaign-exploiting-microsoft-365-infrastructure/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+By leveraging legitimate Microsoft domains and tenant misconfigurations, attackers conduct Business Email Compromise (BEC) operations, tricking users to provide information while maintaining a high degree of legitimacy.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OctoV2 Android Banking Trojan Masquerades as Deepseek AI in Phishing Attack<a href="https://securityonline.info/octov2-android-banking-trojan-masquerades-as-deepseek-ai-in-phishing-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report from K7 Labs uncovered a sophisticated Android banking trojan campaign that is disguised as a popular AI chatbot to deceive users. The OctoV2 malware is being spread through deceptive websites that mimic Deepseek AI.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Issues Warning Over Free Online File Converters That Actually Install Malware<a href="https://www.malwarebytes.com/blog/news/2025/03/warning-over-free-online-file-converters-that-actually-install-malware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Instead of converting files, the tools actually load malware onto victims’ computers. The FBI warned specifically that the malware infection can also lead to ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of New StilachiRAT Malware Used for Crypto Theft, Reconnaissance<a href="https://www.bleepingcomputer.com/news/security/microsoft-new-rat-malware-used-for-crypto-theft-reconnaissance/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the malware (dubbed StilachiRAT) hasn't yet reached widespread distribution, Microsoft says it decided to publicly share indicators of compromise and mitigation guidance to help network defenders detect this threat and reduce its impact.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Varonis Acquires Database Security Firm Cyral<a href="https://www.crn.com.au/news/nasdaq-listed-varonis-buys-database-security-firm-cyral-615773?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New York City-based Varonis said it has acquired Florida-headquartered Cyral, a next-generation database activity monitoring provider, to enhance its data security platform offerings.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 15, 2025
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
