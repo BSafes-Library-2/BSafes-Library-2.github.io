@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+March 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: GitHub Action Hack Likely Led to Another in Cascading Supply Chain Attack<a href="https://www.bleepingcomputer.com/news/security/github-action-hack-likely-led-to-another-in-cascading-supply-chain-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cascading supply chain attack that began with the compromise of the "reviewdog/action-setup@v1" GitHub Action is believed to have led to the recent breach of "tj-actions/changed-files" that leaked CI/CD secrets.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 18, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,76 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Large-Scale Malicious App Campaign Bypasses Android Security to Conduct Ad Fraud<a href="https://www.infosecurity-magazine.com/news/malicious-app-bypass-android/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large-scale ad fraud campaign has resulted in more than 60 million downloads of malicious Android apps from the Google Play Store, according to a new analysis by Bitdefender.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Steganographic Campaign Found Distributing Multiple Malware Variants<a href="https://www.seqrite.com/blog/steganographic-campaign-distributing-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign was found distributing Remcos and AsyncRAT via phishing emails with malicious Excel files. These exploit vulnerabilities, download disguised JPGs with encoded payloads, and use process hollowing to steal data and maintain control.
+</details>
+<div style="text-align: right" markdown="1">
+Seqrite
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophisticated Phishing Campaign Exploiting Microsoft 365 Infrastructure<a href="https://guardz.com/blog/sophisticated-phishing-campaign-exploiting-microsoft-365-infrastructure/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+By leveraging legitimate Microsoft domains and tenant misconfigurations, attackers conduct Business Email Compromise (BEC) operations, tricking users to provide information while maintaining a high degree of legitimacy.
+</details>
+<div style="text-align: right" markdown="1">
+Quardz
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OctoV2 Android Banking Trojan Masquerades as Deepseek AI in Phishing Attack<a href="https://securityonline.info/octov2-android-banking-trojan-masquerades-as-deepseek-ai-in-phishing-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report from K7 Labs uncovered a sophisticated Android banking trojan campaign that is disguised as a popular AI chatbot to deceive users. The OctoV2 malware is being spread through deceptive websites that mimic Deepseek AI.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coinbase Phishing Email Tricks Users With Fake Wallet Migration<a href="https://www.bleepingcomputer.com/news/security/coinbase-phishing-email-tricks-users-with-fake-wallet-migration/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large-scale Coinbase phishing attack poses as a mandatory wallet migration, tricking recipients into setting up a new wallet with a pre-generated recovery phrase controlled by attackers.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 13, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indonesian Hacking Collective INDOHAXSEC Uncovered<a href="https://arcticwolf.com/resources/blog/indohaxsec-emerging-indonesian-hacking-collective/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Throughout the last couple of months, the hacktivist group has conducted cyberattacks such as DDoS and has carried out ransomware attacks against numerous entities and governmental bodies in Southeast Asia.
+</details>
+<div style="text-align: right" markdown="1">
+Artic Wolf
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 1, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

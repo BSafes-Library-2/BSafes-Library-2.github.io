@@ -7,6 +7,21 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2025 - CISA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sungrow iSolarCloud Android App WiNet Firmware <a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-072-12"> Full Text</a>
+</p>
+<details>
+CVSS v4 9.5
+- ATTENTION: Exploitable remotely
+- Vendor: Sungrow
+- Equipment: iSolarCloud Android App, WiNet Firmware
+- Vulnerabilities: Improper Certificate Validation, Use of a Broken or Risky Cryptographic Algorithm, Authorization Bypass Through User-Controlled Key, User of Hard-Coded Credentials, Stack-Based Buffer Overflow, Heap-Based Buffer Overflow
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 7, 2025 - FBI 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,49 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Windows Zero-Day Flaw Exploited by 11 State-Sponsored Threat Groups Since 2017<a href="https://thehackernews.com/2025/03/unpatched-windows-zero-day-flaw.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unpatched security flaw impacting Microsoft Windows has been exploited by 11 state-sponsored groups from China, Iran, North Korea, and Russia as part of data theft, espionage, and financially motivated campaigns that date back to 2017.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Security Vulnerabilities Plague PHP, Exposing Applications to Risk<a href="https://securityonline.info/multiple-security-vulnerabilities-plague-php-exposing-applications-to-risk/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers reported multiple security flaws in PHP’s HTTP stream wrapper, exposing web applications to risks like information leaks, denial of service, and request smuggling.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Miniaudio and Adobe Acrobat Reader Vulnerabilities Discovered<a href="https://blog.talosintelligence.com/miniaudio-and-adobe-acrobat-reader-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2024-41147 is an out-of-bounds write vulnerability in Miniaudio.
+CVE-2025-27163 and CVE-2025-27164 are out-of-bounds read vulnerabilities in the font functionality in Adobe Acrobat, which can lead to information disclosure.
+</details>
+<div style="text-align: right" markdown="1">
+Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 13, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

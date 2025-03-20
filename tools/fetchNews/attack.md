@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+March 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Exploit OpenAI ChatGPT Vulnerability in the Wild<a href="https://securityonline.info/cve-2024-27564-attackers-exploit-openai-vulnerability-in-the-wild/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A server-side request forgery (SSRF) vulnerability in ChatGPT, tracked as CVE-2024-27564, has become a significant target for cybercriminals, with over 10,479 attack attempts recorded from a single malicious IP, according to Veriti’s latest research.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 12, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

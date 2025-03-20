@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2025
+March 19, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaws Expose SICK DL100 Devices to Code Execution and Password Hacks<a href="https://securityonline.info/critical-flaws-expose-sick-dl100-devices-to-code-execution-and-password-hacks/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Critical Flaws Expose SICK DL100 Devices to Code Execution and Password Hacks<a 
 SICK strongly recommends operating the affected systems within a secure infrastructure to minimize risk. The advisory provides workarounds for each CVE, emphasizing the importance of applying general security practices.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2025
+March 19, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical mySCADA myPRO Flaws Could Let Attackers Take Over Industrial Control Systems<a href="https://thehackernews.com/2025/03/critical-myscada-mypro-flaws-could-let.html?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Critical mySCADA myPRO Flaws Could Let Attackers Take Over Industrial Control Sy
 Organizations are recommended to apply the latest patches, enforce network segmentation by isolating SCADA systems from IT networks, enforce strong authentication, and monitor for suspicious activity.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2025
+March 19, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of Critical Vulnerabilities in Sungrow iSolarCloud App and WiNet Firmware<a href="https://securityonline.info/critical-vulnerabilities-found-in-sungrow-isolarcloud-app-and-winet-firmware/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ CISA Warns of Critical Vulnerabilities in Sungrow iSolarCloud App and WiNet Firm
 Sungrow has released updated firmware (WINET-SV200.001.00.P028 or higher) and advises all users to update the iSolarCloud Android App to the latest version immediately via their device’s app store.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2025
+March 19, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FIN7’s New Stealth Weapon, Anubis Backdoor, Emerges in the Wild<a href="https://securityonline.info/fin7s-new-stealth-weapon-anubisbackdoor-emerges-in-the-wild/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ FIN7’s New Stealth Weapon, Anubis Backdoor, Emerges in the Wild<a href="https:
 The Anubis Backdoor is designed to provide attackers with full control over infected machines, employing evasion techniques to bypass traditional security measures. It allows attackers to execute remote shell commands and various system operations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2025
+March 19, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stack Overflow Flaw Threatens Patient Data in PACS Servers, PoC Published<a href="https://securityonline.info/cve-2025-2263-cvss-9-8-stack-overflow-flaw-threatens-patient-data-in-pacs-systems-poc-published/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Stack Overflow Flaw Threatens Patient Data in PACS Servers, PoC Published<a href
 Users of Sante PACS Server are strongly advised to upgrade to version 4.2.0 or later to patch these critical security flaws and protect their systems from potential attacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2025
+March 19, 2025 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Indonesian Hacking Collective INDOHAXSEC Uncovered<a href="https://arcticwolf.com/resources/blog/indohaxsec-emerging-indonesian-hacking-collective/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Indonesian Hacking Collective INDOHAXSEC Uncovered<a href="https://arcticwolf.co
 Throughout the last couple of months, the hacktivist group has conducted cyberattacks such as DDoS and has carried out ransomware attacks against numerous entities and governmental bodies in Southeast Asia.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Artic Wolf
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2025
+March 19, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Node.js Library xml-crypto Hit by Critical Security Flaws<a href="https://securityonline.info/million-download-node-js-library-xml-crypto-hit-by-critical-security-flaws-cve-2025-29774-cve-2025-29775/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Node.js Library xml-crypto Hit by Critical Security Flaws<a href="https://securi
 Successful exploitation of these vulnerabilities can allow attackers to bypass authentication or authorization mechanisms in systems that use xml-crypto to verify signed XML documents.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2025
+March 19, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: GitHub Action Hack Likely Led to Another in Cascading Supply Chain Attack<a href="https://www.bleepingcomputer.com/news/security/github-action-hack-likely-led-to-another-in-cascading-supply-chain-attack/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Update: GitHub Action Hack Likely Led to Another in Cascading Supply Chain Attac
 A cascading supply chain attack that began with the compromise of the "reviewdog/action-setup@v1" GitHub Action is believed to have led to the recent breach of "tj-actions/changed-files" that leaked CI/CD secrets.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2025
+March 19, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Synology Patches Critical Code Execution Flaw in Multiple Products<a href="https://securityonline.info/cve-2024-10441-cvss-9-8-synology-patches-critical-code-execution-flaw-in-multiple-products/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Synology Patches Critical Code Execution Flaw in Multiple Products<a href="https
 Synology updated its security advisories to disclose a critical security vulnerability affecting several products, including Synology BeeStation Manager (BSM), Synology DiskStation Manager (DSM), and Synology Unified Controller (DSMUC).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2025
+March 19, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New ‘Rules File Backdoor’ Attack Lets Hackers Inject Malicious Code via AI Code Editors<a href="https://thehackernews.com/2025/03/new-rules-file-backdoor-attack-lets.html?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ New ‘Rules File Backdoor’ Attack Lets Hackers Inject Malicious Code via AI C
 Cybersecurity researchers have disclosed details of a new supply chain attack vector dubbed Rules File Backdoor that affects AI-powered code editors like GitHub Copilot and Cursor, causing them to inject malicious code.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
