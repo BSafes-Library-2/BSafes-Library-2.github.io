@@ -7,6 +7,21 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2025 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Three Known Exploited Vulnerabilities to Catalog <a href="https://www.cisa.gov/news-events/alerts/2025/03/19/cisa-adds-three-known-exploited-vulnerabilities-catalog"> Full Text</a>
+</p>
+<details>
+CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.
+
+CVE-2025-1316 Edimax IC-7100 IP Camera OS Command Injection Vulnerability
+CVE-2024-48248 NAKIVO Backup and Replication Absolute Path Traversal Vulnerability
+CVE-2017-12637 SAP NetWeaver Directory Traversal Vulnerability
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 13, 2025 - CISA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
