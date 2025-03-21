@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leaked Black Basta Chats Suggest Russian Officials Aided Leader's Escape from Armenia<a href="https://thehackernews.com/2025/03/leaked-black-basta-chats-suggest.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recently leaked trove of internal chat logs among members of the Black Basta ransomware operation has revealed possible connections between the e-crime gang and Russian authorities.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 15, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

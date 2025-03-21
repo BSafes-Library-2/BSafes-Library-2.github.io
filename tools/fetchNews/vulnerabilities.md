@@ -8,6 +8,76 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaws Expose SICK DL100 Devices to Code Execution and Password Hacks<a href="https://securityonline.info/critical-flaws-expose-sick-dl100-devices-to-code-execution-and-password-hacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SICK strongly recommends operating the affected systems within a secure infrastructure to minimize risk. The advisory provides workarounds for each CVE, emphasizing the importance of applying general security practices.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical mySCADA myPRO Flaws Could Let Attackers Take Over Industrial Control Systems<a href="https://thehackernews.com/2025/03/critical-myscada-mypro-flaws-could-let.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations are recommended to apply the latest patches, enforce network segmentation by isolating SCADA systems from IT networks, enforce strong authentication, and monitor for suspicious activity.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stack Overflow Flaw Threatens Patient Data in PACS Servers, PoC Published<a href="https://securityonline.info/cve-2025-2263-cvss-9-8-stack-overflow-flaw-threatens-patient-data-in-pacs-systems-poc-published/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users of Sante PACS Server are strongly advised to upgrade to version 4.2.0 or later to patch these critical security flaws and protect their systems from potential attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Node.js Library xml-crypto Hit by Critical Security Flaws<a href="https://securityonline.info/million-download-node-js-library-xml-crypto-hit-by-critical-security-flaws-cve-2025-29774-cve-2025-29775/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Successful exploitation of these vulnerabilities can allow attackers to bypass authentication or authorization mechanisms in systems that use xml-crypto to verify signed XML documents.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Synology Patches Critical Code Execution Flaw in Multiple Products<a href="https://securityonline.info/cve-2024-10441-cvss-9-8-synology-patches-critical-code-execution-flaw-in-multiple-products/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Synology updated its security advisories to disclose a critical security vulnerability affecting several products, including Synology BeeStation Manager (BSM), Synology DiskStation Manager (DSM), and Synology Unified Controller (DSMUC).
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 18, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

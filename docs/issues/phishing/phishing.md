@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware Campaign 'DollyWay' Targeted 20,000 WordPress Sites<a href="https://www.bleepingcomputer.com/news/security/malware-campaign-dollyway-breached-20-000-wordpress-sites/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to GoDaddy researcher Denis Sinegubko, DollyWay has been functioning as a large-scale scam redirection system in its latest version (v3). However, in the past, it has distributed more harmful payloads like ransomware and banking trojans.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 18, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

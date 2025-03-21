@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2025
+March 20, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of Three Actively Exploited Security Vulnerabilities in IoT, Backup, and Enterprise Systems<a href="https://securityonline.info/cisa-warns-of-three-actively-exploited-security-vulnerabilities-in-iot-backup-and-enterprise-systems/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ CISA Warns of Three Actively Exploited Security Vulnerabilities in IoT, Backup, 
 CISA reported three actively exploited vulnerabilities: a critical Edimax IP camera flaw (CVE-2025-1316) enabling botnet attacks, a NAKIVO backup issue (CVE-2024-48248) exposing data, and an SAP NetWeaver flaw (CVE-2017-12637) allowing file access.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2025
+March 20, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Arcane Info-stealer Infects YouTube, Discord Users via Game Cheats<a href="https://www.bleepingcomputer.com/news/security/new-arcane-infostealer-infects-youtube-discord-users-via-game-cheats/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ New Arcane Info-stealer Infects YouTube, Discord Users via Game Cheats<a href="h
 The campaign distributing Arcane Stealer relies on YouTube videos promoting game cheats and cracks, tricking users into following a link to download a password-protected archive.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2025
+March 20, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple Vulnerabilities Patched in Dell SmartFabric OS10 Software<a href="https://securityonline.info/multiple-vulnerabilities-patched-in-dell-smartfabric-os10-software/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Multiple Vulnerabilities Patched in Dell SmartFabric OS10 Software<a href="https
 The vulnerabilities, affecting version 10.5.6.x, could allow attackers to perform various malicious activities, including elevation of privileges, unauthorized access, code execution, and server-side request forgery.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2025
+March 20, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware Campaign 'DollyWay' Targeted 20,000 WordPress Sites<a href="https://www.bleepingcomputer.com/news/security/malware-campaign-dollyway-breached-20-000-wordpress-sites/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Malware Campaign 'DollyWay' Targeted 20,000 WordPress Sites<a href="https://www.
 According to GoDaddy researcher Denis Sinegubko, DollyWay has been functioning as a large-scale scam redirection system in its latest version (v3). However, in the past, it has distributed more harmful payloads like ransomware and banking trojans.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2025
+March 20, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical RCE Vulnerability Discovered in Veeam Backup & Replication<a href="https://securityonline.info/cve-2025-23120-cvss-9-9-critical-rce-vulnerability-discovered-in-veeam-backup-replication/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Critical RCE Vulnerability Discovered in Veeam Backup & Replication<a href="http
 While no public proof-of-concept (PoC) exploit has been released at the time of this publication, the large deployment footprint of Veeam Backup & Replication makes it an attractive target for attackers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2025
+March 20, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Leaked Black Basta Chats Suggest Russian Officials Aided Leader's Escape from Armenia<a href="https://thehackernews.com/2025/03/leaked-black-basta-chats-suggest.html?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Leaked Black Basta Chats Suggest Russian Officials Aided Leader's Escape from Ar
 The recently leaked trove of internal chat logs among members of the Black Basta ransomware operation has revealed possible connections between the e-crime gang and Russian authorities.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2025
+March 20, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PoC Exploit Released for Windows Explorer Vulnerability Exposing NTLM Hashes<a href="https://securityonline.info/poc-released-windows-explorer-cve-2025-24071-vulnerability-exposes-ntlm-hashes/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ PoC Exploit Released for Windows Explorer Vulnerability Exposing NTLM Hashes<a h
 A proof-of-concept (PoC) for the CVE-2025-24071 vulnerability is available on GitHub, and a Metasploit module for this flaw is also available. The flaw was addressed in the Microsoft Patch Tuesday this month.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2025
+March 20, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploit Severe PHP Flaw to Deploy Quasar RAT and XMRig Miners<a href="https://thehackernews.com/2025/03/hackers-exploit-severe-php-flaw-to.html?&web_view=true"> Full Text</a>
@@ -156,7 +156,7 @@ Hackers Exploit Severe PHP Flaw to Deploy Quasar RAT and XMRig Miners<a href="ht
 Bitdefender reported that hackers are exploiting a severe PHP flaw, CVE-2024-4577, on Windows CGI systems, deploying Quasar RAT and XMRig miners, with significant attacks in Taiwan, Hong Kong, and Brazil since late 2024.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

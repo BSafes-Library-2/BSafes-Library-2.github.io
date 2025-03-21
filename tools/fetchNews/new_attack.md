@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+March 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit Severe PHP Flaw to Deploy Quasar RAT and XMRig Miners<a href="https://thehackernews.com/2025/03/hackers-exploit-severe-php-flaw-to.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bitdefender reported that hackers are exploiting a severe PHP flaw, CVE-2024-4577, on Windows CGI systems, deploying Quasar RAT and XMRig miners, with significant attacks in Taiwan, Hong Kong, and Brazil since late 2024.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 19, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
