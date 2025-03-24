@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dragon RaaS: Pro-Russian Hacktivist Group Walks the Razor’s Edge Between Cybercrime and Propaganda<a href="https://securityonline.info/dragon-raas-pro-russian-hacktivist-group-walks-the-razors-edge-between-cybercrime-and-propaganda/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Known as Dragon RaaS, or simply Dragon Team, this emerging group blends political hacktivism with opportunistic cybercrime — all while operating under the shadowy umbrella of “The Five Families” cybercrime syndicate.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 21, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Threat Actor UAT-5918 Targets Critical Infrastructure Entities in Taiwan<a href="https://blog.talosintelligence.com/uat-5918-targets-critical-infra-in-taiwan/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Typical tooling used by UAT-5918 includes networking tools such as FRPC, FScan, In-Swor, Earthworm, and Neo-reGeorg. Credential harvesting is accomplished by dumping registry hives, NTDS, and using tools such as Mimikatz and browser data stealers.
+</details>
+<div style="text-align: right" markdown="1">
+Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 19, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

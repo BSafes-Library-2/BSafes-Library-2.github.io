@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Vulnerabilities Patched in Dell SmartFabric OS10 Software<a href="https://securityonline.info/multiple-vulnerabilities-patched-in-dell-smartfabric-os10-software/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities, affecting version 10.5.6.x, could allow attackers to perform various malicious activities, including elevation of privileges, unauthorized access, code execution, and server-side request forgery.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Vulnerability Discovered in Veeam Backup &amp; Replication<a href="https://securityonline.info/cve-2025-23120-cvss-9-9-critical-rce-vulnerability-discovered-in-veeam-backup-replication/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While no public proof-of-concept (PoC) exploit has been released at the time of this publication, the large deployment footprint of Veeam Backup &amp; Replication makes it an attractive target for attackers.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC Exploit Released for Windows Explorer Vulnerability Exposing NTLM Hashes<a href="https://securityonline.info/poc-released-windows-explorer-cve-2025-24071-vulnerability-exposes-ntlm-hashes/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A proof-of-concept (PoC) for the CVE-2025-24071 vulnerability is available on GitHub, and a Metasploit module for this flaw is also available. The flaw was addressed in the Microsoft Patch Tuesday this month.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 19, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

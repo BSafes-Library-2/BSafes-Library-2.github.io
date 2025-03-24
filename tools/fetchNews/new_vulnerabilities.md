@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Security Flaw in ArcGIS Enterprise Exposes Admin Accounts to Remote Takeover<a href="https://securityonline.info/critical-security-flaw-in-arcgis-enterprise-exposes-admin-accounts-to-remote-takeover/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2025-2538, carries a CVSS score of 9.8, marking it as a critical severity issue. It specifically affects certain deployments of Portal for ArcGIS, a core component in the ArcGIS Enterprise ecosystem.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 21, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress security plugin WP Ghost vulnerable to remote code execution bug<a href="https://www.bleepingcomputer.com/news/security/wordpress-security-plugin-wp-ghost-vulnerable-to-remote-code-execution-bug/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw, tracked as CVE-2025-26909, impacts all versions of WP Ghost up to 5.4.01 and stems from insufficient input validation in the 'showFile()' function. Exploitation could allow attackers to include arbitrary files via manipulated URL paths.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 20, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

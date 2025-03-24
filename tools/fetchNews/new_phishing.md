@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Semrush Ads Used to Steal SEO Professionals’ Google Accounts<a href="https://www.bleepingcomputer.com/news/security/fake-semrush-ads-used-to-steal-seo-professionals-google-accounts/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In this latest case of "cascading fraud," the cybercriminals abuse the Semrush brand, a popular software-as-a-service (SaaS) platform used for SEO, online advertising, content marketing, and competitive research.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 20, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
