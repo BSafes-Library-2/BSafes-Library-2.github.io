@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2025
+March 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw in kcp Lets Attackers Manipulate Any Workspace<a href="https://securityonline.info/cve-2025-29922-critical-flaw-in-kcp-lets-attackers-manipulate-any-workspace/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2025-29922 with a CVSS score of 9.6, allows for unauthorized creation and deletion of objects in arbitrary workspaces through the APIExport Virtual Workspace.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Chat Used in Meta Business Account Phishing<a href="https://securityonline.info/dont-click-fake-chat-used-in-meta-business-account-phishing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This phishing email warns recipients that their ad accounts have violated EU GDPR or Meta’s ad policies. They are encouraged to click a “Check More Details” button, which leads to a fake Meta page with a support chatbot.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Babuk2 Ransomware Attempts Extortion Based on False Claims<a href="https://www.halcyon.ai/blog/babuk2-ransomware-extortion-attempts-based-on-false-claims?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Babuk2, aka Babuk-Bjorka, appears to be reusing data from earlier breaches to back up its extortion claims. Many of the victims listed in their announcements have already been targeted by other groups such as RansomHub, FunkSec, LockBit, and Babuk.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nuxt Users Warned of Cache Poisoning Attacks Due to High-Severity Flaw<a href="https://securityonline.info/nuxt-users-beware-cve-2025-27415-opens-the-door-to-cache-poisoning-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2025-27415 and scored 7.5 on the CVSS scale, this vulnerability affects Nuxt versions 3.0.0 up to but not including 3.16.0. The issue lies in how Nuxt handles certain HTTP requests.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Trusted Signing service abused to code-sign malware<a href="https://www.bleepingcomputer.com/news/security/microsoft-trusted-signing-service-abused-to-code-sign-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Signed malware has the advantage of potentially bypassing security filters that would normally block unsigned executable files, or at least treat them with less suspicion.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Exploit Check Point Driver Flaws in Malicious Campaign<a href="https://www.infosecurity-magazine.com/news/cybercriminals-exploit-checkpoint/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher found that a component of Check Point’s ZoneAlarm antivirus software is being exploited by threat actors in malicious campaigns to bypass Windows security measures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Next.js Patches a Critical Authorization Bypass Flaw<a href="https://securityonline.info/urgent-patch-your-next-js-for-authorization-bypass-cve-2025-29927/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+By abusing the flaw, malicious actors could gain unauthorized access to protected resources and functionalities within applications relying on Next.js middleware for authentication and authorization.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VanHelsing, new RaaS in Town - Check Point Research<a href="https://research.checkpoint.com/2025/vanhelsing-new-raas-in-town/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In recent weeks, a new and rapidly expanding ransomware-as-a-service (RaaS) program called VanHelsingRaaS has been making waves in the cybercrime world, having infected three victims within just two weeks of its introduction.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Rooted Devices 250 Times More Vulnerable to Compromise<a href="https://www.infosecurity-magazine.com/news/rooted-devices-250x-vulnerable/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new analysis of mobile security threats by Zimperium has revealed that rooted and jailbroken devices are 250 times more vulnerable to system compromise incidents than standard devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Coinbase was the Primary Target of Recent Github Actions Breaches<a href="https://www.bleepingcomputer.com/news/security/coinbase-was-primary-target-of-recent-github-actions-breaches/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have determined that Coinbase was the primary target in a recent GitHub Actions cascading supply chain attack that compromised secrets in hundreds of repositories.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Albabat Ransomware Evolves to Target Linux and macOS<a href="https://www.infosecurity-magazine.com/news/albabat-ransomware-linux-macos/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Albabat Ransomware Evolves to Target Linux and macOS<a href="https://www.infosec
 Trend Micro researchers said the Albabat ransomware version 2.0 not only targets Microsoft Windows but also gathers system and hardware information on Linux and macOS systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2025
+March 22, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Security Flaw in ArcGIS Enterprise Exposes Admin Accounts to Remote Takeover<a href="https://securityonline.info/critical-security-flaw-in-arcgis-enterprise-exposes-admin-accounts-to-remote-takeover/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Critical Security Flaw in ArcGIS Enterprise Exposes Admin Accounts to Remote Tak
 The vulnerability, tracked as CVE-2025-2538, carries a CVSS score of 9.8, marking it as a critical severity issue. It specifically affects certain deployments of Portal for ArcGIS, a core component in the ArcGIS Enterprise ecosystem.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2025
+March 22, 2025 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese APT Aquatic Panda Conducted Global Espionage Campaign Affecting Seven Targets Using Five Malware Families<a href="https://thehackernews.com/2025/03/china-linked-apt-aquatic-panda-10-month.html?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Chinese APT Aquatic Panda Conducted Global Espionage Campaign Affecting Seven Ta
 The targeted entities include governments, catholic charities, non-governmental organizations (NGOs), and think tanks across Taiwan, Hungary, Turkey, Thailand, France, and the United States.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2025
+March 22, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Steam Pulls Game Demo Infecting Windows With Info-Stealing Malware<a href="https://www.bleepingcomputer.com/news/security/steam-pulls-game-demo-infecting-windows-with-info-stealing-malware/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Steam Pulls Game Demo Infecting Windows With Info-Stealing Malware<a href="https
 Valve has removed from its Steam store the game title 'Sniper: Phantom's Resolution' following multiple users reporting that the demo installer infected their systems with information stealing malware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2025
+March 22, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Medusa Ransomware Uses Malicious Driver to Disable Anti-Malware with Stolen Certificates<a href="https://thehackernews.com/2025/03/medusa-ransomware-uses-malicious-driver.html?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Medusa Ransomware Uses Malicious Driver to Disable Anti-Malware with Stolen Cert
 Researchers at Elastic Security Labs observed a Medusa ransomware attack that delivered the encryptor by means of a loader packed using a packer-as-a-service (PaaS) called HeartCrypt.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2025
+March 22, 2025 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dragon RaaS: Pro-Russian Hacktivist Group Walks the Razor’s Edge Between Cybercrime and Propaganda<a href="https://securityonline.info/dragon-raas-pro-russian-hacktivist-group-walks-the-razors-edge-between-cybercrime-and-propaganda/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Dragon RaaS: Pro-Russian Hacktivist Group Walks the Razor’s Edge Between Cyber
 Known as Dragon RaaS, or simply Dragon Team, this emerging group blends political hacktivism with opportunistic cybercrime — all while operating under the shadowy umbrella of “The Five Families” cybercrime syndicate.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2025
+March 22, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Semrush Ads Used to Steal SEO Professionals’ Google Accounts<a href="https://www.bleepingcomputer.com/news/security/fake-semrush-ads-used-to-steal-seo-professionals-google-accounts/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Fake Semrush Ads Used to Steal SEO Professionals’ Google Accounts<a href="http
 In this latest case of "cascading fraud," the cybercriminals abuse the Semrush brand, a popular software-as-a-service (SaaS) platform used for SEO, online advertising, content marketing, and competitive research.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 21, 2025
+March 21, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WordPress security plugin WP Ghost vulnerable to remote code execution bug<a href="https://www.bleepingcomputer.com/news/security/wordpress-security-plugin-wp-ghost-vulnerable-to-remote-code-execution-bug/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ WordPress security plugin WP Ghost vulnerable to remote code execution bug<a hre
 The flaw, tracked as CVE-2025-26909, impacts all versions of WP Ghost up to 5.4.01 and stems from insufficient input validation in the 'showFile()' function. Exploitation could allow attackers to include arbitrary files via manipulated URL paths.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 21, 2025
+March 21, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VSCode Extensions Found Downloading Early-Stage Ransomware<a href="https://www.bleepingcomputer.com/news/security/vscode-extensions-found-downloading-early-stage-ransomware/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ VSCode Extensions Found Downloading Early-Stage Ransomware<a href="https://www.b
 The two malicious extensions, named "ahban.shiba" and "ahban.cychelloworld," were downloaded seven and eight times, respectively, before they were eventually removed from the store.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 21, 2025
+March 21, 2025 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Threat Actor UAT-5918 Targets Critical Infrastructure Entities in Taiwan<a href="https://blog.talosintelligence.com/uat-5918-targets-critical-infra-in-taiwan/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Chinese Threat Actor UAT-5918 Targets Critical Infrastructure Entities in Taiwan
 Typical tooling used by UAT-5918 includes networking tools such as FRPC, FScan, In-Swor, Earthworm, and Neo-reGeorg. Credential harvesting is accomplished by dumping registry hives, NTDS, and using tools such as Mimikatz and browser data stealers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Talos
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
