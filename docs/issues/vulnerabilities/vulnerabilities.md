@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw in kcp Lets Attackers Manipulate Any Workspace<a href="https://securityonline.info/cve-2025-29922-critical-flaw-in-kcp-lets-attackers-manipulate-any-workspace/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2025-29922 with a CVSS score of 9.6, allows for unauthorized creation and deletion of objects in arbitrary workspaces through the APIExport Virtual Workspace.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nuxt Users Warned of Cache Poisoning Attacks Due to High-Severity Flaw<a href="https://securityonline.info/nuxt-users-beware-cve-2025-27415-opens-the-door-to-cache-poisoning-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2025-27415 and scored 7.5 on the CVSS scale, this vulnerability affects Nuxt versions 3.0.0 up to but not including 3.16.0. The issue lies in how Nuxt handles certain HTTP requests.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Next.js Patches a Critical Authorization Bypass Flaw<a href="https://securityonline.info/urgent-patch-your-next-js-for-authorization-bypass-cve-2025-29927/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+By abusing the flaw, malicious actors could gain unauthorized access to protected resources and functionalities within applications relying on Next.js middleware for authentication and authorization.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 22, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

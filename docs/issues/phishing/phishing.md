@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Chat Used in Meta Business Account Phishing<a href="https://securityonline.info/dont-click-fake-chat-used-in-meta-business-account-phishing/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This phishing email warns recipients that their ad accounts have violated EU GDPR or Meta’s ad policies. They are encouraged to click a “Check More Details” button, which leads to a fake Meta page with a support chatbot.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 22, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

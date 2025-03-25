@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+March 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese APT Aquatic Panda Conducted Global Espionage Campaign Affecting Seven Targets Using Five Malware Families<a href="https://thehackernews.com/2025/03/china-linked-apt-aquatic-panda-10-month.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The targeted entities include governments, catholic charities, non-governmental organizations (NGOs), and think tanks across Taiwan, Hungary, Turkey, Thailand, France, and the United States.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 13, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

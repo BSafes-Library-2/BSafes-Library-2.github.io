@@ -8,6 +8,48 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Albabat Ransomware Evolves to Target Linux and macOS<a href="https://www.infosecurity-magazine.com/news/albabat-ransomware-linux-macos/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro researchers said the Albabat ransomware version 2.0 not only targets Microsoft Windows but also gathers system and hardware information on Linux and macOS systems.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medusa Ransomware Uses Malicious Driver to Disable Anti-Malware with Stolen Certificates<a href="https://thehackernews.com/2025/03/medusa-ransomware-uses-malicious-driver.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Elastic Security Labs observed a Medusa ransomware attack that delivered the encryptor by means of a loader packed using a packer-as-a-service (PaaS) called HeartCrypt.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 21, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VSCode Extensions Found Downloading Early-Stage Ransomware<a href="https://www.bleepingcomputer.com/news/security/vscode-extensions-found-downloading-early-stage-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The two malicious extensions, named "ahban.shiba" and "ahban.cychelloworld," were downloaded seven and eight times, respectively, before they were eventually removed from the store.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 15, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
