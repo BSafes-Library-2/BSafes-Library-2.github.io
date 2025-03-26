@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2025
+March 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Emails Distribute GuLoader by Impersonating an International Shipping Company<a href="https://asec.ahnlab.com/en/87002/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The emails demand users open attachments that combine VBScript with PowerShell scripts, downloading files from external sources like planachiever.au and tripplebanks.duckdns.org.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Android Malware Campaigns Evading Detection Using Cross-Platform Framework .NET MAUI<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/new-android-malware-campaigns-evading-detection-using-cross-platform-framework-net-maui/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The McAfee Mobile Research Team discovered malware campaigns abusing .NET MAUI, a cross-platform development framework, to evade detection. These threats disguise themselves as legitimate apps, targeting users to steal sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rilide Stealer Disguises as a Browser Extension to Steal Crypto<a href="https://securityonline.info/rilide-the-browser-extension-stealing-your-crypto/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pulsedive Threat Research identified multiple delivery mechanisms used to distribute Rilide. Phishing websites are the most common method, but newer versions have been adapted to work with Chrome Extension Manifest V3.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Public Exploit Released for Linux Kernel Privilege Escalation Bug<a href="https://securityonline.info/cve-2025-0927-public-exploit-released-for-linux-kernel-privilege-escalation-bug/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2025-0927, a heap overflow in the HFS+ file system implementation, could allow an attacker to escalate local privileges on affected systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack Hits Ukrainian State Railway, Disrupting Online Ticket Sales<a href="https://therecord.media/ukraine-railway-ukrzaliznytsia-cyberattack-online-ticket-system?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack disrupted online services, including the mobile app used for ticket purchases, but did not affect train schedules, Ukrzaliznytsia said. The railway operator is investigating the incident along with Ukraine’s security services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Weaver Ant Hackers Spied on Telco Network for Four Years<a href="https://www.bleepingcomputer.com/news/security/chinese-weaver-ant-hackers-spied-on-telco-network-for-4-years/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A China-linked advanced threat group named Weaver Ant spent more than four years in the network of a telecommunications services provider, hiding traffic and infrastructure with the help of compromised Zyxel CPE routers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside Hunters International Group: How a Retailer Became the Latest Ransomware Victim<a href="https://securityonline.info/inside-hunters-international-group-how-a-retailer-became-the-latest-ransomware-victim/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In February 2025, Hunters International exploited CVE-2024-55591 in FortiOS to breach a retailer. They used VPN access, deceptive accounts, Rclone, and WinSCP for data exfiltration before deploying Rust-based ransomware and disabling recovery.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 300 Arrested in International Crackdown on Cyber Scams<a href="https://therecord.media/300-arrested-africa-crackdown-cyber-scams?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law enforcement agencies in seven African countries arrested over 300 suspected cybercriminals involved in mobile banking, investment and messaging app scams, according to a statement on Monday by Interpol.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AMOS Stealer Revamped to Serve as a Fully Undetected macOS Threat<a href="https://securityonline.info/amos-stealer-reloaded-inside-a-fully-undetected-macos-data-heist/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware is distributed via a DMG file named Installer_v2.7.8.dmg, leveraging a clever trick to bypass macOS Gatekeeper. Victims are instructed to right-click and select “Open,” sidestepping Apple’s verification mechanism.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Ingress NGINX Controller Vulnerability Allows RCE Without Authentication<a href="https://thehackernews.com/2025/03/critical-ingress-nginx-controller.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After responsible disclosure, the vulnerabilities were fixed in Ingress NGINX Controller versions 1.12.1, 1.11.5, and 1.10.7. Users should update promptly and secure the admission webhook endpoint from external exposure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaw in kcp Lets Attackers Manipulate Any Workspace<a href="https://securityonline.info/cve-2025-29922-critical-flaw-in-kcp-lets-attackers-manipulate-any-workspace/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Critical Flaw in kcp Lets Attackers Manipulate Any Workspace<a href="https://sec
 The vulnerability, tracked as CVE-2025-29922 with a CVSS score of 9.6, allows for unauthorized creation and deletion of objects in arbitrary workspaces through the APIExport Virtual Workspace.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2025
+March 24, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Chat Used in Meta Business Account Phishing<a href="https://securityonline.info/dont-click-fake-chat-used-in-meta-business-account-phishing/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Fake Chat Used in Meta Business Account Phishing<a href="https://securityonline.
 This phishing email warns recipients that their ad accounts have violated EU GDPR or Meta’s ad policies. They are encouraged to click a “Check More Details” button, which leads to a fake Meta page with a support chatbot.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2025
+March 24, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Babuk2 Ransomware Attempts Extortion Based on False Claims<a href="https://www.halcyon.ai/blog/babuk2-ransomware-extortion-attempts-based-on-false-claims?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Babuk2 Ransomware Attempts Extortion Based on False Claims<a href="https://www.h
 Babuk2, aka Babuk-Bjorka, appears to be reusing data from earlier breaches to back up its extortion claims. Many of the victims listed in their announcements have already been targeted by other groups such as RansomHub, FunkSec, LockBit, and Babuk.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Halcyon
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2025
+March 24, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nuxt Users Warned of Cache Poisoning Attacks Due to High-Severity Flaw<a href="https://securityonline.info/nuxt-users-beware-cve-2025-27415-opens-the-door-to-cache-poisoning-attacks/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Nuxt Users Warned of Cache Poisoning Attacks Due to High-Severity Flaw<a href="h
 Tracked as CVE-2025-27415 and scored 7.5 on the CVSS scale, this vulnerability affects Nuxt versions 3.0.0 up to but not including 3.16.0. The issue lies in how Nuxt handles certain HTTP requests.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2025
+March 24, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Trusted Signing service abused to code-sign malware<a href="https://www.bleepingcomputer.com/news/security/microsoft-trusted-signing-service-abused-to-code-sign-malware/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Microsoft Trusted Signing service abused to code-sign malware<a href="https://ww
 Signed malware has the advantage of potentially bypassing security filters that would normally block unsigned executable files, or at least treat them with less suspicion.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2025
+March 24, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Exploit Check Point Driver Flaws in Malicious Campaign<a href="https://www.infosecurity-magazine.com/news/cybercriminals-exploit-checkpoint/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Cybercriminals Exploit Check Point Driver Flaws in Malicious Campaign<a href="ht
 A security researcher found that a component of Check Point’s ZoneAlarm antivirus software is being exploited by threat actors in malicious campaigns to bypass Windows security measures.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2025
+March 24, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Next.js Patches a Critical Authorization Bypass Flaw<a href="https://securityonline.info/urgent-patch-your-next-js-for-authorization-bypass-cve-2025-29927/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Next.js Patches a Critical Authorization Bypass Flaw<a href="https://securityonl
 By abusing the flaw, malicious actors could gain unauthorized access to protected resources and functionalities within applications relying on Next.js middleware for authentication and authorization.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2025
+March 24, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VanHelsing, new RaaS in Town - Check Point Research<a href="https://research.checkpoint.com/2025/vanhelsing-new-raas-in-town/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ VanHelsing, new RaaS in Town - Check Point Research<a href="https://research.che
 In recent weeks, a new and rapidly expanding ransomware-as-a-service (RaaS) program called VanHelsingRaaS has been making waves in the cybercrime world, having infected three victims within just two weeks of its introduction.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CheckPoint
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2025
+March 24, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: Rooted Devices 250 Times More Vulnerable to Compromise<a href="https://www.infosecurity-magazine.com/news/rooted-devices-250x-vulnerable/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Report: Rooted Devices 250 Times More Vulnerable to Compromise<a href="https://w
 A new analysis of mobile security threats by Zimperium has revealed that rooted and jailbroken devices are 250 times more vulnerable to system compromise incidents than standard devices.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2025
+March 24, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Coinbase was the Primary Target of Recent Github Actions Breaches<a href="https://www.bleepingcomputer.com/news/security/coinbase-was-primary-target-of-recent-github-actions-breaches/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Update: Coinbase was the Primary Target of Recent Github Actions Breaches<a href
 Researchers have determined that Coinbase was the primary target in a recent GitHub Actions cascading supply chain attack that compromised secrets in hundreds of repositories.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
