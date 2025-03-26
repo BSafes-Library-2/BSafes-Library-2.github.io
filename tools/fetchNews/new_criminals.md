@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 25, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 300 Arrested in International Crackdown on Cyber Scams<a href="https://therecord.media/300-arrested-africa-crackdown-cyber-scams?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law enforcement agencies in seven African countries arrested over 300 suspected cybercriminals involved in mobile banking, investment and messaging app scams, according to a statement on Monday by Interpol.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 20, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

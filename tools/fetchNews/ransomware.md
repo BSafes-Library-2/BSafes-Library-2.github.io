@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Babuk2 Ransomware Attempts Extortion Based on False Claims<a href="https://www.halcyon.ai/blog/babuk2-ransomware-extortion-attempts-based-on-false-claims?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Babuk2, aka Babuk-Bjorka, appears to be reusing data from earlier breaches to back up its extortion claims. Many of the victims listed in their announcements have already been targeted by other groups such as RansomHub, FunkSec, LockBit, and Babuk.
+</details>
+<div style="text-align: right" markdown="1">
+Halcyon
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VanHelsing, new RaaS in Town - Check Point Research<a href="https://research.checkpoint.com/2025/vanhelsing-new-raas-in-town/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In recent weeks, a new and rapidly expanding ransomware-as-a-service (RaaS) program called VanHelsingRaaS has been making waves in the cybercrime world, having infected three victims within just two weeks of its introduction.
+</details>
+<div style="text-align: right" markdown="1">
+CheckPoint
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 22, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+March 25, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside Hunters International Group: How a Retailer Became the Latest Ransomware Victim<a href="https://securityonline.info/inside-hunters-international-group-how-a-retailer-became-the-latest-ransomware-victim/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In February 2025, Hunters International exploited CVE-2024-55591 in FortiOS to breach a retailer. They used VPN access, deceptive accounts, Rclone, and WinSCP for data exfiltration before deploying Rust-based ransomware and disabling recovery.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 24, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+March 25, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack Hits Ukrainian State Railway, Disrupting Online Ticket Sales<a href="https://therecord.media/ukraine-railway-ukrzaliznytsia-cyberattack-online-ticket-system?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack disrupted online services, including the mobile app used for ticket purchases, but did not affect train schedules, Ukrzaliznytsia said. The railway operator is investigating the incident along with Ukraine’s security services.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 24, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

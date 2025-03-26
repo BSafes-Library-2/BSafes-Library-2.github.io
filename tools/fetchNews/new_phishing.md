@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 25, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Emails Distribute GuLoader by Impersonating an International Shipping Company<a href="https://asec.ahnlab.com/en/87002/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The emails demand users open attachments that combine VBScript with PowerShell scripts, downloading files from external sources like planachiever.au and tripplebanks.duckdns.org.
+</details>
+<div style="text-align: right" markdown="1">
+AhnLab
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 24, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+March 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Exploit Check Point Driver Flaws in Malicious Campaign<a href="https://www.infosecurity-magazine.com/news/cybercriminals-exploit-checkpoint/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher found that a component of Check Point’s ZoneAlarm antivirus software is being exploited by threat actors in malicious campaigns to bypass Windows security measures.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 20, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
