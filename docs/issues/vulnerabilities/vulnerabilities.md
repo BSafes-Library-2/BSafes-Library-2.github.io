@@ -8,6 +8,104 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Windows Zero-Day Leaks NTLM Hashes, Gets Unofficial Patch<a href="https://www.bleepingcomputer.com/news/security/new-windows-zero-day-leaks-ntlm-hashes-gets-unofficial-patch/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Free unofficial patches are available for a new Windows zero-day vulnerability that can let remote attackers steal NTLM credentials by tricking targets into viewing malicious files in Windows Explorer.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache VCL Hit by SQL Injection and XSS Vulnerabilities<a href="https://securityonline.info/apache-vcl-hit-by-sql-injection-cve-2024-53678-and-xss-cve-2024-53679-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent advisories revealed two vulnerabilities (CVE-2024-53678 and CVE-2024-53679) in Apache VCL, a widely-used open-source cloud computing platform designed to deliver custom computing environments.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CrushFTP Warns Users to Patch Unauthenticated Access Flaw Immediately<a href="https://www.bleepingcomputer.com/news/security/crushftp-warns-users-to-patch-unauthenticated-access-flaw-immediately/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CrushFTP warned customers of an unauthenticated HTTP(S) port access vulnerability and urged them to patch their servers immediately. The vulnerability is mitigated if the DMZ feature of CrushFTP is enabled.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NetApp SnapCenter Users at Risk Due to CVSS 9.9 Privilege Escalation Vulnerability<a href="https://securityonline.info/netapp-snapcenter-users-at-risk-cvss-9-9-privilege-escalation-alert/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity security vulnerability has been discovered in NetApp SnapCenter, posing a significant risk to systems utilizing this platform. NetApp has released a security advisory detailing the issue and urging users to take immediate action.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Authentication Bypass Flaw Impacts VMware Tools for Windows<a href="https://securityaffairs.com/175858/security/authentication-bypass-cve-2025-22230-in-vmware-tools-for-windows.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability is due to improper access control. Low-privileged local attackers can exploit this vulnerability in simple attacks without user interaction to escalate privileges on vulnerable VMs.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Flaw Found in MoxieManager<a href="https://securityonline.info/cve-2025-30091-critical-rce-flaw-found-in-moxiemanager/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tiny Technologies recently issued a security advisory regarding a critical vulnerability discovered in MoxieManager, a file and media management solution popular for its integration into PHP and .NET environments.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EncryptHub Linked to MMC Zero-Day Attacks on Windows Systems<a href="https://www.bleepingcomputer.com/news/security/encrypthub-linked-to-zero-day-attacks-targeting-windows-systems/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers can leverage the vulnerability to evade Windows file reputation protections and execute code because the user is not warned before loading unexpected MSC files on unpatched devices.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 25, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

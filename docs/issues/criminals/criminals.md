@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Nearly 200 Unique C2 Domains Linked to Raspberry Robin Access Broker<a href="https://thehackernews.com/2025/03/researchers-uncover-200-unique-c2.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"Raspberry Robin (also known as Roshtyak or Storm-0856) is a complex and evolving threat actor that provides initial access broker (IAB) services to numerous criminal groups, many of which have connections to Russia," Silent Push said in a report.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 25, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
