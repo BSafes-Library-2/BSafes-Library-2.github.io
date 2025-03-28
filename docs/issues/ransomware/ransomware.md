@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 27, 2025  <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RedCurl Threat Group Create QWCrypt Ransomware to Target Hyper-V Virtual Machines<a href="https://www.bleepingcomputer.com/news/security/redcurl-cyberspies-create-ransomware-to-encrypt-hyper-v-servers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While most ransomware operations focus on VMware ESXi servers, RedCurl's new QWCrypt ransomware specifically targets virtual machines hosted on Hyper-V. Bitdefender observed attacks involving phishing emails with ".IMG" attachments disguised as CVs.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 24, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+March 27, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New SparrowDoor Backdoor Variants Found in Attacks on U.S. and Mexican Organizations<a href="https://thehackernews.com/2025/03/new-sparrowdoor-backdoor-variants-found.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Chinese threat actor known as FamousSparrow has been linked to a cyber attack targeting a trade group in the United States and a research institute in Mexico to deliver its flagship backdoor SparrowDoor and ShadowPad.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 26, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

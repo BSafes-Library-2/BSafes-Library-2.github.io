@@ -1,4 +1,4 @@
----
+--
 layout: default
 title: Welcome 
 nav_order: 1
@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 27, 2025
+March 27, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Synology Mail Server Vulnerability Allows Remote Configuration Tampering<a href="https://securityonline.info/cve-2025-2848-synology-mail-server-vulnerability-allows-remote-configuration-tampering/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Synology Mail Server Vulnerability Allows Remote Configuration Tampering<a href=
 “A vulnerability in Synology Mail Server allows remote authenticated attackers to read and write non-sensitive settings, and disable some non-critical functions,” according to Synology’s official advisory.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 27, 2025
+March 27, 2025  -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RedCurl Threat Group Create QWCrypt Ransomware to Target Hyper-V Virtual Machines<a href="https://www.bleepingcomputer.com/news/security/redcurl-cyberspies-create-ransomware-to-encrypt-hyper-v-servers/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ RedCurl Threat Group Create QWCrypt Ransomware to Target Hyper-V Virtual Machine
 While most ransomware operations focus on VMware ESXi servers, RedCurl's new QWCrypt ransomware specifically targets virtual machines hosted on Hyper-V. Bitdefender observed attacks involving phishing emails with ".IMG" attachments disguised as CVs.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 27, 2025
+March 27, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Millions of Web Applications at Risk Due to PoC Exploit Released for Vite Arbitrary File Read Flaw<a href="https://securityonline.info/millions-at-risk-poc-exploit-releases-for-vite-arbitrary-file-read-flaw-cve-2025-30208/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Millions of Web Applications at Risk Due to PoC Exploit Released for Vite Arbitr
 Vite, the frontend build tool that powers millions of modern web applications, has been found vulnerable to a file access control bypass flaw that could expose arbitrary file contents to the browser.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 27, 2025
+March 27, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware Found on npm Infecting Local Package With Reverse Shell<a href="https://www.reversinglabs.com/blog/malicious-npm-patch-delivers-reverse-shell?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Malware Found on npm Infecting Local Package With Reverse Shell<a href="https://
 In March, two harmful packages called ethers-provider2 and ethers-providerz were added to npm. They hid their malicious payload and modified the legitimate npm package ethers, which led to a reverse shell.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Reversing Labs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 27, 2025
+March 27, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RCE and Data Leak Vulnerabilities Patched in Splunk Enterprise and Splunk Cloud Platform<a href="https://securityonline.info/splunk-alert-rce-and-data-leak-vulnerabilities-threaten-platforms/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ RCE and Data Leak Vulnerabilities Patched in Splunk Enterprise and Splunk Cloud 
 CVE-2025-20229 allows low-privileged users to execute arbitrary code remotely by uploading malicious files. The second flaw, CVE-2025-20231, affects the Splunk Secure Gateway App and leads to the exposure of user session and authorization tokens.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 27, 2025
+March 27, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackLock Ransomware Operation Disrupted by Cybersecurity Firm<a href="https://securityaffairs.com/175877/cyber-crime/blacklock-ransomware-targeted-by-cybersecurity-firm.html?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ BlackLock Ransomware Operation Disrupted by Cybersecurity Firm<a href="https://s
 Resecurity discovered a local file inclusion flaw in the data leak site used by BlackLock Ransomware, allowing them to uncover clearnet IP addresses and other details about the cybercriminals' network, aiding in the investigation and disruption.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 27, 2025
+March 27, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Synapse Servers at Risk Due to Zero-Day DoS Flaw Exploited in the Wild<a href="https://securityonline.info/synapse-servers-at-risk-zero-day-dos-in-the-wild/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Synapse Servers at Risk Due to Zero-Day DoS Flaw Exploited in the Wild<a href="h
 A critical zero-day vulnerability has been discovered in Synapse, an open-source Matrix homeserver implementation. This flaw is actively being exploited in the wild and can lead to a denial-of-service condition.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 27, 2025
+March 27, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MacOS Malware ReaderUpdate Adds New Variants Written in Crystal, Nim, Rust, and Go<a href="https://www.sentinelone.com/blog/readerupdate-reforged-melting-pot-of-macos-malware-adds-go-to-crystal-nim-and-rust-variants/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ MacOS Malware ReaderUpdate Adds New Variants Written in Crystal, Nim, Rust, and 
 The ReaderUpdate malware, which previously went relatively unnoticed, now includes variants written in Crystal, Nim, Rust, and most recently, Go, in addition to the original compiled Python binary.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sentinel One
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 27, 2025
+March 27, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Use-After-Free Vulnerability in Exim Exposes Systems to Privilege Escalation<a href="https://securityonline.info/cve-2025-30232-use-after-free-vulnerability-in-exim-exposes-systems-to-privilege-escalation/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Use-After-Free Vulnerability in Exim Exposes Systems to Privilege Escalation<a h
 The use-after-free vulnerability can be exploited to achieve privilege escalation. This could allow an attacker to gain unauthorized access to system resources and execute arbitrary commands with elevated privileges.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 27, 2025
+March 27, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New SparrowDoor Backdoor Variants Found in Attacks on U.S. and Mexican Organizations<a href="https://thehackernews.com/2025/03/new-sparrowdoor-backdoor-variants-found.html?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ New SparrowDoor Backdoor Variants Found in Attacks on U.S. and Mexican Organizat
 The Chinese threat actor known as FamousSparrow has been linked to a cyber attack targeting a trade group in the United States and a research institute in Mexico to deliver its flagship backdoor SparrowDoor and ShadowPad.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
