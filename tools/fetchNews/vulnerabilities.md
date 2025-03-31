@@ -8,6 +8,76 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 27, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Synology Mail Server Vulnerability Allows Remote Configuration Tampering<a href="https://securityonline.info/cve-2025-2848-synology-mail-server-vulnerability-allows-remote-configuration-tampering/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“A vulnerability in Synology Mail Server allows remote authenticated attackers to read and write non-sensitive settings, and disable some non-critical functions,” according to Synology’s official advisory.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 27, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of Web Applications at Risk Due to PoC Exploit Released for Vite Arbitrary File Read Flaw<a href="https://securityonline.info/millions-at-risk-poc-exploit-releases-for-vite-arbitrary-file-read-flaw-cve-2025-30208/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vite, the frontend build tool that powers millions of modern web applications, has been found vulnerable to a file access control bypass flaw that could expose arbitrary file contents to the browser.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 27, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RCE and Data Leak Vulnerabilities Patched in Splunk Enterprise and Splunk Cloud Platform<a href="https://securityonline.info/splunk-alert-rce-and-data-leak-vulnerabilities-threaten-platforms/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2025-20229 allows low-privileged users to execute arbitrary code remotely by uploading malicious files. The second flaw, CVE-2025-20231, affects the Splunk Secure Gateway App and leads to the exposure of user session and authorization tokens.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 27, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Synapse Servers at Risk Due to Zero-Day DoS Flaw Exploited in the Wild<a href="https://securityonline.info/synapse-servers-at-risk-zero-day-dos-in-the-wild/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical zero-day vulnerability has been discovered in Synapse, an open-source Matrix homeserver implementation. This flaw is actively being exploited in the wild and can lead to a denial-of-service condition.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 27, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Use-After-Free Vulnerability in Exim Exposes Systems to Privilege Escalation<a href="https://securityonline.info/cve-2025-30232-use-after-free-vulnerability-in-exim-exposes-systems-to-privilege-escalation/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The use-after-free vulnerability can be exploited to achieve privilege escalation. This could allow an attacker to gain unauthorized access to system resources and execute arbitrary commands with elevated privileges.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 26, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

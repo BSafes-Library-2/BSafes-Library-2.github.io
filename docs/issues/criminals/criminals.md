@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 28, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Repurpose RansomHub's EDRKillShifter in Medusa, BianLian, and Play Attacks<a href="https://thehackernews.com/2025/03/hackers-repurpose-ransomhubs.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new analysis has uncovered connections between affiliates of RansomHub and other ransomware groups like Medusa, BianLian, and Play. The connection stems from the use of EDRKillShifter to disable endpoint security software, according to ESET.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 27, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 27, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackLock Ransomware Operation Disrupted by Cybersecurity Firm<a href="https://securityaffairs.com/175877/cyber-crime/blacklock-ransomware-targeted-by-cybersecurity-firm.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Resecurity discovered a local file inclusion flaw in the data leak site used by BlackLock Ransomware, allowing them to uncover clearnet IP addresses and other details about the cybercriminals' network, aiding in the investigation and disruption.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 26, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

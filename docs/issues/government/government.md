@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+March 29, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of RESURGE Malware Exploiting Ivanti Vulnerability<a href="https://securityonline.info/cisa-warns-of-resurge-malware-exploiting-ivanti-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This new malware exhibits capabilities similar to the SPAWNCHIMERA variant, notably its ability to survive system reboots. However, RESURGE distinguishes itself through unique commands that enable it to alter its behavior.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CHOCO TEI WATCHER mini Devices Found Vulnerable to Critical Remote Exploits, CISA Warns<a href="https://securityonline.info/choco-tei-watcher-mini-devices-found-vulnerable-to-critical-remote-exploits-cisa-warns/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA has issued an advisory alerting organizations to multiple critical vulnerabilities affecting the CHOCO TEI WATCHER mini (IB-MCT001)—a device manufactured by Inaba Denki Sangyo Co., Ltd. for use in industrial and manufacturing environments.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 20, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

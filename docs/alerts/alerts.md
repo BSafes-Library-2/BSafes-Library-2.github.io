@@ -7,6 +7,32 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2025 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Releases Malware Analysis Report on RESURGE Malware Associated with Ivanti Connect Secure <a href="https://www.cisa.gov/news-events/alerts/2025/03/28/cisa-releases-malware-analysis-report-resurge-malware-associated-ivanti-connect-secure"> Full Text</a>
+</p>
+<details>
+CISA has published a Malware Analysis Report (MAR) with analysis and associated detection signatures on a new malware variant CISA has identified as RESURGE. RESURGE contains capabilities of the SPAWNCHIMERA[1] malware variant, including surviving reboots; however, RESURGE contains distinctive commands that alter its behavior. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2025 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inaba Denki Sangyo CHOCO TEI WATCHER mini <a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-084-04"> Full Text</a>
+</p>
+<details>
+CVSS v4 9.3
+ATTENTION: Exploitable remotely/low attack complexity
+Vendor: Inaba Denki Sangyo Co., Ltd.
+Equipment: CHOCO TEI WATCHER mini
+Vulnerabilities: Use of Client-Side Authentication, Storing Passwords in a Recoverable Format, Weak Password Requirements, Direct Request ('Forced Browsing')
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 19, 2025 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2025
+March 29, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of RESURGE Malware Exploiting Ivanti Vulnerability<a href="https://securityonline.info/cisa-warns-of-resurge-malware-exploiting-ivanti-vulnerability/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ CISA Warns of RESURGE Malware Exploiting Ivanti Vulnerability<a href="https://se
 This new malware exhibits capabilities similar to the SPAWNCHIMERA variant, notably its ability to survive system reboots. However, RESURGE distinguishes itself through unique commands that enable it to alter its behavior.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2025
+March 29, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Ubuntu Linux Security Bypasses Require Manual Mitigations<a href="https://www.bleepingcomputer.com/news/security/new-ubuntu-linux-security-bypasses-require-manual-mitigations/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ New Ubuntu Linux Security Bypasses Require Manual Mitigations<a href="https://ww
 Three security bypasses have been discovered in Ubuntu Linux’s unprivileged user namespace restrictions, which could be enable a local attacker to exploit vulnerabilities in kernel components.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2025
+March 29, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stealthy Snake Keylogger Malware Targets Credentials in Sophisticated Attacks<a href="https://securityonline.info/snakekeylogger-stealthy-malware-targets-credentials-in-sophisticated-attacks/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Stealthy Snake Keylogger Malware Targets Credentials in Sophisticated Attacks<a 
 A new report from Seqrite Labs detailed a malicious campaign employing SnakeKeylogger, an info-stealing malware known for its advanced techniques and ability to evade detection.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2025
+March 29, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CHOCO TEI WATCHER mini Devices Found Vulnerable to Critical Remote Exploits, CISA Warns<a href="https://securityonline.info/choco-tei-watcher-mini-devices-found-vulnerable-to-critical-remote-exploits-cisa-warns/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ CHOCO TEI WATCHER mini Devices Found Vulnerable to Critical Remote Exploits, CIS
 The CISA has issued an advisory alerting organizations to multiple critical vulnerabilities affecting the CHOCO TEI WATCHER mini (IB-MCT001)—a device manufactured by Inaba Denki Sangyo Co., Ltd. for use in industrial and manufacturing environments.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 28, 2025
+March 28, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Classiscam Scams Surge in Central Asia, Leveraging Telegram Bots<a href="https://securityonline.info/classiscam-scams-surge-in-central-asia-leveraging-telegram-bots/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Classiscam Scams Surge in Central Asia, Leveraging Telegram Bots<a href="https:/
 These scams, which have evolved from simple fake ads to sophisticated operations using Telegram bots, are targeting online marketplaces and deceiving users into divulging their financial information.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 28, 2025
+March 28, 2025 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APT36 Spoofs India Post Website to Infect Windows and Android Users with Malware<a href="https://thehackernews.com/2025/03/apt36-spoofs-india-post-website-to.html?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ APT36 Spoofs India Post Website to Infect Windows and Android Users with Malware
 A Pakistan-linked APT group has been found creating a fake website masquerading as India's public sector postal system as part of a campaign designed to infect both Windows and Android users in the country.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 28, 2025
+March 28, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PJobRAT Makes a Comeback, Takes Another Crack at Chat Apps<a href="https://news.sophos.com/en-us/2025/03/27/pjobrat-makes-a-comeback-takes-another-crack-at-chat-apps/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ PJobRAT Makes a Comeback, Takes Another Crack at Chat Apps<a href="https://news.
 In the latest campaign, Sophos X-Ops researchers found PJobRAT samples disguising themselves as instant messaging apps. As per their telemetry, all the victims appeared to be based in Taiwan.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sophos
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 28, 2025
+March 28, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Severity Vulnerabilities in Ghostscript  Put Users at Risk<a href="https://securityonline.info/ghostscript-nightmare-critical-severity-vulnerabilities-put-users-at-risk/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Critical Severity Vulnerabilities in Ghostscript  Put Users at Risk<a href="http
 A series of security vulnerabilities has been identified in Artifex Ghostscript, a widely used interpreter for PostScript and PDF files. These vulnerabilities could lead to buffer overflows and unauthorized file access.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 28, 2025
+March 28, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Repurpose RansomHub's EDRKillShifter in Medusa, BianLian, and Play Attacks<a href="https://thehackernews.com/2025/03/hackers-repurpose-ransomhubs.html?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Hackers Repurpose RansomHub's EDRKillShifter in Medusa, BianLian, and Play Attac
 A new analysis has uncovered connections between affiliates of RansomHub and other ransomware groups like Medusa, BianLian, and Play. The connection stems from the use of EDRKillShifter to disable endpoint security software, according to ESET.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 28, 2025
+March 28, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 150,000 Sites Compromised by JavaScript Injection Promoting Chinese Gambling Platforms<a href="https://thehackernews.com/2025/03/150000-sites-compromised-by-javascript.html?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ March 28, 2025
 The redirections have been found to occur via JavaScript hosted on five different domains (e.g., "zuizhongyj[.]com") that, in turn, serve the main payload responsible for performing the redirects.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
