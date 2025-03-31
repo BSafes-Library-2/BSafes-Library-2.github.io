@@ -1,4 +1,4 @@
----
+--
 layout: default
 title: Welcome 
 nav_order: 1
@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 27, 2025
+March 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of RESURGE Malware Exploiting Ivanti Vulnerability<a href="https://securityonline.info/cisa-warns-of-resurge-malware-exploiting-ivanti-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This new malware exhibits capabilities similar to the SPAWNCHIMERA variant, notably its ability to survive system reboots. However, RESURGE distinguishes itself through unique commands that enable it to alter its behavior.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Ubuntu Linux Security Bypasses Require Manual Mitigations<a href="https://www.bleepingcomputer.com/news/security/new-ubuntu-linux-security-bypasses-require-manual-mitigations/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three security bypasses have been discovered in Ubuntu Linux’s unprivileged user namespace restrictions, which could be enable a local attacker to exploit vulnerabilities in kernel components.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stealthy Snake Keylogger Malware Targets Credentials in Sophisticated Attacks<a href="https://securityonline.info/snakekeylogger-stealthy-malware-targets-credentials-in-sophisticated-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report from Seqrite Labs detailed a malicious campaign employing SnakeKeylogger, an info-stealing malware known for its advanced techniques and ability to evade detection.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CHOCO TEI WATCHER mini Devices Found Vulnerable to Critical Remote Exploits, CISA Warns<a href="https://securityonline.info/choco-tei-watcher-mini-devices-found-vulnerable-to-critical-remote-exploits-cisa-warns/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA has issued an advisory alerting organizations to multiple critical vulnerabilities affecting the CHOCO TEI WATCHER mini (IB-MCT001)—a device manufactured by Inaba Denki Sangyo Co., Ltd. for use in industrial and manufacturing environments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Classiscam Scams Surge in Central Asia, Leveraging Telegram Bots<a href="https://securityonline.info/classiscam-scams-surge-in-central-asia-leveraging-telegram-bots/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These scams, which have evolved from simple fake ads to sophisticated operations using Telegram bots, are targeting online marketplaces and deceiving users into divulging their financial information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT36 Spoofs India Post Website to Infect Windows and Android Users with Malware<a href="https://thehackernews.com/2025/03/apt36-spoofs-india-post-website-to.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Pakistan-linked APT group has been found creating a fake website masquerading as India's public sector postal system as part of a campaign designed to infect both Windows and Android users in the country.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PJobRAT Makes a Comeback, Takes Another Crack at Chat Apps<a href="https://news.sophos.com/en-us/2025/03/27/pjobrat-makes-a-comeback-takes-another-crack-at-chat-apps/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the latest campaign, Sophos X-Ops researchers found PJobRAT samples disguising themselves as instant messaging apps. As per their telemetry, all the victims appeared to be based in Taiwan.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Severity Vulnerabilities in Ghostscript  Put Users at Risk<a href="https://securityonline.info/ghostscript-nightmare-critical-severity-vulnerabilities-put-users-at-risk/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A series of security vulnerabilities has been identified in Artifex Ghostscript, a widely used interpreter for PostScript and PDF files. These vulnerabilities could lead to buffer overflows and unauthorized file access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Repurpose RansomHub's EDRKillShifter in Medusa, BianLian, and Play Attacks<a href="https://thehackernews.com/2025/03/hackers-repurpose-ransomhubs.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new analysis has uncovered connections between affiliates of RansomHub and other ransomware groups like Medusa, BianLian, and Play. The connection stems from the use of EDRKillShifter to disable endpoint security software, according to ESET.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+150,000 Sites Compromised by JavaScript Injection Promoting Chinese Gambling Platforms<a href="https://thehackernews.com/2025/03/150000-sites-compromised-by-javascript.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The redirections have been found to occur via JavaScript hosted on five different domains (e.g., "zuizhongyj[.]com") that, in turn, serve the main payload responsible for performing the redirects.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 27, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Synology Mail Server Vulnerability Allows Remote Configuration Tampering<a href="https://securityonline.info/cve-2025-2848-synology-mail-server-vulnerability-allows-remote-configuration-tampering/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Synology Mail Server Vulnerability Allows Remote Configuration Tampering<a href=
 “A vulnerability in Synology Mail Server allows remote authenticated attackers to read and write non-sensitive settings, and disable some non-critical functions,” according to Synology’s official advisory.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 27, 2025
+March 27, 2025  -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RedCurl Threat Group Create QWCrypt Ransomware to Target Hyper-V Virtual Machines<a href="https://www.bleepingcomputer.com/news/security/redcurl-cyberspies-create-ransomware-to-encrypt-hyper-v-servers/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ RedCurl Threat Group Create QWCrypt Ransomware to Target Hyper-V Virtual Machine
 While most ransomware operations focus on VMware ESXi servers, RedCurl's new QWCrypt ransomware specifically targets virtual machines hosted on Hyper-V. Bitdefender observed attacks involving phishing emails with ".IMG" attachments disguised as CVs.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 27, 2025
+March 27, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Millions of Web Applications at Risk Due to PoC Exploit Released for Vite Arbitrary File Read Flaw<a href="https://securityonline.info/millions-at-risk-poc-exploit-releases-for-vite-arbitrary-file-read-flaw-cve-2025-30208/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Millions of Web Applications at Risk Due to PoC Exploit Released for Vite Arbitr
 Vite, the frontend build tool that powers millions of modern web applications, has been found vulnerable to a file access control bypass flaw that could expose arbitrary file contents to the browser.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 27, 2025
+March 27, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware Found on npm Infecting Local Package With Reverse Shell<a href="https://www.reversinglabs.com/blog/malicious-npm-patch-delivers-reverse-shell?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Malware Found on npm Infecting Local Package With Reverse Shell<a href="https://
 In March, two harmful packages called ethers-provider2 and ethers-providerz were added to npm. They hid their malicious payload and modified the legitimate npm package ethers, which led to a reverse shell.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Reversing Labs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 27, 2025
+March 27, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RCE and Data Leak Vulnerabilities Patched in Splunk Enterprise and Splunk Cloud Platform<a href="https://securityonline.info/splunk-alert-rce-and-data-leak-vulnerabilities-threaten-platforms/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ RCE and Data Leak Vulnerabilities Patched in Splunk Enterprise and Splunk Cloud 
 CVE-2025-20229 allows low-privileged users to execute arbitrary code remotely by uploading malicious files. The second flaw, CVE-2025-20231, affects the Splunk Secure Gateway App and leads to the exposure of user session and authorization tokens.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 27, 2025
+March 27, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackLock Ransomware Operation Disrupted by Cybersecurity Firm<a href="https://securityaffairs.com/175877/cyber-crime/blacklock-ransomware-targeted-by-cybersecurity-firm.html?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ BlackLock Ransomware Operation Disrupted by Cybersecurity Firm<a href="https://s
 Resecurity discovered a local file inclusion flaw in the data leak site used by BlackLock Ransomware, allowing them to uncover clearnet IP addresses and other details about the cybercriminals' network, aiding in the investigation and disruption.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 27, 2025
+March 27, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Synapse Servers at Risk Due to Zero-Day DoS Flaw Exploited in the Wild<a href="https://securityonline.info/synapse-servers-at-risk-zero-day-dos-in-the-wild/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Synapse Servers at Risk Due to Zero-Day DoS Flaw Exploited in the Wild<a href="h
 A critical zero-day vulnerability has been discovered in Synapse, an open-source Matrix homeserver implementation. This flaw is actively being exploited in the wild and can lead to a denial-of-service condition.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 27, 2025
+March 27, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MacOS Malware ReaderUpdate Adds New Variants Written in Crystal, Nim, Rust, and Go<a href="https://www.sentinelone.com/blog/readerupdate-reforged-melting-pot-of-macos-malware-adds-go-to-crystal-nim-and-rust-variants/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ MacOS Malware ReaderUpdate Adds New Variants Written in Crystal, Nim, Rust, and 
 The ReaderUpdate malware, which previously went relatively unnoticed, now includes variants written in Crystal, Nim, Rust, and most recently, Go, in addition to the original compiled Python binary.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sentinel One
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 27, 2025
+March 27, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Use-After-Free Vulnerability in Exim Exposes Systems to Privilege Escalation<a href="https://securityonline.info/cve-2025-30232-use-after-free-vulnerability-in-exim-exposes-systems-to-privilege-escalation/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Use-After-Free Vulnerability in Exim Exposes Systems to Privilege Escalation<a h
 The use-after-free vulnerability can be exploited to achieve privilege escalation. This could allow an attacker to gain unauthorized access to system resources and execute arbitrary commands with elevated privileges.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 27, 2025
+March 27, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New SparrowDoor Backdoor Variants Found in Attacks on U.S. and Mexican Organizations<a href="https://thehackernews.com/2025/03/new-sparrowdoor-backdoor-variants-found.html?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ New SparrowDoor Backdoor Variants Found in Attacks on U.S. and Mexican Organizat
 The Chinese threat actor known as FamousSparrow has been linked to a cyber attack targeting a trade group in the United States and a research institute in Mexico to deliver its flagship backdoor SparrowDoor and ShadowPad.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
