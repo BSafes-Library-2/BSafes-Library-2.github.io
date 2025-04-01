@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 28, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Classiscam Scams Surge in Central Asia, Leveraging Telegram Bots<a href="https://securityonline.info/classiscam-scams-surge-in-central-asia-leveraging-telegram-bots/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These scams, which have evolved from simple fake ads to sophisticated operations using Telegram bots, are targeting online marketplaces and deceiving users into divulging their financial information.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 25, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

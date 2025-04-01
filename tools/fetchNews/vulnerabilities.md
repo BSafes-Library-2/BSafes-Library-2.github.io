@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 29, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Ubuntu Linux Security Bypasses Require Manual Mitigations<a href="https://www.bleepingcomputer.com/news/security/new-ubuntu-linux-security-bypasses-require-manual-mitigations/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three security bypasses have been discovered in Ubuntu Linux’s unprivileged user namespace restrictions, which could be enable a local attacker to exploit vulnerabilities in kernel components.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 28, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Severity Vulnerabilities in Ghostscript  Put Users at Risk<a href="https://securityonline.info/ghostscript-nightmare-critical-severity-vulnerabilities-put-users-at-risk/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A series of security vulnerabilities has been identified in Artifex Ghostscript, a widely used interpreter for PostScript and PDF files. These vulnerabilities could lead to buffer overflows and unauthorized file access.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 27, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

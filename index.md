@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2025
+March 31, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover the Shelby Malware Family Abusing GitHub for Command and Control<a href="https://www.elastic.co/security-labs/the-shelby-strategy?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Researchers Uncover the Shelby Malware Family Abusing GitHub for Command and Con
 Researchers found unused code and dynamic payload loading, hinting at the malware being under active development, indicating future updates may address any issues with contemporary versions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Elastic
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2025
+March 31, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Python-based RAT Abuses Discord API to Execute Data Theft Attacks<a href="https://www.cyfirma.com/research/analysis-of-a-discord-based-remote-access-trojan-rat/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Python-based RAT Abuses Discord API to Execute Data Theft Attacks<a href="https:
 The Python-based Discord Remote Access Trojan (RAT) leverages Discord’s API as a C2 server to execute arbitrary system commands, steal sensitive information, capture screenshots, and manipulate both local machines and Discord servers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyfirma
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2025
+March 31, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Intelligence-backed Campaigns Impersonate the CIA to Target Ukraine Sympathizers, Russian Citizens, and Informants<a href="https://www.silentpush.com/blog/russian-intelligence-phishing/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Russian Intelligence-backed Campaigns Impersonate the CIA to Target Ukraine Symp
 Silent Push Threat Analysts discovered a phishing campaign using website lures to gather information against Russian individuals sympathetic to defending Ukraine and willing to share sensitive information.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Silent Push
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2025
+March 31, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Python-based Triton RAT Found Targeting Roblox Credentials<a href="https://www.cadosecurity.com/blog/python-based-triton-rat-targeting-roblox-credentials?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Python-based Triton RAT Found Targeting Roblox Credentials<a href="https://www.c
 Cado Security Labs identified a Python Remote Access Tool (RAT) named Triton RAT. The open source RAT is available on GitHub and allows users to remotely access and control a system using Telegram.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cado Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2025
+March 31, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Canon Fixes Critical Printer Driver Flaw<a href="https://securityonline.info/canon-fixes-critical-printer-driver-flaw-cve-2025-1268-alert/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Canon Fixes Critical Printer Driver Flaw<a href="https://securityonline.info/can
 The vulnerability, identified as CVE-2025-1268, is described as an out-of-bounds vulnerability that “may prevent printing and/or potentially be able to execute arbitrary code when the print is processed by a malicious application“.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2025
+March 31, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lucid: The Rising Threat of Phishing-as-a-Service<a href="https://securityonline.info/lucid-the-rising-threat-of-phishing-as-a-service/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Lucid: The Rising Threat of Phishing-as-a-Service<a href="https://securityonline
 The end-to-end encryption in RCS and iMessage creates a blind spot, making network-level filtering ineffective. Threat actors also leverage visual trust indicators, such as blue bubbles in iMessage, to create a perception of legitimacy.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2025
+March 31, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dell Unity Hit by 9.8 CVSS Root-Level Command Injection Flaw<a href="https://securityonline.info/cve-2025-22398-dell-unity-hit-by-9-8-cvss-root-level-command-injection-flaw/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Dell Unity Hit by 9.8 CVSS Root-Level Command Injection Flaw<a href="https://sec
 Dell released an update for Unity OS version 5.4 and earlier, addressing a set of critical vulnerabilities that exposed the enterprise storage systems under Unity, UnityVSA, and Unity XT lines.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2025
+March 31, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Android Trojan Crocodilus Abuses Accessibility to Steal Banking and Crypto Credentials<a href="https://thehackernews.com/2025/03/new-android-trojan-crocodilus-abuses.html?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ New Android Trojan Crocodilus Abuses Accessibility to Steal Banking and Crypto C
 As with other banking trojans of its kind, the malware is designed to facilitate device takeover (DTO) and ultimately conduct fraudulent transactions. An analysis of the source code and the debug messages revealed that the author is Turkish-speaking.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2025
+March 31, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mitel Addresses High Severity XSS Vulnerability in MiContact Center Business<a href="https://securityonline.info/mitel-addresses-high-severity-xss-vulnerability-in-micontact-center-business/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Mitel Addresses High Severity XSS Vulnerability in MiContact Center Business<a h
 Mitel has issued a security advisory regarding a reflected cross-site scripting (XSS) vulnerability, tracked as CVE-2025-23092 (CVSS 7.1), in the Legacy Chat component of its MiContact Center Business software.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2025
+March 31, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaw Discovered in WordPress Plugin with 90,000+ Active Installs<a href="https://securityonline.info/cve-2025-2294-targets-wordpress-plugin-with-90000-active-installs/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Critical Flaw Discovered in WordPress Plugin with 90,000+ Active Installs<a href
 The vulnerability, tracked as CVE-2025-2294, is a Local File Inclusion (LFI) flaw present in the Kubio AI Page Builder plugin. This flaw affects all versions of the plugin up to and including 2.5.1.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
