@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2025
+April 5, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Expands Contagious Interview Campaign With 11 New NPM Packages Containing Malware Loaders and Bitbucket Payloads<a href="https://socket.dev/blog/lazarus-expands-malicious-npm-campaign-11-new-packages-add-malware-loaders-and-bitbucket?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These latest malware samples employ hexadecimal string encoding to evade automated detection systems and manual code audits, signaling a variation in the threat actors’ obfuscation techniques.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Smishing Triad is Now Targeting Toll Payment Services in a Massive Fraud Campaign Expansion<a href="https://www.resecurity.com/blog/article/smishing-triad-is-now-targeting-toll-payment-services-in-a-massive-fraud-campaign-expansion?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Smishing Triad group has been linked to a surge in smishing campaigns targeting the U.S. and the U.K. The fraudulent text messages claim unpaid toll bills or payment requests related to toll services like FasTrak, E-ZPass, and I-Pass.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State Bar of Texas Confirms Data Breach, Begins Notifying Affected Consumers<a href="https://gbhackers.com/state-bar-of-texas-confirms-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to an official notice, the breach occurred between January 28, 2025, and February 9, 2025, during which an unauthorized actor gained access to sensitive information stored on the organization’s systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hunters International Dumps Ransomware, Goes Full-on Extortion<a href="https://securityboulevard.com/2025/04/hunters-international-dumps-ransomware-goes-full-on-extortion/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The decision appears to come in the wake of international law enforcement operations over the past two years with names like Endgame, Morpheus, Cronos, and Magnus that disrupted the operations of cybercriminal groups.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Leverage Tax Season To Deploy Tax-Themed Phishing Campaigns<a href="https://www.microsoft.com/en-us/security/blog/2025/04/03/threat-actors-leverage-tax-season-to-deploy-tax-themed-phishing-campaigns/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These campaigns lead to phishing pages delivered via the RaccoonO365 phishing-as-a-service (PhaaS) platform, remote access trojans (RATs) like Remcos, and other malware like Latrodectus, BruteRatel C4 (BRc4), AHKBot, and GuLoader.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Port of Seattle Says 90,000 People Impacted in 2024 Ransomware Attack<a href="https://therecord.media/port-of-seattle-says-90000-impacted-in-2024-ransomware-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Port of Seattle, which runs Seattle-Tacoma International Airport, several parks, container terminals, and other services, is sending breach notification letters to those affected, including about 71,000 people in Washington state.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 4, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Tax-Themed Email Attacks Using PDFs and QR Codes to Deliver Malware<a href="https://thehackernews.com/2025/04/microsoft-warns-of-tax-themed-email.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These campaigns notably use redirection methods such as URL shorteners and QR codes contained in malicious attachments and abuse legitimate services like file-hosting services and business profile pages to avoid detection.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 4, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, FBI, nations warn of fast flux DNS threat<a href="https://www.theregister.com/2025/04/03/cisa_and_annexable_allies_warn/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA, on Thursday urged organizations, internet service providers, and security firms to strengthen defenses against so-called fast flux attacks. Malicious cyber actors use fast flux to obfuscate the locations of malicious servers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 4, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian Pension Funds Hacked<a href="https://securityonline.info/australian-pension-funds-hacked/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several major Australian pension funds have confirmed they were targeted in a coordinated hacking campaign that compromised thousands of customer accounts. REST Super revealed that about 20,000 people were affected.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 4, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenVPN Flaw Allows Attackers Crash Servers and Run Remote Code<a href="https://gbhackers.com/openvpn-flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpenVPN has patched a security vulnerability (CVE-2025-2704) that could potentially allow attackers to crash servers and execute remote code under certain conditions, with the flaw affecting specific server configurations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover the Shelby Malware Family Abusing GitHub for Command and Control<a href="https://www.elastic.co/security-labs/the-shelby-strategy?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Researchers Uncover the Shelby Malware Family Abusing GitHub for Command and Con
 Researchers found unused code and dynamic payload loading, hinting at the malware being under active development, indicating future updates may address any issues with contemporary versions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Elastic
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2025
+March 31, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Python-based RAT Abuses Discord API to Execute Data Theft Attacks<a href="https://www.cyfirma.com/research/analysis-of-a-discord-based-remote-access-trojan-rat/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Python-based RAT Abuses Discord API to Execute Data Theft Attacks<a href="https:
 The Python-based Discord Remote Access Trojan (RAT) leverages Discord’s API as a C2 server to execute arbitrary system commands, steal sensitive information, capture screenshots, and manipulate both local machines and Discord servers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyfirma
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2025
+March 31, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Intelligence-backed Campaigns Impersonate the CIA to Target Ukraine Sympathizers, Russian Citizens, and Informants<a href="https://www.silentpush.com/blog/russian-intelligence-phishing/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Russian Intelligence-backed Campaigns Impersonate the CIA to Target Ukraine Symp
 Silent Push Threat Analysts discovered a phishing campaign using website lures to gather information against Russian individuals sympathetic to defending Ukraine and willing to share sensitive information.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Silent Push
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2025
+March 31, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Python-based Triton RAT Found Targeting Roblox Credentials<a href="https://www.cadosecurity.com/blog/python-based-triton-rat-targeting-roblox-credentials?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Python-based Triton RAT Found Targeting Roblox Credentials<a href="https://www.c
 Cado Security Labs identified a Python Remote Access Tool (RAT) named Triton RAT. The open source RAT is available on GitHub and allows users to remotely access and control a system using Telegram.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cado Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2025
+March 31, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Canon Fixes Critical Printer Driver Flaw<a href="https://securityonline.info/canon-fixes-critical-printer-driver-flaw-cve-2025-1268-alert/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Canon Fixes Critical Printer Driver Flaw<a href="https://securityonline.info/can
 The vulnerability, identified as CVE-2025-1268, is described as an out-of-bounds vulnerability that “may prevent printing and/or potentially be able to execute arbitrary code when the print is processed by a malicious application“.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2025
+March 31, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lucid: The Rising Threat of Phishing-as-a-Service<a href="https://securityonline.info/lucid-the-rising-threat-of-phishing-as-a-service/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Lucid: The Rising Threat of Phishing-as-a-Service<a href="https://securityonline
 The end-to-end encryption in RCS and iMessage creates a blind spot, making network-level filtering ineffective. Threat actors also leverage visual trust indicators, such as blue bubbles in iMessage, to create a perception of legitimacy.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2025
+March 31, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dell Unity Hit by 9.8 CVSS Root-Level Command Injection Flaw<a href="https://securityonline.info/cve-2025-22398-dell-unity-hit-by-9-8-cvss-root-level-command-injection-flaw/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Dell Unity Hit by 9.8 CVSS Root-Level Command Injection Flaw<a href="https://sec
 Dell released an update for Unity OS version 5.4 and earlier, addressing a set of critical vulnerabilities that exposed the enterprise storage systems under Unity, UnityVSA, and Unity XT lines.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2025
+March 31, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Android Trojan Crocodilus Abuses Accessibility to Steal Banking and Crypto Credentials<a href="https://thehackernews.com/2025/03/new-android-trojan-crocodilus-abuses.html?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ New Android Trojan Crocodilus Abuses Accessibility to Steal Banking and Crypto C
 As with other banking trojans of its kind, the malware is designed to facilitate device takeover (DTO) and ultimately conduct fraudulent transactions. An analysis of the source code and the debug messages revealed that the author is Turkish-speaking.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2025
+March 31, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mitel Addresses High Severity XSS Vulnerability in MiContact Center Business<a href="https://securityonline.info/mitel-addresses-high-severity-xss-vulnerability-in-micontact-center-business/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Mitel Addresses High Severity XSS Vulnerability in MiContact Center Business<a h
 Mitel has issued a security advisory regarding a reflected cross-site scripting (XSS) vulnerability, tracked as CVE-2025-23092 (CVSS 7.1), in the Legacy Chat component of its MiContact Center Business software.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2025
+March 31, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaw Discovered in WordPress Plugin with 90,000+ Active Installs<a href="https://securityonline.info/cve-2025-2294-targets-wordpress-plugin-with-90000-active-installs/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Critical Flaw Discovered in WordPress Plugin with 90,000+ Active Installs<a href
 The vulnerability, tracked as CVE-2025-2294, is a Local File Inclusion (LFI) flaw present in the Kubio AI Page Builder plugin. This flaw affects all versions of the plugin up to and including 2.5.1.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
