@@ -7,6 +7,25 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2025 - NSA, CISA, FBI, ASD's ACSC, CCCS, NCSC-NZ 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fast Flux: A National Security Threat <a href="https://media.defense.gov/2025/Apr/02/2003681172/-1/-1/0/CSA-FAST-FLUX.PDF"> Full Text</a>
+</p>
+<details>
+Many networks have a gap in their defenses for detecting and blocking a malicious
+technique known as “fast flux.” This technique poses a significant threat to national
+security, enabling malicious cyber actors to consistently evade detection. Malicious
+cyber actors, including cybercriminals and nation-state actors, use fast flux to obfuscate
+the locations of malicious servers by rapidly changing Domain Name System (DNS)
+records. Additionally, they can create resilient, highly available command and control
+(C2) infrastructure, concealing their subsequent malicious operations. This resilient and
+fast changing infrastructure makes tracking and blocking malicious activities that use
+fast flux more difficult. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 28, 2025 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
