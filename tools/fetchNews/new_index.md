@@ -34,6 +34,86 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Python JSON Logger Vulnerability Enables Remote Code Execution - PoC Released<a href="https://gbhackers.com/python-json-logger-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent security disclosure has revealed a remote code execution (RCE) vulnerability, CVE-2025-27607, in the Python JSON Logger package, affecting versions between 3.2.0 and 3.2.1.This vulnerability arises from a missing dependency.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Evasive Campaign Uses Fake CAPTCHAs to Deliver LegionLoader<a href="https://securityonline.info/new-evasive-campaign-uses-fake-captchas-to-deliver-legionloader/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In this newly discovered campaign, the attackers use fake CAPTCHAs and CloudFlare Turnstile as part of their strategy to deliver the LegionLoader payload. The initial infection starts with a drive-by download when a victim searches for a document.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical pgAdmin Flaw Allows Remote Code Execution<a href="https://gbhackers.com/critical-pgadmin-flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Notably, the flaw requires authentication, limiting immediate widespread exploitation. However, compromised accounts or phishing attacks could bypass this barrier. The pgAdmin team resolved the issue in version 9.2.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+E-ZPass toll payment texts return in massive phishing wave<a href="https://www.bleepingcomputer.com/news/security/toll-payment-text-scam-returns-in-massive-phishing-wave/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The messages embed links that, if clicked, take the victim to a phishing site impersonating E-ZPass, The Toll Roads, FasTrak, Florida Turnpike, or another toll authority that attempts to steal their personal information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoisonSeed Campaign: Uncovering a Web of Cryptocurrency and Email Provider Attacks<a href="https://securityonline.info/poisonseed-campaign-uncovering-a-web-of-cryptocurrency-and-email-provider-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This campaign involves a two-pronged approach: compromising CRM and bulk email providers and deploying a novel “crypto seed phrase” phishing attack.The PoisonSeed campaign has targeted a range of significant platforms.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 5, 2025
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
