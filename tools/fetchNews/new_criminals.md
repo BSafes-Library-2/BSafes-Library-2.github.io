@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Smishing Triad is Now Targeting Toll Payment Services in a Massive Fraud Campaign Expansion<a href="https://www.resecurity.com/blog/article/smishing-triad-is-now-targeting-toll-payment-services-in-a-massive-fraud-campaign-expansion?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Smishing Triad group has been linked to a surge in smishing campaigns targeting the U.S. and the U.K. The fraudulent text messages claim unpaid toll bills or payment requests related to toll services like FasTrak, E-ZPass, and I-Pass.
+</details>
+<div style="text-align: right" markdown="1">
+ReSecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hunters International Dumps Ransomware, Goes Full-on Extortion<a href="https://securityboulevard.com/2025/04/hunters-international-dumps-ransomware-goes-full-on-extortion/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The decision appears to come in the wake of international law enforcement operations over the past two years with names like Endgame, Morpheus, Cronos, and Magnus that disrupted the operations of cybercriminal groups.
+</details>
+<div style="text-align: right" markdown="1">
+Security Boulevard
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 28, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

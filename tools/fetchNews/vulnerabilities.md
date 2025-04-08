@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 31, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canon Fixes Critical Printer Driver Flaw<a href="https://securityonline.info/canon-fixes-critical-printer-driver-flaw-cve-2025-1268-alert/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, identified as CVE-2025-1268, is described as an out-of-bounds vulnerability that “may prevent printing and/or potentially be able to execute arbitrary code when the print is processed by a malicious application“.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dell Unity Hit by 9.8 CVSS Root-Level Command Injection Flaw<a href="https://securityonline.info/cve-2025-22398-dell-unity-hit-by-9-8-cvss-root-level-command-injection-flaw/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dell released an update for Unity OS version 5.4 and earlier, addressing a set of critical vulnerabilities that exposed the enterprise storage systems under Unity, UnityVSA, and Unity XT lines.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mitel Addresses High Severity XSS Vulnerability in MiContact Center Business<a href="https://securityonline.info/mitel-addresses-high-severity-xss-vulnerability-in-micontact-center-business/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mitel has issued a security advisory regarding a reflected cross-site scripting (XSS) vulnerability, tracked as CVE-2025-23092 (CVSS 7.1), in the Legacy Chat component of its MiContact Center Business software.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw Discovered in WordPress Plugin with 90,000+ Active Installs<a href="https://securityonline.info/cve-2025-2294-targets-wordpress-plugin-with-90000-active-installs/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2025-2294, is a Local File Inclusion (LFI) flaw present in the Kubio AI Page Builder plugin. This flaw affects all versions of the plugin up to and including 2.5.1.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 29, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 31, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lucid: The Rising Threat of Phishing-as-a-Service<a href="https://securityonline.info/lucid-the-rising-threat-of-phishing-as-a-service/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The end-to-end encryption in RCS and iMessage creates a blind spot, making network-level filtering ineffective. Threat actors also leverage visual trust indicators, such as blue bubbles in iMessage, to create a perception of legitimacy.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 28, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

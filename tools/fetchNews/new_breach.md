@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+April 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State Bar of Texas Confirms Data Breach, Begins Notifying Affected Consumers<a href="https://gbhackers.com/state-bar-of-texas-confirms-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to an official notice, the breach occurred between January 28, 2025, and February 9, 2025, during which an unauthorized actor gained access to sensitive information stored on the organization’s systems.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Port of Seattle Says 90,000 People Impacted in 2024 Ransomware Attack<a href="https://therecord.media/port-of-seattle-says-90000-impacted-in-2024-ransomware-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Port of Seattle, which runs Seattle-Tacoma International Airport, several parks, container terminals, and other services, is sending breach notification letters to those affected, including about 71,000 people in Washington state.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 4, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian Pension Funds Hacked<a href="https://securityonline.info/australian-pension-funds-hacked/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several major Australian pension funds have confirmed they were targeted in a coordinated hacking campaign that compromised thousands of customer accounts. REST Super revealed that about 20,000 people were affected.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 28, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

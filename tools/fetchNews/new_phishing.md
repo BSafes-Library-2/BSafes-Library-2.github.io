@@ -8,6 +8,62 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Evasive Campaign Uses Fake CAPTCHAs to Deliver LegionLoader<a href="https://securityonline.info/new-evasive-campaign-uses-fake-captchas-to-deliver-legionloader/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In this newly discovered campaign, the attackers use fake CAPTCHAs and CloudFlare Turnstile as part of their strategy to deliver the LegionLoader payload. The initial infection starts with a drive-by download when a victim searches for a document.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+E-ZPass toll payment texts return in massive phishing wave<a href="https://www.bleepingcomputer.com/news/security/toll-payment-text-scam-returns-in-massive-phishing-wave/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The messages embed links that, if clicked, take the victim to a phishing site impersonating E-ZPass, The Toll Roads, FasTrak, Florida Turnpike, or another toll authority that attempts to steal their personal information.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Leverage Tax Season To Deploy Tax-Themed Phishing Campaigns<a href="https://www.microsoft.com/en-us/security/blog/2025/04/03/threat-actors-leverage-tax-season-to-deploy-tax-themed-phishing-campaigns/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These campaigns lead to phishing pages delivered via the RaccoonO365 phishing-as-a-service (PhaaS) platform, remote access trojans (RATs) like Remcos, and other malware like Latrodectus, BruteRatel C4 (BRc4), AHKBot, and GuLoader.
+</details>
+<div style="text-align: right" markdown="1">
+Microsoft
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 4, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Tax-Themed Email Attacks Using PDFs and QR Codes to Deliver Malware<a href="https://thehackernews.com/2025/04/microsoft-warns-of-tax-themed-email.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These campaigns notably use redirection methods such as URL shorteners and QR codes contained in malicious attachments and abuse legitimate services like file-hosting services and business profile pages to avoid detection.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 31, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

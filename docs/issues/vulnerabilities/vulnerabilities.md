@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Python JSON Logger Vulnerability Enables Remote Code Execution - PoC Released<a href="https://gbhackers.com/python-json-logger-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent security disclosure has revealed a remote code execution (RCE) vulnerability, CVE-2025-27607, in the Python JSON Logger package, affecting versions between 3.2.0 and 3.2.1.This vulnerability arises from a missing dependency.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical pgAdmin Flaw Allows Remote Code Execution<a href="https://gbhackers.com/critical-pgadmin-flaw/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Notably, the flaw requires authentication, limiting immediate widespread exploitation. However, compromised accounts or phishing attacks could bypass this barrier. The pgAdmin team resolved the issue in version 9.2.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 4, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenVPN Flaw Allows Attackers Crash Servers and Run Remote Code<a href="https://gbhackers.com/openvpn-flaw/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpenVPN has patched a security vulnerability (CVE-2025-2704) that could potentially allow attackers to crash servers and execute remote code under certain conditions, with the flaw affecting specific server configurations.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 31, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

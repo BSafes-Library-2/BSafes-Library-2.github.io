@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+March 31, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Intelligence-backed Campaigns Impersonate the CIA to Target Ukraine Sympathizers, Russian Citizens, and Informants<a href="https://www.silentpush.com/blog/russian-intelligence-phishing/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Silent Push Threat Analysts discovered a phishing campaign using website lures to gather information against Russian individuals sympathetic to defending Ukraine and willing to share sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+Silent Push
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 27, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

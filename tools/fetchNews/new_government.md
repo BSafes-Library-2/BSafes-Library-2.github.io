@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+April 4, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, FBI, nations warn of fast flux DNS threat<a href="https://www.theregister.com/2025/04/03/cisa_and_annexable_allies_warn/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA, on Thursday urged organizations, internet service providers, and security firms to strengthen defenses against so-called fast flux attacks. Malicious cyber actors use fast flux to obfuscate the locations of malicious servers.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 29, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
