@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+April 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoisonSeed Campaign: Uncovering a Web of Cryptocurrency and Email Provider Attacks<a href="https://securityonline.info/poisonseed-campaign-uncovering-a-web-of-cryptocurrency-and-email-provider-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This campaign involves a two-pronged approach: compromising CRM and bulk email providers and deploying a novel “crypto seed phrase” phishing attack.The PoisonSeed campaign has targeted a range of significant platforms.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 15, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

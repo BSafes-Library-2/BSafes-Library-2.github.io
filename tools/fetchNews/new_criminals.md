@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EncryptHub's Dual Life Between Cybercrime and Windows Bug Bounty Research Uncovered<a href="https://www.bleepingcomputer.com/news/security/encrypthubs-dual-life-cybercriminal-vs-windows-bug-bounty-researcher/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report by Outpost24 researchers linked the EncryptHub threat actor with SkorikARI, the account that reported CVE-2025-24061 and CVE-2025-24071, after they allegedly infected themselves and exposed their credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 5, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
