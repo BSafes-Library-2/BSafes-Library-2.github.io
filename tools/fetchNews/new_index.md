@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2025
+April 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US lab testing provider exposed health data of 1.6 million people<a href="https://www.bleepingcomputer.com/news/security/us-lab-testing-provider-exposed-health-data-of-16-million-people/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Laboratory Services Cooperative (LSC) has released a statement informing it suffered a data breach where hackers stole sensitive information of roughly 1.6 million people from its systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Moroccan Cybercrime Group Atlas Lion Hiding in Plain Sight During Attacks on Retailers<a href="https://therecord.media/atlas-lion-gift-card-cybercrime-hiding-virtual-machines?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Atlas Lion group used stolen credentials to enroll its own virtual machines (VMs) into an organization’s cloud domain, according to researchers at cybersecurity firm Expel.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atomic and Exodus Crypto Wallets Targeted in Malicious NPM Package Campaign<a href="https://www.reversinglabs.com/blog/atomic-and-exodus-crypto-wallets-targeted-in-malicious-npm-campaign?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new NPM package, pdf-to-office, masquerades as a utility for converting PDF files to Word documents. Instead, it injects malicious code into cryptocurrency wallet software associated with Atomic Wallet and Exodus.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sapphire Werewolf Upgrades Arsenal With Amethyst Stealer Targeting Energy Firms<a href="https://gbhackers.com/sapphire-werewolf-upgrades-arsenal-with-amethyst-stealer/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sapphire Werewolf has introduced a potent new weapon into its cyber arsenal, unveiling the latest iteration of the Amethyst stealer in a calculated phishing attack against an energy firm.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emulating the Misleading CatB Ransomware<a href="https://www.attackiq.com/2025/04/09/emulating-catb-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CatB ransomware, also known as CatB99 or Baxtoy, emerged in late 2022 and has gained attention for its use of DLL hijacking via MSDTC to execute its payload. It is suspected to be a rebrand of Pandora ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GOFFEE’s recent attacks: new tools and techniques<a href="https://securelist.com/goffee-apt-new-attacks/116139/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GOFFEE continued to launch targeted attacks against organizations in Russia, utilizing PowerTaskel, a non-public Mythic agent written in PowerShell, and introducing a new implant that researchers dubbed “PowerModul”.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dell Addresses Security Vulnerabilities in PowerScale OneFS<a href="https://securityonline.info/dell-addresses-security-vulnerabilities-in-powerscale-onefs/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dell has released a security advisory addressing multiple vulnerabilities in PowerScale OneFS, its scale-out network-attached storage operating system. The vulnerabilities could be exploited by malicious users to compromise affected systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall Patches Multiple Vulnerabilities in NetExtender VPN Client<a href="https://securityonline.info/sonicwall-patches-multi-vulnerabilities-in-netextender-vpn-client/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall has issued a security advisory disclosing three newly identified vulnerabilities in its NetExtender Windows client, a popular VPN tool used by organizations for secure remote access to internal networks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI-Powered AkiraBot Bypasses CAPTCHAs, Spams Websites At Scale<a href="https://www.sentinelone.com/labs/akirabot-ai-powered-bot-bypasses-captchas-spams-websites-at-scale/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AkiraBot is designed to post AI-generated spam messages in chats, comments, and contact forms, tailored to the targeted website’s content to promote dubious Search Engine Optimization (SEO) services such as Akira and ServicewrapGO..
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SureTriggers Vulnerability Exposes 100,000+ WordPress Sites to Full Takeover<a href="https://securityonline.info/suretriggers-vulnerability-exposes-100000-wordpress-sites-to-admin-takeover/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in the popular WordPress automation plugin SureTriggers has exposed over 100,000 sites to the risk of unauthenticated administrative account creation, potentially allowing full site takeover.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TVT DVR Devices Under Siege as Massive Exploitation Attempts Expose Critical Flaw<a href="https://securityonline.info/tvt-dvrs-under-siege-massive-exploitation-attempts-expose-critical-flaw/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ TVT DVR Devices Under Siege as Massive Exploitation Attempts Expose Critical Fla
 GreyNoise intelligence reports “a significant spike 3 times that of typical activity in exploitation attempts against TVT NVMS9000 DVRs,” with the peak occurring on April 3rd, registering over 2,500 unique attacking IP addresses.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2025
+April 8, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WhatsApp for Windows Spoofing Vulnerability Poses Code Execution Risk<a href="https://securityonline.info/whatsapp-for-windows-spoofing-vulnerability-execute-code-risk-cve-2025-30401/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ WhatsApp for Windows Spoofing Vulnerability Poses Code Execution Risk<a href="ht
 A security advisory from Facebook detailed a spoofing vulnerability (CVE-2025-30401) in WhatsApp for Windows, highlighting a potential risk where malicious actors could trick users into executing arbitrary code.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2025
+April 8, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical BentoML Flaw Allows Full Remote Code Execution, Exploit Available<a href="https://securityonline.info/cve-2025-27520-critical-bentoml-flaw-allows-full-remote-code-execution-exploit-available/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Critical BentoML Flaw Allows Full Remote Code Execution, Exploit Available<a hre
 The vulnerability, tracked as CVE-2025-27520 (CVSS 9.8), allows for remote code execution (RCE) and poses a significant risk to systems utilizing the affected versions of the library.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2025
+April 8, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pexip Issues Urgent Security Update to Address Critical Vulnerabilities<a href="https://securityonline.info/pexip-issues-urgent-security-update-to-address-critical-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Pexip Issues Urgent Security Update to Address Critical Vulnerabilities<a href="
 The two high-severity vulnerabilities, tracked as CVE-2025-32095 and CVE-2025-30080, could allow a remote attacker to trigger a software abort, leading to a denial of service. Users are recommended to upgrade to Pexip Infinity v37.0 for the fixes.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2025
+April 8, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EncryptHub's Dual Life Between Cybercrime and Windows Bug Bounty Research Uncovered<a href="https://www.bleepingcomputer.com/news/security/encrypthubs-dual-life-cybercriminal-vs-windows-bug-bounty-researcher/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ EncryptHub's Dual Life Between Cybercrime and Windows Bug Bounty Research Uncove
 A new report by Outpost24 researchers linked the EncryptHub threat actor with SkorikARI, the account that reported CVE-2025-24061 and CVE-2025-24071, after they allegedly infected themselves and exposed their credentials.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2025
+April 8, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PoC Exploit Released for Yelp Flaw Exposes SSH Keys on Ubuntu Systems<a href="https://securityonline.info/poc-released-for-cve-2025-3155-yelp-flaw-can-expose-ssh-keys-on-ubuntu-systems/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ PoC Exploit Released for Yelp Flaw Exposes SSH Keys on Ubuntu Systems<a href="ht
 A security vulnerability, identified as CVE-2025-3155, has been discovered in Yelp, the GNOME user help application that comes pre-installed on Ubuntu systems. The vulnerability involves the way Yelp handles the “ghelp://” URI scheme.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2025
+April 8, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Everest Ransomware’s Dark Web Leak Site Defaced, Now Offline<a href="https://www.bleepingcomputer.com/news/security/everest-ransomwares-dark-web-leak-site-defaced-now-offline/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Everest Ransomware’s Dark Web Leak Site Defaced, Now Offline<a href="https://w
 The dark web leak site of the Everest ransomware gang was hacked over the weekend by an unknown attacker and is now offline. The Everest operation has since taken down its leak site.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2025
+April 8, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Releases Android Update to Patch Two Actively Exploited Vulnerabilities<a href="https://thehackernews.com/2025/04/google-releases-android-update-to-patch.html?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Google Releases Android Update to Patch Two Actively Exploited Vulnerabilities<a
 Google has shipped patches for 62 vulnerabilities, two of which it said have been exploited in the wild. The two flaws, CVE-2024-53150 (out-of-bounds read) and CVE-2024-53197 (privilege escalation), reside in the USB sub-component of Kernel.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2025
+April 8, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ToddyCat Group Abused Flaw in ESET Security Software to Plant Malicious DLLs<a href="https://therecord.media/eset-software-vulnerability-malware-toddycat-apt?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ ToddyCat Group Abused Flaw in ESET Security Software to Plant Malicious DLLs<a h
 During the campaign, the hackers exploited the ESET vulnerability (CVE-2024-11859) to load a new tool dubbed TCDSB onto victims' devices, disguising it as a legitimate DLL — a common file type in the Windows operating system.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2025
+April 8, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MediaTek's April 2025 Security Bulletin Addresses Critical WLAN Vulnerability in Multiple Chipsets<a href="https://securityonline.info/mediateks-april-2025-security-bulletin-critical-wlan-vulnerability-exposes-chipsets/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ MediaTek's April 2025 Security Bulletin Addresses Critical WLAN Vulnerability in
 One of the most severe vulnerabilities highlighted in the bulletin is an out-of-bounds write in the WLAN service (CVE-2025-20654). This vulnerability could lead to remote code execution with no additional execution privileges needed.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
