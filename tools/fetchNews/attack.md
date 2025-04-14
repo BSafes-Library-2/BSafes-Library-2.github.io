@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+April 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ToddyCat Group Abused Flaw in ESET Security Software to Plant Malicious DLLs<a href="https://therecord.media/eset-software-vulnerability-malware-toddycat-apt?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During the campaign, the hackers exploited the ESET vulnerability (CVE-2024-11859) to load a new tool dubbed TCDSB onto victims' devices, disguising it as a legitimate DLL — a common file type in the Windows operating system.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 31, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

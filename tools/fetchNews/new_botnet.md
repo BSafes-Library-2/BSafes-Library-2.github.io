@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+April 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI-Powered AkiraBot Bypasses CAPTCHAs, Spams Websites At Scale<a href="https://www.sentinelone.com/labs/akirabot-ai-powered-bot-bypasses-captchas-spams-websites-at-scale/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AkiraBot is designed to post AI-generated spam messages in chats, comments, and contact forms, tailored to the targeted website’s content to promote dubious Search Engine Optimization (SEO) services such as Akira and ServicewrapGO..
+</details>
+<div style="text-align: right" markdown="1">
+Sentinel One
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 6, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

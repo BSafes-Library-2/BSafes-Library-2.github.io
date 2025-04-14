@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 11, 2025
+April 11, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US lab testing provider exposed health data of 1.6 million people<a href="https://www.bleepingcomputer.com/news/security/us-lab-testing-provider-exposed-health-data-of-16-million-people/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ US lab testing provider exposed health data of 1.6 million people<a href="https:
 Laboratory Services Cooperative (LSC) has released a statement informing it suffered a data breach where hackers stole sensitive information of roughly 1.6 million people from its systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 10, 2025
+April 10, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Moroccan Cybercrime Group Atlas Lion Hiding in Plain Sight During Attacks on Retailers<a href="https://therecord.media/atlas-lion-gift-card-cybercrime-hiding-virtual-machines?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Moroccan Cybercrime Group Atlas Lion Hiding in Plain Sight During Attacks on Ret
 The Atlas Lion group used stolen credentials to enroll its own virtual machines (VMs) into an organization’s cloud domain, according to researchers at cybersecurity firm Expel.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 10, 2025
+April 10, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Atomic and Exodus Crypto Wallets Targeted in Malicious NPM Package Campaign<a href="https://www.reversinglabs.com/blog/atomic-and-exodus-crypto-wallets-targeted-in-malicious-npm-campaign?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Atomic and Exodus Crypto Wallets Targeted in Malicious NPM Package Campaign<a hr
 The new NPM package, pdf-to-office, masquerades as a utility for converting PDF files to Word documents. Instead, it injects malicious code into cryptocurrency wallet software associated with Atomic Wallet and Exodus.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Reversing Labs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 10, 2025
+April 10, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sapphire Werewolf Upgrades Arsenal With Amethyst Stealer Targeting Energy Firms<a href="https://gbhackers.com/sapphire-werewolf-upgrades-arsenal-with-amethyst-stealer/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Sapphire Werewolf Upgrades Arsenal With Amethyst Stealer Targeting Energy Firms<
 Sapphire Werewolf has introduced a potent new weapon into its cyber arsenal, unveiling the latest iteration of the Amethyst stealer in a calculated phishing attack against an energy firm.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 10, 2025
+April 10, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emulating the Misleading CatB Ransomware<a href="https://www.attackiq.com/2025/04/09/emulating-catb-ransomware/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Emulating the Misleading CatB Ransomware<a href="https://www.attackiq.com/2025/0
 CatB ransomware, also known as CatB99 or Baxtoy, emerged in late 2022 and has gained attention for its use of DLL hijacking via MSDTC to execute its payload. It is suspected to be a rebrand of Pandora ransomware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Attack IQ
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 10, 2025
+April 10, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GOFFEE’s recent attacks: new tools and techniques<a href="https://securelist.com/goffee-apt-new-attacks/116139/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ GOFFEE’s recent attacks: new tools and techniques<a href="https://securelist.c
 GOFFEE continued to launch targeted attacks against organizations in Russia, utilizing PowerTaskel, a non-public Mythic agent written in PowerShell, and introducing a new implant that researchers dubbed “PowerModul”.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security List
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 10, 2025
+April 10, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dell Addresses Security Vulnerabilities in PowerScale OneFS<a href="https://securityonline.info/dell-addresses-security-vulnerabilities-in-powerscale-onefs/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Dell Addresses Security Vulnerabilities in PowerScale OneFS<a href="https://secu
 Dell has released a security advisory addressing multiple vulnerabilities in PowerScale OneFS, its scale-out network-attached storage operating system. The vulnerabilities could be exploited by malicious users to compromise affected systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 10, 2025
+April 10, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SonicWall Patches Multiple Vulnerabilities in NetExtender VPN Client<a href="https://securityonline.info/sonicwall-patches-multi-vulnerabilities-in-netextender-vpn-client/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ SonicWall Patches Multiple Vulnerabilities in NetExtender VPN Client<a href="htt
 SonicWall has issued a security advisory disclosing three newly identified vulnerabilities in its NetExtender Windows client, a popular VPN tool used by organizations for secure remote access to internal networks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 10, 2025
+April 10, 2025 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AI-Powered AkiraBot Bypasses CAPTCHAs, Spams Websites At Scale<a href="https://www.sentinelone.com/labs/akirabot-ai-powered-bot-bypasses-captchas-spams-websites-at-scale/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ AI-Powered AkiraBot Bypasses CAPTCHAs, Spams Websites At Scale<a href="https://w
 AkiraBot is designed to post AI-generated spam messages in chats, comments, and contact forms, tailored to the targeted website’s content to promote dubious Search Engine Optimization (SEO) services such as Akira and ServicewrapGO..
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sentinel One
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 10, 2025
+April 10, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SureTriggers Vulnerability Exposes 100,000+ WordPress Sites to Full Takeover<a href="https://securityonline.info/suretriggers-vulnerability-exposes-100000-wordpress-sites-to-admin-takeover/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ SureTriggers Vulnerability Exposes 100,000+ WordPress Sites to Full Takeover<a h
 A critical vulnerability in the popular WordPress automation plugin SureTriggers has exposed over 100,000 sites to the risk of unauthenticated administrative account creation, potentially allowing full site takeover.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

@@ -8,6 +8,104 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TVT DVR Devices Under Siege as Massive Exploitation Attempts Expose Critical Flaw<a href="https://securityonline.info/tvt-dvrs-under-siege-massive-exploitation-attempts-expose-critical-flaw/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GreyNoise intelligence reports “a significant spike 3 times that of typical activity in exploitation attempts against TVT NVMS9000 DVRs,” with the peak occurring on April 3rd, registering over 2,500 unique attacking IP addresses.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp for Windows Spoofing Vulnerability Poses Code Execution Risk<a href="https://securityonline.info/whatsapp-for-windows-spoofing-vulnerability-execute-code-risk-cve-2025-30401/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security advisory from Facebook detailed a spoofing vulnerability (CVE-2025-30401) in WhatsApp for Windows, highlighting a potential risk where malicious actors could trick users into executing arbitrary code.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical BentoML Flaw Allows Full Remote Code Execution, Exploit Available<a href="https://securityonline.info/cve-2025-27520-critical-bentoml-flaw-allows-full-remote-code-execution-exploit-available/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2025-27520 (CVSS 9.8), allows for remote code execution (RCE) and poses a significant risk to systems utilizing the affected versions of the library.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pexip Issues Urgent Security Update to Address Critical Vulnerabilities<a href="https://securityonline.info/pexip-issues-urgent-security-update-to-address-critical-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The two high-severity vulnerabilities, tracked as CVE-2025-32095 and CVE-2025-30080, could allow a remote attacker to trigger a software abort, leading to a denial of service. Users are recommended to upgrade to Pexip Infinity v37.0 for the fixes.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC Exploit Released for Yelp Flaw Exposes SSH Keys on Ubuntu Systems<a href="https://securityonline.info/poc-released-for-cve-2025-3155-yelp-flaw-can-expose-ssh-keys-on-ubuntu-systems/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security vulnerability, identified as CVE-2025-3155, has been discovered in Yelp, the GNOME user help application that comes pre-installed on Ubuntu systems. The vulnerability involves the way Yelp handles the “ghelp://” URI scheme.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Releases Android Update to Patch Two Actively Exploited Vulnerabilities<a href="https://thehackernews.com/2025/04/google-releases-android-update-to-patch.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has shipped patches for 62 vulnerabilities, two of which it said have been exploited in the wild. The two flaws, CVE-2024-53150 (out-of-bounds read) and CVE-2024-53197 (privilege escalation), reside in the USB sub-component of Kernel.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MediaTek's April 2025 Security Bulletin Addresses Critical WLAN Vulnerability in Multiple Chipsets<a href="https://securityonline.info/mediateks-april-2025-security-bulletin-critical-wlan-vulnerability-exposes-chipsets/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the most severe vulnerabilities highlighted in the bulletin is an out-of-bounds write in the WLAN service (CVE-2025-20654). This vulnerability could lead to remote code execution with no additional execution privileges needed.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 7, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

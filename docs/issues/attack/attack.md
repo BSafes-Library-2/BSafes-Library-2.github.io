@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+April 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GOFFEE’s recent attacks: new tools and techniques<a href="https://securelist.com/goffee-apt-new-attacks/116139/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GOFFEE continued to launch targeted attacks against organizations in Russia, utilizing PowerTaskel, a non-public Mythic agent written in PowerShell, and introducing a new implant that researchers dubbed “PowerModul”.
+</details>
+<div style="text-align: right" markdown="1">
+Security List
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 8, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emulating the Misleading CatB Ransomware<a href="https://www.attackiq.com/2025/04/09/emulating-catb-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CatB ransomware, also known as CatB99 or Baxtoy, emerged in late 2022 and has gained attention for its use of DLL hijacking via MSDTC to execute its payload. It is suspected to be a rebrand of Pandora ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Attack IQ
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 8, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

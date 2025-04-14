@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Everest Ransomware’s Dark Web Leak Site Defaced, Now Offline<a href="https://www.bleepingcomputer.com/news/security/everest-ransomwares-dark-web-leak-site-defaced-now-offline/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The dark web leak site of the Everest ransomware gang was hacked over the weekend by an unknown attacker and is now offline. The Everest operation has since taken down its leak site.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 27, 2025  <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
