@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dell Addresses Security Vulnerabilities in PowerScale OneFS<a href="https://securityonline.info/dell-addresses-security-vulnerabilities-in-powerscale-onefs/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dell has released a security advisory addressing multiple vulnerabilities in PowerScale OneFS, its scale-out network-attached storage operating system. The vulnerabilities could be exploited by malicious users to compromise affected systems.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall Patches Multiple Vulnerabilities in NetExtender VPN Client<a href="https://securityonline.info/sonicwall-patches-multi-vulnerabilities-in-netextender-vpn-client/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall has issued a security advisory disclosing three newly identified vulnerabilities in its NetExtender Windows client, a popular VPN tool used by organizations for secure remote access to internal networks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SureTriggers Vulnerability Exposes 100,000+ WordPress Sites to Full Takeover<a href="https://securityonline.info/suretriggers-vulnerability-exposes-100000-wordpress-sites-to-admin-takeover/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in the popular WordPress automation plugin SureTriggers has exposed over 100,000 sites to the risk of unauthenticated administrative account creation, potentially allowing full site takeover.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 8, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

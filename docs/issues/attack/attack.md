@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+April 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Use Microsoft Teams Chats to Deliver Malware to Windows PCs<a href="https://gbhackers.com/hackers-use-microsoft-teams-to-deliver-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated cyberattack campaign has emerged, leveraging Microsoft Teams chats to infiltrate Windows PCs with malware, according to a recent report by cybersecurity firm ReliaQuest.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 10, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

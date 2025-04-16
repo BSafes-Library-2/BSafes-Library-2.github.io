@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+April 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang says it hacked the Oregon Department of Environmental Quality<a href="https://www.comparitech.com/news/ransomware-gang-says-it-hacked-the-oregon-department-of-environmental-quality/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Oregon DEQ said it was investigating a cyber attack on its enterprise information services that forced the department to shut down its email system, computer workstations, help desk, and vehicle inspection stations.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hertz disclosed a data breach following 2024 Cleo zero-day attack<a href="https://securityaffairs.com/176562/data-breach/hertz-disclosed-a-data-breach-following-2024-cleo-zero-day-attack.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Car rental giant Hertz Corporation disclosed a data breach that impacted its Hertz, Thrifty, and Dollar brands. Threat actors gained access to customer data via Cleo zero-day exploits in late 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 11, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

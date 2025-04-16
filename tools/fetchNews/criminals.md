@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Moroccan Cybercrime Group Atlas Lion Hiding in Plain Sight During Attacks on Retailers<a href="https://therecord.media/atlas-lion-gift-card-cybercrime-hiding-virtual-machines?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Atlas Lion group used stolen credentials to enroll its own virtual machines (VMs) into an organization’s cloud domain, according to researchers at cybersecurity firm Expel.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 8, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

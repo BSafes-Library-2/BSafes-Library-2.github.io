@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Apache Roller Vulnerability (CVSS 10.0) Enables Unauthorized Session Persistence<a href="https://thehackernews.com/2025/04/critical-apache-roller-vulnerability.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical security vulnerability has been disclosed in the Apache Roller open-source, Java-based blogging server software that could allow malicious actors to retain unauthorized access even after a password change.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian Businesses at Risk as Threat Actors Exploit Fortinet Vulnerabilities<a href="https://thecyberexpress.com/fortinet-urges-australia-to-patch-now/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australian organizations using Fortinet products are being urged to take immediate action following a new advisory highlighting the active exploitation of previously known vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gladinet flaw CVE-2025-30406 actively exploited in the wild<a href="https://securityaffairs.com/176552/hacking/gladinet-flaw-cve-2025-30406-actively-exploited-in-the-wild.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers at Huntress warn of attacks in the wild exploiting a critical vulnerability, tracked as CVE-2025-30406, in Gladinet CentreStack and Triofox software.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 10, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
