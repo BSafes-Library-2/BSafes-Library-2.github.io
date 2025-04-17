@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+April 16, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mustang Panda: PAKLOG, CorKLOG, and SplatCloak<a href="https://www.zscaler.com/blogs/security-research/latest-mustang-panda-arsenal-paklog-corklog-and-splatcloak-p2?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mustang Panda, a China-linked APT group, has expanded its malware arsenal with PAKLOG and CorKLOG and an EDR evasion driver named SplatCloak. The malware is delivered via RAR archives containing legitimate signed binaries and malicious DLLs.
+</details>
+<div style="text-align: right" markdown="1">
+ZScalar
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 28, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

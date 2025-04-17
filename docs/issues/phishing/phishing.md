@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 16, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Targeted Nearly 18,000 in Phishing Campaign During Martial Law Turmoil<a href="https://thecyberexpress.com/north-korean-hackers-martial-law-phishing/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean hackers sent more than 120,000 phishing emails to nearly 18,000 individuals over a three-month campaign that impersonated South Korea’s Military Counterintelligence Command’s communication during the Martial Law turmoil.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 16, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Byte Bandits: How Fake PDF Converters Are Stealing More Than Just Your Documents<a href="https://www.cloudsek.com/blog/byte-bandits-how-fake-pdf-converters-are-stealing-more-than-just-your-documents?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A phishing campaign where threat actors mimicked the legit pdfcandy[.]com site to distribute malware. Users were tricked into running a PowerShell command, triggering the download of a ZIP payload containing ArechClient2.
+</details>
+<div style="text-align: right" markdown="1">
+CloudSek
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 15, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

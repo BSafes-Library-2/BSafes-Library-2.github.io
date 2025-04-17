@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2025 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mustang Panda: PAKLOG, CorKLOG, and SplatCloak<a href="https://www.zscaler.com/blogs/security-research/latest-mustang-panda-arsenal-paklog-corklog-and-splatcloak-p2?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mustang Panda, a China-linked APT group, has expanded its malware arsenal with PAKLOG and CorKLOG and an EDR evasion driver named SplatCloak. The malware is delivered via RAR archives containing legitimate signed binaries and malicious DLLs.
+</details>
+<div style="text-align: right" markdown="1">
+ZScalar
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2025-24054: Actively Exploited NTLM Hash Disclosure Vulnerability<a href="https://securityonline.info/cve-2025-24054-actively-exploited-ntlm-hash-disclosure-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point Research has issued a warning over the active exploitation of a newly disclosed vulnerability—CVE-2025-24054—that allows attackers to leak NTLMv2-SSP hashes through specially crafted .library-ms files.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Targeted Nearly 18,000 in Phishing Campaign During Martial Law Turmoil<a href="https://thecyberexpress.com/north-korean-hackers-martial-law-phishing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean hackers sent more than 120,000 phishing emails to nearly 18,000 individuals over a three-month campaign that impersonated South Korea’s Military Counterintelligence Command’s communication during the Martial Law turmoil.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2025 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacktivist Group Becomes More Sophisticated, Targets Critical Infrastructure to Deploy Ransomware<a href="https://gbhackers.com/hacktivist-group-becomes-more-sophisticated-targets-critical-infrastructure/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent report shed light on the evolving tactics of hacktivist groups, moving beyond traditional cyber disruptions like DDoS attacks and website defacements to engage in more advanced critical infrastructure attacks and ransomware operations.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Android Phones Shipped with Fake WhatsApp, Telegram Apps Targeting Crypto Users<a href="https://thehackernews.com/2025/04/chinese-android-phones-shipped-with.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cheap Android smartphones manufactured by Chinese companies have been observed pre-installed with trojanized apps masquerading as WhatsApp and Telegram that contain cryptocurrency clipper functionality as part of a campaign since June 2024.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New BPFDoor Controller Enables Stealthy Lateral Movement in Linux Server Attacks<a href="https://thehackernews.com/2025/04/new-bpfdoor-controller-enables-stealthy.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers unearthed a new controller component associated with a known backdoor called BPFDoor as part of cyber attacks targeting telecommunications, finance, and retail sectors in South Korea, Hong Kong, Myanmar, Malaysia, and Egypt in 2024.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Byte Bandits: How Fake PDF Converters Are Stealing More Than Just Your Documents<a href="https://www.cloudsek.com/blog/byte-bandits-how-fake-pdf-converters-are-stealing-more-than-just-your-documents?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A phishing campaign where threat actors mimicked the legit pdfcandy[.]com site to distribute malware. Users were tricked into running a PowerShell command, triggering the download of a ZIP payload containing ArechClient2.
+</details>
+<div style="text-align: right" markdown="1">
+CloudSek
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of blue screen crashes caused by April updates<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-blue-screen-crashes-caused-by-april-updates/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warned customers this week that their systems might crash with a blue screen error caused by a secure kernel fatal error after installing Windows updates released since March.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious PyPI Package Targets MEXC Trading API to Steal Credentials and Redirect Orders<a href="https://thehackernews.com/2025/04/malicious-pypi-package-targets-mexc.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed a malicious package uploaded to the Python Package Index (PyPI) repository that's designed to reroute trading orders placed on the MEXC cryptocurrency exchange to a malicious server and steal tokens.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firefox Fixes High-Severity Vulnerability Causing Memory Corruption via Race Condition<a href="https://gbhackers.com/firefox-fixes-high-severity-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla has released Firefox 137.0.2, addressing a high-severity security flaw that could potentially allow attackers to exploit memory corruption. The patched vulnerability, CVE-2025-3608, was found in the nsHttpTransaction component of Firefox.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 15, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
