@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2025
+April 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mustang Panda: PAKLOG, CorKLOG, and SplatCloak<a href="https://www.zscaler.com/blogs/security-research/latest-mustang-panda-arsenal-paklog-corklog-and-splatcloak-p2?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mustang Panda, a China-linked APT group, has expanded its malware arsenal with PAKLOG and CorKLOG and an EDR evasion driver named SplatCloak. The malware is delivered via RAR archives containing legitimate signed binaries and malicious DLLs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2025-24054: Actively Exploited NTLM Hash Disclosure Vulnerability<a href="https://securityonline.info/cve-2025-24054-actively-exploited-ntlm-hash-disclosure-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point Research has issued a warning over the active exploitation of a newly disclosed vulnerability—CVE-2025-24054—that allows attackers to leak NTLMv2-SSP hashes through specially crafted .library-ms files.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Targeted Nearly 18,000 in Phishing Campaign During Martial Law Turmoil<a href="https://thecyberexpress.com/north-korean-hackers-martial-law-phishing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean hackers sent more than 120,000 phishing emails to nearly 18,000 individuals over a three-month campaign that impersonated South Korea’s Military Counterintelligence Command’s communication during the Martial Law turmoil.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacktivist Group Becomes More Sophisticated, Targets Critical Infrastructure to Deploy Ransomware<a href="https://gbhackers.com/hacktivist-group-becomes-more-sophisticated-targets-critical-infrastructure/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent report shed light on the evolving tactics of hacktivist groups, moving beyond traditional cyber disruptions like DDoS attacks and website defacements to engage in more advanced critical infrastructure attacks and ransomware operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Android Phones Shipped with Fake WhatsApp, Telegram Apps Targeting Crypto Users<a href="https://thehackernews.com/2025/04/chinese-android-phones-shipped-with.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cheap Android smartphones manufactured by Chinese companies have been observed pre-installed with trojanized apps masquerading as WhatsApp and Telegram that contain cryptocurrency clipper functionality as part of a campaign since June 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New BPFDoor Controller Enables Stealthy Lateral Movement in Linux Server Attacks<a href="https://thehackernews.com/2025/04/new-bpfdoor-controller-enables-stealthy.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers unearthed a new controller component associated with a known backdoor called BPFDoor as part of cyber attacks targeting telecommunications, finance, and retail sectors in South Korea, Hong Kong, Myanmar, Malaysia, and Egypt in 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Byte Bandits: How Fake PDF Converters Are Stealing More Than Just Your Documents<a href="https://www.cloudsek.com/blog/byte-bandits-how-fake-pdf-converters-are-stealing-more-than-just-your-documents?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A phishing campaign where threat actors mimicked the legit pdfcandy[.]com site to distribute malware. Users were tricked into running a PowerShell command, triggering the download of a ZIP payload containing ArechClient2.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of blue screen crashes caused by April updates<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-blue-screen-crashes-caused-by-april-updates/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warned customers this week that their systems might crash with a blue screen error caused by a secure kernel fatal error after installing Windows updates released since March.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious PyPI Package Targets MEXC Trading API to Steal Credentials and Redirect Orders<a href="https://thehackernews.com/2025/04/malicious-pypi-package-targets-mexc.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed a malicious package uploaded to the Python Package Index (PyPI) repository that's designed to reroute trading orders placed on the MEXC cryptocurrency exchange to a malicious server and steal tokens.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firefox Fixes High-Severity Vulnerability Causing Memory Corruption via Race Condition<a href="https://gbhackers.com/firefox-fixes-high-severity-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla has released Firefox 137.0.2, addressing a high-severity security flaw that could potentially allow attackers to exploit memory corruption. The patched vulnerability, CVE-2025-3608, was found in the nsHttpTransaction component of Firefox.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-based SMS Phishing Triad Pivots to Banks – Krebs on Security<a href="https://krebsonsecurity.com/2025/04/china-based-sms-phishing-triad-pivots-to-banks/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ China-based SMS Phishing Triad Pivots to Banks – Krebs on Security<a href="htt
 China-based SMS phishing group “Smishing Triad” is now converting stolen payment card data into Apple and Google mobile wallets. Previously, they impersonated toll road and shipping firms.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Kreb On Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2025
+April 15, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Use Microsoft Teams Chats to Deliver Malware to Windows PCs<a href="https://gbhackers.com/hackers-use-microsoft-teams-to-deliver-malware/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Hackers Use Microsoft Teams Chats to Deliver Malware to Windows PCs<a href="http
 A sophisticated cyberattack campaign has emerged, leveraging Microsoft Teams chats to infiltrate Windows PCs with malware, according to a recent report by cybersecurity firm ReliaQuest.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2025
+April 15, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Apache Roller Vulnerability (CVSS 10.0) Enables Unauthorized Session Persistence<a href="https://thehackernews.com/2025/04/critical-apache-roller-vulnerability.html?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Critical Apache Roller Vulnerability (CVSS 10.0) Enables Unauthorized Session Pe
 A critical security vulnerability has been disclosed in the Apache Roller open-source, Java-based blogging server software that could allow malicious actors to retain unauthorized access even after a password change.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2025
+April 15, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gang says it hacked the Oregon Department of Environmental Quality<a href="https://www.comparitech.com/news/ransomware-gang-says-it-hacked-the-oregon-department-of-environmental-quality/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Ransomware gang says it hacked the Oregon Department of Environmental Quality<a 
 The Oregon DEQ said it was investigating a cyber attack on its enterprise information services that forced the department to shut down its email system, computer workstations, help desk, and vehicle inspection stations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CompariTech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2025
+April 15, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PasivRobber Malware Emerges, Targeting macOS to Steal Data From Systems and Apps<a href="https://gbhackers.com/pasivrobber-malware-emerges-targeting-macos-to-steal-data/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ PasivRobber Malware Emerges, Targeting macOS to Steal Data From Systems and Apps
 Identified on March 13, 2025, after a suspicious file named “wsus” was uploaded to VirusTotal, PasivRobber is a multi-component threat designed to steal a wide range of data from infected systems and popular applications.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2025
+April 15, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australian Businesses at Risk as Threat Actors Exploit Fortinet Vulnerabilities<a href="https://thecyberexpress.com/fortinet-urges-australia-to-patch-now/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Australian Businesses at Risk as Threat Actors Exploit Fortinet Vulnerabilities<
 Australian organizations using Fortinet products are being urged to take immediate action following a new advisory highlighting the active exploitation of previously known vulnerabilities.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2025
+April 15, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unmasking Xworm Payload Execution Path through Jailbreaking a Malicious JScript Loader<a href="https://gbhackers.com/unmasking-xworm-payload-execution-path-through-jailbreaking/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Unmasking Xworm Payload Execution Path through Jailbreaking a Malicious JScript 
 Security researchers are analyzing a sophisticated malware delivery mechanism that uses a JScript loader to deploy different payloads based on the victim’s geographic location.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2025
+April 15, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TROX Stealer: A deep dive into a new Malware as a Service (MaaS) attack campaign<a href="https://sublime.security/blog/trox-stealer-a-deep-dive-into-a-new-malware-as-a-service-maas-attack-campaign/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ TROX Stealer: A deep dive into a new Malware as a Service (MaaS) attack campaign
 TROX Stealer, first seen by Sublime Security in December 2024, appears to be an obscure and undocumented information stealer with capabilities to exfiltrate sensitive data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sublime
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2025
+April 15, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gladinet flaw CVE-2025-30406 actively exploited in the wild<a href="https://securityaffairs.com/176552/hacking/gladinet-flaw-cve-2025-30406-actively-exploited-in-the-wild.html?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Gladinet flaw CVE-2025-30406 actively exploited in the wild<a href="https://secu
 Security researchers at Huntress warn of attacks in the wild exploiting a critical vulnerability, tracked as CVE-2025-30406, in Gladinet CentreStack and Triofox software.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2025
+April 15, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hertz disclosed a data breach following 2024 Cleo zero-day attack<a href="https://securityaffairs.com/176562/data-breach/hertz-disclosed-a-data-breach-following-2024-cleo-zero-day-attack.html?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Hertz disclosed a data breach following 2024 Cleo zero-day attack<a href="https:
 Car rental giant Hertz Corporation disclosed a data breach that impacted its Hertz, Thrifty, and Dollar brands. Threat actors gained access to customer data via Cleo zero-day exploits in late 2024.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
