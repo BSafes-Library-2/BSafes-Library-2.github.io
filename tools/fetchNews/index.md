@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 17, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ghost Ransomware Targets Organizations Across 70+ Countries<a href="https://gbhackers.com/ghost-ransomware-targets-organizations/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware variant known as Ghost (also referred to as Cring) has emerged as a significant global threat. The FBI and CISA issued a joint advisory in February 2025 in response to the growing threat.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 17, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Proton66 Part 2: Compromised WordPress Pages and Malware Campaigns<a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/proton66-part-2-compromised-wordpress-pages-and-malware-campaigns/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent surge in malicious activity has been observed originating from the Proton66 ASN. This activity includes mass scanning, credential brute forcing, and exploitation attempts. The observed activity is targeting organizations worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+Trust Wave
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 17, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Model Context Protocol Flaw Allows Attackers to Compromise Victim Systems<a href="https://gbhackers.com/model-context-protocol-flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in the widely adopted Model Context Protocol (MCP), an open standard for integrating generative AI (GenAI) tools with external systems, has exposed organizations to risks of data theft, ransomware, and unauthorized access.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 17, 2025 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Network Edge Devices the Biggest Entry Point for Attacks on SMBs<a href="https://www.infosecurity-magazine.com/news/network-edge-devices-entry-smb/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Compromised network edge devices accounted for initial compromise in 30% of incidents impacting small and medium-sized businesses (SMBs) in 2024. VPN exploitation alone was the most frequent compromise point across all cases, at 19%.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 17, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unmasking the new XorDDoS controller and infrastructure<a href="https://blog.talosintelligence.com/unmasking-the-new-xorddos-controller-and-infrastructure/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos observed an existing DDoS malware known as XorDDoS, continuing to spread globally between November 2023 and February 2025. A significant finding shows that over 70 percent of attacks using XorDDoS targeted the U.S.
+</details>
+<div style="text-align: right" markdown="1">
+Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 17, 2025 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber threats against energy sector surge as global tensions mount<a href="https://www.helpnetsecurity.com/2025/04/17/cyber-threats-against-energy-sector-surge/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberattacks on the energy sector are rising due to geopolitical/tech factors. A July 2024 Sophos report found 67% of 275 surveyed energy/utility leaders experienced ransomware attacks in the last year.
+</details>
+<div style="text-align: right" markdown="1">
+HelpNet Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 17, 2025 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns of increased breach risks following Oracle Cloud leak<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-of-increased-breach-risks-following-oracle-cloud-leak/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Wednesday, CISA warned of heightened breach risks after the compromise of legacy Oracle Cloud servers earlier this year and highlighted the significant threat to enterprise networks.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 17, 2025 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Around the World in 90 Days: State-Sponsored Actors Try ClickFix<a href="https://www.proofpoint.com/us/blog/threat-insight/around-world-90-days-state-sponsored-actors-try-clickfix?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple state-sponsored hacking groups from Iran, North Korea, and Russia have been found leveraging the increasingly popular ClickFix social engineering tactic to deploy malware over three months from late 2024 through the beginning of 2025.
+</details>
+<div style="text-align: right" markdown="1">
+Proof Point
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 17, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside Gamaredon's PteroLNK: Dead Drop Resolvers and evasive Infrastructure<a href="https://harfanglab.io/insidethelab/gamaredons-pterolnk-analysis/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers unearthed the PteroLNK variant used by the Russian-nexus threat group, Gamaredon. The group targets Ukrainian entities, focusing on government, military, and critical infrastructure sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Harfang Lab
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 17, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Harvest Ransomware Attack: Stolen Data Now Publicly Disclosed<a href="https://gbhackers.com/harvest-ransomware-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+French fintech leader Harvest SAS has become the latest high-profile victim of a sophisticated ransomware attack, culminating this week in the public release of a trove of sensitive stolen data.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 16, 2025 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

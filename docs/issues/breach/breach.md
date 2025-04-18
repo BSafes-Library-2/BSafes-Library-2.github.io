@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+April 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Proton66 Part 2: Compromised WordPress Pages and Malware Campaigns<a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/proton66-part-2-compromised-wordpress-pages-and-malware-campaigns/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent surge in malicious activity has been observed originating from the Proton66 ASN. This activity includes mass scanning, credential brute forcing, and exploitation attempts. The observed activity is targeting organizations worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+Trust Wave
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Harvest Ransomware Attack: Stolen Data Now Publicly Disclosed<a href="https://gbhackers.com/harvest-ransomware-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+French fintech leader Harvest SAS has become the latest high-profile victim of a sophisticated ransomware attack, culminating this week in the public release of a trove of sensitive stolen data.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 15, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 16, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2025-24054: Actively Exploited NTLM Hash Disclosure Vulnerability<a href="https://securityonline.info/cve-2025-24054-actively-exploited-ntlm-hash-disclosure-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point Research has issued a warning over the active exploitation of a newly disclosed vulnerability—CVE-2025-24054—that allows attackers to leak NTLMv2-SSP hashes through specially crafted .library-ms files.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 16, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of blue screen crashes caused by April updates<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-blue-screen-crashes-caused-by-april-updates/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warned customers this week that their systems might crash with a blue screen error caused by a secure kernel fatal error after installing Windows updates released since March.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 16, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firefox Fixes High-Severity Vulnerability Causing Memory Corruption via Race Condition<a href="https://gbhackers.com/firefox-fixes-high-severity-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla has released Firefox 137.0.2, addressing a high-severity security flaw that could potentially allow attackers to exploit memory corruption. The patched vulnerability, CVE-2025-3608, was found in the nsHttpTransaction component of Firefox.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 15, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

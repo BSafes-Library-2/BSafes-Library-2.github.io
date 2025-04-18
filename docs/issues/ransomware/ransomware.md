@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ghost Ransomware Targets Organizations Across 70+ Countries<a href="https://gbhackers.com/ghost-ransomware-targets-organizations/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware variant known as Ghost (also referred to as Cring) has emerged as a significant global threat. The FBI and CISA issued a joint advisory in February 2025 in response to the growing threat.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 10, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

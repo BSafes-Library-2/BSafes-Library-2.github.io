@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 16, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacktivist Group Becomes More Sophisticated, Targets Critical Infrastructure to Deploy Ransomware<a href="https://gbhackers.com/hacktivist-group-becomes-more-sophisticated-targets-critical-infrastructure/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent report shed light on the evolving tactics of hacktivist groups, moving beyond traditional cyber disruptions like DDoS attacks and website defacements to engage in more advanced critical infrastructure attacks and ransomware operations.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 22, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
