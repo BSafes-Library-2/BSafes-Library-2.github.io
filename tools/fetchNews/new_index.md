@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2025
+April 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ghost Ransomware Targets Organizations Across 70+ Countries<a href="https://gbhackers.com/ghost-ransomware-targets-organizations/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware variant known as Ghost (also referred to as Cring) has emerged as a significant global threat. The FBI and CISA issued a joint advisory in February 2025 in response to the growing threat.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Proton66 Part 2: Compromised WordPress Pages and Malware Campaigns<a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/proton66-part-2-compromised-wordpress-pages-and-malware-campaigns/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent surge in malicious activity has been observed originating from the Proton66 ASN. This activity includes mass scanning, credential brute forcing, and exploitation attempts. The observed activity is targeting organizations worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Model Context Protocol Flaw Allows Attackers to Compromise Victim Systems<a href="https://gbhackers.com/model-context-protocol-flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in the widely adopted Model Context Protocol (MCP), an open standard for integrating generative AI (GenAI) tools with external systems, has exposed organizations to risks of data theft, ransomware, and unauthorized access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Network Edge Devices the Biggest Entry Point for Attacks on SMBs<a href="https://www.infosecurity-magazine.com/news/network-edge-devices-entry-smb/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Compromised network edge devices accounted for initial compromise in 30% of incidents impacting small and medium-sized businesses (SMBs) in 2024. VPN exploitation alone was the most frequent compromise point across all cases, at 19%.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unmasking the new XorDDoS controller and infrastructure<a href="https://blog.talosintelligence.com/unmasking-the-new-xorddos-controller-and-infrastructure/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos observed an existing DDoS malware known as XorDDoS, continuing to spread globally between November 2023 and February 2025. A significant finding shows that over 70 percent of attacks using XorDDoS targeted the U.S.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber threats against energy sector surge as global tensions mount<a href="https://www.helpnetsecurity.com/2025/04/17/cyber-threats-against-energy-sector-surge/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberattacks on the energy sector are rising due to geopolitical/tech factors. A July 2024 Sophos report found 67% of 275 surveyed energy/utility leaders experienced ransomware attacks in the last year.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns of increased breach risks following Oracle Cloud leak<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-of-increased-breach-risks-following-oracle-cloud-leak/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Wednesday, CISA warned of heightened breach risks after the compromise of legacy Oracle Cloud servers earlier this year and highlighted the significant threat to enterprise networks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Around the World in 90 Days: State-Sponsored Actors Try ClickFix<a href="https://www.proofpoint.com/us/blog/threat-insight/around-world-90-days-state-sponsored-actors-try-clickfix?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple state-sponsored hacking groups from Iran, North Korea, and Russia have been found leveraging the increasingly popular ClickFix social engineering tactic to deploy malware over three months from late 2024 through the beginning of 2025.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside Gamaredon's PteroLNK: Dead Drop Resolvers and evasive Infrastructure<a href="https://harfanglab.io/insidethelab/gamaredons-pterolnk-analysis/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers unearthed the PteroLNK variant used by the Russian-nexus threat group, Gamaredon. The group targets Ukrainian entities, focusing on government, military, and critical infrastructure sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Harvest Ransomware Attack: Stolen Data Now Publicly Disclosed<a href="https://gbhackers.com/harvest-ransomware-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+French fintech leader Harvest SAS has become the latest high-profile victim of a sophisticated ransomware attack, culminating this week in the public release of a trove of sensitive stolen data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2025 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mustang Panda: PAKLOG, CorKLOG, and SplatCloak<a href="https://www.zscaler.com/blogs/security-research/latest-mustang-panda-arsenal-paklog-corklog-and-splatcloak-p2?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Mustang Panda: PAKLOG, CorKLOG, and SplatCloak<a href="https://www.zscaler.com/b
 Mustang Panda, a China-linked APT group, has expanded its malware arsenal with PAKLOG and CorKLOG and an EDR evasion driver named SplatCloak. The malware is delivered via RAR archives containing legitimate signed binaries and malicious DLLs.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ZScalar
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2025
+April 16, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CVE-2025-24054: Actively Exploited NTLM Hash Disclosure Vulnerability<a href="https://securityonline.info/cve-2025-24054-actively-exploited-ntlm-hash-disclosure-vulnerability/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ CVE-2025-24054: Actively Exploited NTLM Hash Disclosure Vulnerability<a href="ht
 Check Point Research has issued a warning over the active exploitation of a newly disclosed vulnerability—CVE-2025-24054—that allows attackers to leak NTLMv2-SSP hashes through specially crafted .library-ms files.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2025
+April 16, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hackers Targeted Nearly 18,000 in Phishing Campaign During Martial Law Turmoil<a href="https://thecyberexpress.com/north-korean-hackers-martial-law-phishing/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ North Korean Hackers Targeted Nearly 18,000 in Phishing Campaign During Martial 
 North Korean hackers sent more than 120,000 phishing emails to nearly 18,000 individuals over a three-month campaign that impersonated South Korea’s Military Counterintelligence Command’s communication during the Martial Law turmoil.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2025
+April 16, 2025 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacktivist Group Becomes More Sophisticated, Targets Critical Infrastructure to Deploy Ransomware<a href="https://gbhackers.com/hacktivist-group-becomes-more-sophisticated-targets-critical-infrastructure/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Hacktivist Group Becomes More Sophisticated, Targets Critical Infrastructure to 
 A recent report shed light on the evolving tactics of hacktivist groups, moving beyond traditional cyber disruptions like DDoS attacks and website defacements to engage in more advanced critical infrastructure attacks and ransomware operations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2025
+April 16, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Android Phones Shipped with Fake WhatsApp, Telegram Apps Targeting Crypto Users<a href="https://thehackernews.com/2025/04/chinese-android-phones-shipped-with.html?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Chinese Android Phones Shipped with Fake WhatsApp, Telegram Apps Targeting Crypt
 Cheap Android smartphones manufactured by Chinese companies have been observed pre-installed with trojanized apps masquerading as WhatsApp and Telegram that contain cryptocurrency clipper functionality as part of a campaign since June 2024.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2025
+April 16, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New BPFDoor Controller Enables Stealthy Lateral Movement in Linux Server Attacks<a href="https://thehackernews.com/2025/04/new-bpfdoor-controller-enables-stealthy.html?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ New BPFDoor Controller Enables Stealthy Lateral Movement in Linux Server Attacks
 Researchers unearthed a new controller component associated with a known backdoor called BPFDoor as part of cyber attacks targeting telecommunications, finance, and retail sectors in South Korea, Hong Kong, Myanmar, Malaysia, and Egypt in 2024.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2025
+April 16, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Byte Bandits: How Fake PDF Converters Are Stealing More Than Just Your Documents<a href="https://www.cloudsek.com/blog/byte-bandits-how-fake-pdf-converters-are-stealing-more-than-just-your-documents?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Byte Bandits: How Fake PDF Converters Are Stealing More Than Just Your Documents
 A phishing campaign where threat actors mimicked the legit pdfcandy[.]com site to distribute malware. Users were tricked into running a PowerShell command, triggering the download of a ZIP payload containing ArechClient2.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CloudSek
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2025
+April 16, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft warns of blue screen crashes caused by April updates<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-blue-screen-crashes-caused-by-april-updates/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Microsoft warns of blue screen crashes caused by April updates<a href="https://w
 Microsoft warned customers this week that their systems might crash with a blue screen error caused by a secure kernel fatal error after installing Windows updates released since March.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2025
+April 16, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious PyPI Package Targets MEXC Trading API to Steal Credentials and Redirect Orders<a href="https://thehackernews.com/2025/04/malicious-pypi-package-targets-mexc.html?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Malicious PyPI Package Targets MEXC Trading API to Steal Credentials and Redirec
 Cybersecurity researchers have disclosed a malicious package uploaded to the Python Package Index (PyPI) repository that's designed to reroute trading orders placed on the MEXC cryptocurrency exchange to a malicious server and steal tokens.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2025
+April 16, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Firefox Fixes High-Severity Vulnerability Causing Memory Corruption via Race Condition<a href="https://gbhackers.com/firefox-fixes-high-severity-vulnerability/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Firefox Fixes High-Severity Vulnerability Causing Memory Corruption via Race Con
 Mozilla has released Firefox 137.0.2, addressing a high-severity security flaw that could potentially allow attackers to exploit memory corruption. The patched vulnerability, CVE-2025-3608, was found in the nsHttpTransaction component of Firefox.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
