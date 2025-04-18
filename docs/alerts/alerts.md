@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2025 - CISA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Releases Guidance on Credential Risks Associated with Potential Legacy Oracle Cloud Compromise <a href="https://www.cisa.gov/news-events/alerts/2025/04/16/cisa-releases-guidance-credential-risks-associated-potential-legacy-oracle-cloud-compromise"> Full Text</a>
+</p>
+<details>
+CISA is aware of public reporting regarding potential unauthorized access to a legacy Oracle cloud environment. While the scope and impact remains unconfirmed, the nature of the reported activity presents potential risk to organizations and individuals, particularly where credential material may be exposed, reused across separate, unaffiliated systems, or embedded (i.e., hardcoded into scripts, applications, infrastructure templates, or automation tools). When credential material is embedded, it is difficult to discover and can enable long-term unauthorized access if exposed.
+</details>
+</div>
+
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 7, 2025 - NSA, CISA, FBI, ASD's ACSC, CCCS, NCSC-NZ 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
