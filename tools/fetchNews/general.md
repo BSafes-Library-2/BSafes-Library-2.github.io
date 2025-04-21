@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+April 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Network Edge Devices the Biggest Entry Point for Attacks on SMBs<a href="https://www.infosecurity-magazine.com/news/network-edge-devices-entry-smb/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Compromised network edge devices accounted for initial compromise in 30% of incidents impacting small and medium-sized businesses (SMBs) in 2024. VPN exploitation alone was the most frequent compromise point across all cases, at 19%.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber threats against energy sector surge as global tensions mount<a href="https://www.helpnetsecurity.com/2025/04/17/cyber-threats-against-energy-sector-surge/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberattacks on the energy sector are rising due to geopolitical/tech factors. A July 2024 Sophos report found 67% of 275 surveyed energy/utility leaders experienced ransomware attacks in the last year.
+</details>
+<div style="text-align: right" markdown="1">
+HelpNet Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Around the World in 90 Days: State-Sponsored Actors Try ClickFix<a href="https://www.proofpoint.com/us/blog/threat-insight/around-world-90-days-state-sponsored-actors-try-clickfix?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple state-sponsored hacking groups from Iran, North Korea, and Russia have been found leveraging the increasingly popular ClickFix social engineering tactic to deploy malware over three months from late 2024 through the beginning of 2025.
+</details>
+<div style="text-align: right" markdown="1">
+Proof Point
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 24, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

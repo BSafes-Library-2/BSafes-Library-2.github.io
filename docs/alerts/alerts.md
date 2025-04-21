@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2025 - FBI 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns of Scammers Impersonating the IC3 <a href="https://www.ic3.gov/PSA/2025/PSA250418?&web_view=true"> Full Text</a>
+</p>
+<details>
+The Federal Bureau of Investigation (FBI) warns the public about an ongoing fraud scheme where criminal scammers are impersonating FBI Internet Crime Complaint Center (IC3) employees to deceive and defraud individuals. Between December 2023 and February 2025, the FBI received more than 100 reports of IC3 impersonation scams.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 16, 2025 - CISA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -16,7 +27,6 @@ CISA Releases Guidance on Credential Risks Associated with Potential Legacy Orac
 CISA is aware of public reporting regarding potential unauthorized access to a legacy Oracle cloud environment. While the scope and impact remains unconfirmed, the nature of the reported activity presents potential risk to organizations and individuals, particularly where credential material may be exposed, reused across separate, unaffiliated systems, or embedded (i.e., hardcoded into scripts, applications, infrastructure templates, or automation tools). When credential material is embedded, it is difficult to discover and can enable long-term unauthorized access if exposed.
 </details>
 </div>
-
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 7, 2025 - NSA, CISA, FBI, ASD's ACSC, CCCS, NCSC-NZ 
