@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New payment-card scam involves a phone call, some malware and a personal tap<a href="https://therecord.media/new-payment-card-scam-involves-malware-tap?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new fraud campaign tracked by Cleafy in Italy leverages Android malware, social engineering, and NFC technology to steal payment card data. The malware, dubbed SuperCard X, is part of a malware-as-a-service (MaaS) operation .
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ASUS warns of critical auth bypass flaw in routers using AiCloud<a href="https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-auth-bypass-flaw-in-routers-using-aicloud/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ASUS has disclosed a critical authentication bypass vulnerability (CVE-2025-2492) affecting multiple router models with AiCloud enabled. The flaw allows remote attackers to execute unauthorized functions without authentication.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UAT-5647 targets Ukrainian and Polish entities with RomCom malware variants<a href="https://blog.talosintelligence.com/uat-5647-romcom/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A spear-phishing campaign attributed to Russian-speaking threat actors targeted the UK Ministry of Defence (MOD) in late 2024. The attackers deployed a RomCom malware variant known as Damascened Peacock.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+KeyPlug Malware Server Leak Exposes Fortinet Firewall and VPN Exploitation Tools<a href="https://gbhackers.com/keyplug-malware-server/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers uncovered a RedGolf/APT41 server inadvertently exposed for less than 24 hours, offering a rare glimpse into an active staging ground used by the threat actor.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Zoom attack you didn't see coming<a href="https://www.helpnetsecurity.com/2025/04/18/zoom-remote-control-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor known as ELUSIVE COMET is exploiting Zoom’s remote control feature to deploy malware during fake podcast interviews. The attacker is targeting individuals in the cryptocurrency and DeFi sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns of Scammers Impersonating the IC3<a href="https://www.ic3.gov/PSA/2025/PSA250418?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has issued a warning about a persistent fraud scheme in which scammers impersonate employees of the Internet Crime Complaint Center (IC3) to deceive and revictimize individuals, particularly those who have already suffered financial fraud.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Smishing Kit Powers Widespread Toll Fraud Campaign Targeting U.S. Users in 8 States<a href="https://thehackernews.com/2025/04/chinese-smishing-kit-behind-widespread.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A widespread and ongoing SMS phishing (smishing) campaign has been targeting toll road users across eight U.S. states since mid-October 2024. The campaign impersonates electronic toll systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+npm Malware Targets Telegram Bot Developers with Persistent ...<a href="https://socket.dev/blog/npm-malware-targets-telegram-bot-developers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new supply chain attack has been uncovered targeting Telegram bot developers via typosquatted npm packages. These malicious packages mimic the legitimate `node-telegram-bot-api` library.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SCAMONOMICS THE DARK SIDE OF STOCK & CRYPTO INVESTMENTS IN INDIA<a href="https://www.cyfirma.com/research/scamonomics-the-dark-side-of-stock-crypto-investments-in-india/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A coordinated fraud campaign is targeting investors using fake investment platforms, impersonation tactics, and compromised legitimate websites. These schemes aim to steal financial data and defraud victims through social engineering.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Look out! CapCut copycats are on the prowl<a href="https://www.welivesecurity.com/en/scams/capcut-copycats-prowl/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are exploiting the popularity of AI-powered content creation tools by deploying fake websites that impersonate platforms like CapCut, Adobe Express, and Canva.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 17, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
