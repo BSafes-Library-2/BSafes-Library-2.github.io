@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+April 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Zoom attack you didn't see coming<a href="https://www.helpnetsecurity.com/2025/04/18/zoom-remote-control-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor known as ELUSIVE COMET is exploiting Zoom’s remote control feature to deploy malware during fake podcast interviews. The attacker is targeting individuals in the cryptocurrency and DeFi sectors.
+</details>
+<div style="text-align: right" markdown="1">
+HelpNet Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 7, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

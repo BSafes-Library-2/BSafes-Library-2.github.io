@@ -18,6 +18,17 @@ The Federal Bureau of Investigation (FBI) warns the public about an ongoing frau
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2025 - FBI 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns of Scammers Impersonating the IC3 <a href="https://www.ic3.gov/PSA/2025/PSA250418?&web_view=true"> Full Text</a>
+</p>
+<details>
+The Federal Bureau of Investigation (FBI) warns the public about an ongoing fraud scheme where criminal scammers are impersonating FBI Internet Crime Complaint Center (IC3) employees to deceive and defraud individuals. Between December 2023 and February 2025, the FBI received more than 100 reports of IC3 impersonation scams.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 16, 2025 - CISA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

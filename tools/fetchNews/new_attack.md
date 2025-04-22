@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+April 21, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoom has a remote control feature and crypto thieves are abusing it - Risky Business Media<a href="https://risky.biz/risky-bulletin-zoom-has-a-remote-control-feature-and-crypto-thieves-are-abusing-it/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly uncovered campaign by the threat group ELUSIVE COMET exploits Zoom’s remote control feature to hijack victims’ systems. The attackers use social engineering tactics, impersonating Bloomberg Crypto.
+</details>
+<div style="text-align: right" markdown="1">
+Risky
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Ghost Hackers Hit Hospitals And Factories In America And U.K.<a href="https://www.forbes.com/sites/daveywinder/2025/04/20/chinese-ghost-hackers-hit-hospitals-and-factories-in-america-and-uk/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ghost ransomware hackers strike in 70 countries. However, North America and the U.K. have been most attacked by the Ghost ransomware hackers. The campaigns are operated by a financially motivated group from China.
+</details>
+<div style="text-align: right" markdown="1">
+Forbes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 18, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

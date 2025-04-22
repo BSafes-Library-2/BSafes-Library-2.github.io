@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Look out! CapCut copycats are on the prowl<a href="https://www.welivesecurity.com/en/scams/capcut-copycats-prowl/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are exploiting the popularity of AI-powered content creation tools by deploying fake websites that impersonate platforms like CapCut, Adobe Express, and Canva.
+</details>
+<div style="text-align: right" markdown="1">
+WeLive Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 10, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

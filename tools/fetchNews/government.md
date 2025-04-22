@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+April 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns of Scammers Impersonating the IC3<a href="https://www.ic3.gov/PSA/2025/PSA250418?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has issued a warning about a persistent fraud scheme in which scammers impersonate employees of the Internet Crime Complaint Center (IC3) to deceive and revictimize individuals, particularly those who have already suffered financial fraud.
+</details>
+<div style="text-align: right" markdown="1">
+IC3
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 17, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

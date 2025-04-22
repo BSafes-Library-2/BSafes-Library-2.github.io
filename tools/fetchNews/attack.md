@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+April 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SCAMONOMICS THE DARK SIDE OF STOCK &amp; CRYPTO INVESTMENTS IN INDIA<a href="https://www.cyfirma.com/research/scamonomics-the-dark-side-of-stock-crypto-investments-in-india/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A coordinated fraud campaign is targeting investors using fake investment platforms, impersonation tactics, and compromised legitimate websites. These schemes aim to steal financial data and defraud victims through social engineering.
+</details>
+<div style="text-align: right" markdown="1">
+Cyfirma
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 15, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

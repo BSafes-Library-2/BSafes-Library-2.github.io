@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UAT-5647 targets Ukrainian and Polish entities with RomCom malware variants<a href="https://blog.talosintelligence.com/uat-5647-romcom/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A spear-phishing campaign attributed to Russian-speaking threat actors targeted the UK Ministry of Defence (MOD) in late 2024. The attackers deployed a RomCom malware variant known as Damascened Peacock.
+</details>
+<div style="text-align: right" markdown="1">
+Talos Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Smishing Kit Powers Widespread Toll Fraud Campaign Targeting U.S. Users in 8 States<a href="https://thehackernews.com/2025/04/chinese-smishing-kit-behind-widespread.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A widespread and ongoing SMS phishing (smishing) campaign has been targeting toll road users across eight U.S. states since mid-October 2024. The campaign impersonates electronic toll systems.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 16, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
