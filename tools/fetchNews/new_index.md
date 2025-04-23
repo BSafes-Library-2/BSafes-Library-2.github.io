@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2025
+April 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Security Vulnerability Found in WordPress Plugin InstaWP Connect<a href="https://thecyberexpress.com/vulnerability-in-instawp-connect-plugin/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, identified as CVE-2025-2636, specifically impacts older versions of the plugin. Versions prior to 0.1.0.88 are at risk. This security flaw enables unauthorized attackers to remotely execute malicious PHP code on affected websites.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI security firm Pillar raises $9m to secure the future of enterprise software<a href="https://fintech.global/2025/04/17/ai-security-firm-pillar-raises-9m-to-secure-the-future-of-enterprise-software/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The $9 million seed funding round for Pillar Security was led by Shield Capital, with participation from Golden Ventures, Ground Up Ventures, and a group of strategic angel investors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: $40bn Southeast Asian Scam Sector Growing “Like a Cancer”<a href="https://www.infosecurity-magazine.com/news/40bn-southeast-asia-scam-grow/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The findings are revealed in a new report from the UN Office on Drugs and Crime (UNODC), Inflection Point: Global Implications of Scam Centres, Underground Banking and Illicit Online Marketplaces in Southeast Asia.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC Released for Critical Unauthenticated Erlang/OTP RCE Vulnerability<a href="https://gbhackers.com/poc-released-for-erlang-otp-rce-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw (CVSSv3 10.0) stems from improper handling of SSH protocol messages, enabling attackers to bypass authentication and send malicious payloads during the connection phase.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers claim breakthrough in fight against AI’s frustrating security hole<a href="https://arstechnica.com/information-technology/2025/04/researchers-claim-breakthrough-in-fight-against-ais-frustrating-security-hole/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google DeepMind has unveiled CaMeL (CApabilities for MachinE Learning), a new approach to stopping prompt-injection attacks that abandons the failed strategy of having AI models police themselves.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 50k WordPress Sites at Takeover Risk Via Vulnerable Plugin<a href="https://securityonline.info/over-50k-wordpress-sites-at-takeover-risk-via-vulnerable-plugin/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2025-3616 and carrying a CVSS score of 8.8, this flaw allows authenticated users — even those with mere subscriber-level access — to upload arbitrary files, including malicious PHP scripts, and execute them remotely.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Malware Mimics Cisco Webex to Target Users in-the-Wild<a href="https://cybersecuritynews.com/malware-mimics-cisco-webex/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to researchers, the attack begins when victims are persuaded to click on malicious meeting links that exploit a vulnerability in Cisco Webex App’s custom URL parser.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw in Windows Update Stack Enables Code Execution and Privilege Escalation<a href="https://gbhackers.com/critical-flaw-in-windows-update-stack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered vulnerability in the Windows Update Stack, tracked as CVE-2025-21204, could enable attackers to execute arbitrary code and escalate privileges to SYSTEM level on targeted machines.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Microsoft Remains the Most Targeted Brand for Phishing Attacks in Q1 2025, Mastercard Makes a Comeback<a href="https://cxotoday.com/press-release/check-point-research-unveils-q1-2025-brand-phishing-trends-microsoft-dominates-as-top-target-mastercard-makes-a-comeback/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In Q1 2025, Microsoft maintained its position as the most targeted brand, accounting for 36% of all phishing attempts. Google surged to second place with 12%, while Apple remained in the top 3 with 8%.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical CVE-2025-1976 Vulnerability in Brocade Fabric OS Actively Exploited<a href="https://securityonline.info/critical-cve-2025-1976-vulnerability-in-brocade-fabric-os-actively-exploited/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical security vulnerability has been identified in Brocade Fabric OS, posing a significant risk to affected systems. The vulnerability could allow a local user with admin privileges to execute arbitrary code with full root privileges.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WordPress ad-fraud plugins generated 1.4 billion ad requests per day<a href="https://www.bleepingcomputer.com/news/security/scallywag-ad-fraud-operation-generated-14-billion-ad-requests-per-day/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ WordPress ad-fraud plugins generated 1.4 billion ad requests per day<a href="htt
 A large-scale ad fraud operation called 'Scallywag' is monetizing pirating and URL shortening sites through specially crafted WordPress plugins that generate billions of daily fraudulent requests.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2025
+April 21, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Bypassed Windows Defender Policies Using WinDbg Preview via Microsoft Store<a href="https://gbhackers.com/hackers-bypassed-windows-defender-policies/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Hackers Bypassed Windows Defender Policies Using WinDbg Preview via Microsoft St
 A newly documented technique reveals how attackers can exploit the WinDbg Preview debugger to bypass even the strictest Windows Defender Application Control (WDAC) policies.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2025
+April 21, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Claim to Sell ‘Baldwin Killer’ Malware That Evades AV and EDR<a href="https://gbhackers.com/hackers-claim-to-sell-baldwin-killer-malware/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Hackers Claim to Sell ‘Baldwin Killer’ Malware That Evades AV and EDR<a href
 A notorious threat actor has allegedly begun selling “Baldwin Killer,” a sophisticated malware toolkit designed to bypass leading antivirus (AV) and endpoint detection and response (EDR) systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2025
+April 21, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Japan warns of hundreds of millions of dollars in unauthorized trades from hacked accounts<a href="https://therecord.media/japan-warns-of-unauthorized-trades-hacked-accounts?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Japan warns of hundreds of millions of dollars in unauthorized trades from hacke
 Japan’s FSA issued an urgent warning following a surge in unauthorized access and fraudulent trading activities targeting online brokerage accounts. The incident has resulted in hundreds of millions of dollars in unauthorized transactions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2025
+April 21, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zoom has a remote control feature and crypto thieves are abusing it - Risky Business Media<a href="https://risky.biz/risky-bulletin-zoom-has-a-remote-control-feature-and-crypto-thieves-are-abusing-it/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Zoom has a remote control feature and crypto thieves are abusing it - Risky Busi
 A newly uncovered campaign by the threat group ELUSIVE COMET exploits Zoom’s remote control feature to hijack victims’ systems. The attackers use social engineering tactics, impersonating Bloomberg Crypto.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Risky
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2025
+April 21, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Exploit Google OAuth Loophole to Evade Gmail Security<a href="https://gbhackers.com/cybercriminals-exploit-google-oauth/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Cybercriminals Exploit Google OAuth Loophole to Evade Gmail Security<a href="htt
 A sophisticated phishing attack exploiting a loophole in Google’s OAuth infrastructure has surfaced, raising significant concerns about the security of Gmail users worldwide.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2025
+April 21, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Android malware steals your credit cards for NFC relay attacks<a href="https://www.bleepingcomputer.com/news/security/supercard-x-android-malware-use-stolen-cards-in-nfc-relay-attacks/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ New Android malware steals your credit cards for NFC relay attacks<a href="https
 A new malware-as-a-service (MaaS) platform named 'SuperCard X' has emerged, targeting Android devices via NFC relay attacks that enable point-of-sale and ATM transactions using compromised payment card data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2025
+April 21, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Ghost Hackers Hit Hospitals And Factories In America And U.K.<a href="https://www.forbes.com/sites/daveywinder/2025/04/20/chinese-ghost-hackers-hit-hospitals-and-factories-in-america-and-uk/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Chinese Ghost Hackers Hit Hospitals And Factories In America And U.K.<a href="ht
 Ghost ransomware hackers strike in 70 countries. However, North America and the U.K. have been most attacked by the Ghost ransomware hackers. The campaigns are operated by a financially motivated group from China.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Forbes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2025
+April 21, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FOG Ransomware Spread by Cybercriminals Claiming Ties to DOGE<a href="https://www.trendmicro.com/en_us/research/25/d/fog-ransomware-concealed-within-binary-loaders-linking-themselve.html?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ FOG Ransomware Spread by Cybercriminals Claiming Ties to DOGE<a href="https://ww
 Researchers found that FOG ransomware is being distributed by cybercriminals trolling users by abusing the name of the Department of Government Efficiency (DOGE), or individuals connected to the government initiative.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Trend Micro
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2025
+April 21, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SheByte PaaS Launches Subscription Service for Cybercriminals<a href="https://gbhackers.com/shebyte-phishing-as-a-service/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ SheByte PaaS Launches Subscription Service for Cybercriminals<a href="https://gb
 Launched in June 2024, SheByte has rapidly gained traction among cybercriminals by offering customizable phishing kits and a subscription model, signaling a durable presence in the threat landscape.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
