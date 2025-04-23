@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+April 21, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japan warns of hundreds of millions of dollars in unauthorized trades from hacked accounts<a href="https://therecord.media/japan-warns-of-unauthorized-trades-hacked-accounts?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japan’s FSA issued an urgent warning following a surge in unauthorized access and fraudulent trading activities targeting online brokerage accounts. The incident has resulted in hundreds of millions of dollars in unauthorized transactions.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 17, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

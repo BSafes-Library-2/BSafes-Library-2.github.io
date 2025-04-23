@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Microsoft Remains the Most Targeted Brand for Phishing Attacks in Q1 2025, Mastercard Makes a Comeback<a href="https://cxotoday.com/press-release/check-point-research-unveils-q1-2025-brand-phishing-trends-microsoft-dominates-as-top-target-mastercard-makes-a-comeback/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In Q1 2025, Microsoft maintained its position as the most targeted brand, accounting for 36% of all phishing attempts. Google surged to second place with 12%, while Apple remained in the top 3 with 8%.
+</details>
+<div style="text-align: right" markdown="1">
+CXO Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 21, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

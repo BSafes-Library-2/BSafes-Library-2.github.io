@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 21, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FOG Ransomware Spread by Cybercriminals Claiming Ties to DOGE<a href="https://www.trendmicro.com/en_us/research/25/d/fog-ransomware-concealed-within-binary-loaders-linking-themselve.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found that FOG ransomware is being distributed by cybercriminals trolling users by abusing the name of the Department of Government Efficiency (DOGE), or individuals connected to the government initiative.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 17, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

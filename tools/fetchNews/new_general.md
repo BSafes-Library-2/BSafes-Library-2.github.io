@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+April 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: $40bn Southeast Asian Scam Sector Growing “Like a Cancer”<a href="https://www.infosecurity-magazine.com/news/40bn-southeast-asia-scam-grow/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The findings are revealed in a new report from the UN Office on Drugs and Crime (UNODC), Inflection Point: Global Implications of Scam Centres, Underground Banking and Illicit Online Marketplaces in Southeast Asia.
+</details>
+<div style="text-align: right" markdown="1">
+InfoSecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers claim breakthrough in fight against AI’s frustrating security hole<a href="https://arstechnica.com/information-technology/2025/04/researchers-claim-breakthrough-in-fight-against-ais-frustrating-security-hole/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google DeepMind has unveiled CaMeL (CApabilities for MachinE Learning), a new approach to stopping prompt-injection attacks that abandons the failed strategy of having AI models police themselves.
+</details>
+<div style="text-align: right" markdown="1">
+ArsTechnica
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 21, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

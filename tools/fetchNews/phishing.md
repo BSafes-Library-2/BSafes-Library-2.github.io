@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 21, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Exploit Google OAuth Loophole to Evade Gmail Security<a href="https://gbhackers.com/cybercriminals-exploit-google-oauth/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated phishing attack exploiting a loophole in Google’s OAuth infrastructure has surfaced, raising significant concerns about the security of Gmail users worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 19, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
