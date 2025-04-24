@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 23, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Synology Network File System Vulnerability Allows Unauthorized File Access<a href="https://gbhackers.com/synology-network-file-system-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in Synology DiskStation Manager (DSM), tracked as CVE-2025-1021, allows unauthenticated remote attackers to access arbitrary files via the NFS service.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 23, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung One UI Vulnerability Leaks Sensitive Data in Plain Text With no expiration!<a href="https://gbhackers.com/samsung-one-ui-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant privacy vulnerability has been discovered in Samsung’s One UI clipboard history feature. The system stores all copied text—including passwords, 2FA codes, and personal data—in plain text indefinitely, without auto-expiry.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 22, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

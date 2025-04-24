@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 23, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware groups test new business models to hit more victims, increase profits<a href="https://therecord.media/ransomware-groups-test-new-business-models-dragonforce-anubis?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DragonForce and Anubis are attempting to entice hackers to come and work with them by adopting affiliate models that would increase the volume of incidents their services can be used in.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 21, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

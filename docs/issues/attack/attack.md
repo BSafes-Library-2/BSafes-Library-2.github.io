@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+April 23, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Deploy New Malware Disguised as Networking Software Updates<a href="https://gbhackers.com/new-malware-disguised-as-networking-software-updates/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated backdoor campaign is actively targeting Russian government, financial, and industrial sectors by masquerading as legitimate ViPNet software updates. The malware leverages trusted update mechanisms to infiltrate systems.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 21, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

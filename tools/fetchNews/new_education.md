@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+April 23, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cookie-Bite: How Your Digital Crumbs Let Threat Actors Bypass MFA and Maintain Access to Cloud Environments<a href="https://www.varonis.com/blog/cookie-bite?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new proof-of-concept attack dubbed Cookie-Bite demonstrates how a malicious Chrome extension can steal Azure Entra ID session cookies to bypass multi-factor authentication (MFA) and maintain unauthorized access to Microsoft cloud services.
+</details>
+<div style="text-align: right" markdown="1">
+Varonis
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 12, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

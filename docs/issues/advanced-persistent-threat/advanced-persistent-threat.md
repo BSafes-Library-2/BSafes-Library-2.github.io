@@ -8,6 +8,34 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+April 23, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian APT Gamaredon targets Ukraine with new LNK<a href="https://www.scworld.com/brief/russian-apt-gamaredon-targets-ukraine-with-new-lnk?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have uncovered a new campaign by the Russian-affiliated APT group Gamaredon, leveraging the PteroLNK variant of the Pterodo malware family to target Ukrainian military, government, and infrastructure sectors.
+</details>
+<div style="text-align: right" markdown="1">
+SC World
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 23, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT34 Hackers Use Port 8080 for Fake 404 Responses and Shared SSH Keys<a href="https://gbhackers.com/apt34-hackers-use-port-8080-for-fake-404-responses/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have identified dormant but potentially malicious infrastructure linked to the Iranian threat group APT34 (OilRig), known for targeting sectors such as education, government, energy, telecom, and NGOs.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 16, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

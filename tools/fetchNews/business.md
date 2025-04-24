@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+April 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI security firm Pillar raises $9m to secure the future of enterprise software<a href="https://fintech.global/2025/04/17/ai-security-firm-pillar-raises-9m-to-secure-the-future-of-enterprise-software/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The $9 million seed funding round for Pillar Security was led by Shield Capital, with participation from Golden Ventures, Ground Up Ventures, and a group of strategic angel investors.
+</details>
+<div style="text-align: right" markdown="1">
+FinTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 18, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
