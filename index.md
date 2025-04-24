@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blue Shield of California leaked health data of 4.7 million members to Google<a href="https://www.bleepingcomputer.com/news/security/blue-shield-of-california-leaked-health-data-of-47-million-members-to-google/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Blue Shield of California disclosed it suffered a data breach after exposing protected health information of 4.7 million members to Google's analytics and advertisement platforms.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware groups test new business models to hit more victims, increase profits<a href="https://therecord.media/ransomware-groups-test-new-business-models-dragonforce-anubis?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DragonForce and Anubis are attempting to entice hackers to come and work with them by adopting affiliate models that would increase the volume of incidents their services can be used in.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian APT Gamaredon targets Ukraine with new LNK<a href="https://www.scworld.com/brief/russian-apt-gamaredon-targets-ukraine-with-new-lnk?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have uncovered a new campaign by the Russian-affiliated APT group Gamaredon, leveraging the PteroLNK variant of the Pterodo malware family to target Ukrainian military, government, and infrastructure sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Synology Network File System Vulnerability Allows Unauthorized File Access<a href="https://gbhackers.com/synology-network-file-system-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in Synology DiskStation Manager (DSM), tracked as CVE-2025-1021, allows unauthenticated remote attackers to access arbitrary files via the NFS service.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Deploy New Malware Disguised as Networking Software Updates<a href="https://gbhackers.com/new-malware-disguised-as-networking-software-updates/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated backdoor campaign is actively targeting Russian government, financial, and industrial sectors by masquerading as legitimate ViPNet software updates. The malware leverages trusted update mechanisms to infiltrate systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT34 Hackers Use Port 8080 for Fake 404 Responses and Shared SSH Keys<a href="https://gbhackers.com/apt34-hackers-use-port-8080-for-fake-404-responses/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have identified dormant but potentially malicious infrastructure linked to the Iranian threat group APT34 (OilRig), known for targeting sectors such as education, government, energy, telecom, and NGOs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AsyncRAT Abusing Python and TryCloudflare For Stealthy Malware Delivery<a href="https://gbhackers.com/asyncrat-abusing-python-and-trycloudflare/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated malware campaign has been exploiting Cloudflare’s tunnel infrastructure since at least February 2024 to distribute multiple Remote Access Trojans (RATs), including AsyncRAT.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SK Telecom warns customer USIM data exposed in malware attack<a href="https://www.bleepingcomputer.com/news/security/sk-telecom-warns-customer-usim-data-exposed-in-malware-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SK Telecom, South Korea’s largest mobile network operator, has disclosed a malware attack that compromised sensitive USIM-related customer data. The malware enabled access to USIM data, which typically includes IMSI, MSISDN, etc.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung One UI Vulnerability Leaks Sensitive Data in Plain Text With no expiration!<a href="https://gbhackers.com/samsung-one-ui-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant privacy vulnerability has been discovered in Samsung’s One UI clipboard history feature. The system stores all copied text—including passwords, 2FA codes, and personal data—in plain text indefinitely, without auto-expiry.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cookie-Bite: How Your Digital Crumbs Let Threat Actors Bypass MFA and Maintain Access to Cloud Environments<a href="https://www.varonis.com/blog/cookie-bite?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new proof-of-concept attack dubbed Cookie-Bite demonstrates how a malicious Chrome extension can steal Azure Entra ID session cookies to bypass multi-factor authentication (MFA) and maintain unauthorized access to Microsoft cloud services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 22, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

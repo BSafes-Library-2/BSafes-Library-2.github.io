@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2025
+April 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blue Shield of California leaked health data of 4.7 million members to Google<a href="https://www.bleepingcomputer.com/news/security/blue-shield-of-california-leaked-health-data-of-47-million-members-to-google/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Blue Shield of California disclosed it suffered a data breach after exposing protected health information of 4.7 million members to Google's analytics and advertisement platforms.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware groups test new business models to hit more victims, increase profits<a href="https://therecord.media/ransomware-groups-test-new-business-models-dragonforce-anubis?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DragonForce and Anubis are attempting to entice hackers to come and work with them by adopting affiliate models that would increase the volume of incidents their services can be used in.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian APT Gamaredon targets Ukraine with new LNK<a href="https://www.scworld.com/brief/russian-apt-gamaredon-targets-ukraine-with-new-lnk?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have uncovered a new campaign by the Russian-affiliated APT group Gamaredon, leveraging the PteroLNK variant of the Pterodo malware family to target Ukrainian military, government, and infrastructure sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Synology Network File System Vulnerability Allows Unauthorized File Access<a href="https://gbhackers.com/synology-network-file-system-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in Synology DiskStation Manager (DSM), tracked as CVE-2025-1021, allows unauthenticated remote attackers to access arbitrary files via the NFS service.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Deploy New Malware Disguised as Networking Software Updates<a href="https://gbhackers.com/new-malware-disguised-as-networking-software-updates/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated backdoor campaign is actively targeting Russian government, financial, and industrial sectors by masquerading as legitimate ViPNet software updates. The malware leverages trusted update mechanisms to infiltrate systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT34 Hackers Use Port 8080 for Fake 404 Responses and Shared SSH Keys<a href="https://gbhackers.com/apt34-hackers-use-port-8080-for-fake-404-responses/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have identified dormant but potentially malicious infrastructure linked to the Iranian threat group APT34 (OilRig), known for targeting sectors such as education, government, energy, telecom, and NGOs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AsyncRAT Abusing Python and TryCloudflare For Stealthy Malware Delivery<a href="https://gbhackers.com/asyncrat-abusing-python-and-trycloudflare/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated malware campaign has been exploiting Cloudflare’s tunnel infrastructure since at least February 2024 to distribute multiple Remote Access Trojans (RATs), including AsyncRAT.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SK Telecom warns customer USIM data exposed in malware attack<a href="https://www.bleepingcomputer.com/news/security/sk-telecom-warns-customer-usim-data-exposed-in-malware-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SK Telecom, South Korea’s largest mobile network operator, has disclosed a malware attack that compromised sensitive USIM-related customer data. The malware enabled access to USIM data, which typically includes IMSI, MSISDN, etc.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung One UI Vulnerability Leaks Sensitive Data in Plain Text With no expiration!<a href="https://gbhackers.com/samsung-one-ui-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant privacy vulnerability has been discovered in Samsung’s One UI clipboard history feature. The system stores all copied text—including passwords, 2FA codes, and personal data—in plain text indefinitely, without auto-expiry.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cookie-Bite: How Your Digital Crumbs Let Threat Actors Bypass MFA and Maintain Access to Cloud Environments<a href="https://www.varonis.com/blog/cookie-bite?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new proof-of-concept attack dubbed Cookie-Bite demonstrates how a malicious Chrome extension can steal Azure Entra ID session cookies to bypass multi-factor authentication (MFA) and maintain unauthorized access to Microsoft cloud services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Security Vulnerability Found in WordPress Plugin InstaWP Connect<a href="https://thecyberexpress.com/vulnerability-in-instawp-connect-plugin/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Critical Security Vulnerability Found in WordPress Plugin InstaWP Connect<a href
 The vulnerability, identified as CVE-2025-2636, specifically impacts older versions of the plugin. Versions prior to 0.1.0.88 are at risk. This security flaw enables unauthorized attackers to remotely execute malicious PHP code on affected websites.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2025
+April 22, 2025 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AI security firm Pillar raises $9m to secure the future of enterprise software<a href="https://fintech.global/2025/04/17/ai-security-firm-pillar-raises-9m-to-secure-the-future-of-enterprise-software/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ AI security firm Pillar raises $9m to secure the future of enterprise software<a
 The $9 million seed funding round for Pillar Security was led by Shield Capital, with participation from Golden Ventures, Ground Up Ventures, and a group of strategic angel investors.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+FinTech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2025
+April 22, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: $40bn Southeast Asian Scam Sector Growing “Like a Cancer”<a href="https://www.infosecurity-magazine.com/news/40bn-southeast-asia-scam-grow/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Report: $40bn Southeast Asian Scam Sector Growing “Like a Cancer”<a href="ht
 The findings are revealed in a new report from the UN Office on Drugs and Crime (UNODC), Inflection Point: Global Implications of Scam Centres, Underground Banking and Illicit Online Marketplaces in Southeast Asia.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+InfoSecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2025
+April 22, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PoC Released for Critical Unauthenticated Erlang/OTP RCE Vulnerability<a href="https://gbhackers.com/poc-released-for-erlang-otp-rce-vulnerability/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ PoC Released for Critical Unauthenticated Erlang/OTP RCE Vulnerability<a href="h
 The flaw (CVSSv3 10.0) stems from improper handling of SSH protocol messages, enabling attackers to bypass authentication and send malicious payloads during the connection phase.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2025
+April 22, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers claim breakthrough in fight against AI’s frustrating security hole<a href="https://arstechnica.com/information-technology/2025/04/researchers-claim-breakthrough-in-fight-against-ais-frustrating-security-hole/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Researchers claim breakthrough in fight against AI’s frustrating security hole
 Google DeepMind has unveiled CaMeL (CApabilities for MachinE Learning), a new approach to stopping prompt-injection attacks that abandons the failed strategy of having AI models police themselves.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ArsTechnica
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2025
+April 22, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 50k WordPress Sites at Takeover Risk Via Vulnerable Plugin<a href="https://securityonline.info/over-50k-wordpress-sites-at-takeover-risk-via-vulnerable-plugin/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Over 50k WordPress Sites at Takeover Risk Via Vulnerable Plugin<a href="https://
 Tracked as CVE-2025-3616 and carrying a CVSS score of 8.8, this flaw allows authenticated users — even those with mere subscriber-level access — to upload arbitrary files, including malicious PHP scripts, and execute them remotely.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2025
+April 22, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Malware Mimics Cisco Webex to Target Users in-the-Wild<a href="https://cybersecuritynews.com/malware-mimics-cisco-webex/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ New Malware Mimics Cisco Webex to Target Users in-the-Wild<a href="https://cyber
 According to researchers, the attack begins when victims are persuaded to click on malicious meeting links that exploit a vulnerability in Cisco Webex App’s custom URL parser.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2025
+April 22, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaw in Windows Update Stack Enables Code Execution and Privilege Escalation<a href="https://gbhackers.com/critical-flaw-in-windows-update-stack/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Critical Flaw in Windows Update Stack Enables Code Execution and Privilege Escal
 A newly discovered vulnerability in the Windows Update Stack, tracked as CVE-2025-21204, could enable attackers to execute arbitrary code and escalate privileges to SYSTEM level on targeted machines.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2025
+April 22, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: Microsoft Remains the Most Targeted Brand for Phishing Attacks in Q1 2025, Mastercard Makes a Comeback<a href="https://cxotoday.com/press-release/check-point-research-unveils-q1-2025-brand-phishing-trends-microsoft-dominates-as-top-target-mastercard-makes-a-comeback/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Report: Microsoft Remains the Most Targeted Brand for Phishing Attacks in Q1 202
 In Q1 2025, Microsoft maintained its position as the most targeted brand, accounting for 36% of all phishing attempts. Google surged to second place with 12%, while Apple remained in the top 3 with 8%.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CXO Today
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2025
+April 22, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical CVE-2025-1976 Vulnerability in Brocade Fabric OS Actively Exploited<a href="https://securityonline.info/critical-cve-2025-1976-vulnerability-in-brocade-fabric-os-actively-exploited/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Critical CVE-2025-1976 Vulnerability in Brocade Fabric OS Actively Exploited<a h
 A critical security vulnerability has been identified in Brocade Fabric OS, posing a significant risk to affected systems. The vulnerability could allow a local user with admin privileges to execute arbitrary code with full root privileges.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
