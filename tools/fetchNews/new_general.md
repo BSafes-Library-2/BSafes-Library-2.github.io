@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+April 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+9X Surge in Ivanti Connect Secure Scanning Activity<a href="https://www.greynoise.io/blog/surge-ivanti-connect-secure-scanning-activity?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A dramatic surge in reconnaissance activity has been detected targeting ICS and Pulse Secure VPN systems. GreyNoise reported a nine-fold increase in scanning activity, with over 1,000 unique IPs involved in the past 90 days.
+</details>
+<div style="text-align: right" markdown="1">
+Grey Noise
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 22, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
