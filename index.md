@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Push Security raises $30M to expand browser-based identity threat detection<a href="https://siliconangle.com/2025/04/24/push-security-raises-30m-expand-browser-based-identity-threat-detection/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Identity security company Push Security Ltd. announced today that it has raised $30 million. The Series B funding round was led by Redpoint Ventures, with Datadog Ventures also participating.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Darcula Adds GenAI to Phishing Toolkit, Lowering the Barrier for Cybercriminals<a href="https://thehackernews.com/2025/04/darcula-adds-genai-to-phishing-toolkit.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Darcula phishing-as-a-service (PhaaS) platform has introduced generative AI (GenAI) capabilities, significantly enhancing its accessibility and effectiveness for cybercriminals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack hits drinking water supplier in Spanish town near Barcelona<a href="https://therecord.media/cyberattack-water-supplier-barcelona-spain?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Aigües de Mataró, the municipal water utility serving the town of Mataró in Catalonia, Spain, has confirmed a cyberattack that disrupted its corporate IT systems and website.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Commvault Command Center Flaw Enables Attackers to Execute Code Remotely<a href="https://thehackernews.com/2025/04/critical-commvault-command-center-flaw.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability (CVE-2025-34028) in Commvault Command Center Innovation Release (versions 11.38.0 through 11.38.19) allows unauthenticated remote attackers to execute arbitrary code.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux 'io_uring' security blindspot allows stealthy rootkit attacks<a href="https://www.bleepingcomputer.com/news/security/linux-io-uring-security-blindspot-allows-stealthy-rootkit-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical security blind spot in the Linux kernel's io_uring interface enables stealthy rootkit attacks that bypass traditional runtime security tools. The io_uring interface supports 61 operation types.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Redis DoS Flaw Allows Attackers to Crash Servers or Drain Memory<a href="https://gbhackers.com/redis-dos-flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity DoS vulnerability in Redis, tracked as CVE-2025-21605, allows unauthenticated attackers to crash servers or exhaust memory by exploiting unlimited client output buffers. Redis versions 2.6 and above are affected.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+9X Surge in Ivanti Connect Secure Scanning Activity<a href="https://www.greynoise.io/blog/surge-ivanti-connect-secure-scanning-activity?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A dramatic surge in reconnaissance activity has been detected targeting ICS and Pulse Secure VPN systems. GreyNoise reported a nine-fold increase in scanning activity, with over 1,000 unique IPs involved in the past 90 days.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall SSLVPN Flaw Allows Hackers to Crash Firewalls Remotely<a href="https://gbhackers.com/sonicwall-sslvpn-flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall has disclosed a high-severity vulnerability (CVE-2025-32818) in its SSLVPN Virtual Office interface that allows unauthenticated attackers to remotely crash firewalls, causing denial-of-service (DoS) and widespread network disruptions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BBOT 2.1.0 - Local Privilege Escalation via Malicious Module	Execution<a href="https://seclists.org/fulldisclosure/2025/Apr/19?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A local privilege escalation vulnerability has been identified in BBOT version 2.1.0. When configured with sudo access, BBOT can be exploited to execute malicious Python modules, allowing attackers to escalate privileges and gain root access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DslogdRAT Malware Installed in Ivanti Connect Secure - JPCERT/CC Eyes<a href="https://blogs.jpcert.or.jp/en/2025/04/dslogdrat.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware, DslogdRAT, was deployed via a zero-day vulnerability in Ivanti Connect Secure during targeted attacks in Japan. The malware was installed using a Perl-based CGI web shell and exhibits advanced command-and-control capabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 23, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
