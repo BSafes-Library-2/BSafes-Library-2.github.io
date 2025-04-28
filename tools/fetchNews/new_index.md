@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2025
+April 26, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Identify Rack::Static Vulnerability Enabling Data Breaches in Ruby Servers<a href="https://thehackernews.com/2025/04/researchers-identify-rackstatic.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed three security flaws in the Rack Ruby web server interface that, if successfully exploited, could enable attackers to gain unauthorized access to files, inject malicious data, and tamper with logs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interlock ransomware gang started leaking data allegedly stolen from leading kidney dialysis firm DaVita<a href="https://securityaffairs.com/176946/cyber-crime/interlock-ransomware-gang-started-leaking-data-allegedly-stolen-from-leading-kidney-dialysis-firm-davita.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group claimed the theft of 1510 GB of sensitive data, including patient records, insurance, and financial information. Interlock leaked DaVita’s alleged stolen files on their data leak site.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation SyncHole: Lazarus APT targets supply chains in South Korea<a href="https://securityaffairs.com/176964/apt/operation-synchole-lazarus-apt-targets-supply-chains-in-south-korea.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign has been active since at least November 2024, Lazarus Group is targeting South Korean organizations using watering hole tactics and exploiting software vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data breach at Connecticut's Yale New Haven Health affects over 5 million<a href="https://techcrunch.com/2025/04/25/data-breach-at-connecticut-yale-new-haven-health-affects-over-5-million/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A data breach at Connecticut’s largest healthcare system Yale New Haven Health affects more than 5.5 million people, according to a legally required notice with the U.S. government’s health department.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Baltimore City Public Schools data breach affects over 31,000 people<a href="https://www.bleepingcomputer.com/news/security/baltimore-city-public-schools-data-breach-affects-over-31-000-people/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Baltimore City Public Schools notified tens of thousands of employees and students of a data breach following an incident in February when unknown attackers hacked into its network.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+M&S Shuts Down Online Orders Amid Ongoing Cyber Incident<a href="https://www.infosecurity-magazine.com/news/ms-shuts-down-online-orders/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Marks & Spencer has paused taking online orders as the British retailer continues to tackle an ongoing cyber incident. It is unclear when these services will be restored.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ELENOR-corp Ransomware Targets Healthcare Sector<a href="https://www.infosecurity-magazine.com/news/elenor-corp-ransomware-targets/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new variant of the Mimic ransomware, named ELENOR-corp (v7.5), has been identified in targeted attacks against the healthcare sector. It has been deployed in a series of attacks on healthcare organizations, leveraging aggressive techniques.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome Extension Uses AI Engine to Act Without User Input<a href="https://www.infosecurity-magazine.com/news/chrome-extension-ai-engine-act-mcp/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers from ExtensionTotal have discovered a Chrome extension capable of interacting with local Model Context Protocol (MCP) servers without user permission or detection by Chrome’s security mechanisms.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How NFC-Enabled POS Terminals Facilitate Cybercriminal Money Laundering Chains<a href="https://www.resecurity.com/blog/article/how-nfc-enabled-pos-terminals-facilitate-cybercriminal-money-laundering-chains?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese cybercriminals are especially active in NFC-enabled fraud and are known for their well-established money laundering chains across multiple continents. They arrange for an NFC-enabled POS terminal and a merchant account linked to it.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall security advisory (AV25-231) - Canadian Centre for Cyber Security<a href="https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av25-231?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall has released a security advisory (AV25-231), addressing a vulnerability affecting multiple SonicOS Gen7 and TZ series firewall products. Timely updates are essential to maintain network integrity and prevent unauthorized access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2025 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Push Security raises $30M to expand browser-based identity threat detection<a href="https://siliconangle.com/2025/04/24/push-security-raises-30m-expand-browser-based-identity-threat-detection/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Push Security raises $30M to expand browser-based identity threat detection<a hr
 Identity security company Push Security Ltd. announced today that it has raised $30 million. The Series B funding round was led by Redpoint Ventures, with Datadog Ventures also participating.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Silicon Angle
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2025
+April 24, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Darcula Adds GenAI to Phishing Toolkit, Lowering the Barrier for Cybercriminals<a href="https://thehackernews.com/2025/04/darcula-adds-genai-to-phishing-toolkit.html?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Darcula Adds GenAI to Phishing Toolkit, Lowering the Barrier for Cybercriminals<
 The Darcula phishing-as-a-service (PhaaS) platform has introduced generative AI (GenAI) capabilities, significantly enhancing its accessibility and effectiveness for cybercriminals.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2025
+April 24, 2025 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattack hits drinking water supplier in Spanish town near Barcelona<a href="https://therecord.media/cyberattack-water-supplier-barcelona-spain?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Cyberattack hits drinking water supplier in Spanish town near Barcelona<a href="
 Aigües de Mataró, the municipal water utility serving the town of Mataró in Catalonia, Spain, has confirmed a cyberattack that disrupted its corporate IT systems and website.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2025
+April 24, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Commvault Command Center Flaw Enables Attackers to Execute Code Remotely<a href="https://thehackernews.com/2025/04/critical-commvault-command-center-flaw.html?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Critical Commvault Command Center Flaw Enables Attackers to Execute Code Remotel
 A critical vulnerability (CVE-2025-34028) in Commvault Command Center Innovation Release (versions 11.38.0 through 11.38.19) allows unauthenticated remote attackers to execute arbitrary code.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2025
+April 24, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Linux 'io_uring' security blindspot allows stealthy rootkit attacks<a href="https://www.bleepingcomputer.com/news/security/linux-io-uring-security-blindspot-allows-stealthy-rootkit-attacks/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Linux 'io_uring' security blindspot allows stealthy rootkit attacks<a href="http
 A critical security blind spot in the Linux kernel's io_uring interface enables stealthy rootkit attacks that bypass traditional runtime security tools. The io_uring interface supports 61 operation types.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2025
+April 24, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Redis DoS Flaw Allows Attackers to Crash Servers or Drain Memory<a href="https://gbhackers.com/redis-dos-flaw/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Redis DoS Flaw Allows Attackers to Crash Servers or Drain Memory<a href="https:/
 A high-severity DoS vulnerability in Redis, tracked as CVE-2025-21605, allows unauthenticated attackers to crash servers or exhaust memory by exploiting unlimited client output buffers. Redis versions 2.6 and above are affected.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2025
+April 24, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 9X Surge in Ivanti Connect Secure Scanning Activity<a href="https://www.greynoise.io/blog/surge-ivanti-connect-secure-scanning-activity?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ April 24, 2025
 A dramatic surge in reconnaissance activity has been detected targeting ICS and Pulse Secure VPN systems. GreyNoise reported a nine-fold increase in scanning activity, with over 1,000 unique IPs involved in the past 90 days.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Grey Noise
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2025
+April 24, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SonicWall SSLVPN Flaw Allows Hackers to Crash Firewalls Remotely<a href="https://gbhackers.com/sonicwall-sslvpn-flaw/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ SonicWall SSLVPN Flaw Allows Hackers to Crash Firewalls Remotely<a href="https:/
 SonicWall has disclosed a high-severity vulnerability (CVE-2025-32818) in its SSLVPN Virtual Office interface that allows unauthenticated attackers to remotely crash firewalls, causing denial-of-service (DoS) and widespread network disruptions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2025
+April 24, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BBOT 2.1.0 - Local Privilege Escalation via Malicious Module	Execution<a href="https://seclists.org/fulldisclosure/2025/Apr/19?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ BBOT 2.1.0 - Local Privilege Escalation via Malicious Module	Execution<a href="h
 A local privilege escalation vulnerability has been identified in BBOT version 2.1.0. When configured with sudo access, BBOT can be exploited to execute malicious Python modules, allowing attackers to escalate privileges and gain root access.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Seclists
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2025
+April 24, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DslogdRAT Malware Installed in Ivanti Connect Secure - JPCERT/CC Eyes<a href="https://blogs.jpcert.or.jp/en/2025/04/dslogdrat.html?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ DslogdRAT Malware Installed in Ivanti Connect Secure - JPCERT/CC Eyes<a href="ht
 A new malware, DslogdRAT, was deployed via a zero-day vulnerability in Ivanti Connect Secure during targeted attacks in Japan. The malware was installed using a Perl-based CGI web shell and exhibits advanced command-and-control capabilities.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+JPCert
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
