@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 25, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How NFC-Enabled POS Terminals Facilitate Cybercriminal Money Laundering Chains<a href="https://www.resecurity.com/blog/article/how-nfc-enabled-pos-terminals-facilitate-cybercriminal-money-laundering-chains?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese cybercriminals are especially active in NFC-enabled fraud and are known for their well-established money laundering chains across multiple continents. They arrange for an NFC-enabled POS terminal and a merchant account linked to it.
+</details>
+<div style="text-align: right" markdown="1">
+RESecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 21, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

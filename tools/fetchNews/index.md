@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Identify Rack::Static Vulnerability Enabling Data Breaches in Ruby Servers<a href="https://thehackernews.com/2025/04/researchers-identify-rackstatic.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed three security flaws in the Rack Ruby web server interface that, if successfully exploited, could enable attackers to gain unauthorized access to files, inject malicious data, and tamper with logs.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interlock ransomware gang started leaking data allegedly stolen from leading kidney dialysis firm DaVita<a href="https://securityaffairs.com/176946/cyber-crime/interlock-ransomware-gang-started-leaking-data-allegedly-stolen-from-leading-kidney-dialysis-firm-davita.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group claimed the theft of 1510 GB of sensitive data, including patient records, insurance, and financial information. Interlock leaked DaVita’s alleged stolen files on their data leak site.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2025 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation SyncHole: Lazarus APT targets supply chains in South Korea<a href="https://securityaffairs.com/176964/apt/operation-synchole-lazarus-apt-targets-supply-chains-in-south-korea.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign has been active since at least November 2024, Lazarus Group is targeting South Korean organizations using watering hole tactics and exploiting software vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data breach at Connecticut's Yale New Haven Health affects over 5 million<a href="https://techcrunch.com/2025/04/25/data-breach-at-connecticut-yale-new-haven-health-affects-over-5-million/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A data breach at Connecticut’s largest healthcare system Yale New Haven Health affects more than 5.5 million people, according to a legally required notice with the U.S. government’s health department.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Baltimore City Public Schools data breach affects over 31,000 people<a href="https://www.bleepingcomputer.com/news/security/baltimore-city-public-schools-data-breach-affects-over-31-000-people/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Baltimore City Public Schools notified tens of thousands of employees and students of a data breach following an incident in February when unknown attackers hacked into its network.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2025 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+M&S Shuts Down Online Orders Amid Ongoing Cyber Incident<a href="https://www.infosecurity-magazine.com/news/ms-shuts-down-online-orders/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Marks & Spencer has paused taking online orders as the British retailer continues to tackle an ongoing cyber incident. It is unclear when these services will be restored.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ELENOR-corp Ransomware Targets Healthcare Sector<a href="https://www.infosecurity-magazine.com/news/elenor-corp-ransomware-targets/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new variant of the Mimic ransomware, named ELENOR-corp (v7.5), has been identified in targeted attacks against the healthcare sector. It has been deployed in a series of attacks on healthcare organizations, leveraging aggressive techniques.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome Extension Uses AI Engine to Act Without User Input<a href="https://www.infosecurity-magazine.com/news/chrome-extension-ai-engine-act-mcp/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers from ExtensionTotal have discovered a Chrome extension capable of interacting with local Model Context Protocol (MCP) servers without user permission or detection by Chrome’s security mechanisms.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How NFC-Enabled POS Terminals Facilitate Cybercriminal Money Laundering Chains<a href="https://www.resecurity.com/blog/article/how-nfc-enabled-pos-terminals-facilitate-cybercriminal-money-laundering-chains?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese cybercriminals are especially active in NFC-enabled fraud and are known for their well-established money laundering chains across multiple continents. They arrange for an NFC-enabled POS terminal and a merchant account linked to it.
+</details>
+<div style="text-align: right" markdown="1">
+RESecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall security advisory (AV25-231) - Canadian Centre for Cyber Security<a href="https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av25-231?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall has released a security advisory (AV25-231), addressing a vulnerability affecting multiple SonicOS Gen7 and TZ series firewall products. Timely updates are essential to maintain network integrity and prevent unauthorized access.
+</details>
+<div style="text-align: right" markdown="1">
+Canadian Centre for Cyber Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 24, 2025 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

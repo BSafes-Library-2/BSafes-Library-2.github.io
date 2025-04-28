@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+April 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Push Security raises $30M to expand browser-based identity threat detection<a href="https://siliconangle.com/2025/04/24/push-security-raises-30m-expand-browser-based-identity-threat-detection/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Identity security company Push Security Ltd. announced today that it has raised $30 million. The Series B funding round was led by Redpoint Ventures, with Datadog Ventures also participating.
+</details>
+<div style="text-align: right" markdown="1">
+Silicon Angle
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 22, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

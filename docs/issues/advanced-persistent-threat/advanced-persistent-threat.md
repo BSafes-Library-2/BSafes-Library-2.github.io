@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+April 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation SyncHole: Lazarus APT targets supply chains in South Korea<a href="https://securityaffairs.com/176964/apt/operation-synchole-lazarus-apt-targets-supply-chains-in-south-korea.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign has been active since at least November 2024, Lazarus Group is targeting South Korean organizations using watering hole tactics and exploiting software vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 23, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

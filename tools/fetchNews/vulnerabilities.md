@@ -8,6 +8,76 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Commvault Command Center Flaw Enables Attackers to Execute Code Remotely<a href="https://thehackernews.com/2025/04/critical-commvault-command-center-flaw.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability (CVE-2025-34028) in Commvault Command Center Innovation Release (versions 11.38.0 through 11.38.19) allows unauthenticated remote attackers to execute arbitrary code.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux 'io_uring' security blindspot allows stealthy rootkit attacks<a href="https://www.bleepingcomputer.com/news/security/linux-io-uring-security-blindspot-allows-stealthy-rootkit-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical security blind spot in the Linux kernel's io_uring interface enables stealthy rootkit attacks that bypass traditional runtime security tools. The io_uring interface supports 61 operation types.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Redis DoS Flaw Allows Attackers to Crash Servers or Drain Memory<a href="https://gbhackers.com/redis-dos-flaw/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity DoS vulnerability in Redis, tracked as CVE-2025-21605, allows unauthenticated attackers to crash servers or exhaust memory by exploiting unlimited client output buffers. Redis versions 2.6 and above are affected.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall SSLVPN Flaw Allows Hackers to Crash Firewalls Remotely<a href="https://gbhackers.com/sonicwall-sslvpn-flaw/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall has disclosed a high-severity vulnerability (CVE-2025-32818) in its SSLVPN Virtual Office interface that allows unauthenticated attackers to remotely crash firewalls, causing denial-of-service (DoS) and widespread network disruptions.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BBOT 2.1.0 - Local Privilege Escalation via Malicious Module	Execution<a href="https://seclists.org/fulldisclosure/2025/Apr/19?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A local privilege escalation vulnerability has been identified in BBOT version 2.1.0. When configured with sudo access, BBOT can be exploited to execute malicious Python modules, allowing attackers to escalate privileges and gain root access.
+</details>
+<div style="text-align: right" markdown="1">
+Seclists
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 23, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

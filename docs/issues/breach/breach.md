@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+April 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interlock ransomware gang started leaking data allegedly stolen from leading kidney dialysis firm DaVita<a href="https://securityaffairs.com/176946/cyber-crime/interlock-ransomware-gang-started-leaking-data-allegedly-stolen-from-leading-kidney-dialysis-firm-davita.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group claimed the theft of 1510 GB of sensitive data, including patient records, insurance, and financial information. Interlock leaked DaVita’s alleged stolen files on their data leak site.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data breach at Connecticut's Yale New Haven Health affects over 5 million<a href="https://techcrunch.com/2025/04/25/data-breach-at-connecticut-yale-new-haven-health-affects-over-5-million/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A data breach at Connecticut’s largest healthcare system Yale New Haven Health affects more than 5.5 million people, according to a legally required notice with the U.S. government’s health department.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Baltimore City Public Schools data breach affects over 31,000 people<a href="https://www.bleepingcomputer.com/news/security/baltimore-city-public-schools-data-breach-affects-over-31-000-people/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Baltimore City Public Schools notified tens of thousands of employees and students of a data breach following an incident in February when unknown attackers hacked into its network.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 23, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
