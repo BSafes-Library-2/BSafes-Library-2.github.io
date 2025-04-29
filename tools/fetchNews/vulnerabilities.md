@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Identify Rack::Static Vulnerability Enabling Data Breaches in Ruby Servers<a href="https://thehackernews.com/2025/04/researchers-identify-rackstatic.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed three security flaws in the Rack Ruby web server interface that, if successfully exploited, could enable attackers to gain unauthorized access to files, inject malicious data, and tamper with logs.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 25, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall security advisory (AV25-231) - Canadian Centre for Cyber Security<a href="https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av25-231?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall has released a security advisory (AV25-231), addressing a vulnerability affecting multiple SonicOS Gen7 and TZ series firewall products. Timely updates are essential to maintain network integrity and prevent unauthorized access.
+</details>
+<div style="text-align: right" markdown="1">
+Canadian Centre for Cyber Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 24, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

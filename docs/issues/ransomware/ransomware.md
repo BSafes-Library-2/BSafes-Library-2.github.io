@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 28, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VerdaCrypt: The PowerShell Ransomware That Thinks It’s a Philosophy Professor<a href="https://medium.com/@smith_brendan/verdacrypt-the-powershell-ransomware-that-thinks-its-a-philosophy-professor-40c41fed0fbe?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VerdaCrypt is a sophisticated PowerShell-based ransomware that blends technical stealth with psychological manipulation. Active since April 2025, it operates filelessly and delivers ransom notes filled with philosophical musings.
+</details>
+<div style="text-align: right" markdown="1">
+Smith Brendan
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 25, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

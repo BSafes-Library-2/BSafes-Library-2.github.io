@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 25, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ELENOR-corp Ransomware Targets Healthcare Sector<a href="https://www.infosecurity-magazine.com/news/elenor-corp-ransomware-targets/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new variant of the Mimic ransomware, named ELENOR-corp (v7.5), has been identified in targeted attacks against the healthcare sector. It has been deployed in a series of attacks on healthcare organizations, leveraging aggressive techniques.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 23, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
