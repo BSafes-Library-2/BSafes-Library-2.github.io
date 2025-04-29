@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2025
+April 28, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare mitigates record number of DDoS attacks in 2025<a href="https://www.bleepingcomputer.com/news/security/cloudflare-mitigates-record-number-of-ddos-attacks-in-2025/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloudflare has reported a record-breaking surge in DDoS attacks, mitigating 21.3 million attacks in 2024—a 358% year-over-year (YoY) increase—and already handling 20.5 million attacks in Q1 2025 alone.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Viasat Modems Zero-Day Vulnerabilities Let Attackers Execute Remote Code<a href="https://gbhackers.com/viasat-modems-zero-day-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A severe zero-day vulnerability has been uncovered in multiple Viasat satellite modem models, including the RM4100, RM4200, EM4100, RM5110, RM5111, RG1000, RG1100, EG1000, and EG1020.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical FastCGI Library Flaw Exposes Embedded Devices to Code Execution<a href="https://gbhackers.com/critical-fastcgi-library-flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability (CVE-2025-23016) in the FastCGI library threatens embedded and IoT devices with remote code execution. The flaw, located in the ReadParams function, allows attackers to exploit heap buffer overflows.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+iOS and Android juice jacking defenses have been trivial to bypass for years<a href="https://arstechnica.com/security/2025/04/ios-and-android-juice-jacking-defenses-have-been-trivial-to-bypass-for-years/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have revealed that the defenses implemented by Apple and Google against "juice jacking" attacks have been fundamentally flawed. The input establishes a Bluetooth connection to a second miniaturized keyboard inside the malicious charger.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+JokerOTP Dismantled After 28,000 Phishing Attacks, 2 Arrested<a href="https://hackread.com/jokerotp-dismantled-28000-phishing-attacks-2-arrested/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two individuals have been arrested in a joint international operation dismantling JokerOTP, a sophisticated phishing tool used to intercept 2FA codes and steal over £7.5 million.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+React Router Vulnerabilities Allow Attackers to Spoof Content and Alter Values<a href="https://gbhackers.com/react-router-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two high-severity vulnerabilities (CVE-2025-43864 and CVE-2025-43865) have been identified in the React Router library, affecting versions 7.0.0 to 7.5.1. Developers must update to version 7.5.2 immediately.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NVIDIA Riva Vulnerabilities Leave AI-Powered Speech and Translation Services at Risk<a href="https://www.trendmicro.com/en_us/research/25/d/nvidia-riva-vulnerabilities.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro Research identified two vulnerabilities (CVE-2025-23242 and CVE-2025-23243) in NVIDIA Riva deployments, exposing AI-powered speech and translation services to unauthorized access, resource abuse, and intellectual property theft.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PII Disclosure<a href="https://infosecwriteups.com/chaining-csrf-and-an-open-redirect-leads-to-sensitive-information-disclosure-5915b24bc53b?source=rss----7b722bfd1b8d--bug_bounty?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability chain involving CORS misconfiguration, CSRF, and open redirect flaws was discovered, potentially exposing sensitive PII for approximately 170,000 users.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AgeoStealer: How Social Engineering Targets Gamers<a href="https://flashpoint.io/blog/ageostealer-how-social-engineering-targets-gamers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Instead of relying on traditional malware distribution channels, the threat actors behind AgeoStealer leverage a popular communication platform among gamers to directly contact victims to test their video game.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VerdaCrypt: The PowerShell Ransomware That Thinks It’s a Philosophy Professor<a href="https://medium.com/@smith_brendan/verdacrypt-the-powershell-ransomware-that-thinks-its-a-philosophy-professor-40c41fed0fbe?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VerdaCrypt is a sophisticated PowerShell-based ransomware that blends technical stealth with psychological manipulation. Active since April 2025, it operates filelessly and delivers ransom notes filled with philosophical musings.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Identify Rack::Static Vulnerability Enabling Data Breaches in Ruby Servers<a href="https://thehackernews.com/2025/04/researchers-identify-rackstatic.html?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Researchers Identify Rack::Static Vulnerability Enabling Data Breaches in Ruby S
 Cybersecurity researchers have disclosed three security flaws in the Rack Ruby web server interface that, if successfully exploited, could enable attackers to gain unauthorized access to files, inject malicious data, and tamper with logs.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2025
+April 26, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Interlock ransomware gang started leaking data allegedly stolen from leading kidney dialysis firm DaVita<a href="https://securityaffairs.com/176946/cyber-crime/interlock-ransomware-gang-started-leaking-data-allegedly-stolen-from-leading-kidney-dialysis-firm-davita.html?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Interlock ransomware gang started leaking data allegedly stolen from leading kid
 The group claimed the theft of 1510 GB of sensitive data, including patient records, insurance, and financial information. Interlock leaked DaVita’s alleged stolen files on their data leak site.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2025
+April 26, 2025 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Operation SyncHole: Lazarus APT targets supply chains in South Korea<a href="https://securityaffairs.com/176964/apt/operation-synchole-lazarus-apt-targets-supply-chains-in-south-korea.html?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Operation SyncHole: Lazarus APT targets supply chains in South Korea<a href="htt
 The campaign has been active since at least November 2024, Lazarus Group is targeting South Korean organizations using watering hole tactics and exploiting software vulnerabilities.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2025
+April 26, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data breach at Connecticut's Yale New Haven Health affects over 5 million<a href="https://techcrunch.com/2025/04/25/data-breach-at-connecticut-yale-new-haven-health-affects-over-5-million/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Data breach at Connecticut's Yale New Haven Health affects over 5 million<a href
 A data breach at Connecticut’s largest healthcare system Yale New Haven Health affects more than 5.5 million people, according to a legally required notice with the U.S. government’s health department.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Tech Crunch
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2025
+April 26, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Baltimore City Public Schools data breach affects over 31,000 people<a href="https://www.bleepingcomputer.com/news/security/baltimore-city-public-schools-data-breach-affects-over-31-000-people/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Baltimore City Public Schools data breach affects over 31,000 people<a href="htt
 Baltimore City Public Schools notified tens of thousands of employees and students of a data breach following an incident in February when unknown attackers hacked into its network.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2025
+April 25, 2025 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 M&S Shuts Down Online Orders Amid Ongoing Cyber Incident<a href="https://www.infosecurity-magazine.com/news/ms-shuts-down-online-orders/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ M&S Shuts Down Online Orders Amid Ongoing Cyber Incident<a href="https://www.inf
 Marks & Spencer has paused taking online orders as the British retailer continues to tackle an ongoing cyber incident. It is unclear when these services will be restored.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2025
+April 25, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ELENOR-corp Ransomware Targets Healthcare Sector<a href="https://www.infosecurity-magazine.com/news/elenor-corp-ransomware-targets/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ ELENOR-corp Ransomware Targets Healthcare Sector<a href="https://www.infosecurit
 A new variant of the Mimic ransomware, named ELENOR-corp (v7.5), has been identified in targeted attacks against the healthcare sector. It has been deployed in a series of attacks on healthcare organizations, leveraging aggressive techniques.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2025
+April 25, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chrome Extension Uses AI Engine to Act Without User Input<a href="https://www.infosecurity-magazine.com/news/chrome-extension-ai-engine-act-mcp/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Chrome Extension Uses AI Engine to Act Without User Input<a href="https://www.in
 Security researchers from ExtensionTotal have discovered a Chrome extension capable of interacting with local Model Context Protocol (MCP) servers without user permission or detection by Chrome’s security mechanisms.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2025
+April 25, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How NFC-Enabled POS Terminals Facilitate Cybercriminal Money Laundering Chains<a href="https://www.resecurity.com/blog/article/how-nfc-enabled-pos-terminals-facilitate-cybercriminal-money-laundering-chains?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ How NFC-Enabled POS Terminals Facilitate Cybercriminal Money Laundering Chains<a
 Chinese cybercriminals are especially active in NFC-enabled fraud and are known for their well-established money laundering chains across multiple continents. They arrange for an NFC-enabled POS terminal and a merchant account linked to it.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+RESecurity
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2025
+April 25, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SonicWall security advisory (AV25-231) - Canadian Centre for Cyber Security<a href="https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av25-231?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ SonicWall security advisory (AV25-231) - Canadian Centre for Cyber Security<a hr
 SonicWall has released a security advisory (AV25-231), addressing a vulnerability affecting multiple SonicOS Gen7 and TZ series firewall products. Timely updates are essential to maintain network integrity and prevent unauthorized access.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Canadian Centre for Cyber Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
