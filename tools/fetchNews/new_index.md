@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2025
+April 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spike in Git Configuration Crawling Highlights Risk of Codebase Exposure<a href="https://www.greynoise.io/blog/spike-git-configuration-crawling-risk-codebase-exposure?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A major spike in cyber reconnaissance was observed between April 20–21, 2025, with over 4,800 unique IPs attempting to access Git configuration files. This marked the fourth and largest such spike since September 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French BEC Threat Actor Targets Property Payments<a href="https://www.proofpoint.com/us/blog/threat-insight/security-brief-french-bec-threat-actor-targets-property-payments?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TA2900, is targeting French-speaking individuals with fraudulent rental payment schemes. The campaigns are designed to steal funds by impersonating rental agencies and redirecting rent payments to attacker-controlled bank accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux Kernel Exploitation<a href="https://hoefler.dev/articles/vsock.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in the Linux kernel, CVE-2025-21756 and dubbed Attack of the Vsock, allows local attackers to escalate privileges to root. The flaw resides in VMware vsock driver and affects systems using vsock for inter-VM communication.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of Apple Airplay-Enabled Devices Can Be Hacked via Wi-Fi<a href="https://www.wired.com/story/airborne-airplay-flaws/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Newly discovered vulnerabilities in Apple’s AirPlay protocol could allow attackers to move laterally across networks via Wi-Fi, spreading malware between devices. These pose a risk by enabling attackers to exploit wireless connections.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Finding Minhook in a sideloading attack – and Sweden too<a href="https://news.sophos.com/en-us/2025/04/29/finding-minhook-in-a-sideloading-attack-and-sweden-too/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sideloading campaign active from late 2023 to early 2024 targeted organisations in East Asia and later Sweden, delivering Cobalt Strike payloads via legitimate Windows executables and malicious DLLs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Outlaw botnet detected in an incident contained by Kaspersky<a href="https://securelist.com/outlaw-botnet/116444/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Outlaw (also known as “Dota”) is a Perl-based crypto mining botnet that typically takes advantage of weak or default SSH credentials for its operations. Telemetry data showed victims across the US, Germany, Italy, Thailand, and more.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Uyghur Diaspora Group Targeted with Remote Surveillance Malware<a href="https://www.infosecurity-magazine.com/news/uyghur-diaspora-surveillance/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A targeted spear phishing campaign has been uncovered against senior members of the World Uyghur Congress (WUC), aiming to deploy surveillance malware. The malware was delivered through a trojanized version of UyghurEditPP.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Technical Malware Analysis Report: Python-based RAT Malware<a href="https://www.cyfirma.com/research/technical-malware-analysis-report-python-based-rat-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered Python-based Remote Access Trojan (RAT) leverages Discord as its command-and-control (C2) platform, transforming the popular communication tool into a hub for malicious operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HANNIBAL Stealer: A Rebranded Threat Born from Sharp and TX Lineage - CYFIRMA<a href="https://www.cyfirma.com/research/hannibal-stealer-a-rebranded-threat-born-from-sharp-and-tx-lineage/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hannibal Stealer is a newly surfaced malware, identified as a cracked and rebranded variant of the Sharp and TX stealers, promoted by the reverse engineering group ‘llcppc_reverse.’
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang says it hacked the Malaysia's Kuala Lumpur International Airport<a href="https://www.comparitech.com/news/ransomware-gang-says-it-hacked-the-malaysias-kuala-lumpur-international-airport/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware group Qilin (also known as Agenda) claimed responsibility for a cyberattack on Kuala Lumpur International Airport (KLIA) in Malaysia. The attack disrupted flight information displays, check-in counters, and baggage handling systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2025 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloudflare mitigates record number of DDoS attacks in 2025<a href="https://www.bleepingcomputer.com/news/security/cloudflare-mitigates-record-number-of-ddos-attacks-in-2025/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Cloudflare mitigates record number of DDoS attacks in 2025<a href="https://www.b
 Cloudflare has reported a record-breaking surge in DDoS attacks, mitigating 21.3 million attacks in 2024—a 358% year-over-year (YoY) increase—and already handling 20.5 million attacks in Q1 2025 alone.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2025
+April 28, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Viasat Modems Zero-Day Vulnerabilities Let Attackers Execute Remote Code<a href="https://gbhackers.com/viasat-modems-zero-day-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Viasat Modems Zero-Day Vulnerabilities Let Attackers Execute Remote Code<a href=
 A severe zero-day vulnerability has been uncovered in multiple Viasat satellite modem models, including the RM4100, RM4200, EM4100, RM5110, RM5111, RG1000, RG1100, EG1000, and EG1020.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2025
+April 28, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical FastCGI Library Flaw Exposes Embedded Devices to Code Execution<a href="https://gbhackers.com/critical-fastcgi-library-flaw/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Critical FastCGI Library Flaw Exposes Embedded Devices to Code Execution<a href=
 A critical vulnerability (CVE-2025-23016) in the FastCGI library threatens embedded and IoT devices with remote code execution. The flaw, located in the ReadParams function, allows attackers to exploit heap buffer overflows.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2025
+April 28, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 iOS and Android juice jacking defenses have been trivial to bypass for years<a href="https://arstechnica.com/security/2025/04/ios-and-android-juice-jacking-defenses-have-been-trivial-to-bypass-for-years/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ iOS and Android juice jacking defenses have been trivial to bypass for years<a h
 Researchers have revealed that the defenses implemented by Apple and Google against "juice jacking" attacks have been fundamentally flawed. The input establishes a Bluetooth connection to a second miniaturized keyboard inside the malicious charger.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ArsTechnica
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2025
+April 28, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 JokerOTP Dismantled After 28,000 Phishing Attacks, 2 Arrested<a href="https://hackread.com/jokerotp-dismantled-28000-phishing-attacks-2-arrested/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ JokerOTP Dismantled After 28,000 Phishing Attacks, 2 Arrested<a href="https://ha
 Two individuals have been arrested in a joint international operation dismantling JokerOTP, a sophisticated phishing tool used to intercept 2FA codes and steal over £7.5 million.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+HackRead
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2025
+April 28, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 React Router Vulnerabilities Allow Attackers to Spoof Content and Alter Values<a href="https://gbhackers.com/react-router-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ React Router Vulnerabilities Allow Attackers to Spoof Content and Alter Values<a
 Two high-severity vulnerabilities (CVE-2025-43864 and CVE-2025-43865) have been identified in the React Router library, affecting versions 7.0.0 to 7.5.1. Developers must update to version 7.5.2 immediately.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2025
+April 28, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NVIDIA Riva Vulnerabilities Leave AI-Powered Speech and Translation Services at Risk<a href="https://www.trendmicro.com/en_us/research/25/d/nvidia-riva-vulnerabilities.html?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ NVIDIA Riva Vulnerabilities Leave AI-Powered Speech and Translation Services at 
 Trend Micro Research identified two vulnerabilities (CVE-2025-23242 and CVE-2025-23243) in NVIDIA Riva deployments, exposing AI-powered speech and translation services to unauthorized access, resource abuse, and intellectual property theft.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Trend Micro
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2025
+April 28, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PII Disclosure<a href="https://infosecwriteups.com/chaining-csrf-and-an-open-redirect-leads-to-sensitive-information-disclosure-5915b24bc53b?source=rss----7b722bfd1b8d--bug_bounty?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ PII Disclosure<a href="https://infosecwriteups.com/chaining-csrf-and-an-open-red
 A critical vulnerability chain involving CORS misconfiguration, CSRF, and open redirect flaws was discovered, potentially exposing sensitive PII for approximately 170,000 users.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosec Writeups
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2025
+April 28, 2025 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AgeoStealer: How Social Engineering Targets Gamers<a href="https://flashpoint.io/blog/ageostealer-how-social-engineering-targets-gamers/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ AgeoStealer: How Social Engineering Targets Gamers<a href="https://flashpoint.io
 Instead of relying on traditional malware distribution channels, the threat actors behind AgeoStealer leverage a popular communication platform among gamers to directly contact victims to test their video game.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Flash Point
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2025
+April 28, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VerdaCrypt: The PowerShell Ransomware That Thinks It’s a Philosophy Professor<a href="https://medium.com/@smith_brendan/verdacrypt-the-powershell-ransomware-that-thinks-its-a-philosophy-professor-40c41fed0fbe?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ VerdaCrypt: The PowerShell Ransomware That Thinks It’s a Philosophy Professor<
 VerdaCrypt is a sophisticated PowerShell-based ransomware that blends technical stealth with psychological manipulation. Active since April 2025, it operates filelessly and delivers ransom notes filled with philosophical musings.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Smith Brendan
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
