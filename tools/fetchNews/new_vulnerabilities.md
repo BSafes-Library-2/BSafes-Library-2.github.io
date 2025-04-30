@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 29, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux Kernel Exploitation<a href="https://hoefler.dev/articles/vsock.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in the Linux kernel, CVE-2025-21756 and dubbed Attack of the Vsock, allows local attackers to escalate privileges to root. The flaw resides in VMware vsock driver and affects systems using vsock for inter-VM communication.
+</details>
+<div style="text-align: right" markdown="1">
+Hoefler
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of Apple Airplay-Enabled Devices Can Be Hacked via Wi-Fi<a href="https://www.wired.com/story/airborne-airplay-flaws/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Newly discovered vulnerabilities in Apple’s AirPlay protocol could allow attackers to move laterally across networks via Wi-Fi, spreading malware between devices. These pose a risk by enabling attackers to exploit wireless connections.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 28, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

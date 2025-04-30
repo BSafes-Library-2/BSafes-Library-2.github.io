@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 29, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Uyghur Diaspora Group Targeted with Remote Surveillance Malware<a href="https://www.infosecurity-magazine.com/news/uyghur-diaspora-surveillance/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A targeted spear phishing campaign has been uncovered against senior members of the World Uyghur Congress (WUC), aiming to deploy surveillance malware. The malware was delivered through a trojanized version of UyghurEditPP.
+</details>
+<div style="text-align: right" markdown="1">
+InfoSecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 24, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

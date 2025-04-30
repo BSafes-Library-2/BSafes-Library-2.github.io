@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spike in Git Configuration Crawling Highlights Risk of Codebase Exposure<a href="https://www.greynoise.io/blog/spike-git-configuration-crawling-risk-codebase-exposure?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A major spike in cyber reconnaissance was observed between April 20–21, 2025, with over 4,800 unique IPs attempting to access Git configuration files. This marked the fourth and largest such spike since September 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Grey Noise
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French BEC Threat Actor Targets Property Payments<a href="https://www.proofpoint.com/us/blog/threat-insight/security-brief-french-bec-threat-actor-targets-property-payments?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TA2900, is targeting French-speaking individuals with fraudulent rental payment schemes. The campaigns are designed to steal funds by impersonating rental agencies and redirecting rent payments to attacker-controlled bank accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Proof Point
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux Kernel Exploitation<a href="https://hoefler.dev/articles/vsock.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in the Linux kernel, CVE-2025-21756 and dubbed Attack of the Vsock, allows local attackers to escalate privileges to root. The flaw resides in VMware vsock driver and affects systems using vsock for inter-VM communication.
+</details>
+<div style="text-align: right" markdown="1">
+Hoefler
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of Apple Airplay-Enabled Devices Can Be Hacked via Wi-Fi<a href="https://www.wired.com/story/airborne-airplay-flaws/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Newly discovered vulnerabilities in Apple’s AirPlay protocol could allow attackers to move laterally across networks via Wi-Fi, spreading malware between devices. These pose a risk by enabling attackers to exploit wireless connections.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Finding Minhook in a sideloading attack – and Sweden too<a href="https://news.sophos.com/en-us/2025/04/29/finding-minhook-in-a-sideloading-attack-and-sweden-too/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sideloading campaign active from late 2023 to early 2024 targeted organisations in East Asia and later Sweden, delivering Cobalt Strike payloads via legitimate Windows executables and malicious DLLs.
+</details>
+<div style="text-align: right" markdown="1">
+Sophos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2025 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Outlaw botnet detected in an incident contained by Kaspersky<a href="https://securelist.com/outlaw-botnet/116444/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Outlaw (also known as “Dota”) is a Perl-based crypto mining botnet that typically takes advantage of weak or default SSH credentials for its operations. Telemetry data showed victims across the US, Germany, Italy, Thailand, and more.
+</details>
+<div style="text-align: right" markdown="1">
+Secure List
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Uyghur Diaspora Group Targeted with Remote Surveillance Malware<a href="https://www.infosecurity-magazine.com/news/uyghur-diaspora-surveillance/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A targeted spear phishing campaign has been uncovered against senior members of the World Uyghur Congress (WUC), aiming to deploy surveillance malware. The malware was delivered through a trojanized version of UyghurEditPP.
+</details>
+<div style="text-align: right" markdown="1">
+InfoSecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Technical Malware Analysis Report: Python-based RAT Malware<a href="https://www.cyfirma.com/research/technical-malware-analysis-report-python-based-rat-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered Python-based Remote Access Trojan (RAT) leverages Discord as its command-and-control (C2) platform, transforming the popular communication tool into a hub for malicious operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyfirma
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HANNIBAL Stealer: A Rebranded Threat Born from Sharp and TX Lineage - CYFIRMA<a href="https://www.cyfirma.com/research/hannibal-stealer-a-rebranded-threat-born-from-sharp-and-tx-lineage/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hannibal Stealer is a newly surfaced malware, identified as a cracked and rebranded variant of the Sharp and TX stealers, promoted by the reverse engineering group ‘llcppc_reverse.’
+</details>
+<div style="text-align: right" markdown="1">
+Cyfirma
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2025 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang says it hacked the Malaysia's Kuala Lumpur International Airport<a href="https://www.comparitech.com/news/ransomware-gang-says-it-hacked-the-malaysias-kuala-lumpur-international-airport/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware group Qilin (also known as Agenda) claimed responsibility for a cyberattack on Kuala Lumpur International Airport (KLIA) in Malaysia. The attack disrupted flight information displays, check-in counters, and baggage handling systems.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 28, 2025 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

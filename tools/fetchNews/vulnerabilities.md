@@ -8,6 +8,90 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 28, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Viasat Modems Zero-Day Vulnerabilities Let Attackers Execute Remote Code<a href="https://gbhackers.com/viasat-modems-zero-day-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A severe zero-day vulnerability has been uncovered in multiple Viasat satellite modem models, including the RM4100, RM4200, EM4100, RM5110, RM5111, RG1000, RG1100, EG1000, and EG1020.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical FastCGI Library Flaw Exposes Embedded Devices to Code Execution<a href="https://gbhackers.com/critical-fastcgi-library-flaw/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability (CVE-2025-23016) in the FastCGI library threatens embedded and IoT devices with remote code execution. The flaw, located in the ReadParams function, allows attackers to exploit heap buffer overflows.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+iOS and Android juice jacking defenses have been trivial to bypass for years<a href="https://arstechnica.com/security/2025/04/ios-and-android-juice-jacking-defenses-have-been-trivial-to-bypass-for-years/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have revealed that the defenses implemented by Apple and Google against "juice jacking" attacks have been fundamentally flawed. The input establishes a Bluetooth connection to a second miniaturized keyboard inside the malicious charger.
+</details>
+<div style="text-align: right" markdown="1">
+ArsTechnica
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+React Router Vulnerabilities Allow Attackers to Spoof Content and Alter Values<a href="https://gbhackers.com/react-router-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two high-severity vulnerabilities (CVE-2025-43864 and CVE-2025-43865) have been identified in the React Router library, affecting versions 7.0.0 to 7.5.1. Developers must update to version 7.5.2 immediately.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NVIDIA Riva Vulnerabilities Leave AI-Powered Speech and Translation Services at Risk<a href="https://www.trendmicro.com/en_us/research/25/d/nvidia-riva-vulnerabilities.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro Research identified two vulnerabilities (CVE-2025-23242 and CVE-2025-23243) in NVIDIA Riva deployments, exposing AI-powered speech and translation services to unauthorized access, resource abuse, and intellectual property theft.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PII Disclosure<a href="https://infosecwriteups.com/chaining-csrf-and-an-open-redirect-leads-to-sensitive-information-disclosure-5915b24bc53b?source=rss----7b722bfd1b8d--bug_bounty?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability chain involving CORS misconfiguration, CSRF, and open redirect flaws was discovered, potentially exposing sensitive PII for approximately 170,000 users.
+</details>
+<div style="text-align: right" markdown="1">
+Infosec Writeups
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 26, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
