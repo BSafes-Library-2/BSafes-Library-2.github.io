@@ -8,6 +8,104 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PowerDNS DNSdist 1.9.9 released, fixing CVE-2025-30194<a href="https://blog.powerdns.com/2025/04/29/powerdns-dnsdist-1.9.9-released?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability (CVE-2025-30194) has been identified in PowerDNS DNSdist versions 1.9.0 to 1.9.8, allowing remote attackers to trigger a denial-of-service (DoS) condition when DNS-over-HTTPS (DoH) is configured using the nghttp2 provider.
+</details>
+<div style="text-align: right" markdown="1">
+Power DNS
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome 136 Released With Patch For 20-Year-Old Privacy Vulnerability<a href="https://cybersecuritynews.com/chrome-136-released/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome 136 for Windows, Mac, and Linux, introducing critical privacy and security enhancements. The update addresses a 23-year-old privacy flaw and patches multiple vulnerabilities, including a critical heap buffer overflow.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Exploit OAuth Misconfigurations to Gain Unrestricted Access to Sensitive Data<a href="https://gbhackers.com/researchers-exploit-oauth-misconfigurations-to-gain-unrestricted-access/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher discovered a critical OAuth2 misconfiguration vulnerability. The flaw allowed unauthorized access to sensitive user and business data due to exposed client credentials and a lack of access controls.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zimbra Collaboration GraphQL Flaw Lets Hackers Steal User Information<a href="https://gbhackers.com/zimbra-collaboration-graphql-flaw/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical Cross-Site Request Forgery (CSRF) vulnerability, tracked as CVE-2025-32354, has been identified in Zimbra Collaboration Suite (ZCS) versions 9.0 to 10.1. The flaw resides in the GraphQL endpoint (/service/extension/graphql).
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Docker Registry Vulnerability Lets macOS Users Access Any Registry Without Authorization<a href="https://gbhackers.com/docker-registry-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A medium-severity vulnerability (CVE-2025-4095) in Docker Desktop for macOS allows authenticated users to bypass Registry Access Management (RAM) policies and access unapproved container registries.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache Tomcat security advisory (AV25-239)<a href="https://www.cyber.gc.ca/en/alerts-advisories/apache-tomcat-security-advisory-av25-239?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apache has released security advisories addressing vulnerabilities in multiple versions of Apache Tomcat. Users and administrators are urged to review the advisories and apply the necessary updates to maintain system security.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GPUAF: Two Methods to Root Qualcomm-Based Android Phones<a href="https://gbhackers.com/two-methods-to-root-qualcomm-based-android-phones/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have uncovered two critical vulnerabilities—CVE-2024-23380 and CVE-2024-23373—in Qualcomm GPU drivers, affecting a wide range of Android devices from manufacturers such as Samsung, Xiaomi, Honor, and Vivo.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 29, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+April 29, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Outlaw botnet detected in an incident contained by Kaspersky<a href="https://securelist.com/outlaw-botnet/116444/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Outlaw (also known as “Dota”) is a Perl-based crypto mining botnet that typically takes advantage of weak or default SSH credentials for its operations. Telemetry data showed victims across the US, Germany, Italy, Thailand, and more.
+</details>
+<div style="text-align: right" markdown="1">
+Secure List
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 10, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

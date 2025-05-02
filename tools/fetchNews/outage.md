@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+April 29, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang says it hacked the Malaysia's Kuala Lumpur International Airport<a href="https://www.comparitech.com/news/ransomware-gang-says-it-hacked-the-malaysias-kuala-lumpur-international-airport/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware group Qilin (also known as Agenda) claimed responsibility for a cyberattack on Kuala Lumpur International Airport (KLIA) in Malaysia. The attack disrupted flight information displays, check-in counters, and baggage handling systems.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 25, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

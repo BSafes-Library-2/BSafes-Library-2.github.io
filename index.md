@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2025
+April 30, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PowerDNS DNSdist 1.9.9 released, fixing CVE-2025-30194<a href="https://blog.powerdns.com/2025/04/29/powerdns-dnsdist-1.9.9-released?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ PowerDNS DNSdist 1.9.9 released, fixing CVE-2025-30194<a href="https://blog.powe
 A critical vulnerability (CVE-2025-30194) has been identified in PowerDNS DNSdist versions 1.9.0 to 1.9.8, allowing remote attackers to trigger a denial-of-service (DoS) condition when DNS-over-HTTPS (DoH) is configured using the nghttp2 provider.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Power DNS
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2025
+April 30, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chrome 136 Released With Patch For 20-Year-Old Privacy Vulnerability<a href="https://cybersecuritynews.com/chrome-136-released/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Chrome 136 Released With Patch For 20-Year-Old Privacy Vulnerability<a href="htt
 Google has released Chrome 136 for Windows, Mac, and Linux, introducing critical privacy and security enhancements. The update addresses a 23-year-old privacy flaw and patches multiple vulnerabilities, including a critical heap buffer overflow.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2025
+April 30, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Exploit OAuth Misconfigurations to Gain Unrestricted Access to Sensitive Data<a href="https://gbhackers.com/researchers-exploit-oauth-misconfigurations-to-gain-unrestricted-access/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Researchers Exploit OAuth Misconfigurations to Gain Unrestricted Access to Sensi
 A researcher discovered a critical OAuth2 misconfiguration vulnerability. The flaw allowed unauthorized access to sensitive user and business data due to exposed client credentials and a lack of access controls.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2025
+April 30, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zimbra Collaboration GraphQL Flaw Lets Hackers Steal User Information<a href="https://gbhackers.com/zimbra-collaboration-graphql-flaw/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Zimbra Collaboration GraphQL Flaw Lets Hackers Steal User Information<a href="ht
 A critical Cross-Site Request Forgery (CSRF) vulnerability, tracked as CVE-2025-32354, has been identified in Zimbra Collaboration Suite (ZCS) versions 9.0 to 10.1. The flaw resides in the GraphQL endpoint (/service/extension/graphql).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2025
+April 30, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Docker Registry Vulnerability Lets macOS Users Access Any Registry Without Authorization<a href="https://gbhackers.com/docker-registry-vulnerability/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Docker Registry Vulnerability Lets macOS Users Access Any Registry Without Autho
 A medium-severity vulnerability (CVE-2025-4095) in Docker Desktop for macOS allows authenticated users to bypass Registry Access Management (RAM) policies and access unapproved container registries.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2025
+April 30, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apache Tomcat security advisory (AV25-239)<a href="https://www.cyber.gc.ca/en/alerts-advisories/apache-tomcat-security-advisory-av25-239?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Apache Tomcat security advisory (AV25-239)<a href="https://www.cyber.gc.ca/en/al
 Apache has released security advisories addressing vulnerabilities in multiple versions of Apache Tomcat. Users and administrators are urged to review the advisories and apply the necessary updates to maintain system security.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyber
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2025
+April 30, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Gremlin Infostealer Distributed on Telegram<a href="https://www.infosecurity-magazine.com/news/new-gremlin-infostealer/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ New Gremlin Infostealer Distributed on Telegram<a href="https://www.infosecurity
 Gremlin Stealer is a newly identified C#-based infostealer malware actively promoted on Telegram since March 2025. It targets Windows systems and is capable of harvesting a broad range of sensitive data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2025
+April 30, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GPUAF: Two Methods to Root Qualcomm-Based Android Phones<a href="https://gbhackers.com/two-methods-to-root-qualcomm-based-android-phones/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ GPUAF: Two Methods to Root Qualcomm-Based Android Phones<a href="https://gbhacke
 Security researchers have uncovered two critical vulnerabilities—CVE-2024-23380 and CVE-2024-23373—in Qualcomm GPU drivers, affecting a wide range of Android devices from manufacturers such as Samsung, Xiaomi, Honor, and Vivo.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2025
+April 30, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Yet Another NodeJS Backdoor (YaNB): A Modern Challenge<a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/yet-another-nodejs-backdoor-yanb-a-modern-challenge/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Yet Another NodeJS Backdoor (YaNB): A Modern Challenge<a href="https://www.trust
 Trustwave SpiderLabs uncovered a resurgence of malicious campaigns in March 2025 that exploit deceptive CAPTCHA verifications to deploy NodeJS-based backdoors. The campaign is referred to as "Yet Another NodeJS Backdoor (YANB)."
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+TrustWave
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2025
+April 30, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 In Plain Sight: Uncovering SuperShell & Cobalt Strike from an Open Directory<a href="https://hunt.io/blog/uncovering-supershell-and-cobalt-strike-from-an-open-directory?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ In Plain Sight: Uncovering SuperShell & Cobalt Strike from an Open Directory<a h
 Hunt researchers uncovered a malicious server, revealing SuperShell C2 payloads and a Linux ELF Cobalt Strike beacon. The server also hosted reconnaissance tools, highlighting the sophistication and layered nature of modern cyber threats.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hunt
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

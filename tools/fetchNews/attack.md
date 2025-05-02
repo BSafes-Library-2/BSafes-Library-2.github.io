@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+April 29, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spike in Git Configuration Crawling Highlights Risk of Codebase Exposure<a href="https://www.greynoise.io/blog/spike-git-configuration-crawling-risk-codebase-exposure?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A major spike in cyber reconnaissance was observed between April 20–21, 2025, with over 4,800 unique IPs attempting to access Git configuration files. This marked the fourth and largest such spike since September 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Grey Noise
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French BEC Threat Actor Targets Property Payments<a href="https://www.proofpoint.com/us/blog/threat-insight/security-brief-french-bec-threat-actor-targets-property-payments?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TA2900, is targeting French-speaking individuals with fraudulent rental payment schemes. The campaigns are designed to steal funds by impersonating rental agencies and redirecting rent payments to attacker-controlled bank accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Proof Point
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Finding Minhook in a sideloading attack – and Sweden too<a href="https://news.sophos.com/en-us/2025/04/29/finding-minhook-in-a-sideloading-attack-and-sweden-too/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sideloading campaign active from late 2023 to early 2024 targeted organisations in East Asia and later Sweden, delivering Cobalt Strike payloads via legitimate Windows executables and malicious DLLs.
+</details>
+<div style="text-align: right" markdown="1">
+Sophos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 23, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
