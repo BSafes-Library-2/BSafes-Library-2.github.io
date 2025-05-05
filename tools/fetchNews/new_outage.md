@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+May 2, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poland’s state registry temporarily blocked by cyber incident<a href="https://therecord.media/poland-pesel-system-state-registry-cyber-incident?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A suspected distributed denial-of-service (DDoS) attack temporarily disrupted Poland’s state registry systems on April 24, 2024, affecting access to critical government services. The attack targeted the PESEL registry.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 2, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dutch Services Disrupted by DDoS Attacks From Russian-Affiliated Hacktivists<a href="https://gbhackers.com/dutch-services-disrupted-by-ddos-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple Dutch organizations have experienced significant service disruptions this week due to a series of coordinated Distributed Denial-of-Service (DDoS) attacks. These attacks are the work of a pro-Russian hacktivist group NoName057(16).
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 29, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

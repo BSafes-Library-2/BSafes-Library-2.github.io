@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+May 2, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Third of Online Users Hit by Account Hacks Due to Weak Passwords<a href="https://www.infosecurity-magazine.com/news/third-online-users-hacks-passwords/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than a third (36%) of people have had at least one online account compromised due to weak or stolen passwords in the past year, according to new research by the FIDO Alliance.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 2, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Claude AI Exploited to Operate 100+ Fake Political Personas in Global Influence Campaign<a href="https://thehackernews.com/2025/05/claude-ai-exploited-to-operate-100-fake.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent investigation by Anthropic has uncovered a sophisticated misuse of its Claude AI chatbot in a commercial “influence-as-a-service” operation. This campaign involved the creation of over 100 politically-aligned fake personas on Facebook and X.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 24, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

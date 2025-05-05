@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 2, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Netgear EX6200 Flaw Enables Remote Access and Data Theft<a href="https://gbhackers.com/netgear-ex6200-flaw/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three critical vulnerabilities (CVE-2025-4148, CVE-2025-4149, CVE-2025-4150) have been discovered in the Netgear EX6200 Wi-Fi range extender (firmware version 1.0.3.94), a device widely used in homes and small businesses.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 30, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

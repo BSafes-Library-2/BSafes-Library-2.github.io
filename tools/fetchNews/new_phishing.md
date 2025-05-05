@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 2, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+200+ Fake Retail Sites Used in New Wave of Subscription Scams<a href="https://hackread.com/fake-retail-sites-used-new-wave-subscription-scams/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bitdefender discovered over 200 incredibly realistic websites offering a wide range of products, including shoes, clothing, and electronics. Customers are tricked into providing credit card information and agreeing to monthly subscriptions.
+</details>
+<div style="text-align: right" markdown="1">
+HackRead
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 2, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mystery Box Scams Deployed to Steal Credit Card Data<a href="https://www.infosecurity-magazine.com/news/mystery-box-scams-credit-card-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are deploying highly sophisticated subscription scams, including deceptive “mystery box” offers, to harvest credit card data and commit financial fraud. These scams are spreading across social media platforms, particularly Facebook.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 29, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
