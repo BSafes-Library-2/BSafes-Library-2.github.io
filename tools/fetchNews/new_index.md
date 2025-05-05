@@ -34,7 +34,151 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2025
+May 2, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Third of Online Users Hit by Account Hacks Due to Weak Passwords<a href="https://www.infosecurity-magazine.com/news/third-online-users-hacks-passwords/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than a third (36%) of people have had at least one online account compromised due to weak or stolen passwords in the past year, according to new research by the FIDO Alliance.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+200+ Fake Retail Sites Used in New Wave of Subscription Scams<a href="https://hackread.com/fake-retail-sites-used-new-wave-subscription-scams/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bitdefender discovered over 200 incredibly realistic websites offering a wide range of products, including shoes, clothing, and electronics. Customers are tricked into providing credit card information and agreeing to monthly subscriptions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Harrods becomes latest retailer to announce attempted cyberattack<a href="https://therecord.media/harrods-cyberattack-uk-retailer?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Harrods, the luxury department store in London, has become the latest U.K. retailer to announce detecting an attempted cyberattack following similar announcements by Marks & Spencer and the Co-op.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mystery Box Scams Deployed to Steal Credit Card Data<a href="https://www.infosecurity-magazine.com/news/mystery-box-scams-credit-card-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are deploying highly sophisticated subscription scams, including deceptive “mystery box” offers, to harvest credit card data and commit financial fraud. These scams are spreading across social media platforms, particularly Facebook.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Netgear EX6200 Flaw Enables Remote Access and Data Theft<a href="https://gbhackers.com/netgear-ex6200-flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three critical vulnerabilities (CVE-2025-4148, CVE-2025-4149, CVE-2025-4150) have been discovered in the Netgear EX6200 Wi-Fi range extender (firmware version 1.0.3.94), a device widely used in homes and small businesses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple notifies victims in 100 countries of likely spyware targeting<a href="https://therecord.media/apple-spyware-victims-notified-countries?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has issued threat notifications to users in 100 countries, warning of targeted spyware attacks likely involving advanced commercial surveillance tools such as Paragon. These attacks are part of a broader trend of mercenary spyware campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Claude AI Exploited to Operate 100+ Fake Political Personas in Global Influence Campaign<a href="https://thehackernews.com/2025/05/claude-ai-exploited-to-operate-100-fake.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent investigation by Anthropic has uncovered a sophisticated misuse of its Claude AI chatbot in a commercial “influence-as-a-service” operation. This campaign involved the creation of over 100 politically-aligned fake personas on Facebook and X.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poland’s state registry temporarily blocked by cyber incident<a href="https://therecord.media/poland-pesel-system-state-registry-cyber-incident?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A suspected distributed denial-of-service (DDoS) attack temporarily disrupted Poland’s state registry systems on April 24, 2024, affecting access to critical government services. The attack targeted the PESEL registry.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dutch Services Disrupted by DDoS Attacks From Russian-Affiliated Hacktivists<a href="https://gbhackers.com/dutch-services-disrupted-by-ddos-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple Dutch organizations have experienced significant service disruptions this week due to a series of coordinated Distributed Denial-of-Service (DDoS) attacks. These attacks are the work of a pro-Russian hacktivist group NoName057(16).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 30, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PowerDNS DNSdist 1.9.9 released, fixing CVE-2025-30194<a href="https://blog.powerdns.com/2025/04/29/powerdns-dnsdist-1.9.9-released?&web_view=true"> Full Text</a>
@@ -44,13 +188,13 @@ PowerDNS DNSdist 1.9.9 released, fixing CVE-2025-30194<a href="https://blog.powe
 A critical vulnerability (CVE-2025-30194) has been identified in PowerDNS DNSdist versions 1.9.0 to 1.9.8, allowing remote attackers to trigger a denial-of-service (DoS) condition when DNS-over-HTTPS (DoH) is configured using the nghttp2 provider.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Power DNS
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2025
+April 30, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chrome 136 Released With Patch For 20-Year-Old Privacy Vulnerability<a href="https://cybersecuritynews.com/chrome-136-released/?&web_view=true"> Full Text</a>
@@ -60,13 +204,13 @@ Chrome 136 Released With Patch For 20-Year-Old Privacy Vulnerability<a href="htt
 Google has released Chrome 136 for Windows, Mac, and Linux, introducing critical privacy and security enhancements. The update addresses a 23-year-old privacy flaw and patches multiple vulnerabilities, including a critical heap buffer overflow.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2025
+April 30, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Exploit OAuth Misconfigurations to Gain Unrestricted Access to Sensitive Data<a href="https://gbhackers.com/researchers-exploit-oauth-misconfigurations-to-gain-unrestricted-access/?&web_view=true"> Full Text</a>
@@ -76,13 +220,13 @@ Researchers Exploit OAuth Misconfigurations to Gain Unrestricted Access to Sensi
 A researcher discovered a critical OAuth2 misconfiguration vulnerability. The flaw allowed unauthorized access to sensitive user and business data due to exposed client credentials and a lack of access controls.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2025
+April 30, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zimbra Collaboration GraphQL Flaw Lets Hackers Steal User Information<a href="https://gbhackers.com/zimbra-collaboration-graphql-flaw/?&web_view=true"> Full Text</a>
@@ -92,13 +236,13 @@ Zimbra Collaboration GraphQL Flaw Lets Hackers Steal User Information<a href="ht
 A critical Cross-Site Request Forgery (CSRF) vulnerability, tracked as CVE-2025-32354, has been identified in Zimbra Collaboration Suite (ZCS) versions 9.0 to 10.1. The flaw resides in the GraphQL endpoint (/service/extension/graphql).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2025
+April 30, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Docker Registry Vulnerability Lets macOS Users Access Any Registry Without Authorization<a href="https://gbhackers.com/docker-registry-vulnerability/?&web_view=true"> Full Text</a>
@@ -108,13 +252,13 @@ Docker Registry Vulnerability Lets macOS Users Access Any Registry Without Autho
 A medium-severity vulnerability (CVE-2025-4095) in Docker Desktop for macOS allows authenticated users to bypass Registry Access Management (RAM) policies and access unapproved container registries.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2025
+April 30, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apache Tomcat security advisory (AV25-239)<a href="https://www.cyber.gc.ca/en/alerts-advisories/apache-tomcat-security-advisory-av25-239?&web_view=true"> Full Text</a>
@@ -124,13 +268,13 @@ Apache Tomcat security advisory (AV25-239)<a href="https://www.cyber.gc.ca/en/al
 Apache has released security advisories addressing vulnerabilities in multiple versions of Apache Tomcat. Users and administrators are urged to review the advisories and apply the necessary updates to maintain system security.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyber
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2025
+April 30, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Gremlin Infostealer Distributed on Telegram<a href="https://www.infosecurity-magazine.com/news/new-gremlin-infostealer/?&web_view=true"> Full Text</a>
@@ -140,13 +284,13 @@ New Gremlin Infostealer Distributed on Telegram<a href="https://www.infosecurity
 Gremlin Stealer is a newly identified C#-based infostealer malware actively promoted on Telegram since March 2025. It targets Windows systems and is capable of harvesting a broad range of sensitive data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2025
+April 30, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GPUAF: Two Methods to Root Qualcomm-Based Android Phones<a href="https://gbhackers.com/two-methods-to-root-qualcomm-based-android-phones/?&web_view=true"> Full Text</a>
@@ -156,13 +300,13 @@ GPUAF: Two Methods to Root Qualcomm-Based Android Phones<a href="https://gbhacke
 Security researchers have uncovered two critical vulnerabilities—CVE-2024-23380 and CVE-2024-23373—in Qualcomm GPU drivers, affecting a wide range of Android devices from manufacturers such as Samsung, Xiaomi, Honor, and Vivo.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2025
+April 30, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Yet Another NodeJS Backdoor (YaNB): A Modern Challenge<a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/yet-another-nodejs-backdoor-yanb-a-modern-challenge/?&web_view=true"> Full Text</a>
@@ -172,13 +316,13 @@ Yet Another NodeJS Backdoor (YaNB): A Modern Challenge<a href="https://www.trust
 Trustwave SpiderLabs uncovered a resurgence of malicious campaigns in March 2025 that exploit deceptive CAPTCHA verifications to deploy NodeJS-based backdoors. The campaign is referred to as "Yet Another NodeJS Backdoor (YANB)."
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+TrustWave
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2025
+April 30, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 In Plain Sight: Uncovering SuperShell & Cobalt Strike from an Open Directory<a href="https://hunt.io/blog/uncovering-supershell-and-cobalt-strike-from-an-open-directory?&web_view=true"> Full Text</a>
@@ -188,7 +332,7 @@ In Plain Sight: Uncovering SuperShell & Cobalt Strike from an Open Directory<a h
 Hunt researchers uncovered a malicious server, revealing SuperShell C2 payloads and a Linux ELF Cobalt Strike beacon. The server also hosted reconnaissance tools, highlighting the sophistication and layered nature of modern cyber threats.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hunt
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
