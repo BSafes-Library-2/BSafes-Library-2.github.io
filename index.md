@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 5, 2025
+May 5, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple Flaws in Tenda RX2 Pro Let Attackers Gain Admin Access<a href="https://gbhackers.com/multiple-flaws-in-tenda-rx2-pro/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Multiple Flaws in Tenda RX2 Pro Let Attackers Gain Admin Access<a href="https://
 Security researchers have identified 11 critical vulnerabilities in the Tenda RX2 Pro Dual-Band Gigabit Wi-Fi 6 Router (Firmware V16.03.30.14), enabling remote attackers to gain administrative and root access.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 5, 2025
+May 5, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 StealC V2: ThreatLabz Unveils the Evolution of a Stealthy Info-Stealer and Malware Loader<a href="https://securityonline.info/stealc-v2-threatlabz-unveils-the-evolution-of-a-stealthy-info-stealer-and-malware-loader/?&web_view=true"> Full Text</a>
@@ -61,13 +61,13 @@ StealC V2, introduced in March 2025, utilizes a JSON-based network protocol with
 deliver Microsoft Software Installer (MSI) packages, and PowerShell scripts.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 5, 2025
+May 5, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical SQL Injection Vulnerability Found in ADOdb PHP Library – CVE-2025-46337 (CVSS 10.0)<a href="https://securityonline.info/critical-sql-injection-vulnerability-found-in-adodb-php-library-cve-2025-46337-cvss-10-0/?&web_view=true"> Full Text</a>
@@ -77,13 +77,13 @@ Critical SQL Injection Vulnerability Found in ADOdb PHP Library – CVE-2025-463
 Tracked as CVE-2025-46337, the vulnerability resides in the PostgreSQL driver’s pg_insert_id() method, potentially allowing attackers to execute arbitrary SQL commands in vulnerable applications.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 5, 2025
+May 5, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Venom Spider Evolves: Arctic Wolf Exposes More_eggs Campaign Targeting HR<a href="https://securityonline.info/venom-spider-evolves-arctic-wolf-exposes-more_eggs-campaign-targeting-hr/?&web_view=true"> Full Text</a>
@@ -93,13 +93,13 @@ Venom Spider Evolves: Arctic Wolf Exposes More_eggs Campaign Targeting HR<a href
 Venom Spider continues to use job seekers as a lure targeting HR departments and corporate recruiters in its phishing. The group spreads its infamous More_eggs backdoor with new levels of stealth and obfuscation.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 5, 2025
+May 5, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rhysida Ransomware gang claims the hack of the Government of Peru<a href="https://securityaffairs.com/177388/cyber-crime/rhysida-ransomware-gang-claims-the-hack-of-the-government-of-peru.html?&web_view=true"> Full Text</a>
@@ -109,13 +109,13 @@ Rhysida Ransomware gang claims the hack of the Government of Peru<a href="https:
 The Rhysida ransomware group has claimed responsibility for breaching the Government of Peru’s official digital platform, Gob.pe. The group published images of multiple documents allegedly stolen from the platform on May 2, 2025.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 5, 2025
+May 5, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actors Target Critical National Infrastructure with New Malware and Tools<a href="https://gbhackers.com/threat-actors-target-critical-national-infrastructure/?&web_view=true"> Full Text</a>
@@ -125,7 +125,7 @@ Threat Actors Target Critical National Infrastructure with New Malware and Tools
 Between April and November 2024, attackers exfiltrated targeted email data and mapped virtualization infrastructure. Following containment efforts in late 2024, they escalated operations by deploying additional web shells, SystemBC and MeshCentral.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

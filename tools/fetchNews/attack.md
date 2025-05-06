@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+May 2, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Harrods becomes latest retailer to announce attempted cyberattack<a href="https://therecord.media/harrods-cyberattack-uk-retailer?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Harrods, the luxury department store in London, has become the latest U.K. retailer to announce detecting an attempted cyberattack following similar announcements by Marks &amp; Spencer and the Co-op.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 29, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

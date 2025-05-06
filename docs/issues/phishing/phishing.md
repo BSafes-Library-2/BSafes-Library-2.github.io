@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Venom Spider Evolves: Arctic Wolf Exposes More_eggs Campaign Targeting HR<a href="https://securityonline.info/venom-spider-evolves-arctic-wolf-exposes-more_eggs-campaign-targeting-hr/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Venom Spider continues to use job seekers as a lure targeting HR departments and corporate recruiters in its phishing. The group spreads its infamous More_eggs backdoor with new levels of stealth and obfuscation.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 2, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

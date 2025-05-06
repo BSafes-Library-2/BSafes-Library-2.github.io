@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rhysida Ransomware gang claims the hack of the Government of Peru<a href="https://securityaffairs.com/177388/cyber-crime/rhysida-ransomware-gang-claims-the-hack-of-the-government-of-peru.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Rhysida ransomware group has claimed responsibility for breaching the Government of Peru’s official digital platform, Gob.pe. The group published images of multiple documents allegedly stolen from the platform on May 2, 2025.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 28, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

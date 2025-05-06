@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+May 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Target Critical National Infrastructure with New Malware and Tools<a href="https://gbhackers.com/threat-actors-target-critical-national-infrastructure/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Between April and November 2024, attackers exfiltrated targeted email data and mapped virtualization infrastructure. Following containment efforts in late 2024, they escalated operations by deploying additional web shells, SystemBC and MeshCentral.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 2, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

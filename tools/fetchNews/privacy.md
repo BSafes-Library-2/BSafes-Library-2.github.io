@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+May 2, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple notifies victims in 100 countries of likely spyware targeting<a href="https://therecord.media/apple-spyware-victims-notified-countries?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has issued threat notifications to users in 100 countries, warning of targeted spyware attacks likely involving advanced commercial surveillance tools such as Paragon. These attacks are part of a broader trend of mercenary spyware campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 22, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
