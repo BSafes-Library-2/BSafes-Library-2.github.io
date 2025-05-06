@@ -34,7 +34,104 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2025
+May 5, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Flaws in Tenda RX2 Pro Let Attackers Gain Admin Access<a href="https://gbhackers.com/multiple-flaws-in-tenda-rx2-pro/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have identified 11 critical vulnerabilities in the Tenda RX2 Pro Dual-Band Gigabit Wi-Fi 6 Router (Firmware V16.03.30.14), enabling remote attackers to gain administrative and root access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+StealC V2: ThreatLabz Unveils the Evolution of a Stealthy Info-Stealer and Malware Loader<a href="https://securityonline.info/stealc-v2-threatlabz-unveils-the-evolution-of-a-stealthy-info-stealer-and-malware-loader/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+StealC V2, introduced in March 2025, utilizes a JSON-based network protocol with RC4 encryption implemented in recent variants. StealC V2 supports loader options that can 
+deliver Microsoft Software Installer (MSI) packages, and PowerShell scripts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical SQL Injection Vulnerability Found in ADOdb PHP Library – CVE-2025-46337 (CVSS 10.0)<a href="https://securityonline.info/critical-sql-injection-vulnerability-found-in-adodb-php-library-cve-2025-46337-cvss-10-0/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2025-46337, the vulnerability resides in the PostgreSQL driver’s pg_insert_id() method, potentially allowing attackers to execute arbitrary SQL commands in vulnerable applications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Venom Spider Evolves: Arctic Wolf Exposes More_eggs Campaign Targeting HR<a href="https://securityonline.info/venom-spider-evolves-arctic-wolf-exposes-more_eggs-campaign-targeting-hr/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Venom Spider continues to use job seekers as a lure targeting HR departments and corporate recruiters in its phishing. The group spreads its infamous More_eggs backdoor with new levels of stealth and obfuscation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rhysida Ransomware gang claims the hack of the Government of Peru<a href="https://securityaffairs.com/177388/cyber-crime/rhysida-ransomware-gang-claims-the-hack-of-the-government-of-peru.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Rhysida ransomware group has claimed responsibility for breaching the Government of Peru’s official digital platform, Gob.pe. The group published images of multiple documents allegedly stolen from the platform on May 2, 2025.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Target Critical National Infrastructure with New Malware and Tools<a href="https://gbhackers.com/threat-actors-target-critical-national-infrastructure/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Between April and November 2024, attackers exfiltrated targeted email data and mapped virtualization infrastructure. Following containment efforts in late 2024, they escalated operations by deploying additional web shells, SystemBC and MeshCentral.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Third of Online Users Hit by Account Hacks Due to Weak Passwords<a href="https://www.infosecurity-magazine.com/news/third-online-users-hacks-passwords/?&web_view=true"> Full Text</a>
@@ -44,13 +141,13 @@ Third of Online Users Hit by Account Hacks Due to Weak Passwords<a href="https:/
 More than a third (36%) of people have had at least one online account compromised due to weak or stolen passwords in the past year, according to new research by the FIDO Alliance.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2025
+May 2, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 200+ Fake Retail Sites Used in New Wave of Subscription Scams<a href="https://hackread.com/fake-retail-sites-used-new-wave-subscription-scams/?&web_view=true"> Full Text</a>
@@ -60,13 +157,13 @@ May 2, 2025
 Bitdefender discovered over 200 incredibly realistic websites offering a wide range of products, including shoes, clothing, and electronics. Customers are tricked into providing credit card information and agreeing to monthly subscriptions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+HackRead
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2025
+May 2, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Harrods becomes latest retailer to announce attempted cyberattack<a href="https://therecord.media/harrods-cyberattack-uk-retailer?&web_view=true"> Full Text</a>
@@ -76,13 +173,13 @@ Harrods becomes latest retailer to announce attempted cyberattack<a href="https:
 Harrods, the luxury department store in London, has become the latest U.K. retailer to announce detecting an attempted cyberattack following similar announcements by Marks & Spencer and the Co-op.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2025
+May 2, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mystery Box Scams Deployed to Steal Credit Card Data<a href="https://www.infosecurity-magazine.com/news/mystery-box-scams-credit-card-data/?&web_view=true"> Full Text</a>
@@ -92,13 +189,13 @@ Mystery Box Scams Deployed to Steal Credit Card Data<a href="https://www.infosec
 Cybercriminals are deploying highly sophisticated subscription scams, including deceptive “mystery box” offers, to harvest credit card data and commit financial fraud. These scams are spreading across social media platforms, particularly Facebook.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2025
+May 2, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Netgear EX6200 Flaw Enables Remote Access and Data Theft<a href="https://gbhackers.com/netgear-ex6200-flaw/?&web_view=true"> Full Text</a>
@@ -108,13 +205,13 @@ Netgear EX6200 Flaw Enables Remote Access and Data Theft<a href="https://gbhacke
 Three critical vulnerabilities (CVE-2025-4148, CVE-2025-4149, CVE-2025-4150) have been discovered in the Netgear EX6200 Wi-Fi range extender (firmware version 1.0.3.94), a device widely used in homes and small businesses.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2025
+May 2, 2025 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple notifies victims in 100 countries of likely spyware targeting<a href="https://therecord.media/apple-spyware-victims-notified-countries?&web_view=true"> Full Text</a>
@@ -124,13 +221,13 @@ Apple notifies victims in 100 countries of likely spyware targeting<a href="http
 Apple has issued threat notifications to users in 100 countries, warning of targeted spyware attacks likely involving advanced commercial surveillance tools such as Paragon. These attacks are part of a broader trend of mercenary spyware campaigns.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2025
+May 2, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Claude AI Exploited to Operate 100+ Fake Political Personas in Global Influence Campaign<a href="https://thehackernews.com/2025/05/claude-ai-exploited-to-operate-100-fake.html?&web_view=true"> Full Text</a>
@@ -140,13 +237,13 @@ Claude AI Exploited to Operate 100+ Fake Political Personas in Global Influence 
 A recent investigation by Anthropic has uncovered a sophisticated misuse of its Claude AI chatbot in a commercial “influence-as-a-service” operation. This campaign involved the creation of over 100 politically-aligned fake personas on Facebook and X.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2025
+May 2, 2025 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Poland’s state registry temporarily blocked by cyber incident<a href="https://therecord.media/poland-pesel-system-state-registry-cyber-incident?&web_view=true"> Full Text</a>
@@ -156,13 +253,13 @@ Poland’s state registry temporarily blocked by cyber incident<a href="https://
 A suspected distributed denial-of-service (DDoS) attack temporarily disrupted Poland’s state registry systems on April 24, 2024, affecting access to critical government services. The attack targeted the PESEL registry.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2025
+May 2, 2025 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dutch Services Disrupted by DDoS Attacks From Russian-Affiliated Hacktivists<a href="https://gbhackers.com/dutch-services-disrupted-by-ddos-attacks/?&web_view=true"> Full Text</a>
@@ -172,7 +269,7 @@ Dutch Services Disrupted by DDoS Attacks From Russian-Affiliated Hacktivists<a h
 Multiple Dutch organizations have experienced significant service disruptions this week due to a series of coordinated Distributed Denial-of-Service (DDoS) attacks. These attacks are the work of a pro-Russian hacktivist group NoName057(16).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
