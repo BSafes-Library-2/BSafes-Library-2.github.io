@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2025
+May 6, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical RCE Vulnerability in Samsung MagicINFO 9 Server Actively Exploited<a href="https://arcticwolf.com/resources/blog/cve-2024-7399/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Critical RCE Vulnerability in Samsung MagicINFO 9 Server Actively Exploited<a hr
 The vulnerability stems from inadequate input validation in the file upload functionality of Samsung MagicINFO 9 Server. Specifically, the server fails to sanitize filename inputs and does not enforce file extension or authentication checks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Arctic Wolf
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2025
+May 6, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researcher Exploits Regex Filter Flaw to Gain Remote Code Execution<a href="https://gbhackers.com/researcher-exploits-regex-filter-flaw/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Researcher Exploits Regex Filter Flaw to Gain Remote Code Execution<a href="http
 The vulnerability enables attackers to execute arbitrary commands on the server, potentially leading to full system compromise, data exfiltration, and unauthorized access.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2025
+May 6, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Windows Deployment Services UDP Flaw Exposes Enterprise Networks to Remote DoS Attacks<a href="https://windowsforum.com/threads/critical-windows-deployment-services-udp-flaw-exposes-enterprise-networks-to-remote-dos-attacks.364722/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Critical Windows Deployment Services UDP Flaw Exposes Enterprise Networks to Rem
 A newly discovered pre-authentication denial-of-service (DoS) vulnerability in Microsoft’s Windows Deployment Services (WDS) allows remote attackers to crash systems by sending malicious UDP packets.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Windows Forum
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2025
+May 6, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Issues Alert on Langflow Vulnerability Actively Exploited in Attacks<a href="https://gbhackers.com/cisa-issues-alert-on-langflow-vulnerability/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ CISA Issues Alert on Langflow Vulnerability Actively Exploited in Attacks<a href
 The CISA has issued an urgent alert about an actively exploited vulnerability in Langflow, an open-source framework for building language model applications. The flaw allows unauthenticated attackers to execute malicious code remotely
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2025
+May 6, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CoGUI Phish Kit Targets Japan with Millions of Messages<a href="https://www.proofpoint.com/us/blog/threat-insight/cogui-phish-kit-targets-japan-millions-messages?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ CoGUI Phish Kit Targets Japan with Millions of Messages<a href="https://www.proo
 Proofpoint has observed a notable increase in high-volume Japanese language campaigns targeting organizations in Japan to deliver a phishing kit named CoGUI. Most of the campaigns abuse Amazon, PayPay, Rakuten, and others.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Proof Point
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2025
+May 6, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Smishing on a Massive Scale: "Panda Shop" Chinese Carding Syndicate<a href="https://www.resecurity.com/blog/article/smishing-massive-scale-panda-shop-chinese-carding-syndicate?&web_view=true"> Full Text</a>
@@ -124,7 +124,7 @@ Smishing on a Massive Scale: "Panda Shop" Chinese Carding Syndicate<a href="http
 A new smishing kit named "Panda Shop" has emerged, linked to Chinese cybercriminals and believed to be a rebranded evolution of the Smishing Triad. This kit enables large-scale phishing campaigns targeting global consumers and financial institutions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Resecurity
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

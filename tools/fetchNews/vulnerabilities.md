@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Flaws in Tenda RX2 Pro Let Attackers Gain Admin Access<a href="https://gbhackers.com/multiple-flaws-in-tenda-rx2-pro/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have identified 11 critical vulnerabilities in the Tenda RX2 Pro Dual-Band Gigabit Wi-Fi 6 Router (Firmware V16.03.30.14), enabling remote attackers to gain administrative and root access.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical SQL Injection Vulnerability Found in ADOdb PHP Library – CVE-2025-46337 (CVSS 10.0)<a href="https://securityonline.info/critical-sql-injection-vulnerability-found-in-adodb-php-library-cve-2025-46337-cvss-10-0/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2025-46337, the vulnerability resides in the PostgreSQL driver’s pg_insert_id() method, potentially allowing attackers to execute arbitrary SQL commands in vulnerable applications.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 2, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

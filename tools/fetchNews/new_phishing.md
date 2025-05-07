@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CoGUI Phish Kit Targets Japan with Millions of Messages<a href="https://www.proofpoint.com/us/blog/threat-insight/cogui-phish-kit-targets-japan-millions-messages?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proofpoint has observed a notable increase in high-volume Japanese language campaigns targeting organizations in Japan to deliver a phishing kit named CoGUI. Most of the campaigns abuse Amazon, PayPay, Rakuten, and others.
+</details>
+<div style="text-align: right" markdown="1">
+Proof Point
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Smishing on a Massive Scale: "Panda Shop" Chinese Carding Syndicate<a href="https://www.resecurity.com/blog/article/smishing-massive-scale-panda-shop-chinese-carding-syndicate?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new smishing kit named "Panda Shop" has emerged, linked to Chinese cybercriminals and believed to be a rebranded evolution of the Smishing Triad. This kit enables large-scale phishing campaigns targeting global consumers and financial institutions.
+</details>
+<div style="text-align: right" markdown="1">
+Resecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 5, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
