@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2025
+May 7, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Using Blob URLs to Bypass SEGs and Evade Analysis<a href="https://cofense.com/blog/using-blob-urls-to-bypass-segs-and-evade-analysis?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Using Blob URLs to Bypass SEGs and Evade Analysis<a href="https://cofense.com/bl
 Threat actors are increasingly leveraging blob URIs (Uniform Resource Identifiers) to deliver credential phishing pages that bypass Secure Email Gateways (SEGs) and evade automated analysis.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cofense
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2025
+May 7, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SysAid Patches 4 Critical Flaws Enabling Pre-Auth RCE in On-Premise Version<a href="https://thehackernews.com/2025/05/sysaid-patches-4-critical-flaws.html?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ SysAid Patches 4 Critical Flaws Enabling Pre-Auth RCE in On-Premise Version<a hr
 Multiple critical vulnerabilities have been discovered in the on-premise version of SysAid IT support software, enabling pre-authenticated remote code execution (RCE) with elevated privileges.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2025
+May 7, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: April updates cause Windows Server auth issues<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-april-updates-cause-windows-server-auth-issues/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Microsoft: April updates cause Windows Server auth issues<a href="https://www.bl
 Microsoft has confirmed that the April 2025 security update (KB5055523) is causing authentication issues on domain controllers running Windows Server 2016, 2019, 2022, and 2025.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2025
+May 7, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lampion Is Back With ClickFix Lures<a href="https://unit42.paloaltonetworks.com/lampion-malware-clickfix-lures/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Lampion Is Back With ClickFix Lures<a href="https://unit42.paloaltonetworks.com/
 A newly uncovered campaign by the Lampion banking malware group has targeted Portuguese organizations in the government, finance, and transportation sectors. Lampion is an info stealer known for stealing sensitive banking credentials.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Palo Alto Networks
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2025
+May 7, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IBM Cognos Analytics Security Vulnerability Allowed Unauthorized File Uploads<a href="https://gbhackers.com/ibm-cognos-analytics-security-vulnerability/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ IBM Cognos Analytics Security Vulnerability Allowed Unauthorized File Uploads<a 
 IBM has disclosed two high-severity vulnerabilities in its Cognos Analytics platform—CVE-2024-40695 and CVE-2024-51466. These flaws allow unauthorized file uploads and remote code execution.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2025
+May 7, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Digital welfare fraud: ALTSRUS syndicate exploits the financially vulnerable<a href="https://www.helpnetsecurity.com/2025/05/07/altsrus-digital-welfare-fraud/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Digital welfare fraud: ALTSRUS syndicate exploits the financially vulnerable<a h
 A newly uncovered fraud syndicate named ALTSRUS is exploiting vulnerable segments of the digital economy by stealing and reselling accounts tied to Electronic Benefit Transfer (EBT), pharmacy prescriptions, and consumer rewards programs.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2025
+May 7, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious PyPI Package Targets Discord Developers with Remot...<a href="https://socket.dev/blog/malicious-pypi-package-targets-discord-developers-with-RAT?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Malicious PyPI Package Targets Discord Developers with Remot...<a href="https://
 A malicious Python package named discordpydebug was uploaded to PyPI, posing as a debugging tool for Discord bot developers. Despite lacking a README or documentation, it was downloaded over 11,000 times.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Socket
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2025
+May 7, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unexpected behavior in Snowflake’s Cortex AI<a href="https://www.cyera.com/blog/unexpected-behavior-in-snowflakes-cortex-ai#5-conclusion-ai-services-arent-above-access-controls?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Unexpected behavior in Snowflake’s Cortex AI<a href="https://www.cyera.com/blo
 Snowflake’s CORTEX Search Service introduces a critical security risk: unintended data exposure. This vulnerability persists even in environments with tightly configured access and masking policies due to the inherent design of the AI service.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyera
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2025
+May 7, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploit Samsung MagicINFO, GeoVision IoT Flaws to Deploy Mirai Botnet<a href="https://thehackernews.com/2025/05/hackers-exploit-samsung-magicinfo.html?&web_view=true"> Full Text</a>
@@ -172,7 +172,7 @@ Hackers Exploit Samsung MagicINFO, GeoVision IoT Flaws to Deploy Mirai Botnet<a 
 Threat actors are actively exploiting critical vulnerabilities in end-of-life (EoL) GeoVision IoT devices and Samsung MagicINFO servers to deploy the Mirai botnet. These attacks leverage command injection and path traversal flaws.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

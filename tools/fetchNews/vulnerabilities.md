@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Vulnerability in Samsung MagicINFO 9 Server Actively Exploited<a href="https://arcticwolf.com/resources/blog/cve-2024-7399/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability stems from inadequate input validation in the file upload functionality of Samsung MagicINFO 9 Server. Specifically, the server fails to sanitize filename inputs and does not enforce file extension or authentication checks.
+</details>
+<div style="text-align: right" markdown="1">
+Arctic Wolf
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher Exploits Regex Filter Flaw to Gain Remote Code Execution<a href="https://gbhackers.com/researcher-exploits-regex-filter-flaw/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability enables attackers to execute arbitrary commands on the server, potentially leading to full system compromise, data exfiltration, and unauthorized access.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Windows Deployment Services UDP Flaw Exposes Enterprise Networks to Remote DoS Attacks<a href="https://windowsforum.com/threads/critical-windows-deployment-services-udp-flaw-exposes-enterprise-networks-to-remote-dos-attacks.364722/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered pre-authentication denial-of-service (DoS) vulnerability in Microsoft’s Windows Deployment Services (WDS) allows remote attackers to crash systems by sending malicious UDP packets.
+</details>
+<div style="text-align: right" markdown="1">
+Windows Forum
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 5, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Using Blob URLs to Bypass SEGs and Evade Analysis<a href="https://cofense.com/blog/using-blob-urls-to-bypass-segs-and-evade-analysis?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are increasingly leveraging blob URIs (Uniform Resource Identifiers) to deliver credential phishing pages that bypass Secure Email Gateways (SEGs) and evade automated analysis.
+</details>
+<div style="text-align: right" markdown="1">
+Cofense
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 6, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
