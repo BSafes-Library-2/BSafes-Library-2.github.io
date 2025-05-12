@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Legacy Login in Microsoft Entra ID Exploited to Breach Cloud Accounts<a href="https://hackread.com/legacy-login-microsoft-entra-id-breach-cloud-accounts/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A targeted campaign exploited Microsoft Entra ID’s legacy authentication protocol BAV2ROPC, allowing attackers to bypass MFA and gain unauthorized access to admin accounts across finance, healthcare, and tech sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVSS 10.0 Vulnerability Found in Ubiquity UniFi Protect Cameras<a href="https://thecyberexpress.com/ubiquity-unifi-protect-flaws-cve-2025-23123/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ubiquity has disclosed two vulnerabilities in its UniFi Protect platform, including a critical RCE flaw (CVE-2025-23123) with a CVSS score of 10.0 and a medium-severity livestream access issue (CVE-2025-23164) with a CVSS score of 4.4.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 7, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

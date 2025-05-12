@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Digital welfare fraud: ALTSRUS syndicate exploits the financially vulnerable<a href="https://www.helpnetsecurity.com/2025/05/07/altsrus-digital-welfare-fraud/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly uncovered fraud syndicate named ALTSRUS is exploiting vulnerable segments of the digital economy by stealing and reselling accounts tied to Electronic Benefit Transfer (EBT), pharmacy prescriptions, and consumer rewards programs.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 5, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

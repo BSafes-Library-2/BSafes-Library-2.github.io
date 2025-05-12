@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Weaponizing PDF Invoices to Attack Windows, Linux &amp; macOS Systems<a href="https://cybersecuritynews.com/hackers-weaponizing-pdf-invoices/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated email campaign has been uncovered targeting users in Spain, Italy, and Portugal, distributing the cross-platform RATty RAT. The campaign uses the legitimate Spanish email service provider serviciodecorreo.es to send phishing emails.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 7, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

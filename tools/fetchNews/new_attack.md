@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+May 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 40 Hacktivist Groups Target India in Coordinated Cyber Campaign: High Noise, Low Impact<a href="https://thecyberexpress.com/over-40-hacktivist-groups-target-india/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A coordinated cyber campaign dubbed #OpIndia was launched by over 40 ideologically motivated hacktivist groups following recent geopolitical tensions between India and Pakistan.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit Windows Remote Management to Evade Detection in AD Networks<a href="https://gbhackers.com/hackers-exploit-windows-remote-management/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new wave of cyberattacks is exploiting WinRM to conduct stealthy lateral movement within AD environments. By leveraging this legitimate administrative tool, attackers evade detection and blend into normal network activity.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 5, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
