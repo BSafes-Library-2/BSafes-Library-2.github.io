@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alabama says ‘cybersecurity event’ could disrupt state government services<a href="https://therecord.media/alabama-says-cyber-event-could-cause-disruptions?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On May 13, 2025, Alabama Governor Kay Ivey announced that the state is responding to a “cybersecurity event” that may disrupt access to government websites and communications. Residents are advised to remain patient as mitigation efforts continue.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpacking PyInstaller Malware on macOS<a href="https://www.jamf.com/blog/pyinstaller-malware-jamf-threat-labs/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered macOS infostealer leverages PyInstaller, an open-source Python bundler, to deploy malicious Mach-O binaries. The malware bypasses traditional detection mechanisms and supports both x86_64 and arm64 architectures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chihuahua Stealer: A new Breed of Infostealer<a href="https://www.gdatasoftware.com/blog/2025/05/38199-chihuahua-infostealer?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chihuahua Stealer is a newly identified .NET-based infostealer that employs a multi-stage infection chain, advanced obfuscation, and stealth techniques to exfiltrate sensitive browser and cryptocurrency wallet data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DragonForce Goes Retail: Inside the Cyber Siege of M&S, Co-op, and Harrods<a href="https://medium.com/@irembezci/dragonforce-goes-retail-inside-the-cyber-siege-of-m-s-co-op-and-harrods-0c02c927ad75?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DragonForce, a former hacktivist group turned Ransomware-as-a-Service (RaaS) operation, has launched a coordinated cyber offensive against major UK retailers—Marks & Spencer (M&S), Co-op, and Harrods.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Marbled Dust leverages zero-day in Output Messenger for regional espionage<a href="https://www.microsoft.com/en-us/security/blog/2025/05/12/marbled-dust-leverages-zero-day-in-output-messenger-for-regional-espionage/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Turkish-aligned cyber-espionage group known as Marbled Dust has exploited a zero-day vulnerability in Output Messenger to conduct surveillance on Kurdish military operations in Iraq.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analysis of APT37 Attack Case Disguised as a Think Tank for National Security Strategy in South Korea (Operation. ToyBox Story)<a href="https://www.genians.co.kr/en/blog/threat_intelligence/toybox-story?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APT37 (ScarCruft), a North Korean state-sponsored threat actor, has launched a sophisticated spear-phishing campaign dubbed “Operation: ToyBox Story,” targeting activists focused on North Korean issues.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers now testing ClickFix attacks against Linux targets<a href="https://www.bleepingcomputer.com/news/security/hackers-now-testing-clickfix-attacks-against-linux-targets/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ClickFix campaign by APT36 (Transparent Tribe), a Pakistan-linked threat actor, has expanded its targeting to include Linux systems alongside Windows and macOS. It impersonates India's Ministry of Defence to lure victims.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Horabot Unleashed: A Stealthy Phishing Threat<a href="https://www.fortinet.com/blog/threat-research/horabot-unleashed-a-stealthy-phishing-threat?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign leveraging the Horabot malware has been observed targeting Spanish-speaking users in Latin America. Delivered via malicious HTML attachments in phishing emails, Horabot enables lateral propagation through Outlook.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+“PupkinStealer” – .NET Malware Steals Browser Data and Exfiltrates via Telegram<a href="https://gbhackers.com/pupkinstealer-net-malware-steals-browser-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly identified .NET-based infostealer named PupkinStealer has emerged as a significant threat targeting Windows systems. First observed in April 2025, this malware is designed to harvest sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Attack Exploits X/Twitter Ad URL Feature to Deceive Users<a href="https://gbhackers.com/new-attack-exploits-x-twitter-ad-url-feature/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly uncovered scam campaign exploits X/Twitter’s ad URL preview feature to deceive users into visiting fraudulent cryptocurrency sites. By manipulating how metadata is fetched for preview cards, attackers display trusted domains.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 10, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

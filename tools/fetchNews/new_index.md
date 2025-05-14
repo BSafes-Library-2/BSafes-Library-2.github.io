@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2025
+May 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alabama says ‘cybersecurity event’ could disrupt state government services<a href="https://therecord.media/alabama-says-cyber-event-could-cause-disruptions?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On May 13, 2025, Alabama Governor Kay Ivey announced that the state is responding to a “cybersecurity event” that may disrupt access to government websites and communications. Residents are advised to remain patient as mitigation efforts continue.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpacking PyInstaller Malware on macOS<a href="https://www.jamf.com/blog/pyinstaller-malware-jamf-threat-labs/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered macOS infostealer leverages PyInstaller, an open-source Python bundler, to deploy malicious Mach-O binaries. The malware bypasses traditional detection mechanisms and supports both x86_64 and arm64 architectures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chihuahua Stealer: A new Breed of Infostealer<a href="https://www.gdatasoftware.com/blog/2025/05/38199-chihuahua-infostealer?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chihuahua Stealer is a newly identified .NET-based infostealer that employs a multi-stage infection chain, advanced obfuscation, and stealth techniques to exfiltrate sensitive browser and cryptocurrency wallet data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DragonForce Goes Retail: Inside the Cyber Siege of M&S, Co-op, and Harrods<a href="https://medium.com/@irembezci/dragonforce-goes-retail-inside-the-cyber-siege-of-m-s-co-op-and-harrods-0c02c927ad75?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DragonForce, a former hacktivist group turned Ransomware-as-a-Service (RaaS) operation, has launched a coordinated cyber offensive against major UK retailers—Marks & Spencer (M&S), Co-op, and Harrods.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Marbled Dust leverages zero-day in Output Messenger for regional espionage<a href="https://www.microsoft.com/en-us/security/blog/2025/05/12/marbled-dust-leverages-zero-day-in-output-messenger-for-regional-espionage/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Turkish-aligned cyber-espionage group known as Marbled Dust has exploited a zero-day vulnerability in Output Messenger to conduct surveillance on Kurdish military operations in Iraq.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analysis of APT37 Attack Case Disguised as a Think Tank for National Security Strategy in South Korea (Operation. ToyBox Story)<a href="https://www.genians.co.kr/en/blog/threat_intelligence/toybox-story?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APT37 (ScarCruft), a North Korean state-sponsored threat actor, has launched a sophisticated spear-phishing campaign dubbed “Operation: ToyBox Story,” targeting activists focused on North Korean issues.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers now testing ClickFix attacks against Linux targets<a href="https://www.bleepingcomputer.com/news/security/hackers-now-testing-clickfix-attacks-against-linux-targets/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ClickFix campaign by APT36 (Transparent Tribe), a Pakistan-linked threat actor, has expanded its targeting to include Linux systems alongside Windows and macOS. It impersonates India's Ministry of Defence to lure victims.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Horabot Unleashed: A Stealthy Phishing Threat<a href="https://www.fortinet.com/blog/threat-research/horabot-unleashed-a-stealthy-phishing-threat?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign leveraging the Horabot malware has been observed targeting Spanish-speaking users in Latin America. Delivered via malicious HTML attachments in phishing emails, Horabot enables lateral propagation through Outlook.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+“PupkinStealer” – .NET Malware Steals Browser Data and Exfiltrates via Telegram<a href="https://gbhackers.com/pupkinstealer-net-malware-steals-browser-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly identified .NET-based infostealer named PupkinStealer has emerged as a significant threat targeting Windows systems. First observed in April 2025, this malware is designed to harvest sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Attack Exploits X/Twitter Ad URL Feature to Deceive Users<a href="https://gbhackers.com/new-attack-exploits-x-twitter-ad-url-feature/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly uncovered scam campaign exploits X/Twitter’s ad URL preview feature to deceive users into visiting fraudulent cryptocurrency sites. By manipulating how metadata is fetched for preview cards, attackers display trusted domains.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Legacy Login in Microsoft Entra ID Exploited to Breach Cloud Accounts<a href="https://hackread.com/legacy-login-microsoft-entra-id-breach-cloud-accounts/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Legacy Login in Microsoft Entra ID Exploited to Breach Cloud Accounts<a href="ht
 A targeted campaign exploited Microsoft Entra ID’s legacy authentication protocol BAV2ROPC, allowing attackers to bypass MFA and gain unauthorized access to admin accounts across finance, healthcare, and tech sectors.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2025
+May 10, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Weaponizing PDF Invoices to Attack Windows, Linux & macOS Systems<a href="https://cybersecuritynews.com/hackers-weaponizing-pdf-invoices/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Hackers Weaponizing PDF Invoices to Attack Windows, Linux & macOS Systems<a href
 A sophisticated email campaign has been uncovered targeting users in Spain, Italy, and Portugal, distributing the cross-platform RATty RAT. The campaign uses the legitimate Spanish email service provider serviciodecorreo.es to send phishing emails.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2025
+May 10, 2025 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FreeDrain Unmasked | Uncovering an Industrial-Scale Crypto Theft Network<a href="https://www.sentinelone.com/labs/freedrain-unmasked-uncovering-an-industrial-scale-crypto-theft-network/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ FreeDrain Unmasked | Uncovering an Industrial-Scale Crypto Theft Network<a href=
 A joint investigation has uncovered FreeDrain, a large-scale cryptocurrency phishing operation that exploits SEO manipulation, free-tier web services, and redirection techniques to deceive users of popular cryptocurrency wallets.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sentinel One
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2025
+May 10, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 40 Hacktivist Groups Target India in Coordinated Cyber Campaign: High Noise, Low Impact<a href="https://thecyberexpress.com/over-40-hacktivist-groups-target-india/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Over 40 Hacktivist Groups Target India in Coordinated Cyber Campaign: High Noise
 A coordinated cyber campaign dubbed #OpIndia was launched by over 40 ideologically motivated hacktivist groups following recent geopolitical tensions between India and Pakistan.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2025
+May 10, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gang says it hacked the Sheriff of Hamilton County, TN<a href="https://www.comparitech.com/news/ransomware-gang-says-it-hacked-the-sheriff-of-hamilton-county-tn/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Ransomware gang says it hacked the Sheriff of Hamilton County, TN<a href="https:
 The Qilin ransomware gang claimed responsibility for a cyberattack on the Hamilton County Sheriff’s Office in Chattanooga, Tennessee, on April 14, 2025. The sheriff’s office stated that the attackers demanded a $300,000 ransom, which was not paid.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CompariTech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 9, 2025
+May 9, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stealthy .NET Malware: Hiding Malicious Payloads as Bitmap Resources<a href="https://unit42.paloaltonetworks.com/malicious-payloads-as-bitmap-resources-hide-net-malware/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Stealthy .NET Malware: Hiding Malicious Payloads as Bitmap Resources<a href="htt
 A recent malware campaign leverages steganography to embed malicious payloads within bitmap resources of 32-bit .NET applications. These payloads are delivered via malspam targeting the financial sector in Türkiye and the logistics sector in Asia.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Palo Alto Networks
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 9, 2025
+May 9, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CVSS 10.0 Vulnerability Found in Ubiquity UniFi Protect Cameras<a href="https://thecyberexpress.com/ubiquity-unifi-protect-flaws-cve-2025-23123/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ CVSS 10.0 Vulnerability Found in Ubiquity UniFi Protect Cameras<a href="https://
 Ubiquity has disclosed two vulnerabilities in its UniFi Protect platform, including a critical RCE flaw (CVE-2025-23123) with a CVSS score of 10.0 and a medium-severity livestream access issue (CVE-2025-23164) with a CVSS score of 4.4.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 9, 2025
+May 9, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploit Windows Remote Management to Evade Detection in AD Networks<a href="https://gbhackers.com/hackers-exploit-windows-remote-management/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Hackers Exploit Windows Remote Management to Evade Detection in AD Networks<a hr
 A new wave of cyberattacks is exploiting WinRM to conduct stealthy lateral movement within AD environments. By leveraging this legitimate administrative tool, attackers evade detection and blend into normal network activity.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 9, 2025
+May 9, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kickidler employee monitoring software abused in ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/kickidler-employee-monitoring-software-abused-in-ransomware-attacks/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Kickidler employee monitoring software abused in ransomware attacks<a href="http
 Ransomware groups Qilin and Hunters International are abusing Kickidler, a legitimate employee monitoring tool used by over 5,000 organizations across 60 countries, to conduct stealthy reconnaissance and credential harvesting.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 9, 2025
+May 9, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Supply chain attack hits npm package with 45,000 weekly downloads<a href="https://www.bleepingcomputer.com/news/security/supply-chain-attack-hits-npm-package-with-45-000-weekly-downloads/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Supply chain attack hits npm package with 45,000 weekly downloads<a href="https:
 A supply chain attack has compromised the npm package rand-user-agent, which averaged 45,000 weekly downloads. Although deprecated, the package remained popular, making it an attractive target for attackers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
