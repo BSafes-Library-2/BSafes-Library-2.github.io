@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+May 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Marbled Dust leverages zero-day in Output Messenger for regional espionage<a href="https://www.microsoft.com/en-us/security/blog/2025/05/12/marbled-dust-leverages-zero-day-in-output-messenger-for-regional-espionage/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Turkish-aligned cyber-espionage group known as Marbled Dust has exploited a zero-day vulnerability in Output Messenger to conduct surveillance on Kurdish military operations in Iraq.
+</details>
+<div style="text-align: right" markdown="1">
+Microsoft
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 2, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

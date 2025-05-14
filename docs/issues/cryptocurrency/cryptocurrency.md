@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+May 12, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Attack Exploits X/Twitter Ad URL Feature to Deceive Users<a href="https://gbhackers.com/new-attack-exploits-x-twitter-ad-url-feature/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly uncovered scam campaign exploits X/Twitter’s ad URL preview feature to deceive users into visiting fraudulent cryptocurrency sites. By manipulating how metadata is fetched for preview cards, attackers display trusted domains.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 10, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

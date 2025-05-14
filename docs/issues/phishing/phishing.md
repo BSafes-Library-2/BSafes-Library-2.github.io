@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Horabot Unleashed: A Stealthy Phishing Threat<a href="https://www.fortinet.com/blog/threat-research/horabot-unleashed-a-stealthy-phishing-threat?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign leveraging the Horabot malware has been observed targeting Spanish-speaking users in Latin America. Delivered via malicious HTML attachments in phishing emails, Horabot enables lateral propagation through Outlook.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 10, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+May 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DragonForce Goes Retail: Inside the Cyber Siege of M&amp;S, Co-op, and Harrods<a href="https://medium.com/@irembezci/dragonforce-goes-retail-inside-the-cyber-siege-of-m-s-co-op-and-harrods-0c02c927ad75?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DragonForce, a former hacktivist group turned Ransomware-as-a-Service (RaaS) operation, has launched a coordinated cyber offensive against major UK retailers—Marks &amp; Spencer (M&amp;S), Co-op, and Harrods.
+</details>
+<div style="text-align: right" markdown="1">
+Irembezci
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 10, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
