@@ -8,6 +8,34 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+May 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analysis of APT37 Attack Case Disguised as a Think Tank for National Security Strategy in South Korea (Operation. ToyBox Story)<a href="https://www.genians.co.kr/en/blog/threat_intelligence/toybox-story?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APT37 (ScarCruft), a North Korean state-sponsored threat actor, has launched a sophisticated spear-phishing campaign dubbed “Operation: ToyBox Story,” targeting activists focused on North Korean issues.
+</details>
+<div style="text-align: right" markdown="1">
+Genians
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers now testing ClickFix attacks against Linux targets<a href="https://www.bleepingcomputer.com/news/security/hackers-now-testing-clickfix-attacks-against-linux-targets/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ClickFix campaign by APT36 (Transparent Tribe), a Pakistan-linked threat actor, has expanded its targeting to include Linux systems alongside Windows and macOS. It impersonates India's Ministry of Defence to lure victims.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 26, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

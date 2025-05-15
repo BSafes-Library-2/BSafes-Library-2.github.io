@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+May 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High Risk Warning for Windows Ecosystem: New Botnet Family HTTPBot is Expanding<a href="https://nsfocusglobal.com/high-risk-warning-for-windows-ecosystem-new-botnet-family-httpbot-is-expanding/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HTTPBot is a newly identified Trojan botnet written in Go, first detected in August 2024 and named by NSFOCUS Fuying Lab for its use of HTTP-based DDoS techniques. It has rapidly expanded, issuing over 200 attack commands by April 2025.
+</details>
+<div style="text-align: right" markdown="1">
+NSFocus Global
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 29, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

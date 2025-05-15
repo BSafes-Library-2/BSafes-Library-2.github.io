@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 14, 2025
+May 14, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Katz Stealer Malware Hits 78+ Chromium and Gecko-Based Browsers<a href="https://gbhackers.com/katz-stealer-malware-hits-78-chromium/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Katz Stealer Malware Hits 78+ Chromium and Gecko-Based Browsers<a href="https://
 Katz Stealer is a newly identified infostealer malware targeting over 78 Chromium and Gecko-based browser variants. It is capable of extracting sensitive data including credentials, cookies, CVV2 codes, OAuth tokens, and cryptocurrency wallets.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 14, 2025
+May 14, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DarkCloud Stealer: Comprehensive Analysis of a New Attack Chain That Employs AutoIt<a href="https://unit42.paloaltonetworks.com/?p=140509?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ DarkCloud Stealer: Comprehensive Analysis of a New Attack Chain That Employs Aut
 DarkCloud Stealer is a sophisticated infostealer malware active since 2022 and advertised on hacking forums as early as January 2023. It has been used in targeted attacks against government organizations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Palo Alto Networks
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 14, 2025
+May 14, 2025 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 High Risk Warning for Windows Ecosystem: New Botnet Family HTTPBot is Expanding<a href="https://nsfocusglobal.com/high-risk-warning-for-windows-ecosystem-new-botnet-family-httpbot-is-expanding/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ High Risk Warning for Windows Ecosystem: New Botnet Family HTTPBot is Expanding<
 HTTPBot is a newly identified Trojan botnet written in Go, first detected in August 2024 and named by NSFOCUS Fuying Lab for its use of HTTP-based DDoS techniques. It has rapidly expanded, issuing over 200 attack commands by April 2025.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+NSFocus Global
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 14, 2025
+May 14, 2025 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Swan Vector APT: Targeting Taiwan & Japan with DLL Implants<a href="https://www.seqrite.com/blog/swan-vector-apt-targeting-taiwan-japan-dll-implants/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Swan Vector APT: Targeting Taiwan & Japan with DLL Implants<a href="https://www.
 A newly identified APT campaign, dubbed “Swan Vector,” has been targeting educational and mechanical engineering sectors in East Asia, particularly Taiwan and Japan. The campaign employs spearphishing emails with malicious ZIP attachments
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+SeqRite
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 14, 2025
+May 14, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GovDelivery, an email alert system used by governments, abused to send scam messages<a href="https://techcrunch.com/2025/05/13/government-email-alert-system-govdelivery-used-to-send-scam-messages/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ GovDelivery, an email alert system used by governments, abused to send scam mess
 A phishing campaign exploited the U.S. government’s GovDelivery email system to send scam messages impersonating official toll collection notices. The emails were sent from an official Indiana government email address.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Tech Crunch
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 14, 2025
+May 14, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Heap Overflow Vulnerabilities in Windows RDP and RD Gateway Allow Remote Code Execution<a href="https://gbhackers.com/new-windows-rdp-vulnerability/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Critical Heap Overflow Vulnerabilities in Windows RDP and RD Gateway Allow Remot
 Microsoft has disclosed two critical vulnerabilities in its Windows Remote Desktop services that could allow attackers to execute arbitrary code on vulnerable systems over a network.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 14, 2025
+May 14, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PowerSchool data breach leads to school extortion attempts<a href="https://www.k12dive.com/news/powerschool-data-breach-school-extortion-attempts/747690/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ PowerSchool data breach leads to school extortion attempts<a href="https://www.k
 A major data breach at PowerSchool, a platform serving over 60 million students and 18,000 educational institutions, has led to extortion attempts targeting public schools. Threat actors are leveraging data stolen in the December 28, 2024 breach.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+K12 Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 14, 2025
+May 14, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Telegram Bots Used for Real-Time Credential Exfiltration in Cross-Platform Phishing Campaign<a href="https://blog.knowbe4.com/cybercriminals-use-telegram-bots-to-exfiltrate-data-in-phishing-kit-campaign?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Telegram Bots Used for Real-Time Credential Exfiltration in Cross-Platform Phish
 Based on our technical analysis of the campaign, researchers believe it is sold as part of a phishing-as-a-service kit that enables different threat actors to leverage the same infrastructure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+KnowBe4
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 14, 2025
+May 14, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Authentication Bypass in Ivanti Neurons for ITSM and Privilege Escalation in CSA<a href="https://www.bleepingcomputer.com/news/security/ivanti-warns-of-critical-neurons-for-itsm-auth-bypass-flaw/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Critical Authentication Bypass in Ivanti Neurons for ITSM and Privilege Escalati
 Tracked as CVE-2025-22462, the security flaw can let unauthenticated attackers gain administrative access to unpatched systems in low-complexity attacks, depending on system configuration.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 14, 2025
+May 14, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PrepHero-Linked Database Exposed Data of 3M Students and Coaches<a href="https://hackread.com/prephero-database-exposed-students-coaches-data/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ PrepHero-Linked Database Exposed Data of 3M Students and Coaches<a href="https:/
 A massive data exposure incident involving PrepHero, a college recruiting platform operated by EXACT Sports, has compromised the personal information of over 3 million student-athletes, their parents, and coaches.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+HackRead
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

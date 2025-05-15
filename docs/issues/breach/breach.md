@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+May 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PowerSchool data breach leads to school extortion attempts<a href="https://www.k12dive.com/news/powerschool-data-breach-school-extortion-attempts/747690/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A major data breach at PowerSchool, a platform serving over 60 million students and 18,000 educational institutions, has led to extortion attempts targeting public schools. Threat actors are leveraging data stolen in the December 28, 2024 breach.
+</details>
+<div style="text-align: right" markdown="1">
+K12 Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PrepHero-Linked Database Exposed Data of 3M Students and Coaches<a href="https://hackread.com/prephero-database-exposed-students-coaches-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive data exposure incident involving PrepHero, a college recruiting platform operated by EXACT Sports, has compromised the personal information of over 3 million student-athletes, their parents, and coaches.
+</details>
+<div style="text-align: right" markdown="1">
+HackRead
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 9, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GovDelivery, an email alert system used by governments, abused to send scam messages<a href="https://techcrunch.com/2025/05/13/government-email-alert-system-govdelivery-used-to-send-scam-messages/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A phishing campaign exploited the U.S. government’s GovDelivery email system to send scam messages impersonating official toll collection notices. The emails were sent from an official Indiana government email address.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telegram Bots Used for Real-Time Credential Exfiltration in Cross-Platform Phishing Campaign<a href="https://blog.knowbe4.com/cybercriminals-use-telegram-bots-to-exfiltrate-data-in-phishing-kit-campaign?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Based on our technical analysis of the campaign, researchers believe it is sold as part of a phishing-as-a-service kit that enables different threat actors to leverage the same infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+KnowBe4
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 13, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
