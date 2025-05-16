@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Node.js Vulnerability Enables Attackers to Crash Processes and Disrupt Services<a href="https://gbhackers.com/node-js-vulnerability-enables-attackers-to-crash-processes/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Node.js has released critical security updates addressing three vulnerabilities—CVE-2025-23166, CVE-2025-23167, and CVE-2025-23165—that could allow attackers to crash server processes and disrupt services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fancy Bear campaign sought emails of high-level Ukrainians and their military suppliers<a href="https://cyberscoop.com/russia-fancy-bear-gru-ukrainian-military-contractors/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber-espionage campaign by Fancy Bear (APT28), linked to Russia’s GRU, has targeted Ukrainian government and military entities, as well as international defense contractors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious npm Package Leverages Unicode Steganography, Google Calendar as C2 Dropper<a href="https://thehackernews.com/2025/05/malicious-npm-package-leverages-unicode.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered malicious npm package, os-info-checker-es6, masquerades as a utility for retrieving OS information but is designed to stealthily deliver a next-stage payload.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TransferLoader Malware Loader Deploys Morpheus Ransomware Using Obfuscated Backdoor and IPFS-Based C2<a href="https://www.zscaler.com/blogs/security-research/technical-analysis-transferloader?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TransferLoader is a newly identified malware loader active since at least February 2025. It comprises three main components—a downloader, a backdoor loader, and a backdoor—each employing advanced anti-analysis and obfuscation techniques.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Defending Against UNC3944: Cybercrime Hardening Guidance from the Frontlines<a href="https://cloud.google.com/blog/topics/threat-intelligence/unc3944-proactive-hardening-recommendations?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new wave of ransomware and extortion attacks is targeting the US retail sector, with threat intelligence suggesting the involvement of the advanced threat actor group Scattered Spider (UNC3944).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CTM360 Identifies Surge in Phishing Attacks Targeting Meta Business Users<a href="https://thehackernews.com/2025/05/ctm360-identifies-surge-in-phishing.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated phishing campaign dubbed Meta Mirage has been uncovered, targeting users of Meta's Business Suite. This campaign specifically focuses on hijacking high-value accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nova Scotia Power says customer banking details may have been stolen by hackers<a href="https://therecord.media/nova-scotia-power-data-breach-notice?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On April 25, 2025, Nova Scotia Power discovered a cyberattack that compromised sensitive customer data. The breach, which occurred over a month earlier, has prompted the utility to isolate affected systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Idaho hospital notifies 34K people of data breach that compromised SSNs, health info<a href="https://www.comparitech.com/news/idaho-hospital-notifies-34k-people-of-data-breach-that-compromised-ssns-health-info/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Weiser Memorial Hospital in Idaho has notified 34,249 individuals of a data breach that occurred in September 2024. The breach, attributed to the Embargo ransomware group, compromised sensitive personal and medical information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Malicious .desktop File Campaign Targeting Linux Systems<a href="https://www.googlecloudcommunity.com/gc/Community-Blog/Actionable-threat-hunting-with-Google-Threat-Intelligence-I/ba-p/895333?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have identified a surge in malicious `.desktop` files targeting Linux systems. These files exploit standard desktop behaviors to execute hidden commands and download malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Internet’s Biggest-Ever Black Market Just Shut Down Amid a Telegram Purge<a href="https://www.wired.com/story/the-internets-biggest-ever-black-market-shuts-down-after-a-telegram-purge/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a major disruption to global cybercrime infrastructure, the notorious Haowang Guarantee (formerly Huione Guarantee) black market has been shut down following Telegram’s enforcement action.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 14, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
