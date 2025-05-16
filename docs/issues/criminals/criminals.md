@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Defending Against UNC3944: Cybercrime Hardening Guidance from the Frontlines<a href="https://cloud.google.com/blog/topics/threat-intelligence/unc3944-proactive-hardening-recommendations?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new wave of ransomware and extortion attacks is targeting the US retail sector, with threat intelligence suggesting the involvement of the advanced threat actor group Scattered Spider (UNC3944).
+</details>
+<div style="text-align: right" markdown="1">
+Google
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Internet’s Biggest-Ever Black Market Just Shut Down Amid a Telegram Purge<a href="https://www.wired.com/story/the-internets-biggest-ever-black-market-shuts-down-after-a-telegram-purge/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a major disruption to global cybercrime infrastructure, the notorious Haowang Guarantee (formerly Huione Guarantee) black market has been shut down following Telegram’s enforcement action.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 10, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

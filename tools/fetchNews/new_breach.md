@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+May 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nova Scotia Power says customer banking details may have been stolen by hackers<a href="https://therecord.media/nova-scotia-power-data-breach-notice?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On April 25, 2025, Nova Scotia Power discovered a cyberattack that compromised sensitive customer data. The breach, which occurred over a month earlier, has prompted the utility to isolate affected systems.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Idaho hospital notifies 34K people of data breach that compromised SSNs, health info<a href="https://www.comparitech.com/news/idaho-hospital-notifies-34k-people-of-data-breach-that-compromised-ssns-health-info/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Weiser Memorial Hospital in Idaho has notified 34,249 individuals of a data breach that occurred in September 2024. The breach, attributed to the Embargo ransomware group, compromised sensitive personal and medical information.
+</details>
+<div style="text-align: right" markdown="1">
+Comparitech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 14, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
