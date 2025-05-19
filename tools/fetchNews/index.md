@@ -34,6 +34,118 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Critical Vulnerabilities Addressed in Latest Metasploit Framework Update Including RCE and Privilege Escalation<a href="https://www.rapid7.com/blog/post/2025/05/16/metasploit-wrap-up-05-16-2025/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest Metasploit Framework update introduces five new modules targeting critical vulnerabilities across multiple platforms, including POWERCOM UPSMON PRO, Car Rental System 1.0, WordPress plugins, and LINQPad.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hospital faces multi-day shutdown as pro-Ukraine group claims cyberattack<a href="https://therecord.media/russia-hospital-shutdown-lecardo?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lecardo Clinic, a private hospital in Chuvashia, Russia, experienced a multi-day operational shutdown due to a cyberattack attributed to the pro-Ukraine hacker group 4B1D.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang INC claims recent attack on South African Airways - Comparitech<a href="https://www.comparitech.com/news/ransomware-gang-inc-claims-recent-attack-on-south-african-airways/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+South African Airways (SAA) has confirmed a cyberattack on May 3, 2025, which temporarily disrupted its website, mobile app, and internal systems. The ransomware group INC has claimed responsibility, labeling the initial data leak as “Part 1."
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telecom SaaS firm Communications Data Group notifies 42K people of data breach on behalf of Duo Broadband<a href="https://www.comparitech.com/news/telecom-saas-firm-communications-data-group-notifies-42k-people-of-data-breach-on-behalf-of-duo-broadband/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Communications Data Group (CDG), a SaaS billing vendor for Duo Broadband, has notified 42,518 individuals of a data breach that occurred in February 2025. The breach, attributed to the ransomware group Qilin, exposed sensitive personal data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Broadcom data stolen in payroll provider ransomware raid<a href="https://www.theregister.com/2025/05/16/broadcom_employee_data_stolen_by/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack on Business Systems House (BSH) in September 2024 resulted in the theft of Broadcom employee data. At the time, Broadcom was transitioning to a new payroll provider, which may have contributed to the exposure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Printer company provided infected software downloads for half a year<a href="https://www.gdatasoftware.com/blog/2025/05/38200-printer-infected-software-downloads?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This investigation revealed that the vendor's official software downloads were infected with multiple strains of malware, including the XRed backdoor and a new clipbanker virus called SnipVex.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: US officials targeted in voice deepfake attacks since April<a href="https://www.bleepingcomputer.com/news/security/fbi-us-officials-targeted-in-voice-deepfake-attacks-since-april/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has issued a public service announcement warning of a surge in AI-generated voice deepfake attacks targeting U.S. government officials since April 2025. These leverage advanced voice cloning technologies to impersonate senior officials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 15, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
