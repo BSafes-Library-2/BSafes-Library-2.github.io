@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Node.js Vulnerability Enables Attackers to Crash Processes and Disrupt Services<a href="https://gbhackers.com/node-js-vulnerability-enables-attackers-to-crash-processes/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Node.js has released critical security updates addressing three vulnerabilities—CVE-2025-23166, CVE-2025-23167, and CVE-2025-23165—that could allow attackers to crash server processes and disrupt services.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 14, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

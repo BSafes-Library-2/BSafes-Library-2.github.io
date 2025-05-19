@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2025 - FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senior US Officials Impersonated in Malicious Messaging Campaign <a href="https://www.ic3.gov/PSA/2025/PSA250515"> Full Text</a>
+</p>
+<details>
+FBI is issuing this announcement to warn and provide mitigation tips to the public about an ongoing malicious text and voice messaging campaign. Since April 2025, malicious actors have impersonated senior US officials to target individuals, many of whom are current or former senior US federal or state government officials and their contacts. If you receive a message claiming to be from a senior US official, do not assume it is authentic.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 16, 2025 - FBI 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

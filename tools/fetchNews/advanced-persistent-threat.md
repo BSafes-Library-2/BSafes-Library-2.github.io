@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+May 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fancy Bear campaign sought emails of high-level Ukrainians and their military suppliers<a href="https://cyberscoop.com/russia-fancy-bear-gru-ukrainian-military-contractors/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber-espionage campaign by Fancy Bear (APT28), linked to Russia’s GRU, has targeted Ukrainian government and military entities, as well as international defense contractors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Scoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 14, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

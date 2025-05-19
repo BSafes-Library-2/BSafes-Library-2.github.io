@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Critical Vulnerabilities Addressed in Latest Metasploit Framework Update Including RCE and Privilege Escalation<a href="https://www.rapid7.com/blog/post/2025/05/16/metasploit-wrap-up-05-16-2025/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest Metasploit Framework update introduces five new modules targeting critical vulnerabilities across multiple platforms, including POWERCOM UPSMON PRO, Car Rental System 1.0, WordPress plugins, and LINQPad.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 15, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
