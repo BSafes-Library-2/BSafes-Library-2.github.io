@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+May 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hospital faces multi-day shutdown as pro-Ukraine group claims cyberattack<a href="https://therecord.media/russia-hospital-shutdown-lecardo?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lecardo Clinic, a private hospital in Chuvashia, Russia, experienced a multi-day operational shutdown due to a cyberattack attributed to the pro-Ukraine hacker group 4B1D.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 2, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

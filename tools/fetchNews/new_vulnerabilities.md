@@ -8,6 +8,90 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of WordPress Sites at Risk Due to Critical Crawlomatic Plugin Vulnerability<a href="https://thecyberexpress.com/crawlomatic-plugin-hit-by-cve-2025-4389/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability (CVE-2025-4389) in the Crawlomatic Multisite Scraper Post Generator WordPress plugin allows unauthenticated attackers to upload arbitrary files, leading to remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware! A threat actor could steal the titles of your private (and draft) WordPress posts!<a href="https://www.imperva.com/blog/beware-a-threat-actor-could-steal-the-titles-of-your-private-and-draft-wordpress-posts/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered vulnerability in WordPress allows attackers to exfiltrate titles of private and draft posts via the XMLRPC pingback feature. This flaw affects all WordPress installations with XMLRPC enabled.
+</details>
+<div style="text-align: right" markdown="1">
+Imperva
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'Defendnot' tool tricks Windows into disabling Microsoft Defender<a href="https://www.bleepingcomputer.com/news/microsoft/new-defendnot-tool-tricks-windows-into-disabling-microsoft-defender/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new tool named Defendnot demonstrates a critical method to disable Microsoft Defender on Windows systems by exploiting an undocumented Windows Security Center (WSC) API.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2025-30072 Tiiwee X1 Alarm System - Authentication Bypass by Capture-replay<a href="https://seclists.org/fulldisclosure/2025/May/20?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical authentication bypass vulnerability (CVE-2025-30072) has been identified in the Tiiwee X1 Alarm System (version TWX1HAKV2). The system's use of unencrypted 433 MHz radio communication allows attackers to perform capture-replay attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Seclists
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SEC Consult SA-20250506-0 :: Honeywell MB Secure Authenticated Command Injection<a href="https://seclists.org/fulldisclosure/2025/May/19?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical authenticated command injection vulnerability (CVE-2025-2605) has been identified in Honeywell MB-Secure and MB-Secure PRO systems. Exploiting this flaw allows authenticated attackers to execute arbitrary OS commands with root privileges.
+</details>
+<div style="text-align: right" markdown="1">
+Seclists
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Session Invalidation in Economizzer Allows Unauthorized Access	After Logout<a href="https://seclists.org/fulldisclosure/2025/May/16?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A session management vulnerability has been identified in Economizzer v.0.9-beta1, which allows unauthorized access due to improper session invalidation. Even after a user logs out, the session remains active.
+</details>
+<div style="text-align: right" markdown="1">
+Seclists
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 17, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

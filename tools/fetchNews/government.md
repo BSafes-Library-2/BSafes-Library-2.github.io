@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+May 16, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: US officials targeted in voice deepfake attacks since April<a href="https://www.bleepingcomputer.com/news/security/fbi-us-officials-targeted-in-voice-deepfake-attacks-since-april/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has issued a public service announcement warning of a surge in AI-generated voice deepfake attacks targeting U.S. government officials since April 2025. These leverage advanced voice cloning technologies to impersonate senior officials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 13, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

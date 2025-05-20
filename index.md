@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2025
+May 19, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thousands of WordPress Sites at Risk Due to Critical Crawlomatic Plugin Vulnerability<a href="https://thecyberexpress.com/crawlomatic-plugin-hit-by-cve-2025-4389/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Thousands of WordPress Sites at Risk Due to Critical Crawlomatic Plugin Vulnerab
 A critical vulnerability (CVE-2025-4389) in the Crawlomatic Multisite Scraper Post Generator WordPress plugin allows unauthenticated attackers to upload arbitrary files, leading to remote code execution.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2025
+May 19, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How the Signal Knockoff App TeleMessage Got Hacked in 20 Minutes<a href="https://www.wired.com/story/how-the-signal-knock-off-app-telemessage-got-hacked-in-20-minutes/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ How the Signal Knockoff App TeleMessage Got Hacked in 20 Minutes<a href="https:/
 A critical breach of the TeleMessage Signal clone (TM SGNL) exposed sensitive data due to severe misconfigurations. Exploited in under 20 minutes, the breach compromised credentials, unencrypted chat logs, and encryption keys of users.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Wired
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2025
+May 19, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beware! A threat actor could steal the titles of your private (and draft) WordPress posts!<a href="https://www.imperva.com/blog/beware-a-threat-actor-could-steal-the-titles-of-your-private-and-draft-wordpress-posts/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Beware! A threat actor could steal the titles of your private (and draft) WordPr
 A newly discovered vulnerability in WordPress allows attackers to exfiltrate titles of private and draft posts via the XMLRPC pingback feature. This flaw affects all WordPress installations with XMLRPC enabled.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Imperva
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2025
+May 19, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New 'Defendnot' tool tricks Windows into disabling Microsoft Defender<a href="https://www.bleepingcomputer.com/news/microsoft/new-defendnot-tool-tricks-windows-into-disabling-microsoft-defender/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ New 'Defendnot' tool tricks Windows into disabling Microsoft Defender<a href="ht
 A new tool named Defendnot demonstrates a critical method to disable Microsoft Defender on Windows systems by exploiting an undocumented Windows Security Center (WSC) API.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2025
+May 19, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CVE-2025-30072 Tiiwee X1 Alarm System - Authentication Bypass by Capture-replay<a href="https://seclists.org/fulldisclosure/2025/May/20?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ CVE-2025-30072 Tiiwee X1 Alarm System - Authentication Bypass by Capture-replay<
 A critical authentication bypass vulnerability (CVE-2025-30072) has been identified in the Tiiwee X1 Alarm System (version TWX1HAKV2). The system's use of unencrypted 433 MHz radio communication allows attackers to perform capture-replay attacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Seclists
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2025
+May 19, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dark Web Profile: Silent Ransom Group (LeakedData) - SOCRadar® Cyber Intelligence Inc.<a href="https://socradar.io/dark-web-profile-silent-ransom-group-leakeddata/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Dark Web Profile: Silent Ransom Group (LeakedData) - SOCRadar® Cyber Intelligen
 SRG employs highly tailored phishing campaigns, including callback phishing and impersonation of well-known brands like Duolingo and Masterclass. Victims are lured into calling fake support numbers and are socially engineered.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Socradar
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2025
+May 19, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SEC Consult SA-20250506-0 :: Honeywell MB Secure Authenticated Command Injection<a href="https://seclists.org/fulldisclosure/2025/May/19?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ SEC Consult SA-20250506-0 :: Honeywell MB Secure Authenticated Command Injection
 A critical authenticated command injection vulnerability (CVE-2025-2605) has been identified in Honeywell MB-Secure and MB-Secure PRO systems. Exploiting this flaw allows authenticated attackers to execute arbitrary OS commands with root privileges.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Seclists
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2025
+May 19, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Session Invalidation in Economizzer Allows Unauthorized Access	After Logout<a href="https://seclists.org/fulldisclosure/2025/May/16?&web_view=true"> Full Text</a>
@@ -156,7 +156,7 @@ Session Invalidation in Economizzer Allows Unauthorized Access	After Logout<a hr
 A session management vulnerability has been identified in Economizzer v.0.9-beta1, which allows unauthorized access due to improper session invalidation. Even after a user logs out, the session remains active.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Seclists
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -172,7 +172,7 @@ Multiple Critical Vulnerabilities Addressed in Latest Metasploit Framework Updat
 The latest Metasploit Framework update introduces five new modules targeting critical vulnerabilities across multiple platforms, including POWERCOM UPSMON PRO, Car Rental System 1.0, WordPress plugins, and LINQPad.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Rapid 7
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -188,7 +188,7 @@ Russian hospital faces multi-day shutdown as pro-Ukraine group claims cyberattac
 Lecardo Clinic, a private hospital in Chuvashia, Russia, experienced a multi-day operational shutdown due to a cyberattack attributed to the pro-Ukraine hacker group 4B1D.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -204,7 +204,7 @@ Ransomware gang INC claims recent attack on South African Airways - Comparitech<
 South African Airways (SAA) has confirmed a cyberattack on May 3, 2025, which temporarily disrupted its website, mobile app, and internal systems. The ransomware group INC has claimed responsibility, labeling the initial data leak as “Part 1."
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CompariTech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -220,7 +220,7 @@ Telecom SaaS firm Communications Data Group notifies 42K people of data breach o
 Communications Data Group (CDG), a SaaS billing vendor for Duo Broadband, has notified 42,518 individuals of a data breach that occurred in February 2025. The breach, attributed to the ransomware group Qilin, exposed sensitive personal data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CompariTech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -236,7 +236,7 @@ Broadcom data stolen in payroll provider ransomware raid<a href="https://www.the
 A ransomware attack on Business Systems House (BSH) in September 2024 resulted in the theft of Broadcom employee data. At the time, Broadcom was transitioning to a new payroll provider, which may have contributed to the exposure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -252,7 +252,7 @@ Printer company provided infected software downloads for half a year<a href="htt
 This investigation revealed that the vendor's official software downloads were infected with multiple strains of malware, including the XRed backdoor and a new clipbanker virus called SnipVex.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GData Software
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -268,7 +268,7 @@ FBI: US officials targeted in voice deepfake attacks since April<a href="https:/
 The FBI has issued a public service announcement warning of a surge in AI-generated voice deepfake attacks targeting U.S. government officials since April 2025. These leverage advanced voice cloning technologies to impersonate senior officials.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

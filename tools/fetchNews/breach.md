@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+May 16, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telecom SaaS firm Communications Data Group notifies 42K people of data breach on behalf of Duo Broadband<a href="https://www.comparitech.com/news/telecom-saas-firm-communications-data-group-notifies-42k-people-of-data-breach-on-behalf-of-duo-broadband/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Communications Data Group (CDG), a SaaS billing vendor for Duo Broadband, has notified 42,518 individuals of a data breach that occurred in February 2025. The breach, attributed to the ransomware group Qilin, exposed sensitive personal data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 16, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Broadcom data stolen in payroll provider ransomware raid<a href="https://www.theregister.com/2025/05/16/broadcom_employee_data_stolen_by/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack on Business Systems House (BSH) in September 2024 resulted in the theft of Broadcom employee data. At the time, Broadcom was transitioning to a new payroll provider, which may have contributed to the exposure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 15, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
