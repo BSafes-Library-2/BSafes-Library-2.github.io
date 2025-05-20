@@ -34,6 +34,134 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of WordPress Sites at Risk Due to Critical Crawlomatic Plugin Vulnerability<a href="https://thecyberexpress.com/crawlomatic-plugin-hit-by-cve-2025-4389/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability (CVE-2025-4389) in the Crawlomatic Multisite Scraper Post Generator WordPress plugin allows unauthenticated attackers to upload arbitrary files, leading to remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How the Signal Knockoff App TeleMessage Got Hacked in 20 Minutes<a href="https://www.wired.com/story/how-the-signal-knock-off-app-telemessage-got-hacked-in-20-minutes/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical breach of the TeleMessage Signal clone (TM SGNL) exposed sensitive data due to severe misconfigurations. Exploited in under 20 minutes, the breach compromised credentials, unencrypted chat logs, and encryption keys of users.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware! A threat actor could steal the titles of your private (and draft) WordPress posts!<a href="https://www.imperva.com/blog/beware-a-threat-actor-could-steal-the-titles-of-your-private-and-draft-wordpress-posts/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered vulnerability in WordPress allows attackers to exfiltrate titles of private and draft posts via the XMLRPC pingback feature. This flaw affects all WordPress installations with XMLRPC enabled.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'Defendnot' tool tricks Windows into disabling Microsoft Defender<a href="https://www.bleepingcomputer.com/news/microsoft/new-defendnot-tool-tricks-windows-into-disabling-microsoft-defender/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new tool named Defendnot demonstrates a critical method to disable Microsoft Defender on Windows systems by exploiting an undocumented Windows Security Center (WSC) API.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2025-30072 Tiiwee X1 Alarm System - Authentication Bypass by Capture-replay<a href="https://seclists.org/fulldisclosure/2025/May/20?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical authentication bypass vulnerability (CVE-2025-30072) has been identified in the Tiiwee X1 Alarm System (version TWX1HAKV2). The system's use of unencrypted 433 MHz radio communication allows attackers to perform capture-replay attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark Web Profile: Silent Ransom Group (LeakedData) - SOCRadar® Cyber Intelligence Inc.<a href="https://socradar.io/dark-web-profile-silent-ransom-group-leakeddata/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SRG employs highly tailored phishing campaigns, including callback phishing and impersonation of well-known brands like Duolingo and Masterclass. Victims are lured into calling fake support numbers and are socially engineered.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SEC Consult SA-20250506-0 :: Honeywell MB Secure Authenticated Command Injection<a href="https://seclists.org/fulldisclosure/2025/May/19?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical authenticated command injection vulnerability (CVE-2025-2605) has been identified in Honeywell MB-Secure and MB-Secure PRO systems. Exploiting this flaw allows authenticated attackers to execute arbitrary OS commands with root privileges.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Session Invalidation in Economizzer Allows Unauthorized Access	After Logout<a href="https://seclists.org/fulldisclosure/2025/May/16?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A session management vulnerability has been identified in Economizzer v.0.9-beta1, which allows unauthorized access due to improper session invalidation. Even after a user logs out, the session remains active.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 17, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
