@@ -34,6 +34,171 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2025 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major Russian state services disrupted, reportedly due to cyberattack<a href="https://therecord.media/major-russian-state-services-disrupted-ddos?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A series of large-scale Distributed Denial-of-Service (DDoS) attacks have disrupted access to several major Russian state services, including tax, digital identity, and healthcare systems.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware strikes UK food distributor in latest retail blow<a href="https://www.theregister.com/2025/05/20/ransomware_attack_on_food_distributor/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Peter Green Chilled suffered a ransomware attack on May 14, 2025, severely impacting its operations and disrupting supply chains to major UK supermarkets including Asda, Tesco, Sainsbury’s, Waitrose, and M&S.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+300 Milliseconds to Admin: Mastering DLL Hijacking and Hooking to Win the Race (CVE-2025-24076 and CVE-2025-24994)<a href="https://blog.compass-security.com/2025/04/3-milliseconds-to-admin-mastering-dll-hijacking-and-hooking-to-win-the-race-cve-2025-24076-and-cve-2025-24994/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical privilege escalation vulnerability in Windows 11, tracked as CVE-2025-24076, allows attackers to elevate privileges from a standard user to SYSTEM in just 300 milliseconds.
+</details>
+<div style="text-align: right" markdown="1">
+Compass Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Nitrogen Ransomware Targets Financial Firms in the US, UK and Canada<a href="https://hackread.com/nitrogen-ransomware-targets-financial-firms-us-uk-canada/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nitrogen ransomware, first publicly identified in September 2024, has emerged as a significant threat targeting organizations across the finance, construction, manufacturing, and technology sectors.
+</details>
+<div style="text-align: right" markdown="1">
+HackRead
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Deploy MarsSnake Backdoor in Multi-Year Attack on Saudi Organization<a href="https://thehackernews.com/2025/05/chinese-hackers-deploy-marssnake.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor known as UnsolicitedBooker has been observed targeting a Saudi Arabian organization over a span of three years using a newly identified backdoor named MarsSnake.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious PyPI Packages Exploit Instagram and TikTok APIs to Validate User Accounts<a href="https://thehackernews.com/2025/05/malicious-pypi-packages-exploit.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers identified several malicious packages on PyPI and npm that exploit APIs and implant backdoors.
+checker-SaGaF (2,605 downloads)
+steinlurks (1,049 downloads)
+sinnercore (3,300 downloads)
+dbgpkg (~350 downloads)
+requestsdev (76 downloads)
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Auth0-PHP Vulnerability Enables Unauthorized Access for Attackers<a href="https://gbhackers.com/auth0-php-vulnerability-enables-unauthorized-access/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cocospy stalkerware apps go offline after data breach | TechCrunch<a href="https://techcrunch.com/2025/05/19/cocospy-stalkerware-apps-go-offline-after-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cocospy, Spyic, and Spyzie—three near-identical stalkerware apps—have gone offline following a significant data breach. These apps were previously caught spying on millions of phones earlier in 2025.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerabilities in My Volkswagen App Expose Personal Data and Enable Unauthorized Vehicle Access<a href="https://loopsec.medium.com/hacking-my-car-and-probably-yours-security-flaws-in-volkswagens-app-24b34c47ba89?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher uncovered critical vulnerabilities in the My Volkswagen app that exposed sensitive personal and vehicle data. The flaws allowed unauthorized access to user accounts and vehicle features using only a vehicle’s VIN number.
+</details>
+<div style="text-align: right" markdown="1">
+LoopSec
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Koishi Chatbot Plugin Exfiltrates Messages Trigger...<a href="https://socket.dev/blog/malicious-koishi-chatbot-plugin?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious npm package, koishi-plugin-pinhaofa, is targeting Koishi chatbot frameworks. Disguised as a spelling autocorrect plugin, it embeds a backdoor that exfiltrates messages containing 8-character hexadecimal strings to a hardcoded QQ account.
+</details>
+<div style="text-align: right" markdown="1">
+Socket
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 19, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

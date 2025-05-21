@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark Web Profile: Silent Ransom Group (LeakedData) - SOCRadar® Cyber Intelligence Inc.<a href="https://socradar.io/dark-web-profile-silent-ransom-group-leakeddata/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SRG employs highly tailored phishing campaigns, including callback phishing and impersonation of well-known brands like Duolingo and Masterclass. Victims are lured into calling fake support numbers and are socially engineered.
+</details>
+<div style="text-align: right" markdown="1">
+Socradar
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 15, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

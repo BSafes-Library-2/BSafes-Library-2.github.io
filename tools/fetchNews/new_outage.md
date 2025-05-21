@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+May 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major Russian state services disrupted, reportedly due to cyberattack<a href="https://therecord.media/major-russian-state-services-disrupted-ddos?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A series of large-scale Distributed Denial-of-Service (DDoS) attacks have disrupted access to several major Russian state services, including tax, digital identity, and healthcare systems.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 17, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
