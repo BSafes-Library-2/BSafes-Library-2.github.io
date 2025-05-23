@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI-Generated TikTok Videos Used to Distribute Infostealer Malware<a href="https://www.infosecurity-magazine.com/news/ai-tiktok-videos-infostealer/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new campaign is exploiting TikTok’s vast user base and viral content model to distribute information-stealing malware, including Vidar and StealC. It uses AI-generated videos to socially engineer users into executing malicious PowerShell commands.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TAG-110 Targets Tajikistan: New Macro Word Documents Phishing Tactics<a href="https://www.recordedfuture.com/research/russia-aligned-tag-110-targets-tajikistan-with-macro-enabled?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russia-aligned threat actor, TAG-110—linked to APT28 and UAC-0063—has launched a phishing campaign targeting Tajikistan’s government, academic, and research institutions.
+</details>
+<div style="text-align: right" markdown="1">
+Recorded Future
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UAT-6382 exploits Cityworks zero-day vulnerability to deliver malware<a href="https://blog.talosintelligence.com/uat-6382-exploits-cityworks-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese threat group, UAT-6382, is actively exploiting CVE-2025-0994—a remote code execution vulnerability in Trimble Cityworks—to deploy malware and maintain persistent access in U.S. local government networks.
+</details>
+<div style="text-align: right" markdown="1">
+Talos Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Grafana security release: High severity security fix for CVE-2025-4123<a href="https://grafana.com/blog/2025/05/21/grafana-security-release-high-severity-security-fix-for-cve-2025-4123/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity cross-site scripting (XSS) vulnerability, tracked as CVE-2025-4123 with a CVSS score of 7.6, has been discovered in Grafana. This flaw allows attackers to redirect users to malicious websites and execute arbitrary JavaScript code.
+</details>
+<div style="text-align: right" markdown="1">
+Grafana
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Versa Concerto 0-Day Flaw Enables Remote Code Execution by Bypassing Authentication<a href="https://gbhackers.com/versa-concerto-0-day-flaw-enables-remote-code-execution/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple critical vulnerabilities in Versa Concerto (versions 12.1.2–12.2.0) remain unpatched, enabling attackers to bypass authentication and achieve remote code execution (RCE) and host compromise.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake CAPTCHA Attacks Deploy Infostealers and RATs in a Multistage Payload Chain<a href="https://www.trendmicro.com/en_us/research/25/e/unmasking-fake-captcha-cases.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent wave of phishing campaigns is exploiting fake CAPTCHA pages to trick users into executing malicious commands via the Windows Run dialog. These attacks deliver multistage payloads using obfuscated JavaScript embedded in MP3 or PDF files.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Identity Services RADIUS Process Vulnerability Let Attackers Trigger DoS Condition<a href="https://cybersecuritynews.com/cisco-identity-services-radius-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has disclosed a critical vulnerability in its Identity Services Engine (ISE) version 3.4 that allows unauthenticated remote attackers to trigger a denial-of-service (DoS) condition.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Several GitLab Vulnerabilities Enable Attackers to Launch DoS Attacks<a href="https://gbhackers.com/several-gitlab-vulnerabilities-enable-attackers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitLab has released critical patches for 11 vulnerabilities in its CE and EE platforms, including three high-severity DoS flaws. These affect all deployment models and could lead to system downtime, data exposure, and authentication bypass.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2025 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Targets Coinbase Users Targeted in Advanced Social Engineering Hack<a href="https://gbhackers.com/hackers-targets-coinbase-users/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated social engineering campaign has been actively targeting Coinbase users since early 2025, resulting in over $300 million in annual losses and $45 million in a single week in May.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another Fake Cloudflare Verification Targets WordPress Sites<a href="https://blog.sucuri.net/2025/05/another-fake-cloudflare-verification-targets-wordpress-sites.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware campaign is targeting WordPress sites by impersonating a Cloudflare verification page. This multistage infection uses social engineering and obfuscated PowerShell commands to deliver a malicious Windows executable
+</details>
+<div style="text-align: right" markdown="1">
+Sucuri
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 20, 2025 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

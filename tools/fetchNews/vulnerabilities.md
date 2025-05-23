@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+300 Milliseconds to Admin: Mastering DLL Hijacking and Hooking to Win the Race (CVE-2025-24076 and CVE-2025-24994)<a href="https://blog.compass-security.com/2025/04/3-milliseconds-to-admin-mastering-dll-hijacking-and-hooking-to-win-the-race-cve-2025-24076-and-cve-2025-24994/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical privilege escalation vulnerability in Windows 11, tracked as CVE-2025-24076, allows attackers to elevate privileges from a standard user to SYSTEM in just 300 milliseconds.
+</details>
+<div style="text-align: right" markdown="1">
+Compass Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Auth0-PHP Vulnerability Enables Unauthorized Access for Attackers<a href="https://gbhackers.com/auth0-php-vulnerability-enables-unauthorized-access/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerabilities in My Volkswagen App Expose Personal Data and Enable Unauthorized Vehicle Access<a href="https://loopsec.medium.com/hacking-my-car-and-probably-yours-security-flaws-in-volkswagens-app-24b34c47ba89?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher uncovered critical vulnerabilities in the My Volkswagen app that exposed sensitive personal and vehicle data. The flaws allowed unauthorized access to user accounts and vehicle features using only a vehicle’s VIN number.
+</details>
+<div style="text-align: right" markdown="1">
+LoopSec
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 19, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

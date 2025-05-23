@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+May 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Deploy MarsSnake Backdoor in Multi-Year Attack on Saudi Organization<a href="https://thehackernews.com/2025/05/chinese-hackers-deploy-marssnake.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor known as UnsolicitedBooker has been observed targeting a Saudi Arabian organization over a span of three years using a newly identified backdoor named MarsSnake.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 13, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+May 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cocospy stalkerware apps go offline after data breach | TechCrunch<a href="https://techcrunch.com/2025/05/19/cocospy-stalkerware-apps-go-offline-after-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cocospy, Spyic, and Spyzie—three near-identical stalkerware apps—have gone offline following a significant data breach. These apps were previously caught spying on millions of phones earlier in 2025.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 19, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware strikes UK food distributor in latest retail blow<a href="https://www.theregister.com/2025/05/20/ransomware_attack_on_food_distributor/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Peter Green Chilled suffered a ransomware attack on May 14, 2025, severely impacting its operations and disrupting supply chains to major UK supermarkets including Asda, Tesco, Sainsbury’s, Waitrose, and M&amp;S.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Nitrogen Ransomware Targets Financial Firms in the US, UK and Canada<a href="https://hackread.com/nitrogen-ransomware-targets-financial-firms-us-uk-canada/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nitrogen ransomware, first publicly identified in September 2024, has emerged as a significant threat targeting organizations across the finance, construction, manufacturing, and technology sectors.
+</details>
+<div style="text-align: right" markdown="1">
+HackRead
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 28, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

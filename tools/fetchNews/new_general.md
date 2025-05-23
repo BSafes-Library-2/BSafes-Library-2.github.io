@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+May 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Targets Coinbase Users Targeted in Advanced Social Engineering Hack<a href="https://gbhackers.com/hackers-targets-coinbase-users/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated social engineering campaign has been actively targeting Coinbase users since early 2025, resulting in over $300 million in annual losses and $45 million in a single week in May.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 2, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

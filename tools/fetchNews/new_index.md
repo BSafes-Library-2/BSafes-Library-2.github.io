@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2025
+May 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI-Generated TikTok Videos Used to Distribute Infostealer Malware<a href="https://www.infosecurity-magazine.com/news/ai-tiktok-videos-infostealer/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new campaign is exploiting TikTok’s vast user base and viral content model to distribute information-stealing malware, including Vidar and StealC. It uses AI-generated videos to socially engineer users into executing malicious PowerShell commands.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TAG-110 Targets Tajikistan: New Macro Word Documents Phishing Tactics<a href="https://www.recordedfuture.com/research/russia-aligned-tag-110-targets-tajikistan-with-macro-enabled?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russia-aligned threat actor, TAG-110—linked to APT28 and UAC-0063—has launched a phishing campaign targeting Tajikistan’s government, academic, and research institutions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UAT-6382 exploits Cityworks zero-day vulnerability to deliver malware<a href="https://blog.talosintelligence.com/uat-6382-exploits-cityworks-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese threat group, UAT-6382, is actively exploiting CVE-2025-0994—a remote code execution vulnerability in Trimble Cityworks—to deploy malware and maintain persistent access in U.S. local government networks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Grafana security release: High severity security fix for CVE-2025-4123<a href="https://grafana.com/blog/2025/05/21/grafana-security-release-high-severity-security-fix-for-cve-2025-4123/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity cross-site scripting (XSS) vulnerability, tracked as CVE-2025-4123 with a CVSS score of 7.6, has been discovered in Grafana. This flaw allows attackers to redirect users to malicious websites and execute arbitrary JavaScript code.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Versa Concerto 0-Day Flaw Enables Remote Code Execution by Bypassing Authentication<a href="https://gbhackers.com/versa-concerto-0-day-flaw-enables-remote-code-execution/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple critical vulnerabilities in Versa Concerto (versions 12.1.2–12.2.0) remain unpatched, enabling attackers to bypass authentication and achieve remote code execution (RCE) and host compromise.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake CAPTCHA Attacks Deploy Infostealers and RATs in a Multistage Payload Chain<a href="https://www.trendmicro.com/en_us/research/25/e/unmasking-fake-captcha-cases.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent wave of phishing campaigns is exploiting fake CAPTCHA pages to trick users into executing malicious commands via the Windows Run dialog. These attacks deliver multistage payloads using obfuscated JavaScript embedded in MP3 or PDF files.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Identity Services RADIUS Process Vulnerability Let Attackers Trigger DoS Condition<a href="https://cybersecuritynews.com/cisco-identity-services-radius-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has disclosed a critical vulnerability in its Identity Services Engine (ISE) version 3.4 that allows unauthenticated remote attackers to trigger a denial-of-service (DoS) condition.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Several GitLab Vulnerabilities Enable Attackers to Launch DoS Attacks<a href="https://gbhackers.com/several-gitlab-vulnerabilities-enable-attackers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitLab has released critical patches for 11 vulnerabilities in its CE and EE platforms, including three high-severity DoS flaws. These affect all deployment models and could lead to system downtime, data exposure, and authentication bypass.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Targets Coinbase Users Targeted in Advanced Social Engineering Hack<a href="https://gbhackers.com/hackers-targets-coinbase-users/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated social engineering campaign has been actively targeting Coinbase users since early 2025, resulting in over $300 million in annual losses and $45 million in a single week in May.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another Fake Cloudflare Verification Targets WordPress Sites<a href="https://blog.sucuri.net/2025/05/another-fake-cloudflare-verification-targets-wordpress-sites.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware campaign is targeting WordPress sites by impersonating a Cloudflare verification page. This multistage infection uses social engineering and obfuscated PowerShell commands to deliver a malicious Windows executable
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2025 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Major Russian state services disrupted, reportedly due to cyberattack<a href="https://therecord.media/major-russian-state-services-disrupted-ddos?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Major Russian state services disrupted, reportedly due to cyberattack<a href="ht
 A series of large-scale Distributed Denial-of-Service (DDoS) attacks have disrupted access to several major Russian state services, including tax, digital identity, and healthcare systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2025
+May 20, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware strikes UK food distributor in latest retail blow<a href="https://www.theregister.com/2025/05/20/ransomware_attack_on_food_distributor/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Ransomware strikes UK food distributor in latest retail blow<a href="https://www
 Peter Green Chilled suffered a ransomware attack on May 14, 2025, severely impacting its operations and disrupting supply chains to major UK supermarkets including Asda, Tesco, Sainsbury’s, Waitrose, and M&S.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2025
+May 20, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 300 Milliseconds to Admin: Mastering DLL Hijacking and Hooking to Win the Race (CVE-2025-24076 and CVE-2025-24994)<a href="https://blog.compass-security.com/2025/04/3-milliseconds-to-admin-mastering-dll-hijacking-and-hooking-to-win-the-race-cve-2025-24076-and-cve-2025-24994/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ May 20, 2025
 A critical privilege escalation vulnerability in Windows 11, tracked as CVE-2025-24076, allows attackers to elevate privileges from a standard user to SYSTEM in just 300 milliseconds.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Compass Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2025
+May 20, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Nitrogen Ransomware Targets Financial Firms in the US, UK and Canada<a href="https://hackread.com/nitrogen-ransomware-targets-financial-firms-us-uk-canada/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ New Nitrogen Ransomware Targets Financial Firms in the US, UK and Canada<a href=
 Nitrogen ransomware, first publicly identified in September 2024, has emerged as a significant threat targeting organizations across the finance, construction, manufacturing, and technology sectors.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+HackRead
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2025
+May 20, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Deploy MarsSnake Backdoor in Multi-Year Attack on Saudi Organization<a href="https://thehackernews.com/2025/05/chinese-hackers-deploy-marssnake.html?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Chinese Hackers Deploy MarsSnake Backdoor in Multi-Year Attack on Saudi Organiza
 A threat actor known as UnsolicitedBooker has been observed targeting a Saudi Arabian organization over a span of three years using a newly identified backdoor named MarsSnake.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2025
+May 20, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious PyPI Packages Exploit Instagram and TikTok APIs to Validate User Accounts<a href="https://thehackernews.com/2025/05/malicious-pypi-packages-exploit.html?&web_view=true"> Full Text</a>
@@ -129,13 +289,13 @@ dbgpkg (~350 downloads)
 requestsdev (76 downloads)
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2025
+May 20, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Auth0-PHP Vulnerability Enables Unauthorized Access for Attackers<a href="https://gbhackers.com/auth0-php-vulnerability-enables-unauthorized-access/?&web_view=true"> Full Text</a>
@@ -145,13 +305,13 @@ Auth0-PHP Vulnerability Enables Unauthorized Access for Attackers<a href="https:
 
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2025
+May 20, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cocospy stalkerware apps go offline after data breach | TechCrunch<a href="https://techcrunch.com/2025/05/19/cocospy-stalkerware-apps-go-offline-after-data-breach/?&web_view=true"> Full Text</a>
@@ -161,13 +321,13 @@ Cocospy stalkerware apps go offline after data breach | TechCrunch<a href="https
 Cocospy, Spyic, and Spyzie—three near-identical stalkerware apps—have gone offline following a significant data breach. These apps were previously caught spying on millions of phones earlier in 2025.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Tech Crunch
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2025
+May 20, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Vulnerabilities in My Volkswagen App Expose Personal Data and Enable Unauthorized Vehicle Access<a href="https://loopsec.medium.com/hacking-my-car-and-probably-yours-security-flaws-in-volkswagens-app-24b34c47ba89?&web_view=true"> Full Text</a>
@@ -177,13 +337,13 @@ Critical Vulnerabilities in My Volkswagen App Expose Personal Data and Enable Un
 A security researcher uncovered critical vulnerabilities in the My Volkswagen app that exposed sensitive personal and vehicle data. The flaws allowed unauthorized access to user accounts and vehicle features using only a vehicle’s VIN number.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+LoopSec
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2025
+May 20, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Koishi Chatbot Plugin Exfiltrates Messages Trigger...<a href="https://socket.dev/blog/malicious-koishi-chatbot-plugin?&web_view=true"> Full Text</a>
@@ -193,7 +353,7 @@ Malicious Koishi Chatbot Plugin Exfiltrates Messages Trigger...<a href="https://
 A malicious npm package, koishi-plugin-pinhaofa, is targeting Koishi chatbot frameworks. Disguised as a spelling autocorrect plugin, it embeds a backdoor that exfiltrates messages containing 8-character hexadecimal strings to a hardcoded QQ account.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Socket
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
