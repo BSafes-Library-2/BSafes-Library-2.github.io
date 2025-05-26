@@ -8,6 +8,76 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UAT-6382 exploits Cityworks zero-day vulnerability to deliver malware<a href="https://blog.talosintelligence.com/uat-6382-exploits-cityworks-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese threat group, UAT-6382, is actively exploiting CVE-2025-0994—a remote code execution vulnerability in Trimble Cityworks—to deploy malware and maintain persistent access in U.S. local government networks.
+</details>
+<div style="text-align: right" markdown="1">
+Talos Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Grafana security release: High severity security fix for CVE-2025-4123<a href="https://grafana.com/blog/2025/05/21/grafana-security-release-high-severity-security-fix-for-cve-2025-4123/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity cross-site scripting (XSS) vulnerability, tracked as CVE-2025-4123 with a CVSS score of 7.6, has been discovered in Grafana. This flaw allows attackers to redirect users to malicious websites and execute arbitrary JavaScript code.
+</details>
+<div style="text-align: right" markdown="1">
+Grafana
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Versa Concerto 0-Day Flaw Enables Remote Code Execution by Bypassing Authentication<a href="https://gbhackers.com/versa-concerto-0-day-flaw-enables-remote-code-execution/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple critical vulnerabilities in Versa Concerto (versions 12.1.2–12.2.0) remain unpatched, enabling attackers to bypass authentication and achieve remote code execution (RCE) and host compromise.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Identity Services RADIUS Process Vulnerability Let Attackers Trigger DoS Condition<a href="https://cybersecuritynews.com/cisco-identity-services-radius-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has disclosed a critical vulnerability in its Identity Services Engine (ISE) version 3.4 that allows unauthenticated remote attackers to trigger a denial-of-service (DoS) condition.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Several GitLab Vulnerabilities Enable Attackers to Launch DoS Attacks<a href="https://gbhackers.com/several-gitlab-vulnerabilities-enable-attackers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitLab has released critical patches for 11 vulnerabilities in its CE and EE platforms, including three high-severity DoS flaws. These affect all deployment models and could lead to system downtime, data exposure, and authentication bypass.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 20, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

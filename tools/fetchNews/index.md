@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Takedown Disrupts Danabot Malware-as-a-Service Infrastructure<a href="https://www.welivesecurity.com/en/eset-research/danabot-analyzing-fallen-empire/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI, DoD, and international partners dismantled Danabot’s infrastructure and identified key operators. Danabot was used to distribute malware like LockBit, Ursnif, and Zloader.
+</details>
+<div style="text-align: right" markdown="1">
+We Live Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare Closes Security Gap That Could Leak Visitor URLs<a href="https://thecyberexpress.com/cloudflare-fixes-cve-2025-4366-in-pingora-oss/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloudflare has addressed CVE-2025-4366, a request smuggling vulnerability in the Pingora OSS framework, affecting its CDN free tier and users of pingora-proxy and pingora-cache crates.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical NETGEAR Router Flaw Allows Full Admin Access by Attackers<a href="https://gbhackers.com/netgear-router-flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical authentication bypass vulnerability (CVE-2025-4978) has been discovered in NETGEAR DGND3700v2 wireless routers. The flaw, rated CVSSv4 9.3, allows unauthenticated attackers to gain full administrative access via a hidden backdoor.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple XNU Kernel Flaw Enables Attackers to Escalate Privileges<a href="https://gbhackers.com/apple-xnu-kernel-flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has patched CVE-2025-31219, a critical vulnerability in the XNU kernel affecting macOS, iOS, iPadOS, tvOS, watchOS, and visionOS. The flaw allows local attackers to escalate privileges and execute arbitrary code with kernel-level access.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2025 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hacker group Killnet returns with new identity<a href="https://therecord.media/russian-hacker-group-killnet-returns-with-new-identity?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Once known for its pro-Kremlin hacktivist campaigns, the group now appears to function as a profit-driven cyber mercenary collective, offering hack-for-hire services and targeting a broader range of victims.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers use fake Ledger apps to steal Mac users’ seed phrases<a href="https://www.bleepingcomputer.com/news/security/hackers-use-fake-ledger-apps-to-steal-mac-users-seed-phrases/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A series of sophisticated phishing campaigns are targeting macOS users by distributing fake Ledger Live applications designed to steal 24-word seed phrases used to access cryptocurrency wallets.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Using Trusted Google Domains to Spread Malicious Code<a href="https://gbhackers.com/cybercriminals-using-trusted-google-domains/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malvertising campaign is leveraging trusted Google domains and outdated JSONP API calls to inject malicious scripts into legitimate e-commerce websites. These scripts redirect users to phishing pages that mimic payment portals.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coca-Cola, Bottling Partner Named in Separate Ransomware and Data Breach Claims<a href="https://hackread.com/coca-cola-bottling-partner-ransomware-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Everest has listed Coca-Cola as a victim on its dark web leak site, releasing samples of internal HR documents affecting 959 employees. These include scans of passports and visas, salary data, and other personally identifiable information (PII).
+</details>
+<div style="text-align: right" markdown="1">
+HackRead
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Decentralized crypto platform Cetus hit with $223 million hack<a href="https://therecord.media/decentralized-crypto-platform-cetus-theft?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cetus, a decentralized cryptocurrency exchange operating on the Sui blockchain, suffered a significant cyberattack on Thursday, 22nd May, resulting in the theft of approximately $223 million.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerabilities in ABB ASPECT-Enterprise, NEXUS, and MATRIX Series Control Systems<a href="https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av25-290?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ABB has issued a security advisory (AV25-290) on May 22, 2025, addressing critical vulnerabilities in multiple control system products. These flaws affect ASPECT-Enterprise, NEXUS Series, and MATRIX Series devices running version 3.08.03 or earlier.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 22, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

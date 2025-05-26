@@ -8,6 +8,48 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TAG-110 Targets Tajikistan: New Macro Word Documents Phishing Tactics<a href="https://www.recordedfuture.com/research/russia-aligned-tag-110-targets-tajikistan-with-macro-enabled?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russia-aligned threat actor, TAG-110—linked to APT28 and UAC-0063—has launched a phishing campaign targeting Tajikistan’s government, academic, and research institutions.
+</details>
+<div style="text-align: right" markdown="1">
+Recorded Future
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake CAPTCHA Attacks Deploy Infostealers and RATs in a Multistage Payload Chain<a href="https://www.trendmicro.com/en_us/research/25/e/unmasking-fake-captcha-cases.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent wave of phishing campaigns is exploiting fake CAPTCHA pages to trick users into executing malicious commands via the Windows Run dialog. These attacks deliver multistage payloads using obfuscated JavaScript embedded in MP3 or PDF files.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another Fake Cloudflare Verification Targets WordPress Sites<a href="https://blog.sucuri.net/2025/05/another-fake-cloudflare-verification-targets-wordpress-sites.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware campaign is targeting WordPress sites by impersonating a Cloudflare verification page. This multistage infection uses social engineering and obfuscated PowerShell commands to deliver a malicious Windows executable
+</details>
+<div style="text-align: right" markdown="1">
+Sucuri
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 19, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

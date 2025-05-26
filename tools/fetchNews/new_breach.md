@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+May 23, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coca-Cola, Bottling Partner Named in Separate Ransomware and Data Breach Claims<a href="https://hackread.com/coca-cola-bottling-partner-ransomware-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Everest has listed Coca-Cola as a victim on its dark web leak site, releasing samples of internal HR documents affecting 959 employees. These include scans of passports and visas, salary data, and other personally identifiable information (PII).
+</details>
+<div style="text-align: right" markdown="1">
+HackRead
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 23, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Decentralized crypto platform Cetus hit with $223 million hack<a href="https://therecord.media/decentralized-crypto-platform-cetus-theft?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cetus, a decentralized cryptocurrency exchange operating on the Sui blockchain, suffered a significant cyberattack on Thursday, 22nd May, resulting in the theft of approximately $223 million.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 20, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

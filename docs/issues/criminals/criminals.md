@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Takedown Disrupts Danabot Malware-as-a-Service Infrastructure<a href="https://www.welivesecurity.com/en/eset-research/danabot-analyzing-fallen-empire/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI, DoD, and international partners dismantled Danabot’s infrastructure and identified key operators. Danabot was used to distribute malware like LockBit, Ursnif, and Zloader.
+</details>
+<div style="text-align: right" markdown="1">
+We Live Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 16, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

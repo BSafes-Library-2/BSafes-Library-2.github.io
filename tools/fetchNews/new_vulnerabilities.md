@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare Closes Security Gap That Could Leak Visitor URLs<a href="https://thecyberexpress.com/cloudflare-fixes-cve-2025-4366-in-pingora-oss/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloudflare has addressed CVE-2025-4366, a request smuggling vulnerability in the Pingora OSS framework, affecting its CDN free tier and users of pingora-proxy and pingora-cache crates.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical NETGEAR Router Flaw Allows Full Admin Access by Attackers<a href="https://gbhackers.com/netgear-router-flaw/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical authentication bypass vulnerability (CVE-2025-4978) has been discovered in NETGEAR DGND3700v2 wireless routers. The flaw, rated CVSSv4 9.3, allows unauthenticated attackers to gain full administrative access via a hidden backdoor.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 23, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple XNU Kernel Flaw Enables Attackers to Escalate Privileges<a href="https://gbhackers.com/apple-xnu-kernel-flaw/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has patched CVE-2025-31219, a critical vulnerability in the XNU kernel affecting macOS, iOS, iPadOS, tvOS, watchOS, and visionOS. The flaw allows local attackers to escalate privileges and execute arbitrary code with kernel-level access.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 23, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerabilities in ABB ASPECT-Enterprise, NEXUS, and MATRIX Series Control Systems<a href="https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av25-290?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ABB has issued a security advisory (AV25-290) on May 22, 2025, addressing critical vulnerabilities in multiple control system products. These flaws affect ASPECT-Enterprise, NEXUS Series, and MATRIX Series devices running version 3.08.03 or earlier.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 22, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
