@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2025
+May 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Takedown Disrupts Danabot Malware-as-a-Service Infrastructure<a href="https://www.welivesecurity.com/en/eset-research/danabot-analyzing-fallen-empire/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI, DoD, and international partners dismantled Danabot’s infrastructure and identified key operators. Danabot was used to distribute malware like LockBit, Ursnif, and Zloader.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare Closes Security Gap That Could Leak Visitor URLs<a href="https://thecyberexpress.com/cloudflare-fixes-cve-2025-4366-in-pingora-oss/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloudflare has addressed CVE-2025-4366, a request smuggling vulnerability in the Pingora OSS framework, affecting its CDN free tier and users of pingora-proxy and pingora-cache crates.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical NETGEAR Router Flaw Allows Full Admin Access by Attackers<a href="https://gbhackers.com/netgear-router-flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical authentication bypass vulnerability (CVE-2025-4978) has been discovered in NETGEAR DGND3700v2 wireless routers. The flaw, rated CVSSv4 9.3, allows unauthenticated attackers to gain full administrative access via a hidden backdoor.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple XNU Kernel Flaw Enables Attackers to Escalate Privileges<a href="https://gbhackers.com/apple-xnu-kernel-flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has patched CVE-2025-31219, a critical vulnerability in the XNU kernel affecting macOS, iOS, iPadOS, tvOS, watchOS, and visionOS. The flaw allows local attackers to escalate privileges and execute arbitrary code with kernel-level access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hacker group Killnet returns with new identity<a href="https://therecord.media/russian-hacker-group-killnet-returns-with-new-identity?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Once known for its pro-Kremlin hacktivist campaigns, the group now appears to function as a profit-driven cyber mercenary collective, offering hack-for-hire services and targeting a broader range of victims.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers use fake Ledger apps to steal Mac users’ seed phrases<a href="https://www.bleepingcomputer.com/news/security/hackers-use-fake-ledger-apps-to-steal-mac-users-seed-phrases/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A series of sophisticated phishing campaigns are targeting macOS users by distributing fake Ledger Live applications designed to steal 24-word seed phrases used to access cryptocurrency wallets.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Using Trusted Google Domains to Spread Malicious Code<a href="https://gbhackers.com/cybercriminals-using-trusted-google-domains/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malvertising campaign is leveraging trusted Google domains and outdated JSONP API calls to inject malicious scripts into legitimate e-commerce websites. These scripts redirect users to phishing pages that mimic payment portals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coca-Cola, Bottling Partner Named in Separate Ransomware and Data Breach Claims<a href="https://hackread.com/coca-cola-bottling-partner-ransomware-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Everest has listed Coca-Cola as a victim on its dark web leak site, releasing samples of internal HR documents affecting 959 employees. These include scans of passports and visas, salary data, and other personally identifiable information (PII).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Decentralized crypto platform Cetus hit with $223 million hack<a href="https://therecord.media/decentralized-crypto-platform-cetus-theft?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cetus, a decentralized cryptocurrency exchange operating on the Sui blockchain, suffered a significant cyberattack on Thursday, 22nd May, resulting in the theft of approximately $223 million.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerabilities in ABB ASPECT-Enterprise, NEXUS, and MATRIX Series Control Systems<a href="https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av25-290?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ABB has issued a security advisory (AV25-290) on May 22, 2025, addressing critical vulnerabilities in multiple control system products. These flaws affect ASPECT-Enterprise, NEXUS Series, and MATRIX Series devices running version 3.08.03 or earlier.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AI-Generated TikTok Videos Used to Distribute Infostealer Malware<a href="https://www.infosecurity-magazine.com/news/ai-tiktok-videos-infostealer/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ AI-Generated TikTok Videos Used to Distribute Infostealer Malware<a href="https:
 A new campaign is exploiting TikTok’s vast user base and viral content model to distribute information-stealing malware, including Vidar and StealC. It uses AI-generated videos to socially engineer users into executing malicious PowerShell commands.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2025
+May 22, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TAG-110 Targets Tajikistan: New Macro Word Documents Phishing Tactics<a href="https://www.recordedfuture.com/research/russia-aligned-tag-110-targets-tajikistan-with-macro-enabled?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ TAG-110 Targets Tajikistan: New Macro Word Documents Phishing Tactics<a href="ht
 A Russia-aligned threat actor, TAG-110—linked to APT28 and UAC-0063—has launched a phishing campaign targeting Tajikistan’s government, academic, and research institutions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Recorded Future
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2025
+May 22, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UAT-6382 exploits Cityworks zero-day vulnerability to deliver malware<a href="https://blog.talosintelligence.com/uat-6382-exploits-cityworks-vulnerability/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ UAT-6382 exploits Cityworks zero-day vulnerability to deliver malware<a href="ht
 A Chinese threat group, UAT-6382, is actively exploiting CVE-2025-0994—a remote code execution vulnerability in Trimble Cityworks—to deploy malware and maintain persistent access in U.S. local government networks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Talos Intelligence
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2025
+May 22, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Grafana security release: High severity security fix for CVE-2025-4123<a href="https://grafana.com/blog/2025/05/21/grafana-security-release-high-severity-security-fix-for-cve-2025-4123/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Grafana security release: High severity security fix for CVE-2025-4123<a href="h
 A high-severity cross-site scripting (XSS) vulnerability, tracked as CVE-2025-4123 with a CVSS score of 7.6, has been discovered in Grafana. This flaw allows attackers to redirect users to malicious websites and execute arbitrary JavaScript code.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Grafana
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2025
+May 22, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Versa Concerto 0-Day Flaw Enables Remote Code Execution by Bypassing Authentication<a href="https://gbhackers.com/versa-concerto-0-day-flaw-enables-remote-code-execution/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Versa Concerto 0-Day Flaw Enables Remote Code Execution by Bypassing Authenticat
 Multiple critical vulnerabilities in Versa Concerto (versions 12.1.2–12.2.0) remain unpatched, enabling attackers to bypass authentication and achieve remote code execution (RCE) and host compromise.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2025
+May 22, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake CAPTCHA Attacks Deploy Infostealers and RATs in a Multistage Payload Chain<a href="https://www.trendmicro.com/en_us/research/25/e/unmasking-fake-captcha-cases.html?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Fake CAPTCHA Attacks Deploy Infostealers and RATs in a Multistage Payload Chain<
 A recent wave of phishing campaigns is exploiting fake CAPTCHA pages to trick users into executing malicious commands via the Windows Run dialog. These attacks deliver multistage payloads using obfuscated JavaScript embedded in MP3 or PDF files.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Trend Micro
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2025
+May 22, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Identity Services RADIUS Process Vulnerability Let Attackers Trigger DoS Condition<a href="https://cybersecuritynews.com/cisco-identity-services-radius-vulnerability/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Cisco Identity Services RADIUS Process Vulnerability Let Attackers Trigger DoS C
 Cisco has disclosed a critical vulnerability in its Identity Services Engine (ISE) version 3.4 that allows unauthenticated remote attackers to trigger a denial-of-service (DoS) condition.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2025
+May 22, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Several GitLab Vulnerabilities Enable Attackers to Launch DoS Attacks<a href="https://gbhackers.com/several-gitlab-vulnerabilities-enable-attackers/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Several GitLab Vulnerabilities Enable Attackers to Launch DoS Attacks<a href="ht
 GitLab has released critical patches for 11 vulnerabilities in its CE and EE platforms, including three high-severity DoS flaws. These affect all deployment models and could lead to system downtime, data exposure, and authentication bypass.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2025
+May 22, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Targets Coinbase Users Targeted in Advanced Social Engineering Hack<a href="https://gbhackers.com/hackers-targets-coinbase-users/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Hackers Targets Coinbase Users Targeted in Advanced Social Engineering Hack<a hr
 A sophisticated social engineering campaign has been actively targeting Coinbase users since early 2025, resulting in over $300 million in annual losses and $45 million in a single week in May.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2025
+May 22, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Another Fake Cloudflare Verification Targets WordPress Sites<a href="https://blog.sucuri.net/2025/05/another-fake-cloudflare-verification-targets-wordpress-sites.html?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Another Fake Cloudflare Verification Targets WordPress Sites<a href="https://blo
 A new malware campaign is targeting WordPress sites by impersonating a Cloudflare verification page. This multistage infection uses social engineering and obfuscated PowerShell commands to deliver a malicious Windows executable
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sucuri
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
