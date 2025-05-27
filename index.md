@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2025
+May 26, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Zenmap. WinMRT sites target IT staff with Bumblebee malware<a href="https://www.bleepingcomputer.com/news/security/bumblebee-malware-distributed-via-zenmap-winmrt-seo-poisoning/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Fake Zenmap. WinMRT sites target IT staff with Bumblebee malware<a href="https:/
 Fake Zenmap and WinMRT websites are targeting IT staff with malware through SEO poisoning campaigns. These sites distribute trojanized installers for popular tools like Zenmap and WinMTR.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2025
+May 26, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 De-obfuscating ALCATRAZ<a href="https://www.elastic.co/security-labs/deobfuscating-alcatraz?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ De-obfuscating ALCATRAZ<a href="https://www.elastic.co/security-labs/deobfuscati
 Elastic Security Labs identified a new malware family called DOUBLELOADER, which uses the ALCATRAZ obfuscator for evasion and pairs with the RHADAMANTHYS infostealer. DOUBLELOADER employs multiple obfuscation techniques such as LEA obfuscation.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Elastic
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2025
+May 26, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Case of Larva-25004 Group (Related to Kimsuky) Exploiting Additional Certificate - Malware Signed with Nexaweb Certificate - ASEC<a href="https://asec.ahnlab.com/en/88132/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Case of Larva-25004 Group (Related to Kimsuky) Exploiting Additional Certificate
 ASEC has discovered malware signed with the certification of Nexaweb Inc. by investigating a file with the same characteristics as the one signed with a Korean company’s certificate.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+AhnLab
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2025
+May 26, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Google Meet Page Tricks Users into Running PowerShell Malware<a href="https://blog.sucuri.net/2025/05/fake-google-meet-page-tricks-users-into-running-powershell-malware.html?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Fake Google Meet Page Tricks Users into Running PowerShell Malware<a href="https
 A fake Google Meet page was discovered, designed to trick users into running a malicious PowerShell command under the guise of fixing a "Microphone Permission Denied" error.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sucuri
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2025
+May 26, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Oracle TNS Flaw Exposes System Memory to Unauthorized Access<a href="https://gbhackers.com/oracle-tns-flaw-exposes-system-memory-to-unauthorized-access/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Oracle TNS Flaw Exposes System Memory to Unauthorized Access<a href="https://gbh
 Oracle has patched a medium-severity vulnerability (CVE-2025-30733) in its Transparent Network Substrate (TNS) protocol, which could allow unauthenticated remote attackers to access sensitive system memory.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2025
+May 26, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical RCE Vulnerability in vBulletin via PHP Reflection API Bypass<a href="https://karmainsecurity.com/dont-call-that-protected-method-vbulletin-rce?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Critical RCE Vulnerability in vBulletin via PHP Reflection API Bypass<a href="ht
 A critical vulnerability in vBulletin versions 5.x and 6.x running on PHP 8.1 or later allows unauthenticated attackers to invoke protected methods remotely, leading to remote code execution (RCE).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Karmain Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2025
+May 26, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 D-Link Routers Exposed by Hard-Coded Telnet Credentials<a href="https://gbhackers.com/d-link-exposed-hard-coded/?&web_view=true"> Full Text</a>
@@ -140,7 +140,7 @@ D-Link Routers Exposed by Hard-Coded Telnet Credentials<a href="https://gbhacker
 A critical vulnerability identified as CVE-2025-46176 affects D-Link DIR-605L and DIR-816L routers, exposing hardcoded Telnet credentials that allow unauthenticated remote command execution.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

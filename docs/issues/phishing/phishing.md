@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Zenmap. WinMRT sites target IT staff with Bumblebee malware<a href="https://www.bleepingcomputer.com/news/security/bumblebee-malware-distributed-via-zenmap-winmrt-seo-poisoning/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fake Zenmap and WinMRT websites are targeting IT staff with malware through SEO poisoning campaigns. These sites distribute trojanized installers for popular tools like Zenmap and WinMTR.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Google Meet Page Tricks Users into Running PowerShell Malware<a href="https://blog.sucuri.net/2025/05/fake-google-meet-page-tricks-users-into-running-powershell-malware.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A fake Google Meet page was discovered, designed to trick users into running a malicious PowerShell command under the guise of fixing a "Microphone Permission Denied" error.
+</details>
+<div style="text-align: right" markdown="1">
+Sucuri
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 23, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
