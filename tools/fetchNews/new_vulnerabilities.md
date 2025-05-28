@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 27, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Critical Vulnerability in TI WooCommerce Wishlist Plugin<a href="https://patchstack.com/articles/unpatched-critical-vulnerability-in-ti-woocommerce-wishlist-plugin/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical unauthenticated arbitrary file upload vulnerability, tracked as CVE-2025-47577, has been discovered in the TI WooCommerce Wishlist plugin for WordPress. The flaw affects all versions up to and including 2.9.2.
+</details>
+<div style="text-align: right" markdown="1">
+Patch Stack
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Arm Mali GPU Vulnerability Enables Bypass of MTE and Arbitrary Kernel Code Execution<a href="https://gbhackers.com/arm-mali-gpu-vulnerability-enables-bypass-of-mte/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability, CVE-2025-0072, has been identified in the Arm Mali GPU driver, affecting devices using the Command Stream Frontend (CSF) architecture, including Google Pixel 7, 8, and 9 series.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical GitHub MCP Server Vulnerability Allows Unauthorized Access to Private Repositories<a href="https://gbhackers.com/critical-github-mcp-server-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in the GitHub MCP integration has been discovered, exposing private repository data through prompt injection attacks. This flaw affects users leveraging coding agents and IDEs integrated with GitHub MCP.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit HTTP/2 Flaw to Launch Arbitrary Cross-Site Scripting Attacks<a href="https://gbhackers.com/hackers-exploit-http-2-flaw/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have uncovered critical vulnerabilities in HTTP/2 server push and Signed HTTP Exchange (SXG) that allow attackers to bypass the Same-Origin Policy (SOP). These flaws enable off-path attacks.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 26, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

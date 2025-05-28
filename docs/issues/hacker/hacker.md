@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 27, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-Affiliated Threat Actor Void Blizzard Targets NATO and Ukraine with Credential Theft and Cloud Abuse<a href="https://www.microsoft.com/en-us/security/blog/2025/05/27/new-russia-affiliated-actor-void-blizzard-targets-critical-sectors-for-espionage/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly identified Russia-affiliated threat actor, Void Blizzard (also known as LAUNDRY BEAR), has been conducting widespread cyberespionage operations targeting critical sectors across NATO member states and Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+Microsoft
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 23, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

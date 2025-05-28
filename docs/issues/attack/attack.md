@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+May 27, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DragonForce actors target SimpleHelp vulnerabilities to attack MSP, customers<a href="https://news.sophos.com/en-us/2025/05/27/dragonforce-actors-target-simplehelp-vulnerabilities-to-attack-msp-customers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent targeted ransomware attack leveraged vulnerabilities in SimpleHelp remote monitoring and management (RMM) software to compromise a Managed Service Provider (MSP) and its clients.
+</details>
+<div style="text-align: right" markdown="1">
+Sophos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 20, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

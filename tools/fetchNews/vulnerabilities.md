@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oracle TNS Flaw Exposes System Memory to Unauthorized Access<a href="https://gbhackers.com/oracle-tns-flaw-exposes-system-memory-to-unauthorized-access/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Oracle has patched a medium-severity vulnerability (CVE-2025-30733) in its Transparent Network Substrate (TNS) protocol, which could allow unauthenticated remote attackers to access sensitive system memory.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Vulnerability in vBulletin via PHP Reflection API Bypass<a href="https://karmainsecurity.com/dont-call-that-protected-method-vbulletin-rce?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in vBulletin versions 5.x and 6.x running on PHP 8.1 or later allows unauthenticated attackers to invoke protected methods remotely, leading to remote code execution (RCE).
+</details>
+<div style="text-align: right" markdown="1">
+Karmain Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+D-Link Routers Exposed by Hard-Coded Telnet Credentials<a href="https://gbhackers.com/d-link-exposed-hard-coded/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability identified as CVE-2025-46176 affects D-Link DIR-605L and DIR-816L routers, exposing hardcoded Telnet credentials that allow unauthenticated remote command execution.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 24, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

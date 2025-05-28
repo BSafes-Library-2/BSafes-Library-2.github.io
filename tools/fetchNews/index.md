@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Critical Vulnerability in TI WooCommerce Wishlist Plugin<a href="https://patchstack.com/articles/unpatched-critical-vulnerability-in-ti-woocommerce-wishlist-plugin/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical unauthenticated arbitrary file upload vulnerability, tracked as CVE-2025-47577, has been discovered in the TI WooCommerce Wishlist plugin for WordPress. The flaw affects all versions up to and including 2.9.2.
+</details>
+<div style="text-align: right" markdown="1">
+Patch Stack
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AppleProcessHub macOS Malware Steals Sensitive Data Using Advanced Evasion and C2 Techniques<a href="https://www.kandji.io/blog/macos-appleprocesshub-stealer?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly identified macOS malware, AppleProcessHub, is actively targeting Apple systems to steal sensitive data. This sophisticated stealer demonstrates advanced evasion and persistence techniques, signaling a growing threat to macOS environments.
+</details>
+<div style="text-align: right" markdown="1">
+Kandji
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2025 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Velvet Chollima APTHackers Target Government Officials Using Weaponized PDFs<a href="https://gbhackers.com/velvet-chollima-apthackers-target-government-officials/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new cyber-espionage campaign attributed to the North Korean APT group Velvet Chollima has been identified, targeting South Korean government officials and organizations across North America, South America, Europe, and East Asia.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2025 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-Affiliated Threat Actor Void Blizzard Targets NATO and Ukraine with Credential Theft and Cloud Abuse<a href="https://www.microsoft.com/en-us/security/blog/2025/05/27/new-russia-affiliated-actor-void-blizzard-targets-critical-sectors-for-espionage/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly identified Russia-affiliated threat actor, Void Blizzard (also known as LAUNDRY BEAR), has been conducting widespread cyberespionage operations targeting critical sectors across NATO member states and Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+Microsoft
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DragonForce actors target SimpleHelp vulnerabilities to attack MSP, customers<a href="https://news.sophos.com/en-us/2025/05/27/dragonforce-actors-target-simplehelp-vulnerabilities-to-attack-msp-customers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent targeted ransomware attack leveraged vulnerabilities in SimpleHelp remote monitoring and management (RMM) software to compromise a Managed Service Provider (MSP) and its clients.
+</details>
+<div style="text-align: right" markdown="1">
+Sophos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GhostSpy Android Malware Grants Full Device Control and Evades Detection<a href="https://www.cyfirma.com/research/ghostspy-web-based-android-rat-advanced-persistent-rat-with-stealthy-remote-control-and-uninstall-resistance/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GhostSpy is a newly identified Android malware that poses a severe threat to mobile security by granting attackers full control over infected devices. It employs advanced evasion, persistence, and surveillance techniques.
+</details>
+<div style="text-align: right" markdown="1">
+Cyfirma
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Arm Mali GPU Vulnerability Enables Bypass of MTE and Arbitrary Kernel Code Execution<a href="https://gbhackers.com/arm-mali-gpu-vulnerability-enables-bypass-of-mte/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability, CVE-2025-0072, has been identified in the Arm Mali GPU driver, affecting devices using the Command Stream Frontend (CSF) architecture, including Google Pixel 7, 8, and 9 series.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical GitHub MCP Server Vulnerability Allows Unauthorized Access to Private Repositories<a href="https://gbhackers.com/critical-github-mcp-server-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in the GitHub MCP integration has been discovered, exposing private repository data through prompt injection attacks. This flaw affects users leveraging coding agents and IDEs integrated with GitHub MCP.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit HTTP/2 Flaw to Launch Arbitrary Cross-Site Scripting Attacks<a href="https://gbhackers.com/hackers-exploit-http-2-flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have uncovered critical vulnerabilities in HTTP/2 server push and Signed HTTP Exchange (SXG) that allow attackers to bypass the Same-Origin Policy (SOP). These flaws enable off-path attacks.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SilverRAT Remote Access Trojan Source Code Leaked on GitHub<a href="https://hackread.com/silverrat-source-code-leaked-online-you-need-to-know/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The full source code of SilverRAT was briefly leaked on GitHub under the repository “SilverRAT-FULL-Source-Code” before being swiftly removed. The leak included complete build instructions, Visual Studio solution files, and a README
+</details>
+<div style="text-align: right" markdown="1">
+HackRead
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 26, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
