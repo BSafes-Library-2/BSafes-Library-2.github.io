@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 28, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+XenServer Windows VM Tools Flaw Enables Attackers to Run Arbitrary Code<a href="https://gbhackers.com/xenserver-windows-vm-tools-flaw/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Citrix has disclosed three high-severity vulnerabilities (CVE-2025-27462, CVE-2025-27463, CVE-2025-27464) in XenServer VM Tools for Windows, enabling attackers to escalate privileges within guest Windows VMs.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 28, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Weaponizing DCOM to harvest credentials on Windows systems<a href="https://gbhackers.com/threat-actors-weaponizing-dcom-to-harvest-credentials/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new stealthy attack technique is leveraging Distributed Component Object Model (DCOM) objects on Windows systems to harvest credentials without deploying payloads or triggering traditional security alerts.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 28, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome 137 Fixes Critical Use-After-Free and Memory Corruption Vulnerabilities<a href="https://chromereleases.googleblog.com/2025/05?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome version 137.0.7151.55/56 to the stable channel for Windows, Mac, and Linux, addressing 11 security vulnerabilities. This update includes critical patches for memory corruption issues and API implementation flaws
+</details>
+<div style="text-align: right" markdown="1">
+Google
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

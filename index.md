@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2025
+May 28, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 XenServer Windows VM Tools Flaw Enables Attackers to Run Arbitrary Code<a href="https://gbhackers.com/xenserver-windows-vm-tools-flaw/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ XenServer Windows VM Tools Flaw Enables Attackers to Run Arbitrary Code<a href="
 Citrix has disclosed three high-severity vulnerabilities (CVE-2025-27462, CVE-2025-27463, CVE-2025-27464) in XenServer VM Tools for Windows, enabling attackers to escalate privileges within guest Windows VMs.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2025
+May 28, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data broker giant LexisNexis says breach exposed personal information of over 364,000 people<a href="https://techcrunch.com/2025/05/28/data-broker-giant-lexisnexis-says-breach-exposed-personal-information-of-over-364000-people/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Data broker giant LexisNexis says breach exposed personal information of over 36
 LexisNexis Risk Solutions has disclosed a significant data breach that compromised the personal information of over 364,000 individuals. The breach involved unauthorized access to a third-party software development platform used by the company.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Tech Crunch
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2025
+May 28, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actors Weaponizing DCOM to harvest credentials on Windows systems<a href="https://gbhackers.com/threat-actors-weaponizing-dcom-to-harvest-credentials/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Threat Actors Weaponizing DCOM to harvest credentials on Windows systems<a href=
 A new stealthy attack technique is leveraging Distributed Component Object Model (DCOM) objects on Windows systems to harvest credentials without deploying payloads or triggering traditional security alerts.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2025
+May 28, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing Campaign Spoofs Coursera to Steal Facebook Credentials via Fake Meta Certificate Offer<a href="https://cofense.com/blog/fake-course-real-threat-learning-a-phishing-lesson-the-hard-way?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Phishing Campaign Spoofs Coursera to Steal Facebook Credentials via Fake Meta Ce
 A sophisticated phishing campaign has been uncovered that impersonates Coursera and offers a free Meta Social Media Marketing certificate to lure victims into a multi-stage phishing trap.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cofense
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2025
+May 28, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zanubis Android Banking Trojan Evolves with Silent Installation and Credential Theft Capabilities<a href="https://securelist.com/evolution-of-zanubis-banking-trojan-for-android/116588/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Zanubis Android Banking Trojan Evolves with Silent Installation and Credential T
 Zanubis is a sophisticated Android banking Trojan active since 2022, targeting Peruvian financial institutions. It masquerades as legitimate apps to trick users into granting accessibility permissions, enabling full device control.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Secure List
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2025
+May 28, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese spies blamed for attempted hack on Czech government network<a href="https://therecord.media/czechia-accuses-china-cyber-espionage-apt31?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Chinese spies blamed for attempted hack on Czech government network<a href="http
 
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2025
+May 28, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 251 Amazon-Hosted IPs Used in Exploit Scan Targeting ColdFusion, Struts, and Elasticsearch<a href="https://thehackernews.com/2025/05/251-amazon-hosted-ips-used-in-exploit.html?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ May 28, 2025
 Researchers observed a coordinated cloud-based scanning operation involving 251 Amazon-hosted IP addresses geolocated in Japan. They targeted 75 known exposure points across various technologies, exploiting multiple high-severity vulnerabilities.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2025
+May 28, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crooks use a fake antivirus site to spread Venom RAT and a mix of malware<a href="https://securityaffairs.com/178366/malware/fake-antivirus-spreads-venom-rat.html?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Crooks use a fake antivirus site to spread Venom RAT and a mix of malware<a href
 A malicious campaign is distributing Venom RAT via a fake Bitdefender website (bitdefender-download[.]com), tricking users into downloading malware disguised as antivirus software.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2025
+May 28, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Publishes ICS Advisories Highlighting New Vulnerabilities and Exploits<a href="https://gbhackers.com/cisa-publishes-ics-advisories/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ CISA Publishes ICS Advisories Highlighting New Vulnerabilities and Exploits<a hr
 On May 27, 2025, the Cybersecurity and Infrastructure Security Agency (CISA) issued ICS advisory ICSA-25-146-01, disclosing a high-severity vulnerability (CVE-2025-26383) in the Johnson Controls iSTAR Configuration Utility (ICU) Tool.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2025
+May 28, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chrome 137 Fixes Critical Use-After-Free and Memory Corruption Vulnerabilities<a href="https://chromereleases.googleblog.com/2025/05?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Chrome 137 Fixes Critical Use-After-Free and Memory Corruption Vulnerabilities<a
 Google has released Chrome version 137.0.7151.55/56 to the stable channel for Windows, Mac, and Linux, addressing 11 security vulnerabilities. This update includes critical patches for memory corruption issues and API implementation flaws
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Google
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

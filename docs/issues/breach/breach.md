@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+May 28, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data broker giant LexisNexis says breach exposed personal information of over 364,000 people<a href="https://techcrunch.com/2025/05/28/data-broker-giant-lexisnexis-says-breach-exposed-personal-information-of-over-364000-people/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LexisNexis Risk Solutions has disclosed a significant data breach that compromised the personal information of over 364,000 individuals. The breach involved unauthorized access to a third-party software development platform used by the company.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 23, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

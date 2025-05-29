@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+May 28, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Publishes ICS Advisories Highlighting New Vulnerabilities and Exploits<a href="https://gbhackers.com/cisa-publishes-ics-advisories/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On May 27, 2025, the Cybersecurity and Infrastructure Security Agency (CISA) issued ICS advisory ICSA-25-146-01, disclosing a high-severity vulnerability (CVE-2025-26383) in the Johnson Controls iSTAR Configuration Utility (ICU) Tool.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 16, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

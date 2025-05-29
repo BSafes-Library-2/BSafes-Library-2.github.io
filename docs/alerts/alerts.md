@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2025 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Johnson Controls iSTAR Configuration Utility (ICU) Tool <a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-146-01"> Full Text</a>
+</p>
+<details>
+Successful exploitation of this vulnerability may allow an attacker to gain access to memory leaked from the ICU. This utility is only used to configure products that are no longer manufactured or supported. ICU is not used to configure the iSTAR Ultra and the current iSTAR G2 series of controllers. Furthermore, this vulnerability only impacts ICU and the Windows PC it is running on. This vulnerability does not impact iSTARs, including the legacy iSTARs.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 15, 2025 - FBI
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
