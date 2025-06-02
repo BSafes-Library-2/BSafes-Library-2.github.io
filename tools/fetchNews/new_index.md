@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2025
+May 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Use Gh0st RAT to Hijack Internet Café Systems for Crypto Mining<a href="https://gbhackers.com/hackers-use-gh0st-rat-to-hijack-internet-cafe/1748613632?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated malware campaign has been targeting South Korean Internet cafés since mid-2024, exploiting management software to deploy Gh0st RAT and T-Rex CoinMiner for unauthorized cryptocurrency mining.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actor Claims TikTok Breach, Puts 428 Million Records Up for Sale<a href="https://hackread.com/threat-actor-tiktok-breach-428-million-records-sale/1748615489?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly emerged threat actor, “Often9,” has claimed to possess a dataset containing 428 million unique TikTok user records. The data is allegedly being sold on a prominent cybercrime forum and includes sensitive, non-public user information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Earth Lamia Develops Custom Arsenal to Target Multiple Industries<a href="https://www.trendmicro.com/en_us/research/25/e/earth-lamia.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese threat actor group known as Earth Lamia has been actively exploiting known vulnerabilities in public-facing web applications to compromise organizations across sectors such as finance, government, IT, logistics, retail, and education.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers give Botetourt County Schools 2 weeks to pay ransom after cyber attack<a href="https://www.comparitech.com/news/hackers-give-botetourt-county-schools-2-weeks-to-pay-ransom-after-cyber-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack attributed to the Qilin group has targeted Botetourt County Public Schools (BCPS) in Virginia. The attackers claim to have exfiltrated 315 GB of sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nifty.com Used as Phishing Infrastructure: How Raven Detected Abuse of Trusted Infrastructure<a href="https://ravenmail.io/blog/nifty-phishing?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated phishing campaign has been uncovered leveraging the legitimate infrastructure of Japanese ISP Nifty[.]com. This multi-wave operation bypassed traditional email defenses by exploiting trusted domains and authentication protocols.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Hardcoded Credential Vulnerabilities in Consilium Salwico CS5000 Fire Panels<a href="https://www.pentestpartners.com/security-blog/fire-detection-system-been-pwned-youre-not-going-to-sea/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Critical vulnerabilities in Consilium Salwico CS5000 fire panels expose maritime vessels to severe operational risks. Hardcoded SSH and VNC credentials allow remote access, potentially disabling fire detection systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Windows RAT Evades Detection for Weeks Using Corrupted DOS and PE Headers<a href="https://thehackernews.com/2025/05/new-windows-rat-evades-detection-for.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered Remote Access Trojan (RAT) targeting Windows systems employs corrupted DOS and PE headers to evade detection and hinder analysis. The malware was found running undetected for several weeks on a compromised host.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ConnectWise Confirms Hack, “Very Small Number” of Customers Affected<a href="https://www.infosecurity-magazine.com/news/connectwise-confirms-hack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ConnectWise has confirmed a cyberattack on its ScreenConnect remote access platform, attributed to a sophisticated nation-state threat actor. The breach affected a limited number of customers
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache InLong JDBC Vulnerability Enables Deserialization of Untrusted Data<a href="https://gbhackers.com/apache-inlong-jdbc-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A moderate-severity vulnerability, CVE-2025-27522, has been identified in Apache InLong versions 1.13.0 through 2.1.0. It allows deserialization of untrusted data during JDBC verification, enabling attackers to bypass security mechanisms.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals camouflaging threats as AI tool installers<a href="https://blog.talosintelligence.com/fake-ai-tool-installers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are distributing malware disguised as AI tool installers, targeting users seeking AI solutions. Cisco Talos has identified three major threats: CyberLock ransomware, Lucky_Gh0$t ransomware, and a destructive malware named Numero.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 XenServer Windows VM Tools Flaw Enables Attackers to Run Arbitrary Code<a href="https://gbhackers.com/xenserver-windows-vm-tools-flaw/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ XenServer Windows VM Tools Flaw Enables Attackers to Run Arbitrary Code<a href="
 Citrix has disclosed three high-severity vulnerabilities (CVE-2025-27462, CVE-2025-27463, CVE-2025-27464) in XenServer VM Tools for Windows, enabling attackers to escalate privileges within guest Windows VMs.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2025
+May 28, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data broker giant LexisNexis says breach exposed personal information of over 364,000 people<a href="https://techcrunch.com/2025/05/28/data-broker-giant-lexisnexis-says-breach-exposed-personal-information-of-over-364000-people/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Data broker giant LexisNexis says breach exposed personal information of over 36
 LexisNexis Risk Solutions has disclosed a significant data breach that compromised the personal information of over 364,000 individuals. The breach involved unauthorized access to a third-party software development platform used by the company.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Tech Crunch
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2025
+May 28, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actors Weaponizing DCOM to harvest credentials on Windows systems<a href="https://gbhackers.com/threat-actors-weaponizing-dcom-to-harvest-credentials/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Threat Actors Weaponizing DCOM to harvest credentials on Windows systems<a href=
 A new stealthy attack technique is leveraging Distributed Component Object Model (DCOM) objects on Windows systems to harvest credentials without deploying payloads or triggering traditional security alerts.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2025
+May 28, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing Campaign Spoofs Coursera to Steal Facebook Credentials via Fake Meta Certificate Offer<a href="https://cofense.com/blog/fake-course-real-threat-learning-a-phishing-lesson-the-hard-way?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Phishing Campaign Spoofs Coursera to Steal Facebook Credentials via Fake Meta Ce
 A sophisticated phishing campaign has been uncovered that impersonates Coursera and offers a free Meta Social Media Marketing certificate to lure victims into a multi-stage phishing trap.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cofense
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2025
+May 28, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zanubis Android Banking Trojan Evolves with Silent Installation and Credential Theft Capabilities<a href="https://securelist.com/evolution-of-zanubis-banking-trojan-for-android/116588/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Zanubis Android Banking Trojan Evolves with Silent Installation and Credential T
 Zanubis is a sophisticated Android banking Trojan active since 2022, targeting Peruvian financial institutions. It masquerades as legitimate apps to trick users into granting accessibility permissions, enabling full device control.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Secure List
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2025
+May 28, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese spies blamed for attempted hack on Czech government network<a href="https://therecord.media/czechia-accuses-china-cyber-espionage-apt31?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Chinese spies blamed for attempted hack on Czech government network<a href="http
 
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2025
+May 28, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 251 Amazon-Hosted IPs Used in Exploit Scan Targeting ColdFusion, Struts, and Elasticsearch<a href="https://thehackernews.com/2025/05/251-amazon-hosted-ips-used-in-exploit.html?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ May 28, 2025
 Researchers observed a coordinated cloud-based scanning operation involving 251 Amazon-hosted IP addresses geolocated in Japan. They targeted 75 known exposure points across various technologies, exploiting multiple high-severity vulnerabilities.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2025
+May 28, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crooks use a fake antivirus site to spread Venom RAT and a mix of malware<a href="https://securityaffairs.com/178366/malware/fake-antivirus-spreads-venom-rat.html?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Crooks use a fake antivirus site to spread Venom RAT and a mix of malware<a href
 A malicious campaign is distributing Venom RAT via a fake Bitdefender website (bitdefender-download[.]com), tricking users into downloading malware disguised as antivirus software.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2025
+May 28, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Publishes ICS Advisories Highlighting New Vulnerabilities and Exploits<a href="https://gbhackers.com/cisa-publishes-ics-advisories/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ CISA Publishes ICS Advisories Highlighting New Vulnerabilities and Exploits<a hr
 On May 27, 2025, the Cybersecurity and Infrastructure Security Agency (CISA) issued ICS advisory ICSA-25-146-01, disclosing a high-severity vulnerability (CVE-2025-26383) in the Johnson Controls iSTAR Configuration Utility (ICU) Tool.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2025
+May 28, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chrome 137 Fixes Critical Use-After-Free and Memory Corruption Vulnerabilities<a href="https://chromereleases.googleblog.com/2025/05?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Chrome 137 Fixes Critical Use-After-Free and Memory Corruption Vulnerabilities<a
 Google has released Chrome version 137.0.7151.55/56 to the stable channel for Windows, Mac, and Linux, addressing 11 security vulnerabilities. This update includes critical patches for memory corruption issues and API implementation flaws
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Google
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

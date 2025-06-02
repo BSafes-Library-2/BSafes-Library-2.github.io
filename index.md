@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Use Gh0st RAT to Hijack Internet Café Systems for Crypto Mining<a href="https://gbhackers.com/hackers-use-gh0st-rat-to-hijack-internet-cafe/1748613632?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated malware campaign has been targeting South Korean Internet cafés since mid-2024, exploiting management software to deploy Gh0st RAT and T-Rex CoinMiner for unauthorized cryptocurrency mining.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actor Claims TikTok Breach, Puts 428 Million Records Up for Sale<a href="https://hackread.com/threat-actor-tiktok-breach-428-million-records-sale/1748615489?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly emerged threat actor, “Often9,” has claimed to possess a dataset containing 428 million unique TikTok user records. The data is allegedly being sold on a prominent cybercrime forum and includes sensitive, non-public user information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Earth Lamia Develops Custom Arsenal to Target Multiple Industries<a href="https://www.trendmicro.com/en_us/research/25/e/earth-lamia.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese threat actor group known as Earth Lamia has been actively exploiting known vulnerabilities in public-facing web applications to compromise organizations across sectors such as finance, government, IT, logistics, retail, and education.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers give Botetourt County Schools 2 weeks to pay ransom after cyber attack<a href="https://www.comparitech.com/news/hackers-give-botetourt-county-schools-2-weeks-to-pay-ransom-after-cyber-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack attributed to the Qilin group has targeted Botetourt County Public Schools (BCPS) in Virginia. The attackers claim to have exfiltrated 315 GB of sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nifty.com Used as Phishing Infrastructure: How Raven Detected Abuse of Trusted Infrastructure<a href="https://ravenmail.io/blog/nifty-phishing?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated phishing campaign has been uncovered leveraging the legitimate infrastructure of Japanese ISP Nifty[.]com. This multi-wave operation bypassed traditional email defenses by exploiting trusted domains and authentication protocols.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Hardcoded Credential Vulnerabilities in Consilium Salwico CS5000 Fire Panels<a href="https://www.pentestpartners.com/security-blog/fire-detection-system-been-pwned-youre-not-going-to-sea/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Critical vulnerabilities in Consilium Salwico CS5000 fire panels expose maritime vessels to severe operational risks. Hardcoded SSH and VNC credentials allow remote access, potentially disabling fire detection systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Windows RAT Evades Detection for Weeks Using Corrupted DOS and PE Headers<a href="https://thehackernews.com/2025/05/new-windows-rat-evades-detection-for.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered Remote Access Trojan (RAT) targeting Windows systems employs corrupted DOS and PE headers to evade detection and hinder analysis. The malware was found running undetected for several weeks on a compromised host.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ConnectWise Confirms Hack, “Very Small Number” of Customers Affected<a href="https://www.infosecurity-magazine.com/news/connectwise-confirms-hack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ConnectWise has confirmed a cyberattack on its ScreenConnect remote access platform, attributed to a sophisticated nation-state threat actor. The breach affected a limited number of customers
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache InLong JDBC Vulnerability Enables Deserialization of Untrusted Data<a href="https://gbhackers.com/apache-inlong-jdbc-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A moderate-severity vulnerability, CVE-2025-27522, has been identified in Apache InLong versions 1.13.0 through 2.1.0. It allows deserialization of untrusted data during JDBC verification, enabling attackers to bypass security mechanisms.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals camouflaging threats as AI tool installers<a href="https://blog.talosintelligence.com/fake-ai-tool-installers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are distributing malware disguised as AI tool installers, targeting users seeking AI solutions. Cisco Talos has identified three major threats: CyberLock ransomware, Lucky_Gh0$t ransomware, and a destructive malware named Numero.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 28, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
