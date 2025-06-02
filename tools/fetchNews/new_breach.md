@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+May 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actor Claims TikTok Breach, Puts 428 Million Records Up for Sale<a href="https://hackread.com/threat-actor-tiktok-breach-428-million-records-sale/1748615489?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly emerged threat actor, “Often9,” has claimed to possess a dataset containing 428 million unique TikTok user records. The data is allegedly being sold on a prominent cybercrime forum and includes sensitive, non-public user information.
+</details>
+<div style="text-align: right" markdown="1">
+HackRead
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 29, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ConnectWise Confirms Hack, “Very Small Number” of Customers Affected<a href="https://www.infosecurity-magazine.com/news/connectwise-confirms-hack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ConnectWise has confirmed a cyberattack on its ScreenConnect remote access platform, attributed to a sophisticated nation-state threat actor. The breach affected a limited number of customers
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 28, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nifty.com Used as Phishing Infrastructure: How Raven Detected Abuse of Trusted Infrastructure<a href="https://ravenmail.io/blog/nifty-phishing?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated phishing campaign has been uncovered leveraging the legitimate infrastructure of Japanese ISP Nifty[.]com. This multi-wave operation bypassed traditional email defenses by exploiting trusted domains and authentication protocols.
+</details>
+<div style="text-align: right" markdown="1">
+Raven Mail
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 28, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

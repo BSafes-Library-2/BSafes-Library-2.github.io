@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+May 28, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese spies blamed for attempted hack on Czech government network<a href="https://therecord.media/czechia-accuses-china-cyber-espionage-apt31?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 28, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+251 Amazon-Hosted IPs Used in Exploit Scan Targeting ColdFusion, Struts, and Elasticsearch<a href="https://thehackernews.com/2025/05/251-amazon-hosted-ips-used-in-exploit.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers observed a coordinated cloud-based scanning operation involving 251 Amazon-hosted IP addresses geolocated in Japan. They targeted 75 known exposure points across various technologies, exploiting multiple high-severity vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

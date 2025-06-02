@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Hardcoded Credential Vulnerabilities in Consilium Salwico CS5000 Fire Panels<a href="https://www.pentestpartners.com/security-blog/fire-detection-system-been-pwned-youre-not-going-to-sea/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Critical vulnerabilities in Consilium Salwico CS5000 fire panels expose maritime vessels to severe operational risks. Hardcoded SSH and VNC credentials allow remote access, potentially disabling fire detection systems.
+</details>
+<div style="text-align: right" markdown="1">
+Pentest Partners
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 29, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache InLong JDBC Vulnerability Enables Deserialization of Untrusted Data<a href="https://gbhackers.com/apache-inlong-jdbc-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A moderate-severity vulnerability, CVE-2025-27522, has been identified in Apache InLong versions 1.13.0 through 2.1.0. It allows deserialization of untrusted data during JDBC verification, enabling attackers to bypass security mechanisms.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 28, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

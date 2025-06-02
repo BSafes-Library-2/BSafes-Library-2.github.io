@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 29, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals camouflaging threats as AI tool installers<a href="https://blog.talosintelligence.com/fake-ai-tool-installers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are distributing malware disguised as AI tool installers, targeting users seeking AI solutions. Cisco Talos has identified three major threats: CyberLock ransomware, Lucky_Gh0$t ransomware, and a destructive malware named Numero.
+</details>
+<div style="text-align: right" markdown="1">
+Talos Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 24, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

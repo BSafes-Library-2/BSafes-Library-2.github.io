@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+May 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Use Gh0st RAT to Hijack Internet Café Systems for Crypto Mining<a href="https://gbhackers.com/hackers-use-gh0st-rat-to-hijack-internet-cafe/1748613632?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated malware campaign has been targeting South Korean Internet cafés since mid-2024, exploiting management software to deploy Gh0st RAT and T-Rex CoinMiner for unauthorized cryptocurrency mining.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers give Botetourt County Schools 2 weeks to pay ransom after cyber attack<a href="https://www.comparitech.com/news/hackers-give-botetourt-county-schools-2-weeks-to-pay-ransom-after-cyber-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack attributed to the Qilin group has targeted Botetourt County Public Schools (BCPS) in Virginia. The attackers claim to have exfiltrated 315 GB of sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 28, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
