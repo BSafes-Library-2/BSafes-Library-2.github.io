@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 2, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Ukraine hacker group Black Owl poses ‘major threat’ to Russia, Kaspersky says<a href="https://therecord.media/pro-ukraine-hacker-group-black-owl-major-threat-russia?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BO Team (Black Owl) is a pro-Ukraine hacktivist group that has emerged as a significant cyber threat to Russian state institutions and critical industries. BO Team employs a sophisticated and patient approach to cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 30, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

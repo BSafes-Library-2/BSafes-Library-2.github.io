@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 2, 2025
+June 2, 2025 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pro-Ukraine hacker group Black Owl poses ‘major threat’ to Russia, Kaspersky says<a href="https://therecord.media/pro-ukraine-hacker-group-black-owl-major-threat-russia?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Pro-Ukraine hacker group Black Owl poses ‘major threat’ to Russia, Kaspersky
 BO Team (Black Owl) is a pro-Ukraine hacktivist group that has emerged as a significant cyber threat to Russian state institutions and critical industries. BO Team employs a sophisticated and patient approach to cyberattacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 2, 2025
+June 2, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Next Step Healthcare data breach leaks patients' SSNs, medical records, and credit cards<a href="https://www.comparitech.com/news/next-step-healthcare-data-breach-leaks-patients-ssns-medical-records-and-credit-cards/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Next Step Healthcare data breach leaks patients' SSNs, medical records, and cred
 Next Step Healthcare, a provider of nursing and rehabilitation services in Massachusetts, experienced a ransomware attack in June 2024 that compromised sensitive patient data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CompariTech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 2, 2025
+June 2, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Acreed Emerges as Dominant Infostealer Threat Following Lumma Takedown<a href="https://www.infosecurity-magazine.com/news/acreed-dominant-infostealer-lumma/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Acreed Emerges as Dominant Infostealer Threat Following Lumma Takedown<a href="h
 Acreed, a new infostealer malware strain, has rapidly risen to prominence in the cybercriminal ecosystem following the global takedown of Lumma Stealer (LummaC2) in May 2025.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 2, 2025
+June 2, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 50,000+ Azure AD Users Exposed via Unsecured API: BeVigil Uncovers Critical Flaw<a href="https://www.cloudsek.com/blog/50-000-azure-ad-users-exposed-via-unsecured-api-bevigil-uncovers-critical-flaw?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ June 2, 2025
 A critical security vulnerability was discovered in an aviation company’s infrastructure. The flaw involved an unauthenticated API endpoint embedded in a JavaScript file, which issued Microsoft Graph tokens with elevated privileges.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CloudSek
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 2, 2025
+June 2, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Weaponize Free SSH Client PuTTY to Deliver Malware on Windows<a href="https://gbhackers.com/weaponize-free-ssh-client-putty/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Hackers Weaponize Free SSH Client PuTTY to Deliver Malware on Windows<a href="ht
 A new malware campaign exploits OpenSSH, which has been a default component in Windows since version 1803, to establish stealthy and persistent access on compromised systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 2, 2025
+June 2, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Qualcomm fixes three Adreno GPU zero-days exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/qualcomm-fixes-three-adreno-gpu-zero-days-exploited-in-attacks/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Qualcomm fixes three Adreno GPU zero-days exploited in attacks<a href="https://w
 Qualcomm has released security patches addressing three zero-day vulnerabilities in its Adreno GPU drivers—CVE-2025-21479, CVE-2025-21480, and CVE-2025-27038—that are currently under active exploitation in targeted attacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 2, 2025
+June 2, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Police takes down AVCheck site used by cybercriminals to scan malware<a href="https://www.bleepingcomputer.com/news/security/police-takes-down-avcheck-antivirus-site-used-by-cybercriminals?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Police takes down AVCheck site used by cybercriminals to scan malware<a href="ht
 An international law enforcement operation has dismantled AVCheck, a major Counter Antivirus (CAV) service used by cybercriminals to test malware against commercial antivirus solutions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 2, 2025
+June 2, 2025 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DDoS incident disrupts internet for thousands in Moscow<a href="https://therecord.media/moscow-internet-provider-asvt-ddos-attack?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ DDoS incident disrupts internet for thousands in Moscow<a href="https://therecor
 A significant Distributed Denial-of-Service (DDoS) attack targeted Russian internet service provider ASVT, disrupting internet access for tens of thousands of residents in Moscow and surrounding areas.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 2, 2025
+June 2, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Severe Vulnerabilities in Consilium CS5000 Fire Panels Allow Remote System Takeover<a href="https://gbhackers.com/vulnerabilities-in-consilium-cs5000/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Severe Vulnerabilities in Consilium CS5000 Fire Panels Allow Remote System Takeo
 On May 29, 2025, CISA issued alert ICSA-25-148-03 disclosing two critical vulnerabilities in the Consilium Safety CS5000 Fire Panel, a widely used industrial control system in safety-critical environments.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 2, 2025
+June 2, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. DoJ Seizes 4 Domains Supporting Cybercrime Crypting Services in Global Operation<a href="https://thehackernews.com/2025/05/us-doj-seizes-4-domains-supporting.html?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ U.S. DoJ Seizes 4 Domains Supporting Cybercrime Crypting Services in Global Oper
 On May 27, 2025, a coordinated international law enforcement operation led by the DoJ, in collaboration with Dutch and Finnish authorities, resulted in the seizure of three publicly disclosed domains—AvCheck[.]net, Cryptor[.]biz, and Crypt[.]guru.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

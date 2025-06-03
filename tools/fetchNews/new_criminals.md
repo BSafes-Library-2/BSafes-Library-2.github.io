@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 2, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police takes down AVCheck site used by cybercriminals to scan malware<a href="https://www.bleepingcomputer.com/news/security/police-takes-down-avcheck-antivirus-site-used-by-cybercriminals?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An international law enforcement operation has dismantled AVCheck, a major Counter Antivirus (CAV) service used by cybercriminals to test malware against commercial antivirus solutions.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. DoJ Seizes 4 Domains Supporting Cybercrime Crypting Services in Global Operation<a href="https://thehackernews.com/2025/05/us-doj-seizes-4-domains-supporting.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On May 27, 2025, a coordinated international law enforcement operation led by the DoJ, in collaboration with Dutch and Finnish authorities, resulted in the seizure of three publicly disclosed domains—AvCheck[.]net, Cryptor[.]biz, and Crypt[.]guru.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 29, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

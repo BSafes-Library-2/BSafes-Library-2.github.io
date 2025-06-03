@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+June 2, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Next Step Healthcare data breach leaks patients' SSNs, medical records, and credit cards<a href="https://www.comparitech.com/news/next-step-healthcare-data-breach-leaks-patients-ssns-medical-records-and-credit-cards/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Next Step Healthcare, a provider of nursing and rehabilitation services in Massachusetts, experienced a ransomware attack in June 2024 that compromised sensitive patient data.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 30, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Earth Lamia Develops Custom Arsenal to Target Multiple Industries<a href="https://www.trendmicro.com/en_us/research/25/e/earth-lamia.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese threat actor group known as Earth Lamia has been actively exploiting known vulnerabilities in public-facing web applications to compromise organizations across sectors such as finance, government, IT, logistics, retail, and education.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
