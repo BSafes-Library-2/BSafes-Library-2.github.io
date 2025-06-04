@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+June 3, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Carolina clinics notify 23K people of data breach; SSNs, financial and medical info leaked<a href="https://www.comparitech.com/news/north-carolina-clinics-notify-23k-people-of-data-breach-ssns-financial-and-medical-info-leaked/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Compassion Health Care (CHC), a healthcare provider in North Carolina, has disclosed a ransomware attack that compromised the personal and medical data of 23,282 individuals.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 2, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

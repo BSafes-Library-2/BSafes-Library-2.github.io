@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 3, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Docusign Pages Deliver Multi-Stage NetSupport RAT Malware<a href="https://www.infosecurity-magazine.com/news/fake-docusign-pages-deliver-rat/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated malware campaign has been uncovered that leverages spoofed DocuSign CAPTCHA verification pages to deliver the NetSupport RAT. It employs clipboard poisoning to trick users into executing malicious PowerShell scripts.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 30, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

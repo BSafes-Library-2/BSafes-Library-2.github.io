@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 2, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+50,000+ Azure AD Users Exposed via Unsecured API: BeVigil Uncovers Critical Flaw<a href="https://www.cloudsek.com/blog/50-000-azure-ad-users-exposed-via-unsecured-api-bevigil-uncovers-critical-flaw?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical security vulnerability was discovered in an aviation company’s infrastructure. The flaw involved an unauthenticated API endpoint embedded in a JavaScript file, which issued Microsoft Graph tokens with elevated privileges.
+</details>
+<div style="text-align: right" markdown="1">
+CloudSek
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qualcomm fixes three Adreno GPU zero-days exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/qualcomm-fixes-three-adreno-gpu-zero-days-exploited-in-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Qualcomm has released security patches addressing three zero-day vulnerabilities in its Adreno GPU drivers—CVE-2025-21479, CVE-2025-21480, and CVE-2025-27038—that are currently under active exploitation in targeted attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Severe Vulnerabilities in Consilium CS5000 Fire Panels Allow Remote System Takeover<a href="https://gbhackers.com/vulnerabilities-in-consilium-cs5000/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On May 29, 2025, CISA issued alert ICSA-25-148-03 disclosing two critical vulnerabilities in the Consilium Safety CS5000 Fire Panel, a widely used industrial control system in safety-critical environments.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 30, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -7,6 +7,21 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2025 - Government of Canada
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[Control systems] ABB security advisory (AV25-311) <a href="https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av25-311?web_view=true"> Full Text</a>
+</p>
+<details>
+On June 2, 2025, ABB published a security advisory to address critical vulnerabilities in the following products:
+
+Welcome IP-Gateway – version 6.20 and prior
+Welcome IP-Gateway (Welcome M) – version 6.20 and prior
+Welcome IP-Gateway MDRC – version 6.20 and prior
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 27, 2025 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

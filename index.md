@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2025
+June 3, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Vulnerabilities in ABB Welcome IP-Gateway Products (AV25-311)<a href="https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av25-311?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Critical Vulnerabilities in ABB Welcome IP-Gateway Products (AV25-311)<a href="h
 On June 2, a security advisory was issued addressing critical vulnerabilities in ABB Welcome IP-Gateway product line. The vulnerabilities could potentially allow unauthorized access or other malicious activity within industrial control systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Government of Canada 
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2025
+June 3, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Carolina clinics notify 23K people of data breach; SSNs, financial and medical info leaked<a href="https://www.comparitech.com/news/north-carolina-clinics-notify-23k-people-of-data-breach-ssns-financial-and-medical-info-leaked/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ North Carolina clinics notify 23K people of data breach; SSNs, financial and med
 Compassion Health Care (CHC), a healthcare provider in North Carolina, has disclosed a ransomware attack that compromised the personal and medical data of 23,282 individuals.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CompariTech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2025
+June 3, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Docusign Pages Deliver Multi-Stage NetSupport RAT Malware<a href="https://www.infosecurity-magazine.com/news/fake-docusign-pages-deliver-rat/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Fake Docusign Pages Deliver Multi-Stage NetSupport RAT Malware<a href="https://w
 A sophisticated malware campaign has been uncovered that leverages spoofed DocuSign CAPTCHA verification pages to deliver the NetSupport RAT. It employs clipboard poisoning to trick users into executing malicious PowerShell scripts.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2025
+June 3, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple Vulnerabilities in SAP GuiXT Scripting<a href="https://seclists.org/fulldisclosure/2025/Jun/3?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Multiple Vulnerabilities in SAP GuiXT Scripting<a href="https://seclists.org/ful
 Multiple critical vulnerabilities have been identified in SAP GuiXT scripting, enabling attackers to execute remote code, steal NTLM hashes, perform Client-Side Request Forgery (CSRF), and cause Denial-of-Service (DoS).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+SecLists
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2025
+June 3, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Safari XSS Vulnerability Exploits JavaScript TypeError Handling for Arbitrary Code Execution<a href="https://thespanner.co.uk/xssing-typeerrors-in-safari?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Safari XSS Vulnerability Exploits JavaScript TypeError Handling for Arbitrary Co
 A novel cross-site scripting (XSS) technique has been identified in Safari that leverages JavaScript TypeError messages to execute arbitrary code. This method exploits Safari’s failure to escape embedded quotes in error messages.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Spanner
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2025
+June 3, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lost in Resolution: Azure OpenAI's DNS Resolution Issue<a href="https://unit42.paloaltonetworks.com/azure-openai-dns-resolution/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Lost in Resolution: Azure OpenAI's DNS Resolution Issue<a href="https://unit42.p
 A DNS misconfiguration in Azure OpenAI's domain resolution logic exposed a critical vulnerability that could have enabled cross-tenant data leaks and meddler-in-the-middle (MitM) attacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Palo Alto Networks
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2025
+June 3, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android malware Crocodilus adds fake contacts to spoof trusted callers<a href="https://www.bleepingcomputer.com/news/security/android-malware-crocodilus-adds-fake-contacts-to-spoof-trusted-callers/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Android malware Crocodilus adds fake contacts to spoof trusted callers<a href="h
 Crocodilus, a sophisticated Android malware, has evolved with new social engineering and evasion techniques. Initially observed in Turkey, it has now expanded globally, targeting users across all continents.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2025
+June 3, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious NPM Packages Exploit Ethereum Wallets with Obfuscated JavaScript<a href="https://gbhackers.com/malicious-npm-packages-exploit-ethereum-wallets/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Malicious NPM Packages Exploit Ethereum Wallets with Obfuscated JavaScript<a hre
 A new malware campaign is exploiting the NPM ecosystem to target Ethereum wallet users by distributing malicious packages with advanced JavaScript obfuscation techniques.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2025
+June 3, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lyrix Ransomware Targets Windows Users with Advanced Evasion Techniques<a href="https://gbhackers.com/lyrix-ransomware-targets-windows-users/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Lyrix Ransomware Targets Windows Users with Advanced Evasion Techniques<a href="
 A new ransomware variant named Lyrix is targeting Windows systems with advanced evasion and encryption techniques. It poses a significant threat to both individuals and enterprises by encrypting critical files and demanding cryptocurrency ransoms.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2025
+June 3, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Chrome Zero-Day Actively Exploited; Google Issues Emergency Out-of-Band Patch<a href="https://thehackernews.com/2025/06/new-chrome-zero-day-actively-exploited.html?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ New Chrome Zero-Day Actively Exploited; Google Issues Emergency Out-of-Band Patc
 Google has released an emergency out-of-band update to patch a high-severity zero-day vulnerability (CVE-2025-5419) in its Chrome browser. The flaw, which affects the V8 JavaScript and WebAssembly engine, has been actively exploited in the wild.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+THe Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

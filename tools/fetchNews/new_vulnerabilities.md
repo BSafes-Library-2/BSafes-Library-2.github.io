@@ -8,6 +8,76 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 3, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerabilities in ABB Welcome IP-Gateway Products (AV25-311)<a href="https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av25-311?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On June 2, a security advisory was issued addressing critical vulnerabilities in ABB Welcome IP-Gateway product line. The vulnerabilities could potentially allow unauthorized access or other malicious activity within industrial control systems.
+</details>
+<div style="text-align: right" markdown="1">
+Government of Canada 
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 3, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Vulnerabilities in SAP GuiXT Scripting<a href="https://seclists.org/fulldisclosure/2025/Jun/3?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple critical vulnerabilities have been identified in SAP GuiXT scripting, enabling attackers to execute remote code, steal NTLM hashes, perform Client-Side Request Forgery (CSRF), and cause Denial-of-Service (DoS).
+</details>
+<div style="text-align: right" markdown="1">
+SecLists
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 3, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Safari XSS Vulnerability Exploits JavaScript TypeError Handling for Arbitrary Code Execution<a href="https://thespanner.co.uk/xssing-typeerrors-in-safari?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A novel cross-site scripting (XSS) technique has been identified in Safari that leverages JavaScript TypeError messages to execute arbitrary code. This method exploits Safari’s failure to escape embedded quotes in error messages.
+</details>
+<div style="text-align: right" markdown="1">
+The Spanner
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 3, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lost in Resolution: Azure OpenAI's DNS Resolution Issue<a href="https://unit42.paloaltonetworks.com/azure-openai-dns-resolution/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A DNS misconfiguration in Azure OpenAI's domain resolution logic exposed a critical vulnerability that could have enabled cross-tenant data leaks and meddler-in-the-middle (MitM) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 3, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Chrome Zero-Day Actively Exploited; Google Issues Emergency Out-of-Band Patch<a href="https://thehackernews.com/2025/06/new-chrome-zero-day-actively-exploited.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released an emergency out-of-band update to patch a high-severity zero-day vulnerability (CVE-2025-5419) in its Chrome browser. The flaw, which affects the V8 JavaScript and WebAssembly engine, has been actively exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+THe Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 2, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
