@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 3, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lyrix Ransomware Targets Windows Users with Advanced Evasion Techniques<a href="https://gbhackers.com/lyrix-ransomware-targets-windows-users/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware variant named Lyrix is targeting Windows systems with advanced evasion and encryption techniques. It poses a significant threat to both individuals and enterprises by encrypting critical files and demanding cryptocurrency ransoms.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 20, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

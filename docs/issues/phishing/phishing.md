@@ -8,6 +8,48 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rhadamanthys Infostealer Delivered via Copyright-Themed Phishing Campaign Targeting Europe<a href="https://blog.knowbe4.com/copyright-themed-phishing-lures-target-europe?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since April 2025, the campaign has been opportunistically targeting entities in Albania, Austria, Bulgaria, Germany, Greece, Hungary, Ireland, Israel, Italy, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, and the United Kingdom.
+</details>
+<div style="text-align: right" markdown="1">
+KnowBe4
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hive0131 Targets Colombian Users with DCRat Banking Trojan via Phishing Campaigns<a href="https://gbhackers.com/dcrat-targets-latin-american-users/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A financially motivated threat group, Hive0131, has launched a targeted phishing campaign in Colombia, impersonating the Judiciary of Colombia to distribute the DCRat banking trojan.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious GitHub Repositories Impersonate Malware Tools and Game Cheats to Distribute Backdoors<a href="https://www.infosecurity-magazine.com/news/campaign-targets-cybercriminals/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have uncovered a widespread campaign involving over 130 malicious GitHub repositories created by a threat actor using the alias "ischhfd83." These repositories impersonated malware tools and game cheats to lure users.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 3, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
