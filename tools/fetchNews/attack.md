@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+June 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine's military intelligence claims cyberattack on Russian strategic bomber maker<a href="https://therecord.media/ukraine-military-russia-strategic-bomber?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine’s military intelligence agency (HUR) has claimed responsibility for a cyberattack on Russia’s state-owned aircraft manufacturer Tupolev. The operation reportedly resulted in the exfiltration of over 4.4 GB of sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 30, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

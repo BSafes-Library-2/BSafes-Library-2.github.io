@@ -8,6 +8,104 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Unveils European Security Effort to Disrupt Cybercrime Networks<a href="https://gbhackers.com/microsoft-unveils-european-security-effort/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical heap-based buffer overflow vulnerability, tracked as CVE-2025-24993, has been discovered in the Windows NTFS driver. Actively exploited as a zero-day, this flaw allows attackers to execute arbitrary code.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Jenkins Gatling Plugin Vulnerability Addressed in Security Advisory AV25-321<a href="https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av25-321?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On June 6, 2025, Jenkins published a security advisory addressing a vulnerability in the Gatling Plugin. The Canadian Centre for Cyber Security (CCCS) urges users and administrators to apply the necessary updates to mitigate potential risks.
+</details>
+<div style="text-align: right" markdown="1">
+Government of Canada
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Fortinet flaws now exploited in Qilin ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/critical-fortinet-flaws-now-exploited-in-qilin-ransomware-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Qilin RaaS is now exploiting two critical Fortinet vulnerabilities—CVE-2024-21762 and CVE-2024-55591—to bypass authentication and deploy ransomware. These impacted high-profile organizations and are currently targeting Spanish-speaking countries
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Flaw Found in HPE Insight Remote Support Tool<a href="https://gbhackers.com/critical-rce-flaw-found/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hewlett-Packard Enterprise (HPE) has released a critical security update addressing three high-severity vulnerabilities in its Insight Remote Support (IRS) software, versions prior to 7.15.0.646.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical FreeRTOS-Plus-TCP Flaw Allows Code Execution or System Crash<a href="https://gbhackers.com/critical-freertos-plus-tcp-flaw/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical memory corruption vulnerability, tracked as CVE-2025-5688 and rated 8.4 (High) on the CVSS scale, has been identified in FreeRTOS-Plus-TCP, Amazon’s open-source TCP/IP stack used in embedded and IoT devices.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Vulnerability in AWS Amplify Studio – PoC Now Public<a href="https://gbhackers.com/rce-vulnerability-in-aws-amplify-studio/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical remote code execution (RCE) vulnerability, tracked as CVE-2025-4318 and rated 9.5 on the CVSS scale, has been disclosed in the @aws-amplify/codegen-ui package used by AWS Amplify Studio.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC Exploit Released for Apache Tomcat HTTP/2 DoS Vulnerability CVE-2025-31650<a href="https://nvd.nist.gov/vuln/detail/cve-2025-31650?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical memory leak vulnerability in Apache Tomcat’s HTTP/2 implementation (CVE-2025-31650) has been weaponized, enabling unauthenticated denial-of-service (DoS) attacks via malformed priority headers.
+</details>
+<div style="text-align: right" markdown="1">
+NIST
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 5, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

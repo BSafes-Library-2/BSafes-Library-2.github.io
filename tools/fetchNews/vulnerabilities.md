@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerabilities in Dell PowerScale OneFS Allow Unauthorized Remote and Local Access<a href="https://gbhackers.com/dell-alerts-users-to-critical-onefs-flaws/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dell Technologies has released a critical security advisory (DSA-2025-208) addressing multiple flaws in its PowerScale OneFS. The most severe, CVE-2024-53298, allows unauthenticated remote attackers to access and manipulate the file system.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco warns of ISE and CCP flaws with public exploit code<a href="https://www.bleepingcomputer.com/news/security/cisco-warns-of-ise-and-ccp-flaws-with-public-exploit-code/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has released patches for three vulnerabilities in its Identity Services Engine (ISE) and Customer Collaboration Platform (CCP), all of which have public proof-of-concept exploit code.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of Internet-Exposed Solar Power Devices Pose Critical Infrastructure Risk<a href="https://www.cybersecuritydive.com/news/solar-equipment-exposed-vulnerable-forescout/749806/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These devices, manufactured by 42 different vendors, include essential components for solar energy operations and are often exposed due to poor asset visibility and management.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 3, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

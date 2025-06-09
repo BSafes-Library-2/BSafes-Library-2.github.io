@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Paste.ee Abuse Uncovered: XWorm &amp; AsyncRAT Infrastructure<a href="https://hunt.io/blog/pasteee-xworm-asyncrat-infrastructure#XWorm_and_AsyncRat_Indicators_of_Compromise_IOCs?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are exploiting the trusted text-sharing platform Paste.ee to deliver sophisticated malware strains, including XWorm and AsyncRAT. These campaigns leverage phishing emails and social engineering to distribute malicious payloads.
+</details>
+<div style="text-align: right" markdown="1">
+Hunt
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 2, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
