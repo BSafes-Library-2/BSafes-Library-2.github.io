@@ -7,6 +7,20 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2025 - Government of Canada
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Jenkins security advisory (AV25-321) <a href="https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av25-321?web_view=true"> Full Text</a>
+</p>
+<details>
+On June 6, 2025, Jenkins published a security advisory to address vulnerabilities in the following products:
+
+Gatling Plugin – version 136.vb_9009b_3d33a_e and prior
+The Cyber Centre encourages users and administrators to review the provided web links and apply the necessary updates.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 3, 2025 - Government of Canada
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
