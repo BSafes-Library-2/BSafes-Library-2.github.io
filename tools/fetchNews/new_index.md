@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2025
+June 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Rust-Developed InfoStealer Drains Sensitive Data from Chromium-Based Browsers<a href="https://gbhackers.com/new-rust-developed-infostealer/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered Rust-based malware, dubbed RustStealer, poses a significant threat to users of Chromium-based browsers like Google Chrome and Microsoft Edge. It extracts sensitive data such as login credentials, cookies, and browsing history.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Unveils European Security Effort to Disrupt Cybercrime Networks<a href="https://gbhackers.com/microsoft-unveils-european-security-effort/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical heap-based buffer overflow vulnerability, tracked as CVE-2025-24993, has been discovered in the Windows NTFS driver. Actively exploited as a zero-day, this flaw allows attackers to execute arbitrary code.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Jenkins Gatling Plugin Vulnerability Addressed in Security Advisory AV25-321<a href="https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av25-321?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On June 6, 2025, Jenkins published a security advisory addressing a vulnerability in the Gatling Plugin. The Canadian Centre for Cyber Security (CCCS) urges users and administrators to apply the necessary updates to mitigate potential risks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sensata notifies victims of ransomware data breach that compromised SSNs, financial and medical info<a href="https://www.comparitech.com/news/sensata-notifies-victims-of-ransomware-data-breach-that-compromised-ssns-financial-and-medical-info/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sensata Technologies, a U.S.-based industrial tech firm, has disclosed a ransomware attack that compromised sensitive personal data, including Social Security numbers, financial account details, and medical information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Fortinet flaws now exploited in Qilin ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/critical-fortinet-flaws-now-exploited-in-qilin-ransomware-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Qilin RaaS is now exploiting two critical Fortinet vulnerabilities—CVE-2024-21762 and CVE-2024-55591—to bypass authentication and deploy ransomware. These impacted high-profile organizations and are currently targeting Spanish-speaking countries
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Flaw Found in HPE Insight Remote Support Tool<a href="https://gbhackers.com/critical-rce-flaw-found/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hewlett-Packard Enterprise (HPE) has released a critical security update addressing three high-severity vulnerabilities in its Insight Remote Support (IRS) software, versions prior to 7.15.0.646.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical FreeRTOS-Plus-TCP Flaw Allows Code Execution or System Crash<a href="https://gbhackers.com/critical-freertos-plus-tcp-flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical memory corruption vulnerability, tracked as CVE-2025-5688 and rated 8.4 (High) on the CVSS scale, has been identified in FreeRTOS-Plus-TCP, Amazon’s open-source TCP/IP stack used in embedded and IoT devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Vulnerability in AWS Amplify Studio – PoC Now Public<a href="https://gbhackers.com/rce-vulnerability-in-aws-amplify-studio/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical remote code execution (RCE) vulnerability, tracked as CVE-2025-4318 and rated 9.5 on the CVSS scale, has been disclosed in the @aws-amplify/codegen-ui package used by AWS Amplify Studio.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC Exploit Released for Apache Tomcat HTTP/2 DoS Vulnerability CVE-2025-31650<a href="https://nvd.nist.gov/vuln/detail/cve-2025-31650?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical memory leak vulnerability in Apache Tomcat’s HTTP/2 implementation (CVE-2025-31650) has been weaponized, enabling unauthenticated denial-of-service (DoS) attacks via malformed priority headers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Paste.ee Abuse Uncovered: XWorm & AsyncRAT Infrastructure<a href="https://hunt.io/blog/pasteee-xworm-asyncrat-infrastructure#XWorm_and_AsyncRat_Indicators_of_Compromise_IOCs?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are exploiting the trusted text-sharing platform Paste.ee to deliver sophisticated malware strains, including XWorm and AsyncRAT. These campaigns leverage phishing emails and social engineering to distribute malicious payloads.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Vulnerabilities in Dell PowerScale OneFS Allow Unauthorized Remote and Local Access<a href="https://gbhackers.com/dell-alerts-users-to-critical-onefs-flaws/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Critical Vulnerabilities in Dell PowerScale OneFS Allow Unauthorized Remote and 
 Dell Technologies has released a critical security advisory (DSA-2025-208) addressing multiple flaws in its PowerScale OneFS. The most severe, CVE-2024-53298, allows unauthenticated remote attackers to access and manipulate the file system.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2025
+June 5, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rhadamanthys Infostealer Delivered via Copyright-Themed Phishing Campaign Targeting Europe<a href="https://blog.knowbe4.com/copyright-themed-phishing-lures-target-europe?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Rhadamanthys Infostealer Delivered via Copyright-Themed Phishing Campaign Target
 Since April 2025, the campaign has been opportunistically targeting entities in Albania, Austria, Bulgaria, Germany, Greece, Hungary, Ireland, Israel, Italy, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, and the United Kingdom.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+KnowBe4
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2025
+June 5, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Newly identified wiper malware “PathWiper” targets critical infrastructure in Ukraine<a href="https://blog.talosintelligence.com/pathwiper-targets-ukraine/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Newly identified wiper malware “PathWiper” targets critical infrastructure i
 Researchers observed the deployment of PathWiper via a legitimate endpoint administration framework. The attackers likely had access to the admin console, which was used to push both the VBScript and the PathWiper executable to the endpoints.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Talos Intelligence
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2025
+June 5, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco warns of ISE and CCP flaws with public exploit code<a href="https://www.bleepingcomputer.com/news/security/cisco-warns-of-ise-and-ccp-flaws-with-public-exploit-code/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Cisco warns of ISE and CCP flaws with public exploit code<a href="https://www.bl
 Cisco has released patches for three vulnerabilities in its Identity Services Engine (ISE) and Customer Collaboration Platform (CCP), all of which have public proof-of-concept exploit code.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2025
+June 5, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine's military intelligence claims cyberattack on Russian strategic bomber maker<a href="https://therecord.media/ukraine-military-russia-strategic-bomber?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Ukraine's military intelligence claims cyberattack on Russian strategic bomber m
 Ukraine’s military intelligence agency (HUR) has claimed responsibility for a cyberattack on Russia’s state-owned aircraft manufacturer Tupolev. The operation reportedly resulted in the exfiltration of over 4.4 GB of sensitive data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2025
+June 5, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hive0131 Targets Colombian Users with DCRat Banking Trojan via Phishing Campaigns<a href="https://gbhackers.com/dcrat-targets-latin-american-users/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Hive0131 Targets Colombian Users with DCRat Banking Trojan via Phishing Campaign
 A financially motivated threat group, Hive0131, has launched a targeted phishing campaign in Colombia, impersonating the Judiciary of Colombia to distribute the DCRat banking trojan.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2025
+June 5, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chaos RAT Malware Targets Windows and Linux via Fake Network Tool Downloads<a href="https://thehackernews.com/2025/06/chaos-rat-malware-targets-windows-and.html?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Chaos RAT Malware Targets Windows and Linux via Fake Network Tool Downloads<a hr
 A new variant of the Chaos RAT, an open-source remote access trojan written in Golang and inspired by frameworks like Cobalt Strike and Sliver, is actively targeting both Windows and Linux systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2025
+June 5, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thousands of Internet-Exposed Solar Power Devices Pose Critical Infrastructure Risk<a href="https://www.cybersecuritydive.com/news/solar-equipment-exposed-vulnerable-forescout/749806/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Thousands of Internet-Exposed Solar Power Devices Pose Critical Infrastructure R
 These devices, manufactured by 42 different vendors, include essential components for solar energy operations and are often exposed due to poor asset visibility and management.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2025
+June 5, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What 17,845 GitHub Repos Taught Us About Malicious MCP Servers<a href="https://blog.virustotal.com/2025/06/what-17845-github-repos-taught-us-about.html?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ What 17,845 GitHub Repos Taught Us About Malicious MCP Servers<a href="https://b
 A recent audit of nearly 18,000 Model Context Protocol (MCP) servers on GitHub revealed that 1,408 repositories may have been intentionally designed for malicious purposes.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Virus Total
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2025
+June 5, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious GitHub Repositories Impersonate Malware Tools and Game Cheats to Distribute Backdoors<a href="https://www.infosecurity-magazine.com/news/campaign-targets-cybercriminals/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Malicious GitHub Repositories Impersonate Malware Tools and Game Cheats to Distr
 Cybersecurity researchers have uncovered a widespread campaign involving over 130 malicious GitHub repositories created by a threat actor using the alias "ischhfd83." These repositories impersonated malware tools and game cheats to lure users.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
