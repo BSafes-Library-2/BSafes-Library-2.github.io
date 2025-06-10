@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+June 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tax resolution firm Optima Tax Relief hit by ransomware, data leaked<a href="https://www.bleepingcomputer.com/news/security/tax-resolution-firm-optima-tax-relief-hit-by-ransomware-data-leaked/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Optima Tax Relief, a prominent U.S.-based tax resolution firm, has been targeted in a ransomware attack by the Chaos ransomware gang. The attackers employed a double-extortion strategy, encrypting servers and exfiltrating sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 7, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

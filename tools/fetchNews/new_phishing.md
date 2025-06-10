@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 20 Malicious Apps on Google Play Target Users for Seed Phrases<a href="https://hackread.com/malicious-apps-google-play-users-for-seed-phrases/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A coordinated phishing campaign has been discovered on the Google Play Store, involving over 20 malicious Android applications impersonating popular cryptocurrency wallets. These apps are designed to steal users’ 12-word mnemonic phrases.
+</details>
+<div style="text-align: right" markdown="1">
+HackRead
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware found in NPM packages with 1 million weekly downloads<a href="https://www.bleepingcomputer.com/news/security/supply-chain-attack-hits-gluestack-npm-packages-with-960k-weekly-downloads/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A major supply chain attack has compromised 16 popular Gluestack 'react-native-aria' packages on NPM, affecting nearly 960,000 weekly downloads. The attack involves the injection of obfuscated remote access trojan (RAT) code.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 5, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

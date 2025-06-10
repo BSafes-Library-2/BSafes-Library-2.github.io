@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Salesforce SOQL Injection 0-Day Vulnerability Exposes Millions of Deployments<a href="https://cyberpress.org/new-salesforce-soql-injection-0-day-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical SOQL injection vulnerability was discovered in Salesforce's default Aura controller, potentially exposing millions of user records across thousands of deployments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NICKNAME: Zero-Click iMessage Exploit Targeted Key Figures in US, EU<a href="https://hackread.com/nickname-zero-click-imessage-exploit-figures-us-eu/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical zero-click vulnerability in Apple’s iMessage service, dubbed NICKNAME, has been discovered and exploited in targeted attacks against high-value individuals in the US and EU.
+</details>
+<div style="text-align: right" markdown="1">
+HackRead
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Path Traversal and RCE Vulnerabilities Patched in Metasploit 6.4.68 Update<a href="https://www.rapid7.com/blog/post/2025/06/06/metasploit-wrapup-76/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+
+</details>
+<div style="text-align: right" markdown="1">
+Rapid 7
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 7, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

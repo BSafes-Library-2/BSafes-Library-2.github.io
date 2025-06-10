@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 9, 2025
+June 9, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Salesforce SOQL Injection 0-Day Vulnerability Exposes Millions of Deployments<a href="https://cyberpress.org/new-salesforce-soql-injection-0-day-vulnerability/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ New Salesforce SOQL Injection 0-Day Vulnerability Exposes Millions of Deployment
 A critical SOQL injection vulnerability was discovered in Salesforce's default Aura controller, potentially exposing millions of user records across thousands of deployments.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 9, 2025
+June 9, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NICKNAME: Zero-Click iMessage Exploit Targeted Key Figures in US, EU<a href="https://hackread.com/nickname-zero-click-imessage-exploit-figures-us-eu/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ NICKNAME: Zero-Click iMessage Exploit Targeted Key Figures in US, EU<a href="htt
 A critical zero-click vulnerability in Apple’s iMessage service, dubbed NICKNAME, has been discovered and exploited in targeted attacks against high-value individuals in the US and EU.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+HackRead
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 9, 2025
+June 9, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 20 Malicious Apps on Google Play Target Users for Seed Phrases<a href="https://hackread.com/malicious-apps-google-play-users-for-seed-phrases/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Over 20 Malicious Apps on Google Play Target Users for Seed Phrases<a href="http
 A coordinated phishing campaign has been discovered on the Google Play Store, involving over 20 malicious Android applications impersonating popular cryptocurrency wallets. These apps are designed to steal users’ 12-word mnemonic phrases.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+HackRead
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 9, 2025
+June 9, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware found in NPM packages with 1 million weekly downloads<a href="https://www.bleepingcomputer.com/news/security/supply-chain-attack-hits-gluestack-npm-packages-with-960k-weekly-downloads/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Malware found in NPM packages with 1 million weekly downloads<a href="https://ww
 A major supply chain attack has compromised 16 popular Gluestack 'react-native-aria' packages on NPM, affecting nearly 960,000 weekly downloads. The attack involves the injection of obfuscated remote access trojan (RAT) code.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 9, 2025
+June 9, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Path Traversal and RCE Vulnerabilities Patched in Metasploit 6.4.68 Update<a href="https://www.rapid7.com/blog/post/2025/06/06/metasploit-wrapup-76/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Critical Path Traversal and RCE Vulnerabilities Patched in Metasploit 6.4.68 Upd
 
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Rapid 7
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 9, 2025
+June 9, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tax resolution firm Optima Tax Relief hit by ransomware, data leaked<a href="https://www.bleepingcomputer.com/news/security/tax-resolution-firm-optima-tax-relief-hit-by-ransomware-data-leaked/?&web_view=true"> Full Text</a>
@@ -124,7 +124,7 @@ Tax resolution firm Optima Tax Relief hit by ransomware, data leaked<a href="htt
 Optima Tax Relief, a prominent U.S.-based tax resolution firm, has been targeted in a ransomware attack by the Chaos ransomware gang. The attackers employed a double-extortion strategy, encrypting servers and exfiltrating sensitive data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
