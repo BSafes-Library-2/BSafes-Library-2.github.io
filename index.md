@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2025
+June 10, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CVE-2025-4275: Insyde H2O UEFI Vulnerability Enables Certificate Injection via Unprotected NVRAM Variable<a href="https://kb.cert.org/vuls/id/211341?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ CVE-2025-4275: Insyde H2O UEFI Vulnerability Enables Certificate Injection via U
 A critical vulnerability (CVE-2025-4275) in Insyde H2O UEFI firmware allows attackers to inject unauthorised digital certificates via an unprotected NVRAM variable. This flaw enables the execution of arbitrary firmware during the early boot process.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CERT
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2025
+June 10, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Vulnerabilities in Ivanti Workspace Control Allow Credential Decryption via Hardcoded Keys<a href="https://forums.ivanti.com/s/article/Security-Advisory-Ivanti-Workspace-Control-CVE-2025-5353-CVE-CVE-2025-22463-CVE-2025-22455?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Critical Vulnerabilities in Ivanti Workspace Control Allow Credential Decryption
 Ivanti has released critical patches for three high-severity vulnerabilities in its Workspace Control software. These flaws are identified as CVE-2025-5353, CVE-2025-22463, and CVE-2025-22455.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Ivanti
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2025
+June 10, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Privilege Escalation and Remote Code Execution Vulnerability in ISPConfig 3.2.12p1<a href="https://ssd-disclosure.com/ssd-advisory-ispconfig-authenticated-remote-code-execution/?&web_view=true"> Full Text</a>
@@ -76,7 +76,7 @@ Critical Privilege Escalation and Remote Code Execution Vulnerability in ISPConf
 A critical vulnerability in ISPConfig version 3.2.12p1 enables authenticated attackers to escalate privileges to superadmin and execute arbitrary PHP code remotely. ISPConfig segregates users into clients, resellers, admins, and a unique superadmin.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+SSD Disclosure
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
