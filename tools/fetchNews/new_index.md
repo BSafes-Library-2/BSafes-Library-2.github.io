@@ -34,7 +34,119 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2025
+June 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ShapeBlue Security Advisory: Security Fixes in CloudStack 4.19.3.0 and Apache CloudStack 4.20.1.0<a href="https://www.shapeblue.com/shapeblue-security-advisory-cloudstack-4-19-3-0-and-4-20-1-0/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apache CloudStack has released Long-Term Support (LTS) versions 4.19.3.0 and 4.20.1.0 to address five security vulnerabilities, including two critical flaws—CVE-2025-26521 and CVE-2025-47713.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome security advisory (AV25-336) - Canadian Centre for Cyber Security<a href="https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av25-336?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Vulnerabilities Patched in Mozilla Firefox Versions Prior to 139.0.4<a href="https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av25-332?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On June 10, 2025, Mozilla released a security advisory addressing vulnerabilities in Firefox. The affected versions include all releases prior to Firefox 139.0.4. Users and administrators are urged to update to the latest version.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rust-based Myth Stealer Malware Spread via Fake Gaming Sites Targets Chrome, Firefox Users<a href="https://thehackernews.com/2025/06/rust-based-myth-stealer-malware-spread.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have identified a new Rust-based information stealer named Myth Stealer, distributed via fraudulent gaming websites and cracked software. The malware targets Chromium and Gecko-based browsers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft June 2025 Patch Tuesday fixes exploited zero-day, 66 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2025-patch-tuesday-fixes-exploited-zero-day-66-flaws/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's June 2025 Patch Tuesday addresses 66 vulnerabilities, including one actively exploited and one publicly disclosed zero-day. Ten of the vulnerabilities are rated as Critical.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of Russian devices hit by Rare Werewolf crypto-mining attacks<a href="https://therecord.media/russian-devices-hit-by-rare-werewolf-crypto-mining?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor known as Rare Werewolf has launched a crypto-mining campaign targeting hundreds of devices in Russia, Belarus, and Kazakhstan. The attackers deploy the XMRig miner to hijack computing resources for Monero mining.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Birmingham, AL dermatologist notifies 86K people of data breach<a href="https://www.comparitech.com/news/birmingham-al-dermatologist-notifies-86k-people-of-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dermatologists of Birmingham, operating under the name Shelby Dermatology and running two clinics in Birmingham and Alabaster, Alabama, has disclosed a data breach affecting 86,414 individuals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CVE-2025-4275: Insyde H2O UEFI Vulnerability Enables Certificate Injection via Unprotected NVRAM Variable<a href="https://kb.cert.org/vuls/id/211341?&web_view=true"> Full Text</a>
@@ -44,13 +156,13 @@ CVE-2025-4275: Insyde H2O UEFI Vulnerability Enables Certificate Injection via U
 A critical vulnerability (CVE-2025-4275) in Insyde H2O UEFI firmware allows attackers to inject unauthorised digital certificates via an unprotected NVRAM variable. This flaw enables the execution of arbitrary firmware during the early boot process.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CERT
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2025
+June 10, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Vulnerabilities in Ivanti Workspace Control Allow Credential Decryption via Hardcoded Keys<a href="https://forums.ivanti.com/s/article/Security-Advisory-Ivanti-Workspace-Control-CVE-2025-5353-CVE-CVE-2025-22463-CVE-2025-22455?&web_view=true"> Full Text</a>
@@ -60,13 +172,13 @@ Critical Vulnerabilities in Ivanti Workspace Control Allow Credential Decryption
 Ivanti has released critical patches for three high-severity vulnerabilities in its Workspace Control software. These flaws are identified as CVE-2025-5353, CVE-2025-22463, and CVE-2025-22455.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Ivanti
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2025
+June 10, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Privilege Escalation and Remote Code Execution Vulnerability in ISPConfig 3.2.12p1<a href="https://ssd-disclosure.com/ssd-advisory-ispconfig-authenticated-remote-code-execution/?&web_view=true"> Full Text</a>
@@ -76,7 +188,7 @@ Critical Privilege Escalation and Remote Code Execution Vulnerability in ISPConf
 A critical vulnerability in ISPConfig version 3.2.12p1 enables authenticated attackers to escalate privileges to superadmin and execute arbitrary PHP code remotely. ISPConfig segregates users into clients, resellers, admins, and a unique superadmin.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+SSD Disclosure
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

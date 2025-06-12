@@ -34,6 +34,118 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ShapeBlue Security Advisory: Security Fixes in CloudStack 4.19.3.0 and Apache CloudStack 4.20.1.0<a href="https://www.shapeblue.com/shapeblue-security-advisory-cloudstack-4-19-3-0-and-4-20-1-0/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apache CloudStack has released Long-Term Support (LTS) versions 4.19.3.0 and 4.20.1.0 to address five security vulnerabilities, including two critical flaws—CVE-2025-26521 and CVE-2025-47713.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome security advisory (AV25-336) - Canadian Centre for Cyber Security<a href="https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av25-336?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Vulnerabilities Patched in Mozilla Firefox Versions Prior to 139.0.4<a href="https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av25-332?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On June 10, 2025, Mozilla released a security advisory addressing vulnerabilities in Firefox. The affected versions include all releases prior to Firefox 139.0.4. Users and administrators are urged to update to the latest version.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rust-based Myth Stealer Malware Spread via Fake Gaming Sites Targets Chrome, Firefox Users<a href="https://thehackernews.com/2025/06/rust-based-myth-stealer-malware-spread.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have identified a new Rust-based information stealer named Myth Stealer, distributed via fraudulent gaming websites and cracked software. The malware targets Chromium and Gecko-based browsers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft June 2025 Patch Tuesday fixes exploited zero-day, 66 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2025-patch-tuesday-fixes-exploited-zero-day-66-flaws/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's June 2025 Patch Tuesday addresses 66 vulnerabilities, including one actively exploited and one publicly disclosed zero-day. Ten of the vulnerabilities are rated as Critical.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of Russian devices hit by Rare Werewolf crypto-mining attacks<a href="https://therecord.media/russian-devices-hit-by-rare-werewolf-crypto-mining?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor known as Rare Werewolf has launched a crypto-mining campaign targeting hundreds of devices in Russia, Belarus, and Kazakhstan. The attackers deploy the XMRig miner to hijack computing resources for Monero mining.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Birmingham, AL dermatologist notifies 86K people of data breach<a href="https://www.comparitech.com/news/birmingham-al-dermatologist-notifies-86k-people-of-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dermatologists of Birmingham, operating under the name Shelby Dermatology and running two clinics in Birmingham and Alabaster, Alabama, has disclosed a data breach affecting 86,414 individuals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 10, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
