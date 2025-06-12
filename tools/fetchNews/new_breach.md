@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+June 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Birmingham, AL dermatologist notifies 86K people of data breach<a href="https://www.comparitech.com/news/birmingham-al-dermatologist-notifies-86k-people-of-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dermatologists of Birmingham, operating under the name Shelby Dermatology and running two clinics in Birmingham and Alabaster, Alabama, has disclosed a data breach affecting 86,414 individuals.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 9, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
