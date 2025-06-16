@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2025
+June 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Government offices in North Carolina, Georgia disrupted by cyberattacks<a href="https://therecord.media/thomasville-nc-government-ogeechee-ga-district-cyberattacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two separate cyberattacks have disrupted government operations in Thomasville, North Carolina, and the Ogeechee Judicial Circuit District Attorney’s Office in Georgia. These incidents have led to significant service outages.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GrayAlpha Unmasked: New FIN7-Linked Infrastructure, PowerNet Loader, and Fake Update Attacks<a href="https://www.recordedfuture.com/research/grayalpha-uses-diverse-infection-vectors-deploy-powernet-loader-netsupport-rat?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GrayAlpha, a threat actor overlapping with FIN7, has been observed deploying NetSupport RAT using diverse infection vectors and custom loaders. The group utilizes PowerNet, a PowerShell loader, and MaskBat.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medical software maker Episource data breach leaks thousands of patients' private health info<a href="https://www.comparitech.com/news/medical-software-maker-episource-data-breach-leaks-thousands-of-patients-private-health-info/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Episource, a medical software provider, suffered a ransomware attack between January 27 and February 6, 2025, compromising sensitive health and insurance data. The breach impacted at least 24,259 individuals in Texas.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spring Framework Flaw Enables Remote File Disclosure via “Content‑Disposition” Header<a href="https://gbhackers.com/spring-framework-flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A medium-severity Reflected File Download (RFD) vulnerability, tracked as CVE-2025-41234, has been identified and patched in VMware’s Spring Framework. Successful exploitation of this vulnerability can lead to client-side code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender Spoofing Flaw Enables Privilege Escalation and AD Access<a href="https://gbhackers.com/microsoft-defender-spoofing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly disclosed spoofing vulnerability, CVE-2025-26685, affects Microsoft Defender for Identity (MDI), enabling unauthenticated attackers to capture Net-NTLM hashes of Directory Service Accounts (DSAs).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon Cloud Cam Flaw Allows Attackers to Intercept and Modify Network Traffic<a href="https://gbhackers.com/amazon-cloud-cam-flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Developers Beware - Sophisticated Phishing Scams Exploit GitHub Device Code Flow to Hijack Tokens<a href="https://gbhackers.com/sophisticated-phishing-scams-exploit-github-device-code/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new wave of sophisticated phishing attacks is targeting software developers by exploiting GitHub’s OAuth 2.0 Device Code Flow. These attacks enable threat actors to hijack developer tokens and more.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Acer Control Center Flaw Lets Attackers Run Malicious Code as Elevated User<a href="https://gbhackers.com/acer-control-center-flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical remote code execution vulnerability (CVE-2025-5491, CVSS 8.8) has been identified in Acer ControlCenter. The flaw arises from insecure permissions on a custom protocol pipe exposed by the ACCSvc.exe service.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerability in OneLogin AD Connector Enables JWT Forgery and Cross-Tenant Account Takeovers<a href="https://specterops.io/blog/2025/06/10/onelogin-many-issues-how-i-pivoted-from-a-trial-tenant-to-compromising-customer-signing-keys/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in OneLogin’s AD Connector exposed enterprise authentication systems to severe risk. The flaw allowed attackers to obtain credentials, impersonate users, and access sensitive applications by forging JSON Web Tokens (JWTs).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Understanding CyberEYE RAT Builder: Capabilities and Implications<a href="https://www.cyfirma.com/research/understanding-cybereye-rat-builder-capabilities-and-implications/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CyberEye, also referred to as TelegramRAT, is a newly discovered RAT that utilizes Telegram’s Bot API for C2 operations. It is gaining popularity among cybercriminals due to its powerful surveillance features and ease of deployment.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ShapeBlue Security Advisory: Security Fixes in CloudStack 4.19.3.0 and Apache CloudStack 4.20.1.0<a href="https://www.shapeblue.com/shapeblue-security-advisory-cloudstack-4-19-3-0-and-4-20-1-0/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ ShapeBlue Security Advisory: Security Fixes in CloudStack 4.19.3.0 and Apache Cl
 Apache CloudStack has released Long-Term Support (LTS) versions 4.19.3.0 and 4.20.1.0 to address five security vulnerabilities, including two critical flaws—CVE-2025-26521 and CVE-2025-47713.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Shape Blue
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2025
+June 11, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Chrome security advisory (AV25-336) - Canadian Centre for Cyber Security<a href="https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av25-336?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Google Chrome security advisory (AV25-336) - Canadian Centre for Cyber Security<
 
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Government of Canada
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2025
+June 11, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Vulnerabilities Patched in Mozilla Firefox Versions Prior to 139.0.4<a href="https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av25-332?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Security Vulnerabilities Patched in Mozilla Firefox Versions Prior to 139.0.4<a 
 On June 10, 2025, Mozilla released a security advisory addressing vulnerabilities in Firefox. The affected versions include all releases prior to Firefox 139.0.4. Users and administrators are urged to update to the latest version.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Government of Canada
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2025
+June 11, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rust-based Myth Stealer Malware Spread via Fake Gaming Sites Targets Chrome, Firefox Users<a href="https://thehackernews.com/2025/06/rust-based-myth-stealer-malware-spread.html?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Rust-based Myth Stealer Malware Spread via Fake Gaming Sites Targets Chrome, Fir
 Cybersecurity researchers have identified a new Rust-based information stealer named Myth Stealer, distributed via fraudulent gaming websites and cracked software. The malware targets Chromium and Gecko-based browsers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2025
+June 11, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft June 2025 Patch Tuesday fixes exploited zero-day, 66 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2025-patch-tuesday-fixes-exploited-zero-day-66-flaws/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Microsoft June 2025 Patch Tuesday fixes exploited zero-day, 66 flaws<a href="htt
 Microsoft's June 2025 Patch Tuesday addresses 66 vulnerabilities, including one actively exploited and one publicly disclosed zero-day. Ten of the vulnerabilities are rated as Critical.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2025
+June 11, 2025 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hundreds of Russian devices hit by Rare Werewolf crypto-mining attacks<a href="https://therecord.media/russian-devices-hit-by-rare-werewolf-crypto-mining?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Hundreds of Russian devices hit by Rare Werewolf crypto-mining attacks<a href="h
 A threat actor known as Rare Werewolf has launched a crypto-mining campaign targeting hundreds of devices in Russia, Belarus, and Kazakhstan. The attackers deploy the XMRig miner to hijack computing resources for Monero mining.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2025
+June 11, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Birmingham, AL dermatologist notifies 86K people of data breach<a href="https://www.comparitech.com/news/birmingham-al-dermatologist-notifies-86k-people-of-data-breach/?&web_view=true"> Full Text</a>
@@ -140,7 +300,7 @@ Birmingham, AL dermatologist notifies 86K people of data breach<a href="https://
 Dermatologists of Birmingham, operating under the name Shelby Dermatology and running two clinics in Birmingham and Alabaster, Alabama, has disclosed a data breach affecting 86,414 individuals.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CompariTech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
