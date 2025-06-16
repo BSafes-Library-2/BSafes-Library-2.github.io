@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ShapeBlue Security Advisory: Security Fixes in CloudStack 4.19.3.0 and Apache CloudStack 4.20.1.0<a href="https://www.shapeblue.com/shapeblue-security-advisory-cloudstack-4-19-3-0-and-4-20-1-0/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apache CloudStack has released Long-Term Support (LTS) versions 4.19.3.0 and 4.20.1.0 to address five security vulnerabilities, including two critical flaws—CVE-2025-26521 and CVE-2025-47713.
+</details>
+<div style="text-align: right" markdown="1">
+Shape Blue
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome security advisory (AV25-336) - Canadian Centre for Cyber Security<a href="https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av25-336?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+
+</details>
+<div style="text-align: right" markdown="1">
+Government of Canada
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Vulnerabilities Patched in Mozilla Firefox Versions Prior to 139.0.4<a href="https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av25-332?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On June 10, 2025, Mozilla released a security advisory addressing vulnerabilities in Firefox. The affected versions include all releases prior to Firefox 139.0.4. Users and administrators are urged to update to the latest version.
+</details>
+<div style="text-align: right" markdown="1">
+Government of Canada
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft June 2025 Patch Tuesday fixes exploited zero-day, 66 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2025-patch-tuesday-fixes-exploited-zero-day-66-flaws/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's June 2025 Patch Tuesday addresses 66 vulnerabilities, including one actively exploited and one publicly disclosed zero-day. Ten of the vulnerabilities are rated as Critical.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 10, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

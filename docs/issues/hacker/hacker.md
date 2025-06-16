@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GrayAlpha Unmasked: New FIN7-Linked Infrastructure, PowerNet Loader, and Fake Update Attacks<a href="https://www.recordedfuture.com/research/grayalpha-uses-diverse-infection-vectors-deploy-powernet-loader-netsupport-rat?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GrayAlpha, a threat actor overlapping with FIN7, has been observed deploying NetSupport RAT using diverse infection vectors and custom loaders. The group utilizes PowerNet, a PowerShell loader, and MaskBat.
+</details>
+<div style="text-align: right" markdown="1">
+Recorded Future
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 2, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Developers Beware - Sophisticated Phishing Scams Exploit GitHub Device Code Flow to Hijack Tokens<a href="https://gbhackers.com/sophisticated-phishing-scams-exploit-github-device-code/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new wave of sophisticated phishing attacks is targeting software developers by exploiting GitHub’s OAuth 2.0 Device Code Flow. These attacks enable threat actors to hijack developer tokens and more.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 9, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

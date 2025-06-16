@@ -8,6 +8,76 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spring Framework Flaw Enables Remote File Disclosure via “Content‑Disposition” Header<a href="https://gbhackers.com/spring-framework-flaw/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A medium-severity Reflected File Download (RFD) vulnerability, tracked as CVE-2025-41234, has been identified and patched in VMware’s Spring Framework. Successful exploitation of this vulnerability can lead to client-side code execution.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender Spoofing Flaw Enables Privilege Escalation and AD Access<a href="https://gbhackers.com/microsoft-defender-spoofing/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly disclosed spoofing vulnerability, CVE-2025-26685, affects Microsoft Defender for Identity (MDI), enabling unauthenticated attackers to capture Net-NTLM hashes of Directory Service Accounts (DSAs).
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon Cloud Cam Flaw Allows Attackers to Intercept and Modify Network Traffic<a href="https://gbhackers.com/amazon-cloud-cam-flaw/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Acer Control Center Flaw Lets Attackers Run Malicious Code as Elevated User<a href="https://gbhackers.com/acer-control-center-flaw/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical remote code execution vulnerability (CVE-2025-5491, CVSS 8.8) has been identified in Acer ControlCenter. The flaw arises from insecure permissions on a custom protocol pipe exposed by the ACCSvc.exe service.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerability in OneLogin AD Connector Enables JWT Forgery and Cross-Tenant Account Takeovers<a href="https://specterops.io/blog/2025/06/10/onelogin-many-issues-how-i-pivoted-from-a-trial-tenant-to-compromising-customer-signing-keys/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in OneLogin’s AD Connector exposed enterprise authentication systems to severe risk. The flaw allowed attackers to obtain credentials, impersonate users, and access sensitive applications by forging JSON Web Tokens (JWTs).
+</details>
+<div style="text-align: right" markdown="1">
+Specterops
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 11, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

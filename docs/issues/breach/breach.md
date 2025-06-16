@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+June 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medical software maker Episource data breach leaks thousands of patients' private health info<a href="https://www.comparitech.com/news/medical-software-maker-episource-data-breach-leaks-thousands-of-patients-private-health-info/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Episource, a medical software provider, suffered a ransomware attack between January 27 and February 6, 2025, compromising sensitive health and insurance data. The breach impacted at least 24,259 individuals in Texas.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 11, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
