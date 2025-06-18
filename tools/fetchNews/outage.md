@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+June 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Government offices in North Carolina, Georgia disrupted by cyberattacks<a href="https://therecord.media/thomasville-nc-government-ogeechee-ga-district-cyberattacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two separate cyberattacks have disrupted government operations in Thomasville, North Carolina, and the Ogeechee Judicial Circuit District Attorney’s Office in Georgia. These incidents have led to significant service outages.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 20, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

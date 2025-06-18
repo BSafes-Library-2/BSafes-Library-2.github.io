@@ -34,6 +34,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multi-Stage Malware Attack on PyPI: “chimera-sandbox-extensions” Malicious Package Threatens Chimera Sandbox Users<a href="https://jfrog.com/blog/chimera-sandbox-extensions-malware-threatens-pypi-users/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious Python package named chimera-sandbox-extensions was discovered on PyPI, targeting developers using the chimera-sandbox environment. The package is designed to steal sensitive infrastructure-specific data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Freedman HealthCare targeted by cyber extortionists<a href="https://www.theregister.com/2025/06/16/extortionists_claim_freedman_healthcare_hack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber extortion group known as World Leaks has claimed responsibility for a significant data breach at Freedman HealthCare. The attackers allege they have exfiltrated 52.4 GB of sensitive data comprising 42,204 files.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Windows Executable Hidden in JPEG Image via Steganography and Base64 Obfuscation<a href="https://isc.sans.edu/diary/32048?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent discovery has revealed a sophisticated steganographic technique used to embed a malicious Windows executable within a JPEG image. The payload was hidden using Base64 obfuscation and detected through dynamic analysis.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 14, 2025 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

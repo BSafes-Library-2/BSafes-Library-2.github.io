@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+June 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Freedman HealthCare targeted by cyber extortionists<a href="https://www.theregister.com/2025/06/16/extortionists_claim_freedman_healthcare_hack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber extortion group known as World Leaks has claimed responsibility for a significant data breach at Freedman HealthCare. The attackers allege they have exfiltrated 52.4 GB of sensitive data comprising 42,204 files.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 14, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
