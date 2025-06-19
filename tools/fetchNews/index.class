@@ -44,7 +44,7 @@ Multi-Stage Malware Attack on PyPI: “chimera-sandbox-extensions” Malicious P
 A malicious Python package named chimera-sandbox-extensions was discovered on PyPI, targeting developers using the chimera-sandbox environment. The package is designed to steal sensitive infrastructure-specific data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+JFrog
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -60,7 +60,7 @@ Freedman HealthCare targeted by cyber extortionists<a href="https://www.theregis
 A cyber extortion group known as World Leaks has claimed responsibility for a significant data breach at Freedman HealthCare. The attackers allege they have exfiltrated 52.4 GB of sensitive data comprising 42,204 files.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -76,7 +76,7 @@ Malicious Windows Executable Hidden in JPEG Image via Steganography and Base64 O
 A recent discovery has revealed a sophisticated steganographic technique used to embed a malicious Windows executable within a JPEG image. The payload was hidden using Base64 obfuscation and detected through dynamic analysis.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sans
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
