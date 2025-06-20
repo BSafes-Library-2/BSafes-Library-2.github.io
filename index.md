@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2025
+June 19, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Amatera Stealer: Rebranded ACR Stealer With Improved Evasion, Sophistication<a href="https://www.proofpoint.com/us/blog/threat-insight/amatera-stealer-rebranded-acr-stealer-improved-evasion-sophistication?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Amatera Stealer: Rebranded ACR Stealer With Improved Evasion, Sophistication<a h
 Amatera Stealer is a rebranded and significantly enhanced version of ACR Stealer, now distributed as a malware-as-a-service (MaaS). It features advanced evasion techniques, dynamic payload delivery, and a stealthy command-and-control (C2) mechanism.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ProofPoint
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2025
+June 19, 2025 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Active Exploitation of CVE-2024-3721 in TBK DVRs Enables Botnet-Driven DDoS Attacks<a href="https://fortiguard.fortinet.com/outbreak-alert/tbk-dvrs-botnet-attack?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Active Exploitation of CVE-2024-3721 in TBK DVRs Enables Botnet-Driven DDoS Atta
 A critical command injection vulnerability, CVE-2024-3721, in TBK DVR devices is being actively exploited by multiple botnet operators. This flaw enables unauthenticated remote code execution via crafted HTTP requests.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Fortiguard
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2025
+June 19, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious WordPress Plugin ‘wordpress-player.php’ Redirects Users via Hidden Video and WebSocket C2<a href="https://blog.sucuri.net/2025/06/analysis-of-a-malicious-wordpress-plugin-the-covert-redirector.html?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Malicious WordPress Plugin ‘wordpress-player.php’ Redirects Users via Hidden
 A new malicious WordPress plugin named wordpress-player.php has been discovered, designed to covertly redirect site visitors to suspicious domains. At least 26 websites have been confirmed as infected, indicating a growing campaign.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sucuri
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2025
+June 19, 2025 -- [Deepfake](/docs/issues/deepfake/deepfake/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean hackers deepfake execs in Zoom call to spread Mac malware<a href="https://www.bleepingcomputer.com/news/security/north-korean-hackers-deepfake-execs-in-zoom-call-to-spread-mac-malware/?&web_view=true"> Full Text</a>
@@ -92,7 +92,7 @@ North Korean hackers deepfake execs in Zoom call to spread Mac malware<a href="h
 A new campaign by the North Korean APT group BlueNoroff (also known as TA444 or Sapphire Sleet) leverages deepfake videos of company executives during Zoom calls to distribute custom macOS malware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -108,7 +108,7 @@ Multi-Stage Malware Attack on PyPI: “chimera-sandbox-extensions” Malicious P
 A malicious Python package named chimera-sandbox-extensions was discovered on PyPI, targeting developers using the chimera-sandbox environment. The package is designed to steal sensitive infrastructure-specific data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+JFrog
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -124,7 +124,7 @@ Freedman HealthCare targeted by cyber extortionists<a href="https://www.theregis
 A cyber extortion group known as World Leaks has claimed responsibility for a significant data breach at Freedman HealthCare. The attackers allege they have exfiltrated 52.4 GB of sensitive data comprising 42,204 files.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -140,7 +140,7 @@ Malicious Windows Executable Hidden in JPEG Image via Steganography and Base64 O
 A recent discovery has revealed a sophisticated steganographic technique used to embed a malicious Windows executable within a JPEG image. The payload was hidden using Base64 obfuscation and detected through dynamic analysis.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sans
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

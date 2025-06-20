@@ -8,6 +8,20 @@ nav_order: 900041
 
 ## Deepfake
 ---
+June 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean hackers deepfake execs in Zoom call to spread Mac malware<a href="https://www.bleepingcomputer.com/news/security/north-korean-hackers-deepfake-execs-in-zoom-call-to-spread-mac-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new campaign by the North Korean APT group BlueNoroff (also known as TA444 or Sapphire Sleet) leverages deepfake videos of company executives during Zoom calls to distribute custom macOS malware.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
