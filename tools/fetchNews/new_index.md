@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2025
+June 21, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IBM QRadar SIEM Bug Lets Attackers Run Arbitrary Commands<a href="https://gbhackers.com/ibm-qradar-siem-bug/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IBM has released a critical security update for its QRadar SIEM platform following the discovery of multiple vulnerabilities, including a severe flaw that allows privileged users to execute arbitrary commands.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PowerShell Loaders Use In-Memory Execution to Evade Disk-Based Detection<a href="https://gbhackers.com/powershell-loaders-use-in-memory-execution/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered PowerShell-based shellcode loader, y1.ps1, was identified by Shenzhen Tencent Computer Systems Company Ltd. on June 1, 2025. This malware leverages advanced in-memory execution and evasion techniques.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tonga Ministry of Health hit with cyberattack affecting website, IT systems<a href="https://therecord.media/tonga-ministry-of-health-hit-with-cyberattack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tonga’s Ministry of Health has suffered a ransomware attack that has crippled its National Health Information System, affecting hospital operations and public access to medical services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang says it stole confidential files from Taos County, NM; demands ransom in 7 days<a href="https://www.comparitech.com/news/ransomware-gang-says-it-stole-confidential-files-from-taos-county-nm-demands-ransom-in-7-days/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware group Kairos has claimed responsibility for stealing 1.94 TB of sensitive data from the Taos County government in New Mexico. The group issued a 7-day ultimatum, threatening to sell or publicly release the data if a ransom is not paid.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian dairy supply disrupted by cyberattack on animal certification system<a href="https://therecord.media/russia-dairy-supply-disrupted-cyberattack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant cyberattack has disrupted Russia’s Mercury platform, a critical component of the country’s Federal State Information System for Veterinary Surveillance (VetIS). The platform was taken offline.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Mocha Manakin Malware Deploys NodeInitRAT via Clickfix Attack<a href="https://hackread.com/mocha-manakin-malware-nodeinitrat-via-clickfix-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly identified cyber threat, Mocha Manakin, leverages social engineering and a custom NodeJS-based backdoor named NodeInitRAT to compromise systems. This threat uses deceptive paste-and-run tactics to bypass security controls and deliver malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Famous Chollima deploying Python version of GolangGhost RAT<a href="https://blog.talosintelligence.com/python-version-of-golangghost-rat/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PylangGhost is tailored for Windows, while the Golang version targets MacOS. The threat actors target professionals in cryptocurrency and blockchain industries, mostly in India, using fake job interviews.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qilin’s 'on-call lawyer' capability is fooling no one<a href="https://www.theregister.com/2025/06/20/qilin_ransomware_top_dogs_treat/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Qilin introduced a controversial new feature in its affiliate panel—a "Call lawyer" button. This feature is designed to provide affiliates with access to legal experts who can assist in ransom negotiations by advising on legal implications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT36 Phishing Campaign Targets Indian Defense Using Credential-Stealing Malware<a href="https://www.cyfirma.com/research/apt36-phishing-campaign-targets-indian-defense-using-credential-stealing-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APT36 is conducting a targeted phishing campaign against Indian defense personnel. The campaign uses spear-phishing emails with malicious PDF attachments that mimic official government documents to deliver credential-stealing malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Exploit Oracle Cloud Infrastructure to Target Scaleway Object Storage<a href="https://gbhackers.com/russian-hackers-exploit-oracle-cloud-infrastructure/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian threat actors have been leveraging trusted cloud infrastructure platforms like Oracle Cloud Infrastructure (OCI) Object Storage and Scaleway Object Storage to propagate sophisticated attacks using the Lumma Stealer malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 19, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Amatera Stealer: Rebranded ACR Stealer With Improved Evasion, Sophistication<a href="https://www.proofpoint.com/us/blog/threat-insight/amatera-stealer-rebranded-acr-stealer-improved-evasion-sophistication?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Amatera Stealer: Rebranded ACR Stealer With Improved Evasion, Sophistication<a h
 Amatera Stealer is a rebranded and significantly enhanced version of ACR Stealer, now distributed as a malware-as-a-service (MaaS). It features advanced evasion techniques, dynamic payload delivery, and a stealthy command-and-control (C2) mechanism.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ProofPoint
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2025
+June 19, 2025 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Active Exploitation of CVE-2024-3721 in TBK DVRs Enables Botnet-Driven DDoS Attacks<a href="https://fortiguard.fortinet.com/outbreak-alert/tbk-dvrs-botnet-attack?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Active Exploitation of CVE-2024-3721 in TBK DVRs Enables Botnet-Driven DDoS Atta
 A critical command injection vulnerability, CVE-2024-3721, in TBK DVR devices is being actively exploited by multiple botnet operators. This flaw enables unauthenticated remote code execution via crafted HTTP requests.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Fortiguard
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2025
+June 19, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious WordPress Plugin ‘wordpress-player.php’ Redirects Users via Hidden Video and WebSocket C2<a href="https://blog.sucuri.net/2025/06/analysis-of-a-malicious-wordpress-plugin-the-covert-redirector.html?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Malicious WordPress Plugin ‘wordpress-player.php’ Redirects Users via Hidden
 A new malicious WordPress plugin named wordpress-player.php has been discovered, designed to covertly redirect site visitors to suspicious domains. At least 26 websites have been confirmed as infected, indicating a growing campaign.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sucuri
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2025
+June 19, 2025 -- [Deepfake](/docs/issues/deepfake/deepfake/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean hackers deepfake execs in Zoom call to spread Mac malware<a href="https://www.bleepingcomputer.com/news/security/north-korean-hackers-deepfake-execs-in-zoom-call-to-spread-mac-malware/?&web_view=true"> Full Text</a>
@@ -92,7 +252,7 @@ North Korean hackers deepfake execs in Zoom call to spread Mac malware<a href="h
 A new campaign by the North Korean APT group BlueNoroff (also known as TA444 or Sapphire Sleet) leverages deepfake videos of company executives during Zoom calls to distribute custom macOS malware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -108,7 +268,7 @@ Multi-Stage Malware Attack on PyPI: “chimera-sandbox-extensions” Malicious P
 A malicious Python package named chimera-sandbox-extensions was discovered on PyPI, targeting developers using the chimera-sandbox environment. The package is designed to steal sensitive infrastructure-specific data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+JFrog
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -124,7 +284,7 @@ Freedman HealthCare targeted by cyber extortionists<a href="https://www.theregis
 A cyber extortion group known as World Leaks has claimed responsibility for a significant data breach at Freedman HealthCare. The attackers allege they have exfiltrated 52.4 GB of sensitive data comprising 42,204 files.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -140,7 +300,7 @@ Malicious Windows Executable Hidden in JPEG Image via Steganography and Base64 O
 A recent discovery has revealed a sophisticated steganographic technique used to embed a malicious Windows executable within a JPEG image. The payload was hidden using Base64 obfuscation and detected through dynamic analysis.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sans
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
