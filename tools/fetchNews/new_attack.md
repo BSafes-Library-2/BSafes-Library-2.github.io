@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+June 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Exploit Oracle Cloud Infrastructure to Target Scaleway Object Storage<a href="https://gbhackers.com/russian-hackers-exploit-oracle-cloud-infrastructure/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian threat actors have been leveraging trusted cloud infrastructure platforms like Oracle Cloud Infrastructure (OCI) Object Storage and Scaleway Object Storage to propagate sophisticated attacks using the Lumma Stealer malware.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 5, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

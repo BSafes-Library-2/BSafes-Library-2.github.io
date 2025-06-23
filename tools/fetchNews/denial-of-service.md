@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+June 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Active Exploitation of CVE-2024-3721 in TBK DVRs Enables Botnet-Driven DDoS Attacks<a href="https://fortiguard.fortinet.com/outbreak-alert/tbk-dvrs-botnet-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical command injection vulnerability, CVE-2024-3721, in TBK DVR devices is being actively exploited by multiple botnet operators. This flaw enables unauthenticated remote code execution via crafted HTTP requests.
+</details>
+<div style="text-align: right" markdown="1">
+Fortiguard
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 2, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

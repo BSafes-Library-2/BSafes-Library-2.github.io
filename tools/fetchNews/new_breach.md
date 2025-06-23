@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+June 21, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang says it stole confidential files from Taos County, NM; demands ransom in 7 days<a href="https://www.comparitech.com/news/ransomware-gang-says-it-stole-confidential-files-from-taos-county-nm-demands-ransom-in-7-days/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware group Kairos has claimed responsibility for stealing 1.94 TB of sensitive data from the Taos County government in New Mexico. The group issued a 7-day ultimatum, threatening to sell or publicly release the data if a ransom is not paid.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 17, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
