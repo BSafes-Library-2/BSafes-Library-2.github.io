@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+June 21, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tonga Ministry of Health hit with cyberattack affecting website, IT systems<a href="https://therecord.media/tonga-ministry-of-health-hit-with-cyberattack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tonga’s Ministry of Health has suffered a ransomware attack that has crippled its National Health Information System, affecting hospital operations and public access to medical services.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian dairy supply disrupted by cyberattack on animal certification system<a href="https://therecord.media/russia-dairy-supply-disrupted-cyberattack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant cyberattack has disrupted Russia’s Mercury platform, a critical component of the country’s Federal State Information System for Veterinary Surveillance (VetIS). The platform was taken offline.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 14, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

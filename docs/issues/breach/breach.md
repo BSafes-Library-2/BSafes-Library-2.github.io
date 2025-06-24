@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+June 23, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anubis Ransomware Lists Disneyland Paris as New Victim<a href="https://hackread.com/anubis-ransomware-lists-disneyland-paris-new-victim/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anubis, a ransomware-as-a-service (RaaS) group that emerged in December 2024, has claimed responsibility for a significant data breach involving Disneyland Paris. The group alleges it exfiltrated 64GB of sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 21, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

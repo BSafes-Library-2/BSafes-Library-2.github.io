@@ -8,6 +8,34 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+June 23, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analysis of TAG-140 Campaign and DRAT V2 Development Targeting Indian Government Organizations<a href="https://www.recordedfuture.com/research/drat-v2-updated-drat-emerges-tag-140s-arsenal?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Delphi-based variant of the DRAT remote access trojan, dubbed DRAT V2, has been deployed by TAG-140 (a subgroup of Transparent Tribe/APT36) in a campaign targeting Indian government entities.
+</details>
+<div style="text-align: right" markdown="1">
+Recorded Future
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian Government Systems Targeted With Backdoors Hidden in Cloud APIs and Docs<a href="https://thecyberexpress.com/ukrainian-government-systems-targeted/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated cyberattack campaign attributed to APT28 (Fancy Bear), a Russian GRU-linked threat actor, has targeted Ukrainian government systems. The campaign deployed two novel malware strains—BEARDSHELL and SLIMAGENT.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 20, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

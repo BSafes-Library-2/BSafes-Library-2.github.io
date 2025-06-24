@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qilin’s 'on-call lawyer' capability is fooling no one<a href="https://www.theregister.com/2025/06/20/qilin_ransomware_top_dogs_treat/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Qilin introduced a controversial new feature in its affiliate panel—a "Call lawyer" button. This feature is designed to provide affiliates with access to legal experts who can assist in ransom negotiations by advising on legal implications.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 3, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

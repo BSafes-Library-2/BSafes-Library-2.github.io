@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 21, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IBM QRadar SIEM Bug Lets Attackers Run Arbitrary Commands<a href="https://gbhackers.com/ibm-qradar-siem-bug/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IBM has released a critical security update for its QRadar SIEM platform following the discovery of multiple vulnerabilities, including a severe flaw that allows privileged users to execute arbitrary commands.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 14, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

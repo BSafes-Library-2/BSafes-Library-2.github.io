@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2025
+June 23, 2025 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Analysis of TAG-140 Campaign and DRAT V2 Development Targeting Indian Government Organizations<a href="https://www.recordedfuture.com/research/drat-v2-updated-drat-emerges-tag-140s-arsenal?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Analysis of TAG-140 Campaign and DRAT V2 Development Targeting Indian Government
 A new Delphi-based variant of the DRAT remote access trojan, dubbed DRAT V2, has been deployed by TAG-140 (a subgroup of Transparent Tribe/APT36) in a campaign targeting Indian government entities.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Recorded Future
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2025
+June 23, 2025 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukrainian Government Systems Targeted With Backdoors Hidden in Cloud APIs and Docs<a href="https://thecyberexpress.com/ukrainian-government-systems-targeted/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Ukrainian Government Systems Targeted With Backdoors Hidden in Cloud APIs and Do
 A sophisticated cyberattack campaign attributed to APT28 (Fancy Bear), a Russian GRU-linked threat actor, has targeted Ukrainian government systems. The campaign deployed two novel malware strains—BEARDSHELL and SLIMAGENT.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2025
+June 23, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NCSC Issues Alert on 'UMBRELLA STAND' Malware Targeting Fortinet FortiGate Firewalls<a href="https://gbhackers.com/ncsc-issues-alert-on-umbrella-stand-malware/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ NCSC Issues Alert on 'UMBRELLA STAND' Malware Targeting Fortinet FortiGate Firew
 The NCSC issued an alert regarding a newly discovered malware dubbed UMBRELLA STAND, which targets internet-facing Fortinet FortiGate 100D firewalls. This malware is designed to establish persistent access to embedded network devices.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2025
+June 23, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actors abuse signed ConnectWise application as malware builder<a href="https://www.gdatasoftware.com/blog/2025/06/38218-connectwise-abuse-malware?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Threat Actors abuse signed ConnectWise application as malware builder<a href="ht
 A new malware campaign tracked as EvilConwi is actively abusing ConnectWise’s ScreenConnect software to distribute signed malware. This follows earlier exploitation of CVE-2024-1708 and CVE-2024-1709 in February 2024.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GData Software
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2025
+June 23, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Amazon EKS Flaws Expose AWS Credentials and Enable Privilege Escalation<a href="https://gbhackers.com/amazon-eks-flaws-expose-aws-credentials/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Amazon EKS Flaws Expose AWS Credentials and Enable Privilege Escalation<a href="
 Security researchers have identified critical vulnerabilities in Amazon Elastic Kubernetes Service (EKS) that could expose AWS credentials and enable privilege escalation. These flaws arise from misconfigured containers and excessive privileges.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2025
+June 23, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Meshtastic Flaw Allows Attackers to Decrypt Private Messages<a href="https://gbhackers.com/critical-meshtastic-flaw/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Critical Meshtastic Flaw Allows Attackers to Decrypt Private Messages<a href="ht
 A critical cryptographic vulnerability in the open-source Meshtastic project exposes users to message decryption and node hijacking risks. The issue affects multiple hardware platforms, increasing the scope of potential exposure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2025
+June 23, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anubis Ransomware Lists Disneyland Paris as New Victim<a href="https://hackread.com/anubis-ransomware-lists-disneyland-paris-new-victim/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Anubis Ransomware Lists Disneyland Paris as New Victim<a href="https://hackread.
 Anubis, a ransomware-as-a-service (RaaS) group that emerged in December 2024, has claimed responsibility for a significant data breach involving Disneyland Paris. The group alleges it exfiltrated 64GB of sensitive data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2025
+June 23, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious WordPress Plugin Creates Hidden Admin User Backdoor<a href="https://blog.sucuri.net/2025/06/malicious-wordpress-plugin-creates-hidden-admin-user-backdoor.html?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Malicious WordPress Plugin Creates Hidden Admin User Backdoor<a href="https://bl
 A malicious WordPress plugin named php-ini.php was discovered that conditionally created a malicious admin user on infected websites. The plugin mimicked the legitimate wpforms plugin but only included a single file.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sucuri
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2025
+June 23, 2025 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Resurgence of the Prometei Botnet<a href="https://unit42.paloaltonetworks.com/prometei-botnet-2025-activity/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Resurgence of the Prometei Botnet<a href="https://unit42.paloaltonetworks.com/pr
 Prometei has evolved significantly, with its Linux variant gaining prominence since December 2020. As of March 2025, researchers have observed a renewed wave of Prometei botnet activity targeting Linux servers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Palo Alto Networks
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2025
+June 23, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Authentication Bypass Vulnerability in Teleport (CVE-2025-49825) Affects SSH and Git Proxy Setups<a href="https://fortiguard.fortinet.com/threat-signal-report/6132?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Critical Authentication Bypass Vulnerability in Teleport (CVE-2025-49825) Affect
 A critical authentication bypass vulnerability (CVE-2025-49825) has been identified in Teleport, an open-source platform used for secure access to infrastructure via SSH, RDP, Kubernetes, and other protocols.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Fortiguard
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

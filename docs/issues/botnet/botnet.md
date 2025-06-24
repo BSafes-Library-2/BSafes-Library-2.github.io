@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+June 23, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Resurgence of the Prometei Botnet<a href="https://unit42.paloaltonetworks.com/prometei-botnet-2025-activity/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Prometei has evolved significantly, with its Linux variant gaining prominence since December 2020. As of March 2025, researchers have observed a renewed wave of Prometei botnet activity targeting Linux servers.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 14, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+June 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT36 Phishing Campaign Targets Indian Defense Using Credential-Stealing Malware<a href="https://www.cyfirma.com/research/apt36-phishing-campaign-targets-indian-defense-using-credential-stealing-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APT36 is conducting a targeted phishing campaign against Indian defense personnel. The campaign uses spear-phishing emails with malicious PDF attachments that mimic official government documents to deliver credential-stealing malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyfirma
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
