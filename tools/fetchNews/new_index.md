@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2025
+June 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analysis of TAG-140 Campaign and DRAT V2 Development Targeting Indian Government Organizations<a href="https://www.recordedfuture.com/research/drat-v2-updated-drat-emerges-tag-140s-arsenal?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Delphi-based variant of the DRAT remote access trojan, dubbed DRAT V2, has been deployed by TAG-140 (a subgroup of Transparent Tribe/APT36) in a campaign targeting Indian government entities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian Government Systems Targeted With Backdoors Hidden in Cloud APIs and Docs<a href="https://thecyberexpress.com/ukrainian-government-systems-targeted/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated cyberattack campaign attributed to APT28 (Fancy Bear), a Russian GRU-linked threat actor, has targeted Ukrainian government systems. The campaign deployed two novel malware strains—BEARDSHELL and SLIMAGENT.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NCSC Issues Alert on 'UMBRELLA STAND' Malware Targeting Fortinet FortiGate Firewalls<a href="https://gbhackers.com/ncsc-issues-alert-on-umbrella-stand-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NCSC issued an alert regarding a newly discovered malware dubbed UMBRELLA STAND, which targets internet-facing Fortinet FortiGate 100D firewalls. This malware is designed to establish persistent access to embedded network devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors abuse signed ConnectWise application as malware builder<a href="https://www.gdatasoftware.com/blog/2025/06/38218-connectwise-abuse-malware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware campaign tracked as EvilConwi is actively abusing ConnectWise’s ScreenConnect software to distribute signed malware. This follows earlier exploitation of CVE-2024-1708 and CVE-2024-1709 in February 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon EKS Flaws Expose AWS Credentials and Enable Privilege Escalation<a href="https://gbhackers.com/amazon-eks-flaws-expose-aws-credentials/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have identified critical vulnerabilities in Amazon Elastic Kubernetes Service (EKS) that could expose AWS credentials and enable privilege escalation. These flaws arise from misconfigured containers and excessive privileges.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Meshtastic Flaw Allows Attackers to Decrypt Private Messages<a href="https://gbhackers.com/critical-meshtastic-flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical cryptographic vulnerability in the open-source Meshtastic project exposes users to message decryption and node hijacking risks. The issue affects multiple hardware platforms, increasing the scope of potential exposure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anubis Ransomware Lists Disneyland Paris as New Victim<a href="https://hackread.com/anubis-ransomware-lists-disneyland-paris-new-victim/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anubis, a ransomware-as-a-service (RaaS) group that emerged in December 2024, has claimed responsibility for a significant data breach involving Disneyland Paris. The group alleges it exfiltrated 64GB of sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious WordPress Plugin Creates Hidden Admin User Backdoor<a href="https://blog.sucuri.net/2025/06/malicious-wordpress-plugin-creates-hidden-admin-user-backdoor.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious WordPress plugin named php-ini.php was discovered that conditionally created a malicious admin user on infected websites. The plugin mimicked the legitimate wpforms plugin but only included a single file.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Resurgence of the Prometei Botnet<a href="https://unit42.paloaltonetworks.com/prometei-botnet-2025-activity/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Prometei has evolved significantly, with its Linux variant gaining prominence since December 2020. As of March 2025, researchers have observed a renewed wave of Prometei botnet activity targeting Linux servers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Authentication Bypass Vulnerability in Teleport (CVE-2025-49825) Affects SSH and Git Proxy Setups<a href="https://fortiguard.fortinet.com/threat-signal-report/6132?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical authentication bypass vulnerability (CVE-2025-49825) has been identified in Teleport, an open-source platform used for secure access to infrastructure via SSH, RDP, Kubernetes, and other protocols.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IBM QRadar SIEM Bug Lets Attackers Run Arbitrary Commands<a href="https://gbhackers.com/ibm-qradar-siem-bug/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ IBM QRadar SIEM Bug Lets Attackers Run Arbitrary Commands<a href="https://gbhack
 IBM has released a critical security update for its QRadar SIEM platform following the discovery of multiple vulnerabilities, including a severe flaw that allows privileged users to execute arbitrary commands.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2025
+June 21, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PowerShell Loaders Use In-Memory Execution to Evade Disk-Based Detection<a href="https://gbhackers.com/powershell-loaders-use-in-memory-execution/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ PowerShell Loaders Use In-Memory Execution to Evade Disk-Based Detection<a href=
 A newly discovered PowerShell-based shellcode loader, y1.ps1, was identified by Shenzhen Tencent Computer Systems Company Ltd. on June 1, 2025. This malware leverages advanced in-memory execution and evasion techniques.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2025
+June 21, 2025 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tonga Ministry of Health hit with cyberattack affecting website, IT systems<a href="https://therecord.media/tonga-ministry-of-health-hit-with-cyberattack?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Tonga Ministry of Health hit with cyberattack affecting website, IT systems<a hr
 Tonga’s Ministry of Health has suffered a ransomware attack that has crippled its National Health Information System, affecting hospital operations and public access to medical services.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2025
+June 21, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gang says it stole confidential files from Taos County, NM; demands ransom in 7 days<a href="https://www.comparitech.com/news/ransomware-gang-says-it-stole-confidential-files-from-taos-county-nm-demands-ransom-in-7-days/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Ransomware gang says it stole confidential files from Taos County, NM; demands r
 The ransomware group Kairos has claimed responsibility for stealing 1.94 TB of sensitive data from the Taos County government in New Mexico. The group issued a 7-day ultimatum, threatening to sell or publicly release the data if a ransom is not paid.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CompariTech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2025
+June 21, 2025 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian dairy supply disrupted by cyberattack on animal certification system<a href="https://therecord.media/russia-dairy-supply-disrupted-cyberattack?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Russian dairy supply disrupted by cyberattack on animal certification system<a h
 A significant cyberattack has disrupted Russia’s Mercury platform, a critical component of the country’s Federal State Information System for Veterinary Surveillance (VetIS). The platform was taken offline.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2025
+June 21, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Mocha Manakin Malware Deploys NodeInitRAT via Clickfix Attack<a href="https://hackread.com/mocha-manakin-malware-nodeinitrat-via-clickfix-attack/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ New Mocha Manakin Malware Deploys NodeInitRAT via Clickfix Attack<a href="https:
 A newly identified cyber threat, Mocha Manakin, leverages social engineering and a custom NodeJS-based backdoor named NodeInitRAT to compromise systems. This threat uses deceptive paste-and-run tactics to bypass security controls and deliver malware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+HackRead
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2025
+June 20, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Famous Chollima deploying Python version of GolangGhost RAT<a href="https://blog.talosintelligence.com/python-version-of-golangghost-rat/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Famous Chollima deploying Python version of GolangGhost RAT<a href="https://blog
 PylangGhost is tailored for Windows, while the Golang version targets MacOS. The threat actors target professionals in cryptocurrency and blockchain industries, mostly in India, using fake job interviews.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Talos Intelligence
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2025
+June 20, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Qilin’s 'on-call lawyer' capability is fooling no one<a href="https://www.theregister.com/2025/06/20/qilin_ransomware_top_dogs_treat/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Qilin’s 'on-call lawyer' capability is fooling no one<a href="https://www.ther
 Qilin introduced a controversial new feature in its affiliate panel—a "Call lawyer" button. This feature is designed to provide affiliates with access to legal experts who can assist in ransom negotiations by advising on legal implications.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2025
+June 20, 2025 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APT36 Phishing Campaign Targets Indian Defense Using Credential-Stealing Malware<a href="https://www.cyfirma.com/research/apt36-phishing-campaign-targets-indian-defense-using-credential-stealing-malware/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ APT36 Phishing Campaign Targets Indian Defense Using Credential-Stealing Malware
 APT36 is conducting a targeted phishing campaign against Indian defense personnel. The campaign uses spear-phishing emails with malicious PDF attachments that mimic official government documents to deliver credential-stealing malware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyfirma
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2025
+June 20, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Hackers Exploit Oracle Cloud Infrastructure to Target Scaleway Object Storage<a href="https://gbhackers.com/russian-hackers-exploit-oracle-cloud-infrastructure/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Russian Hackers Exploit Oracle Cloud Infrastructure to Target Scaleway Object St
 Russian threat actors have been leveraging trusted cloud infrastructure platforms like Oracle Cloud Infrastructure (OCI) Object Storage and Scaleway Object Storage to propagate sophisticated attacks using the Lumma Stealer malware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
