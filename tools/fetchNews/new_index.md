@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2025
+June 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New FileFix attack weaponizes Windows File Explorer for stealthy commands<a href="https://www.bleepingcomputer.com/news/security/filefix-attack-weaponizes-windows-file-explorer-for-stealthy-powershell-commands/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new social engineering technique called FileFix has emerged as a variant of the ClickFix attack, leveraging the Windows File Explorer address bar to stealthily execute malicious PowerShell commands.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dissecting a Malicious Havoc Sample<a href="https://www.fortinet.com/blog/threat-research/dissecting-a-malicious-havoc-sample?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated variant of the Havoc Remote Access Trojan (RAT) was deployed in a targeted cyber intrusion against critical national infrastructure in the Middle East. This variant leverages a disguised remote injector to deploy the Havoc payload.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Convoy Flaw Allows Remote Code Execution on Servers<a href="https://gbhackers.com/critical-convoy-flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability (CVE-2025-52562) in Performave Convoy, a KVM server management panel used by hosting providers, allows unauthenticated remote attackers to execute arbitrary PHP code on affected systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Advanced Malware Campaign Targets WordPress and WooCommerce Sites with Hidden Skimmers<a href="https://gbhackers.com/advanced-malware-campaign-targets-wordpress-and-woocommerce-sites/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated malware campaign has been uncovered targeting WordPress and WooCommerce platforms. The campaign involves over 20 malware variants focused on credit card skimming, credential theft, ad fraud, and further payload distribution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Xiaomi Interoperability App Flaw Allows Unauthorized Access to User Devices<a href="https://gbhackers.com/xiaomi-interoperability-app-flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability, tracked as CVE-2024-45347, has been identified in Xiaomi’s Mi Connect Service App, exposing millions of users to the risk of unauthorized access. The flaw is rated 9.6 on the CVSS scale.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WinRAR Vulnerability Exploited with Malicious Archives to Execute Code<a href="https://gbhackers.com/winrar-vulnerability-exploited/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in RARLAB’s WinRAR for Windows, tracked as CVE-2025-6218 with a CVSS score of 7.8 (High), allows attackers to execute arbitrary code by tricking users into opening specially crafted archive files.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aviatrix Cloud Controller Flaw Enables Remote Code Execution via Authentication Bypass<a href="https://gbhackers.com/aviatrix-cloud-controller-flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two critical vulnerabilities—CVE-2025-2171 and CVE-2025-2172—were discovered in Aviatrix Controller. These flaws enable full system compromise through an authentication bypass followed by command injection, affecting versions 7.2.5012.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Notepad++ Vulnerability Allows Full System Takeover — PoC Released<a href="https://gbhackers.com/notepad-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical privilege escalation vulnerability, CVE-2025-49144, has been identified in Notepad++ v8.8.1. This flaw allows attackers to gain full system control through a supply-chain attack by exploiting insecure search paths in the installer.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HPE security advisory (AV25-365) - Canadian Centre for Cyber Security<a href="https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-365?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HPE issued a security advisory addressing a vulnerability in the HPE Telco Unified OSS Console. The affected versions include all releases prior to v3.1.16. Users and administrators should apply the necessary updates to mitigate potential risks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA ICS security advisories (AV25–363)<a href="https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av25-363?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA published ICS advisories addressing vulnerabilities in several industrial control system products. These advisories cover multiple products from vendors including Dover Fueling Solutions, Fuji Electric, LS Electric, and Siemens.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2025 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Analysis of TAG-140 Campaign and DRAT V2 Development Targeting Indian Government Organizations<a href="https://www.recordedfuture.com/research/drat-v2-updated-drat-emerges-tag-140s-arsenal?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Analysis of TAG-140 Campaign and DRAT V2 Development Targeting Indian Government
 A new Delphi-based variant of the DRAT remote access trojan, dubbed DRAT V2, has been deployed by TAG-140 (a subgroup of Transparent Tribe/APT36) in a campaign targeting Indian government entities.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Recorded Future
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2025
+June 23, 2025 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukrainian Government Systems Targeted With Backdoors Hidden in Cloud APIs and Docs<a href="https://thecyberexpress.com/ukrainian-government-systems-targeted/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Ukrainian Government Systems Targeted With Backdoors Hidden in Cloud APIs and Do
 A sophisticated cyberattack campaign attributed to APT28 (Fancy Bear), a Russian GRU-linked threat actor, has targeted Ukrainian government systems. The campaign deployed two novel malware strains—BEARDSHELL and SLIMAGENT.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2025
+June 23, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NCSC Issues Alert on 'UMBRELLA STAND' Malware Targeting Fortinet FortiGate Firewalls<a href="https://gbhackers.com/ncsc-issues-alert-on-umbrella-stand-malware/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ NCSC Issues Alert on 'UMBRELLA STAND' Malware Targeting Fortinet FortiGate Firew
 The NCSC issued an alert regarding a newly discovered malware dubbed UMBRELLA STAND, which targets internet-facing Fortinet FortiGate 100D firewalls. This malware is designed to establish persistent access to embedded network devices.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2025
+June 23, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actors abuse signed ConnectWise application as malware builder<a href="https://www.gdatasoftware.com/blog/2025/06/38218-connectwise-abuse-malware?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Threat Actors abuse signed ConnectWise application as malware builder<a href="ht
 A new malware campaign tracked as EvilConwi is actively abusing ConnectWise’s ScreenConnect software to distribute signed malware. This follows earlier exploitation of CVE-2024-1708 and CVE-2024-1709 in February 2024.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GData Software
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2025
+June 23, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Amazon EKS Flaws Expose AWS Credentials and Enable Privilege Escalation<a href="https://gbhackers.com/amazon-eks-flaws-expose-aws-credentials/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Amazon EKS Flaws Expose AWS Credentials and Enable Privilege Escalation<a href="
 Security researchers have identified critical vulnerabilities in Amazon Elastic Kubernetes Service (EKS) that could expose AWS credentials and enable privilege escalation. These flaws arise from misconfigured containers and excessive privileges.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2025
+June 23, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Meshtastic Flaw Allows Attackers to Decrypt Private Messages<a href="https://gbhackers.com/critical-meshtastic-flaw/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Critical Meshtastic Flaw Allows Attackers to Decrypt Private Messages<a href="ht
 A critical cryptographic vulnerability in the open-source Meshtastic project exposes users to message decryption and node hijacking risks. The issue affects multiple hardware platforms, increasing the scope of potential exposure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2025
+June 23, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anubis Ransomware Lists Disneyland Paris as New Victim<a href="https://hackread.com/anubis-ransomware-lists-disneyland-paris-new-victim/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Anubis Ransomware Lists Disneyland Paris as New Victim<a href="https://hackread.
 Anubis, a ransomware-as-a-service (RaaS) group that emerged in December 2024, has claimed responsibility for a significant data breach involving Disneyland Paris. The group alleges it exfiltrated 64GB of sensitive data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2025
+June 23, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious WordPress Plugin Creates Hidden Admin User Backdoor<a href="https://blog.sucuri.net/2025/06/malicious-wordpress-plugin-creates-hidden-admin-user-backdoor.html?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Malicious WordPress Plugin Creates Hidden Admin User Backdoor<a href="https://bl
 A malicious WordPress plugin named php-ini.php was discovered that conditionally created a malicious admin user on infected websites. The plugin mimicked the legitimate wpforms plugin but only included a single file.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sucuri
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2025
+June 23, 2025 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Resurgence of the Prometei Botnet<a href="https://unit42.paloaltonetworks.com/prometei-botnet-2025-activity/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Resurgence of the Prometei Botnet<a href="https://unit42.paloaltonetworks.com/pr
 Prometei has evolved significantly, with its Linux variant gaining prominence since December 2020. As of March 2025, researchers have observed a renewed wave of Prometei botnet activity targeting Linux servers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Palo Alto Networks
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2025
+June 23, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Authentication Bypass Vulnerability in Teleport (CVE-2025-49825) Affects SSH and Git Proxy Setups<a href="https://fortiguard.fortinet.com/threat-signal-report/6132?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Critical Authentication Bypass Vulnerability in Teleport (CVE-2025-49825) Affect
 A critical authentication bypass vulnerability (CVE-2025-49825) has been identified in Teleport, an open-source platform used for secure access to infrastructure via SSH, RDP, Kubernetes, and other protocols.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Fortiguard
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
