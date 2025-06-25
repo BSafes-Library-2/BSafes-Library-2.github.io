@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+June 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New FileFix attack weaponizes Windows File Explorer for stealthy commands<a href="https://www.bleepingcomputer.com/news/security/filefix-attack-weaponizes-windows-file-explorer-for-stealthy-powershell-commands/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new social engineering technique called FileFix has emerged as a variant of the ClickFix attack, leveraging the Windows File Explorer address bar to stealthily execute malicious PowerShell commands.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 20, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

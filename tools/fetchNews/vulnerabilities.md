@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 23, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon EKS Flaws Expose AWS Credentials and Enable Privilege Escalation<a href="https://gbhackers.com/amazon-eks-flaws-expose-aws-credentials/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have identified critical vulnerabilities in Amazon Elastic Kubernetes Service (EKS) that could expose AWS credentials and enable privilege escalation. These flaws arise from misconfigured containers and excessive privileges.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Meshtastic Flaw Allows Attackers to Decrypt Private Messages<a href="https://gbhackers.com/critical-meshtastic-flaw/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical cryptographic vulnerability in the open-source Meshtastic project exposes users to message decryption and node hijacking risks. The issue affects multiple hardware platforms, increasing the scope of potential exposure.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Authentication Bypass Vulnerability in Teleport (CVE-2025-49825) Affects SSH and Git Proxy Setups<a href="https://fortiguard.fortinet.com/threat-signal-report/6132?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical authentication bypass vulnerability (CVE-2025-49825) has been identified in Teleport, an open-source platform used for secure access to infrastructure via SSH, RDP, Kubernetes, and other protocols.
+</details>
+<div style="text-align: right" markdown="1">
+Fortiguard
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 21, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

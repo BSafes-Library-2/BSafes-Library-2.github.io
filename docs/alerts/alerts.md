@@ -7,6 +7,30 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2025 - CISA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Releases Eight Industrial Control Systems Advisories <a href="https://www.cisa.gov/news-events/alerts/2025/06/24/cisa-releases-eight-industrial-control-systems-advisories"> Full Text</a>
+</p>
+<details>
+CISA released eight Industrial Control Systems (ICS) advisories on June 24, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2025 - Government of Canada
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HPE security advisory (AV25-365) <a href="https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-365?web_view=true"> Full Text</a>
+</p>
+<details>
+On June 23, 2025, HPE published a security advisory to address a vulnerability  in the following product:
+
+HPE Telco Unified OSS Console – version prior to v3.1.16
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 6, 2025 - Government of Canada
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

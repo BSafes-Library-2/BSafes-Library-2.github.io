@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+June 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA ICS security advisories (AV25–363)<a href="https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av25-363?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA published ICS advisories addressing vulnerabilities in several industrial control system products. These advisories cover multiple products from vendors including Dover Fueling Solutions, Fuji Electric, LS Electric, and Siemens.
+</details>
+<div style="text-align: right" markdown="1">
+Government of Canada
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 28, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
