@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+June 25, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attack contributed to patient’s death, says Britain’s NHS<a href="https://therecord.media/ransomware-attack-contributed-patient-death-uk-nhs?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack by the Qilin cybercrime group on Synnovis, a pathology service provider in London, severely disrupted NHS services in June 2023. The breach also exposed sensitive data of over 900,000 individuals.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 25, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Home Office anti-encryption site pushes payday loan scheme<a href="https://www.theregister.com/2025/06/25/home_office_antiencryption_campaign_website/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A UK government website originally created for the Home Office’s 2022 “No Place to Hide” anti-encryption campaign has been hijacked to promote a payday loan scheme. The campaign was initially expected to target Facebook Messenger.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 25, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leak of data belonging to 7.4 million Paraguayans traced back to infostealers<a href="https://therecord.media/data-leak-paraguayan-millions-infostealer?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive data breach has compromised the personal information of approximately 7.4 million Paraguayan citizens. The stolen data includes names, ID card numbers, dates of birth, professions, and certificates.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 23, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900190
 
 ## Skimming
 ---
+June 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Advanced Malware Campaign Targets WordPress and WooCommerce Sites with Hidden Skimmers<a href="https://gbhackers.com/advanced-malware-campaign-targets-wordpress-and-woocommerce-sites/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated malware campaign has been uncovered targeting WordPress and WooCommerce platforms. The campaign involves over 20 malware variants focused on credit card skimming, credential theft, ad fraud, and further payload distribution.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 3, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

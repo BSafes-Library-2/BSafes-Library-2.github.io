@@ -8,6 +8,90 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Convoy Flaw Allows Remote Code Execution on Servers<a href="https://gbhackers.com/critical-convoy-flaw/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability (CVE-2025-52562) in Performave Convoy, a KVM server management panel used by hosting providers, allows unauthenticated remote attackers to execute arbitrary PHP code on affected systems.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Xiaomi Interoperability App Flaw Allows Unauthorized Access to User Devices<a href="https://gbhackers.com/xiaomi-interoperability-app-flaw/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability, tracked as CVE-2024-45347, has been identified in Xiaomi’s Mi Connect Service App, exposing millions of users to the risk of unauthorized access. The flaw is rated 9.6 on the CVSS scale.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WinRAR Vulnerability Exploited with Malicious Archives to Execute Code<a href="https://gbhackers.com/winrar-vulnerability-exploited/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in RARLAB’s WinRAR for Windows, tracked as CVE-2025-6218 with a CVSS score of 7.8 (High), allows attackers to execute arbitrary code by tricking users into opening specially crafted archive files.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aviatrix Cloud Controller Flaw Enables Remote Code Execution via Authentication Bypass<a href="https://gbhackers.com/aviatrix-cloud-controller-flaw/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two critical vulnerabilities—CVE-2025-2171 and CVE-2025-2172—were discovered in Aviatrix Controller. These flaws enable full system compromise through an authentication bypass followed by command injection, affecting versions 7.2.5012.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Notepad++ Vulnerability Allows Full System Takeover — PoC Released<a href="https://gbhackers.com/notepad-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical privilege escalation vulnerability, CVE-2025-49144, has been identified in Notepad++ v8.8.1. This flaw allows attackers to gain full system control through a supply-chain attack by exploiting insecure search paths in the installer.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HPE security advisory (AV25-365) - Canadian Centre for Cyber Security<a href="https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-365?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HPE issued a security advisory addressing a vulnerability in the HPE Telco Unified OSS Console. The affected versions include all releases prior to v3.1.16. Users and administrators should apply the necessary updates to mitigate potential risks.
+</details>
+<div style="text-align: right" markdown="1">
+Government of Canada
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 23, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 25, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sextortion email scammers increase their “Hello pervert” money demands<a href="https://www.malwarebytes.com/blog/news/2025/06/sextortion-email-scammers-increase-their-hello-pervert-money-demands?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new variant of the long-running "sextortion" scam campaign has emerged, featuring increased ransom demands, spoofed email addresses, and references to Pegasus spyware. The email usually starts with “Hello pervert.”
+</details>
+<div style="text-align: right" markdown="1">
+Malware Bytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 13, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

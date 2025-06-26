@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 25, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Use Open-Source Tools to Attack Financial Businesses in Africa<a href="https://www.infosecurity-magazine.com/news/hackers-financial-businesses-africa/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor group tracked as CL-CRI-1014 has been targeting financial institutions across Africa since at least 2023. These attackers function as initial access brokers (IABs), compromising networks and selling access on the dark web.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 14, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

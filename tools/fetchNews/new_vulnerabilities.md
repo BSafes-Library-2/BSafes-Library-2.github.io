@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 25, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kubernetes NodeRestriction Flaw Lets Nodes Bypass Resource Authorization<a href="https://gbhackers.com/kubernetes-noderestriction-flaw/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in Kubernetes, tracked as CVE-2025-4563, allows compromised nodes to bypass authorization checks for dynamic resource allocation. It can lead to privilege escalation in clusters where specific configurations are enabled.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 25, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NVIDIA Megatron LM Flaw Allows Attackers to Inject Malicious Code<a href="https://gbhackers.com/nvidia-megatron-lm-flaw/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NVIDIA addressed two high-severity vulnerabilities—CVE-2025-23264 and CVE-2025-23265—in open-source Megatron-LM framework, addressing . These flaws allow attackers to inject and execute malicious code via specially crafted files.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 24, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
