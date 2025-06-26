@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2025
+June 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Use Open-Source Tools to Attack Financial Businesses in Africa<a href="https://www.infosecurity-magazine.com/news/hackers-financial-businesses-africa/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor group tracked as CL-CRI-1014 has been targeting financial institutions across Africa since at least 2023. These attackers function as initial access brokers (IABs), compromising networks and selling access on the dark web.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attack contributed to patient’s death, says Britain’s NHS<a href="https://therecord.media/ransomware-attack-contributed-patient-death-uk-nhs?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack by the Qilin cybercrime group on Synnovis, a pathology service provider in London, severely disrupted NHS services in June 2023. The breach also exposed sensitive data of over 900,000 individuals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Glasgow City Council impacted by ‘cyber incident’<a href="https://therecord.media/glasgow-city-council-cyber-incident?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Glasgow City Council has reported a cyber incident that has disrupted several of its online services and may have resulted in the exfiltration of customer data. The council has taken affected servers offline as a precautionary measure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kubernetes NodeRestriction Flaw Lets Nodes Bypass Resource Authorization<a href="https://gbhackers.com/kubernetes-noderestriction-flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in Kubernetes, tracked as CVE-2025-4563, allows compromised nodes to bypass authorization checks for dynamic resource allocation. It can lead to privilege escalation in clusters where specific configurations are enabled.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sextortion email scammers increase their “Hello pervert” money demands<a href="https://www.malwarebytes.com/blog/news/2025/06/sextortion-email-scammers-increase-their-hello-pervert-money-demands?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new variant of the long-running "sextortion" scam campaign has emerged, featuring increased ransom demands, spoofed email addresses, and references to Pegasus spyware. The email usually starts with “Hello pervert.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Home Office anti-encryption site pushes payday loan scheme<a href="https://www.theregister.com/2025/06/25/home_office_antiencryption_campaign_website/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A UK government website originally created for the Home Office’s 2022 “No Place to Hide” anti-encryption campaign has been hijacked to promote a payday loan scheme. The campaign was initially expected to target Facebook Messenger.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NVIDIA Megatron LM Flaw Allows Attackers to Inject Malicious Code<a href="https://gbhackers.com/nvidia-megatron-lm-flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NVIDIA addressed two high-severity vulnerabilities—CVE-2025-23264 and CVE-2025-23265—in open-source Megatron-LM framework, addressing . These flaws allow attackers to inject and execute malicious code via specially crafted files.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Hat SEO Poisoning Search Engine Results For AI<a href="https://www.zscaler.com/blogs/security-research/black-hat-seo-poisoning-search-engine-results-ai-distribute-malware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting the popularity of AI tools by using Black Hat SEO to poison search engine results and Vidar Stealer, Lumma Stealer, and Legion Loader through complex redirection chains and obfuscated JavaScript.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leak of data belonging to 7.4 million Paraguayans traced back to infostealers<a href="https://therecord.media/data-leak-paraguayan-millions-infostealer?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive data breach has compromised the personal information of approximately 7.4 million Paraguayan citizens. The stolen data includes names, ID card numbers, dates of birth, professions, and certificates.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Androxgh0st Botnet Expands Reach, Exploiting US University Servers<a href="https://hackread.com/androxgh0st-botnet-expand-exploit-us-university-servers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Androxgh0st botnet has significantly evolved since its emergence in early 2023, now leveraging a broader range of attack vectors and targeting misconfigured servers, particularly in academic institutions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New FileFix attack weaponizes Windows File Explorer for stealthy commands<a href="https://www.bleepingcomputer.com/news/security/filefix-attack-weaponizes-windows-file-explorer-for-stealthy-powershell-commands/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ New FileFix attack weaponizes Windows File Explorer for stealthy commands<a href
 A new social engineering technique called FileFix has emerged as a variant of the ClickFix attack, leveraging the Windows File Explorer address bar to stealthily execute malicious PowerShell commands.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2025
+June 24, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dissecting a Malicious Havoc Sample<a href="https://www.fortinet.com/blog/threat-research/dissecting-a-malicious-havoc-sample?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Dissecting a Malicious Havoc Sample<a href="https://www.fortinet.com/blog/threat
 A sophisticated variant of the Havoc Remote Access Trojan (RAT) was deployed in a targeted cyber intrusion against critical national infrastructure in the Middle East. This variant leverages a disguised remote injector to deploy the Havoc payload.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Fortinet
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2025
+June 24, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Convoy Flaw Allows Remote Code Execution on Servers<a href="https://gbhackers.com/critical-convoy-flaw/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Critical Convoy Flaw Allows Remote Code Execution on Servers<a href="https://gbh
 A critical vulnerability (CVE-2025-52562) in Performave Convoy, a KVM server management panel used by hosting providers, allows unauthenticated remote attackers to execute arbitrary PHP code on affected systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2025
+June 24, 2025 -- [Skimming](/docs/issues/skimming/skimming/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Advanced Malware Campaign Targets WordPress and WooCommerce Sites with Hidden Skimmers<a href="https://gbhackers.com/advanced-malware-campaign-targets-wordpress-and-woocommerce-sites/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Advanced Malware Campaign Targets WordPress and WooCommerce Sites with Hidden Sk
 A sophisticated malware campaign has been uncovered targeting WordPress and WooCommerce platforms. The campaign involves over 20 malware variants focused on credit card skimming, credential theft, ad fraud, and further payload distribution.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2025
+June 24, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Xiaomi Interoperability App Flaw Allows Unauthorized Access to User Devices<a href="https://gbhackers.com/xiaomi-interoperability-app-flaw/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Xiaomi Interoperability App Flaw Allows Unauthorized Access to User Devices<a hr
 A critical vulnerability, tracked as CVE-2024-45347, has been identified in Xiaomi’s Mi Connect Service App, exposing millions of users to the risk of unauthorized access. The flaw is rated 9.6 on the CVSS scale.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2025
+June 24, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WinRAR Vulnerability Exploited with Malicious Archives to Execute Code<a href="https://gbhackers.com/winrar-vulnerability-exploited/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ WinRAR Vulnerability Exploited with Malicious Archives to Execute Code<a href="h
 A critical vulnerability in RARLAB’s WinRAR for Windows, tracked as CVE-2025-6218 with a CVSS score of 7.8 (High), allows attackers to execute arbitrary code by tricking users into opening specially crafted archive files.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2025
+June 24, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Aviatrix Cloud Controller Flaw Enables Remote Code Execution via Authentication Bypass<a href="https://gbhackers.com/aviatrix-cloud-controller-flaw/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Aviatrix Cloud Controller Flaw Enables Remote Code Execution via Authentication 
 Two critical vulnerabilities—CVE-2025-2171 and CVE-2025-2172—were discovered in Aviatrix Controller. These flaws enable full system compromise through an authentication bypass followed by command injection, affecting versions 7.2.5012.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2025
+June 24, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Notepad++ Vulnerability Allows Full System Takeover — PoC Released<a href="https://gbhackers.com/notepad-vulnerability/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Notepad++ Vulnerability Allows Full System Takeover — PoC Released<a href="htt
 A critical privilege escalation vulnerability, CVE-2025-49144, has been identified in Notepad++ v8.8.1. This flaw allows attackers to gain full system control through a supply-chain attack by exploiting insecure search paths in the installer.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2025
+June 24, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HPE security advisory (AV25-365) - Canadian Centre for Cyber Security<a href="https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-365?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ HPE security advisory (AV25-365) - Canadian Centre for Cyber Security<a href="ht
 HPE issued a security advisory addressing a vulnerability in the HPE Telco Unified OSS Console. The affected versions include all releases prior to v3.1.16. Users and administrators should apply the necessary updates to mitigate potential risks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Government of Canada
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2025
+June 24, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA ICS security advisories (AV25–363)<a href="https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av25-363?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ CISA ICS security advisories (AV25–363)<a href="https://www.cyber.gc.ca/en/ale
 CISA published ICS advisories addressing vulnerabilities in several industrial control system products. These advisories cover multiple products from vendors including Dover Fueling Solutions, Fuji Electric, LS Electric, and Siemens.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Government of Canada
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

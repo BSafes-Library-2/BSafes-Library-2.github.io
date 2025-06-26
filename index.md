@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Use Open-Source Tools to Attack Financial Businesses in Africa<a href="https://www.infosecurity-magazine.com/news/hackers-financial-businesses-africa/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor group tracked as CL-CRI-1014 has been targeting financial institutions across Africa since at least 2023. These attackers function as initial access brokers (IABs), compromising networks and selling access on the dark web.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attack contributed to patient’s death, says Britain’s NHS<a href="https://therecord.media/ransomware-attack-contributed-patient-death-uk-nhs?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack by the Qilin cybercrime group on Synnovis, a pathology service provider in London, severely disrupted NHS services in June 2023. The breach also exposed sensitive data of over 900,000 individuals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Glasgow City Council impacted by ‘cyber incident’<a href="https://therecord.media/glasgow-city-council-cyber-incident?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Glasgow City Council has reported a cyber incident that has disrupted several of its online services and may have resulted in the exfiltration of customer data. The council has taken affected servers offline as a precautionary measure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kubernetes NodeRestriction Flaw Lets Nodes Bypass Resource Authorization<a href="https://gbhackers.com/kubernetes-noderestriction-flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in Kubernetes, tracked as CVE-2025-4563, allows compromised nodes to bypass authorization checks for dynamic resource allocation. It can lead to privilege escalation in clusters where specific configurations are enabled.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sextortion email scammers increase their “Hello pervert” money demands<a href="https://www.malwarebytes.com/blog/news/2025/06/sextortion-email-scammers-increase-their-hello-pervert-money-demands?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new variant of the long-running "sextortion" scam campaign has emerged, featuring increased ransom demands, spoofed email addresses, and references to Pegasus spyware. The email usually starts with “Hello pervert.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Home Office anti-encryption site pushes payday loan scheme<a href="https://www.theregister.com/2025/06/25/home_office_antiencryption_campaign_website/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A UK government website originally created for the Home Office’s 2022 “No Place to Hide” anti-encryption campaign has been hijacked to promote a payday loan scheme. The campaign was initially expected to target Facebook Messenger.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NVIDIA Megatron LM Flaw Allows Attackers to Inject Malicious Code<a href="https://gbhackers.com/nvidia-megatron-lm-flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NVIDIA addressed two high-severity vulnerabilities—CVE-2025-23264 and CVE-2025-23265—in open-source Megatron-LM framework, addressing . These flaws allow attackers to inject and execute malicious code via specially crafted files.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Hat SEO Poisoning Search Engine Results For AI<a href="https://www.zscaler.com/blogs/security-research/black-hat-seo-poisoning-search-engine-results-ai-distribute-malware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting the popularity of AI tools by using Black Hat SEO to poison search engine results and Vidar Stealer, Lumma Stealer, and Legion Loader through complex redirection chains and obfuscated JavaScript.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leak of data belonging to 7.4 million Paraguayans traced back to infostealers<a href="https://therecord.media/data-leak-paraguayan-millions-infostealer?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive data breach has compromised the personal information of approximately 7.4 million Paraguayan citizens. The stolen data includes names, ID card numbers, dates of birth, professions, and certificates.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Androxgh0st Botnet Expands Reach, Exploiting US University Servers<a href="https://hackread.com/androxgh0st-botnet-expand-exploit-us-university-servers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Androxgh0st botnet has significantly evolved since its emergence in early 2023, now leveraging a broader range of attack vectors and targeting misconfigured servers, particularly in academic institutions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 24, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
