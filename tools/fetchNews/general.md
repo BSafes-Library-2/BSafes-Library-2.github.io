@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+June 25, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Hat SEO Poisoning Search Engine Results For AI<a href="https://www.zscaler.com/blogs/security-research/black-hat-seo-poisoning-search-engine-results-ai-distribute-malware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting the popularity of AI tools by using Black Hat SEO to poison search engine results and Vidar Stealer, Lumma Stealer, and Legion Loader through complex redirection chains and obfuscated JavaScript.
+</details>
+<div style="text-align: right" markdown="1">
+ZScalar
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 22, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft 365 'Direct Send' abused to send phishing as internal users<a href="https://www.bleepingcomputer.com/news/security/microsoft-365-direct-send-abused-to-send-phishing-as-internal-users/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A phishing campaign is actively exploiting Microsoft 365's "Direct Send" feature to send spoofed internal emails and steal user credentials. Direct Send, which allows unauthenticated email sending via a tenant's smart host, is a known security risk.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 25, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

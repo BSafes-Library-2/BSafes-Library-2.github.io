@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+June 25, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Glasgow City Council impacted by ‘cyber incident’<a href="https://therecord.media/glasgow-city-council-cyber-incident?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Glasgow City Council has reported a cyber incident that has disrupted several of its online services and may have resulted in the exfiltration of customer data. The council has taken affected servers offline as a precautionary measure.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 21, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

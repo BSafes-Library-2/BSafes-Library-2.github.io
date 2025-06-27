@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+June 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MOVEit Transfer Systems Hit by Wave of Attacks Using Over 100 Unique IPs<a href="https://gbhackers.com/moveit-transfer-systems-hit-by-wave-of-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant surge in scanning and exploitation activity has been observed targeting Progress Software’s MOVEit Transfer platform. Over 682 unique IP addresses have been identified in scanning operations.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Case of Hidden Spam Pages<a href="https://blog.sucuri.net/2025/06/the-case-of-hidden-spam-pages.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A campaign targeting WordPress websites involves attackers brute-forcing wp-admin credentials to deploy spam posts and pages for blackhat SEO purposes. The attackers use two malicious plugins to conceal their activity and maintain persistent access.
+</details>
+<div style="text-align: right" markdown="1">
+Sucuri
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 24, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

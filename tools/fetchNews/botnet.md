@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+June 25, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Androxgh0st Botnet Expands Reach, Exploiting US University Servers<a href="https://hackread.com/androxgh0st-botnet-expand-exploit-us-university-servers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Androxgh0st botnet has significantly evolved since its emergence in early 2023, now leveraging a broader range of attack vectors and targeting misconfigured servers, particularly in academic institutions.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 23, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

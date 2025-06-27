@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+June 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blind Eagle (APT-C-36) Exploits WebDAV and Dynamic DNS in Post-Patch Malware Campaign Targeting Colombia<a href="https://www.darktrace.com/blog/patch-and-persist-darktraces-detection-of-blind-eagle-apt-c-36?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Blind Eagle (APT-C-36), a threat group active since 2018, has launched a new phishing campaign targeting Colombian organizations. The group uses phishing emails to deliver malware via malicious URLs.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Trace
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 23, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

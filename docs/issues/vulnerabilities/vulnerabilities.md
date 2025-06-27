@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Decrement by one to rule them all: AsIO3.sys driver exploitation<a href="https://blog.talosintelligence.com/decrement-by-one-to-rule-them-all/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two critical vulnerabilities in the ASUS AsIO3.sys driver (CVE-2025-1533 and CVE-2025-3464) allow local privilege escalation to SYSTEM level. These flaws affect ASUS Armory Crate and AI Suite applications.
+</details>
+<div style="text-align: right" markdown="1">
+Talos Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Open VSX Registry Flaw Exposes Millions of Developers to Supply Chain Attacks<a href="https://thehackernews.com/2025/06/critical-open-vsx-registry-flaw-exposes.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in the Open VSX Registry (open-vsx[.]org) exposed millions of developers to potential supply chain attacks. If exploited, attackers could have gained full control over the Visual Studio Code extensions marketplace.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Vulnerabilities in Cisco ISE and ISE-PIC Could Allow for Remote Code Execution<a href="https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-cisco-ise-and-ise-pic-could-allow-for-remote-code-execution_2025-059?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two critical vulnerabilities in Cisco Identity Services Engine (ISE) and ISE-PIC (versions 3.3 and later) could allow unauthenticated remote attackers to execute arbitrary code with root privileges.
+</details>
+<div style="text-align: right" markdown="1">
+Center for Internet Society
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 25, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

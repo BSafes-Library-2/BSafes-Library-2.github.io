@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+June 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Freight forwarder Estes notifies data breach victims; ransomware gang takes credit<a href="https://www.comparitech.com/news/freight-forwarder-estes-notifies-data-breach-victims-ransomware-gang-takes-credit/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Estes Forwarding Worldwide experienced a ransomware attack on May 28, 2025. The Qilin ransomware gang claimed responsibility, posting stolen documents including passport scans, driver’s licenses, and spreadsheets.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 25, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

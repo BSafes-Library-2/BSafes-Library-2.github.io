@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2025
+June 26, 2025 -- [Deepfake](/docs/issues/deepfake/deepfake/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 N. Korean Group BlueNoroff Uses Deepfake Zoom Calls in Crypto Scams<a href="https://securityboulevard.com/2025/06/n-korean-group-bluenoroff-uses-deepfake-zoom-calls-in-crypto-scams/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ N. Korean Group BlueNoroff Uses Deepfake Zoom Calls in Crypto Scams<a href="http
 BlueNoroff, a North Korean state-sponsored APT group and a subgroup of the Lazarus Group, is conducting a sophisticated campaign targeting macOS users in the cryptocurrency sector.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Boulevard
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2025
+June 26, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Decrement by one to rule them all: AsIO3.sys driver exploitation<a href="https://blog.talosintelligence.com/decrement-by-one-to-rule-them-all/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Decrement by one to rule them all: AsIO3.sys driver exploitation<a href="https:/
 Two critical vulnerabilities in the ASUS AsIO3.sys driver (CVE-2025-1533 and CVE-2025-3464) allow local privilege escalation to SYSTEM level. These flaws affect ASUS Armory Crate and AI Suite applications.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Talos Intelligence
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2025
+June 26, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Freight forwarder Estes notifies data breach victims; ransomware gang takes credit<a href="https://www.comparitech.com/news/freight-forwarder-estes-notifies-data-breach-victims-ransomware-gang-takes-credit/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Freight forwarder Estes notifies data breach victims; ransomware gang takes cred
 Estes Forwarding Worldwide experienced a ransomware attack on May 28, 2025. The Qilin ransomware gang claimed responsibility, posting stolen documents including passport scans, driver’s licenses, and spreadsheets.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CompariTech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2025
+June 26, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US, France crack down on BreachForums with arrests, IntelBroker indictment<a href="https://www.scworld.com/brief/us-france-crack-down-on-breachforums-with-arrests-intelbroker-indictment?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ US, France crack down on BreachForums with arrests, IntelBroker indictment<a hre
 Authorities in the United States and France have intensified their crackdown on the cybercrime marketplace BreachForums, arresting key figures and issuing indictments in a coordinated international effort to dismantle the platform’s operations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+SCWorld
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2025
+June 26, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft 365 'Direct Send' abused to send phishing as internal users<a href="https://www.bleepingcomputer.com/news/security/microsoft-365-direct-send-abused-to-send-phishing-as-internal-users/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Microsoft 365 'Direct Send' abused to send phishing as internal users<a href="ht
 A phishing campaign is actively exploiting Microsoft 365's "Direct Send" feature to send spoofed internal emails and steal user credentials. Direct Send, which allows unauthenticated email sending via a tenant's smart host, is a known security risk.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2025
+June 26, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Open VSX Registry Flaw Exposes Millions of Developers to Supply Chain Attacks<a href="https://thehackernews.com/2025/06/critical-open-vsx-registry-flaw-exposes.html?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Critical Open VSX Registry Flaw Exposes Millions of Developers to Supply Chain A
 A critical vulnerability in the Open VSX Registry (open-vsx[.]org) exposed millions of developers to potential supply chain attacks. If exploited, attackers could have gained full control over the Visual Studio Code extensions marketplace.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2025
+June 26, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MOVEit Transfer Systems Hit by Wave of Attacks Using Over 100 Unique IPs<a href="https://gbhackers.com/moveit-transfer-systems-hit-by-wave-of-attacks/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ MOVEit Transfer Systems Hit by Wave of Attacks Using Over 100 Unique IPs<a href=
 A significant surge in scanning and exploitation activity has been observed targeting Progress Software’s MOVEit Transfer platform. Over 682 unique IP addresses have been identified in scanning operations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2025
+June 26, 2025 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Blind Eagle (APT-C-36) Exploits WebDAV and Dynamic DNS in Post-Patch Malware Campaign Targeting Colombia<a href="https://www.darktrace.com/blog/patch-and-persist-darktraces-detection-of-blind-eagle-apt-c-36?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Blind Eagle (APT-C-36) Exploits WebDAV and Dynamic DNS in Post-Patch Malware Cam
 Blind Eagle (APT-C-36), a threat group active since 2018, has launched a new phishing campaign targeting Colombian organizations. The group uses phishing emails to deliver malware via malicious URLs.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Trace
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2025
+June 26, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Case of Hidden Spam Pages<a href="https://blog.sucuri.net/2025/06/the-case-of-hidden-spam-pages.html?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ The Case of Hidden Spam Pages<a href="https://blog.sucuri.net/2025/06/the-case-o
 A campaign targeting WordPress websites involves attackers brute-forcing wp-admin credentials to deploy spam posts and pages for blackhat SEO purposes. The attackers use two malicious plugins to conceal their activity and maintain persistent access.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sucuri
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2025
+June 26, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple Vulnerabilities in Cisco ISE and ISE-PIC Could Allow for Remote Code Execution<a href="https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-cisco-ise-and-ise-pic-could-allow-for-remote-code-execution_2025-059?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Multiple Vulnerabilities in Cisco ISE and ISE-PIC Could Allow for Remote Code Ex
 Two critical vulnerabilities in Cisco Identity Services Engine (ISE) and ISE-PIC (versions 3.3 and later) could allow unauthenticated remote attackers to execute arbitrary code with root privileges.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Center for Internet Society
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

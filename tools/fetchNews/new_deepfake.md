@@ -8,6 +8,20 @@ nav_order: 900041
 
 ## Deepfake
 ---
+June 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+N. Korean Group BlueNoroff Uses Deepfake Zoom Calls in Crypto Scams<a href="https://securityboulevard.com/2025/06/n-korean-group-bluenoroff-uses-deepfake-zoom-calls-in-crypto-scams/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BlueNoroff, a North Korean state-sponsored APT group and a subgroup of the Lazarus Group, is conducting a sophisticated campaign targeting macOS users in the cryptocurrency sector.
+</details>
+<div style="text-align: right" markdown="1">
+Security Boulevard
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 19, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
