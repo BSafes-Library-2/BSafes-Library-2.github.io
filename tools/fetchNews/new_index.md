@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2025
+June 26, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+N. Korean Group BlueNoroff Uses Deepfake Zoom Calls in Crypto Scams<a href="https://securityboulevard.com/2025/06/n-korean-group-bluenoroff-uses-deepfake-zoom-calls-in-crypto-scams/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BlueNoroff, a North Korean state-sponsored APT group and a subgroup of the Lazarus Group, is conducting a sophisticated campaign targeting macOS users in the cryptocurrency sector.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Decrement by one to rule them all: AsIO3.sys driver exploitation<a href="https://blog.talosintelligence.com/decrement-by-one-to-rule-them-all/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two critical vulnerabilities in the ASUS AsIO3.sys driver (CVE-2025-1533 and CVE-2025-3464) allow local privilege escalation to SYSTEM level. These flaws affect ASUS Armory Crate and AI Suite applications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Freight forwarder Estes notifies data breach victims; ransomware gang takes credit<a href="https://www.comparitech.com/news/freight-forwarder-estes-notifies-data-breach-victims-ransomware-gang-takes-credit/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Estes Forwarding Worldwide experienced a ransomware attack on May 28, 2025. The Qilin ransomware gang claimed responsibility, posting stolen documents including passport scans, driver’s licenses, and spreadsheets.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US, France crack down on BreachForums with arrests, IntelBroker indictment<a href="https://www.scworld.com/brief/us-france-crack-down-on-breachforums-with-arrests-intelbroker-indictment?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Authorities in the United States and France have intensified their crackdown on the cybercrime marketplace BreachForums, arresting key figures and issuing indictments in a coordinated international effort to dismantle the platform’s operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft 365 'Direct Send' abused to send phishing as internal users<a href="https://www.bleepingcomputer.com/news/security/microsoft-365-direct-send-abused-to-send-phishing-as-internal-users/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A phishing campaign is actively exploiting Microsoft 365's "Direct Send" feature to send spoofed internal emails and steal user credentials. Direct Send, which allows unauthenticated email sending via a tenant's smart host, is a known security risk.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Open VSX Registry Flaw Exposes Millions of Developers to Supply Chain Attacks<a href="https://thehackernews.com/2025/06/critical-open-vsx-registry-flaw-exposes.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in the Open VSX Registry (open-vsx[.]org) exposed millions of developers to potential supply chain attacks. If exploited, attackers could have gained full control over the Visual Studio Code extensions marketplace.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MOVEit Transfer Systems Hit by Wave of Attacks Using Over 100 Unique IPs<a href="https://gbhackers.com/moveit-transfer-systems-hit-by-wave-of-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant surge in scanning and exploitation activity has been observed targeting Progress Software’s MOVEit Transfer platform. Over 682 unique IP addresses have been identified in scanning operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blind Eagle (APT-C-36) Exploits WebDAV and Dynamic DNS in Post-Patch Malware Campaign Targeting Colombia<a href="https://www.darktrace.com/blog/patch-and-persist-darktraces-detection-of-blind-eagle-apt-c-36?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Blind Eagle (APT-C-36), a threat group active since 2018, has launched a new phishing campaign targeting Colombian organizations. The group uses phishing emails to deliver malware via malicious URLs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Case of Hidden Spam Pages<a href="https://blog.sucuri.net/2025/06/the-case-of-hidden-spam-pages.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A campaign targeting WordPress websites involves attackers brute-forcing wp-admin credentials to deploy spam posts and pages for blackhat SEO purposes. The attackers use two malicious plugins to conceal their activity and maintain persistent access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Vulnerabilities in Cisco ISE and ISE-PIC Could Allow for Remote Code Execution<a href="https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-cisco-ise-and-ise-pic-could-allow-for-remote-code-execution_2025-059?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two critical vulnerabilities in Cisco Identity Services Engine (ISE) and ISE-PIC (versions 3.3 and later) could allow unauthenticated remote attackers to execute arbitrary code with root privileges.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2025 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Use Open-Source Tools to Attack Financial Businesses in Africa<a href="https://www.infosecurity-magazine.com/news/hackers-financial-businesses-africa/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Hackers Use Open-Source Tools to Attack Financial Businesses in Africa<a href="h
 A threat actor group tracked as CL-CRI-1014 has been targeting financial institutions across Africa since at least 2023. These attackers function as initial access brokers (IABs), compromising networks and selling access on the dark web.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2025
+June 25, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware attack contributed to patient’s death, says Britain’s NHS<a href="https://therecord.media/ransomware-attack-contributed-patient-death-uk-nhs?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Ransomware attack contributed to patient’s death, says Britain’s NHS<a href=
 A ransomware attack by the Qilin cybercrime group on Synnovis, a pathology service provider in London, severely disrupted NHS services in June 2023. The breach also exposed sensitive data of over 900,000 individuals.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2025
+June 25, 2025 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Glasgow City Council impacted by ‘cyber incident’<a href="https://therecord.media/glasgow-city-council-cyber-incident?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Glasgow City Council impacted by ‘cyber incident’<a href="https://therecord.
 Glasgow City Council has reported a cyber incident that has disrupted several of its online services and may have resulted in the exfiltration of customer data. The council has taken affected servers offline as a precautionary measure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2025
+June 25, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kubernetes NodeRestriction Flaw Lets Nodes Bypass Resource Authorization<a href="https://gbhackers.com/kubernetes-noderestriction-flaw/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Kubernetes NodeRestriction Flaw Lets Nodes Bypass Resource Authorization<a href=
 A vulnerability in Kubernetes, tracked as CVE-2025-4563, allows compromised nodes to bypass authorization checks for dynamic resource allocation. It can lead to privilege escalation in clusters where specific configurations are enabled.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2025
+June 25, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sextortion email scammers increase their “Hello pervert” money demands<a href="https://www.malwarebytes.com/blog/news/2025/06/sextortion-email-scammers-increase-their-hello-pervert-money-demands?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Sextortion email scammers increase their “Hello pervert” money demands<a hre
 A new variant of the long-running "sextortion" scam campaign has emerged, featuring increased ransom demands, spoofed email addresses, and references to Pegasus spyware. The email usually starts with “Hello pervert.”
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Malware Bytes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2025
+June 25, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Home Office anti-encryption site pushes payday loan scheme<a href="https://www.theregister.com/2025/06/25/home_office_antiencryption_campaign_website/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Home Office anti-encryption site pushes payday loan scheme<a href="https://www.t
 A UK government website originally created for the Home Office’s 2022 “No Place to Hide” anti-encryption campaign has been hijacked to promote a payday loan scheme. The campaign was initially expected to target Facebook Messenger.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2025
+June 25, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NVIDIA Megatron LM Flaw Allows Attackers to Inject Malicious Code<a href="https://gbhackers.com/nvidia-megatron-lm-flaw/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ NVIDIA Megatron LM Flaw Allows Attackers to Inject Malicious Code<a href="https:
 NVIDIA addressed two high-severity vulnerabilities—CVE-2025-23264 and CVE-2025-23265—in open-source Megatron-LM framework, addressing . These flaws allow attackers to inject and execute malicious code via specially crafted files.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2025
+June 25, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Black Hat SEO Poisoning Search Engine Results For AI<a href="https://www.zscaler.com/blogs/security-research/black-hat-seo-poisoning-search-engine-results-ai-distribute-malware?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Black Hat SEO Poisoning Search Engine Results For AI<a href="https://www.zscaler
 Threat actors are exploiting the popularity of AI tools by using Black Hat SEO to poison search engine results and Vidar Stealer, Lumma Stealer, and Legion Loader through complex redirection chains and obfuscated JavaScript.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ZScalar
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2025
+June 25, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Leak of data belonging to 7.4 million Paraguayans traced back to infostealers<a href="https://therecord.media/data-leak-paraguayan-millions-infostealer?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Leak of data belonging to 7.4 million Paraguayans traced back to infostealers<a 
 A massive data breach has compromised the personal information of approximately 7.4 million Paraguayan citizens. The stolen data includes names, ID card numbers, dates of birth, professions, and certificates.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2025
+June 25, 2025 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Androxgh0st Botnet Expands Reach, Exploiting US University Servers<a href="https://hackread.com/androxgh0st-botnet-expand-exploit-us-university-servers/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Androxgh0st Botnet Expands Reach, Exploiting US University Servers<a href="https
 The Androxgh0st botnet has significantly evolved since its emergence in early 2023, now leveraging a broader range of attack vectors and targeting misconfigured servers, particularly in academic institutions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
