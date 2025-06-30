@@ -34,6 +34,86 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tracing Blind Eagle to Proton66<a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/tracing-blind-eagle-to-proton66/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Blind Eagle, also known as APT-C-36, is a persistent threat actor that targets organizations across Latin America, with a particular focus on Colombian financial institutions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake DocuSign email hides tricky phishing attempt<a href="https://www.malwarebytes.com/blog/news/2025/06/fake-docusign-email-hides-tricky-phishing-attempt?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated phishing campaign has been observed leveraging legitimate services such as DocuSign, Webflow, and Google to deceive users and conduct system reconnaissance.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hunt Electronic DVR Vulnerability Leaves Admin Credentials Unprotected<a href="https://gbhackers.com/hunt-electronic-dvr-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability (CVE-2025-6561) in Hunt Electronics’ hybrid DVRs (models HBF-09KD and HBF-16NK) allows unauthenticated remote attackers to access configuration files containing plaintext administrator credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hawaiian Airlines discloses cyberattack, flights not affected<a href="https://www.bleepingcomputer.com/news/security/hawaiian-airlines-discloses-cyberattack-flights-not-affected/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hawaiian Airlines, the tenth-largest commercial airline in the United States, has disclosed a cybersecurity incident that disrupted access to some of its IT systems. The nature of the attack remains under investigation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GIFTEDCROOK’s Strategic Pivot: From Browser Stealer to Data Exfiltration Platform During Critical Ukraine Negotiations<a href="https://arcticwolf.com/resources/blog-uk/giftedcrooks-strategic-pivot-from-browser-stealer-to-data-exfiltration-platform-during-critical-ukraine-negotiations/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actor UAC-0226 is leveraging the evolving GIFTEDCROOK malware in an espionage campaign. Initially a browser credential stealer, GIFTEDCROOK has transformed into a robust surveillance tool targeting Ukrainian government and military entities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 26, 2025 -- [Deepfake](/docs/issues/deepfake/deepfake/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
