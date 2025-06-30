@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+June 27, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hawaiian Airlines discloses cyberattack, flights not affected<a href="https://www.bleepingcomputer.com/news/security/hawaiian-airlines-discloses-cyberattack-flights-not-affected/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hawaiian Airlines, the tenth-largest commercial airline in the United States, has disclosed a cybersecurity incident that disrupted access to some of its IT systems. The nature of the attack remains under investigation.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 25, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

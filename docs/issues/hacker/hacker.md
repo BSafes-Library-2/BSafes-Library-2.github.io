@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 27, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GIFTEDCROOK’s Strategic Pivot: From Browser Stealer to Data Exfiltration Platform During Critical Ukraine Negotiations<a href="https://arcticwolf.com/resources/blog-uk/giftedcrooks-strategic-pivot-from-browser-stealer-to-data-exfiltration-platform-during-critical-ukraine-negotiations/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actor UAC-0226 is leveraging the evolving GIFTEDCROOK malware in an espionage campaign. Initially a browser credential stealer, GIFTEDCROOK has transformed into a robust surveillance tool targeting Ukrainian government and military entities.
+</details>
+<div style="text-align: right" markdown="1">
+Artic Wolf
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 25, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

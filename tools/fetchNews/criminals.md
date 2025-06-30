@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US, France crack down on BreachForums with arrests, IntelBroker indictment<a href="https://www.scworld.com/brief/us-france-crack-down-on-breachforums-with-arrests-intelbroker-indictment?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Authorities in the United States and France have intensified their crackdown on the cybercrime marketplace BreachForums, arresting key figures and issuing indictments in a coordinated international effort to dismantle the platform’s operations.
+</details>
+<div style="text-align: right" markdown="1">
+SCWorld
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 7, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
