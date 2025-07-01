@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 28, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake DocuSign email hides tricky phishing attempt<a href="https://www.malwarebytes.com/blog/news/2025/06/fake-docusign-email-hides-tricky-phishing-attempt?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated phishing campaign has been observed leveraging legitimate services such as DocuSign, Webflow, and Google to deceive users and conduct system reconnaissance.
+</details>
+<div style="text-align: right" markdown="1">
+MalwareBytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 26, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

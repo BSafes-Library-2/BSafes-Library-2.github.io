@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+June 28, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tracing Blind Eagle to Proton66<a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/tracing-blind-eagle-to-proton66/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Blind Eagle, also known as APT-C-36, is a persistent threat actor that targets organizations across Latin America, with a particular focus on Colombian financial institutions.
+</details>
+<div style="text-align: right" markdown="1">
+TrustWave
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 26, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

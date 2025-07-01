@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+June 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NFC data for contactless payments are the new target. Here is what you need to know.<a href="https://www.eset.com/blog/en/home-topics-1/cybersecurity-protection/now-it-is-certain-nfc-data-for-contactless-payments-are-the-new-target-here-is-what-you-need-to-know/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are increasingly targeting Near Field Communication (NFC) data used in contactless payments, leveraging sophisticated malware and social engineering tactics.
+</details>
+<div style="text-align: right" markdown="1">
+ESET
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 25, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -1,4 +1,4 @@
---
+
 layout: default
 title: Welcome 
 nav_order: 1
@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2025
+June 30, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stealthy WordPress Malware Drops Windows Trojan via PHP Backdoor<a href="https://blog.sucuri.net/2025/06/stealthy-wordpress-malware-drops-windows-trojan-via-php-backdoor.html?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Stealthy WordPress Malware Drops Windows Trojan via PHP Backdoor<a href="https:/
 A stealthy malware campaign has been discovered targeting WordPress websites to deliver a Windows-based RAT through a PHP backdoor. The infection chain involves a malicious ZIP archive containing the trojan executable.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sucuri
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2025
+June 30, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CapCut Con: Apple Phishing & Card-Stealing Refund Ruse<a href="https://cofense.com/blog/capcut-con-apple-phishing-card-stealing-refund-ruse?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ CapCut Con: Apple Phishing & Card-Stealing Refund Ruse<a href="https://cofense.c
 Threat actors are leveraging the popularity of CapCut, a widely used video editing app, to execute a sophisticated phishing campaign aimed at stealing Apple ID credentials and credit card information.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cofense
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2025
+June 30, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NFC data for contactless payments are the new target. Here is what you need to know.<a href="https://www.eset.com/blog/en/home-topics-1/cybersecurity-protection/now-it-is-certain-nfc-data-for-contactless-payments-are-the-new-target-here-is-what-you-need-to-know/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ NFC data for contactless payments are the new target. Here is what you need to k
 Cybercriminals are increasingly targeting Near Field Communication (NFC) data used in contactless payments, leveraging sophisticated malware and social engineering tactics.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ESET
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2025
+June 30, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TikTok Videos Promise Pirated Apps, Deliver Vidar and StealC Infostealers Instead<a href="https://www.trendmicro.com/en_us/research/25/e/tiktok-videos-infostealers.html?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ TikTok Videos Promise Pirated Apps, Deliver Vidar and StealC Infostealers Instea
 A sophisticated social engineering campaign is exploiting TikTok to distribute the Vidar and StealC information-stealing malware. The campaign uses pirated software themes such as Windows OS, Microsoft Office, CapCut, and Spotify to lure users.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+TrendMicro
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2025
+June 30, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bluetooth flaws could let hackers spy through your microphone<a href="https://www.bleepingcomputer.com/news/security/bluetooth-flaws-could-let-hackers-spy-through-your-microphone/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Bluetooth flaws could let hackers spy through your microphone<a href="https://ww
 Three Bluetooth vulnerabilities in Airoha chipsets affect 29 audio devices from 10 vendors: Beyerdynamic, Bose, Sony, Marshall, Jabra, JBL, Jlab, EarisMax, MoerLabs, and Teufel.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2025
+June 30, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RansomHub Breach: Six-Day Attack Leveraged RDP, RMM Tools & Mimikatz for Data Exfiltration & Ransomware<a href="https://securityonline.info/ransomhub-breach-six-day-attack-leveraged-rdp-rmm-tools-mimikatz-for-data-exfiltration-ransomware/?&web_view=true"> Full Text</a>
@@ -124,7 +124,7 @@ RansomHub Breach: Six-Day Attack Leveraged RDP, RMM Tools & Mimikatz for Data Ex
 A threat actor exploited RDP misconfigurations and password spraying to deploy RansomHub ransomware. The attacker used legitimate administrative tools and Windows features to maintain stealth and efficiency throughout the operation.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
