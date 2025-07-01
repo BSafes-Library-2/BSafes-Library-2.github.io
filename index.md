@@ -34,6 +34,102 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stealthy WordPress Malware Drops Windows Trojan via PHP Backdoor<a href="https://blog.sucuri.net/2025/06/stealthy-wordpress-malware-drops-windows-trojan-via-php-backdoor.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A stealthy malware campaign has been discovered targeting WordPress websites to deliver a Windows-based RAT through a PHP backdoor. The infection chain involves a malicious ZIP archive containing the trojan executable.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CapCut Con: Apple Phishing & Card-Stealing Refund Ruse<a href="https://cofense.com/blog/capcut-con-apple-phishing-card-stealing-refund-ruse?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are leveraging the popularity of CapCut, a widely used video editing app, to execute a sophisticated phishing campaign aimed at stealing Apple ID credentials and credit card information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NFC data for contactless payments are the new target. Here is what you need to know.<a href="https://www.eset.com/blog/en/home-topics-1/cybersecurity-protection/now-it-is-certain-nfc-data-for-contactless-payments-are-the-new-target-here-is-what-you-need-to-know/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are increasingly targeting Near Field Communication (NFC) data used in contactless payments, leveraging sophisticated malware and social engineering tactics.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok Videos Promise Pirated Apps, Deliver Vidar and StealC Infostealers Instead<a href="https://www.trendmicro.com/en_us/research/25/e/tiktok-videos-infostealers.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated social engineering campaign is exploiting TikTok to distribute the Vidar and StealC information-stealing malware. The campaign uses pirated software themes such as Windows OS, Microsoft Office, CapCut, and Spotify to lure users.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bluetooth flaws could let hackers spy through your microphone<a href="https://www.bleepingcomputer.com/news/security/bluetooth-flaws-could-let-hackers-spy-through-your-microphone/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three Bluetooth vulnerabilities in Airoha chipsets affect 29 audio devices from 10 vendors: Beyerdynamic, Bose, Sony, Marshall, Jabra, JBL, Jlab, EarisMax, MoerLabs, and Teufel.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RansomHub Breach: Six-Day Attack Leveraged RDP, RMM Tools & Mimikatz for Data Exfiltration & Ransomware<a href="https://securityonline.info/ransomhub-breach-six-day-attack-leveraged-rdp-rmm-tools-mimikatz-for-data-exfiltration-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor exploited RDP misconfigurations and password spraying to deploy RansomHub ransomware. The attacker used legitimate administrative tools and Windows features to maintain stealth and efficiency throughout the operation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 28, 2025 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
