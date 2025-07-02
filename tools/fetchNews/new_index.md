@@ -1,4 +1,4 @@
---
+
 layout: default
 title: Welcome 
 nav_order: 1
@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2025
+July 1, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aeza Group sanctioned for hosting ransomware, infostealer servers<a href="https://www.bleepingcomputer.com/news/security/aeza-group-sanctioned-for-hosting-ransomware-infostealer-servers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of the Treasury has sanctioned Russian hosting provider Aeza Group and four of its operators for providing bulletproof hosting services to cybercriminals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Food Retailer Ahold Delhaize Discloses Data Breach Impacting 2.2m<a href="https://www.infosecurity-magazine.com/news/ahold-delhaize-data-breach-2m/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ahold Delhaize, a major global food retailer, disclosed a ransomware attack on its US operations that exposed personal data of over 2.2 million individuals. The attack was detected on November 6, and primarily affected internal employment records.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Seven months for IT worker who trashed his work network<a href="https://www.theregister.com/2025/06/30/british_rogue_admin/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A British IT worker has been sentenced to over seven months in prison after launching a retaliatory cyberattack against his employer’s network. Within hours of suspension, he began altering login names and passwords, disrupting internal operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOJ raids 29 ‘laptop farms’ in operation against North Korean IT worker scheme<a href="https://therecord.media/doj-raids-laptop-farms-crackdown?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DOJ launched a major crackdown on a North Korean IT worker scheme, conducting raids on 29 "laptop farms" across 16 states. These workers accessed sensitive data, including International Traffic in Arms Regulations (ITAR) information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Identities of More Than 80 Americans Stolen for North Korean IT Worker Scams<a href="https://www.wired.com/story/identities-of-80-plus-americans-stolen-for-north-korean-it-worker-scams/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent DOJ operation has uncovered a large-scale North Korean impersonation scheme involving the theft of over 80 American identities. These identities were used to fraudulently secure remote IT jobs at more than 100 U.S. companies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto Hack Losses in First Half of 2025 Exceed 2024 Total<a href="https://www.infosecurity-magazine.com/news/crypto-hack-losses-half-exceed-2024/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first half of 2025 has seen a dramatic surge in cryptocurrency-related cybercrime, with total losses from scams, hacks, and exploits reaching approximately $2.47 billion. This figure already surpasses the total losses recorded in all of 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes fourth actively exploited Chrome zero-day of 2025<a href="https://www.bleepingcomputer.com/news/security/google-fixes-fourth-actively-exploited-chrome-zero-day-of-2025/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released an emergency update to patch CVE-2025-6554, a high-severity zero-day vulnerability in the Chrome V8 JavaScript engine. This marks the fourth actively exploited Chrome zero-day addressed in 2025.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+International Criminal Court targeted by new ‘sophisticated’ attack<a href="https://therecord.media/international-criminal-court-cyberattack-2025?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The International Criminal Court (ICC) has reported a new, sophisticated, and targeted cybersecurity incident, detected and contained through its internal alert and response mechanisms.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Johnson Controls starts notifying people affected by 2023 breach<a href="https://www.bleepingcomputer.com/news/security/johnson-controls-starts-notifying-people-affected-by-2023-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware attack forced Johnson Controls to shut down large portions of its IT infrastructure, severely impacting global operations and customer-facing systems. The initial breach occurred in Johnson Controls’ Asian offices in February 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europol helps disrupt $540 million crypto investment fraud ring<a href="https://www.bleepingcomputer.com/news/security/europol-helps-disrupt-540-million-crypto-investment-fraud-ring/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spanish authorities, with support from Europol and international partners, have dismantled a transnational cryptocurrency investment fraud ring responsible for laundering approximately $540 million and defrauding over 5,000 victims globally.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stealthy WordPress Malware Drops Windows Trojan via PHP Backdoor<a href="https://blog.sucuri.net/2025/06/stealthy-wordpress-malware-drops-windows-trojan-via-php-backdoor.html?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Stealthy WordPress Malware Drops Windows Trojan via PHP Backdoor<a href="https:/
 A stealthy malware campaign has been discovered targeting WordPress websites to deliver a Windows-based RAT through a PHP backdoor. The infection chain involves a malicious ZIP archive containing the trojan executable.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sucuri
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2025
+June 30, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CapCut Con: Apple Phishing & Card-Stealing Refund Ruse<a href="https://cofense.com/blog/capcut-con-apple-phishing-card-stealing-refund-ruse?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ CapCut Con: Apple Phishing & Card-Stealing Refund Ruse<a href="https://cofense.c
 Threat actors are leveraging the popularity of CapCut, a widely used video editing app, to execute a sophisticated phishing campaign aimed at stealing Apple ID credentials and credit card information.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cofense
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2025
+June 30, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NFC data for contactless payments are the new target. Here is what you need to know.<a href="https://www.eset.com/blog/en/home-topics-1/cybersecurity-protection/now-it-is-certain-nfc-data-for-contactless-payments-are-the-new-target-here-is-what-you-need-to-know/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ NFC data for contactless payments are the new target. Here is what you need to k
 Cybercriminals are increasingly targeting Near Field Communication (NFC) data used in contactless payments, leveraging sophisticated malware and social engineering tactics.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ESET
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2025
+June 30, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TikTok Videos Promise Pirated Apps, Deliver Vidar and StealC Infostealers Instead<a href="https://www.trendmicro.com/en_us/research/25/e/tiktok-videos-infostealers.html?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ TikTok Videos Promise Pirated Apps, Deliver Vidar and StealC Infostealers Instea
 A sophisticated social engineering campaign is exploiting TikTok to distribute the Vidar and StealC information-stealing malware. The campaign uses pirated software themes such as Windows OS, Microsoft Office, CapCut, and Spotify to lure users.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+TrendMicro
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2025
+June 30, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bluetooth flaws could let hackers spy through your microphone<a href="https://www.bleepingcomputer.com/news/security/bluetooth-flaws-could-let-hackers-spy-through-your-microphone/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Bluetooth flaws could let hackers spy through your microphone<a href="https://ww
 Three Bluetooth vulnerabilities in Airoha chipsets affect 29 audio devices from 10 vendors: Beyerdynamic, Bose, Sony, Marshall, Jabra, JBL, Jlab, EarisMax, MoerLabs, and Teufel.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2025
+June 30, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RansomHub Breach: Six-Day Attack Leveraged RDP, RMM Tools & Mimikatz for Data Exfiltration & Ransomware<a href="https://securityonline.info/ransomhub-breach-six-day-attack-leveraged-rdp-rmm-tools-mimikatz-for-data-exfiltration-ransomware/?&web_view=true"> Full Text</a>
@@ -124,7 +284,7 @@ RansomHub Breach: Six-Day Attack Leveraged RDP, RMM Tools & Mimikatz for Data Ex
 A threat actor exploited RDP misconfigurations and password spraying to deploy RansomHub ransomware. The attacker used legitimate administrative tools and Windows features to maintain stealth and efficiency throughout the operation.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
