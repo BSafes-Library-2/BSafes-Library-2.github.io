@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+June 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RansomHub Breach: Six-Day Attack Leveraged RDP, RMM Tools &amp; Mimikatz for Data Exfiltration &amp; Ransomware<a href="https://securityonline.info/ransomhub-breach-six-day-attack-leveraged-rdp-rmm-tools-mimikatz-for-data-exfiltration-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor exploited RDP misconfigurations and password spraying to deploy RansomHub ransomware. The attacker used legitimate administrative tools and Windows features to maintain stealth and efficiency throughout the operation.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 26, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

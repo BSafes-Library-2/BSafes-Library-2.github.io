@@ -8,6 +8,62 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 1, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aeza Group sanctioned for hosting ransomware, infostealer servers<a href="https://www.bleepingcomputer.com/news/security/aeza-group-sanctioned-for-hosting-ransomware-infostealer-servers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of the Treasury has sanctioned Russian hosting provider Aeza Group and four of its operators for providing bulletproof hosting services to cybercriminals.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 1, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOJ raids 29 ‘laptop farms’ in operation against North Korean IT worker scheme<a href="https://therecord.media/doj-raids-laptop-farms-crackdown?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DOJ launched a major crackdown on a North Korean IT worker scheme, conducting raids on 29 "laptop farms" across 16 states. These workers accessed sensitive data, including International Traffic in Arms Regulations (ITAR) information.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 1, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Identities of More Than 80 Americans Stolen for North Korean IT Worker Scams<a href="https://www.wired.com/story/identities-of-80-plus-americans-stolen-for-north-korean-it-worker-scams/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent DOJ operation has uncovered a large-scale North Korean impersonation scheme involving the theft of over 80 American identities. These identities were used to fraudulently secure remote IT jobs at more than 100 U.S. companies.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 1, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europol helps disrupt $540 million crypto investment fraud ring<a href="https://www.bleepingcomputer.com/news/security/europol-helps-disrupt-540-million-crypto-investment-fraud-ring/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spanish authorities, with support from Europol and international partners, have dismantled a transnational cryptocurrency investment fraud ring responsible for laundering approximately $540 million and defrauding over 5,000 victims globally.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 26, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

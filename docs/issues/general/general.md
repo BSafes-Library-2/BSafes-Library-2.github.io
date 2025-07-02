@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+July 1, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto Hack Losses in First Half of 2025 Exceed 2024 Total<a href="https://www.infosecurity-magazine.com/news/crypto-hack-losses-half-exceed-2024/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first half of 2025 has seen a dramatic surge in cryptocurrency-related cybercrime, with total losses from scams, hacks, and exploits reaching approximately $2.47 billion. This figure already surpasses the total losses recorded in all of 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 30, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

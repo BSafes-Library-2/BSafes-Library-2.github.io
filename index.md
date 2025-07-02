@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2025
+July 1, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Aeza Group sanctioned for hosting ransomware, infostealer servers<a href="https://www.bleepingcomputer.com/news/security/aeza-group-sanctioned-for-hosting-ransomware-infostealer-servers/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Aeza Group sanctioned for hosting ransomware, infostealer servers<a href="https:
 The U.S. Department of the Treasury has sanctioned Russian hosting provider Aeza Group and four of its operators for providing bulletproof hosting services to cybercriminals.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2025
+July 1, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Food Retailer Ahold Delhaize Discloses Data Breach Impacting 2.2m<a href="https://www.infosecurity-magazine.com/news/ahold-delhaize-data-breach-2m/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Food Retailer Ahold Delhaize Discloses Data Breach Impacting 2.2m<a href="https:
 Ahold Delhaize, a major global food retailer, disclosed a ransomware attack on its US operations that exposed personal data of over 2.2 million individuals. The attack was detected on November 6, and primarily affected internal employment records.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2025
+July 1, 2025 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Seven months for IT worker who trashed his work network<a href="https://www.theregister.com/2025/06/30/british_rogue_admin/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Seven months for IT worker who trashed his work network<a href="https://www.ther
 A British IT worker has been sentenced to over seven months in prison after launching a retaliatory cyberattack against his employer’s network. Within hours of suspension, he began altering login names and passwords, disrupting internal operations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2025
+July 1, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DOJ raids 29 ‘laptop farms’ in operation against North Korean IT worker scheme<a href="https://therecord.media/doj-raids-laptop-farms-crackdown?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ DOJ raids 29 ‘laptop farms’ in operation against North Korean IT worker sche
 The DOJ launched a major crackdown on a North Korean IT worker scheme, conducting raids on 29 "laptop farms" across 16 states. These workers accessed sensitive data, including International Traffic in Arms Regulations (ITAR) information.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2025
+July 1, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Identities of More Than 80 Americans Stolen for North Korean IT Worker Scams<a href="https://www.wired.com/story/identities-of-80-plus-americans-stolen-for-north-korean-it-worker-scams/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Identities of More Than 80 Americans Stolen for North Korean IT Worker Scams<a h
 A recent DOJ operation has uncovered a large-scale North Korean impersonation scheme involving the theft of over 80 American identities. These identities were used to fraudulently secure remote IT jobs at more than 100 U.S. companies.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Wired
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2025
+July 1, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crypto Hack Losses in First Half of 2025 Exceed 2024 Total<a href="https://www.infosecurity-magazine.com/news/crypto-hack-losses-half-exceed-2024/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Crypto Hack Losses in First Half of 2025 Exceed 2024 Total<a href="https://www.i
 The first half of 2025 has seen a dramatic surge in cryptocurrency-related cybercrime, with total losses from scams, hacks, and exploits reaching approximately $2.47 billion. This figure already surpasses the total losses recorded in all of 2024.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2025
+July 1, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google fixes fourth actively exploited Chrome zero-day of 2025<a href="https://www.bleepingcomputer.com/news/security/google-fixes-fourth-actively-exploited-chrome-zero-day-of-2025/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Google fixes fourth actively exploited Chrome zero-day of 2025<a href="https://w
 Google has released an emergency update to patch CVE-2025-6554, a high-severity zero-day vulnerability in the Chrome V8 JavaScript engine. This marks the fourth actively exploited Chrome zero-day addressed in 2025.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2025
+July 1, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 International Criminal Court targeted by new ‘sophisticated’ attack<a href="https://therecord.media/international-criminal-court-cyberattack-2025?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ International Criminal Court targeted by new ‘sophisticated’ attack<a href="
 The International Criminal Court (ICC) has reported a new, sophisticated, and targeted cybersecurity incident, detected and contained through its internal alert and response mechanisms.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2025
+July 1, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Johnson Controls starts notifying people affected by 2023 breach<a href="https://www.bleepingcomputer.com/news/security/johnson-controls-starts-notifying-people-affected-by-2023-breach/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Johnson Controls starts notifying people affected by 2023 breach<a href="https:/
 The ransomware attack forced Johnson Controls to shut down large portions of its IT infrastructure, severely impacting global operations and customer-facing systems. The initial breach occurred in Johnson Controls’ Asian offices in February 2023.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2025
+July 1, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Europol helps disrupt $540 million crypto investment fraud ring<a href="https://www.bleepingcomputer.com/news/security/europol-helps-disrupt-540-million-crypto-investment-fraud-ring/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Europol helps disrupt $540 million crypto investment fraud ring<a href="https://
 Spanish authorities, with support from Europol and international partners, have dismantled a transnational cryptocurrency investment fraud ring responsible for laundering approximately $540 million and defrauding over 5,000 victims globally.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
