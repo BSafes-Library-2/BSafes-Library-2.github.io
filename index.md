@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 2, 2025
+July 2, 2025 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Medical device company Surmodics reports cyberattack, says it’s still recovering<a href="https://therecord.media/surmodics-medical-device-company-reports-cybersecurity-incident?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Medical device company Surmodics reports cyberattack, says it’s still recoveri
 Surmodics, a Minnesota-based medical device manufacturer, reported a cyberattack discovered on June 5, 2025, which forced the company to shut down parts of its IT infrastructure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 2, 2025
+July 2, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco warns that Unified CM has hardcoded root SSH credentials<a href="https://www.bleepingcomputer.com/news/security/cisco-removes-unified-cm-callManager-backdoor-root-account/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Cisco warns that Unified CM has hardcoded root SSH credentials<a href="https://w
 The flaw involves hardcoded root SSH credentials that could allow unauthenticated remote attackers to gain root access to affected systems. Successful exploitation of this vulnerability allows attackers to log in remotely with root privileges.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 2, 2025
+July 2, 2025 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dozens of fake wallet add-ons flood Firefox store to drain crypto<a href="https://www.bleepingcomputer.com/news/security/dozens-of-fake-wallet-add-ons-flood-firefox-store-to-drain-crypto/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Dozens of fake wallet add-ons flood Firefox store to drain crypto<a href="https:
 A large-scale malicious campaign has been uncovered involving over 40 fake cryptocurrency wallet extensions on the Firefox add-ons store. These extensions impersonate legitimate wallets to steal sensitive user data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 2, 2025
+July 2, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows Shortcut (LNK) Malware Strategies<a href="https://unit42.paloaltonetworks.com/lnk-malware/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Windows Shortcut (LNK) Malware Strategies<a href="https://unit42.paloaltonetwork
 Hackers are increasingly leveraging LNK files to deliver malware, with malicious LNK samples rising from 21,098 in 2023 to 68,392 in 2024. They exploit the flexibility of LNKs to execute malicious payloads while masquerading as legitimate files.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Palo Alto Networks
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 2, 2025
+July 2, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dozens of Corporates Caught in Kelly Benefits Data Breach<a href="https://www.infosecurity-magazine.com/news/dozens-corporates-kelly-benefits/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Dozens of Corporates Caught in Kelly Benefits Data Breach<a href="https://www.in
 Kelly Benefits disclosed a significant data breach that affected over 553,000 individuals. The breach, which occurred in December 2024, has impacted dozens of corporate clients across critical sectors including healthcare and financial services.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 2, 2025
+July 2, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Qantas reveals data theft impacting six million customers<a href="https://www.theregister.com/2025/07/02/qantas_data_theft/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Qantas reveals data theft impacting six million customers<a href="https://www.th
 Australian airline Qantas detected a cyberattack involving a third-party platform used by its contact center. The breach, publicly disclosed on July 2, 2025, potentially exposed personal data of up to six million customers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 2, 2025
+July 2, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. CISA adds TeleMessage TM SGNL flaws to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/179542/hacking/u-s-cisa-adds-telemessage-tm-sgnl-flaws-to-its-known-exploited-vulnerabilities-catalog.html?&web_view=true"> Full Text</a>
@@ -140,7 +140,7 @@ U.S. CISA adds TeleMessage TM SGNL flaws to its Known Exploited Vulnerabilities 
 The CISA added two vulnerabilities in TeleMessage TM SGNL to its KEV catalog. These flaws—CVE-2025-48927 and CVE-2025-48928—have been actively exploited in the wild and pose a significant risk to federal and private sector networks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

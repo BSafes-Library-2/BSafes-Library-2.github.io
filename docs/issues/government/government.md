@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+July 2, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. CISA adds TeleMessage TM SGNL flaws to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/179542/hacking/u-s-cisa-adds-telemessage-tm-sgnl-flaws-to-its-known-exploited-vulnerabilities-catalog.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA added two vulnerabilities in TeleMessage TM SGNL to its KEV catalog. These flaws—CVE-2025-48927 and CVE-2025-48928—have been actively exploited in the wild and pose a significant risk to federal and private sector networks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 24, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

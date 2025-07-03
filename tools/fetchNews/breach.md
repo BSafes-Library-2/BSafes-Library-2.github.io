@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+July 1, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Food Retailer Ahold Delhaize Discloses Data Breach Impacting 2.2m<a href="https://www.infosecurity-magazine.com/news/ahold-delhaize-data-breach-2m/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ahold Delhaize, a major global food retailer, disclosed a ransomware attack on its US operations that exposed personal data of over 2.2 million individuals. The attack was detected on November 6, and primarily affected internal employment records.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 1, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Johnson Controls starts notifying people affected by 2023 breach<a href="https://www.bleepingcomputer.com/news/security/johnson-controls-starts-notifying-people-affected-by-2023-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware attack forced Johnson Controls to shut down large portions of its IT infrastructure, severely impacting global operations and customer-facing systems. The initial breach occurred in Johnson Controls’ Asian offices in February 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 30, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

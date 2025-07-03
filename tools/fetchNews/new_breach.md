@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+July 2, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dozens of Corporates Caught in Kelly Benefits Data Breach<a href="https://www.infosecurity-magazine.com/news/dozens-corporates-kelly-benefits/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kelly Benefits disclosed a significant data breach that affected over 553,000 individuals. The breach, which occurred in December 2024, has impacted dozens of corporate clients across critical sectors including healthcare and financial services.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 2, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qantas reveals data theft impacting six million customers<a href="https://www.theregister.com/2025/07/02/qantas_data_theft/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australian airline Qantas detected a cyberattack involving a third-party platform used by its contact center. The breach, publicly disclosed on July 2, 2025, potentially exposed personal data of up to six million customers.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 1, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

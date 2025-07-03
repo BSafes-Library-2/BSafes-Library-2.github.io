@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+July 2, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medical device company Surmodics reports cyberattack, says it’s still recovering<a href="https://therecord.media/surmodics-medical-device-company-reports-cybersecurity-incident?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Surmodics, a Minnesota-based medical device manufacturer, reported a cyberattack discovered on June 5, 2025, which forced the company to shut down parts of its IT infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 27, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
