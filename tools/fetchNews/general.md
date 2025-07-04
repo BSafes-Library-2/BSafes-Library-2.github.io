@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+July 2, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows Shortcut (LNK) Malware Strategies<a href="https://unit42.paloaltonetworks.com/lnk-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are increasingly leveraging LNK files to deliver malware, with malicious LNK samples rising from 21,098 in 2023 to 68,392 in 2024. They exploit the flexibility of LNKs to execute malicious payloads while masquerading as legitimate files.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 1, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

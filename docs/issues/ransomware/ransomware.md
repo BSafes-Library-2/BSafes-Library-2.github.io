@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 3, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hunters International ransomware shuts down, releases free decryptors<a href="https://www.bleepingcomputer.com/news/security/hunters-international-ransomware-shuts-down-after-world-leaks-rebrand/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hunters International, a prolific Ransomware-as-a-Service (RaaS) operation responsible for nearly 300 global attacks, has officially shut down. The group announced the closure on July 3, 2025, offering free decryption tools to victims.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 3, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cl0p Ransomware’s Exfiltration Process Exposes RCE Vulnerability<a href="https://gbhackers.com/cl0p-ransomwares-exfiltration-process-exposes-rce-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly disclosed vulnerability in the Python-based data-exfiltration utility used by the notorious Cl0p ransomware group has exposed the cybercrime operation itself to potential attack. The vulnerability is rated 8.9 (High) on the CVSS 4.0 scale.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 20, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
