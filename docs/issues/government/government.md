@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+July 4, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Taiwan Flags Chinese Apps Over Data Security Violations<a href="https://www.infosecurity-magazine.com/news/taiwan-chinese-apps-data-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwan’s National Security Bureau (NSB) has issued a public warning following random inspections of five Chinese-developed mobile applications—TikTok, WeChat, Weibo, Baidu Cloud, and rednote—widely used by Taiwanese citizens.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 2, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

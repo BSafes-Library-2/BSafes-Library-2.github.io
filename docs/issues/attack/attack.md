@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+July 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked attacker hit France’s critical infrastructure via trio of Ivanti zero-days last year<a href="https://cyberscoop.com/france-government-ivanti-zero-days-china/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A China-linked threat actor, UNC5174, exploited three Ivanti CSA zero-days (CVE-2024-8190, CVE-2024-8963, CVE-2024-9380) to target French critical infrastructure sectors from September to November 2024.
+</details>
+<div style="text-align: right" markdown="1">
+CyberScoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NTLM relay attacks are back from the dead<a href="https://www.helpnetsecurity.com/2025/07/04/ntlm-relay-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NTLM relay attacks can compromise domain-joined hosts without requiring password cracking. These attacks can reach Tier Zero assets, significantly increasing the risk and potential damage.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 1, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

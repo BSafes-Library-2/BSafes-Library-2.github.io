@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache Under the Lens: Tomcat’s Partial PUT and Camel’s Header Hijack<a href="https://unit42.paloaltonetworks.com/apache-cve-2025-24813-cve-2025-27636-cve-2025-29891/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three critical vulnerabilities in Apache Tomcat (CVE-2025-24813) and Apache Camel (CVE-2025-27636, CVE-2025-29891) enable remote code execution (RCE), allowing attackers to hijack systems.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Network
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerabilities in Grafana Image Renderer and Synthetic Monitoring Agent<a href="https://www.cyber.gc.ca/en/alerts-advisories/grafana-security-advisory-av25-394?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On July 3, 2025, Grafana issued a security advisory addressing critical vulnerabilities in two of its products: Grafana Image Renderer (versions prior to 3.12.9) and Synthetic Monitoring Agent (versions prior to 0.38.3).
+</details>
+<div style="text-align: right" markdown="1">
+Government of Canada
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 4, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Defeat Content Security Policy Protections via HTML Injection<a href="https://gbhackers.com/researchers-defeat-content-security-policy-protections/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have demonstrated a method to bypass nonce-based Content Security Policy (CSP) protections using HTML injection, CSS-based nonce leakage, and browser cache manipulation.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 3, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

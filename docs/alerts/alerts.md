@@ -7,6 +7,20 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 3, 2025 - Government of Canada 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Grafana security advisory (AV25-394) <a href="https://www.cyber.gc.ca/en/alerts-advisories/grafana-security-advisory-av25-394?web_view=true"> Full Text</a>
+</p>
+<details>
+On July 2, 2025, Grafana published a security advisory to address critical vulnerabilities in the following products:
+
+Grafana Image Renderer – versions prior to 3.12.9
+Synthetic Monitoring Agent – versions prior to 0.38.3
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 1, 2025 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

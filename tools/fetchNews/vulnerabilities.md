@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 3, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wing FTP Server Vulnerability Allows Full Server Takeover by Attackers<a href="https://gbhackers.com/wing-ftp-server-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability identified as CVE-2025-47812 affects Wing FTP Server versions v7.4.3 and earlier. Wing FTP released a security update on May 14, 2025, to address this issue. Proof-of-concept exploit code is publicly available.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 3, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ModSecurity WAF Vulnerability Enables DoS Using Empty XML Elements<a href="https://gbhackers.com/critical-bug-in-modsecurity-waf/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly disclosed vulnerability in ModSecurity, a widely used open-source web application firewall (WAF), exposes servers to denial-of-service (DoS) attacks by exploiting a flaw in the way the software parses empty XML elements.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 2, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
