@@ -34,6 +34,150 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Abuse Legitimate Inno Setup Installer to Deliver Malware<a href="https://gbhackers.com/hackers-abuse-legitimate-inno-setup-installer/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack begins with a malicious Inno Setup installer that leverages Pascal scripting to execute a series of evasion techniques, including debugger and sandbox detection.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Sudo bugs expose major Linux distros to local root exploits<a href="https://securityaffairs.com/179637/security/critical-sudo-bugs-expose-major-linux-distros-to-local-root-exploits.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers disclosed two vulnerabilities (CVE-2025-32462 and CVE-2025-32463) in the Sudo command-line utility for Linux and Unix-like operating systems. Local attackers can exploit them to escalate privileges to root on affected systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of Exposed JDWP Interfaces Targeted for Cryptomining Attacks<a href="https://thehackernews.com/2025/07/alert-exposed-jdwp-interfaces-lead-to.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since JDWP lacks authentication or access control mechanisms, exposing the service to the internet can open up a new attack vector that attackers can abuse as an entry point, enabling full control over the running Java process.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals jump on .es domain for credential phishing trip<a href="https://www.theregister.com/2025/07/05/spain_domains_phishing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity experts at Cofense reported a 19x increase in malicious campaigns being launched from .es domains, making it the third most common, behind only .com and .ru.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked threat actors spread macOS NimDoor malware via fake Zoom updates<a href="https://securityaffairs.com/179643/malware/north-korea-linked-threat-actors-spread-macos-nimdoor-malware-via-fake-zoom-updates.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Victims are tricked into installing the malware through phishing links sent via Calendly or Telegram. NimDoor is written in Nim, uses encrypted communications, and steals data like browser history and Keychain credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ingram Micro confirms ransomware behind multi-day outage<a href="https://www.theregister.com/2025/07/06/ingram_micro_confirms_ransomware_behind/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Safepay ransomware claimed to have accessed sensitive information, including financial statements, intellectual property, accounting records, lawsuits and complaints, personal and customer files, bank details, transactions, etc.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Hpingbot Exploits Pastebin for Payload Delivery and Uses Hping3 for DDoS Attacks<a href="https://gbhackers.com/new-hpingbot-exploits-pastebin-for-payload-delivery/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NSFOCUS Fuying Lab’s Global Threat Hunting System has discovered a new botnet family called “hpingbot” that has been quickly expanding since June 2025, marking a significant shift in the cybersecurity scene.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New technique detects tampering or forgery of a PDF document<a href="https://www.helpnetsecurity.com/2025/07/07/detect-pdf-tampering-forgery/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the PDF format being used as a formal means of communication in multiple industries, it has become a good target for criminals who wish to affect contracts or aid in misinformation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ScriptCase Vulnerabilities Allow Remote Code Execution and Full Server Compromise<a href="https://gbhackers.com/scriptcase-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two critical vulnerabilities have been discovered in ScriptCase, a popular low-code PHP web application generator, which puts thousands of servers at risk of remote code execution and complete compromise.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 5, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,151 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2025
+July 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Abuse Legitimate Inno Setup Installer to Deliver Malware<a href="https://gbhackers.com/hackers-abuse-legitimate-inno-setup-installer/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack begins with a malicious Inno Setup installer that leverages Pascal scripting to execute a series of evasion techniques, including debugger and sandbox detection.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Sudo bugs expose major Linux distros to local root exploits<a href="https://securityaffairs.com/179637/security/critical-sudo-bugs-expose-major-linux-distros-to-local-root-exploits.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers disclosed two vulnerabilities (CVE-2025-32462 and CVE-2025-32463) in the Sudo command-line utility for Linux and Unix-like operating systems. Local attackers can exploit them to escalate privileges to root on affected systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of Exposed JDWP Interfaces Targeted for Cryptomining Attacks<a href="https://thehackernews.com/2025/07/alert-exposed-jdwp-interfaces-lead-to.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since JDWP lacks authentication or access control mechanisms, exposing the service to the internet can open up a new attack vector that attackers can abuse as an entry point, enabling full control over the running Java process.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals jump on .es domain for credential phishing trip<a href="https://www.theregister.com/2025/07/05/spain_domains_phishing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity experts at Cofense reported a 19x increase in malicious campaigns being launched from .es domains, making it the third most common, behind only .com and .ru.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked threat actors spread macOS NimDoor malware via fake Zoom updates<a href="https://securityaffairs.com/179643/malware/north-korea-linked-threat-actors-spread-macos-nimdoor-malware-via-fake-zoom-updates.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Victims are tricked into installing the malware through phishing links sent via Calendly or Telegram. NimDoor is written in Nim, uses encrypted communications, and steals data like browser history and Keychain credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ingram Micro confirms ransomware behind multi-day outage<a href="https://www.theregister.com/2025/07/06/ingram_micro_confirms_ransomware_behind/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Safepay ransomware claimed to have accessed sensitive information, including financial statements, intellectual property, accounting records, lawsuits and complaints, personal and customer files, bank details, transactions, etc.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Hpingbot Exploits Pastebin for Payload Delivery and Uses Hping3 for DDoS Attacks<a href="https://gbhackers.com/new-hpingbot-exploits-pastebin-for-payload-delivery/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NSFOCUS Fuying Lab’s Global Threat Hunting System has discovered a new botnet family called “hpingbot” that has been quickly expanding since June 2025, marking a significant shift in the cybersecurity scene.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New technique detects tampering or forgery of a PDF document<a href="https://www.helpnetsecurity.com/2025/07/07/detect-pdf-tampering-forgery/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the PDF format being used as a formal means of communication in multiple industries, it has become a good target for criminals who wish to affect contracts or aid in misinformation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ScriptCase Vulnerabilities Allow Remote Code Execution and Full Server Compromise<a href="https://gbhackers.com/scriptcase-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two critical vulnerabilities have been discovered in ScriptCase, a popular low-code PHP web application generator, which puts thousands of servers at risk of remote code execution and complete compromise.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apache Under the Lens: Tomcat’s Partial PUT and Camel’s Header Hijack<a href="https://unit42.paloaltonetworks.com/apache-cve-2025-24813-cve-2025-27636-cve-2025-29891/?&web_view=true"> Full Text</a>
@@ -44,13 +188,13 @@ Apache Under the Lens: Tomcat’s Partial PUT and Camel’s Header Hijack<a href
 Three critical vulnerabilities in Apache Tomcat (CVE-2025-24813) and Apache Camel (CVE-2025-27636, CVE-2025-29891) enable remote code execution (RCE), allowing attackers to hijack systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Palo Alto Network
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2025
+July 5, 2025 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RondoDox Unveiled: Breaking Down a New Botnet Threat<a href="https://www.fortinet.com/blog/threat-research/rondobox-unveiled-breaking-down-a-botnet-threat?&web_view=true"> Full Text</a>
@@ -60,13 +204,13 @@ RondoDox Unveiled: Breaking Down a New Botnet Threat<a href="https://www.fortine
 RondoDox is a new botnet threat that exploits two critical vulnerabilities: CVE-2024-3721 (TBK DVR models) and CVE-2024-12856 (Four-Faith router models). These vulnerabilities allow remote attackers to execute arbitrary commands.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Fortinet
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2025
+July 5, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked attacker hit France’s critical infrastructure via trio of Ivanti zero-days last year<a href="https://cyberscoop.com/france-government-ivanti-zero-days-china/?&web_view=true"> Full Text</a>
@@ -76,13 +220,13 @@ China-linked attacker hit France’s critical infrastructure via trio of Ivanti 
 A China-linked threat actor, UNC5174, exploited three Ivanti CSA zero-days (CVE-2024-8190, CVE-2024-8963, CVE-2024-9380) to target French critical infrastructure sectors from September to November 2024.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CyberScoop
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2025
+July 5, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scammers have a new tactic: impersonating DOGE<a href="https://fedscoop.com/doge-email-scam-personal-information/?&web_view=true"> Full Text</a>
@@ -92,13 +236,13 @@ Scammers have a new tactic: impersonating DOGE<a href="https://fedscoop.com/doge
 The campaign targeted over 1,800 email addresses and more than 350 organizations, including colleges, universities, transit entities, and government bodies. The attackers aim to steal PII.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Fedscoop
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2025
+July 5, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Vulnerabilities in Grafana Image Renderer and Synthetic Monitoring Agent<a href="https://www.cyber.gc.ca/en/alerts-advisories/grafana-security-advisory-av25-394?&web_view=true"> Full Text</a>
@@ -108,13 +252,13 @@ Critical Vulnerabilities in Grafana Image Renderer and Synthetic Monitoring Agen
 On July 3, 2025, Grafana issued a security advisory addressing critical vulnerabilities in two of its products: Grafana Image Renderer (versions prior to 3.12.9) and Synthetic Monitoring Agent (versions prior to 0.38.3).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Government of Canada
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2025
+July 5, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NTLM relay attacks are back from the dead<a href="https://www.helpnetsecurity.com/2025/07/04/ntlm-relay-attacks/?&web_view=true"> Full Text</a>
@@ -124,13 +268,13 @@ NTLM relay attacks are back from the dead<a href="https://www.helpnetsecurity.co
 NTLM relay attacks can compromise domain-joined hosts without requiring password cracking. These attacks can reach Tier Zero assets, significantly increasing the risk and potential damage.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2025
+July 4, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker leaks Telefónica data allegedly stolen in a new breach<a href="https://www.bleepingcomputer.com/news/security/hacker-leaks-telef-nica-data-allegedly-stolen-in-a-new-breach/?&web_view=true"> Full Text</a>
@@ -140,13 +284,13 @@ Hacker leaks Telefónica data allegedly stolen in a new breach<a href="https://w
 A threat actor affiliated with the HellCat ransomware group has claimed responsibility for a significant data breach at Telefónica. The attacker, known as "Rey", alleges the exfiltration of over 106GB of sensitive internal data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2025
+July 4, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 City of Coppell, TX notifies 17K residents of data breach following ransomware attack<a href="https://www.comparitech.com/uncategorized/city-of-coppell-tx-notifies-17k-residents-of-data-breach-following-ransomware-attack/?&web_view=true"> Full Text</a>
@@ -156,13 +300,13 @@ City of Coppell, TX notifies 17K residents of data breach following ransomware a
 The City of Coppell, Texas, has notified 16,835 residents of a data breach following a ransomware attack in October 2024. The breach exposed sensitive personal data, including Social Security numbers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Comparitech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2025
+July 4, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Taiwan Flags Chinese Apps Over Data Security Violations<a href="https://www.infosecurity-magazine.com/news/taiwan-chinese-apps-data-security/?&web_view=true"> Full Text</a>
@@ -172,13 +316,13 @@ Taiwan Flags Chinese Apps Over Data Security Violations<a href="https://www.info
 Taiwan’s National Security Bureau (NSB) has issued a public warning following random inspections of five Chinese-developed mobile applications—TikTok, WeChat, Weibo, Baidu Cloud, and rednote—widely used by Taiwanese citizens.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2025
+July 4, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Defeat Content Security Policy Protections via HTML Injection<a href="https://gbhackers.com/researchers-defeat-content-security-policy-protections/?&web_view=true"> Full Text</a>
@@ -188,7 +332,7 @@ Researchers Defeat Content Security Policy Protections via HTML Injection<a href
 Security researchers have demonstrated a method to bypass nonce-based Content Security Policy (CSP) protections using HTML injection, CSS-based nonce leakage, and browser cache manipulation.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
