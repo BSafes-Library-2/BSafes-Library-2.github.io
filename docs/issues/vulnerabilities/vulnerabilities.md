@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Sudo bugs expose major Linux distros to local root exploits<a href="https://securityaffairs.com/179637/security/critical-sudo-bugs-expose-major-linux-distros-to-local-root-exploits.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers disclosed two vulnerabilities (CVE-2025-32462 and CVE-2025-32463) in the Sudo command-line utility for Linux and Unix-like operating systems. Local attackers can exploit them to escalate privileges to root on affected systems.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of Exposed JDWP Interfaces Targeted for Cryptomining Attacks<a href="https://thehackernews.com/2025/07/alert-exposed-jdwp-interfaces-lead-to.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since JDWP lacks authentication or access control mechanisms, exposing the service to the internet can open up a new attack vector that attackers can abuse as an entry point, enabling full control over the running Java process.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ScriptCase Vulnerabilities Allow Remote Code Execution and Full Server Compromise<a href="https://gbhackers.com/scriptcase-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two critical vulnerabilities have been discovered in ScriptCase, a popular low-code PHP web application generator, which puts thousands of servers at risk of remote code execution and complete compromise.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 5, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

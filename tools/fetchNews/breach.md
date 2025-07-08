@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+July 4, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker leaks Telefónica data allegedly stolen in a new breach<a href="https://www.bleepingcomputer.com/news/security/hacker-leaks-telef-nica-data-allegedly-stolen-in-a-new-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor affiliated with the HellCat ransomware group has claimed responsibility for a significant data breach at Telefónica. The attacker, known as "Rey", alleges the exfiltration of over 106GB of sensitive internal data.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 4, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+City of Coppell, TX notifies 17K residents of data breach following ransomware attack<a href="https://www.comparitech.com/uncategorized/city-of-coppell-tx-notifies-17k-residents-of-data-breach-following-ransomware-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The City of Coppell, Texas, has notified 16,835 residents of a data breach following a ransomware attack in October 2024. The breach exposed sensitive personal data, including Social Security numbers.
+</details>
+<div style="text-align: right" markdown="1">
+Comparitech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 2, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

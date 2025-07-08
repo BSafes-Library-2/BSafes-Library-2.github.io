@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+July 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ingram Micro confirms ransomware behind multi-day outage<a href="https://www.theregister.com/2025/07/06/ingram_micro_confirms_ransomware_behind/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Safepay ransomware claimed to have accessed sensitive information, including financial statements, intellectual property, accounting records, lawsuits and complaints, personal and customer files, bank details, transactions, etc.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 2, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+July 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RondoDox Unveiled: Breaking Down a New Botnet Threat<a href="https://www.fortinet.com/blog/threat-research/rondobox-unveiled-breaking-down-a-botnet-threat?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RondoDox is a new botnet threat that exploits two critical vulnerabilities: CVE-2024-3721 (TBK DVR models) and CVE-2024-12856 (Four-Faith router models). These vulnerabilities allow remote attackers to execute arbitrary commands.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 25, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
