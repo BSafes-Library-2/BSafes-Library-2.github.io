@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware of Bert: New ransomware group targets healthcare, tech firms<a href="https://therecord.media/bert-ransomware-identified?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware group named Bert has emerged, targeting healthcare, technology, and event services sectors across Asia, Europe, and the U.S. The ransomware affects both Windows and Linux systems and is under active development.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 3, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

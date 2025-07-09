@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked threat actors spread macOS NimDoor malware via fake Zoom updates<a href="https://securityaffairs.com/179643/malware/north-korea-linked-threat-actors-spread-macos-nimdoor-malware-via-fake-zoom-updates.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Victims are tricked into installing the malware through phishing links sent via Calendly or Telegram. NimDoor is written in Nim, uses encrypted communications, and steals data like browser history and Keychain credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 5, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

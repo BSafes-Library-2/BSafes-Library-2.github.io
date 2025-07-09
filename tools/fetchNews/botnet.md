@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+July 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Hpingbot Exploits Pastebin for Payload Delivery and Uses Hping3 for DDoS Attacks<a href="https://gbhackers.com/new-hpingbot-exploits-pastebin-for-payload-delivery/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NSFOCUS Fuying Lab’s Global Threat Hunting System has discovered a new botnet family called “hpingbot” that has been quickly expanding since June 2025, marking a significant shift in the cybersecurity scene.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 5, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

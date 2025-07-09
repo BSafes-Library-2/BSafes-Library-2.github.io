@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+July 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IES Communications notifies 6,000+ employees of data breach that compromised SSNs and payroll info<a href="https://www.comparitech.com/news/ies-communications-notifies-6000-employees-of-data-breach-that-compromised-ssns-and-payroll-info/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IES Communications, a U.S.-based IT contractor, has disclosed a ransomware attack that compromised sensitive data of 6,241 employees. The attack has been attributed to the Chaos ransomware group, which claims to have exfiltrated 1 TB of data.
+</details>
+<div style="text-align: right" markdown="1">
+Comparitech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rehab clinics in Jacksonville, FL targeted by new ransomware gang<a href="https://www.comparitech.com/news/rehab-clinics-in-jacksonville-fl-targeted-by-new-ransomware-gang/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach affected 34,498 individuals and compromised sensitive data such as names, Social Security numbers, addresses, dates of birth, state-issued ID numbers, medical treatment details, and health insurance information.
+</details>
+<div style="text-align: right" markdown="1">
+Comparitech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 4, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
