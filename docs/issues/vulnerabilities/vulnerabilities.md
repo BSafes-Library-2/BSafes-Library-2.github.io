@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ServiceNow flaw lets attackers enumerate restricted data<a href="https://www.bleepingcomputer.com/news/security/new-servicenow-flaw-lets-attackers-enumerate-restricted-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in ServiceNow, tracked as CVE-2025-3648 and dubbed Count(er) Strike, allows low-privileged users to enumerate restricted data from protected tables. The flaw stems from overly permissive Access Control List configurations.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patch Tuesday for July 2025 — Snort rules and prominent vulnerabilities<a href="https://blog.talosintelligence.com/microsoft-patch-tuesday-july-2025/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft’s July 2025 Patch Tuesday addresses 132 vulnerabilities, including 14 marked as critical. These span across Windows services, Microsoft Office, SharePoint, Hyper-V, and SQL Server.
+</details>
+<div style="text-align: right" markdown="1">
+Talos Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 7, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

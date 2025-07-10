@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italian police arrested a Chinese national suspected of cyberespionage on a U.S. warrant<a href="https://securityaffairs.com/179730/intelligence/italian-police-arrested-a-chinese-national-suspected-of-cyberespionage-on-a-u-s-warrant.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Italian authorities have arrested Zewei Xu, a Chinese national suspected of cyberespionage activities linked to the China-nexus Advanced Persistent Threat (APT) group Hafnium, also known as Silk Typhoon.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 1, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
