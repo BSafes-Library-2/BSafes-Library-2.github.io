@@ -34,6 +34,134 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Server with Rockerbox Tax Firm Data Exposed 286GB of Records<a href="https://hackread.com/rockerbox-server-tax-firm-exposed-sensitive-records/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant data exposure incident has been uncovered involving Rockerbox, a Texas-based tax credit consultancy. The exposure involved 245,949 records totaling 286.9 GB of data, including highly sensitive personal and financial information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian media giant Rogers named as victim of Chinese telecom hackers<a href="https://www.nextgov.com/cybersecurity/2025/07/canadian-media-giant-rogers-named-victim-chinese-telecom-hackers/406593/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rogers Communications has been identified as a victim of the Chinese state-sponsored threat actor Salt Typhoon. The campaign exploited vulnerabilities in Cisco routers to gain access to sensitive communications infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ServiceNow flaw lets attackers enumerate restricted data<a href="https://www.bleepingcomputer.com/news/security/new-servicenow-flaw-lets-attackers-enumerate-restricted-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in ServiceNow, tracked as CVE-2025-3648 and dubbed Count(er) Strike, allows low-privileged users to enumerate restricted data from protected tables. The flaw stems from overly permissive Access Control List configurations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Android TapTrap attack fools users with invisible UI trick<a href="https://www.bleepingcomputer.com/news/security/new-android-taptrap-attack-fools-users-with-invisible-ui-trick/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered Android attack technique, dubbed TapTrap, enables stealthy tapjacking by exploiting UI animation transitions. Unlike traditional overlay-based methods, TapTrap works even with zero-permission apps.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+M&S confirms social engineering led to massive ransomware attack<a href="https://www.bleepingcomputer.com/news/security/mands-confirms-social-engineering-led-to-massive-ransomware-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+M&S confirmed today that the retail outlet's network was initially breached in a "sophisticated impersonation attack" that ultimately led to a DragonForce ransomware attack. The breach began on April 17.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patch Tuesday for July 2025 — Snort rules and prominent vulnerabilities<a href="https://blog.talosintelligence.com/microsoft-patch-tuesday-july-2025/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft’s July 2025 Patch Tuesday addresses 132 vulnerabilities, including 14 marked as critical. These span across Windows services, Microsoft Office, SharePoint, Hyper-V, and SQL Server.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian ransomware crew promises big bucks for US attacks<a href="https://www.theregister.com/2025/07/09/iranian_ransomware_crew_reemerges/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian ransomware group, Pay2Key, has resurfaced as Pay2Key.I2P after a five-year hiatus, operating as a RaaS platform. The group is offering affiliates up to 80% of ransom proceeds for targeting US and Israeli organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Treasury slaps sanctions on people, companies tied to North Korean IT worker schemes<a href="https://cyberscoop.com/treasury-slaps-sanctions-on-people-companies-tied-to-north-korean-it-worker-schemes/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of the Treasury has imposed sanctions on individuals and entities involved in a North Korean IT worker scheme designed to covertly fund DPRK weapons of mass destruction and ballistic missile programs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 8, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

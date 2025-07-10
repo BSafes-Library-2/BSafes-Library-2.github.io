@@ -34,7 +34,135 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2025
+July 9, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Server with Rockerbox Tax Firm Data Exposed 286GB of Records<a href="https://hackread.com/rockerbox-server-tax-firm-exposed-sensitive-records/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant data exposure incident has been uncovered involving Rockerbox, a Texas-based tax credit consultancy. The exposure involved 245,949 records totaling 286.9 GB of data, including highly sensitive personal and financial information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian media giant Rogers named as victim of Chinese telecom hackers<a href="https://www.nextgov.com/cybersecurity/2025/07/canadian-media-giant-rogers-named-victim-chinese-telecom-hackers/406593/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rogers Communications has been identified as a victim of the Chinese state-sponsored threat actor Salt Typhoon. The campaign exploited vulnerabilities in Cisco routers to gain access to sensitive communications infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ServiceNow flaw lets attackers enumerate restricted data<a href="https://www.bleepingcomputer.com/news/security/new-servicenow-flaw-lets-attackers-enumerate-restricted-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in ServiceNow, tracked as CVE-2025-3648 and dubbed Count(er) Strike, allows low-privileged users to enumerate restricted data from protected tables. The flaw stems from overly permissive Access Control List configurations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Android TapTrap attack fools users with invisible UI trick<a href="https://www.bleepingcomputer.com/news/security/new-android-taptrap-attack-fools-users-with-invisible-ui-trick/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered Android attack technique, dubbed TapTrap, enables stealthy tapjacking by exploiting UI animation transitions. Unlike traditional overlay-based methods, TapTrap works even with zero-permission apps.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+M&S confirms social engineering led to massive ransomware attack<a href="https://www.bleepingcomputer.com/news/security/mands-confirms-social-engineering-led-to-massive-ransomware-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+M&S confirmed today that the retail outlet's network was initially breached in a "sophisticated impersonation attack" that ultimately led to a DragonForce ransomware attack. The breach began on April 17.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patch Tuesday for July 2025 — Snort rules and prominent vulnerabilities<a href="https://blog.talosintelligence.com/microsoft-patch-tuesday-july-2025/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft’s July 2025 Patch Tuesday addresses 132 vulnerabilities, including 14 marked as critical. These span across Windows services, Microsoft Office, SharePoint, Hyper-V, and SQL Server.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian ransomware crew promises big bucks for US attacks<a href="https://www.theregister.com/2025/07/09/iranian_ransomware_crew_reemerges/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian ransomware group, Pay2Key, has resurfaced as Pay2Key.I2P after a five-year hiatus, operating as a RaaS platform. The group is offering affiliates up to 80% of ransom proceeds for targeting US and Israeli organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Treasury slaps sanctions on people, companies tied to North Korean IT worker schemes<a href="https://cyberscoop.com/treasury-slaps-sanctions-on-people-companies-tied-to-north-korean-it-worker-schemes/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of the Treasury has imposed sanctions on individuals and entities involved in a North Korean IT worker scheme designed to covertly fund DPRK weapons of mass destruction and ballistic missile programs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Chrome extensions with 1.7M installs found on Web Store<a href="https://www.bleepingcomputer.com/news/security/malicious-chrome-extensions-with-17m-installs-found-on-web-store/?&web_view=true"> Full Text</a>
@@ -44,13 +172,13 @@ Malicious Chrome extensions with 1.7M installs found on Web Store<a href="https:
 Security researchers have uncovered a widespread browser hijacking campaign involving 18 malicious extensions on the Chrome and Microsoft Edge Web Stores, collectively downloaded over 2.3 million times.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2025
+July 8, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IES Communications notifies 6,000+ employees of data breach that compromised SSNs and payroll info<a href="https://www.comparitech.com/news/ies-communications-notifies-6000-employees-of-data-breach-that-compromised-ssns-and-payroll-info/?&web_view=true"> Full Text</a>
@@ -60,13 +188,13 @@ IES Communications notifies 6,000+ employees of data breach that compromised SSN
 IES Communications, a U.S.-based IT contractor, has disclosed a ransomware attack that compromised sensitive data of 6,241 employees. The attack has been attributed to the Chaos ransomware group, which claims to have exfiltrated 1 TB of data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Comparitech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2025
+July 8, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android malware Anatsa infiltrates Google Play to target US banks<a href="https://www.bleepingcomputer.com/news/security/android-malware-anatsa-infiltrates-google-play-to-target-us-banks/?&web_view=true"> Full Text</a>
@@ -76,13 +204,13 @@ Android malware Anatsa infiltrates Google Play to target US banks<a href="https:
 The Anatsa Android banking trojan has once again infiltrated Google Play, this time through an app disguised as a PDF viewer named ‘Document Viewer – File Reader’. The malware targets users of North American banking apps.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2025
+July 8, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Italian police arrested a Chinese national suspected of cyberespionage on a U.S. warrant<a href="https://securityaffairs.com/179730/intelligence/italian-police-arrested-a-chinese-national-suspected-of-cyberespionage-on-a-u-s-warrant.html?&web_view=true"> Full Text</a>
@@ -92,13 +220,13 @@ Italian police arrested a Chinese national suspected of cyberespionage on a U.S.
 Italian authorities have arrested Zewei Xu, a Chinese national suspected of cyberespionage activities linked to the China-nexus Advanced Persistent Threat (APT) group Hafnium, also known as Silk Typhoon.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2025
+July 8, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Atomic macOS infostealer adds backdoor for persistent attacks<a href="https://www.bleepingcomputer.com/news/security/atomic-macos-infostealer-adds-backdoor-for-persistent-attacks/?&web_view=true"> Full Text</a>
@@ -108,13 +236,13 @@ Atomic macOS infostealer adds backdoor for persistent attacks<a href="https://ww
 A new variant of AMOS has been discovered with an embedded backdoor. AMOS campaigns have impacted users in over 120 countries, with the US, France, Italy, the UK, and Canada among the most affected.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2025
+July 8, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beware of Bert: New ransomware group targets healthcare, tech firms<a href="https://therecord.media/bert-ransomware-identified?&web_view=true"> Full Text</a>
@@ -124,13 +252,13 @@ Beware of Bert: New ransomware group targets healthcare, tech firms<a href="http
 A new ransomware group named Bert has emerged, targeting healthcare, technology, and event services sectors across Asia, Europe, and the U.S. The ransomware affects both Windows and Linux systems and is under active development.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2025
+July 8, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rehab clinics in Jacksonville, FL targeted by new ransomware gang<a href="https://www.comparitech.com/news/rehab-clinics-in-jacksonville-fl-targeted-by-new-ransomware-gang/?&web_view=true"> Full Text</a>
@@ -140,13 +268,13 @@ Rehab clinics in Jacksonville, FL targeted by new ransomware gang<a href="https:
 The breach affected 34,498 individuals and compromised sensitive data such as names, Social Security numbers, addresses, dates of birth, state-issued ID numbers, medical treatment details, and health insurance information.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Comparitech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2025
+July 8, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers abuse leaked Shellter red team tool to deploy infostealers<a href="https://www.bleepingcomputer.com/news/security/hackers-abuse-leaked-shellter-red-team-tool-to-deploy-infostealers/?&web_view=true"> Full Text</a>
@@ -156,13 +284,13 @@ Hackers abuse leaked Shellter red team tool to deploy infostealers<a href="https
 Threat actors have exploited a leaked copy of Shellter Elite v11.0, a commercial AV/EDR evasion tool, to deploy infostealers including Rhadamanthys, Lumma, and Arechclient2.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2025
+July 8, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattack deals blow to Russian firmware used to repurpose civilian drones for Ukraine war<a href="https://therecord.media/cyberattack-russia-firmware-blow-hackers?&web_view=true"> Full Text</a>
@@ -172,7 +300,7 @@ Cyberattack deals blow to Russian firmware used to repurpose civilian drones for
 A sophisticated cyberattack has disrupted the infrastructure used to distribute the “1001” firmware—custom software developed by Russian entities to convert civilian DJI drones for military use in the ongoing conflict in Ukraine.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
