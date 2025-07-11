@@ -8,6 +8,62 @@ nav_order: 900029
 
 ## Breach
 ---
+July 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pierce County, WA libraries notify 336K people of data breach<a href="https://www.comparitech.com/news/pierce-county-wa-libraries-notify-336k-people-of-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Pierce County Library System (PCLS) has notified 336,826 individuals of a ransomware attack by the Inc group in April 2025, which exposed names and dates of birth. Inc posted images of stolen driver’s licenses, passports, and internal documents.
+</details>
+<div style="text-align: right" markdown="1">
+Comparitech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitcoin Depot breach exposes data of nearly 27,000 crypto users<a href="https://www.bleepingcomputer.com/news/security/bitcoin-depot-breach-exposes-data-of-nearly-27-000-crypto-users/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bitcoin Depot has disclosed a data breach affecting nearly 27,000 customers. The breach exposed sensitive personal information typically collected during Know-Your-Customer (KYC) verification processes
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nippon Steel Solutions suffered a data breach following a zero-day attack<a href="https://securityaffairs.com/179766/data-breach/nippon-steel-solutions-data-breach.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nippon Steel Solutions disclosed a data breach resulting from a zero-day attack on its network equipment. The breach led to unauthorized access and potential leakage of personal data belonging to customers, partners, and employees.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+McDonald’s AI Hiring Bot Exposed Millions of Applicants’ Data to Hackers Who Tried the Password ‘123456’<a href="https://www.wired.com/story/mcdonalds-ai-hiring-chat-bot-paradoxai/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical security vulnerability in McDonald’s AI-powered hiring platform, McHire.com, exposed the personal data of millions of job seekers. The breach was caused by the use of the weak password “123456” for administrative access.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 9, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

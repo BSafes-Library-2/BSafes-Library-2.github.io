@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+July 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoNot APT is expanding scope targeting European foreign ministries<a href="https://securityaffairs.com/179774/apt/donot-apt-is-expanding-scope-targeting-european-foreign-ministries.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DoNot APT, also known as APT-C-35 and Origami Elephant, is a cyberespionage group likely linked to India. In a recent campaign, the group deployed a new malware variant, LoptikMod, to infiltrate European foreign ministries.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 28, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

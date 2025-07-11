@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+July 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Treasury slaps sanctions on people, companies tied to North Korean IT worker schemes<a href="https://cyberscoop.com/treasury-slaps-sanctions-on-people-companies-tied-to-north-korean-it-worker-schemes/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of the Treasury has imposed sanctions on individuals and entities involved in a North Korean IT worker scheme designed to covertly fund DPRK weapons of mass destruction and ballistic missile programs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Scoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 1, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

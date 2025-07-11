@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 10, 2025
+July 10, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 macOS.ZuRu Resurfaces | Modified Khepri C2 Hides Inside Doctored Termius App<a href="https://www.sentinelone.com/blog/macos-zuru-resurfaces-modified-khepri-c2-hides-inside-doctored-termius-app/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ macOS.ZuRu Resurfaces | Modified Khepri C2 Hides Inside Doctored Termius App<a h
 A new variant of the macOS.ZuRu malware has resurfaced, targeting macOS users through a trojanized version of the Termius SSH client. This version incorporates a modified Khepri C2 beacon and introduces new techniques for persistence.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sentinel One
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 10, 2025
+July 10, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Bluetooth Protocol Vulnerabilities Expose Devices to RCE Attacks<a href="https://gbhackers.com/critical-bluetooth-protocol-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Critical Bluetooth Protocol Vulnerabilities Expose Devices to RCE Attacks<a href
 Security researchers have uncovered a critical set of Bluetooth vulnerabilities, dubbed PerfektBlue, in OpenSynergy’s BlueSDK framework. These flaws affect millions of devices, including in-vehicle infotainment systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 10, 2025
+July 10, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Asus and Adobe vulnerabilities<a href="https://blog.talosintelligence.com/asus-and-adobe-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Asus and Adobe vulnerabilities<a href="https://blog.talosintelligence.com/asus-a
 Researchers have discovered four critical vulnerabilities—two in Asus Armoury Crate and two in Adobe Acrobat Reader. These vulnerabilities have been patched by their respective vendors.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Talos Intelligence
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 10, 2025
+July 10, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pierce County, WA libraries notify 336K people of data breach<a href="https://www.comparitech.com/news/pierce-county-wa-libraries-notify-336k-people-of-data-breach/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Pierce County, WA libraries notify 336K people of data breach<a href="https://ww
 The Pierce County Library System (PCLS) has notified 336,826 individuals of a ransomware attack by the Inc group in April 2025, which exposed names and dates of birth. Inc posted images of stolen driver’s licenses, passports, and internal documents.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Comparitech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 10, 2025
+July 10, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AMD warns of new Meltdown, Spectre-like bugs affecting CPUs<a href="https://www.theregister.com/2025/07/09/amd_tsa_side_channel/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ AMD warns of new Meltdown, Spectre-like bugs affecting CPUs<a href="https://www.
 AMD has disclosed four new side-channel vulnerabilities, collectively termed Transient Scheduler Attacks (TSA), affecting a broad range of its CPUs. Successful exploitation of the TSA vulnerabilities could lead to information disclosure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 10, 2025
+July 10, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bitcoin Depot breach exposes data of nearly 27,000 crypto users<a href="https://www.bleepingcomputer.com/news/security/bitcoin-depot-breach-exposes-data-of-nearly-27-000-crypto-users/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Bitcoin Depot breach exposes data of nearly 27,000 crypto users<a href="https://
 Bitcoin Depot has disclosed a data breach affecting nearly 27,000 customers. The breach exposed sensitive personal information typically collected during Know-Your-Customer (KYC) verification processes
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 10, 2025
+July 10, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nippon Steel Solutions suffered a data breach following a zero-day attack<a href="https://securityaffairs.com/179766/data-breach/nippon-steel-solutions-data-breach.html?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Nippon Steel Solutions suffered a data breach following a zero-day attack<a href
 Nippon Steel Solutions disclosed a data breach resulting from a zero-day attack on its network equipment. The breach led to unauthorized access and potential leakage of personal data belonging to customers, partners, and employees.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 10, 2025
+July 10, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Browser extensions turn nearly 1 million browsers into website-scraping bots<a href="https://arstechnica.com/security/2025/07/browser-extensions-turn-nearly-1-million-browsers-into-website-scraping-bots/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Browser extensions turn nearly 1 million browsers into website-scraping bots<a h
 A recent investigation uncovered that 245 browser extensions—installed on nearly 1 million devices—are covertly turning users' browsers into web scraping bots. These extensions, available on Chrome, Firefox, and Edge, embed the MellowTel-jsx library.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Ars Technica
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 10, 2025
+July 10, 2025 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DoNot APT is expanding scope targeting European foreign ministries<a href="https://securityaffairs.com/179774/apt/donot-apt-is-expanding-scope-targeting-european-foreign-ministries.html?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ DoNot APT is expanding scope targeting European foreign ministries<a href="https
 DoNot APT, also known as APT-C-35 and Origami Elephant, is a cyberespionage group likely linked to India. In a recent campaign, the group deployed a new malware variant, LoptikMod, to infiltrate European foreign ministries.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 10, 2025
+July 10, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 McDonald’s AI Hiring Bot Exposed Millions of Applicants’ Data to Hackers Who Tried the Password ‘123456’<a href="https://www.wired.com/story/mcdonalds-ai-hiring-chat-bot-paradoxai/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ McDonald’s AI Hiring Bot Exposed Millions of Applicants’ Data to Hackers Who
 A critical security vulnerability in McDonald’s AI-powered hiring platform, McHire.com, exposed the personal data of millions of job seekers. The breach was caused by the use of the weak password “123456” for administrative access.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Wired
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

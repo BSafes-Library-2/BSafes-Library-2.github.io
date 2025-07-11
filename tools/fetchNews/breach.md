@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+July 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Server with Rockerbox Tax Firm Data Exposed 286GB of Records<a href="https://hackread.com/rockerbox-server-tax-firm-exposed-sensitive-records/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant data exposure incident has been uncovered involving Rockerbox, a Texas-based tax credit consultancy. The exposure involved 245,949 records totaling 286.9 GB of data, including highly sensitive personal and financial information.
+</details>
+<div style="text-align: right" markdown="1">
+HackRead
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian media giant Rogers named as victim of Chinese telecom hackers<a href="https://www.nextgov.com/cybersecurity/2025/07/canadian-media-giant-rogers-named-victim-chinese-telecom-hackers/406593/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rogers Communications has been identified as a victim of the Chinese state-sponsored threat actor Salt Typhoon. The campaign exploited vulnerabilities in Cisco routers to gain access to sensitive communications infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+NextGov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+M&amp;S confirms social engineering led to massive ransomware attack<a href="https://www.bleepingcomputer.com/news/security/mands-confirms-social-engineering-led-to-massive-ransomware-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+M&amp;S confirmed today that the retail outlet's network was initially breached in a "sophisticated impersonation attack" that ultimately led to a DragonForce ransomware attack. The breach began on April 17.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 8, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

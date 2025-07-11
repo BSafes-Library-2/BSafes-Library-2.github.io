@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian ransomware crew promises big bucks for US attacks<a href="https://www.theregister.com/2025/07/09/iranian_ransomware_crew_reemerges/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian ransomware group, Pay2Key, has resurfaced as Pay2Key.I2P after a five-year hiatus, operating as a RaaS platform. The group is offering affiliates up to 80% of ransom proceeds for targeting US and Israeli organizations.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 8, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
