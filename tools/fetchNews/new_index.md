@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2025
+July 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+macOS.ZuRu Resurfaces | Modified Khepri C2 Hides Inside Doctored Termius App<a href="https://www.sentinelone.com/blog/macos-zuru-resurfaces-modified-khepri-c2-hides-inside-doctored-termius-app/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new variant of the macOS.ZuRu malware has resurfaced, targeting macOS users through a trojanized version of the Termius SSH client. This version incorporates a modified Khepri C2 beacon and introduces new techniques for persistence.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Bluetooth Protocol Vulnerabilities Expose Devices to RCE Attacks<a href="https://gbhackers.com/critical-bluetooth-protocol-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have uncovered a critical set of Bluetooth vulnerabilities, dubbed PerfektBlue, in OpenSynergy’s BlueSDK framework. These flaws affect millions of devices, including in-vehicle infotainment systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Asus and Adobe vulnerabilities<a href="https://blog.talosintelligence.com/asus-and-adobe-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered four critical vulnerabilities—two in Asus Armoury Crate and two in Adobe Acrobat Reader. These vulnerabilities have been patched by their respective vendors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pierce County, WA libraries notify 336K people of data breach<a href="https://www.comparitech.com/news/pierce-county-wa-libraries-notify-336k-people-of-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Pierce County Library System (PCLS) has notified 336,826 individuals of a ransomware attack by the Inc group in April 2025, which exposed names and dates of birth. Inc posted images of stolen driver’s licenses, passports, and internal documents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AMD warns of new Meltdown, Spectre-like bugs affecting CPUs<a href="https://www.theregister.com/2025/07/09/amd_tsa_side_channel/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AMD has disclosed four new side-channel vulnerabilities, collectively termed Transient Scheduler Attacks (TSA), affecting a broad range of its CPUs. Successful exploitation of the TSA vulnerabilities could lead to information disclosure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitcoin Depot breach exposes data of nearly 27,000 crypto users<a href="https://www.bleepingcomputer.com/news/security/bitcoin-depot-breach-exposes-data-of-nearly-27-000-crypto-users/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bitcoin Depot has disclosed a data breach affecting nearly 27,000 customers. The breach exposed sensitive personal information typically collected during Know-Your-Customer (KYC) verification processes
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nippon Steel Solutions suffered a data breach following a zero-day attack<a href="https://securityaffairs.com/179766/data-breach/nippon-steel-solutions-data-breach.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nippon Steel Solutions disclosed a data breach resulting from a zero-day attack on its network equipment. The breach led to unauthorized access and potential leakage of personal data belonging to customers, partners, and employees.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Browser extensions turn nearly 1 million browsers into website-scraping bots<a href="https://arstechnica.com/security/2025/07/browser-extensions-turn-nearly-1-million-browsers-into-website-scraping-bots/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent investigation uncovered that 245 browser extensions—installed on nearly 1 million devices—are covertly turning users' browsers into web scraping bots. These extensions, available on Chrome, Firefox, and Edge, embed the MellowTel-jsx library.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoNot APT is expanding scope targeting European foreign ministries<a href="https://securityaffairs.com/179774/apt/donot-apt-is-expanding-scope-targeting-european-foreign-ministries.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DoNot APT, also known as APT-C-35 and Origami Elephant, is a cyberespionage group likely linked to India. In a recent campaign, the group deployed a new malware variant, LoptikMod, to infiltrate European foreign ministries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+McDonald’s AI Hiring Bot Exposed Millions of Applicants’ Data to Hackers Who Tried the Password ‘123456’<a href="https://www.wired.com/story/mcdonalds-ai-hiring-chat-bot-paradoxai/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical security vulnerability in McDonald’s AI-powered hiring platform, McHire.com, exposed the personal data of millions of job seekers. The breach was caused by the use of the weak password “123456” for administrative access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Server with Rockerbox Tax Firm Data Exposed 286GB of Records<a href="https://hackread.com/rockerbox-server-tax-firm-exposed-sensitive-records/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Server with Rockerbox Tax Firm Data Exposed 286GB of Records<a href="https://hac
 A significant data exposure incident has been uncovered involving Rockerbox, a Texas-based tax credit consultancy. The exposure involved 245,949 records totaling 286.9 GB of data, including highly sensitive personal and financial information.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+HackRead
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2025
+July 9, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Canadian media giant Rogers named as victim of Chinese telecom hackers<a href="https://www.nextgov.com/cybersecurity/2025/07/canadian-media-giant-rogers-named-victim-chinese-telecom-hackers/406593/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Canadian media giant Rogers named as victim of Chinese telecom hackers<a href="h
 Rogers Communications has been identified as a victim of the Chinese state-sponsored threat actor Salt Typhoon. The campaign exploited vulnerabilities in Cisco routers to gain access to sensitive communications infrastructure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+NextGov
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2025
+July 9, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New ServiceNow flaw lets attackers enumerate restricted data<a href="https://www.bleepingcomputer.com/news/security/new-servicenow-flaw-lets-attackers-enumerate-restricted-data/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ New ServiceNow flaw lets attackers enumerate restricted data<a href="https://www
 A critical vulnerability in ServiceNow, tracked as CVE-2025-3648 and dubbed Count(er) Strike, allows low-privileged users to enumerate restricted data from protected tables. The flaw stems from overly permissive Access Control List configurations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2025
+July 9, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Android TapTrap attack fools users with invisible UI trick<a href="https://www.bleepingcomputer.com/news/security/new-android-taptrap-attack-fools-users-with-invisible-ui-trick/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ New Android TapTrap attack fools users with invisible UI trick<a href="https://w
 A newly discovered Android attack technique, dubbed TapTrap, enables stealthy tapjacking by exploiting UI animation transitions. Unlike traditional overlay-based methods, TapTrap works even with zero-permission apps.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2025
+July 9, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 M&S confirms social engineering led to massive ransomware attack<a href="https://www.bleepingcomputer.com/news/security/mands-confirms-social-engineering-led-to-massive-ransomware-attack/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ M&S confirms social engineering led to massive ransomware attack<a href="https:/
 M&S confirmed today that the retail outlet's network was initially breached in a "sophisticated impersonation attack" that ultimately led to a DragonForce ransomware attack. The breach began on April 17.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2025
+July 9, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Patch Tuesday for July 2025 — Snort rules and prominent vulnerabilities<a href="https://blog.talosintelligence.com/microsoft-patch-tuesday-july-2025/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Microsoft Patch Tuesday for July 2025 — Snort rules and prominent vulnerabilit
 Microsoft’s July 2025 Patch Tuesday addresses 132 vulnerabilities, including 14 marked as critical. These span across Windows services, Microsoft Office, SharePoint, Hyper-V, and SQL Server.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Talos Intelligence
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2025
+July 9, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian ransomware crew promises big bucks for US attacks<a href="https://www.theregister.com/2025/07/09/iranian_ransomware_crew_reemerges/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Iranian ransomware crew promises big bucks for US attacks<a href="https://www.th
 An Iranian ransomware group, Pay2Key, has resurfaced as Pay2Key.I2P after a five-year hiatus, operating as a RaaS platform. The group is offering affiliates up to 80% of ransom proceeds for targeting US and Israeli organizations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2025
+July 9, 2025 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Treasury slaps sanctions on people, companies tied to North Korean IT worker schemes<a href="https://cyberscoop.com/treasury-slaps-sanctions-on-people-companies-tied-to-north-korean-it-worker-schemes/?&web_view=true"> Full Text</a>
@@ -156,7 +316,7 @@ Treasury slaps sanctions on people, companies tied to North Korean IT worker sch
 The U.S. Department of the Treasury has imposed sanctions on individuals and entities involved in a North Korean IT worker scheme designed to covertly fund DPRK weapons of mass destruction and ballistic missile programs.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyber Scoop
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
