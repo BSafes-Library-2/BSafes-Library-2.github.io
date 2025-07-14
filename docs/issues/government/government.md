@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+July 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MPs Warn of “Significant” Iranian Cyber-Threat to UK<a href="https://www.infosecurity-magazine.com/news/mps-warn-iranian-threat/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent report by the UK Parliament’s ISC has raised alarms over the potential for significant disruption to the UK’s petrochemical, utilities, and finance sectors, especially amid escalating geopolitical tensions.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 4, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,46 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Bluetooth Protocol Vulnerabilities Expose Devices to RCE Attacks<a href="https://gbhackers.com/critical-bluetooth-protocol-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have uncovered a critical set of Bluetooth vulnerabilities, dubbed PerfektBlue, in OpenSynergy’s BlueSDK framework. These flaws affect millions of devices, including in-vehicle infotainment systems.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Asus and Adobe vulnerabilities<a href="https://blog.talosintelligence.com/asus-and-adobe-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered four critical vulnerabilities—two in Asus Armoury Crate and two in Adobe Acrobat Reader. These vulnerabilities have been patched by their respective vendors.
+</details>
+<div style="text-align: right" markdown="1">
+Talos Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 10, 2025 <br {:="" .fs-4="" .fw-700="" .lh-0="" }="" <p="" style="font-weight:500; margin:0px" markdown="1">
+AMD warns of new Meltdown, Spectre-like bugs affecting CPUs<a href="https://www.theregister.com/2025/07/09/amd_tsa_side_channel/?&amp;web_view=true"> Full Text</a>
+<p></p>
+<details>
+  <summary>Abstract</summary>
+AMD has disclosed four new side-channel vulnerabilities, collectively termed Transient Scheduler Attacks (TSA), affecting a broad range of its CPUs. Successful exploitation of the TSA vulnerabilities could lead to information disclosure.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 9, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

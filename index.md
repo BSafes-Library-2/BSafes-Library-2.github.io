@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2025
+July 12, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fortinet Releases Patch for Critical SQL Injection Flaw in FortiWeb (CVE-2025-25257)<a href="https://thehackernews.com/2025/07/fortinet-releases-patch-for-critical.html?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Fortinet Releases Patch for Critical SQL Injection Flaw in FortiWeb (CVE-2025-25
 Fortinet released fixes for a critical security flaw impacting FortiWeb that could enable an unauthenticated attacker to run arbitrary database commands on susceptible instances. Tracked as CVE-2025-25257, the bug carries a CVSS score of 9.6.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2025
+July 12, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA tags Citrix Bleed 2 as exploited, gives agencies a day to patch<a href="https://www.bleepingcomputer.com/news/security/cisa-tags-citrix-bleed-2-as-exploited-gives-agencies-a-day-to-patch/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ CISA tags Citrix Bleed 2 as exploited, gives agencies a day to patch<a href="htt
 The U.S. Cybersecurity & Infrastructure Security Agency has confirmed active exploitation of the CitrixBleed 2 vulnerability (CVE-2025-5777) in Citrix NetScaler ADC and Gateway and is giving federal agencies one day to apply fixes.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2025
+July 12, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NVIDIA shares guidance to defend GDDR6 GPUs against Rowhammer attacks<a href="https://www.bleepingcomputer.com/news/security/nvidia-issues-guidance-to-defend-gddr6-gpus-against-rowhammer/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ NVIDIA shares guidance to defend GDDR6 GPUs against Rowhammer attacks<a href="ht
 NVIDIA is warning users to activate System Level Error-Correcting Code  mitigation to protect against Rowhammer attacks on graphical processors with GDDR6 memory. New research demonstrates a Rowhammer attack against an NVIDIA A6000 GPU.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2025
+July 12, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The zero-day that could've compromised every Cursor and Windsurf user<a href="https://www.bleepingcomputer.com/news/security/the-zero-day-that-couldve-compromised-every-cursor-and-windsurf-user/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ The zero-day that could've compromised every Cursor and Windsurf user<a href="ht
 A security researcher stumbled upon a critical zero-day buried deep in the infrastructure powering today’s AI coding tools. Had it been exploited, a non-sophisticated attacker could’ve hijacked over 10 million machines with a single stroke.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2025
+July 11, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Louis Vuitton says UK customer data stolen in cyber-attack<a href="https://www.theguardian.com/technology/2025/jul/11/louis-vuitton-uk-customer-data-stolen-cyber-attack?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Louis Vuitton says UK customer data stolen in cyber-attack<a href="https://www.t
 Louis Vuitton, the flagship brand of French luxury conglomerate LVMH, has confirmed a cyber-attack targeting its UK operations, resulting in the unauthorized access and theft of customer data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Guardian
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2025
+July 11, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Wing FTP Server Vulnerability (CVE-2025-47812) Actively Being Exploited in the Wild<a href="https://thehackernews.com/2025/07/critical-wing-ftp-server-vulnerability.html?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Critical Wing FTP Server Vulnerability (CVE-2025-47812) Actively Being Exploited
 A recently disclosed maximum-severity security flaw impacting the Wing FTP Server has come under active exploitation in the wild. The vulnerability, CVE-2025-47812, is a case of improper handling of null ('\0') bytes in the server's web interface.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2025
+July 11, 2025 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Gaming and AI Firms Push Malware on Cryptocurrency Users via Telegram and Discord<a href="https://thehackernews.com/2025/07/fake-gaming-and-ai-firms-push-malware.html?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Fake Gaming and AI Firms Push Malware on Cryptocurrency Users via Telegram and D
 Cryptocurrency users are the target of an ongoing social engineering campaign that employs fake startup companies to trick users into downloading malware that can drain digital assets from both Windows and macOS systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2025
+July 11, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Evolving Tactics of SLOW#TEMPEST: A Deep Dive Into Advanced Malware Techniques<a href="https://unit42.paloaltonetworks.com/slow-tempest-malware-obfuscation/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Evolving Tactics of SLOW#TEMPEST: A Deep Dive Into Advanced Malware Techniques<a
 The SLOW#TEMPEST campaign employs sophisticated obfuscation techniques such as dynamic jumps and obfuscated function calls to evade detection. CFG obfuscation disrupts the predictable execution flow, complicating both static and dynamic analysis.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Palo Alto Networks
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2025
+July 11, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anatomy of a Scattered Spider attack: A growing ransomware threat evolves<a href="https://www.csoonline.com/article/4020567/anatomy-of-a-scattered-spider-attack-a-growing-ransomware-threat-evolves.html?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Anatomy of a Scattered Spider attack: A growing ransomware threat evolves<a href
 Scattered Spider is increasingly making headlines of late, evolving its techniques and broadening the scope of its criminal activities against a wider array of enterprises.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CSO Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2025
+July 11, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MPs Warn of “Significant” Iranian Cyber-Threat to UK<a href="https://www.infosecurity-magazine.com/news/mps-warn-iranian-threat/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ MPs Warn of “Significant” Iranian Cyber-Threat to UK<a href="https://www.inf
 A recent report by the UK Parliament’s ISC has raised alarms over the potential for significant disruption to the UK’s petrochemical, utilities, and finance sectors, especially amid escalating geopolitical tensions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

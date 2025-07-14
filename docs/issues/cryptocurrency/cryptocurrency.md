@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+July 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Gaming and AI Firms Push Malware on Cryptocurrency Users via Telegram and Discord<a href="https://thehackernews.com/2025/07/fake-gaming-and-ai-firms-push-malware.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cryptocurrency users are the target of an ongoing social engineering campaign that employs fake startup companies to trick users into downloading malware that can drain digital assets from both Windows and macOS systems.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 2, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

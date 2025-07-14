@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anatomy of a Scattered Spider attack: A growing ransomware threat evolves<a href="https://www.csoonline.com/article/4020567/anatomy-of-a-scattered-spider-attack-a-growing-ransomware-threat-evolves.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scattered Spider is increasingly making headlines of late, evolving its techniques and broadening the scope of its criminal activities against a wider array of enterprises.
+</details>
+<div style="text-align: right" markdown="1">
+CSO Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 9, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
