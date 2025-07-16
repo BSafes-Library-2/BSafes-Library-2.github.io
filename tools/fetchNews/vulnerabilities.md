@@ -8,6 +8,76 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 12, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet Releases Patch for Critical SQL Injection Flaw in FortiWeb (CVE-2025-25257)<a href="https://thehackernews.com/2025/07/fortinet-releases-patch-for-critical.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet released fixes for a critical security flaw impacting FortiWeb that could enable an unauthenticated attacker to run arbitrary database commands on susceptible instances. Tracked as CVE-2025-25257, the bug carries a CVSS score of 9.6.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA tags Citrix Bleed 2 as exploited, gives agencies a day to patch<a href="https://www.bleepingcomputer.com/news/security/cisa-tags-citrix-bleed-2-as-exploited-gives-agencies-a-day-to-patch/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity &amp; Infrastructure Security Agency has confirmed active exploitation of the CitrixBleed 2 vulnerability (CVE-2025-5777) in Citrix NetScaler ADC and Gateway and is giving federal agencies one day to apply fixes.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NVIDIA shares guidance to defend GDDR6 GPUs against Rowhammer attacks<a href="https://www.bleepingcomputer.com/news/security/nvidia-issues-guidance-to-defend-gddr6-gpus-against-rowhammer/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NVIDIA is warning users to activate System Level Error-Correcting Code  mitigation to protect against Rowhammer attacks on graphical processors with GDDR6 memory. New research demonstrates a Rowhammer attack against an NVIDIA A6000 GPU.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The zero-day that could've compromised every Cursor and Windsurf user<a href="https://www.bleepingcomputer.com/news/security/the-zero-day-that-couldve-compromised-every-cursor-and-windsurf-user/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher stumbled upon a critical zero-day buried deep in the infrastructure powering today’s AI coding tools. Had it been exploited, a non-sophisticated attacker could’ve hijacked over 10 million machines with a single stroke.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Wing FTP Server Vulnerability (CVE-2025-47812) Actively Being Exploited in the Wild<a href="https://thehackernews.com/2025/07/critical-wing-ftp-server-vulnerability.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently disclosed maximum-severity security flaw impacting the Wing FTP Server has come under active exploitation in the wild. The vulnerability, CVE-2025-47812, is a case of improper handling of null ('\0') bytes in the server's web interface.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 10, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

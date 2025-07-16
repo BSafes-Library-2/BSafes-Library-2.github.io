@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Pet Owners Targeted by Fake Microchip Renewal Scams<a href="https://hackread.com/uk-pet-owners-targeted-fake-microchip-renewal-scams/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated phishing campaign is targeting UK pet owners with fake microchip renewal emails. These emails appear highly credible, often including accurate pet details such as name, breed, and microchip number.
+</details>
+<div style="text-align: right" markdown="1">
+HackRead
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Abacus Market Shutters After Exit Scam, Say Experts<a href="https://www.infosecurity-magazine.com/news/abacus-market-shutters-exit-scam/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Abacus Market, the Western world’s highest-grossing dark web marketplace, went offline in early July 2025, following user reports of withdrawal issues that began in late June. Experts believe this marks a classic exit scam.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 7, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

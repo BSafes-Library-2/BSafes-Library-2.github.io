@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+July 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Louis Vuitton says UK customer data stolen in cyber-attack<a href="https://www.theguardian.com/technology/2025/jul/11/louis-vuitton-uk-customer-data-stolen-cyber-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Louis Vuitton, the flagship brand of French luxury conglomerate LVMH, has confirmed a cyber-attack targeting its UK operations, resulting in the unauthorized access and theft of customer data.
+</details>
+<div style="text-align: right" markdown="1">
+The Guardian
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 10, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
