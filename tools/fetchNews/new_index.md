@@ -34,7 +34,135 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2025
+July 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italian police dismantle Romanian ransomware gang targeting nonprofits, film companies<a href="https://therecord.media/italian-police-dismantle-romanian-ransomware-gang?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Italian authorities, in collaboration with French and Romanian law enforcement, have dismantled a Romanian ransomware group known as “Diskstation.” The group targeted victims in northern Italy, particularly in the Lombardy region.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actor targets end-of-life SonicWall SMA 100 appliances in ongoing campaign<a href="https://www.cybersecuritydive.com/news/threat-actor-targets-end-of-life-sonicwall-sma-100-appliances-in-ongoing-ca/753216/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated threat campaign by UNC6148 is actively targeting fully patched but end-of-life SonicWall Secure Mobile Access (SMA) 100 appliances. The targeted appliances are fully patched but have reached end-of-life status.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adoption Agency Data Exposure Revealed Information About Children and Parents<a href="https://www.wired.com/story/adoption-agency-data-exposure-revealed-information-about-children-and-parents/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant data exposure incident involving the Gladney Center for Adoption has revealed over 1.1 million sensitive records related to children, birth parents, adoptive families, and caregivers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Compumedics data breach leaks patient info from a dozen hospitals and clinics<a href="https://www.comparitech.com/news/compumedics-data-breach-leaks-patient-info-from-a-dozen-hospitals-and-clinics/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Compumedics and its subsidiary NeuroMedical Supplies suffered a ransomware attack in March 2025, compromising sensitive data of at least 320,404 individuals. The Van Helsing ransomware group claimed responsibility for the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK retail giant Co-op confirms hackers stole all 6.5 million customer records<a href="https://techcrunch.com/2025/07/16/uk-retail-giant-co-op-confirms-hackers-stole-all-6-5-million-customer-records/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK retail giant Co-op has confirmed a significant data breach that compromised the personal information of all 6.5 million of its customers. The breach is attributed to the cybercriminal group Scattered Spider.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police disrupt “Diskstation” ransomware gang attacking NAS devices<a href="https://www.bleepingcomputer.com/news/security/police-disrupt-diskstation-ransomware-gang-attacking-nas-devices/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An international law enforcement operation, codenamed 'Operation Elicius', dismantled the Romanian ransomware gang known as 'Diskstation'. The group encrypted the systems of several companies in the Lombardy region of Italy.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta fixes bug that could leak users’ AI prompts and generated content<a href="https://techcrunch.com/2025/07/15/meta-fixes-bug-that-could-leak-users-ai-prompts-and-generated-content/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability posed a significant privacy risk, potentially exposing sensitive user-generated content. Although Meta found no evidence of abuse, the flaw could have allowed unauthorized access to private AI interactions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hyper-Volumetric DDoS Attacks Reach Record 7.3 Tbps, Targeting Key Global Sectors<a href="https://thehackernews.com/2025/07/hyper-volumetric-ddos-attacks-reach.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new wave of hyper-volumetric Distributed Denial-of-Service (DDoS) attacks has reached unprecedented levels, with a record-breaking peak of 7.3 terabits per second (Tbps) and 4.8 billion packets per second (Bpps).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK Pet Owners Targeted by Fake Microchip Renewal Scams<a href="https://hackread.com/uk-pet-owners-targeted-fake-microchip-renewal-scams/?&web_view=true"> Full Text</a>
@@ -44,13 +172,13 @@ UK Pet Owners Targeted by Fake Microchip Renewal Scams<a href="https://hackread.
 A sophisticated phishing campaign is targeting UK pet owners with fake microchip renewal emails. These emails appear highly credible, often including accurate pet details such as name, breed, and microchip number.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+HackRead
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2025
+July 15, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AsyncRAT evolves as ESET tracks its most popular malware forks<a href="https://www.helpnetsecurity.com/2025/07/15/asyncrat-forks-eset-research/?&web_view=true"> Full Text</a>
@@ -60,13 +188,13 @@ AsyncRAT evolves as ESET tracks its most popular malware forks<a href="https://w
 ESET identified several prominent AsyncRAT forks actively used in cyberattacks, including DcRat, VenomRAT, and SilverRAT. DcRat offers an expanded feature set, while VenomRAT includes even more advanced capabilities.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2025
+July 15, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android malware Konfety uses malformed APKs to evade detection<a href="https://www.bleepingcomputer.com/news/security/android-malware-konfety-uses-malformed-apks-to-evade-detection/?&web_view=true"> Full Text</a>
@@ -76,13 +204,13 @@ Android malware Konfety uses malformed APKs to evade detection<a href="https://w
 Konfety masquerades as legitimate applications but delivers none of the promised functionality. It is designed to fetch hidden ads, exfiltrate device data, and potentially load additional malicious modules dynamically.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2025
+July 15, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DragonForce hackers claim responsibility for Belk data breach<a href="https://www.cybersecuritydive.com/news/dragonforce--claim-belk-data-breach/753067/?&web_view=true"> Full Text</a>
@@ -92,13 +220,13 @@ DragonForce hackers claim responsibility for Belk data breach<a href="https://ww
 DragonForce, a ransomware group operating under a Ransomware-as-a-Service (RaaS) model, has claimed responsibility for a data breach targeting Belk, a North Carolina-based department store chain.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2025
+July 15, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chicago-area school district notifies 11.5K people of data breach compromising student records, SSNs, finances, and medical info<a href="https://www.comparitech.com/news/chicago-area-school-district-notifies-11-5k-people-of-data-breach-compromising-student-records-ssns-finances-and-medical-info/?&web_view=true"> Full Text</a>
@@ -108,13 +236,13 @@ Chicago-area school district notifies 11.5K people of data breach compromising s
 Indian Springs School District 109, located in Justice, Illinois, disclosed a ransomware attack that compromised the personal data of 11,542 individuals. The breach is attributed to the RansomHub ransomware group.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CompariTech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2025
+July 15, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gang to release data from Lorain County Auditor’s Office today<a href="https://www.comparitech.com/news/ransomware-gang-to-release-data-from-lorain-county-auditors-office-today/?&web_view=true"> Full Text</a>
@@ -124,13 +252,13 @@ Ransomware gang to release data from Lorain County Auditor’s Office today<a hr
 The Lorain County Auditor’s Office in Ohio was targeted by the Global ransomware group in a cyberattack that occurred on May 27. Global RaaS)group, has claimed responsibility and alleges possession of private data, including bank account information.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CompariTech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2025
+July 15, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Abacus Market Shutters After Exit Scam, Say Experts<a href="https://www.infosecurity-magazine.com/news/abacus-market-shutters-exit-scam/?&web_view=true"> Full Text</a>
@@ -140,13 +268,13 @@ Abacus Market Shutters After Exit Scam, Say Experts<a href="https://www.infosecu
 Abacus Market, the Western world’s highest-grossing dark web marketplace, went offline in early July 2025, following user reports of withdrawal issues that began in late June. Experts believe this marks a classic exit scam.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2025
+July 15, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Jailbreak Grok-4 AI Within 48 Hours of Launch<a href="https://hackread.com/researchers-jailbreak-grok-4-ai-48-hours-of-launch/?&web_view=true"> Full Text</a>
@@ -156,13 +284,13 @@ Researchers Jailbreak Grok-4 AI Within 48 Hours of Launch<a href="https://hackre
 Researchers successfully jailbroke Elon Musk’s Grok-4 AI within 48 hours of its launch. By combining two advanced techniques—Echo Chamber and Crescendo—they bypassed the AI’s security filters and extracted instructions for creating dangerous items.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+HackRead
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2025
+July 15, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why skipping security prompting on Grok’s newest model is a huge mistake<a href="https://cyberscoop.com/grok4-security-flaws-prompts-splxai-research/?&web_view=true"> Full Text</a>
@@ -172,13 +300,13 @@ Why skipping security prompting on Grok’s newest model is a huge mistake<a hre
 Researchers identified critical vulnerabilities in Grok 4, particularly when deployed without system-level security prompting. The model was found to be highly susceptible to prompt injection attacks and capable of generating harmful content.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyber Scoop
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2025
+July 14, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious VSCode extension in Cursor IDE led to $500K crypto theft<a href="https://www.bleepingcomputer.com/news/security/malicious-vscode-extension-in-cursor-ide-led-to-500k-crypto-theft/?&web_view=true"> Full Text</a>
@@ -188,7 +316,7 @@ Malicious VSCode extension in Cursor IDE led to $500K crypto theft<a href="https
 A malicious VSCode-compatible extension named Solidity Language distributed via the Cursor AI IDE's Open VSX registry led to the theft of $500,000 in cryptocurrency. The extension impersonated a legitimate Ethereum smart contract syntax highlighter.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
