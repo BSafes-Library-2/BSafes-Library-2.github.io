@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+July 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DragonForce hackers claim responsibility for Belk data breach<a href="https://www.cybersecuritydive.com/news/dragonforce--claim-belk-data-breach/753067/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DragonForce, a ransomware group operating under a Ransomware-as-a-Service (RaaS) model, has claimed responsibility for a data breach targeting Belk, a North Carolina-based department store chain.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chicago-area school district notifies 11.5K people of data breach compromising student records, SSNs, finances, and medical info<a href="https://www.comparitech.com/news/chicago-area-school-district-notifies-11-5k-people-of-data-breach-compromising-student-records-ssns-finances-and-medical-info/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Indian Springs School District 109, located in Justice, Illinois, disclosed a ransomware attack that compromised the personal data of 11,542 individuals. The breach is attributed to the RansomHub ransomware group.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang to release data from Lorain County Auditor’s Office today<a href="https://www.comparitech.com/news/ransomware-gang-to-release-data-from-lorain-county-auditors-office-today/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lorain County Auditor’s Office in Ohio was targeted by the Global ransomware group in a cyberattack that occurred on May 27. Global RaaS)group, has claimed responsibility and alleges possession of private data, including bank account information.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 11, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

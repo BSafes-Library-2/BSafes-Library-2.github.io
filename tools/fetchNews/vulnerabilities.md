@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Jailbreak Grok-4 AI Within 48 Hours of Launch<a href="https://hackread.com/researchers-jailbreak-grok-4-ai-48-hours-of-launch/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers successfully jailbroke Elon Musk’s Grok-4 AI within 48 hours of its launch. By combining two advanced techniques—Echo Chamber and Crescendo—they bypassed the AI’s security filters and extracted instructions for creating dangerous items.
+</details>
+<div style="text-align: right" markdown="1">
+HackRead
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why skipping security prompting on Grok’s newest model is a huge mistake<a href="https://cyberscoop.com/grok4-security-flaws-prompts-splxai-research/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers identified critical vulnerabilities in Grok 4, particularly when deployed without system-level security prompting. The model was found to be highly susceptible to prompt injection attacks and capable of generating harmful content.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Scoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 12, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
