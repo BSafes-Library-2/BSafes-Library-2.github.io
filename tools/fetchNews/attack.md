@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+July 16, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actor targets end-of-life SonicWall SMA 100 appliances in ongoing campaign<a href="https://www.cybersecuritydive.com/news/threat-actor-targets-end-of-life-sonicwall-sma-100-appliances-in-ongoing-ca/753216/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated threat campaign by UNC6148 is actively targeting fully patched but end-of-life SonicWall Secure Mobile Access (SMA) 100 appliances. The targeted appliances are fully patched but have reached end-of-life status.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 9, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

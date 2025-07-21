@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat hunting case study: Lumma infostealer<a href="https://intel471.com/blog/threat-hunting-case-study-lumma-infostealer?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Between April and June 2024, Lumma's marketplace listed over 21,000 stolen data logs. In May 2025, a coordinated law enforcement operation led by Microsoft, DOJ, Europol, and J3C disrupted Lumma’s infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Intel 471
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 16, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

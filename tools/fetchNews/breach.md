@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+July 16, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adoption Agency Data Exposure Revealed Information About Children and Parents<a href="https://www.wired.com/story/adoption-agency-data-exposure-revealed-information-about-children-and-parents/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant data exposure incident involving the Gladney Center for Adoption has revealed over 1.1 million sensitive records related to children, birth parents, adoptive families, and caregivers.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 16, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Compumedics data breach leaks patient info from a dozen hospitals and clinics<a href="https://www.comparitech.com/news/compumedics-data-breach-leaks-patient-info-from-a-dozen-hospitals-and-clinics/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Compumedics and its subsidiary NeuroMedical Supplies suffered a ransomware attack in March 2025, compromising sensitive data of at least 320,404 individuals. The Van Helsing ransomware group claimed responsibility for the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Comparitech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 16, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK retail giant Co-op confirms hackers stole all 6.5 million customer records<a href="https://techcrunch.com/2025/07/16/uk-retail-giant-co-op-confirms-hackers-stole-all-6-5-million-customer-records/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK retail giant Co-op has confirmed a significant data breach that compromised the personal information of all 6.5 million of its customers. The breach is attributed to the cybercriminal group Scattered Spider.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 15, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

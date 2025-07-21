@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 16, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italian police dismantle Romanian ransomware gang targeting nonprofits, film companies<a href="https://therecord.media/italian-police-dismantle-romanian-ransomware-gang?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Italian authorities, in collaboration with French and Romanian law enforcement, have dismantled a Romanian ransomware group known as “Diskstation.” The group targeted victims in northern Italy, particularly in the Lombardy region.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 16, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police disrupt “Diskstation” ransomware gang attacking NAS devices<a href="https://www.bleepingcomputer.com/news/security/police-disrupt-diskstation-ransomware-gang-attacking-nas-devices/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An international law enforcement operation, codenamed 'Operation Elicius', dismantled the Romanian ransomware gang known as 'Diskstation'. The group encrypted the systems of several companies in the Lombardy region of Italy.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 8, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

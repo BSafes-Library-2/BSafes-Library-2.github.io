@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+July 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Boston clinic notifies 185,000+ people of data breach that compromised patients’ personal and medical info<a href="https://www.comparitech.com/news/boston-clinic-notifies-185000-people-of-data-breach-that-compromised-patients-personal-and-medical-info/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach exposed sensitive patient data, including names, medical record numbers, diagnoses, medications, treatment details, claims information, dates of birth, and addresses.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker steals $27 million in BigONE exchange crypto breach<a href="https://www.bleepingcomputer.com/news/security/hacker-steals-27-million-in-bigone-exchange-crypto-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant security breach at the BigONE cryptocurrency exchange has resulted in the theft of approximately $27 million in digital assets. The attack was identified as a supply-chain compromise targeting the platform’s hot wallet infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 16, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

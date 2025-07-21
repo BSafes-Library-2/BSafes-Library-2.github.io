@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Phobos and 8base ransomware decryptor recover files for free<a href="https://www.bleepingcomputer.com/news/security/new-phobos-ransomware-decryptor-lets-victims-recover-files-for-free/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japanese police released a free decryptor for Phobos and 8Base ransomware victims, enabling file recovery without paying a ransom. The decryptor was likely developed using intelligence obtained during a 2024 international law enforcement operation.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 11, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

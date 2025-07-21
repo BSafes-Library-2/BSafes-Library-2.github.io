@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2025
+July 19, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Phobos and 8base ransomware decryptor recover files for free<a href="https://www.bleepingcomputer.com/news/security/new-phobos-ransomware-decryptor-lets-victims-recover-files-for-free/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ New Phobos and 8base ransomware decryptor recover files for free<a href="https:/
 Japanese police released a free decryptor for Phobos and 8Base ransomware victims, enabling file recovery without paying a ransom. The decryptor was likely developed using intelligence obtained during a 2024 international law enforcement operation.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2025
+July 19, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Boston clinic notifies 185,000+ people of data breach that compromised patients’ personal and medical info<a href="https://www.comparitech.com/news/boston-clinic-notifies-185000-people-of-data-breach-that-compromised-patients-personal-and-medical-info/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Boston clinic notifies 185,000+ people of data breach that compromised patients�
 The breach exposed sensitive patient data, including names, medical record numbers, diagnoses, medications, treatment details, claims information, dates of birth, and addresses.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CompariTech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2025
+July 19, 2025 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Surge of Crypto-Jacking Hits Over 3,500 Websites<a href="https://gbhackers.com/new-surge-of-crypto-jacking/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ New Surge of Crypto-Jacking Hits Over 3,500 Websites<a href="https://gbhackers.c
 A new wave of crypto-jacking has infected over 3,500 websites using stealthy JavaScript miners. This campaign marks a resurgence of browser-based mining reminiscent of Coinhive but with advanced evasion techniques.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2025
+July 19, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A surveillance vendor was caught exploiting a new SS7 attack to track people’s phone locations<a href="https://techcrunch.com/2025/07/18/a-surveillance-vendor-was-caught-exploiting-a-new-ss7-attack-to-track-peoples-phone-locations/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ A surveillance vendor was caught exploiting a new SS7 attack to track people’s
 Researchers discovered a surveillance vendor exploiting a new SS7 attack to covertly track individuals' phone locations. The attack bypasses telecom security measures to access cell tower data, enabling geolocation without user consent.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Tech Crunch
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2025
+July 19, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK sanctions Russian cyber spies accused of facilitating murders<a href="https://therecord.media/uk-sanctions-gru-personnel-accused-murder-civilians-ukraine?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ UK sanctions Russian cyber spies accused of facilitating murders<a href="https:/
 The United Kingdom has imposed sanctions on 18 officers of Russia’s military intelligence agency, the GRU, for conducting cyber operations that facilitated targeted missile strikes and attempted assassinations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2025
+July 18, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LameHug malware uses AI LLM to craft Windows data-theft commands in real-time<a href="https://www.bleepingcomputer.com/news/security/lamehug-malware-uses-ai-llm-to-craft-windows-data-theft-commands-in-real-time/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ LameHug malware uses AI LLM to craft Windows data-theft commands in real-time<a 
 A newly discovered malware family named LameHug is leveraging artificial intelligence to dynamically generate Windows data-theft commands in real-time. LameHug is the first malware to integrate LLM for operational command generation.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2025
+July 18, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Teams voice calls abused to push Matanbuchus malware<a href="https://www.bleepingcomputer.com/news/security/microsoft-teams-voice-calls-abused-to-push-matanbuchus-malware/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Microsoft Teams voice calls abused to push Matanbuchus malware<a href="https://w
 Matanbuchus is a malware-as-a-service (MaaS) operation first advertised on the dark web in early 2021 for $2,500. It is designed to execute malicious payloads directly in memory, enabling it to evade traditional detection mechanisms.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2025
+July 18, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware fixes four ESXi zero-day bugs exploited at Pwn2Own Berlin<a href="https://www.bleepingcomputer.com/news/security/vmware-fixes-four-esxi-zero-day-bugs-exploited-at-pwn2own-berlin/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ VMware fixes four ESXi zero-day bugs exploited at Pwn2Own Berlin<a href="https:/
 VMware has patched four zero-day vulnerabilities in ESXi, Workstation, Fusion, and Tools. Three of these flaws (CVE-2025-41236, CVE-2025-41237, CVE-2025-41238) are critical, allowing guest-to-host code execution.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2025
+July 18, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat hunting case study: Lumma infostealer<a href="https://intel471.com/blog/threat-hunting-case-study-lumma-infostealer?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Threat hunting case study: Lumma infostealer<a href="https://intel471.com/blog/t
 Between April and June 2024, Lumma's marketplace listed over 21,000 stolen data logs. In May 2025, a coordinated law enforcement operation led by Microsoft, DOJ, Europol, and J3C disrupted Lumma’s infrastructure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Intel 471
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2025
+July 17, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker steals $27 million in BigONE exchange crypto breach<a href="https://www.bleepingcomputer.com/news/security/hacker-steals-27-million-in-bigone-exchange-crypto-breach/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Hacker steals $27 million in BigONE exchange crypto breach<a href="https://www.b
 A significant security breach at the BigONE cryptocurrency exchange has resulted in the theft of approximately $27 million in digital assets. The attack was identified as a supply-chain compromise targeting the platform’s hot wallet infrastructure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
