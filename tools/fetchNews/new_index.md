@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2025
+July 19, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Phobos and 8base ransomware decryptor recover files for free<a href="https://www.bleepingcomputer.com/news/security/new-phobos-ransomware-decryptor-lets-victims-recover-files-for-free/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japanese police released a free decryptor for Phobos and 8Base ransomware victims, enabling file recovery without paying a ransom. The decryptor was likely developed using intelligence obtained during a 2024 international law enforcement operation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Boston clinic notifies 185,000+ people of data breach that compromised patients’ personal and medical info<a href="https://www.comparitech.com/news/boston-clinic-notifies-185000-people-of-data-breach-that-compromised-patients-personal-and-medical-info/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach exposed sensitive patient data, including names, medical record numbers, diagnoses, medications, treatment details, claims information, dates of birth, and addresses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Surge of Crypto-Jacking Hits Over 3,500 Websites<a href="https://gbhackers.com/new-surge-of-crypto-jacking/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new wave of crypto-jacking has infected over 3,500 websites using stealthy JavaScript miners. This campaign marks a resurgence of browser-based mining reminiscent of Coinhive but with advanced evasion techniques.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A surveillance vendor was caught exploiting a new SS7 attack to track people’s phone locations<a href="https://techcrunch.com/2025/07/18/a-surveillance-vendor-was-caught-exploiting-a-new-ss7-attack-to-track-peoples-phone-locations/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a surveillance vendor exploiting a new SS7 attack to covertly track individuals' phone locations. The attack bypasses telecom security measures to access cell tower data, enabling geolocation without user consent.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK sanctions Russian cyber spies accused of facilitating murders<a href="https://therecord.media/uk-sanctions-gru-personnel-accused-murder-civilians-ukraine?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United Kingdom has imposed sanctions on 18 officers of Russia’s military intelligence agency, the GRU, for conducting cyber operations that facilitated targeted missile strikes and attempted assassinations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LameHug malware uses AI LLM to craft Windows data-theft commands in real-time<a href="https://www.bleepingcomputer.com/news/security/lamehug-malware-uses-ai-llm-to-craft-windows-data-theft-commands-in-real-time/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered malware family named LameHug is leveraging artificial intelligence to dynamically generate Windows data-theft commands in real-time. LameHug is the first malware to integrate LLM for operational command generation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Teams voice calls abused to push Matanbuchus malware<a href="https://www.bleepingcomputer.com/news/security/microsoft-teams-voice-calls-abused-to-push-matanbuchus-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Matanbuchus is a malware-as-a-service (MaaS) operation first advertised on the dark web in early 2021 for $2,500. It is designed to execute malicious payloads directly in memory, enabling it to evade traditional detection mechanisms.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixes four ESXi zero-day bugs exploited at Pwn2Own Berlin<a href="https://www.bleepingcomputer.com/news/security/vmware-fixes-four-esxi-zero-day-bugs-exploited-at-pwn2own-berlin/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has patched four zero-day vulnerabilities in ESXi, Workstation, Fusion, and Tools. Three of these flaws (CVE-2025-41236, CVE-2025-41237, CVE-2025-41238) are critical, allowing guest-to-host code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat hunting case study: Lumma infostealer<a href="https://intel471.com/blog/threat-hunting-case-study-lumma-infostealer?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Between April and June 2024, Lumma's marketplace listed over 21,000 stolen data logs. In May 2025, a coordinated law enforcement operation led by Microsoft, DOJ, Europol, and J3C disrupted Lumma’s infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker steals $27 million in BigONE exchange crypto breach<a href="https://www.bleepingcomputer.com/news/security/hacker-steals-27-million-in-bigone-exchange-crypto-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant security breach at the BigONE cryptocurrency exchange has resulted in the theft of approximately $27 million in digital assets. The attack was identified as a supply-chain compromise targeting the platform’s hot wallet infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Italian police dismantle Romanian ransomware gang targeting nonprofits, film companies<a href="https://therecord.media/italian-police-dismantle-romanian-ransomware-gang?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Italian police dismantle Romanian ransomware gang targeting nonprofits, film com
 Italian authorities, in collaboration with French and Romanian law enforcement, have dismantled a Romanian ransomware group known as “Diskstation.” The group targeted victims in northern Italy, particularly in the Lombardy region.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2025
+July 16, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actor targets end-of-life SonicWall SMA 100 appliances in ongoing campaign<a href="https://www.cybersecuritydive.com/news/threat-actor-targets-end-of-life-sonicwall-sma-100-appliances-in-ongoing-ca/753216/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Threat actor targets end-of-life SonicWall SMA 100 appliances in ongoing campaig
 A sophisticated threat campaign by UNC6148 is actively targeting fully patched but end-of-life SonicWall Secure Mobile Access (SMA) 100 appliances. The targeted appliances are fully patched but have reached end-of-life status.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2025
+July 16, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Adoption Agency Data Exposure Revealed Information About Children and Parents<a href="https://www.wired.com/story/adoption-agency-data-exposure-revealed-information-about-children-and-parents/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Adoption Agency Data Exposure Revealed Information About Children and Parents<a 
 A significant data exposure incident involving the Gladney Center for Adoption has revealed over 1.1 million sensitive records related to children, birth parents, adoptive families, and caregivers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Wired
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2025
+July 16, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Compumedics data breach leaks patient info from a dozen hospitals and clinics<a href="https://www.comparitech.com/news/compumedics-data-breach-leaks-patient-info-from-a-dozen-hospitals-and-clinics/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Compumedics data breach leaks patient info from a dozen hospitals and clinics<a 
 Compumedics and its subsidiary NeuroMedical Supplies suffered a ransomware attack in March 2025, compromising sensitive data of at least 320,404 individuals. The Van Helsing ransomware group claimed responsibility for the attack.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Comparitech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2025
+July 16, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK retail giant Co-op confirms hackers stole all 6.5 million customer records<a href="https://techcrunch.com/2025/07/16/uk-retail-giant-co-op-confirms-hackers-stole-all-6-5-million-customer-records/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ UK retail giant Co-op confirms hackers stole all 6.5 million customer records<a 
 UK retail giant Co-op has confirmed a significant data breach that compromised the personal information of all 6.5 million of its customers. The breach is attributed to the cybercriminal group Scattered Spider.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Tech Crunch
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2025
+July 16, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Police disrupt “Diskstation” ransomware gang attacking NAS devices<a href="https://www.bleepingcomputer.com/news/security/police-disrupt-diskstation-ransomware-gang-attacking-nas-devices/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Police disrupt “Diskstation” ransomware gang attacking NAS devices<a href="h
 An international law enforcement operation, codenamed 'Operation Elicius', dismantled the Romanian ransomware gang known as 'Diskstation'. The group encrypted the systems of several companies in the Lombardy region of Italy.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2025
+July 16, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meta fixes bug that could leak users’ AI prompts and generated content<a href="https://techcrunch.com/2025/07/15/meta-fixes-bug-that-could-leak-users-ai-prompts-and-generated-content/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Meta fixes bug that could leak users’ AI prompts and generated content<a href=
 The vulnerability posed a significant privacy risk, potentially exposing sensitive user-generated content. Although Meta found no evidence of abuse, the flaw could have allowed unauthorized access to private AI interactions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Tech Crunch
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2025
+July 16, 2025 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hyper-Volumetric DDoS Attacks Reach Record 7.3 Tbps, Targeting Key Global Sectors<a href="https://thehackernews.com/2025/07/hyper-volumetric-ddos-attacks-reach.html?&web_view=true"> Full Text</a>
@@ -156,7 +316,7 @@ Hyper-Volumetric DDoS Attacks Reach Record 7.3 Tbps, Targeting Key Global Sector
 A new wave of hyper-volumetric Distributed Denial-of-Service (DDoS) attacks has reached unprecedented levels, with a record-breaking peak of 7.3 terabits per second (Tbps) and 4.8 billion packets per second (Bpps).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
