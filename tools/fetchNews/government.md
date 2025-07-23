@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+July 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK sanctions Russian cyber spies accused of facilitating murders<a href="https://therecord.media/uk-sanctions-gru-personnel-accused-murder-civilians-ukraine?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United Kingdom has imposed sanctions on 18 officers of Russia’s military intelligence agency, the GRU, for conducting cyber operations that facilitated targeted missile strikes and attempted assassinations.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 11, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

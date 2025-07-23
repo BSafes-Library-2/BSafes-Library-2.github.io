@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+July 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Silicon Valley engineer admits theft of missile secrets<a href="https://www.theregister.com/2025/07/22/engineer_admits_trade_theft/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Silicon Valley-based engineer, Chenguang Gong, has pleaded guilty to stealing over 3,600 sensitive trade secret files from two US electronics manufacturers, including a military contractor.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 9, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

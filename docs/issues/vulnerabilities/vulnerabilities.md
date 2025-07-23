@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Windows Server KB5062557 causes cluster, VM issues<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-kb5062557-causes-cluster-vm-issues/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has confirmed that the Windows Server 2019 security update KB5062557 is causing significant issues with Cluster Services and VMs. Affected systems may experience repeated service restarts, node failures, and errors.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ExpressVPN bug leaked user IPs in Remote Desktop sessions<a href="https://www.bleepingcomputer.com/news/security/expressvpn-bug-leaked-user-ips-in-remote-desktop-sessions/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in ExpressVPN's Windows client caused RDP traffic to bypass the VPN tunnel, exposing users' real IP addresses. The issue was active from version 12.97 to 12.101.0.2-beta and has since been patched in version 12.101.0.45.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ISC BIND security advisory (AV25-440)<a href="https://www.cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av25-440?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On July 16, 2025, the Internet Systems Consortium (ISC) published security advisories addressing two vulnerabilities in ISC BIND 9. These issues affect multiple versions of BIND 9, and users are strongly encouraged to apply the necessary updates.
+</details>
+<div style="text-align: right" markdown="1">
+Government of Canada
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 18, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

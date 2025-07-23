@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+July 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MuddyWater deploys new DCHSpy variants amid Iran-Israel conflict<a href="https://securityaffairs.com/180220/apt/muddywater-deploys-new-dchspy-variants-amid-iran-israel-conflict.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran-linked APT group MuddyWater (also known as SeedWorm, TEMP.Zagros, and Static Kitten) has deployed new variants of the DCHSpy Android spyware amid the ongoing Iran-Israel conflict.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 10, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

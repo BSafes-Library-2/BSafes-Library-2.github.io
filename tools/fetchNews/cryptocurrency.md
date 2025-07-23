@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+July 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Surge of Crypto-Jacking Hits Over 3,500 Websites<a href="https://gbhackers.com/new-surge-of-crypto-jacking/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new wave of crypto-jacking has infected over 3,500 websites using stealthy JavaScript miners. This campaign marks a resurgence of browser-based mining reminiscent of Coinhive but with advanced evasion techniques.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 11, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

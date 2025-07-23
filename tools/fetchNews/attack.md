@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+July 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A surveillance vendor was caught exploiting a new SS7 attack to track people’s phone locations<a href="https://techcrunch.com/2025/07/18/a-surveillance-vendor-was-caught-exploiting-a-new-ss7-attack-to-track-peoples-phone-locations/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a surveillance vendor exploiting a new SS7 attack to covertly track individuals' phone locations. The attack bypasses telecom security measures to access cell tower data, enabling geolocation without user consent.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 16, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

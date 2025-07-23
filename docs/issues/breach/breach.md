@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+July 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers hit Dell product demo platform, but impact is limited<a href="https://therecord.media/hackers-hit-dell-product-demo-platform-limited-impact?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dell Technologies has confirmed a security breach involving its Solution Center, a platform used for product demonstrations and proof-of-concept testing. The WorldLeaks ransomware group has claimed responsibility.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+After website hack, Arizona election officials unload on Trump’s CISA<a href="https://cyberscoop.com/arizona-secretary-of-state-website-hack-candidate-portal-criticizes-cisa/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Arizona election officials reported a cyberattack on the state’s online candidate portal, where attacker(s) replaced candidate photos with images of the late Iranian Ayatollah Ruhollah Khomeini.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Scoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
