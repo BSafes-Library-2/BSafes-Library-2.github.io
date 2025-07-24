@@ -34,7 +34,169 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2025
+July 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+France: New Data Breach Could Affect 340,000 Jobseekers<a href="https://www.infosecurity-magazine.com/news/france-data-breach-jobseekers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+France Travail, the French employment agency, experienced a data breach affecting approximately 340,000 jobseekers. The initial access vector was an infostealer malware that compromised a user account associated with a training organization.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ports are getting smarter and more hackable<a href="https://www.helpnetsecurity.com/2025/07/23/ccdcoe-maritime-port-cyber-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Maritime ports, which handle approximately 80% of global trade, are increasingly becoming targets of sophisticated cyberattacks. The most commonly affected systems include access control systems and vessel traffic management systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Groups Weaponize RMM Tools to Infiltrate Networks and Exfiltrate Data<a href="https://gbhackers.com/ransomware-groups-weaponize-rmm-tools/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware groups are increasingly weaponizing Remote Monitoring and Management (RMM) tools—originally intended for legitimate IT operations—to conduct sophisticated cyber intrusions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing campaign targets U.S. Department of Education’s G5 portal<a href="https://www.helpnetsecurity.com/2025/07/23/us-education-department-phishing-g5/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated phishing campaign is targeting users of the U.S. Department of Education’s G5 portal, a critical platform used by educational institutions and vendors to manage federal education grants and funding.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Fashion Label SABO’s 3.5M Customer Records Exposed Online<a href="https://hackread.com/global-fashion-label-sabo-customer-records-leaked/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant data breach has impacted global fashion brand SABO, exposing over 3.5 million customer records due to a misconfigured and unsecured database. The breach poses serious risks of phishing, social engineering, and financial fraud.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ABB security advisory (AV25-441)<a href="https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av25-441?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ABB has issued a security advisory addressing a high-severity vulnerability (CVE-2025-7705) in its Switch Actuator 4 DU and Switch actuator, door/light 4 DU products. The bug, categorized as "Active Debug Code," affects all versions of these devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang says it hacked PC maker iBUYPOWER<a href="https://www.comparitech.com/news/ransomware-gang-says-it-hacked-pc-maker-ibuypower/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware group known as Lynx has claimed responsibility for a cyberattack on gaming PC manufacturer iBUYPOWER and its sister brand HYTE. The attack disrupted several internal systems and has been listed on Lynx’s data leak site.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophos security advisory (AV25-443)<a href="https://www.cyber.gc.ca/en/alerts-advisories/sophos-security-advisory-av25-443?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sophos has released a security advisory (AV25-443) addressing multiple critical vulnerabilities in its firewall products. 
+Sophos Firewall – version v21.0 GA (21.0.0) and prior
+Sophos Firewall – version v21.5 GA (21.5.0) and prior
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft SharePoint zero-day attacks pinned on China-linked ‘Typhoon’ threat groups<a href="https://cyberscoop.com/microsoft-sharepoint-zero-days-china-typhoon/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two critical zero-day vulnerabilities in Microsoft SharePoint—CVE-2025-53770 and CVE-2025-53771—are being actively exploited by China-linked threat actors Linen Typhoon, Violet Typhoon, and Storm-2603.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Uncovering a Stealthy WordPress Backdoor in mu-plugins<a href="https://blog.sucuri.net/2025/07/uncovering-a-stealthy-wordpress-backdoor-in-mu-plugins.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A stealthy backdoor has been discovered in WordPress installations, specifically targeting the mu-plugins directory. This malware leverages the must-use plugin mechanism to ensure automatic activation and persistence.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2025 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Silicon Valley engineer admits theft of missile secrets<a href="https://www.theregister.com/2025/07/22/engineer_admits_trade_theft/?&web_view=true"> Full Text</a>
@@ -44,13 +206,13 @@ Silicon Valley engineer admits theft of missile secrets<a href="https://www.ther
 A Silicon Valley-based engineer, Chenguang Gong, has pleaded guilty to stealing over 3,600 sensitive trade secret files from two US electronics manufacturers, including a military contractor.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2025
+July 22, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Startup takes personal data stolen by malware and sells it on to other companies<a href="https://www.malwarebytes.com/blog/news/2025/07/startup-takes-personal-data-stolen-by-malware-and-sells-it-on-to-other-companies?&web_view=true"> Full Text</a>
@@ -60,13 +222,13 @@ Startup takes personal data stolen by malware and sells it on to other companies
 Farnsworth Intelligence is offering access to data stolen by infostealer malware, claiming legality by sourcing it via a third-party vendor. The $50 entry-level version operates on a credit-based model.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Malware Bytes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2025
+July 22, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Windows Server KB5062557 causes cluster, VM issues<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-kb5062557-causes-cluster-vm-issues/?&web_view=true"> Full Text</a>
@@ -76,13 +238,13 @@ Microsoft: Windows Server KB5062557 causes cluster, VM issues<a href="https://ww
 Microsoft has confirmed that the Windows Server 2019 security update KB5062557 is causing significant issues with Cluster Services and VMs. Affected systems may experience repeated service restarts, node failures, and errors.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2025
+July 22, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ExpressVPN bug leaked user IPs in Remote Desktop sessions<a href="https://www.bleepingcomputer.com/news/security/expressvpn-bug-leaked-user-ips-in-remote-desktop-sessions/?&web_view=true"> Full Text</a>
@@ -92,13 +254,13 @@ ExpressVPN bug leaked user IPs in Remote Desktop sessions<a href="https://www.bl
 A vulnerability in ExpressVPN's Windows client caused RDP traffic to bypass the VPN tunnel, exposing users' real IP addresses. The issue was active from version 12.97 to 12.101.0.2-beta and has since been patched in version 12.101.0.45.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2025
+July 22, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers hit Dell product demo platform, but impact is limited<a href="https://therecord.media/hackers-hit-dell-product-demo-platform-limited-impact?&web_view=true"> Full Text</a>
@@ -108,13 +270,13 @@ Hackers hit Dell product demo platform, but impact is limited<a href="https://th
 Dell Technologies has confirmed a security breach involving its Solution Center, a platform used for product demonstrations and proof-of-concept testing. The WorldLeaks ransomware group has claimed responsibility.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2025
+July 22, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ISC BIND security advisory (AV25-440)<a href="https://www.cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av25-440?&web_view=true"> Full Text</a>
@@ -124,13 +286,13 @@ ISC BIND security advisory (AV25-440)<a href="https://www.cyber.gc.ca/en/alerts-
 On July 16, 2025, the Internet Systems Consortium (ISC) published security advisories addressing two vulnerabilities in ISC BIND 9. These issues affect multiple versions of BIND 9, and users are strongly encouraged to apply the necessary updates.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Government of Canada
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2025
+July 22, 2025 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MuddyWater deploys new DCHSpy variants amid Iran-Israel conflict<a href="https://securityaffairs.com/180220/apt/muddywater-deploys-new-dchspy-variants-amid-iran-israel-conflict.html?&web_view=true"> Full Text</a>
@@ -140,13 +302,13 @@ MuddyWater deploys new DCHSpy variants amid Iran-Israel conflict<a href="https:/
 Iran-linked APT group MuddyWater (also known as SeedWorm, TEMP.Zagros, and Static Kitten) has deployed new variants of the DCHSpy Android spyware amid the ongoing Iran-Israel conflict.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2025
+July 22, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 After website hack, Arizona election officials unload on Trump’s CISA<a href="https://cyberscoop.com/arizona-secretary-of-state-website-hack-candidate-portal-criticizes-cisa/?&web_view=true"> Full Text</a>
@@ -156,13 +318,13 @@ After website hack, Arizona election officials unload on Trump’s CISA<a href="
 Arizona election officials reported a cyberattack on the state’s online candidate portal, where attacker(s) replaced candidate photos with images of the late Iranian Ayatollah Ruhollah Khomeini.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyber Scoop
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2025
+July 21, 2025 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia Linked to New Malware Targeting Email Accounts for Espionage<a href="https://www.infosecurity-magazine.com/news/new-malware-targeting-email/?&web_view=true"> Full Text</a>
@@ -172,13 +334,13 @@ Russia Linked to New Malware Targeting Email Accounts for Espionage<a href="http
 Russian military intelligence (GRU)-linked threat actors have been using previously unknown malicious software to enable espionage against victim email accounts, the UK’s National Cyber Security Centre (NCSC) has reported.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2025
+July 21, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A surveillance vendor was caught exploiting a new SS7 attack to track people’s phone locations<a href="https://techcrunch.com/2025/07/18/a-surveillance-vendor-was-caught-exploiting-a-new-ss7-attack-to-track-peoples-phone-locations/?q&web_view=true"> Full Text</a>
@@ -188,7 +350,7 @@ A surveillance vendor was caught exploiting a new SS7 attack to track people’s
 Researchers at Enea said that they have observed an unnamed surveillance vendor exploiting the new bypass attack as far back as late 2024 to obtain the locations of people’s phones without their knowledge.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Tech Crunch
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
