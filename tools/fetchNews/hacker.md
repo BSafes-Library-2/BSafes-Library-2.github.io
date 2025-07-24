@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+July 21, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia Linked to New Malware Targeting Email Accounts for Espionage<a href="https://www.infosecurity-magazine.com/news/new-malware-targeting-email/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian military intelligence (GRU)-linked threat actors have been using previously unknown malicious software to enable espionage against victim email accounts, the UK’s National Cyber Security Centre (NCSC) has reported.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 27, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,36 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 23, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ABB security advisory (AV25-441)<a href="https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av25-441?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ABB has issued a security advisory addressing a high-severity vulnerability (CVE-2025-7705) in its Switch Actuator 4 DU and Switch actuator, door/light 4 DU products. The bug, categorized as "Active Debug Code," affects all versions of these devices.
+</details>
+<div style="text-align: right" markdown="1">
+Government of Canada
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 23, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophos security advisory (AV25-443)<a href="https://www.cyber.gc.ca/en/alerts-advisories/sophos-security-advisory-av25-443?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sophos has released a security advisory (AV25-443) addressing multiple critical vulnerabilities in its firewall products. 
+Sophos Firewall – version v21.0 GA (21.0.0) and prior
+Sophos Firewall – version v21.5 GA (21.5.0) and prior
+</details>
+<div style="text-align: right" markdown="1">
+Government of Canada
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 22, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+July 23, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft SharePoint zero-day attacks pinned on China-linked ‘Typhoon’ threat groups<a href="https://cyberscoop.com/microsoft-sharepoint-zero-days-china-typhoon/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two critical zero-day vulnerabilities in Microsoft SharePoint—CVE-2025-53770 and CVE-2025-53771—are being actively exploited by China-linked threat actors Linen Typhoon, Violet Typhoon, and Storm-2603.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Scoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

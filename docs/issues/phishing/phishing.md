@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 23, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing campaign targets U.S. Department of Education’s G5 portal<a href="https://www.helpnetsecurity.com/2025/07/23/us-education-department-phishing-g5/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated phishing campaign is targeting users of the U.S. Department of Education’s G5 portal, a critical platform used by educational institutions and vendors to manage federal education grants and funding.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 15, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Startup takes personal data stolen by malware and sells it on to other companies<a href="https://www.malwarebytes.com/blog/news/2025/07/startup-takes-personal-data-stolen-by-malware-and-sells-it-on-to-other-companies?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Farnsworth Intelligence is offering access to data stolen by infostealer malware, claiming legality by sourcing it via a third-party vendor. The $50 entry-level version operates on a credit-based model.
+</details>
+<div style="text-align: right" markdown="1">
+Malware Bytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 18, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

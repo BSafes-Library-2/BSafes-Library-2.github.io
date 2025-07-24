@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+July 23, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ports are getting smarter and more hackable<a href="https://www.helpnetsecurity.com/2025/07/23/ccdcoe-maritime-port-cyber-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Maritime ports, which handle approximately 80% of global trade, are increasingly becoming targets of sophisticated cyberattacks. The most commonly affected systems include access control systems and vessel traffic management systems.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 7, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
