@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+July 23, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+France: New Data Breach Could Affect 340,000 Jobseekers<a href="https://www.infosecurity-magazine.com/news/france-data-breach-jobseekers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+France Travail, the French employment agency, experienced a data breach affecting approximately 340,000 jobseekers. The initial access vector was an infostealer malware that compromised a user account associated with a training organization.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 23, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Fashion Label SABO’s 3.5M Customer Records Exposed Online<a href="https://hackread.com/global-fashion-label-sabo-customer-records-leaked/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant data breach has impacted global fashion brand SABO, exposing over 3.5 million customer records due to a misconfigured and unsecured database. The breach poses serious risks of phishing, social engineering, and financial fraud.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 23, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang says it hacked PC maker iBUYPOWER<a href="https://www.comparitech.com/news/ransomware-gang-says-it-hacked-pc-maker-ibuypower/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware group known as Lynx has claimed responsibility for a cyberattack on gaming PC manufacturer iBUYPOWER and its sister brand HYTE. The attack disrupted several internal systems and has been listed on Lynx’s data leak site.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 22, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

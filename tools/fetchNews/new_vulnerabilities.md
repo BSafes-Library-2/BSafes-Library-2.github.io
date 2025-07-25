@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sonicwall fixes critical flaw in SMA appliances, urges customers to check for compromise (CVE-2025-40599)<a href="https://www.helpnetsecurity.com/2025/07/24/sonicwall-fixes-critical-flaw-sma-appliances-urges-customers-to-check-for-compromise-cve-2025-40599/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall has released a critical security update addressing CVE-2025-40599, a high-severity vulnerability in its SMA 100 series appliances. The flaw allows remote attackers with administrative privileges to upload arbitrary files, leading to RCE.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 23, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

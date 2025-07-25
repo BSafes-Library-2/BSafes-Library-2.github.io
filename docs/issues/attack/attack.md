@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+July 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft says Warlock ransomware deployed in SharePoint attacks as governments scramble<a href="https://therecord.media/microsoft-says-warlock-ransomware-deployed-in-sharepoint-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in Microsoft SharePoint, tracked as CVE-2025-49706, is being actively exploited by the China-based threat actor Storm-2603 to deploy Warlock ransomware. This campaign has impacted over 400 organizations globally.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Storm-2603 Exploits SharePoint Flaws to Deploy Warlock Ransomware on Unpatched Systems<a href="https://thehackernews.com/2025/07/storm-2603-exploits-sharepoint-flaws-to.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has revealed that one of the threat actors behind the active exploitation of SharePoint flaws is deploying Warlock ransomware on targeted systems. The attack chains entail the exploitation of CVE-2025-49706 and CVE-2025-49704.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 23, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
