@@ -1,4 +1,4 @@
-
+---
 layout: default
 title: Welcome 
 nav_order: 1
@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2025
+July 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker sneaks infostealer malware into early access Steam game<a href="https://www.bleepingcomputer.com/news/security/hacker-sneaks-infostealer-malware-into-early-access-steam-game/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Aether Forge Studios' early access game "Chemia" on Steam has been compromised by the threat actor EncryptHub (aka Larva-208) to distribute info-stealing malware. Despite the breach, the game remains available on Steam.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft says Warlock ransomware deployed in SharePoint attacks as governments scramble<a href="https://therecord.media/microsoft-says-warlock-ransomware-deployed-in-sharepoint-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in Microsoft SharePoint, tracked as CVE-2025-49706, is being actively exploited by the China-based threat actor Storm-2603 to deploy Warlock ransomware. This campaign has impacted over 400 organizations globally.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CastleLoader Malware Infects 469 Devices Using Fake GitHub Repos and ClickFix Phishing<a href="https://thehackernews.com/2025/07/castleloader-malware-infects-469.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CastleLoader is a newly identified malware loader actively used in campaigns to distribute a range of information stealers and remote access trojans (RATs), including DeerStealer, RedLine, StealC, NetSupport RAT, SectopRAT, and Hijack Loader.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercrime forum Leak Zone publicly exposed its users’ IP addresses<a href="https://techcrunch.com/2025/07/24/cybercrime-forum-leak-zone-publicly-exposed-its-users-ip-addresses/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant data exposure incident has been identified involving the cybercrime forum Leak Zone, which inadvertently leaked the IP addresses and login timestamps of its users due to a misconfigured Elasticsearch database.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coyote malware abuses Microsoft UIA to hunt banking creds<a href="https://www.theregister.com/2025/07/24/coyote_malware_microsoft_uia/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new variant of the Coyote banking trojan has emerged as the first known malware to exploit Microsoft's UI Automation framework for credential theft. This enables the malware to extract banking credentials from users.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sonicwall fixes critical flaw in SMA appliances, urges customers to check for compromise (CVE-2025-40599)<a href="https://www.helpnetsecurity.com/2025/07/24/sonicwall-fixes-critical-flaw-sma-appliances-urges-customers-to-check-for-compromise-cve-2025-40599/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall has released a critical security update addressing CVE-2025-40599, a high-severity vulnerability in its SMA 100 series appliances. The flaw allows remote attackers with administrative privileges to upload arbitrary files, leading to RCE.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Storm-2603 Exploits SharePoint Flaws to Deploy Warlock Ransomware on Unpatched Systems<a href="https://thehackernews.com/2025/07/storm-2603-exploits-sharepoint-flaws-to.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has revealed that one of the threat actors behind the active exploitation of SharePoint flaws is deploying Warlock ransomware on targeted systems. The attack chains entail the exploitation of CVE-2025-49706 and CVE-2025-49704.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. CISA adds CrushFTP, Google Chromium, and SysAid flaws to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/180293/hacking/u-s-cisa-adds-crushftp-google-chromium-and-sysaid-flaws-to-its-known-exploited-vulnerabilities-catalog.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA has added four actively exploited vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog. These include critical flaws in CrushFTP, Google Chromium, and SysAid On-Prem software.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Receipt Generators Fuel Rise in Online Fraud<a href="https://www.infosecurity-magazine.com/news/fake-receipt-generators-fuel??&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A growing fraud-as-a-service ecosystem is leveraging fake receipt generators to facilitate online scams, particularly on resale platforms. MaisonReceipts and Receiptified.com, enable users to create highly realistic counterfeit receipts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Suspected XSS Forum Admin Arrested in Ukraine<a href="https://www.infosecurity-magazine.com/news/suspected-xss-forum-admin-arrested/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A suspected administrator of the notorious Russian-language cybercrime forum XSS was arrested in Ukraine on July 22, 2025. The operation was a joint effort between Ukrainian authorities, French police, and Europol.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 23, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 France: New Data Breach Could Affect 340,000 Jobseekers<a href="https://www.infosecurity-magazine.com/news/france-data-breach-jobseekers/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ France: New Data Breach Could Affect 340,000 Jobseekers<a href="https://www.info
 France Travail, the French employment agency, experienced a data breach affecting approximately 340,000 jobseekers. The initial access vector was an infostealer malware that compromised a user account associated with a training organization.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2025
+July 23, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ports are getting smarter and more hackable<a href="https://www.helpnetsecurity.com/2025/07/23/ccdcoe-maritime-port-cyber-attacks/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Ports are getting smarter and more hackable<a href="https://www.helpnetsecurity.
 Maritime ports, which handle approximately 80% of global trade, are increasingly becoming targets of sophisticated cyberattacks. The most commonly affected systems include access control systems and vessel traffic management systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2025
+July 23, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Groups Weaponize RMM Tools to Infiltrate Networks and Exfiltrate Data<a href="https://gbhackers.com/ransomware-groups-weaponize-rmm-tools/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Ransomware Groups Weaponize RMM Tools to Infiltrate Networks and Exfiltrate Data
 Ransomware groups are increasingly weaponizing Remote Monitoring and Management (RMM) tools—originally intended for legitimate IT operations—to conduct sophisticated cyber intrusions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2025
+July 23, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing campaign targets U.S. Department of Education’s G5 portal<a href="https://www.helpnetsecurity.com/2025/07/23/us-education-department-phishing-g5/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Phishing campaign targets U.S. Department of Education’s G5 portal<a href="htt
 A sophisticated phishing campaign is targeting users of the U.S. Department of Education’s G5 portal, a critical platform used by educational institutions and vendors to manage federal education grants and funding.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2025
+July 23, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Global Fashion Label SABO’s 3.5M Customer Records Exposed Online<a href="https://hackread.com/global-fashion-label-sabo-customer-records-leaked/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Global Fashion Label SABO’s 3.5M Customer Records Exposed Online<a href="https
 A significant data breach has impacted global fashion brand SABO, exposing over 3.5 million customer records due to a misconfigured and unsecured database. The breach poses serious risks of phishing, social engineering, and financial fraud.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2025
+July 23, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ABB security advisory (AV25-441)<a href="https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av25-441?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ ABB security advisory (AV25-441)<a href="https://www.cyber.gc.ca/en/alerts-advis
 ABB has issued a security advisory addressing a high-severity vulnerability (CVE-2025-7705) in its Switch Actuator 4 DU and Switch actuator, door/light 4 DU products. The bug, categorized as "Active Debug Code," affects all versions of these devices.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Government of Canada
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2025
+July 23, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gang says it hacked PC maker iBUYPOWER<a href="https://www.comparitech.com/news/ransomware-gang-says-it-hacked-pc-maker-ibuypower/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Ransomware gang says it hacked PC maker iBUYPOWER<a href="https://www.comparitec
 A ransomware group known as Lynx has claimed responsibility for a cyberattack on gaming PC manufacturer iBUYPOWER and its sister brand HYTE. The attack disrupted several internal systems and has been listed on Lynx’s data leak site.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CompariTech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2025
+July 23, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sophos security advisory (AV25-443)<a href="https://www.cyber.gc.ca/en/alerts-advisories/sophos-security-advisory-av25-443?&web_view=true"> Full Text</a>
@@ -158,13 +318,13 @@ Sophos Firewall – version v21.0 GA (21.0.0) and prior
 Sophos Firewall – version v21.5 GA (21.5.0) and prior
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Government of Canada
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2025
+July 23, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft SharePoint zero-day attacks pinned on China-linked ‘Typhoon’ threat groups<a href="https://cyberscoop.com/microsoft-sharepoint-zero-days-china-typhoon/?&web_view=true"> Full Text</a>
@@ -174,13 +334,13 @@ Microsoft SharePoint zero-day attacks pinned on China-linked ‘Typhoon’ threa
 Two critical zero-day vulnerabilities in Microsoft SharePoint—CVE-2025-53770 and CVE-2025-53771—are being actively exploited by China-linked threat actors Linen Typhoon, Violet Typhoon, and Storm-2603.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyber Scoop
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2025
+July 23, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Uncovering a Stealthy WordPress Backdoor in mu-plugins<a href="https://blog.sucuri.net/2025/07/uncovering-a-stealthy-wordpress-backdoor-in-mu-plugins.html?&web_view=true"> Full Text</a>
@@ -190,7 +350,7 @@ Uncovering a Stealthy WordPress Backdoor in mu-plugins<a href="https://blog.sucu
 A stealthy backdoor has been discovered in WordPress installations, specifically targeting the mu-plugins directory. This malware leverages the must-use plugin mechanism to ensure automatic activation and persistence.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sucuri
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
