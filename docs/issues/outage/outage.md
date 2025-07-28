@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+July 25, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Morgan County 911 emergency services confirms ransomware attack via Qilin<a href="https://www.comparitech.com/news/morgan-county-911-emergency-services-confirms-ransomware-attack-via-qilin/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Morgan County 911, based in Decatur, Alabama, confirmed a ransomware attack by the Qilin group in May 2025. While administrative systems were disrupted, critical dispatch operations remained unaffected.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 7, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

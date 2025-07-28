@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+July 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Treasury sanctions North Koreans involved in IT-worker schemes<a href="https://www.cybersecuritydive.com/news/north-korea-remote-it-worker-sanctions/754087/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of the Treasury has sanctioned three North Korean nationals and their front company, Korea Sobaeksu Trading Co., for orchestrating remote IT-worker schemes that generate revenue for North Korea’s Munitions Industry Department.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 22, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Patchwork Targets Turkish Defense Firms with Spear-Phishing Using Malicious LNK Files<a href="https://thehackernews.com/2025/07/patchwork-targets-turkish-defense-firms.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Patchwork has been attributed to a new spear-phishing campaign targeting Turkish defense contractors with the goal of gathering strategic intelligence. The campaign employs a five-stage execution chain.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 23, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

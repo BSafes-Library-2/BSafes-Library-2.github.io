@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 25, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bloomberg Comdb2 null pointer dereference and denial-of-service vulnerabilities<a href="https://blog.talosintelligence.com/bloomberg-comdb2-null-pointer-dereference-and-denial-of-service-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers identified five critical vulnerabilities in Bloomberg’s Comdb2 version 8.1, an open-source clustered database system. These flaws can be exploited remotely to cause denial-of-service (DoS) conditions via specially crafted TCP packets.
+</details>
+<div style="text-align: right" markdown="1">
+Talos Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 25, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tridium Niagara Framework Flaws Expose Sensitive Network Data<a href="https://gbhackers.com/tridium-niagara-framework-flaws/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers uncovered 13 critical vulnerabilities in the Niagara Framework, developed by Tridium. These flaws, consolidated into 10 CVEs, affect building management, industrial automation, and smart infrastructure systems globally.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 24, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

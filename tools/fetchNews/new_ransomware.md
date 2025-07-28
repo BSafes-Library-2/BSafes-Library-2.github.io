@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Use Weaponized .HTA Files to Infect Victims with Red Ransomware<a href="https://gbhackers.com/hackers-use-weaponized-hta-files-to-infect-victims/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are using weaponized .HTA files to deploy the Epsilon Red ransomware, leveraging ActiveX and Windows Command Shell for stealthy payload delivery. The malware employs social engineering tactics.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Gunra Ransomware Targets Windows Systems, Encrypts Files, and Erases Shadow Copies<a href="https://gbhackers.com/new-gunra-ransomware-targets-windows-systems/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gunra ransomware, active since April 2025, targets Windows systems and uses advanced tactics, including rapid file encryption and shadow copy deletion, to maximize impact. The ransomware shows similarities to Conti ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 23, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

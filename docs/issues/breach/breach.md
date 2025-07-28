@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+July 25, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IR35 advisor Qdos confirms a data leak to techie clients<a href="https://www.theregister.com/2025/07/25/ir35_advisor_qdos_confirms_data_breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Qdos, a UK-based business insurance and employment status specialist serving tech contractors, has confirmed a data breach involving unauthorized access to one of its web applications, mygoqdos.com.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 25, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Toptal caught serving malware after GitHub compromise<a href="https://www.theregister.com/2025/07/25/toptal_malware_attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent supply chain attack compromised Toptal’s GitHub account, resulting in the distribution of malware through its Picasso developer toolbox. The attack affected over 5,000 downloads and involved 10 npm packages.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 24, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
