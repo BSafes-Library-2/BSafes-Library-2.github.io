@@ -34,7 +34,135 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2025
+July 28, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aeroflot blames IT issues for flight cancellations<a href="https://www.theregister.com/2025/07/28/aeroflot_system_compromise/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia’s largest airline, Aeroflot, experienced a major IT disruption on July 28, 2025, resulting in the cancellation of 49 flights (42 initially, with 7 more added later) and delays ranging from 25 minutes to nearly three hours.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Naval Group Denies Hack Claims, Alleges "Reputational Attack"<a href="https://www.infosecurity-magazine.com/news/naval-group-denies-hack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity vulnerability, tracked as CVE-2023-2533, has been identified in PaperCut's NG/MF product. This CSRF flaw could allow attackers to alter security settings or execute arbitrary code under specific conditions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI alerts tie together threats of cybercrime, physical violence from The Com<a href="https://cyberscoop.com/fbi-warning-the-com-cybercrime-extortion-violence/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has issued a series of public service announcements (PSAs) warning about “The Com,” a rapidly growing and decentralized cybercriminal network composed primarily of minors and young adults aged 11 to 25.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massachusetts electric utility notifies hundreds of data breach that leaked SSNs and other info<a href="https://www.comparitech.com/news/massachusetts-electric-utility-notifies-hundreds-of-data-breach-that-leaked-ssns-and-other-info/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Massachusetts Municipal Wholesale Electric Company (MMWEC) disclosed a ransomware attack affecting at least 514 individuals, compromising SSNs, taxpayer IDs, and financial data. The BlackSuit gang claimed responsibility.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Muddled Libra: From Social Engineering to Enterprise-Scale Disruption<a href="https://www.paloaltonetworks.com/blog/2025/07/muddled-libra-social-engineering-enterprise-scale-disruption/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Muddled Libra, also known as Scattered Spider, has evolved from a small group of cryptocurrency-focused attackers into a highly organized, modular cybercrime syndicate capable of enterprise-scale disruption.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Arizona Woman Jailed for Helping North Korea in $17M IT Job Scam<a href="https://hackread.com/arizona-woman-jailed-help-north-korea-it-job-scam/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operation involved aiding North Korean IT workers in impersonating US residents to secure remote jobs at over 300 American companies, posing a significant threat to national security and corporate integrity.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Allianz Life says ‘majority’ of customers’ personal data stolen in cyberattack<a href="https://techcrunch.com/2025/07/26/allianz-life-says-majority-of-customers-personal-data-stolen-in-cyberattack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. insurance giant Allianz Life has confirmed a significant data breach that compromised the personal information of the majority of its 1.4 million customers, financial professionals, and select employees.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Post SMTP plugin flaw exposes 200K WordPress sites to hijacking attacks<a href="https://www.bleepingcomputer.com/news/security/post-smtp-plugin-flaw-exposes-200k-wordpress-sites-to-hijacking-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in the Post SMTP plugin for WordPress (CVE-2025-24000) exposes over 200,000 websites to potential account hijacking. The plugin has over 400,000 active installations, making the impact of this vulnerability significant.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Use Weaponized .HTA Files to Infect Victims with Red Ransomware<a href="https://gbhackers.com/hackers-use-weaponized-hta-files-to-infect-victims/?&web_view=true"> Full Text</a>
@@ -44,13 +172,13 @@ Hackers Use Weaponized .HTA Files to Infect Victims with Red Ransomware<a href="
 Hackers are using weaponized .HTA files to deploy the Epsilon Red ransomware, leveraging ActiveX and Windows Command Shell for stealthy payload delivery. The malware employs social engineering tactics.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2025
+July 26, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Gunra Ransomware Targets Windows Systems, Encrypts Files, and Erases Shadow Copies<a href="https://gbhackers.com/new-gunra-ransomware-targets-windows-systems/?&web_view=true"> Full Text</a>
@@ -60,13 +188,13 @@ New Gunra Ransomware Targets Windows Systems, Encrypts Files, and Erases Shadow 
 Gunra ransomware, active since April 2025, targets Windows systems and uses advanced tactics, including rapid file encryption and shadow copy deletion, to maximize impact. The ransomware shows similarities to Conti ransomware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2025
+July 26, 2025 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Treasury sanctions North Koreans involved in IT-worker schemes<a href="https://www.cybersecuritydive.com/news/north-korea-remote-it-worker-sanctions/754087/?&web_view=true"> Full Text</a>
@@ -76,13 +204,13 @@ Treasury sanctions North Koreans involved in IT-worker schemes<a href="https://w
 The U.S. Department of the Treasury has sanctioned three North Korean nationals and their front company, Korea Sobaeksu Trading Co., for orchestrating remote IT-worker schemes that generate revenue for North Korea’s Munitions Industry Department.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2025
+July 26, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Patchwork Targets Turkish Defense Firms with Spear-Phishing Using Malicious LNK Files<a href="https://thehackernews.com/2025/07/patchwork-targets-turkish-defense-firms.html?&web_view=true"> Full Text</a>
@@ -92,13 +220,13 @@ Patchwork Targets Turkish Defense Firms with Spear-Phishing Using Malicious LNK 
 Patchwork has been attributed to a new spear-phishing campaign targeting Turkish defense contractors with the goal of gathering strategic intelligence. The campaign employs a five-stage execution chain.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2025
+July 25, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bloomberg Comdb2 null pointer dereference and denial-of-service vulnerabilities<a href="https://blog.talosintelligence.com/bloomberg-comdb2-null-pointer-dereference-and-denial-of-service-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -108,13 +236,13 @@ Bloomberg Comdb2 null pointer dereference and denial-of-service vulnerabilities<
 Researchers identified five critical vulnerabilities in Bloomberg’s Comdb2 version 8.1, an open-source clustered database system. These flaws can be exploited remotely to cause denial-of-service (DoS) conditions via specially crafted TCP packets.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Talos Intelligence
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2025
+July 25, 2025 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New VoIP Botnet Targets Routers Using Default Passwords<a href="https://gbhackers.com/new-voip-botnet-targets-routers/?&web_view=true"> Full Text</a>
@@ -124,13 +252,13 @@ New VoIP Botnet Targets Routers Using Default Passwords<a href="https://gbhacker
 A newly discovered botnet campaign is exploiting VoIP-enabled routers by leveraging default password attacks over Telnet. Initially detected in a small New Mexico community, the operation has since expanded globally, compromising over 500 devices.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2025
+July 25, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IR35 advisor Qdos confirms a data leak to techie clients<a href="https://www.theregister.com/2025/07/25/ir35_advisor_qdos_confirms_data_breach/?&web_view=true"> Full Text</a>
@@ -140,13 +268,13 @@ IR35 advisor Qdos confirms a data leak to techie clients<a href="https://www.the
 Qdos, a UK-based business insurance and employment status specialist serving tech contractors, has confirmed a data breach involving unauthorized access to one of its web applications, mygoqdos.com.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2025
+July 25, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tridium Niagara Framework Flaws Expose Sensitive Network Data<a href="https://gbhackers.com/tridium-niagara-framework-flaws/?&web_view=true"> Full Text</a>
@@ -156,13 +284,13 @@ Tridium Niagara Framework Flaws Expose Sensitive Network Data<a href="https://gb
 Researchers uncovered 13 critical vulnerabilities in the Niagara Framework, developed by Tridium. These flaws, consolidated into 10 CVEs, affect building management, industrial automation, and smart infrastructure systems globally.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2025
+July 25, 2025 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Morgan County 911 emergency services confirms ransomware attack via Qilin<a href="https://www.comparitech.com/news/morgan-county-911-emergency-services-confirms-ransomware-attack-via-qilin/?&web_view=true"> Full Text</a>
@@ -172,13 +300,13 @@ Morgan County 911 emergency services confirms ransomware attack via Qilin<a href
 Morgan County 911, based in Decatur, Alabama, confirmed a ransomware attack by the Qilin group in May 2025. While administrative systems were disrupted, critical dispatch operations remained unaffected.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CompariTech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2025
+July 25, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Toptal caught serving malware after GitHub compromise<a href="https://www.theregister.com/2025/07/25/toptal_malware_attack/?&web_view=true"> Full Text</a>
@@ -188,7 +316,7 @@ Toptal caught serving malware after GitHub compromise<a href="https://www.thereg
 A recent supply chain attack compromised Toptal’s GitHub account, resulting in the distribution of malware through its Picasso developer toolbox. The attack affected over 5,000 downloads and involved 10 npm packages.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
