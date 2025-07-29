@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+July 25, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New VoIP Botnet Targets Routers Using Default Passwords<a href="https://gbhackers.com/new-voip-botnet-targets-routers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered botnet campaign is exploiting VoIP-enabled routers by leveraging default password attacks over Telnet. Initially detected in a small New Mexico community, the operation has since expanded globally, compromising over 500 devices.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 7, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

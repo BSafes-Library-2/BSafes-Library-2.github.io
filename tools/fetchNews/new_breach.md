@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+July 28, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massachusetts electric utility notifies hundreds of data breach that leaked SSNs and other info<a href="https://www.comparitech.com/news/massachusetts-electric-utility-notifies-hundreds-of-data-breach-that-leaked-ssns-and-other-info/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Massachusetts Municipal Wholesale Electric Company (MMWEC) disclosed a ransomware attack affecting at least 514 individuals, compromising SSNs, taxpayer IDs, and financial data. The BlackSuit gang claimed responsibility.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 28, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Allianz Life says ‘majority’ of customers’ personal data stolen in cyberattack<a href="https://techcrunch.com/2025/07/26/allianz-life-says-majority-of-customers-personal-data-stolen-in-cyberattack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. insurance giant Allianz Life has confirmed a significant data breach that compromised the personal information of the majority of its 1.4 million customers, financial professionals, and select employees.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 25, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

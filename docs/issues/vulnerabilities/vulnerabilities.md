@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 28, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Naval Group Denies Hack Claims, Alleges "Reputational Attack"<a href="https://www.infosecurity-magazine.com/news/naval-group-denies-hack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity vulnerability, tracked as CVE-2023-2533, has been identified in PaperCut's NG/MF product. This CSRF flaw could allow attackers to alter security settings or execute arbitrary code under specific conditions.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 28, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Post SMTP plugin flaw exposes 200K WordPress sites to hijacking attacks<a href="https://www.bleepingcomputer.com/news/security/post-smtp-plugin-flaw-exposes-200k-wordpress-sites-to-hijacking-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in the Post SMTP plugin for WordPress (CVE-2025-24000) exposes over 200,000 websites to potential account hijacking. The plugin has over 400,000 active installations, making the impact of this vulnerability significant.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 25, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

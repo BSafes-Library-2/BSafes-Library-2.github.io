@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 23, 2025 - FBI 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Com: Theft, Extortion, and Violence are a Rising Threat to Youth Online <a href="https://www.ic3.gov/PSA/2025/PSA250723-3#fn5"> Full Text</a>
+</p>
+<details>
+The Federal Bureau of Investigation is warning the public about a growing and evolving online threat group known as The Com, short for The Community. The Com is a primarily English speaking, international, online ecosystem comprised of multiple interconnected networks whose members, many of whom are minors, engage in a variety of criminal violations. The FBI estimates thousands of individuals identify as current or recent members of The Com with varying levels of associated activity. Criminal activity conducted by members of The Com includes, but is not limited to, swatting1/hoax threats, extortion/sextortion of minors, production and distribution of child sexual abuse material, violent crime, and various types of cyber crimes. The latter category is broad and includes distributed denial-of-service (DDoS) attacks, subscriber identity module (SIM) swapping2, ransomware, intellectual property theft, extortion, cryptocurrency theft, and money laundering. The motivations behind the criminal activity vary, but often fall within one of the following: financial gain, retaliation, ideology, sexual gratification, and notoriety.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 22, 2025 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+July 28, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Arizona Woman Jailed for Helping North Korea in $17M IT Job Scam<a href="https://hackread.com/arizona-woman-jailed-help-north-korea-it-job-scam/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operation involved aiding North Korean IT workers in impersonating US residents to secure remote jobs at over 300 American companies, posing a significant threat to national security and corporate integrity.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 26, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

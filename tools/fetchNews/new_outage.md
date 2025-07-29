@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+July 28, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aeroflot blames IT issues for flight cancellations<a href="https://www.theregister.com/2025/07/28/aeroflot_system_compromise/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia’s largest airline, Aeroflot, experienced a major IT disruption on July 28, 2025, resulting in the cancellation of 49 flights (42 initially, with 7 more added later) and delays ranging from 25 minutes to nearly three hours.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 25, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
