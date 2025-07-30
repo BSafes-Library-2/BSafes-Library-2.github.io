@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 28, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Muddled Libra: From Social Engineering to Enterprise-Scale Disruption<a href="https://www.paloaltonetworks.com/blog/2025/07/muddled-libra-social-engineering-enterprise-scale-disruption/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Muddled Libra, also known as Scattered Spider, has evolved from a small group of cryptocurrency-focused attackers into a highly organized, modular cybercrime syndicate capable of enterprise-scale disruption.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 24, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

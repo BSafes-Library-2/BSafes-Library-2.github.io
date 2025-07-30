@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+July 29, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GOLD BLADE Remote DLL Sideloading Attack Deploys RedLoader<a href="https://news.sophos.com/en-us/2025/07/29/gold-blade-remote-dll-sideloading-attack-deploys-redloader/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new campaign by the GOLD BLADE threat group leverages remote DLL sideloading technique to deploy RedLoader malware. This attack chain combines malicious LNK files and WebDAV-based delivery mechanisms to evade detection and establish persistence.
+</details>
+<div style="text-align: right" markdown="1">
+Sophos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 24, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

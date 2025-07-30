@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 29, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI seizes $2.4M in Bitcoin from new Chaos ransomware operation<a href="https://www.bleepingcomputer.com/news/security/fbi-seizes-24m-in-bitcoin-from-new-chaos-ransomware-operation/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has seized approximately 20.29 Bitcoins (valued at over $2.4 million) from a cryptocurrency address linked to a member of the new Chaos ransomware operation. This operation is believed to be a rebrand of the BlackSuit ransomware group.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 28, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

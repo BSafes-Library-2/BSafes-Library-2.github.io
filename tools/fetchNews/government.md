@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+July 28, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI alerts tie together threats of cybercrime, physical violence from The Com<a href="https://cyberscoop.com/fbi-warning-the-com-cybercrime-extortion-violence/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has issued a series of public service announcements (PSAs) warning about “The Com,” a rapidly growing and decentralized cybercriminal network composed primarily of minors and young adults aged 11 to 25.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Scoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 24, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
