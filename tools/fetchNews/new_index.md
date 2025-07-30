@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 28, 2025
+July 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals give Indiana megachurch 7 days to pay $600K ransom after data breach<a href="https://www.comparitech.com/news/cybercriminals-give-indiana-megachurch-7-days-to-pay-600k-ransom-after-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rhysida ransomware group has claimed responsibility for a cyberattack on the First Baptist Church of Hammond, Indiana. The attackers demanded a ransom of 5 BTC (~$594,000) and threatened to sell stolen data if unpaid.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Authentication Flaw Identified in Base44 Vibe Coding Platform<a href="https://www.infosecurity-magazine.com/news/authentication-flaw-base44/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical authentication vulnerability was discovered in Base44’s AI-driven "vibe coding" platform. The flaw allowed unauthorized users to bypass authentication mechanisms, including Single Sign-On (SSO), and gain access to private applications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GOLD BLADE Remote DLL Sideloading Attack Deploys RedLoader<a href="https://news.sophos.com/en-us/2025/07/29/gold-blade-remote-dll-sideloading-attack-deploys-redloader/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new campaign by the GOLD BLADE threat group leverages remote DLL sideloading technique to deploy RedLoader malware. This attack chain combines malicious LNK files and WebDAV-based delivery mechanisms to evade detection and establish persistence.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI seizes $2.4M in Bitcoin from new Chaos ransomware operation<a href="https://www.bleepingcomputer.com/news/security/fbi-seizes-24m-in-bitcoin-from-new-chaos-ransomware-operation/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has seized approximately 20.29 Bitcoins (valued at over $2.4 million) from a cryptocurrency address linked to a member of the new Chaos ransomware operation. This operation is believed to be a rebrand of the BlackSuit ransomware group.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyware expands Intelligence Suite to streamline CTI program deployment and operations<a href="https://www.helpnetsecurity.com/2025/07/29/cyware-intelligence-suite/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyware has announced a significant expansion of its Cyware Intelligence Suite, a modular and automated threat intelligence platform designed to streamline the deployment and operation of Cyber Threat Intelligence (CTI) programs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploit available for critical Cisco ISE bug exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-cisco-ise-bug-exploited-in-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical unauthenticated RCE vulnerability in Cisco ISE has been actively exploited in the wild. The issue was later split into two CVEs: CVE-2025-20281 (command injection) and CVE-2025-20337 (unsafe deserialization).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Endgame Gear mouse config tool infected users with malware<a href="https://www.bleepingcomputer.com/news/security/endgame-gear-mouse-config-tool-infected-users-with-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Between June 26 and July 9, 2025, the official configuration tool for the Endgame Gear OP1w 4k v2 wireless mouse—Endgame_Gear_OP1w_4k_v2_Configuration_Tool_v1_00.exe—was compromised with malware and distributed via Endgame Gear’s official website.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaw in Gemini CLI AI coding assistant allowed stealthy code execution<a href="https://www.bleepingcomputer.com/news/security/flaw-in-gemini-cli-ai-coding-assistant-allowed-stealthy-code-execution/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in Google's Gemini CLI was discovered just two days later by researchers. The flaw allowed attackers to stealthily execute malicious commands and exfiltrate sensitive data from developers' systems using allowlisted programs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GLOBAL GROUP Ransomware Claims Breach of Media Giant Albavisión<a href="https://hackread.com/global-group-ransomware-media-giant-albavision-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The GLOBAL GROUP ransomware gang, active since early June 2025, has claimed responsibility for a cyberattack on Albavisión. The group alleges the theft of 400 GB of data and has issued a 15-day ultimatum for negotiations before public data release.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lovense sex toy app flaw leaks private user email addresses<a href="https://www.bleepingcomputer.com/news/security/lovense-sex-toy-app-flaw-leaks-private-user-email-addresses/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical zero-day vulnerability in the Lovense sex toy app exposes users' private email addresses by leveraging publicly available usernames. The flaw enables attackers to automate email harvesting, posing significant privacy and security risks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2025 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Aeroflot blames IT issues for flight cancellations<a href="https://www.theregister.com/2025/07/28/aeroflot_system_compromise/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Aeroflot blames IT issues for flight cancellations<a href="https://www.theregist
 Russia’s largest airline, Aeroflot, experienced a major IT disruption on July 28, 2025, resulting in the cancellation of 49 flights (42 initially, with 7 more added later) and delays ranging from 25 minutes to nearly three hours.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 28, 2025
+July 28, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Naval Group Denies Hack Claims, Alleges "Reputational Attack"<a href="https://www.infosecurity-magazine.com/news/naval-group-denies-hack/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Naval Group Denies Hack Claims, Alleges "Reputational Attack"<a href="https://ww
 A high-severity vulnerability, tracked as CVE-2023-2533, has been identified in PaperCut's NG/MF product. This CSRF flaw could allow attackers to alter security settings or execute arbitrary code under specific conditions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 28, 2025
+July 28, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI alerts tie together threats of cybercrime, physical violence from The Com<a href="https://cyberscoop.com/fbi-warning-the-com-cybercrime-extortion-violence/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ FBI alerts tie together threats of cybercrime, physical violence from The Com<a 
 The FBI has issued a series of public service announcements (PSAs) warning about “The Com,” a rapidly growing and decentralized cybercriminal network composed primarily of minors and young adults aged 11 to 25.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyber Scoop
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 28, 2025
+July 28, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Massachusetts electric utility notifies hundreds of data breach that leaked SSNs and other info<a href="https://www.comparitech.com/news/massachusetts-electric-utility-notifies-hundreds-of-data-breach-that-leaked-ssns-and-other-info/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Massachusetts electric utility notifies hundreds of data breach that leaked SSNs
 Massachusetts Municipal Wholesale Electric Company (MMWEC) disclosed a ransomware attack affecting at least 514 individuals, compromising SSNs, taxpayer IDs, and financial data. The BlackSuit gang claimed responsibility.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CompariTech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 28, 2025
+July 28, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Muddled Libra: From Social Engineering to Enterprise-Scale Disruption<a href="https://www.paloaltonetworks.com/blog/2025/07/muddled-libra-social-engineering-enterprise-scale-disruption/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Muddled Libra: From Social Engineering to Enterprise-Scale Disruption<a href="ht
 Muddled Libra, also known as Scattered Spider, has evolved from a small group of cryptocurrency-focused attackers into a highly organized, modular cybercrime syndicate capable of enterprise-scale disruption.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Palo Alto Networks
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 28, 2025
+July 28, 2025 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Arizona Woman Jailed for Helping North Korea in $17M IT Job Scam<a href="https://hackread.com/arizona-woman-jailed-help-north-korea-it-job-scam/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Arizona Woman Jailed for Helping North Korea in $17M IT Job Scam<a href="https:/
 The operation involved aiding North Korean IT workers in impersonating US residents to secure remote jobs at over 300 American companies, posing a significant threat to national security and corporate integrity.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 28, 2025
+July 28, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Allianz Life says ‘majority’ of customers’ personal data stolen in cyberattack<a href="https://techcrunch.com/2025/07/26/allianz-life-says-majority-of-customers-personal-data-stolen-in-cyberattack/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Allianz Life says ‘majority’ of customers’ personal data stolen in cyberat
 U.S. insurance giant Allianz Life has confirmed a significant data breach that compromised the personal information of the majority of its 1.4 million customers, financial professionals, and select employees.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Tech Crunch
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 28, 2025
+July 28, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Post SMTP plugin flaw exposes 200K WordPress sites to hijacking attacks<a href="https://www.bleepingcomputer.com/news/security/post-smtp-plugin-flaw-exposes-200k-wordpress-sites-to-hijacking-attacks/?&web_view=true"> Full Text</a>
@@ -156,7 +316,7 @@ Post SMTP plugin flaw exposes 200K WordPress sites to hijacking attacks<a href="
 A critical vulnerability in the Post SMTP plugin for WordPress (CVE-2025-24000) exposes over 200,000 websites to potential account hijacking. The plugin has over 400,000 active installations, making the impact of this vulnerability significant.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

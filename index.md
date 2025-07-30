@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals give Indiana megachurch 7 days to pay $600K ransom after data breach<a href="https://www.comparitech.com/news/cybercriminals-give-indiana-megachurch-7-days-to-pay-600k-ransom-after-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rhysida ransomware group has claimed responsibility for a cyberattack on the First Baptist Church of Hammond, Indiana. The attackers demanded a ransom of 5 BTC (~$594,000) and threatened to sell stolen data if unpaid.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Authentication Flaw Identified in Base44 Vibe Coding Platform<a href="https://www.infosecurity-magazine.com/news/authentication-flaw-base44/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical authentication vulnerability was discovered in Base44’s AI-driven "vibe coding" platform. The flaw allowed unauthorized users to bypass authentication mechanisms, including Single Sign-On (SSO), and gain access to private applications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GOLD BLADE Remote DLL Sideloading Attack Deploys RedLoader<a href="https://news.sophos.com/en-us/2025/07/29/gold-blade-remote-dll-sideloading-attack-deploys-redloader/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new campaign by the GOLD BLADE threat group leverages remote DLL sideloading technique to deploy RedLoader malware. This attack chain combines malicious LNK files and WebDAV-based delivery mechanisms to evade detection and establish persistence.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI seizes $2.4M in Bitcoin from new Chaos ransomware operation<a href="https://www.bleepingcomputer.com/news/security/fbi-seizes-24m-in-bitcoin-from-new-chaos-ransomware-operation/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has seized approximately 20.29 Bitcoins (valued at over $2.4 million) from a cryptocurrency address linked to a member of the new Chaos ransomware operation. This operation is believed to be a rebrand of the BlackSuit ransomware group.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyware expands Intelligence Suite to streamline CTI program deployment and operations<a href="https://www.helpnetsecurity.com/2025/07/29/cyware-intelligence-suite/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyware has announced a significant expansion of its Cyware Intelligence Suite, a modular and automated threat intelligence platform designed to streamline the deployment and operation of Cyber Threat Intelligence (CTI) programs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploit available for critical Cisco ISE bug exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-cisco-ise-bug-exploited-in-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical unauthenticated RCE vulnerability in Cisco ISE has been actively exploited in the wild. The issue was later split into two CVEs: CVE-2025-20281 (command injection) and CVE-2025-20337 (unsafe deserialization).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Endgame Gear mouse config tool infected users with malware<a href="https://www.bleepingcomputer.com/news/security/endgame-gear-mouse-config-tool-infected-users-with-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Between June 26 and July 9, 2025, the official configuration tool for the Endgame Gear OP1w 4k v2 wireless mouse—Endgame_Gear_OP1w_4k_v2_Configuration_Tool_v1_00.exe—was compromised with malware and distributed via Endgame Gear’s official website.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaw in Gemini CLI AI coding assistant allowed stealthy code execution<a href="https://www.bleepingcomputer.com/news/security/flaw-in-gemini-cli-ai-coding-assistant-allowed-stealthy-code-execution/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in Google's Gemini CLI was discovered just two days later by researchers. The flaw allowed attackers to stealthily execute malicious commands and exfiltrate sensitive data from developers' systems using allowlisted programs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GLOBAL GROUP Ransomware Claims Breach of Media Giant Albavisión<a href="https://hackread.com/global-group-ransomware-media-giant-albavision-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The GLOBAL GROUP ransomware gang, active since early June 2025, has claimed responsibility for a cyberattack on Albavisión. The group alleges the theft of 400 GB of data and has issued a 15-day ultimatum for negotiations before public data release.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lovense sex toy app flaw leaks private user email addresses<a href="https://www.bleepingcomputer.com/news/security/lovense-sex-toy-app-flaw-leaks-private-user-email-addresses/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical zero-day vulnerability in the Lovense sex toy app exposes users' private email addresses by leveraging publicly available usernames. The flaw enables attackers to automate email harvesting, posing significant privacy and security risks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 28, 2025 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
