@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hafnium Tied to Advanced Chinese Surveillance Tools<a href="https://www.infosecurity-magazine.com/news/hafnium-chinese-surveillance-tools/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent investigations have revealed that the Chinese state-sponsored threat group Hafnium (also known as Silk Typhoon) is linked to a network of front companies developing advanced surveillance and cyber-espionage tools.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hidden Backdoor Found in ATM Network via Raspberry Pi<a href="https://www.infosecurity-magazine.com/news/backdoor-atm-network-raspberry-pi/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An attack on ATM infrastructure was uncovered involving a Raspberry Pi device physically connected to a network switch shared with an ATM. UNC2891 used this device to bypass perimeter firewalls and gain remote access to the bank’s internal network.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack shuts down hundreds of Russian pharmacies, disrupts healthcare services<a href="https://therecord.media/cyberattack-shuts-down-russian-pharmacies?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A wave of cyberattacks severely disrupted healthcare and critical infrastructure services across Russia. Stolichki and Neofarm were forced to suspend operations, affecting access to medications and healthcare services for thousands of citizens.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Targeted attacks leverage accounts on popular online platforms as C2 servers<a href="https://securelist.com/cobalt-strike-attacks-using-quora-github-social-media/117085/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated cyberattack campaign active from late 2024 to April 2025 targeted Russian IT firms and international entities using Cobalt Strike Beacon. The attackers employed spear phishing, DLL hijacking, and social media-based payload delivery.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Tops Hit List as 396 SharePoint Systems Compromised Globally<a href="https://www.infosecurity-magazine.com/news/396-sharepoint-systems-compromised/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical zero-day vulnerability in Microsoft SharePoint, tracked as CVE-2025-53770/53771 and exploited via the ToolShell exploit, has led to the compromise of 396 systems across 41 countries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Palo Alto Networks in talks to acquire CyberArk for over $20bn<a href="https://finance.yahoo.com/news/palo-alto-networks-talks-acquire-093024978.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Palo Alto Networks is reportedly negotiating to acquire CyberArk Software, an Israeli publicly traded IT company, in a deal potentially exceeding $20bn. This potential acquisition of CyberArk would mark Palo Alto Networks’ largest deal to date.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Attack Seychelles – Offshore Banking as a Target<a href="https://www.resecurity.com/blog/article/cybercriminals-attack-seychelles-offshore-banking-as-a-target?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberattack targeting Seychelles Commercial Bank (SCB) has resulted in the exfiltration of 2.2GB of sensitive customer and government data. The attacker, operating under the alias "ByteToBreach," exploited a vulnerability in Oracle WebLogic Server.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Auto-Color Backdoor Malware Exploits SAP Vulnerability<a href="https://www.infosecurity-magazine.com/news/auto-color-backdoor-exploits-sap/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware campaign has been identified targeting Linux systems via a critical SAP NetWeaver vulnerability (CVE-2025-31324). The malware, dubbed Auto-Color, was deployed in a targeted intrusion against a US-based chemicals company in April 2025.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Choicejacking Attack Steals Data from Phones via Public Chargers<a href="https://hackread.com/choicejacking-attack-steals-data-phones-public-chargers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly identified USB-based attack technique, dubbed Choicejacking, enables cybercriminals to steal data from smartphones via public charging stations. This method bypasses traditional security prompts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scattered Spider is targeting victims' Snowflake data storage for quick exfiltration<a href="https://therecord.media/scattered-spider-targeting-snowflake-access-data-exfiltration?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An updated joint advisory from U.S., U.K., Canadian, and Australian cybersecurity agencies warns of ongoing campaigns by Scattered Spider. This group is targeting Snowflake data storage environments to exfiltrate large volumes of sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 29, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
