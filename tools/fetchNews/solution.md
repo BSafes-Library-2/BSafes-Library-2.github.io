@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+July 29, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyware expands Intelligence Suite to streamline CTI program deployment and operations<a href="https://www.helpnetsecurity.com/2025/07/29/cyware-intelligence-suite/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyware has announced a significant expansion of its Cyware Intelligence Suite, a modular and automated threat intelligence platform designed to streamline the deployment and operation of Cyber Threat Intelligence (CTI) programs.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 6, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+July 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Tops Hit List as 396 SharePoint Systems Compromised Globally<a href="https://www.infosecurity-magazine.com/news/396-sharepoint-systems-compromised/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical zero-day vulnerability in Microsoft SharePoint, tracked as CVE-2025-53770/53771 and exploited via the ToolShell exploit, has led to the compromise of 396 systems across 41 countries.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Attack Seychelles – Offshore Banking as a Target<a href="https://www.resecurity.com/blog/article/cybercriminals-attack-seychelles-offshore-banking-as-a-target?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberattack targeting Seychelles Commercial Bank (SCB) has resulted in the exfiltration of 2.2GB of sensitive customer and government data. The attacker, operating under the alias "ByteToBreach," exploited a vulnerability in Oracle WebLogic Server.
+</details>
+<div style="text-align: right" markdown="1">
+ReSecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 29, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

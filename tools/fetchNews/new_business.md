@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+July 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Palo Alto Networks in talks to acquire CyberArk for over $20bn<a href="https://finance.yahoo.com/news/palo-alto-networks-talks-acquire-093024978.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Palo Alto Networks is reportedly negotiating to acquire CyberArk Software, an Israeli publicly traded IT company, in a deal potentially exceeding $20bn. This potential acquisition of CyberArk would mark Palo Alto Networks’ largest deal to date.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 24, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

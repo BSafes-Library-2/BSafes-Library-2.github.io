@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+July 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hafnium Tied to Advanced Chinese Surveillance Tools<a href="https://www.infosecurity-magazine.com/news/hafnium-chinese-surveillance-tools/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent investigations have revealed that the Chinese state-sponsored threat group Hafnium (also known as Silk Typhoon) is linked to a network of front companies developing advanced surveillance and cyber-espionage tools.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 21, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

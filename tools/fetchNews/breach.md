@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+July 29, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals give Indiana megachurch 7 days to pay $600K ransom after data breach<a href="https://www.comparitech.com/news/cybercriminals-give-indiana-megachurch-7-days-to-pay-600k-ransom-after-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rhysida ransomware group has claimed responsibility for a cyberattack on the First Baptist Church of Hammond, Indiana. The attackers demanded a ransom of 5 BTC (~$594,000) and threatened to sell stolen data if unpaid.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 29, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Endgame Gear mouse config tool infected users with malware<a href="https://www.bleepingcomputer.com/news/security/endgame-gear-mouse-config-tool-infected-users-with-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Between June 26 and July 9, 2025, the official configuration tool for the Endgame Gear OP1w 4k v2 wireless mouse—Endgame_Gear_OP1w_4k_v2_Configuration_Tool_v1_00.exe—was compromised with malware and distributed via Endgame Gear’s official website.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 29, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GLOBAL GROUP Ransomware Claims Breach of Media Giant Albavisión<a href="https://hackread.com/global-group-ransomware-media-giant-albavision-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The GLOBAL GROUP ransomware gang, active since early June 2025, has claimed responsibility for a cyberattack on Albavisión. The group alleges the theft of 400 GB of data and has issued a 15-day ultimatum for negotiations before public data release.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 28, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

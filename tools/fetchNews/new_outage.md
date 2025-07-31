@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+July 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack shuts down hundreds of Russian pharmacies, disrupts healthcare services<a href="https://therecord.media/cyberattack-shuts-down-russian-pharmacies?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A wave of cyberattacks severely disrupted healthcare and critical infrastructure services across Russia. Stolichki and Neofarm were forced to suspend operations, affecting access to medications and healthcare services for thousands of citizens.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 28, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

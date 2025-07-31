@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+July 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Targeted attacks leverage accounts on popular online platforms as C2 servers<a href="https://securelist.com/cobalt-strike-attacks-using-quora-github-social-media/117085/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated cyberattack campaign active from late 2024 to April 2025 targeted Russian IT firms and international entities using Cobalt Strike Beacon. The attackers employed spear phishing, DLL hijacking, and social media-based payload delivery.
+</details>
+<div style="text-align: right" markdown="1">
+Secure List
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Choicejacking Attack Steals Data from Phones via Public Chargers<a href="https://hackread.com/choicejacking-attack-steals-data-phones-public-chargers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly identified USB-based attack technique, dubbed Choicejacking, enables cybercriminals to steal data from smartphones via public charging stations. This method bypasses traditional security prompts.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 29, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

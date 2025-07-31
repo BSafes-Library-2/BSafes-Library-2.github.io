@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2025 - FBI, CISA, RCMP, ACSC, AFP, CCCS, NCSC-UK  
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scattered Spider <a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-320a"> Full Text</a>
+</p>
+<details>
+The Federal Bureau of Investigation (FBI), Cybersecurity and Infrastructure Security Agency (CISA), Royal Canadian Mounted Police (RCMP), Australian Signals Directorate’s (ASD’s) Australian Cyber Security Centre (ACSC), Australian Federal Police (AFP), Canadian Centre for Cyber Security (CCCS), and United Kingdom’s National Cyber Security Centre (NCSC-UK)—hereafter referred to as the authoring organizations—are releasing this joint Cybersecurity Advisory in response to recent activity by Scattered Spider threat actors against the commercial facilities sectors, subsectors, and other sectors. This advisory provides tactics, techniques, and procedures (TTPs) obtained through FBI investigations as recently as June 2025.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 23, 2025 - FBI 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
