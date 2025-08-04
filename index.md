@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2025
+August 1, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China accuses US of exploiting Microsoft zero-day in cyberattack<a href="https://cyberscoop.com/china-accuses-us-of-exploiting-microsoft-zero-day-in-cyberattack/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ China accuses US of exploiting Microsoft zero-day in cyberattack<a href="https:/
 China has accused U.S. intelligence agencies of conducting cyberattacks on two Chinese military enterprises, including the exploitation of a Microsoft Exchange zero-day vulnerability.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyber Scoop
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2025
+August 1, 2025 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Luxembourg probes reported attack on Huawei tech that caused nationwide telecoms outage<a href="https://therecord.media/luxembourg-telecom-outage-reported-cyberattack-huawei-tech?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Luxembourg probes reported attack on Huawei tech that caused nationwide telecoms
 Luxembourg experienced a nationwide telecommunications outage lasting over three hours, reportedly due to a cyberattack targeting Huawei router software within POST Luxembourg’s infrastructure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2025
+August 1, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Florida prison exposes visitor contact info to every inmate<a href="https://www.theregister.com/2025/08/01/florida_prison_email_blunder/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Florida prison exposes visitor contact info to every inmate<a href="https://www.
 A data breach at a Florida prison has exposed the personal contact information of prison visitors to all inmates, raising significant concerns about potential extortion, harassment, and physical threats to both inmates and their families.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2025
+August 1, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AI-powered Cursor IDE vulnerable to prompt-injection attacks<a href="https://www.bleepingcomputer.com/news/security/ai-powered-cursor-ide-vulnerable-to-prompt-injection-attacks/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ AI-powered Cursor IDE vulnerable to prompt-injection attacks<a href="https://www
 A critical prompt-injection vulnerability, identified as CVE-2025-54135 and dubbed "CurXecute", affects almost all versions of the AI-powered Cursor IDE prior to version 1.3. This flaw allows remote code execution with developer privileges.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2025
+August 1, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pi-hole discloses data breach triggered by WordPress plugin flaw<a href="https://www.bleepingcomputer.com/news/security/pi-hole-discloses-data-breach-via-givewp-wordpress-plugin-flaw/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Pi-hole discloses data breach triggered by WordPress plugin flaw<a href="https:/
 Pi-hole, a widely-used network-level ad-blocker, has disclosed a data breach caused by a vulnerability in the GiveWP WordPress donation plugin. The flaw exposed donor names and email addresses to the public via the webpage's source code.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2025
+August 1, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Staggering 800% Rise in Infostealer Credential Theft<a href="https://www.infosecurity-magazine.com/news/staggering-800-rise-infostealer/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Staggering 800% Rise in Infostealer Credential Theft<a href="https://www.infosec
 Flashpoint’s Global Threat Intelligence Index: 2025 Midyear Edition, analyzing over 3.6 petabytes of data, reports an 800% surge in credential theft, with 1.8 billion credentials stolen from 5.8 million infected devices.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2025
+August 1, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android Malware Targets Banking Users Through Discord Channels<a href="https://www.infosecurity-magazine.com/news/android-malware-targets-banks-via/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Android Malware Targets Banking Users Through Discord Channels<a href="https://w
 A new variant of the DoubleTrouble trojan is actively targeting users across Europe, posing a significant threat to financial data security. Initially spread via phishing websites, the malware now leverages Discord-hosted APKs for distribution.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2025
+August 1, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers actively exploit critical zero-day in Alone WordPress Theme<a href="https://securityaffairs.com/180630/hacking/attackers-actively-exploit-critical-zero-day-in-alone-wordpress-theme.html?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Attackers actively exploit critical zero-day in Alone WordPress Theme<a href="ht
 A critical zero-day vulnerability (CVE-2025-5394, CVSS 9.8) in the Alone – Charity Multipurpose Non-profit WordPress Theme is being actively exploited by threat actors. The theme has over 9,000 installations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2025
+August 1, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Back Up With Care, But Neglecting Patches can Leave You in Despair!<a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/back-up-with-care-but-neglecting-patches-can-leave-you-in-despair/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Back Up With Care, But Neglecting Patches can Leave You in Despair!<a href="http
 CVE-2024-7348 is a race condition vulnerability in PostgreSQL's `pg_dump` utility that allows attackers with sufficient privileges to execute arbitrary SQL commands as the user running the dump, often a superuser.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Trust Wave
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2025
+August 1, 2025 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kremlin goons caught abusing local ISPs to spy on diplomats<a href="https://www.theregister.com/2025/07/31/kremlin_goons_caught_abusing_isps/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Kremlin goons caught abusing local ISPs to spy on diplomats<a href="https://www.
 Microsoft has confirmed that the Russian state-sponsored threat group Secret Blizzard (aka Turla, VENOMOUS BEAR) is conducting cyber-espionage operations against foreign embassies in Moscow by exploiting local ISPs.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

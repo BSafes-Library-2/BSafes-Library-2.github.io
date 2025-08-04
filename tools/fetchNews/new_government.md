@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+August 1, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China accuses US of exploiting Microsoft zero-day in cyberattack<a href="https://cyberscoop.com/china-accuses-us-of-exploiting-microsoft-zero-day-in-cyberattack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China has accused U.S. intelligence agencies of conducting cyberattacks on two Chinese military enterprises, including the exploitation of a Microsoft Exchange zero-day vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Scoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 30, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

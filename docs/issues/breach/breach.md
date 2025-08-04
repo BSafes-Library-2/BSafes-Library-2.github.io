@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+August 1, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Florida prison exposes visitor contact info to every inmate<a href="https://www.theregister.com/2025/08/01/florida_prison_email_blunder/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A data breach at a Florida prison has exposed the personal contact information of prison visitors to all inmates, raising significant concerns about potential extortion, harassment, and physical threats to both inmates and their families.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 1, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pi-hole discloses data breach triggered by WordPress plugin flaw<a href="https://www.bleepingcomputer.com/news/security/pi-hole-discloses-data-breach-via-givewp-wordpress-plugin-flaw/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pi-hole, a widely-used network-level ad-blocker, has disclosed a data breach caused by a vulnerability in the GiveWP WordPress donation plugin. The flaw exposed donor names and email addresses to the public via the webpage's source code.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 30, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

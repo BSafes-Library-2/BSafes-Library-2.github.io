@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+August 1, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kremlin goons caught abusing local ISPs to spy on diplomats<a href="https://www.theregister.com/2025/07/31/kremlin_goons_caught_abusing_isps/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has confirmed that the Russian state-sponsored threat group Secret Blizzard (aka Turla, VENOMOUS BEAR) is conducting cyber-espionage operations against foreign embassies in Moscow by exploiting local ISPs.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 13, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

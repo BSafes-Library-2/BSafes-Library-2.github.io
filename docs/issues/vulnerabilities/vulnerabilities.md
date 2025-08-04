@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 1, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI-powered Cursor IDE vulnerable to prompt-injection attacks<a href="https://www.bleepingcomputer.com/news/security/ai-powered-cursor-ide-vulnerable-to-prompt-injection-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical prompt-injection vulnerability, identified as CVE-2025-54135 and dubbed "CurXecute", affects almost all versions of the AI-powered Cursor IDE prior to version 1.3. This flaw allows remote code execution with developer privileges.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 1, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers actively exploit critical zero-day in Alone WordPress Theme<a href="https://securityaffairs.com/180630/hacking/attackers-actively-exploit-critical-zero-day-in-alone-wordpress-theme.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical zero-day vulnerability (CVE-2025-5394, CVSS 9.8) in the Alone – Charity Multipurpose Non-profit WordPress Theme is being actively exploited by threat actors. The theme has over 9,000 installations.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 1, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Back Up With Care, But Neglecting Patches can Leave You in Despair!<a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/back-up-with-care-but-neglecting-patches-can-leave-you-in-despair/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2024-7348 is a race condition vulnerability in PostgreSQL's `pg_dump` utility that allows attackers with sufficient privileges to execute arbitrary SQL commands as the user running the dump, often a superuser.
+</details>
+<div style="text-align: right" markdown="1">
+Trust Wave
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 29, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
