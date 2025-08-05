@@ -34,6 +34,134 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla warns of phishing attacks targeting add-on developers<a href="https://www.bleepingcomputer.com/news/security/mozilla-warns-of-phishing-attacks-targeting-add-on-developers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla issued a warning about an active phishing campaign targeting developers on its official add-on repository. Mozilla’s add-on platform hosts over 60,000 browser extensions and more than 500,000 themes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitdefender Warns Users to Update Dahua Cameras Over Critical Flaws<a href="https://hackread.com/bitdefender-update-dahua-cameras-critical-flaws/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bitdefender has identified two critical vulnerabilities—CVE-2025-31700 and CVE-2025-31701—in Dahua security cameras, including the widely used Hero C1 model. These flaws allow unauthenticated attackers to gain full remote access to affected devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ghost in the Zip | New PXA Stealer and Its Telegram-Powered Ecosystem<a href="https://www.sentinelone.com/labs/ghost-in-the-zip-new-pxa-stealer-and-its-telegram-powered-ecosystem/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated infostealer campaign leveraging the Python-based PXA Stealer has compromised over 4,000 systems across 62 countries. The campaign exfiltrates credentials, cookies, and financial data via Telegram bots and Cloudflare Workers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Recall can still nab credit cards, passwords, info<a href="https://www.theregister.com/2025/08/01/microsoft_recall_captures_credit_card_info/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Recall continues to capture sensitive data such as credit card numbers and passwords despite built-in filters. Although Microsoft labels Recall as a "preview" app, it is actively pushed during the Windows Out-of-Box Experience (OOBE).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Attack Uses Windows Shortcut Files to Install REMCOS Backdoor<a href="https://hackread.com/attack-windows-shortcut-files-install-remcos-backdoor/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly identified malware campaign leverages malicious Windows shortcut (LNK) files to install the REMCOS remote access trojan (RAT). This multi-stage attack uses stealthy techniques to gain full control over victim systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Linux backdoor Plague bypasses auth via malicious PAM module<a href="https://securityaffairs.com/180701/malware/new-linux-backdoor-plague-bypasses-auth-via-malicious-pam-module.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered Linux backdoor named Plague has been identified by researchers. Disguised as a malicious Pluggable Authentication Module (PAM), Plague enables attackers to bypass authentication mechanisms and maintain persistent SSH access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Akira Ransomware targets SonicWall VPNs in likely zero-day attacks<a href="https://securityaffairs.com/180724/cyber-crime/akira-ransomware-targets-sonicwall-vpns-in-likely-zero-day-attacks.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Akira ransomware is exploiting a likely zero-day vulnerability in SonicWall SSL VPNs, targeting even fully patched devices with multi-factor authentication (MFA) and rotated credentials. Multiple intrusions were observed in late July 2025.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers exploit link-wrapping services to steal Microsoft 365 logins<a href="https://www.bleepingcomputer.com/news/security/attackers-exploit-link-wrapping-services-to-steal-microsoft-365-logins/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign involves threat actors abusing link-wrapping services from trusted providers such as Proofpoint and Intermedia to disguise malicious URLs that lead to Microsoft 365 credential harvesting pages.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 1, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
