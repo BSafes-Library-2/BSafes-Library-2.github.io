@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+August 4, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Akira Ransomware targets SonicWall VPNs in likely zero-day attacks<a href="https://securityaffairs.com/180724/cyber-crime/akira-ransomware-targets-sonicwall-vpns-in-likely-zero-day-attacks.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Akira ransomware is exploiting a likely zero-day vulnerability in SonicWall SSL VPNs, targeting even fully patched devices with multi-factor authentication (MFA) and rotated credentials. Multiple intrusions were observed in late July 2025.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 26, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

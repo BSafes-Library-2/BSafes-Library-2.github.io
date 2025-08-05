@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+August 4, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Attack Uses Windows Shortcut Files to Install REMCOS Backdoor<a href="https://hackread.com/attack-windows-shortcut-files-install-remcos-backdoor/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly identified malware campaign leverages malicious Windows shortcut (LNK) files to install the REMCOS remote access trojan (RAT). This multi-stage attack uses stealthy techniques to gain full control over victim systems.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 4, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers exploit link-wrapping services to steal Microsoft 365 logins<a href="https://www.bleepingcomputer.com/news/security/attackers-exploit-link-wrapping-services-to-steal-microsoft-365-logins/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign involves threat actors abusing link-wrapping services from trusted providers such as Proofpoint and Intermedia to disguise malicious URLs that lead to Microsoft 365 credential harvesting pages.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 30, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

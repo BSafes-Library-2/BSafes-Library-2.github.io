@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 4, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla warns of phishing attacks targeting add-on developers<a href="https://www.bleepingcomputer.com/news/security/mozilla-warns-of-phishing-attacks-targeting-add-on-developers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla issued a warning about an active phishing campaign targeting developers on its official add-on repository. Mozilla’s add-on platform hosts over 60,000 browser extensions and more than 500,000 themes.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 26, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
