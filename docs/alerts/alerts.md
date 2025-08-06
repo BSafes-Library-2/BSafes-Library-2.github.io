@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2025 - FinCEN 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FinCEN Issues Notice on the Use of Convertible Virtual Currency Kiosks for Scam Payments and Other Illicit Activity <a href="https://www.fincen.gov/news/news-releases/fincen-issues-notice-use-convertible-virtual-currency-kiosks-scam-payments-and"> Full Text</a>
+</p>
+<details>
+WASHINGTON—Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) issued a Notice urging financial institutions to be vigilant in identifying and reporting suspicious activity involving convertible virtual currency (CVC) kiosks. While CVC kiosks can be a simple and convenient way for consumers to access CVC, they are also exploited by illicit actors, including scammers. The risk of illicit activity is exacerbated if CVC kiosk operators fail to meet their obligations under the Bank Secrecy Act (BSA).
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 29, 2025 - FBI, CISA, RCMP, ACSC, AFP, CCCS, NCSC-UK  
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

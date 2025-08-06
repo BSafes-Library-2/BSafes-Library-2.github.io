@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vibe coding tool Cursor allows persistent code execution<a href="https://www.theregister.com/2025/08/05/mcpoison_bug_abuses_cursor_mcp/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in the AI-powered code editor Cursor, identified as “MCPoison,” allows persistent remote code execution through manipulation of the Model Context Protocol (MCP) configuration.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Potential SSL VPN Zero-Day vulnerability impacting Gen 7 SonicWall Firewalls<a href="https://www.cyber.gc.ca/en/alerts-advisories/potential-ssl-vpn-zero-day-vulnerability-impacting-gen-7-sonicwall-firewalls?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A potential zero-day vulnerability in SonicWall Gen 7 SSL VPN firewalls is being actively exploited to bypass multi-factor authentication (MFA) and deploy Akira ransomware. Successful exploitation allows bypassing MFA and deploying ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Government of Canada
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NVIDIA Triton Bugs Let Unauthenticated Attackers Execute Code and Hijack AI Servers<a href="https://thehackernews.com/2025/08/nvidia-triton-bugs-let-unauthenticated.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple critical vulnerabilities in NVIDIA's Triton Inference Server for Windows and Linux allow unauthenticated remote attackers to achieve remote code execution (RCE) and hijack AI servers.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 4, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

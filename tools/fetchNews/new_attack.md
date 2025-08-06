@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+August 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dutch Caribbean islands respond to cyberattacks on courts, tax departments<a href="https://therecord.media/aruba-curacao-governments-cyberattacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple Dutch Caribbean territories — including Curaçao, Aruba, and Sint Maarten — have recently experienced significant cyberattacks targeting government institutions such as tax departments, courts, and parliamentary systems.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 4, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Iran Hackers Aligned Cyber with Kinetic War Aims<a href="https://www.infosecurity-magazine.com/news/proiran-hackers-aligned-cyber/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent surge in cyber operations by pro-Iran hacking groups has been observed in alignment with a 12-day kinetic conflict against Israel. They targeted critical infrastructure, public entities, and individuals through a variety of techniques.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 30, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

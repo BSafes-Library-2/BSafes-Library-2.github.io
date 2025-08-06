@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 4, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitdefender Warns Users to Update Dahua Cameras Over Critical Flaws<a href="https://hackread.com/bitdefender-update-dahua-cameras-critical-flaws/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bitdefender has identified two critical vulnerabilities—CVE-2025-31700 and CVE-2025-31701—in Dahua security cameras, including the widely used Hero C1 model. These flaws allow unauthenticated attackers to gain full remote access to affected devices.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 4, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Recall can still nab credit cards, passwords, info<a href="https://www.theregister.com/2025/08/01/microsoft_recall_captures_credit_card_info/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Recall continues to capture sensitive data such as credit card numbers and passwords despite built-in filters. Although Microsoft labels Recall as a "preview" app, it is actively pushed during the Windows Out-of-Box Experience (OOBE).
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 1, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
