@@ -37,11 +37,11 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 6, 2025
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-Active infrastructure for Candiru spyware linked to Hungary, Saudi Arabia<a href="https://therecord.media/candiru-spyware-active-infrastructure-hungary-saudi-arabia?&web_view=true"> Full Text</a>
+KLM Confirms Customer Data Breach Linked to Third-Party System<a href="https://hackread.com/klm-customer-data-breach-linked-third-party-system/?&web_view=true"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-Researchers identified eight operational infrastructure clusters associated with Candiru’s DevilsTongue spyware, a Windows-based surveillance tool. Five of these clusters are currently active, with confirmed links to Hungary and Saudi Arabia.
+KLM Royal Dutch Airlines has confirmed a data breach involving a third-party system that exposed customer data from previous interactions with its customer service team. Affected users, including frequent flyers, were notified via email.
 </details>
 <div style="text-align: right" markdown="1">
 Cyware
@@ -51,6 +51,102 @@ Cyware
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 6, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Hijacked Google’s Gemini AI With a Poisoned Calendar Invite to Take Over a Smart Home<a href="https://www.wired.com/story/google-gemini-calendar-invite-hijack-smart-home/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have demonstrated a groundbreaking indirect prompt injection attack against Google’s Gemini AI, showing how malicious calendar invites can trigger real-world actions in smart homes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WWBN, MedDream, Eclipse vulnerabilities<a href="https://blog.talosintelligence.com/wwbn-meddream-eclipse-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed multiple vulnerabilities across WWBN AVideo, MedDream PACS Premium, and Eclipse ThreadX FileX. These include cross-site scripting (XSS), race conditions, privilege escalation, and buffer overflow issues.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UAC-0099 Hackers Weaponize HTA Files to Deploy MATCHBOIL Loader Malware<a href="https://gbhackers.com/uac-0099-hackers-weaponize-hta-files/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UAC-0099, a threat actor group, is actively targeting Ukrainian defense and government entities using a sophisticated malware delivery chain. The campaign leverages phishing emails with double-archived HTA files to deploy the MATCHBOIL loader.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang gives Ridgefield Public Schools 2 days to pay before 90 GB is leaked<a href="https://www.comparitech.com/news/ransomware-gang-gives-ridgefield-public-schools-2-days-to-pay-before-90-gb-is-leaked/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ridgefield Public Schools (RPS) in Connecticut was targeted by the ransomware group SafePay on July 24, 2025. SafePay demanded a ransom and threatened to leak 90 GB of stolen data if unpaid.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shared secret: EDR killer in the kill chain<a href="https://news.sophos.com/en-us/2025/08/06/shared-secret-edr-killer-in-the-kill-chain/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new wave of sophisticated EDR killer tools, often packed with HeartCrypt, is being deployed by multiple ransomware groups to disable endpoint defenses and facilitate ransomware execution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Active infrastructure for Candiru spyware linked to Hungary, Saudi Arabia<a href="https://therecord.media/candiru-spyware-active-infrastructure-hungary-saudi-arabia?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers identified eight operational infrastructure clusters associated with Candiru’s DevilsTongue spyware, a Windows-based surveillance tool. Five of these clusters are currently active, with confirmed links to Hungary and Saudi Arabia.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PBS confirms data breach after employee info leaked on Discord servers<a href="https://www.bleepingcomputer.com/news/security/pbs-confirms-data-breach-after-employee-info-leaked-on-discord-servers/?&web_view=true"> Full Text</a>
@@ -60,13 +156,13 @@ PBS confirms data breach after employee info leaked on Discord servers<a href="h
 PBS has confirmed a data breach involving the exposure of sensitive corporate contact information for nearly 4,000 employees and affiliates. The leaked data has been circulating on Discord servers frequented by fans of PBS Kids.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2025
+August 6, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vibe coding tool Cursor allows persistent code execution<a href="https://www.theregister.com/2025/08/05/mcpoison_bug_abuses_cursor_mcp/?&web_view=true"> Full Text</a>
@@ -76,13 +172,13 @@ Vibe coding tool Cursor allows persistent code execution<a href="https://www.the
 A critical vulnerability in the AI-powered code editor Cursor, identified as “MCPoison,” allows persistent remote code execution through manipulation of the Model Context Protocol (MCP) configuration.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2025
+August 6, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Potential SSL VPN Zero-Day vulnerability impacting Gen 7 SonicWall Firewalls<a href="https://www.cyber.gc.ca/en/alerts-advisories/potential-ssl-vpn-zero-day-vulnerability-impacting-gen-7-sonicwall-firewalls?&web_view=true"> Full Text</a>
@@ -92,13 +188,13 @@ Potential SSL VPN Zero-Day vulnerability impacting Gen 7 SonicWall Firewalls<a h
 A potential zero-day vulnerability in SonicWall Gen 7 SSL VPN firewalls is being actively exploited to bypass multi-factor authentication (MFA) and deploy Akira ransomware. Successful exploitation allows bypassing MFA and deploying ransomware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Government of Canada
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2025
+August 5, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco discloses data breach impacting Cisco.com user accounts<a href="https://www.bleepingcomputer.com/news/security/cisco-discloses-data-breach-impacting-ciscocom-user-accounts/?&web_view=true"> Full Text</a>
@@ -108,13 +204,13 @@ Cisco discloses data breach impacting Cisco.com user accounts<a href="https://ww
 Cisco has disclosed a data breach affecting users of Cisco.com, following a successful voice phishing (vishing) attack that compromised a third-party cloud-based Customer Relationship Management (CRM) system.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2025
+August 5, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dutch Caribbean islands respond to cyberattacks on courts, tax departments<a href="https://therecord.media/aruba-curacao-governments-cyberattacks?&web_view=true"> Full Text</a>
@@ -124,13 +220,13 @@ Dutch Caribbean islands respond to cyberattacks on courts, tax departments<a hre
 Multiple Dutch Caribbean territories — including Curaçao, Aruba, and Sint Maarten — have recently experienced significant cyberattacks targeting government institutions such as tax departments, courts, and parliamentary systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2025
+August 5, 2025 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pro-Iran Hackers Aligned Cyber with Kinetic War Aims<a href="https://www.infosecurity-magazine.com/news/proiran-hackers-aligned-cyber/?&web_view=true"> Full Text</a>
@@ -140,13 +236,13 @@ Pro-Iran Hackers Aligned Cyber with Kinetic War Aims<a href="https://www.infosec
 A recent surge in cyber operations by pro-Iran hacking groups has been observed in alignment with a 12-day kinetic conflict against Israel. They targeted critical infrastructure, public entities, and individuals through a variety of techniques.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2025
+August 5, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Smart Contract Scams | Ethereum Drainers Pose as Trading Bots to Steal Crypto<a href="https://www.sentinelone.com/labs/smart-contract-scams-ethereum-drainers-pose-as-trading-bots-to-steal-crypto/?&web_view=true"> Full Text</a>
@@ -156,13 +252,13 @@ Smart Contract Scams | Ethereum Drainers Pose as Trading Bots to Steal Crypto<a 
 A widespread cryptocurrency scam campaign has been uncovered, where threat actors distribute malicious Ethereum smart contracts disguised as trading bots. These contracts have collectively stolen over $900,000 USD from unsuspecting users.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sentinel One
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2025
+August 5, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crypto ATMs fueling criminal activity, Treasury warns<a href="https://therecord.media/crypto-atms-fueling-cybercrime?&web_view=true"> Full Text</a>
@@ -172,13 +268,13 @@ Crypto ATMs fueling criminal activity, Treasury warns<a href="https://therecord.
 Crypto ATMs have seen a dramatic rise in deployment across the United States. According to data cited by FinCEN from Coin ATM Radar, the number of reported Bitcoin ATMs in the U.S. increased from 4,250 in early 2020 to 30,647 as of August 4, 2025.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2025
+August 5, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NVIDIA Triton Bugs Let Unauthenticated Attackers Execute Code and Hijack AI Servers<a href="https://thehackernews.com/2025/08/nvidia-triton-bugs-let-unauthenticated.html?&web_view=true"> Full Text</a>
@@ -188,7 +284,7 @@ NVIDIA Triton Bugs Let Unauthenticated Attackers Execute Code and Hijack AI Serv
 Multiple critical vulnerabilities in NVIDIA's Triton Inference Server for Windows and Linux allow unauthenticated remote attackers to achieve remote code execution (RCE) and hijack AI servers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

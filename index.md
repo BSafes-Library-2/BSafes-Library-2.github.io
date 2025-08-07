@@ -34,6 +34,102 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+KLM Confirms Customer Data Breach Linked to Third-Party System<a href="https://hackread.com/klm-customer-data-breach-linked-third-party-system/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+KLM Royal Dutch Airlines has confirmed a data breach involving a third-party system that exposed customer data from previous interactions with its customer service team. Affected users, including frequent flyers, were notified via email.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Hijacked Google’s Gemini AI With a Poisoned Calendar Invite to Take Over a Smart Home<a href="https://www.wired.com/story/google-gemini-calendar-invite-hijack-smart-home/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have demonstrated a groundbreaking indirect prompt injection attack against Google’s Gemini AI, showing how malicious calendar invites can trigger real-world actions in smart homes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WWBN, MedDream, Eclipse vulnerabilities<a href="https://blog.talosintelligence.com/wwbn-meddream-eclipse-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed multiple vulnerabilities across WWBN AVideo, MedDream PACS Premium, and Eclipse ThreadX FileX. These include cross-site scripting (XSS), race conditions, privilege escalation, and buffer overflow issues.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UAC-0099 Hackers Weaponize HTA Files to Deploy MATCHBOIL Loader Malware<a href="https://gbhackers.com/uac-0099-hackers-weaponize-hta-files/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UAC-0099, a threat actor group, is actively targeting Ukrainian defense and government entities using a sophisticated malware delivery chain. The campaign leverages phishing emails with double-archived HTA files to deploy the MATCHBOIL loader.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang gives Ridgefield Public Schools 2 days to pay before 90 GB is leaked<a href="https://www.comparitech.com/news/ransomware-gang-gives-ridgefield-public-schools-2-days-to-pay-before-90-gb-is-leaked/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ridgefield Public Schools (RPS) in Connecticut was targeted by the ransomware group SafePay on July 24, 2025. SafePay demanded a ransom and threatened to leak 90 GB of stolen data if unpaid.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shared secret: EDR killer in the kill chain<a href="https://news.sophos.com/en-us/2025/08/06/shared-secret-edr-killer-in-the-kill-chain/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new wave of sophisticated EDR killer tools, often packed with HeartCrypt, is being deployed by multiple ransomware groups to disable endpoint defenses and facilitate ransomware execution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 6, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
