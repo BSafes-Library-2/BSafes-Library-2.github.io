@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+August 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto ATMs fueling criminal activity, Treasury warns<a href="https://therecord.media/crypto-atms-fueling-cybercrime?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crypto ATMs have seen a dramatic rise in deployment across the United States. According to data cited by FinCEN from Coin ATM Radar, the number of reported Bitcoin ATMs in the U.S. increased from 4,250 in early 2020 to 30,647 as of August 4, 2025.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 1, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

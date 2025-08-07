@@ -11,6 +11,34 @@ nav_order: 900220
 August 6, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hackers Hijacked Google’s Gemini AI With a Poisoned Calendar Invite to Take Over a Smart Home<a href="https://www.wired.com/story/google-gemini-calendar-invite-hijack-smart-home/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have demonstrated a groundbreaking indirect prompt injection attack against Google’s Gemini AI, showing how malicious calendar invites can trigger real-world actions in smart homes.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WWBN, MedDream, Eclipse vulnerabilities<a href="https://blog.talosintelligence.com/wwbn-meddream-eclipse-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed multiple vulnerabilities across WWBN AVideo, MedDream PACS Premium, and Eclipse ThreadX FileX. These include cross-site scripting (XSS), race conditions, privilege escalation, and buffer overflow issues.
+</details>
+<div style="text-align: right" markdown="1">
+Talos Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Vibe coding tool Cursor allows persistent code execution<a href="https://www.theregister.com/2025/08/05/mcpoison_bug_abuses_cursor_mcp/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

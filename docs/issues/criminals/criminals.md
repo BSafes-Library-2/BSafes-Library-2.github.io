@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang gives Ridgefield Public Schools 2 days to pay before 90 GB is leaked<a href="https://www.comparitech.com/news/ransomware-gang-gives-ridgefield-public-schools-2-days-to-pay-before-90-gb-is-leaked/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ridgefield Public Schools (RPS) in Connecticut was targeted by the ransomware group SafePay on July 24, 2025. SafePay demanded a ransom and threatened to leak 90 GB of stolen data if unpaid.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 29, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

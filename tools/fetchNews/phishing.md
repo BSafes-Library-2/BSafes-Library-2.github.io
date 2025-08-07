@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Smart Contract Scams | Ethereum Drainers Pose as Trading Bots to Steal Crypto<a href="https://www.sentinelone.com/labs/smart-contract-scams-ethereum-drainers-pose-as-trading-bots-to-steal-crypto/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A widespread cryptocurrency scam campaign has been uncovered, where threat actors distribute malicious Ethereum smart contracts disguised as trading bots. These contracts have collectively stolen over $900,000 USD from unsuspecting users.
+</details>
+<div style="text-align: right" markdown="1">
+Sentinel One
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 4, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
