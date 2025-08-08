@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack hits France’s third-largest mobile operator, millions of customers affected<a href="https://therecord.media/bouygues-telecom-france-cyberattack-data-breach?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bouygues Telecom, France’s third-largest mobile operator, has confirmed a significant cyberattack that compromised the personal data of approximately 6.4 million customer accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Encryption Made for Police and Military Radios May Be Easily Cracked<a href="https://www.wired.com/story/encryption-made-for-police-and-military-radios-may-be-easily-cracked-researchers-find/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have uncovered critical vulnerabilities in end-to-end encryption (E2EE) used in TETRA-based radios, which are widely deployed by police, military, and intelligence agencies globally.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adult sites trick users into Liking Facebook posts using a clickjack Trojan<a href="https://www.malwarebytes.com/blog/news/2025/08/adult-sites-trick-users-into-liking-facebook-posts-using-a-clickjack-trojan?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new clickjacking campaign is exploiting adult content websites hosted on blogspot[.]com to distribute a Trojan that manipulates Facebook interactions. This campaign leverages malicious SVG files containing obfuscated JavaScript.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Air France and KLM disclosed data breaches following the hack of a third-party platform<a href="https://securityaffairs.com/180932/data-breach/air-france-and-klm-disclosed-data-breaches-following-the-hack-of-a-third-party-platform.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Air France and KLM have disclosed a data breach resulting from unauthorized access to a third-party customer service platform. The breach exposed limited customer data but did not compromise sensitive information such as passwords or payment details.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why blow up satellites when you can just hack them?<a href="https://www.theregister.com/2025/08/07/balck_hat_satellites/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers revealed critical vulnerabilities in satellite and ground station software that could allow attackers to hijack or disable space assets. Exploitation of these bugs could allow attackers to take full control of satellite systems and more.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leak Reveals the Workaday Lives of North Korean IT Scammers<a href="https://www.wired.com/story/leaked-data-reveals-the-workaday-lives-of-north-korean-it-scammers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly leaked trove of data has exposed the inner workings of North Korea’s covert IT worker operations, revealing how the regime systematically places skilled developers in remote jobs worldwide to generate revenue for its weapons programs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploring the Top Cyber Threats Facing Agentic AI Systems<a href="https://www.infosecurity-magazine.com/news/top-cyber-threats-facing-agentic/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Context corruption is the most critical threat to agentic AI systems. LLMs are unreliable at distinguishing between legitimate and malicious instructions. Attackers can inject malicious prompts that alter the agent’s behavior.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake VPN and Spam Blocker Apps Tied to VexTrio Used in Ad Fraud, Subscription Scams<a href="https://thehackernews.com/2025/08/fake-vpn-and-spam-blocker-apps-tied-to.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated cybercriminal operation led by the VexTrio group has been uncovered, involving the distribution of fraudulent mobile applications through the Google Play Store and Apple App Store.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google confirms customer data stolen from Salesforce DB<a href="https://www.theregister.com/2025/08/06/google_salesforce_attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has confirmed a data breach involving one of its Salesforce instances, attributed to the threat actor group UNC6040, linked to the notorious ShinyHunters. The attackers accessed contact information and related notes of SMB customers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘High-severity’ Microsoft Exchange vulnerability disclosed on heels of Black Hat talk<a href="https://www.nextgov.com/cybersecurity/2025/08/high-severity-microsoft-exchange-vulnerability-disclosed-heels-black-hat-talk/407276/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability (CVE-2025-53786) allows attackers to manipulate user credentials, escalate privileges, and impersonate hybrid users. It also exposes Entra ID, potentially compromising cloud-based identity services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 6, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
