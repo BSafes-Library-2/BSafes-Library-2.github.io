@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+August 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack hits France’s third-largest mobile operator, millions of customers affected<a href="https://therecord.media/bouygues-telecom-france-cyberattack-data-breach?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bouygues Telecom, France’s third-largest mobile operator, has confirmed a significant cyberattack that compromised the personal data of approximately 6.4 million customer accounts.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Air France and KLM disclosed data breaches following the hack of a third-party platform<a href="https://securityaffairs.com/180932/data-breach/air-france-and-klm-disclosed-data-breaches-following-the-hack-of-a-third-party-platform.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Air France and KLM have disclosed a data breach resulting from unauthorized access to a third-party customer service platform. The breach exposed limited customer data but did not compromise sensitive information such as passwords or payment details.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google confirms customer data stolen from Salesforce DB<a href="https://www.theregister.com/2025/08/06/google_salesforce_attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has confirmed a data breach involving one of its Salesforce instances, attributed to the threat actor group UNC6040, linked to the notorious ShinyHunters. The attackers accessed contact information and related notes of SMB customers.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 6, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

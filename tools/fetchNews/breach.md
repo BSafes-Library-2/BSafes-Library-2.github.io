@@ -11,6 +11,20 @@ nav_order: 900029
 August 6, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+KLM Confirms Customer Data Breach Linked to Third-Party System<a href="https://hackread.com/klm-customer-data-breach-linked-third-party-system/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+KLM Royal Dutch Airlines has confirmed a data breach involving a third-party system that exposed customer data from previous interactions with its customer service team. Affected users, including frequent flyers, were notified via email.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 PBS confirms data breach after employee info leaked on Discord servers<a href="https://www.bleepingcomputer.com/news/security/pbs-confirms-data-breach-after-employee-info-leaked-on-discord-servers/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>
