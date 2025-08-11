@@ -34,6 +34,150 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2025 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+From fake CAPTCHAs to RATs: Inside 2025’s cyber deception threat trends<a href="https://www.helpnetsecurity.com/2025/08/08/cyber-deception-threat-trends-2025/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Between late 2024 and early 2025, the percentage of customers affected by security incidents nearly tripled, rising from 6% to 17%. Over half of these incidents began at the initial access stage.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Royal and BlackSuit ransomware gangs hit over 450 US companies<a href="https://www.bleepingcomputer.com/news/security/royal-and-blacksuit-ransomware-gangs-hit-over-450-us-companies/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Royal and BlackSuit ransomware gangs, believed to be successors of the Conti syndicate, have compromised over 450 U.S. organizations since 2022, collecting more than $370 million in ransom payments.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2025 -- [Law Article](/docs/laws-and-regulations/laws-and-regulations/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian Regulator Sues Optus Over 2022 Data Breach<a href="https://www.infosecurity-magazine.com/news/australian-regulatory-sues-optus/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian Information Commissioner (AIC) has initiated civil proceedings against telecommunications provider Optus over a 2022 data breach that compromised the personal information of 9.5 million Australians.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2025 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Research reveals possible privacy gaps in Apple Intelligence’s data handling<a href="https://cyberscoop.com/apple-intelligence-privacy-siri-whatsapp-lumia-security-black-hat-2025/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Findings indicate that Siri and related services may transmit sensitive user data to Apple servers beyond what is disclosed in Apple’s privacy policies, raising questions about user consent, data handling transparency, and more.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Scoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Columbia University data breach impacts nearly 870,000 individuals<a href="https://www.bleepingcomputer.com/news/security/columbia-university-data-breach-impacts-nearly-870-000-students-applicants-employees/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Columbia University has disclosed a significant data breach that compromised the sensitive information of 868,969 individuals, including current and former students, employees, applicants, and their family members.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Efimer Trojan delivered via email and hacked WordPress websites<a href="https://securelist.com/efimer-trojan/117148/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware campaign involving the Efimer Trojan has been observed targeting cryptocurrency users and WordPress site administrators. Efimer is a ClipBanker-type Trojan that steals and replaces cryptocurrency wallet addresses.
+</details>
+<div style="text-align: right" markdown="1">
+Secure List
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Juniper Networks security advisory (AV25-491)<a href="https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av25-491?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On August 8, 2025, Juniper Networks issued Security Advisory AV25-491 to address multiple vulnerabilities in Juniper Secure Analytics (JSA). These vulnerabilities affect versions 7.5.0 up to but not including 7.5.0 UP12 IF03.
+</details>
+<div style="text-align: right" markdown="1">
+Government of Canada
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean cyber-espionage group ScarCruft adds ransomware in recent attack<a href="https://therecord.media/scarcruft-north-korea-hackers-add-ransomware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ScarCruft, a North Korean state-sponsored cyber-espionage group, has taken the unusual step of deploying a new ransomware named VCD in its latest campaign. ScarCruft used phishing emails with malicious archive attachments to gain initial access.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US court system to boost cyber posture after hack of electronic case management tool<a href="https://www.nextgov.com/cybersecurity/2025/08/us-court-system-boost-cyber-posture-after-hack-electronic-case-management-tool/407321/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US federal judiciary issued a statement confirming that its electronic case management system had been compromised in a cyberattack. The judiciary is implementing enhanced cybersecurity measures to protect sensitive legal documents and case data.
+</details>
+<div style="text-align: right" markdown="1">
+Next Gov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 8, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+August 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leak Reveals the Workaday Lives of North Korean IT Scammers<a href="https://www.wired.com/story/leaked-data-reveals-the-workaday-lives-of-north-korean-it-scammers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly leaked trove of data has exposed the inner workings of North Korea’s covert IT worker operations, revealing how the regime systematically places skilled developers in remote jobs worldwide to generate revenue for its weapons programs.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 1, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

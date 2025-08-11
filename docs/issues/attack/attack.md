@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+August 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Royal and BlackSuit ransomware gangs hit over 450 US companies<a href="https://www.bleepingcomputer.com/news/security/royal-and-blacksuit-ransomware-gangs-hit-over-450-us-companies/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Royal and BlackSuit ransomware gangs, believed to be successors of the Conti syndicate, have compromised over 450 U.S. organizations since 2022, collecting more than $370 million in ransom payments.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean cyber-espionage group ScarCruft adds ransomware in recent attack<a href="https://therecord.media/scarcruft-north-korea-hackers-add-ransomware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ScarCruft, a North Korean state-sponsored cyber-espionage group, has taken the unusual step of deploying a new ransomware named VCD in its latest campaign. ScarCruft used phishing emails with malicious archive attachments to gain initial access.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 6, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

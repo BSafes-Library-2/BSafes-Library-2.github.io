@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Encryption Made for Police and Military Radios May Be Easily Cracked<a href="https://www.wired.com/story/encryption-made-for-police-and-military-radios-may-be-easily-cracked-researchers-find/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have uncovered critical vulnerabilities in end-to-end encryption (E2EE) used in TETRA-based radios, which are widely deployed by police, military, and intelligence agencies globally.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why blow up satellites when you can just hack them?<a href="https://www.theregister.com/2025/08/07/balck_hat_satellites/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers revealed critical vulnerabilities in satellite and ground station software that could allow attackers to hijack or disable space assets. Exploitation of these bugs could allow attackers to take full control of satellite systems and more.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploring the Top Cyber Threats Facing Agentic AI Systems<a href="https://www.infosecurity-magazine.com/news/top-cyber-threats-facing-agentic/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Context corruption is the most critical threat to agentic AI systems. LLMs are unreliable at distinguishing between legitimate and malicious instructions. Attackers can inject malicious prompts that alter the agent’s behavior.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘High-severity’ Microsoft Exchange vulnerability disclosed on heels of Black Hat talk<a href="https://www.nextgov.com/cybersecurity/2025/08/high-severity-microsoft-exchange-vulnerability-disclosed-heels-black-hat-talk/407276/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability (CVE-2025-53786) allows attackers to manipulate user credentials, escalate privileges, and impersonate hybrid users. It also exposes Entra ID, potentially compromising cloud-based identity services.
+</details>
+<div style="text-align: right" markdown="1">
+Next Gov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 6, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -11,6 +11,20 @@ nav_order: 900072
 August 8, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+From fake CAPTCHAs to RATs: Inside 2025’s cyber deception threat trends<a href="https://www.helpnetsecurity.com/2025/08/08/cyber-deception-threat-trends-2025/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Between late 2024 and early 2025, the percentage of customers affected by security incidents nearly tripled, rising from 6% to 17%. Over half of these incidents began at the initial access stage.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Leak Reveals the Workaday Lives of North Korean IT Scammers<a href="https://www.wired.com/story/leaked-data-reveals-the-workaday-lives-of-north-korean-it-scammers/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

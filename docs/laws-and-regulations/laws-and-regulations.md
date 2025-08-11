@@ -7,6 +7,20 @@ nav_order: 700
 
 ## Laws and Regulations
 ---
+August 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian Regulator Sues Optus Over 2022 Data Breach<a href="https://www.infosecurity-magazine.com/news/australian-regulatory-sues-optus/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian Information Commissioner (AIC) has initiated civil proceedings against telecommunications provider Optus over a 2022 data breach that compromised the personal information of 9.5 million Australians.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 11, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

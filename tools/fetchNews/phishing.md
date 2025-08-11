@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adult sites trick users into Liking Facebook posts using a clickjack Trojan<a href="https://www.malwarebytes.com/blog/news/2025/08/adult-sites-trick-users-into-liking-facebook-posts-using-a-clickjack-trojan?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new clickjacking campaign is exploiting adult content websites hosted on blogspot[.]com to distribute a Trojan that manipulates Facebook interactions. This campaign leverages malicious SVG files containing obfuscated JavaScript.
+</details>
+<div style="text-align: right" markdown="1">
+Malware Bytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake VPN and Spam Blocker Apps Tied to VexTrio Used in Ad Fraud, Subscription Scams<a href="https://thehackernews.com/2025/08/fake-vpn-and-spam-blocker-apps-tied-to.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated cybercriminal operation led by the VexTrio group has been uncovered, involving the distribution of fraudulent mobile applications through the Google Play Store and Apple App Store.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 5, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
