@@ -37,11 +37,11 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 8, 2025
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-Cyberattack hits France’s third-largest mobile operator, millions of customers affected<a href="https://therecord.media/bouygues-telecom-france-cyberattack-data-breach?&web_view=true"> Full Text</a>
+From fake CAPTCHAs to RATs: Inside 2025’s cyber deception threat trends<a href="https://www.helpnetsecurity.com/2025/08/08/cyber-deception-threat-trends-2025/?&web_view=true"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-Bouygues Telecom, France’s third-largest mobile operator, has confirmed a significant cyberattack that compromised the personal data of approximately 6.4 million customer accounts.
+Between late 2024 and early 2025, the percentage of customers affected by security incidents nearly tripled, rising from 6% to 17%. Over half of these incidents began at the initial access stage.
 </details>
 <div style="text-align: right" markdown="1">
 Cyware
@@ -51,6 +51,150 @@ Cyware
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Royal and BlackSuit ransomware gangs hit over 450 US companies<a href="https://www.bleepingcomputer.com/news/security/royal-and-blacksuit-ransomware-gangs-hit-over-450-us-companies/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Royal and BlackSuit ransomware gangs, believed to be successors of the Conti syndicate, have compromised over 450 U.S. organizations since 2022, collecting more than $370 million in ransom payments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian Regulator Sues Optus Over 2022 Data Breach<a href="https://www.infosecurity-magazine.com/news/australian-regulatory-sues-optus/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian Information Commissioner (AIC) has initiated civil proceedings against telecommunications provider Optus over a 2022 data breach that compromised the personal information of 9.5 million Australians.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Research reveals possible privacy gaps in Apple Intelligence’s data handling<a href="https://cyberscoop.com/apple-intelligence-privacy-siri-whatsapp-lumia-security-black-hat-2025/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Findings indicate that Siri and related services may transmit sensitive user data to Apple servers beyond what is disclosed in Apple’s privacy policies, raising questions about user consent, data handling transparency, and more.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Columbia University data breach impacts nearly 870,000 individuals<a href="https://www.bleepingcomputer.com/news/security/columbia-university-data-breach-impacts-nearly-870-000-students-applicants-employees/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Columbia University has disclosed a significant data breach that compromised the sensitive information of 868,969 individuals, including current and former students, employees, applicants, and their family members.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Efimer Trojan delivered via email and hacked WordPress websites<a href="https://securelist.com/efimer-trojan/117148/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware campaign involving the Efimer Trojan has been observed targeting cryptocurrency users and WordPress site administrators. Efimer is a ClipBanker-type Trojan that steals and replaces cryptocurrency wallet addresses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Juniper Networks security advisory (AV25-491)<a href="https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av25-491?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On August 8, 2025, Juniper Networks issued Security Advisory AV25-491 to address multiple vulnerabilities in Juniper Secure Analytics (JSA). These vulnerabilities affect versions 7.5.0 up to but not including 7.5.0 UP12 IF03.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean cyber-espionage group ScarCruft adds ransomware in recent attack<a href="https://therecord.media/scarcruft-north-korea-hackers-add-ransomware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ScarCruft, a North Korean state-sponsored cyber-espionage group, has taken the unusual step of deploying a new ransomware named VCD in its latest campaign. ScarCruft used phishing emails with malicious archive attachments to gain initial access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US court system to boost cyber posture after hack of electronic case management tool<a href="https://www.nextgov.com/cybersecurity/2025/08/us-court-system-boost-cyber-posture-after-hack-electronic-case-management-tool/407321/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US federal judiciary issued a statement confirming that its electronic case management system had been compromised in a cyberattack. The judiciary is implementing enhanced cybersecurity measures to protect sensitive legal documents and case data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack hits France’s third-largest mobile operator, millions of customers affected<a href="https://therecord.media/bouygues-telecom-france-cyberattack-data-breach?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bouygues Telecom, France’s third-largest mobile operator, has confirmed a significant cyberattack that compromised the personal data of approximately 6.4 million customer accounts.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Encryption Made for Police and Military Radios May Be Easily Cracked<a href="https://www.wired.com/story/encryption-made-for-police-and-military-radios-may-be-easily-cracked-researchers-find/?&web_view=true"> Full Text</a>
@@ -60,13 +204,13 @@ Encryption Made for Police and Military Radios May Be Easily Cracked<a href="htt
 Researchers have uncovered critical vulnerabilities in end-to-end encryption (E2EE) used in TETRA-based radios, which are widely deployed by police, military, and intelligence agencies globally.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Wired
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 8, 2025
+August 8, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Adult sites trick users into Liking Facebook posts using a clickjack Trojan<a href="https://www.malwarebytes.com/blog/news/2025/08/adult-sites-trick-users-into-liking-facebook-posts-using-a-clickjack-trojan?&web_view=true"> Full Text</a>
@@ -76,13 +220,13 @@ Adult sites trick users into Liking Facebook posts using a clickjack Trojan<a hr
 A new clickjacking campaign is exploiting adult content websites hosted on blogspot[.]com to distribute a Trojan that manipulates Facebook interactions. This campaign leverages malicious SVG files containing obfuscated JavaScript.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Malware Bytes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 8, 2025
+August 8, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Air France and KLM disclosed data breaches following the hack of a third-party platform<a href="https://securityaffairs.com/180932/data-breach/air-france-and-klm-disclosed-data-breaches-following-the-hack-of-a-third-party-platform.html?&web_view=true"> Full Text</a>
@@ -92,13 +236,13 @@ Air France and KLM disclosed data breaches following the hack of a third-party p
 Air France and KLM have disclosed a data breach resulting from unauthorized access to a third-party customer service platform. The breach exposed limited customer data but did not compromise sensitive information such as passwords or payment details.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 8, 2025
+August 8, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why blow up satellites when you can just hack them?<a href="https://www.theregister.com/2025/08/07/balck_hat_satellites/?&web_view=true"> Full Text</a>
@@ -108,13 +252,13 @@ Why blow up satellites when you can just hack them?<a href="https://www.theregis
 Researchers revealed critical vulnerabilities in satellite and ground station software that could allow attackers to hijack or disable space assets. Exploitation of these bugs could allow attackers to take full control of satellite systems and more.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 8, 2025
+August 8, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Leak Reveals the Workaday Lives of North Korean IT Scammers<a href="https://www.wired.com/story/leaked-data-reveals-the-workaday-lives-of-north-korean-it-scammers/?&web_view=true"> Full Text</a>
@@ -124,13 +268,13 @@ Leak Reveals the Workaday Lives of North Korean IT Scammers<a href="https://www.
 A newly leaked trove of data has exposed the inner workings of North Korea’s covert IT worker operations, revealing how the regime systematically places skilled developers in remote jobs worldwide to generate revenue for its weapons programs.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Wired
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2025
+August 7, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exploring the Top Cyber Threats Facing Agentic AI Systems<a href="https://www.infosecurity-magazine.com/news/top-cyber-threats-facing-agentic/?&web_view=true"> Full Text</a>
@@ -140,13 +284,13 @@ Exploring the Top Cyber Threats Facing Agentic AI Systems<a href="https://www.in
 Context corruption is the most critical threat to agentic AI systems. LLMs are unreliable at distinguishing between legitimate and malicious instructions. Attackers can inject malicious prompts that alter the agent’s behavior.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2025
+August 7, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake VPN and Spam Blocker Apps Tied to VexTrio Used in Ad Fraud, Subscription Scams<a href="https://thehackernews.com/2025/08/fake-vpn-and-spam-blocker-apps-tied-to.html?&web_view=true"> Full Text</a>
@@ -156,13 +300,13 @@ Fake VPN and Spam Blocker Apps Tied to VexTrio Used in Ad Fraud, Subscription Sc
 A sophisticated cybercriminal operation led by the VexTrio group has been uncovered, involving the distribution of fraudulent mobile applications through the Google Play Store and Apple App Store.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2025
+August 7, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google confirms customer data stolen from Salesforce DB<a href="https://www.theregister.com/2025/08/06/google_salesforce_attacks/?&web_view=true"> Full Text</a>
@@ -172,13 +316,13 @@ Google confirms customer data stolen from Salesforce DB<a href="https://www.ther
 Google has confirmed a data breach involving one of its Salesforce instances, attributed to the threat actor group UNC6040, linked to the notorious ShinyHunters. The attackers accessed contact information and related notes of SMB customers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2025
+August 7, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘High-severity’ Microsoft Exchange vulnerability disclosed on heels of Black Hat talk<a href="https://www.nextgov.com/cybersecurity/2025/08/high-severity-microsoft-exchange-vulnerability-disclosed-heels-black-hat-talk/407276/?&web_view=true"> Full Text</a>
@@ -188,7 +332,7 @@ August 7, 2025
 The vulnerability (CVE-2025-53786) allows attackers to manipulate user credentials, escalate privileges, and impersonate hybrid users. It also exposes Entra ID, potentially compromising cloud-based identity services.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Next Gov
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
