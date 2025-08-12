@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 8, 2025
+August 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Xerox FreeFlow Flaws Enable SSRF and Remote Code Execution<a href="https://gbhackers.com/xerox-freeflow-flaws/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Xerox has released critical patches for FreeFlow Core version 8.0.4 to address two high-severity vulnerabilities—CVE-2025-8355 and CVE-2025-8356—that enable Server-Side Request Forgery (SSRF) and Remote Code Execution (RCE).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MedusaLocker ransomware group is looking for pentesters<a href="https://securityaffairs.com/181033/hacking/medusalocker-ransomware-group-is-looking-for-pentesters.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The MedusaLocker ransomware group, active since 2019 and operating under a Ransomware-as-a-Service (RaaS) model, has announced a recruitment drive for penetration testers via its Tor-based data leak site.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Connex Credit Union data breach impacts 172,000 members<a href="https://www.bleepingcomputer.com/news/security/connex-credit-union-discloses-data-breach-impacting-172-000-people/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Connex Credit Union, one of Connecticut’s largest non-profit financial institutions, has disclosed a significant data breach that compromised the personal and financial information of approximately 172,000 individuals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Smart Buses flaws expose vehicles to tracking, control, and spying<a href="https://securityaffairs.com/181045/hacking/smart-buses-flaws-expose-vehicles-to-tracking-control-and-spying.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have uncovered critical vulnerabilities in smart bus systems that could allow attackers to remotely track, control, or spy on vehicles. These flaws arise from the insecure integration of passenger Wi-Fi and critical vehicle systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ReVault! When your SoC turns against you… deep dive edition<a href="https://blog.talosintelligence.com/revault-when-your-soc-turns-against-you-2/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers uncovered multiple critical vulnerabilities in Dell ControlVault3 and ControlVault3 Plus firmware, including CVE-2025-25215, CVE-2025-24922, and CVE-2025-24919.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WinRAR zero-day exploited to plant malware on archive extraction<a href="https://www.bleepingcomputer.com/news/security/winrar-zero-day-flaw-exploited-by-romcom-hackers-in-phishing-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical 0-day vulnerability in WinRAR, tracked as CVE-2025-8088, was actively exploited by the RomCom threat actor group in phishing campaigns. The flaw, a directory traversal vulnerability, allows attackers to extract files into arbitrary paths.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The inside story of the Telemessage saga<a href="https://www.theregister.com/2025/08/10/telemessage_archive_online/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A major security lapse in TeleMessage, a Signal clone used by U.S. government officials, has led to the exposure of 410GB of sensitive communications. Over 780 CBP officer emails were compromised.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Embargo Ransomware nets $34.2M in crypto since April 2024<a href="https://securityaffairs.com/180981/cyber-crime/embargo-ransomware-nets-34-2m-in-crypto-since-april-2024.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a new report, the Embargo ransomware group has amassed approximately $34.2 million in cryptocurrency since its emergence in April 2024. The group primarily targets the healthcare, business services, and manufacturing sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security flaws in a carmaker’s web portal let one hacker remotely unlock cars from anywhere<a href="https://techcrunch.com/2025/08/10/security-flaws-in-a-carmakers-web-portal-let-one-hacker-remotely-unlock-cars-from-anywhere/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher uncovered critical vulnerabilities in a major carmaker’s dealership web portal that allowed unauthorized creation of a national admin account. This access enabled full control over customer and vehicle data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+After researchers unmasked a prolific SMS scammer, a new operation has emerged in its wake<a href="https://techcrunch.com/2025/08/10/after-researchers-unmasked-a-prolific-sms-scammer-a-new-operation-has-emerged-in-its-wake/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new large-scale SMS phishing operation, dubbed Magic Mouse, has emerged following the takedown of the earlier scam campaign known as Magic Cat. Magic Mouse is now responsible for the theft of approximately 650,000 credit cards per month.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 From fake CAPTCHAs to RATs: Inside 2025’s cyber deception threat trends<a href="https://www.helpnetsecurity.com/2025/08/08/cyber-deception-threat-trends-2025/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ From fake CAPTCHAs to RATs: Inside 2025’s cyber deception threat trends<a href
 Between late 2024 and early 2025, the percentage of customers affected by security incidents nearly tripled, rising from 6% to 17%. Over half of these incidents began at the initial access stage.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 8, 2025
+August 8, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Royal and BlackSuit ransomware gangs hit over 450 US companies<a href="https://www.bleepingcomputer.com/news/security/royal-and-blacksuit-ransomware-gangs-hit-over-450-us-companies/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Royal and BlackSuit ransomware gangs hit over 450 US companies<a href="https://w
 The Royal and BlackSuit ransomware gangs, believed to be successors of the Conti syndicate, have compromised over 450 U.S. organizations since 2022, collecting more than $370 million in ransom payments.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 8, 2025
+August 8, 2025 -- [Law Article](/docs/laws-and-regulations/laws-and-regulations/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australian Regulator Sues Optus Over 2022 Data Breach<a href="https://www.infosecurity-magazine.com/news/australian-regulatory-sues-optus/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Australian Regulator Sues Optus Over 2022 Data Breach<a href="https://www.infose
 The Australian Information Commissioner (AIC) has initiated civil proceedings against telecommunications provider Optus over a 2022 data breach that compromised the personal information of 9.5 million Australians.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 8, 2025
+August 8, 2025 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Research reveals possible privacy gaps in Apple Intelligence’s data handling<a href="https://cyberscoop.com/apple-intelligence-privacy-siri-whatsapp-lumia-security-black-hat-2025/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Research reveals possible privacy gaps in Apple Intelligence’s data handling<a
 Findings indicate that Siri and related services may transmit sensitive user data to Apple servers beyond what is disclosed in Apple’s privacy policies, raising questions about user consent, data handling transparency, and more.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyber Scoop
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 8, 2025
+August 8, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Columbia University data breach impacts nearly 870,000 individuals<a href="https://www.bleepingcomputer.com/news/security/columbia-university-data-breach-impacts-nearly-870-000-students-applicants-employees/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Columbia University data breach impacts nearly 870,000 individuals<a href="https
 Columbia University has disclosed a significant data breach that compromised the sensitive information of 868,969 individuals, including current and former students, employees, applicants, and their family members.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 8, 2025
+August 8, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Efimer Trojan delivered via email and hacked WordPress websites<a href="https://securelist.com/efimer-trojan/117148/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Efimer Trojan delivered via email and hacked WordPress websites<a href="https://
 A new malware campaign involving the Efimer Trojan has been observed targeting cryptocurrency users and WordPress site administrators. Efimer is a ClipBanker-type Trojan that steals and replaces cryptocurrency wallet addresses.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Secure List
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 8, 2025
+August 8, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Juniper Networks security advisory (AV25-491)<a href="https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av25-491?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Juniper Networks security advisory (AV25-491)<a href="https://www.cyber.gc.ca/en
 On August 8, 2025, Juniper Networks issued Security Advisory AV25-491 to address multiple vulnerabilities in Juniper Secure Analytics (JSA). These vulnerabilities affect versions 7.5.0 up to but not including 7.5.0 UP12 IF03.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Government of Canada
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 8, 2025
+August 8, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean cyber-espionage group ScarCruft adds ransomware in recent attack<a href="https://therecord.media/scarcruft-north-korea-hackers-add-ransomware?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ North Korean cyber-espionage group ScarCruft adds ransomware in recent attack<a 
 ScarCruft, a North Korean state-sponsored cyber-espionage group, has taken the unusual step of deploying a new ransomware named VCD in its latest campaign. ScarCruft used phishing emails with malicious archive attachments to gain initial access.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 8, 2025
+August 8, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US court system to boost cyber posture after hack of electronic case management tool<a href="https://www.nextgov.com/cybersecurity/2025/08/us-court-system-boost-cyber-posture-after-hack-electronic-case-management-tool/407321/?&web_view=true"> Full Text</a>
@@ -172,7 +332,7 @@ US court system to boost cyber posture after hack of electronic case management 
 The US federal judiciary issued a statement confirming that its electronic case management system had been compromised in a cyberattack. The judiciary is implementing enhanced cybersecurity measures to protect sensitive legal documents and case data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Next Gov
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
