@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2025
+August 11, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Xerox FreeFlow Flaws Enable SSRF and Remote Code Execution<a href="https://gbhackers.com/xerox-freeflow-flaws/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Xerox FreeFlow Flaws Enable SSRF and Remote Code Execution<a href="https://gbhac
 Xerox has released critical patches for FreeFlow Core version 8.0.4 to address two high-severity vulnerabilities—CVE-2025-8355 and CVE-2025-8356—that enable Server-Side Request Forgery (SSRF) and Remote Code Execution (RCE).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2025
+August 11, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MedusaLocker ransomware group is looking for pentesters<a href="https://securityaffairs.com/181033/hacking/medusalocker-ransomware-group-is-looking-for-pentesters.html?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ MedusaLocker ransomware group is looking for pentesters<a href="https://security
 The MedusaLocker ransomware group, active since 2019 and operating under a Ransomware-as-a-Service (RaaS) model, has announced a recruitment drive for penetration testers via its Tor-based data leak site.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2025
+August 11, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Connex Credit Union data breach impacts 172,000 members<a href="https://www.bleepingcomputer.com/news/security/connex-credit-union-discloses-data-breach-impacting-172-000-people/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Connex Credit Union data breach impacts 172,000 members<a href="https://www.blee
 Connex Credit Union, one of Connecticut’s largest non-profit financial institutions, has disclosed a significant data breach that compromised the personal and financial information of approximately 172,000 individuals.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2025
+August 11, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Smart Buses flaws expose vehicles to tracking, control, and spying<a href="https://securityaffairs.com/181045/hacking/smart-buses-flaws-expose-vehicles-to-tracking-control-and-spying.html?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Smart Buses flaws expose vehicles to tracking, control, and spying<a href="https
 Researchers have uncovered critical vulnerabilities in smart bus systems that could allow attackers to remotely track, control, or spy on vehicles. These flaws arise from the insecure integration of passenger Wi-Fi and critical vehicle systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2025
+August 11, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ReVault! When your SoC turns against you… deep dive edition<a href="https://blog.talosintelligence.com/revault-when-your-soc-turns-against-you-2/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ ReVault! When your SoC turns against you… deep dive edition<a href="https://bl
 Researchers uncovered multiple critical vulnerabilities in Dell ControlVault3 and ControlVault3 Plus firmware, including CVE-2025-25215, CVE-2025-24922, and CVE-2025-24919.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Talos Intelligence
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2025
+August 11, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WinRAR zero-day exploited to plant malware on archive extraction<a href="https://www.bleepingcomputer.com/news/security/winrar-zero-day-flaw-exploited-by-romcom-hackers-in-phishing-attacks/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ WinRAR zero-day exploited to plant malware on archive extraction<a href="https:/
 A critical 0-day vulnerability in WinRAR, tracked as CVE-2025-8088, was actively exploited by the RomCom threat actor group in phishing campaigns. The flaw, a directory traversal vulnerability, allows attackers to extract files into arbitrary paths.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2025
+August 11, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The inside story of the Telemessage saga<a href="https://www.theregister.com/2025/08/10/telemessage_archive_online/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ The inside story of the Telemessage saga<a href="https://www.theregister.com/202
 A major security lapse in TeleMessage, a Signal clone used by U.S. government officials, has led to the exposure of 410GB of sensitive communications. Over 780 CBP officer emails were compromised.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2025
+August 11, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Embargo Ransomware nets $34.2M in crypto since April 2024<a href="https://securityaffairs.com/180981/cyber-crime/embargo-ransomware-nets-34-2m-in-crypto-since-april-2024.html?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Embargo Ransomware nets $34.2M in crypto since April 2024<a href="https://securi
 According to a new report, the Embargo ransomware group has amassed approximately $34.2 million in cryptocurrency since its emergence in April 2024. The group primarily targets the healthcare, business services, and manufacturing sectors.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2025
+August 11, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security flaws in a carmaker’s web portal let one hacker remotely unlock cars from anywhere<a href="https://techcrunch.com/2025/08/10/security-flaws-in-a-carmakers-web-portal-let-one-hacker-remotely-unlock-cars-from-anywhere/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Security flaws in a carmaker’s web portal let one hacker remotely unlock cars 
 A security researcher uncovered critical vulnerabilities in a major carmaker’s dealership web portal that allowed unauthorized creation of a national admin account. This access enabled full control over customer and vehicle data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Tech Crunch
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2025
+August 11, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 After researchers unmasked a prolific SMS scammer, a new operation has emerged in its wake<a href="https://techcrunch.com/2025/08/10/after-researchers-unmasked-a-prolific-sms-scammer-a-new-operation-has-emerged-in-its-wake/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ After researchers unmasked a prolific SMS scammer, a new operation has emerged i
 A new large-scale SMS phishing operation, dubbed Magic Mouse, has emerged following the takedown of the earlier scam campaign known as Magic Cat. Magic Mouse is now responsible for the theft of approximately 650,000 credit cards per month.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Tech Crunch
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MedusaLocker ransomware group is looking for pentesters<a href="https://securityaffairs.com/181033/hacking/medusalocker-ransomware-group-is-looking-for-pentesters.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The MedusaLocker ransomware group, active since 2019 and operating under a Ransomware-as-a-Service (RaaS) model, has announced a recruitment drive for penetration testers via its Tor-based data leak site.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 6, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Xerox FreeFlow Flaws Enable SSRF and Remote Code Execution<a href="https://gbhackers.com/xerox-freeflow-flaws/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Xerox has released critical patches for FreeFlow Core version 8.0.4 to address two high-severity vulnerabilities—CVE-2025-8355 and CVE-2025-8356—that enable Server-Side Request Forgery (SSRF) and Remote Code Execution (RCE).
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Smart Buses flaws expose vehicles to tracking, control, and spying<a href="https://securityaffairs.com/181045/hacking/smart-buses-flaws-expose-vehicles-to-tracking-control-and-spying.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have uncovered critical vulnerabilities in smart bus systems that could allow attackers to remotely track, control, or spy on vehicles. These flaws arise from the insecure integration of passenger Wi-Fi and critical vehicle systems.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ReVault! When your SoC turns against you… deep dive edition<a href="https://blog.talosintelligence.com/revault-when-your-soc-turns-against-you-2/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers uncovered multiple critical vulnerabilities in Dell ControlVault3 and ControlVault3 Plus firmware, including CVE-2025-25215, CVE-2025-24922, and CVE-2025-24919.
+</details>
+<div style="text-align: right" markdown="1">
+Talos Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security flaws in a carmaker’s web portal let one hacker remotely unlock cars from anywhere<a href="https://techcrunch.com/2025/08/10/security-flaws-in-a-carmakers-web-portal-let-one-hacker-remotely-unlock-cars-from-anywhere/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher uncovered critical vulnerabilities in a major carmaker’s dealership web portal that allowed unauthorized creation of a national admin account. This access enabled full control over customer and vehicle data.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 8, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

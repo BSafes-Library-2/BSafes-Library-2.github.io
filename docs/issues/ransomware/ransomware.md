@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+August 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Embargo Ransomware nets $34.2M in crypto since April 2024<a href="https://securityaffairs.com/180981/cyber-crime/embargo-ransomware-nets-34-2m-in-crypto-since-april-2024.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a new report, the Embargo ransomware group has amassed approximately $34.2 million in cryptocurrency since its emergence in April 2024. The group primarily targets the healthcare, business services, and manufacturing sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 4, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+August 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Research reveals possible privacy gaps in Apple Intelligence’s data handling<a href="https://cyberscoop.com/apple-intelligence-privacy-siri-whatsapp-lumia-security-black-hat-2025/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Findings indicate that Siri and related services may transmit sensitive user data to Apple servers beyond what is disclosed in Apple’s privacy policies, raising questions about user consent, data handling transparency, and more.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Scoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 1, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

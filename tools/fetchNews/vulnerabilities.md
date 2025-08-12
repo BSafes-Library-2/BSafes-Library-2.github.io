@@ -11,6 +11,20 @@ nav_order: 900220
 August 8, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Juniper Networks security advisory (AV25-491)<a href="https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av25-491?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On August 8, 2025, Juniper Networks issued Security Advisory AV25-491 to address multiple vulnerabilities in Juniper Secure Analytics (JSA). These vulnerabilities affect versions 7.5.0 up to but not including 7.5.0 UP12 IF03.
+</details>
+<div style="text-align: right" markdown="1">
+Government of Canada
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Encryption Made for Police and Military Radios May Be Easily Cracked<a href="https://www.wired.com/story/encryption-made-for-police-and-military-radios-may-be-easily-cracked-researchers-find/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

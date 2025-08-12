@@ -11,6 +11,34 @@ nav_order: 900029
 August 8, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Columbia University data breach impacts nearly 870,000 individuals<a href="https://www.bleepingcomputer.com/news/security/columbia-university-data-breach-impacts-nearly-870-000-students-applicants-employees/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Columbia University has disclosed a significant data breach that compromised the sensitive information of 868,969 individuals, including current and former students, employees, applicants, and their family members.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US court system to boost cyber posture after hack of electronic case management tool<a href="https://www.nextgov.com/cybersecurity/2025/08/us-court-system-boost-cyber-posture-after-hack-electronic-case-management-tool/407321/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US federal judiciary issued a statement confirming that its electronic case management system had been compromised in a cyberattack. The judiciary is implementing enhanced cybersecurity measures to protect sensitive legal documents and case data.
+</details>
+<div style="text-align: right" markdown="1">
+Next Gov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cyberattack hits France’s third-largest mobile operator, millions of customers affected<a href="https://therecord.media/bouygues-telecom-france-cyberattack-data-breach?&amp;web_view=true"> Full Text</a>
 </p>
 <details>
