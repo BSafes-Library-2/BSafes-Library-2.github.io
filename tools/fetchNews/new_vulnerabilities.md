@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 12, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers determine old vulnerabilities pose real-world threat to sensitive data in public clouds<a href="https://cyberscoop.com/cloud-security-l1tf-reloaded-public-cloud-vulnerability-exploit/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability poses a significant threat to public cloud providers, whose business model involves offering remote code execution as a service and renting out shared hardware resources.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Scoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall pins firewall attack spree on year-old vulnerability<a href="https://cyberscoop.com/sonicwall-firewall-attacks-old-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent surge in ransomware attacks targeting SonicWall Gen 7 firewalls has been attributed to CVE-2024-40766, a critical improper access control vulnerability in SonicOS. SonicWall has denied the presence of a zero-day vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Scoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

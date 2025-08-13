@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 12, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Home Office Phishing Scam Targets UK Immigration Sponsors<a href="https://www.infosecurity-magazine.com/news/home-office-phishing-uk/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A phishing campaign is actively targeting UK organizations licensed to sponsor foreign workers and students by impersonating the UK Home Office. The attackers aim to steal Sponsorship Management System credentials to facilitate immigration fraud.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

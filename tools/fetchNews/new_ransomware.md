@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+August 12, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers cracked the encryption used by DarkBit ransomware<a href="https://securityaffairs.com/181064/malware/researchers-cracked-the-encryption-used-by-darkbit-ransomware.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm Profero has successfully cracked the encryption used by the DarkBit ransomware, enabling victims to recover encrypted files without paying a ransom. The ransomware is attributed to the Iran-linked MuddyWater APT group.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

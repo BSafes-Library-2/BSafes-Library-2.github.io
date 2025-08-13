@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+August 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Connex Credit Union data breach impacts 172,000 members<a href="https://www.bleepingcomputer.com/news/security/connex-credit-union-discloses-data-breach-impacting-172-000-people/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Connex Credit Union, one of Connecticut’s largest non-profit financial institutions, has disclosed a significant data breach that compromised the personal and financial information of approximately 172,000 individuals.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The inside story of the Telemessage saga<a href="https://www.theregister.com/2025/08/10/telemessage_archive_online/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A major security lapse in TeleMessage, a Signal clone used by U.S. government officials, has led to the exposure of 410GB of sensitive communications. Over 780 CBP officer emails were compromised.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 8, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

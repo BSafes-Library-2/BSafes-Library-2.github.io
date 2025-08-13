@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WinRAR zero-day exploited to plant malware on archive extraction<a href="https://www.bleepingcomputer.com/news/security/winrar-zero-day-flaw-exploited-by-romcom-hackers-in-phishing-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical 0-day vulnerability in WinRAR, tracked as CVE-2025-8088, was actively exploited by the RomCom threat actor group in phishing campaigns. The flaw, a directory traversal vulnerability, allows attackers to extract files into arbitrary paths.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+After researchers unmasked a prolific SMS scammer, a new operation has emerged in its wake<a href="https://techcrunch.com/2025/08/10/after-researchers-unmasked-a-prolific-sms-scammer-a-new-operation-has-emerged-in-its-wake/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new large-scale SMS phishing operation, dubbed Magic Mouse, has emerged following the takedown of the earlier scam campaign known as Magic Cat. Magic Mouse is now responsible for the theft of approximately 650,000 credit cards per month.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 8, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
