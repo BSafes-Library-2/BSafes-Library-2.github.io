@@ -34,6 +34,134 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major outage at Pennsylvania OAG blamed on 'cyber incident'<a href="https://www.theregister.com/2025/08/12/major_outage_at_pennsylvania_attorney/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Pennsylvania Office of Attorney General (OAG) is experiencing a major service outage due to a suspected cyber incident. The disruption has rendered its website, email systems, and phone lines inoperable for two consecutive days.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Home Office Phishing Scam Targets UK Immigration Sponsors<a href="https://www.infosecurity-magazine.com/news/home-office-phishing-uk/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A phishing campaign is actively targeting UK organizations licensed to sponsor foreign workers and students by impersonating the UK Home Office. The attackers aim to steal Sponsorship Management System credentials to facilitate immigration fraud.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ghanaian Nationals Extradited for Roles in $100M Romance and Wire Frau<a href="https://www.infosecurity-magazine.com/news/ghanaian-nationals-extradited/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four Ghanaian nationals have been indicted for orchestrating a transnational fraud ring responsible for over $100 million in losses through romance scams and Business Email Compromise (BEC) schemes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers cracked the encryption used by DarkBit ransomware<a href="https://securityaffairs.com/181064/malware/researchers-cracked-the-encryption-used-by-darkbit-ransomware.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm Profero has successfully cracked the encryption used by the DarkBit ransomware, enabling victims to recover encrypted files without paying a ransom. The ransomware is attributed to the Iran-linked MuddyWater APT group.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers determine old vulnerabilities pose real-world threat to sensitive data in public clouds<a href="https://cyberscoop.com/cloud-security-l1tf-reloaded-public-cloud-vulnerability-exploit/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability poses a significant threat to public cloud providers, whose business model involves offering remote code execution as a service and renting out shared hardware resources.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Kimsuky hackers exposed in alleged data breach<a href="https://www.bleepingcomputer.com/news/security/north-korean-kimsuky-hackers-exposed-in-alleged-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A major breach has exposed the inner workings of the North Korean state-sponsored threat group Kimsuky. Two hackers, 'Saber' and 'cyb0rg', leaked 8.9GB of Kimsuky's internal data, citing ethical motivations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall pins firewall attack spree on year-old vulnerability<a href="https://cyberscoop.com/sonicwall-firewall-attacks-old-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent surge in ransomware attacks targeting SonicWall Gen 7 firewalls has been attributed to CVE-2024-40766, a critical improper access control vulnerability in SonicOS. SonicWall has denied the presence of a zero-day vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-severity WinRAR 0-day exploited for weeks by 2 groups<a href="https://arstechnica.com/security/2025/08/high-severity-winrar-0-day-exploited-for-weeks-by-2-groups/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical zero-day vulnerability in WinRAR has been actively exploited by two Russian cybercrime groups. The attackers used phishing emails with malicious archive attachments to backdoor victim systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 11, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
