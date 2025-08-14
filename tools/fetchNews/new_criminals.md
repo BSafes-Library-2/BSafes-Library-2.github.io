@@ -8,6 +8,25 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Exploit Low-Cost Initial Access Broker Market<a href="https://www.infosecurity-magazine.com/news/cybercriminals-low-cost-initial/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most common initial access vectors included:
+VPN accounts – 23.5%
+Domain user accounts – 19.9%
+Remote Desktop Protocol (RDP) – 16.7%
+
+Such access enables threat actors to perform lateral movement, defense evasion, and data exfiltration.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+August 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Speed kills: AI coding tools revive old-school hacks<a href="https://www.reversinglabs.com/blog/ai-coding-tools-old-school-hacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers uncovered critical vulnerabilities in AI-powered coding tools that prioritize development speed over security. Tools like CodeRabbit can be exploited to perform RCE and exfiltrate sensitive data from development environments.
+</details>
+<div style="text-align: right" markdown="1">
+Reversing Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 8, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

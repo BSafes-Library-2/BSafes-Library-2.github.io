@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+August 12, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Kimsuky hackers exposed in alleged data breach<a href="https://www.bleepingcomputer.com/news/security/north-korean-kimsuky-hackers-exposed-in-alleged-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A major breach has exposed the inner workings of the North Korean state-sponsored threat group Kimsuky. Two hackers, 'Saber' and 'cyb0rg', leaked 8.9GB of Kimsuky's internal data, citing ethical motivations.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,6 +34,171 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Minecraft Installer Spreads NjRat Spyware to Steal Data<a href="https://hackread.com/fake-minecraft-installer-njrat-spyware-steal-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious campaign is distributing the NjRat Remote Access Trojan (RAT) through a fake Minecraft installer disguised as a browser-based clone called Eaglercraft 1.12 Offline.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2025 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Speed kills: AI coding tools revive old-school hacks<a href="https://www.reversinglabs.com/blog/ai-coding-tools-old-school-hacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers uncovered critical vulnerabilities in AI-powered coding tools that prioritize development speed over security. Tools like CodeRabbit can be exploited to perform RCE and exfiltrate sensitive data from development environments.
+</details>
+<div style="text-align: right" markdown="1">
+Reversing Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Active attacks target Office vuln patched 8 years ago<a href="https://www.theregister.com/2025/08/13/crooks_cant_let_go_active/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers continue to exploit CVE-2017-11882, a remote code execution vulnerability in Microsoft Office's Equation Editor, despite it being patched in 2017 and the component being removed in 2018.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Deepfake AI Trading Scams Target Global Investors<a href="https://www.infosecurity-magazine.com/news/deepfake-ai-trading-scams-target/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated wave of fraudulent “AI-powered” trading platforms is targeting global investors using deepfake technology and coordinated online deception. These exploit artificial intelligence to impersonate public figures and fabricate credibility.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers leak 2.8M sensitive records from Allianz Life in Salesforce data breach<a href="https://securityaffairs.com/181093/data-breach/hackers-leak-2-8m-sensitive-records-from-allianz-life-in-salesforce-data-breach.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Allianz Life has confirmed a significant data breach involving the exposure of 2.8 million sensitive records, affecting the majority of its 1.4 million customers. The breach is linked to a compromise of a third-party Salesforce CRM system.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Exploit Low-Cost Initial Access Broker Market<a href="https://www.infosecurity-magazine.com/news/cybercriminals-low-cost-initial/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most common initial access vectors included:
+VPN accounts – 23.5%
+Domain user accounts – 19.9%
+Remote Desktop Protocol (RDP) – 16.7%
+
+Such access enables threat actors to perform lateral movement, defense evasion, and data exfiltration.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2025 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Muddled Libra’s Strike Teams: Amalgamated Evil<a href="https://unit42.paloaltonetworks.com/muddled-libras-strike-teams/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since late 2022, threat researchers from Unit 42 have tracked at least seven distinct strike teams associated with Muddled Libra. These teams are not static; personas frequently move between them, and their objectives and methods evolve over time.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malvertising campaign leads to PS1Bot, a multi-stage malware framework<a href="https://blog.talosintelligence.com/ps1bot-malvertising-campaign/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A persistent malvertising campaign active throughout 2025 is delivering PS1Bot, a modular multi-stage malware framework written in PowerShell and C#. PS1Bot is designed for stealth and flexibility.
+</details>
+<div style="text-align: right" markdown="1">
+Talos Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP fixed 26 flaws in August 2025 Update, including 4 Critical<a href="https://securityaffairs.com/181085/uncategorized/sap-fixed-26-flaws-in-august-2025-update-including-4-critical.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities pose severe risks including full system compromise, unauthorized code execution, and unauthorized database access. Exploitation could lead to loss of confidentiality, integrity, and availability across affected SAP environments.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian government hackers said to be behind US federal court filing system hack: Report<a href="https://techcrunch.com/2025/08/12/russian-government-hackers-said-to-be-behind-us-federal-court-filing-system-hack-report/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent cyberattack on the U.S. federal court filing system, PACER, has been attributed to Russian government hackers. The breach has compromised sealed legal records and potentially exposed the identities of confidential informants.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 12, 2025 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

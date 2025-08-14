@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+August 12, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major outage at Pennsylvania OAG blamed on 'cyber incident'<a href="https://www.theregister.com/2025/08/12/major_outage_at_pennsylvania_attorney/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Pennsylvania Office of Attorney General (OAG) is experiencing a major service outage due to a suspected cyber incident. The disruption has rendered its website, email systems, and phone lines inoperable for two consecutive days.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 1, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

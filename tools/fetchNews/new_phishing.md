@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Deepfake AI Trading Scams Target Global Investors<a href="https://www.infosecurity-magazine.com/news/deepfake-ai-trading-scams-target/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated wave of fraudulent “AI-powered” trading platforms is targeting global investors using deepfake technology and coordinated online deception. These exploit artificial intelligence to impersonate public figures and fabricate credibility.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malvertising campaign leads to PS1Bot, a multi-stage malware framework<a href="https://blog.talosintelligence.com/ps1bot-malvertising-campaign/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A persistent malvertising campaign active throughout 2025 is delivering PS1Bot, a modular multi-stage malware framework written in PowerShell and C#. PS1Bot is designed for stealth and flexibility.
+</details>
+<div style="text-align: right" markdown="1">
+Talos Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 12, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

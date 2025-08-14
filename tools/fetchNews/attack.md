@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+August 12, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-severity WinRAR 0-day exploited for weeks by 2 groups<a href="https://arstechnica.com/security/2025/08/high-severity-winrar-0-day-exploited-for-weeks-by-2-groups/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical zero-day vulnerability in WinRAR has been actively exploited by two Russian cybercrime groups. The attackers used phishing emails with malicious archive attachments to backdoor victim systems.
+</details>
+<div style="text-align: right" markdown="1">
+Ars Technica
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 8, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

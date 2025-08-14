@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+August 12, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ghanaian Nationals Extradited for Roles in $100M Romance and Wire Frau<a href="https://www.infosecurity-magazine.com/news/ghanaian-nationals-extradited/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four Ghanaian nationals have been indicted for orchestrating a transnational fraud ring responsible for over $100 million in losses through romance scams and Business Email Compromise (BEC) schemes.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 28, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

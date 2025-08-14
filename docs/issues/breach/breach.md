@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+August 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers leak 2.8M sensitive records from Allianz Life in Salesforce data breach<a href="https://securityaffairs.com/181093/data-breach/hackers-leak-2-8m-sensitive-records-from-allianz-life-in-salesforce-data-breach.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Allianz Life has confirmed a significant data breach involving the exposure of 2.8 million sensitive records, affecting the majority of its 1.4 million customers. The breach is linked to a compromise of a third-party Salesforce CRM system.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 12, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP fixed 26 flaws in August 2025 Update, including 4 Critical<a href="https://securityaffairs.com/181085/uncategorized/sap-fixed-26-flaws-in-august-2025-update-including-4-critical.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities pose severe risks including full system compromise, unauthorized code execution, and unauthorized database access. Exploitation could lead to loss of confidentiality, integrity, and availability across affected SAP environments.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 12, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
