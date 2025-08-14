@@ -34,7 +34,172 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2025
+August 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Minecraft Installer Spreads NjRat Spyware to Steal Data<a href="https://hackread.com/fake-minecraft-installer-njrat-spyware-steal-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious campaign is distributing the NjRat Remote Access Trojan (RAT) through a fake Minecraft installer disguised as a browser-based clone called Eaglercraft 1.12 Offline.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Speed kills: AI coding tools revive old-school hacks<a href="https://www.reversinglabs.com/blog/ai-coding-tools-old-school-hacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers uncovered critical vulnerabilities in AI-powered coding tools that prioritize development speed over security. Tools like CodeRabbit can be exploited to perform RCE and exfiltrate sensitive data from development environments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Active attacks target Office vuln patched 8 years ago<a href="https://www.theregister.com/2025/08/13/crooks_cant_let_go_active/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers continue to exploit CVE-2017-11882, a remote code execution vulnerability in Microsoft Office's Equation Editor, despite it being patched in 2017 and the component being removed in 2018.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Deepfake AI Trading Scams Target Global Investors<a href="https://www.infosecurity-magazine.com/news/deepfake-ai-trading-scams-target/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated wave of fraudulent “AI-powered” trading platforms is targeting global investors using deepfake technology and coordinated online deception. These exploit artificial intelligence to impersonate public figures and fabricate credibility.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers leak 2.8M sensitive records from Allianz Life in Salesforce data breach<a href="https://securityaffairs.com/181093/data-breach/hackers-leak-2-8m-sensitive-records-from-allianz-life-in-salesforce-data-breach.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Allianz Life has confirmed a significant data breach involving the exposure of 2.8 million sensitive records, affecting the majority of its 1.4 million customers. The breach is linked to a compromise of a third-party Salesforce CRM system.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Exploit Low-Cost Initial Access Broker Market<a href="https://www.infosecurity-magazine.com/news/cybercriminals-low-cost-initial/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most common initial access vectors included:
+VPN accounts – 23.5%
+Domain user accounts – 19.9%
+Remote Desktop Protocol (RDP) – 16.7%
+
+Such access enables threat actors to perform lateral movement, defense evasion, and data exfiltration.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Muddled Libra’s Strike Teams: Amalgamated Evil<a href="https://unit42.paloaltonetworks.com/muddled-libras-strike-teams/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since late 2022, threat researchers from Unit 42 have tracked at least seven distinct strike teams associated with Muddled Libra. These teams are not static; personas frequently move between them, and their objectives and methods evolve over time.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malvertising campaign leads to PS1Bot, a multi-stage malware framework<a href="https://blog.talosintelligence.com/ps1bot-malvertising-campaign/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A persistent malvertising campaign active throughout 2025 is delivering PS1Bot, a modular multi-stage malware framework written in PowerShell and C#. PS1Bot is designed for stealth and flexibility.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP fixed 26 flaws in August 2025 Update, including 4 Critical<a href="https://securityaffairs.com/181085/uncategorized/sap-fixed-26-flaws-in-august-2025-update-including-4-critical.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities pose severe risks including full system compromise, unauthorized code execution, and unauthorized database access. Exploitation could lead to loss of confidentiality, integrity, and availability across affected SAP environments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian government hackers said to be behind US federal court filing system hack: Report<a href="https://techcrunch.com/2025/08/12/russian-government-hackers-said-to-be-behind-us-federal-court-filing-system-hack-report/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent cyberattack on the U.S. federal court filing system, PACER, has been attributed to Russian government hackers. The breach has compromised sealed legal records and potentially exposed the identities of confidential informants.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2025 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Major outage at Pennsylvania OAG blamed on 'cyber incident'<a href="https://www.theregister.com/2025/08/12/major_outage_at_pennsylvania_attorney/?&web_view=true"> Full Text</a>
@@ -44,13 +209,13 @@ Major outage at Pennsylvania OAG blamed on 'cyber incident'<a href="https://www.
 The Pennsylvania Office of Attorney General (OAG) is experiencing a major service outage due to a suspected cyber incident. The disruption has rendered its website, email systems, and phone lines inoperable for two consecutive days.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2025
+August 12, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Home Office Phishing Scam Targets UK Immigration Sponsors<a href="https://www.infosecurity-magazine.com/news/home-office-phishing-uk/?&web_view=true"> Full Text</a>
@@ -60,13 +225,13 @@ Home Office Phishing Scam Targets UK Immigration Sponsors<a href="https://www.in
 A phishing campaign is actively targeting UK organizations licensed to sponsor foreign workers and students by impersonating the UK Home Office. The attackers aim to steal Sponsorship Management System credentials to facilitate immigration fraud.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2025
+August 12, 2025 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ghanaian Nationals Extradited for Roles in $100M Romance and Wire Frau<a href="https://www.infosecurity-magazine.com/news/ghanaian-nationals-extradited/?&web_view=true"> Full Text</a>
@@ -76,13 +241,13 @@ Ghanaian Nationals Extradited for Roles in $100M Romance and Wire Frau<a href="h
 Four Ghanaian nationals have been indicted for orchestrating a transnational fraud ring responsible for over $100 million in losses through romance scams and Business Email Compromise (BEC) schemes.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2025
+August 12, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers cracked the encryption used by DarkBit ransomware<a href="https://securityaffairs.com/181064/malware/researchers-cracked-the-encryption-used-by-darkbit-ransomware.html?&web_view=true"> Full Text</a>
@@ -92,13 +257,13 @@ Researchers cracked the encryption used by DarkBit ransomware<a href="https://se
 Cybersecurity firm Profero has successfully cracked the encryption used by the DarkBit ransomware, enabling victims to recover encrypted files without paying a ransom. The ransomware is attributed to the Iran-linked MuddyWater APT group.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2025
+August 12, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers determine old vulnerabilities pose real-world threat to sensitive data in public clouds<a href="https://cyberscoop.com/cloud-security-l1tf-reloaded-public-cloud-vulnerability-exploit/?&web_view=true"> Full Text</a>
@@ -108,13 +273,13 @@ Researchers determine old vulnerabilities pose real-world threat to sensitive da
 The vulnerability poses a significant threat to public cloud providers, whose business model involves offering remote code execution as a service and renting out shared hardware resources.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyber Scoop
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2025
+August 12, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Kimsuky hackers exposed in alleged data breach<a href="https://www.bleepingcomputer.com/news/security/north-korean-kimsuky-hackers-exposed-in-alleged-data-breach/?&web_view=true"> Full Text</a>
@@ -124,13 +289,13 @@ North Korean Kimsuky hackers exposed in alleged data breach<a href="https://www.
 A major breach has exposed the inner workings of the North Korean state-sponsored threat group Kimsuky. Two hackers, 'Saber' and 'cyb0rg', leaked 8.9GB of Kimsuky's internal data, citing ethical motivations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2025
+August 12, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SonicWall pins firewall attack spree on year-old vulnerability<a href="https://cyberscoop.com/sonicwall-firewall-attacks-old-vulnerability/?&web_view=true"> Full Text</a>
@@ -140,13 +305,13 @@ SonicWall pins firewall attack spree on year-old vulnerability<a href="https://c
 A recent surge in ransomware attacks targeting SonicWall Gen 7 firewalls has been attributed to CVE-2024-40766, a critical improper access control vulnerability in SonicOS. SonicWall has denied the presence of a zero-day vulnerability.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyber Scoop
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2025
+August 12, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 High-severity WinRAR 0-day exploited for weeks by 2 groups<a href="https://arstechnica.com/security/2025/08/high-severity-winrar-0-day-exploited-for-weeks-by-2-groups/?&web_view=true"> Full Text</a>
@@ -156,7 +321,7 @@ High-severity WinRAR 0-day exploited for weeks by 2 groups<a href="https://arste
 A critical zero-day vulnerability in WinRAR has been actively exploited by two Russian cybercrime groups. The attackers used phishing emails with malicious archive attachments to backdoor victim systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Ars Technica
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
