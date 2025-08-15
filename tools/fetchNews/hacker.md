@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Muddled Libra’s Strike Teams: Amalgamated Evil<a href="https://unit42.paloaltonetworks.com/muddled-libras-strike-teams/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since late 2022, threat researchers from Unit 42 have tracked at least seven distinct strike teams associated with Muddled Libra. These teams are not static; personas frequently move between them, and their objectives and methods evolve over time.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 5, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

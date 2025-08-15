@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+August 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What happened in Vegas (that you actually want to know about)<a href="https://blog.talosintelligence.com/what-happened-in-vegas-that-you-actually-want-to-know-about/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos unveiled several critical cybersecurity developments at Black Hat USA 2025, including a new multi-stage malware campaign named PS1Bot and groundbreaking research on AI guardrail bypasses and embedded chip vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Talos Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fictitious Law Firms Targeting Cryptocurrency Scam Victims Combine Multiple Exploitation Tactics While Offering to Recover Funds<a href="https://www.ic3.gov/PSA/2025/PSA250813?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers are increasingly impersonating fictitious law firms to defraud individuals—particularly vulnerable populations such as the elderly—who have previously fallen victim to cryptocurrency scams.
+</details>
+<div style="text-align: right" markdown="1">
+IC3
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 13, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

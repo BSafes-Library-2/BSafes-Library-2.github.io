@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2025 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US updates sanctions on Russian cryptocurrency exchange Garantex<a href="https://therecord.media/treasury-department-renews-sanctions-garantex-grinex?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Treasury Department has renewed and expanded sanctions against Russian cryptocurrency exchange Garantex, its successor Grinex, and associated individuals and entities.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+For $40, you can buy stolen police and government email accounts<a href="https://www.helpnetsecurity.com/2025/08/14/stolen-government-email-accounts/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are actively selling access to active and still-in-use police and government email accounts on the dark web for as little as $40. These accounts originate from agencies in the U.S., U.K, Germany, India, and Brazil.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2025 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What happened in Vegas (that you actually want to know about)<a href="https://blog.talosintelligence.com/what-happened-in-vegas-that-you-actually-want-to-know-about/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos unveiled several critical cybersecurity developments at Black Hat USA 2025, including a new multi-stage malware campaign named PS1Bot and groundbreaking research on AI guardrail bypasses and embedded chip vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Talos Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Norway confirms dam intrusion by Pro-Russian hackers<a href="https://securityaffairs.com/181143/hacktivism/norway-confirms-dam-intrusion-by-pro-russian-hackers.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pro-Russian hackers seized control of a dam in Bremanger, Norway, in a demonstrative cyberattack targeting critical infrastructure. The attackers opened a flood gate to release 500 liters of water per second for four hours before being stopped.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Signal Report<a href="https://fortiguard.fortinet.com/threat-signal-report/6184?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Critical authentication bypass vulnerabilities have been discovered in Zscaler, Netskope, and Check Point ZTNA. These vulnerabilities allow to bypass authentication mechanisms, impersonate users across organizations, and access sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+FortiGuard
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoom patches critical Windows flaw allowing privilege escalation<a href="https://securityaffairs.com/181140/security/zoom-patches-critical-windows-flaw-allowing-privilege-escalation.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zoom has patched a critical vulnerability (CVE-2025-49457) in its Windows clients that could allow unauthenticated attackers to escalate privileges via network access. The flaw stems from an untrusted search path and affects several Zoom products
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Croatian research institute confirms ransomware attack via ToolShell vulnerabilities<a href="https://www.helpnetsecurity.com/2025/08/13/croatian-research-institute-confirms-ransomware-attack-via-toolshell-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ruder Boškovic Institute (RBI), Croatia’s largest science and technology research institute, has confirmed a ransomware attack on July 31, 2025, exploiting Microsoft SharePoint "ToolShell" vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang takes credit for cyber attack on Box Elder County, UT<a href="https://www.comparitech.com/news/ransomware-gang-takes-credit-for-cyber-attack-on-box-elder-county-ut/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Interlock ransomware gang has claimed responsibility for a cyberattack on Box Elder County, Utah, which occurred on August 6, 2025. The group alleges it exfiltrated 4.5 TB of data, amounting to approximately 2.1 million files.
+</details>
+<div style="text-align: right" markdown="1">
+Compari Tech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+When Hackers Call: Social Engineering, Abusing Brave Support, and EncryptHub’s Expanding Arsenal<a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/when-hackers-call-social-engineering-abusing-brave-support-and-encrypthubs-expanding-arsenal/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent campaign orchestrated by the EncryptHub threat group combines social engineering tactics with exploitation of CVE-2025-26633 to deliver malicious payloads. Attackers impersonate Brave Support to deceive users.
+</details>
+<div style="text-align: right" markdown="1">
+Trust Wave
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2025 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fictitious Law Firms Targeting Cryptocurrency Scam Victims Combine Multiple Exploitation Tactics While Offering to Recover Funds<a href="https://www.ic3.gov/PSA/2025/PSA250813?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers are increasingly impersonating fictitious law firms to defraud individuals—particularly vulnerable populations such as the elderly—who have previously fallen victim to cryptocurrency scams.
+</details>
+<div style="text-align: right" markdown="1">
+IC3
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 13, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

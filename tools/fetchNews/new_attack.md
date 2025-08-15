@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+August 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Croatian research institute confirms ransomware attack via ToolShell vulnerabilities<a href="https://www.helpnetsecurity.com/2025/08/13/croatian-research-institute-confirms-ransomware-attack-via-toolshell-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ruder Boškovic Institute (RBI), Croatia’s largest science and technology research institute, has confirmed a ransomware attack on July 31, 2025, exploiting Microsoft SharePoint "ToolShell" vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang takes credit for cyber attack on Box Elder County, UT<a href="https://www.comparitech.com/news/ransomware-gang-takes-credit-for-cyber-attack-on-box-elder-county-ut/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Interlock ransomware gang has claimed responsibility for a cyberattack on Box Elder County, Utah, which occurred on August 6, 2025. The group alleges it exfiltrated 4.5 TB of data, amounting to approximately 2.1 million files.
+</details>
+<div style="text-align: right" markdown="1">
+Compari Tech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+When Hackers Call: Social Engineering, Abusing Brave Support, and EncryptHub’s Expanding Arsenal<a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/when-hackers-call-social-engineering-abusing-brave-support-and-encrypthubs-expanding-arsenal/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent campaign orchestrated by the EncryptHub threat group combines social engineering tactics with exploitation of CVE-2025-26633 to deliver malicious payloads. Attackers impersonate Brave Support to deceive users.
+</details>
+<div style="text-align: right" markdown="1">
+Trust Wave
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 13, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

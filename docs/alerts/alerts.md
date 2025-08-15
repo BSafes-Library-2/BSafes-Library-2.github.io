@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2025 - FBI 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fictitious Law Firms Targeting Cryptocurrency Scam Victims Combine Multiple Exploitation Tactics While Offering to Recover Funds <a href="https://www.ic3.gov/PSA/2025/PSA250813?&web_view=true"> Full Text</a>
+</p>
+<details>
+This PSA is an update to Alert Number I-062424-PSA titled, "Fictitious Law Firms Targeting Cryptocurrency Scam Victims Offering to Recover Funds." This updated advisory provides additional red flag indicators and due diligence measures to help victims who have been in contact with fictitious law firms conducting this fraudulent activity.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 4, 2025 - FinCEN 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

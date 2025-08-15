@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+For $40, you can buy stolen police and government email accounts<a href="https://www.helpnetsecurity.com/2025/08/14/stolen-government-email-accounts/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are actively selling access to active and still-in-use police and government email accounts on the dark web for as little as $40. These accounts originate from agencies in the U.S., U.K, Germany, India, and Brazil.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 13, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
