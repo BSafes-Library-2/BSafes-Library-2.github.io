@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2025
+August 15, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US updates sanctions on Russian cryptocurrency exchange Garantex<a href="https://therecord.media/treasury-department-renews-sanctions-garantex-grinex?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Treasury Department has renewed and expanded sanctions against Russian cryptocurrency exchange Garantex, its successor Grinex, and associated individuals and entities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+For $40, you can buy stolen police and government email accounts<a href="https://www.helpnetsecurity.com/2025/08/14/stolen-government-email-accounts/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are actively selling access to active and still-in-use police and government email accounts on the dark web for as little as $40. These accounts originate from agencies in the U.S., U.K, Germany, India, and Brazil.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What happened in Vegas (that you actually want to know about)<a href="https://blog.talosintelligence.com/what-happened-in-vegas-that-you-actually-want-to-know-about/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos unveiled several critical cybersecurity developments at Black Hat USA 2025, including a new multi-stage malware campaign named PS1Bot and groundbreaking research on AI guardrail bypasses and embedded chip vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Norway confirms dam intrusion by Pro-Russian hackers<a href="https://securityaffairs.com/181143/hacktivism/norway-confirms-dam-intrusion-by-pro-russian-hackers.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pro-Russian hackers seized control of a dam in Bremanger, Norway, in a demonstrative cyberattack targeting critical infrastructure. The attackers opened a flood gate to release 500 liters of water per second for four hours before being stopped.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Signal Report<a href="https://fortiguard.fortinet.com/threat-signal-report/6184?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Critical authentication bypass vulnerabilities have been discovered in Zscaler, Netskope, and Check Point ZTNA. These vulnerabilities allow to bypass authentication mechanisms, impersonate users across organizations, and access sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoom patches critical Windows flaw allowing privilege escalation<a href="https://securityaffairs.com/181140/security/zoom-patches-critical-windows-flaw-allowing-privilege-escalation.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zoom has patched a critical vulnerability (CVE-2025-49457) in its Windows clients that could allow unauthenticated attackers to escalate privileges via network access. The flaw stems from an untrusted search path and affects several Zoom products
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Croatian research institute confirms ransomware attack via ToolShell vulnerabilities<a href="https://www.helpnetsecurity.com/2025/08/13/croatian-research-institute-confirms-ransomware-attack-via-toolshell-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ruder Boškovic Institute (RBI), Croatia’s largest science and technology research institute, has confirmed a ransomware attack on July 31, 2025, exploiting Microsoft SharePoint "ToolShell" vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang takes credit for cyber attack on Box Elder County, UT<a href="https://www.comparitech.com/news/ransomware-gang-takes-credit-for-cyber-attack-on-box-elder-county-ut/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Interlock ransomware gang has claimed responsibility for a cyberattack on Box Elder County, Utah, which occurred on August 6, 2025. The group alleges it exfiltrated 4.5 TB of data, amounting to approximately 2.1 million files.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+When Hackers Call: Social Engineering, Abusing Brave Support, and EncryptHub’s Expanding Arsenal<a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/when-hackers-call-social-engineering-abusing-brave-support-and-encrypthubs-expanding-arsenal/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent campaign orchestrated by the EncryptHub threat group combines social engineering tactics with exploitation of CVE-2025-26633 to deliver malicious payloads. Attackers impersonate Brave Support to deceive users.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fictitious Law Firms Targeting Cryptocurrency Scam Victims Combine Multiple Exploitation Tactics While Offering to Recover Funds<a href="https://www.ic3.gov/PSA/2025/PSA250813?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers are increasingly impersonating fictitious law firms to defraud individuals—particularly vulnerable populations such as the elderly—who have previously fallen victim to cryptocurrency scams.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Minecraft Installer Spreads NjRat Spyware to Steal Data<a href="https://hackread.com/fake-minecraft-installer-njrat-spyware-steal-data/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Fake Minecraft Installer Spreads NjRat Spyware to Steal Data<a href="https://hac
 A malicious campaign is distributing the NjRat Remote Access Trojan (RAT) through a fake Minecraft installer disguised as a browser-based clone called Eaglercraft 1.12 Offline.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2025
+August 13, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Speed kills: AI coding tools revive old-school hacks<a href="https://www.reversinglabs.com/blog/ai-coding-tools-old-school-hacks?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Speed kills: AI coding tools revive old-school hacks<a href="https://www.reversi
 Researchers uncovered critical vulnerabilities in AI-powered coding tools that prioritize development speed over security. Tools like CodeRabbit can be exploited to perform RCE and exfiltrate sensitive data from development environments.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Reversing Labs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2025
+August 13, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Active attacks target Office vuln patched 8 years ago<a href="https://www.theregister.com/2025/08/13/crooks_cant_let_go_active/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Active attacks target Office vuln patched 8 years ago<a href="https://www.thereg
 Attackers continue to exploit CVE-2017-11882, a remote code execution vulnerability in Microsoft Office's Equation Editor, despite it being patched in 2017 and the component being removed in 2018.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2025
+August 13, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Deepfake AI Trading Scams Target Global Investors<a href="https://www.infosecurity-magazine.com/news/deepfake-ai-trading-scams-target/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Deepfake AI Trading Scams Target Global Investors<a href="https://www.infosecuri
 A sophisticated wave of fraudulent “AI-powered” trading platforms is targeting global investors using deepfake technology and coordinated online deception. These exploit artificial intelligence to impersonate public figures and fabricate credibility.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2025
+August 13, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers leak 2.8M sensitive records from Allianz Life in Salesforce data breach<a href="https://securityaffairs.com/181093/data-breach/hackers-leak-2-8m-sensitive-records-from-allianz-life-in-salesforce-data-breach.html?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Hackers leak 2.8M sensitive records from Allianz Life in Salesforce data breach<
 Allianz Life has confirmed a significant data breach involving the exposure of 2.8 million sensitive records, affecting the majority of its 1.4 million customers. The breach is linked to a compromise of a third-party Salesforce CRM system.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2025
+August 13, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Exploit Low-Cost Initial Access Broker Market<a href="https://www.infosecurity-magazine.com/news/cybercriminals-low-cost-initial/?&web_view=true"> Full Text</a>
@@ -129,13 +289,13 @@ Remote Desktop Protocol (RDP) – 16.7%
 Such access enables threat actors to perform lateral movement, defense evasion, and data exfiltration.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2025
+August 13, 2025 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Muddled Libra’s Strike Teams: Amalgamated Evil<a href="https://unit42.paloaltonetworks.com/muddled-libras-strike-teams/?&web_view=true"> Full Text</a>
@@ -145,13 +305,13 @@ Muddled Libra’s Strike Teams: Amalgamated Evil<a href="https://unit42.paloalto
 Since late 2022, threat researchers from Unit 42 have tracked at least seven distinct strike teams associated with Muddled Libra. These teams are not static; personas frequently move between them, and their objectives and methods evolve over time.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Palo Alto Networks
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2025
+August 13, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malvertising campaign leads to PS1Bot, a multi-stage malware framework<a href="https://blog.talosintelligence.com/ps1bot-malvertising-campaign/?&web_view=true"> Full Text</a>
@@ -161,13 +321,13 @@ Malvertising campaign leads to PS1Bot, a multi-stage malware framework<a href="h
 A persistent malvertising campaign active throughout 2025 is delivering PS1Bot, a modular multi-stage malware framework written in PowerShell and C#. PS1Bot is designed for stealth and flexibility.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Talos Intelligence
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2025
+August 13, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SAP fixed 26 flaws in August 2025 Update, including 4 Critical<a href="https://securityaffairs.com/181085/uncategorized/sap-fixed-26-flaws-in-august-2025-update-including-4-critical.html?&web_view=true"> Full Text</a>
@@ -177,13 +337,13 @@ SAP fixed 26 flaws in August 2025 Update, including 4 Critical<a href="https://s
 The vulnerabilities pose severe risks including full system compromise, unauthorized code execution, and unauthorized database access. Exploitation could lead to loss of confidentiality, integrity, and availability across affected SAP environments.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2025
+August 13, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian government hackers said to be behind US federal court filing system hack: Report<a href="https://techcrunch.com/2025/08/12/russian-government-hackers-said-to-be-behind-us-federal-court-filing-system-hack-report/?&web_view=true"> Full Text</a>
@@ -193,7 +353,7 @@ Russian government hackers said to be behind US federal court filing system hack
 A recent cyberattack on the U.S. federal court filing system, PACER, has been attributed to Russian government hackers. The breach has compromised sealed legal records and potentially exposed the identities of confidential informants.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Tech Crunch
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
