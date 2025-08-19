@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actor Claims to Sell 15.8 Million Plain-Text PayPal Credentials<a href="https://hackread.com/threat-actor-selling-plain-text-paypal-credentials/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor using the name Chucky_BF on a cybercrime and hacker forum is advertising what they claim to be a massive PayPal data dump. The post describes a trove allegedly containing more than 15.8 million records of email and plaintext passwords.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 15, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+August 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoJ seizes $2.8M linked to Zeppelin Ransomware<a href="https://securityaffairs.com/181237/cyber-crime/doj-seizes-2-8m-linked-to-zeppelin-ransomware.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DoJ seized $2.8M in crypto from Ianis Antropenko, indicted in Texas and tied to the defunct Zeppelin ransomware. The U.S. Department of Justice (DoJ) seized more than $2.8 million in cryptocurrency from Ianis Aleksandrovich Antropenko.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 15, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

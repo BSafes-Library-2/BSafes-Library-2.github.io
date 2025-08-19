@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+August 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UAT-7237 targets Taiwanese web hosting infrastructure<a href="https://blog.talosintelligence.com/uat-7237-targets-web-hosting-infra/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos discovered UAT-7237, a Chinese-speaking advanced persistent threat (APT) group active since at least 2022, which has significant overlaps with UAT-5918. UAT-7237 aims to establish long-term persistence in high-value victim environments.
+</details>
+<div style="text-align: right" markdown="1">
+Talos Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 22, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
