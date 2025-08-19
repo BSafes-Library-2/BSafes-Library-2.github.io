@@ -34,7 +34,151 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PipeMagic in 2025: How the backdoor operators’ tactics have changed<a href="https://securelist.com/pipemagic/117270/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PipeMagic is a backdoor first detected in December 2022 while researchers were investigating a malicious campaign involving RansomExx. The victims were industrial companies in Southeast Asia.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actor Claims to Sell 15.8 Million Plain-Text PayPal Credentials<a href="https://hackread.com/threat-actor-selling-plain-text-paypal-credentials/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor using the name Chucky_BF on a cybercrime and hacker forum is advertising what they claim to be a massive PayPal data dump. The post describes a trove allegedly containing more than 15.8 million records of email and plaintext passwords.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colt Customers Face Prolonged Outages After Major Cyber Incident<a href="https://www.infosecurity-magazine.com/news/colt-outages-after-major-cyber/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On August 14, the telecommunications giant publicly confirmed that an internal system was breached. Although this system was disconnected from its customer-facing infrastructure, the company has taken some systems offline in respond to the incident.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoJ seizes $2.8M linked to Zeppelin Ransomware<a href="https://securityaffairs.com/181237/cyber-crime/doj-seizes-2-8m-linked-to-zeppelin-ransomware.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DoJ seized $2.8M in crypto from Ianis Antropenko, indicted in Texas and tied to the defunct Zeppelin ransomware. The U.S. Department of Justice (DoJ) seized more than $2.8 million in cryptocurrency from Ianis Aleksandrovich Antropenko.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Human resources firm Workday disclosed a data breach<a href="https://securityaffairs.com/181271/data-breach/human-resources-firm-workday-disclosed-a-data-breach.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Human resources firm Workday disclosed a data breach after attackers accessed a third-party CRM platform via social engineering. The company provides services to over 11,000 organizations, including over 60% of Fortune 500 firms.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 15, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers exploit Microsoft flaw to breach Canada ’s House of Commons<a href="https://securityaffairs.com/181155/hacking/hackers-exploit-microsoft-flaw-to-breach-canada-s-house-of-commons.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“The House of Commons and Canada’s cybersecurity agency are investigating a significant data breach caused by an unknown “threat actor” targeting employee information.” reported CBC News.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telco giant Colt suffers attack, takes systems offline<a href="https://www.theregister.com/2025/08/15/london_telco_colts_services_disrupted/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colt Technology Services says a "cyber incident" is to blame for its customer portal and other services being down for a number of days. The issues began on August 12 when a reported incident led to disrupted services for some customers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Blue Locker' Ransomware Targeting Oil & Gas Sector in Pakistan<a href="https://securityaffairs.com/181173/malware/blue-locker-ransomware-targeting-oil-gas-sector-in-pakistan.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Blue Locker ransomware hits Pakistan’s oil & gas sector. NCERT-Pakistan has warned ministries of severe ongoing risk. Notably, the malicious cyber activity took place in close proximity to the celebration of Pakistan’s Independence Day.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UAT-7237 targets Taiwanese web hosting infrastructure<a href="https://blog.talosintelligence.com/uat-7237-targets-web-hosting-infra/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos discovered UAT-7237, a Chinese-speaking advanced persistent threat (APT) group active since at least 2022, which has significant overlaps with UAT-5918. UAT-7237 aims to establish long-term persistence in high-value victim environments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2025 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US updates sanctions on Russian cryptocurrency exchange Garantex<a href="https://therecord.media/treasury-department-renews-sanctions-garantex-grinex?&web_view=true"> Full Text</a>
@@ -44,13 +188,13 @@ US updates sanctions on Russian cryptocurrency exchange Garantex<a href="https:/
 The U.S. Treasury Department has renewed and expanded sanctions against Russian cryptocurrency exchange Garantex, its successor Grinex, and associated individuals and entities.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2025
+August 15, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 For $40, you can buy stolen police and government email accounts<a href="https://www.helpnetsecurity.com/2025/08/14/stolen-government-email-accounts/?&web_view=true"> Full Text</a>
@@ -60,13 +204,13 @@ For $40, you can buy stolen police and government email accounts<a href="https:/
 Cybercriminals are actively selling access to active and still-in-use police and government email accounts on the dark web for as little as $40. These accounts originate from agencies in the U.S., U.K, Germany, India, and Brazil.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2025
+August 14, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What happened in Vegas (that you actually want to know about)<a href="https://blog.talosintelligence.com/what-happened-in-vegas-that-you-actually-want-to-know-about/?&web_view=true"> Full Text</a>
@@ -76,13 +220,13 @@ What happened in Vegas (that you actually want to know about)<a href="https://bl
 Cisco Talos unveiled several critical cybersecurity developments at Black Hat USA 2025, including a new multi-stage malware campaign named PS1Bot and groundbreaking research on AI guardrail bypasses and embedded chip vulnerabilities.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Talos Intelligence
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2025
+August 14, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Norway confirms dam intrusion by Pro-Russian hackers<a href="https://securityaffairs.com/181143/hacktivism/norway-confirms-dam-intrusion-by-pro-russian-hackers.html?&web_view=true"> Full Text</a>
@@ -92,13 +236,13 @@ Norway confirms dam intrusion by Pro-Russian hackers<a href="https://securityaff
 Pro-Russian hackers seized control of a dam in Bremanger, Norway, in a demonstrative cyberattack targeting critical infrastructure. The attackers opened a flood gate to release 500 liters of water per second for four hours before being stopped.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2025
+August 14, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Signal Report<a href="https://fortiguard.fortinet.com/threat-signal-report/6184?&web_view=true"> Full Text</a>
@@ -108,13 +252,13 @@ Threat Signal Report<a href="https://fortiguard.fortinet.com/threat-signal-repor
 Critical authentication bypass vulnerabilities have been discovered in Zscaler, Netskope, and Check Point ZTNA. These vulnerabilities allow to bypass authentication mechanisms, impersonate users across organizations, and access sensitive data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+FortiGuard
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2025
+August 14, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zoom patches critical Windows flaw allowing privilege escalation<a href="https://securityaffairs.com/181140/security/zoom-patches-critical-windows-flaw-allowing-privilege-escalation.html?&web_view=true"> Full Text</a>
@@ -124,13 +268,13 @@ Zoom patches critical Windows flaw allowing privilege escalation<a href="https:/
 Zoom has patched a critical vulnerability (CVE-2025-49457) in its Windows clients that could allow unauthenticated attackers to escalate privileges via network access. The flaw stems from an untrusted search path and affects several Zoom products
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2025
+August 14, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Croatian research institute confirms ransomware attack via ToolShell vulnerabilities<a href="https://www.helpnetsecurity.com/2025/08/13/croatian-research-institute-confirms-ransomware-attack-via-toolshell-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -140,13 +284,13 @@ Croatian research institute confirms ransomware attack via ToolShell vulnerabili
 The Ruder Boškovic Institute (RBI), Croatia’s largest science and technology research institute, has confirmed a ransomware attack on July 31, 2025, exploiting Microsoft SharePoint "ToolShell" vulnerabilities.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2025
+August 14, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gang takes credit for cyber attack on Box Elder County, UT<a href="https://www.comparitech.com/news/ransomware-gang-takes-credit-for-cyber-attack-on-box-elder-county-ut/?&web_view=true"> Full Text</a>
@@ -156,13 +300,13 @@ Ransomware gang takes credit for cyber attack on Box Elder County, UT<a href="ht
 The Interlock ransomware gang has claimed responsibility for a cyberattack on Box Elder County, Utah, which occurred on August 6, 2025. The group alleges it exfiltrated 4.5 TB of data, amounting to approximately 2.1 million files.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Compari Tech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2025
+August 14, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 When Hackers Call: Social Engineering, Abusing Brave Support, and EncryptHub’s Expanding Arsenal<a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/when-hackers-call-social-engineering-abusing-brave-support-and-encrypthubs-expanding-arsenal/?&web_view=true"> Full Text</a>
@@ -172,13 +316,13 @@ When Hackers Call: Social Engineering, Abusing Brave Support, and EncryptHub’s
 A recent campaign orchestrated by the EncryptHub threat group combines social engineering tactics with exploitation of CVE-2025-26633 to deliver malicious payloads. Attackers impersonate Brave Support to deceive users.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Trust Wave
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2025
+August 14, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fictitious Law Firms Targeting Cryptocurrency Scam Victims Combine Multiple Exploitation Tactics While Offering to Recover Funds<a href="https://www.ic3.gov/PSA/2025/PSA250813?&web_view=true"> Full Text</a>
@@ -188,7 +332,7 @@ Fictitious Law Firms Targeting Cryptocurrency Scam Victims Combine Multiple Expl
 Scammers are increasingly impersonating fictitious law firms to defraud individuals—particularly vulnerable populations such as the elderly—who have previously fallen victim to cryptocurrency scams.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+IC3
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
