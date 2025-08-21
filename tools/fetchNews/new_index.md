@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2025
+August 20, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Government Cyber Actors Targeting Networking Devices, Critical Infrastructure<a href="https://www.ic3.gov/PSA/2025/PSA250820?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has issued a warning about Russian FSB cyber actors (Center 16), also known as Berserk Bear and Dragonfly, targeting networking devices and critical infrastructure globally. These actors exploit CVE-2018-0171 in Cisco Smart Install.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Commvault security advisory (AV25-531)<a href="https://www.cyber.gc.ca/en/alerts-advisories/commvault-security-advisory-av25-531?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four high-severity vulnerabilities have been identified affecting versions 11.32.0 to 11.32.101 and 11.36.0 to 11.36.59 of Commvault software. Proof-of-concept exploit code exists for these issues, increasing the risk of exploitation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A hacker tied to Yemen Cyber Army gets 20 months in prison<a href="https://securityaffairs.com/181320/cyber-crime/a-hacker-tied-to-yemen-cyber-army-gets-20-months-in-prison.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A UK-based hacker, Al-Tahery Al-Mashriky (26), linked to the Yemen Cyber Army (YCA) and Spider Team, has been sentenced to 20 months in prison for defacing thousands of websites and possessing stolen personal data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixed Chrome flaw found by Big Sleep AI<a href="https://securityaffairs.com/181338/security/google-fixed-chrome-flaw-found-by-big-sleep-ai.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome version 139 to address a high-severity vulnerability (CVE-2025-9132) in the V8 JavaScript and WebAssembly engine. CVE-2025-9132 is a high-severity out-of-bounds write vulnerability in the V8 engine.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Citizen Lab Reports Hidden VPN Networks Sharing Ownership and Security Flaws<a href="https://hackread.com/citizen-lab-vpn-networks-sharing-ownership-security-flaws/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report by Citizen Lab titled “Hidden Links” has uncovered that several popular VPN apps, including Turbo VPN, VPN Monster, and Snap VPN, are secretly operated by the same entities and exhibit critical security flaws.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Elastic rejects claims of a zero-day RCE flaw in Defend EDR<a href="https://www.bleepingcomputer.com/news/security/elastic-rejects-claims-of-a-zero-day-rce-flaw-in-defend-edr/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On August 19, Elastic publicly refuted claims made by AshES Cybersecurity regarding a zero-day remote code execution (RCE) vulnerability in its Defend endpoint detection and response (EDR) product.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOJ Charges 22-Year-Old for Running RapperBot Botnet Behind 370,000 DDoS Attacks<a href="https://thehackernews.com/2025/08/doj-charges-22-year-old-for-running.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. authorities have charged 22-year-old Ethan Foltz for operating the RapperBot botnet, also known as "CowBot" and "Eleven Eleven Botnet." This botnet facilitated over 370,000 DDoS attacks across 80+ countries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NY Business Council discloses data breach affecting 47,000 people<a href="https://www.bleepingcomputer.com/news/security/business-council-of-new-york-state-discloses-data-breach-affecting-47-000-people/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Business Council of New York State (BCNYS) has disclosed a data breach affecting 47,329 individuals. The breach involved unauthorized access to sensitive personal, financial, and health data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang says it hacked drug research firm Inotiv<a href="https://www.comparitech.com/news/ransomware-gang-says-it-hacked-drug-research-firm-inotiv/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On August 8, 2025, Inotiv, a U.S.-based drug research firm, disclosed a ransomware attack in an SEC filing. The Qilin ransomware group claimed responsibility, stating it exfiltrated 176 GB of sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache ActiveMQ attackers patch critical vuln after entry<a href="https://www.theregister.com/2025/08/19/apache_activemq_patch_malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new attack campaign is targeting Apache ActiveMQ servers by exploiting CVE-2023-46604, a critical vulnerability with a CVSS score of 9.8. Threat actors are deploying a custom Linux malware dubbed DripDropper to establish persistence.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PipeMagic in 2025: How the backdoor operators’ tactics have changed<a href="https://securelist.com/pipemagic/117270/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ PipeMagic in 2025: How the backdoor operators’ tactics have changed<a href="ht
 PipeMagic is a backdoor first detected in December 2022 while researchers were investigating a malicious campaign involving RansomExx. The victims were industrial companies in Southeast Asia.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Secure List
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2025
+August 18, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actor Claims to Sell 15.8 Million Plain-Text PayPal Credentials<a href="https://hackread.com/threat-actor-selling-plain-text-paypal-credentials/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Threat Actor Claims to Sell 15.8 Million Plain-Text PayPal Credentials<a href="h
 A threat actor using the name Chucky_BF on a cybercrime and hacker forum is advertising what they claim to be a massive PayPal data dump. The post describes a trove allegedly containing more than 15.8 million records of email and plaintext passwords.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2025
+August 18, 2025 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Colt Customers Face Prolonged Outages After Major Cyber Incident<a href="https://www.infosecurity-magazine.com/news/colt-outages-after-major-cyber/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Colt Customers Face Prolonged Outages After Major Cyber Incident<a href="https:/
 On August 14, the telecommunications giant publicly confirmed that an internal system was breached. Although this system was disconnected from its customer-facing infrastructure, the company has taken some systems offline in respond to the incident.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2025
+August 18, 2025 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DoJ seizes $2.8M linked to Zeppelin Ransomware<a href="https://securityaffairs.com/181237/cyber-crime/doj-seizes-2-8m-linked-to-zeppelin-ransomware.html?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ DoJ seizes $2.8M linked to Zeppelin Ransomware<a href="https://securityaffairs.c
 DoJ seized $2.8M in crypto from Ianis Antropenko, indicted in Texas and tied to the defunct Zeppelin ransomware. The U.S. Department of Justice (DoJ) seized more than $2.8 million in cryptocurrency from Ianis Aleksandrovich Antropenko.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2025
+August 18, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Human resources firm Workday disclosed a data breach<a href="https://securityaffairs.com/181271/data-breach/human-resources-firm-workday-disclosed-a-data-breach.html?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Human resources firm Workday disclosed a data breach<a href="https://securityaff
 Human resources firm Workday disclosed a data breach after attackers accessed a third-party CRM platform via social engineering. The company provides services to over 11,000 organizations, including over 60% of Fortune 500 firms.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2025
+August 15, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers exploit Microsoft flaw to breach Canada ’s House of Commons<a href="https://securityaffairs.com/181155/hacking/hackers-exploit-microsoft-flaw-to-breach-canada-s-house-of-commons.html?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Hackers exploit Microsoft flaw to breach Canada ’s House of Commons<a href="ht
 “The House of Commons and Canada’s cybersecurity agency are investigating a significant data breach caused by an unknown “threat actor” targeting employee information.” reported CBC News.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2025
+August 15, 2025 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Telco giant Colt suffers attack, takes systems offline<a href="https://www.theregister.com/2025/08/15/london_telco_colts_services_disrupted/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Telco giant Colt suffers attack, takes systems offline<a href="https://www.there
 Colt Technology Services says a "cyber incident" is to blame for its customer portal and other services being down for a number of days. The issues began on August 12 when a reported incident led to disrupted services for some customers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2025
+August 15, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 'Blue Locker' Ransomware Targeting Oil & Gas Sector in Pakistan<a href="https://securityaffairs.com/181173/malware/blue-locker-ransomware-targeting-oil-gas-sector-in-pakistan.html?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ August 15, 2025
 Blue Locker ransomware hits Pakistan’s oil & gas sector. NCERT-Pakistan has warned ministries of severe ongoing risk. Notably, the malicious cyber activity took place in close proximity to the celebration of Pakistan’s Independence Day.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2025
+August 15, 2025 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UAT-7237 targets Taiwanese web hosting infrastructure<a href="https://blog.talosintelligence.com/uat-7237-targets-web-hosting-infra/?&web_view=true"> Full Text</a>
@@ -172,7 +332,7 @@ UAT-7237 targets Taiwanese web hosting infrastructure<a href="https://blog.talos
 Cisco Talos discovered UAT-7237, a Chinese-speaking advanced persistent threat (APT) group active since at least 2022, which has significant overlaps with UAT-5918. UAT-7237 aims to establish long-term persistence in high-value victim environments.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Talos Intelligence
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
