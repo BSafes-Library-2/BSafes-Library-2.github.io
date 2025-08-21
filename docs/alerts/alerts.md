@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2025 - FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Government Cyber Actors Targeting Networking Devices, Critical Infrastructure <a href="https://www.ic3.gov/PSA/2025/PSA250820?&web_view=true"> Full Text</a>
+</p>
+<details>
+The Federal Bureau of Investigation (FBI) is warning the public, private sector, and international community of the threat posed to computer networks and critical infrastructure by cyber actors attributed to the Russian Federal Security Service's (FSB) Center 16. The FBI detected Russian FSB cyber actors exploiting Simple Network Management Protocol (SNMP) and end-of-life networking devices running an unpatched vulnerability (CVE-2018-0171) in Cisco Smart Install (SMI) to broadly target entities in the United States and globally.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 3, 2025 - FBI 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
