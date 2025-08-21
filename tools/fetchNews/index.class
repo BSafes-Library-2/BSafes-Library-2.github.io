@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2025 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Government Cyber Actors Targeting Networking Devices, Critical Infrastructure<a href="https://www.ic3.gov/PSA/2025/PSA250820?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has issued a warning about Russian FSB cyber actors (Center 16), also known as Berserk Bear and Dragonfly, targeting networking devices and critical infrastructure globally. These actors exploit CVE-2018-0171 in Cisco Smart Install.
+</details>
+<div style="text-align: right" markdown="1">
+FBI
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Commvault security advisory (AV25-531)<a href="https://www.cyber.gc.ca/en/alerts-advisories/commvault-security-advisory-av25-531?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four high-severity vulnerabilities have been identified affecting versions 11.32.0 to 11.32.101 and 11.36.0 to 11.36.59 of Commvault software. Proof-of-concept exploit code exists for these issues, increasing the risk of exploitation.
+</details>
+<div style="text-align: right" markdown="1">
+Government of Canada
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2025 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A hacker tied to Yemen Cyber Army gets 20 months in prison<a href="https://securityaffairs.com/181320/cyber-crime/a-hacker-tied-to-yemen-cyber-army-gets-20-months-in-prison.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A UK-based hacker, Al-Tahery Al-Mashriky (26), linked to the Yemen Cyber Army (YCA) and Spider Team, has been sentenced to 20 months in prison for defacing thousands of websites and possessing stolen personal data.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixed Chrome flaw found by Big Sleep AI<a href="https://securityaffairs.com/181338/security/google-fixed-chrome-flaw-found-by-big-sleep-ai.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome version 139 to address a high-severity vulnerability (CVE-2025-9132) in the V8 JavaScript and WebAssembly engine. CVE-2025-9132 is a high-severity out-of-bounds write vulnerability in the V8 engine.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Citizen Lab Reports Hidden VPN Networks Sharing Ownership and Security Flaws<a href="https://hackread.com/citizen-lab-vpn-networks-sharing-ownership-security-flaws/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report by Citizen Lab titled “Hidden Links” has uncovered that several popular VPN apps, including Turbo VPN, VPN Monster, and Snap VPN, are secretly operated by the same entities and exhibit critical security flaws.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Elastic rejects claims of a zero-day RCE flaw in Defend EDR<a href="https://www.bleepingcomputer.com/news/security/elastic-rejects-claims-of-a-zero-day-rce-flaw-in-defend-edr/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On August 19, Elastic publicly refuted claims made by AshES Cybersecurity regarding a zero-day remote code execution (RCE) vulnerability in its Defend endpoint detection and response (EDR) product.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2025a -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOJ Charges 22-Year-Old for Running RapperBot Botnet Behind 370,000 DDoS Attacks<a href="https://thehackernews.com/2025/08/doj-charges-22-year-old-for-running.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. authorities have charged 22-year-old Ethan Foltz for operating the RapperBot botnet, also known as "CowBot" and "Eleven Eleven Botnet." This botnet facilitated over 370,000 DDoS attacks across 80+ countries.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2025 -- [Breach](/docs/issues/breach/breach/)<br>`
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NY Business Council discloses data breach affecting 47,000 people<a href="https://www.bleepingcomputer.com/news/security/business-council-of-new-york-state-discloses-data-breach-affecting-47-000-people/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Business Council of New York State (BCNYS) has disclosed a data breach affecting 47,329 individuals. The breach involved unauthorized access to sensitive personal, financial, and health data.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang says it hacked drug research firm Inotiv<a href="https://www.comparitech.com/news/ransomware-gang-says-it-hacked-drug-research-firm-inotiv/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On August 8, 2025, Inotiv, a U.S.-based drug research firm, disclosed a ransomware attack in an SEC filing. The Qilin ransomware group claimed responsibility, stating it exfiltrated 176 GB of sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache ActiveMQ attackers patch critical vuln after entry<a href="https://www.theregister.com/2025/08/19/apache_activemq_patch_malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new attack campaign is targeting Apache ActiveMQ servers by exploiting CVE-2023-46604, a critical vulnerability with a CVSS score of 9.8. Threat actors are deploying a custom Linux malware dubbed DripDropper to establish persistence.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 18, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

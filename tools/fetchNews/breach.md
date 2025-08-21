@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+August 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Human resources firm Workday disclosed a data breach<a href="https://securityaffairs.com/181271/data-breach/human-resources-firm-workday-disclosed-a-data-breach.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Human resources firm Workday disclosed a data breach after attackers accessed a third-party CRM platform via social engineering. The company provides services to over 11,000 organizations, including over 60% of Fortune 500 firms.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers exploit Microsoft flaw to breach Canada ’s House of Commons<a href="https://securityaffairs.com/181155/hacking/hackers-exploit-microsoft-flaw-to-breach-canada-s-house-of-commons.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“The House of Commons and Canada’s cybersecurity agency are investigating a significant data breach caused by an unknown “threat actor” targeting employee information.” reported CBC News.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 14, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

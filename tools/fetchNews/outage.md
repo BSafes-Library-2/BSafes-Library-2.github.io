@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+August 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colt Customers Face Prolonged Outages After Major Cyber Incident<a href="https://www.infosecurity-magazine.com/news/colt-outages-after-major-cyber/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On August 14, the telecommunications giant publicly confirmed that an internal system was breached. Although this system was disconnected from its customer-facing infrastructure, the company has taken some systems offline in respond to the incident.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telco giant Colt suffers attack, takes systems offline<a href="https://www.theregister.com/2025/08/15/london_telco_colts_services_disrupted/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colt Technology Services says a "cyber incident" is to blame for its customer portal and other services being down for a number of days. The issues began on August 12 when a reported incident led to disrupted services for some customers.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 12, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

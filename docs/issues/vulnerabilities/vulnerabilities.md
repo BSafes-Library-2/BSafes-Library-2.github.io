@@ -8,6 +8,76 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Commvault security advisory (AV25-531)<a href="https://www.cyber.gc.ca/en/alerts-advisories/commvault-security-advisory-av25-531?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four high-severity vulnerabilities have been identified affecting versions 11.32.0 to 11.32.101 and 11.36.0 to 11.36.59 of Commvault software. Proof-of-concept exploit code exists for these issues, increasing the risk of exploitation.
+</details>
+<div style="text-align: right" markdown="1">
+Government of Canada
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixed Chrome flaw found by Big Sleep AI<a href="https://securityaffairs.com/181338/security/google-fixed-chrome-flaw-found-by-big-sleep-ai.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome version 139 to address a high-severity vulnerability (CVE-2025-9132) in the V8 JavaScript and WebAssembly engine. CVE-2025-9132 is a high-severity out-of-bounds write vulnerability in the V8 engine.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Citizen Lab Reports Hidden VPN Networks Sharing Ownership and Security Flaws<a href="https://hackread.com/citizen-lab-vpn-networks-sharing-ownership-security-flaws/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report by Citizen Lab titled “Hidden Links” has uncovered that several popular VPN apps, including Turbo VPN, VPN Monster, and Snap VPN, are secretly operated by the same entities and exhibit critical security flaws.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Elastic rejects claims of a zero-day RCE flaw in Defend EDR<a href="https://www.bleepingcomputer.com/news/security/elastic-rejects-claims-of-a-zero-day-rce-flaw-in-defend-edr/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On August 19, Elastic publicly refuted claims made by AshES Cybersecurity regarding a zero-day remote code execution (RCE) vulnerability in its Defend endpoint detection and response (EDR) product.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache ActiveMQ attackers patch critical vuln after entry<a href="https://www.theregister.com/2025/08/19/apache_activemq_patch_malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new attack campaign is targeting Apache ActiveMQ servers by exploiting CVE-2023-46604, a critical vulnerability with a CVSS score of 9.8. Threat actors are deploying a custom Linux malware dubbed DripDropper to establish persistence.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 14, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+August 20, 2025 <br>`
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NY Business Council discloses data breach affecting 47,000 people<a href="https://www.bleepingcomputer.com/news/security/business-council-of-new-york-state-discloses-data-breach-affecting-47-000-people/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Business Council of New York State (BCNYS) has disclosed a data breach affecting 47,329 individuals. The breach involved unauthorized access to sensitive personal, financial, and health data.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang says it hacked drug research firm Inotiv<a href="https://www.comparitech.com/news/ransomware-gang-says-it-hacked-drug-research-firm-inotiv/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On August 8, 2025, Inotiv, a U.S.-based drug research firm, disclosed a ransomware attack in an SEC filing. The Qilin ransomware group claimed responsibility, stating it exfiltrated 176 GB of sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 18, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

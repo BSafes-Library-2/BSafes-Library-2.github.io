@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+August 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Government Cyber Actors Targeting Networking Devices, Critical Infrastructure<a href="https://www.ic3.gov/PSA/2025/PSA250820?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has issued a warning about Russian FSB cyber actors (Center 16), also known as Berserk Bear and Dragonfly, targeting networking devices and critical infrastructure globally. These actors exploit CVE-2018-0171 in Cisco Smart Install.
+</details>
+<div style="text-align: right" markdown="1">
+FBI
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 5, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

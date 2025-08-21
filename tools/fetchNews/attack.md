@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+August 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Blue Locker' Ransomware Targeting Oil &amp; Gas Sector in Pakistan<a href="https://securityaffairs.com/181173/malware/blue-locker-ransomware-targeting-oil-gas-sector-in-pakistan.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Blue Locker ransomware hits Pakistan’s oil &amp; gas sector. NCERT-Pakistan has warned ministries of severe ongoing risk. Notably, the malicious cyber activity took place in close proximity to the celebration of Pakistan’s Independence Day.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 14, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
