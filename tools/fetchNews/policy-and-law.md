@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+August 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A hacker tied to Yemen Cyber Army gets 20 months in prison<a href="https://securityaffairs.com/181320/cyber-crime/a-hacker-tied-to-yemen-cyber-army-gets-20-months-in-prison.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A UK-based hacker, Al-Tahery Al-Mashriky (26), linked to the Yemen Cyber Army (YCA) and Spider Team, has been sentenced to 20 months in prison for defacing thousands of websites and possessing stolen personal data.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 20, 2025a <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOJ Charges 22-Year-Old for Running RapperBot Botnet Behind 370,000 DDoS Attacks<a href="https://thehackernews.com/2025/08/doj-charges-22-year-old-for-running.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. authorities have charged 22-year-old Ethan Foltz for operating the RapperBot botnet, also known as "CowBot" and "Eleven Eleven Botnet." This botnet facilitated over 370,000 DDoS attacks across 80+ countries.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 18, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

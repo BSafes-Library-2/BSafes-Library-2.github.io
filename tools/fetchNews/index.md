@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2025 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dev gets 4 years for creating kill switch on ex-employer's systems<a href="https://www.bleepingcomputer.com/news/security/dev-gets-4-years-for-creating-kill-switch-on-ex-employers-systems/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A software developer, Davis Lu, has been sentenced to four years in prison for deploying a kill switch and custom malware within the Windows production environment of a reportedly affected Ohio-based company.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europol Denies $50K Reward for Qilin Ransomware, Calls It a Scam<a href="https://hackread.com/europol-denies-qilin-ransomware-reward-scam/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A fraudulent message claiming that Europol was offering a $50,000 reward for information on the Qilin ransomware group has been confirmed as a scam. The law enforcement agency has clarified that it does not use Telegram for official communications.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. CISA adds Apple iOS, iPadOS, and macOS flaw to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/181406/security/u-s-cisa-adds-apple-ios-ipados-and-macos-flaw-to-its-known-exploited-vulnerabilities-catalog.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has added CVE-2025-43300, a zero-day vulnerability affecting Apple iOS, iPadOS, and macOS, to its KEV catalog. Successful exploitation can result in memory corruption, potentially allowing attackers to execute arbitrary code.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interpol operation seizes $97 million in African cybercrime sweep<a href="https://www.helpnetsecurity.com/2025/08/22/interpol-africa-cybercrime-crackdown/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large-scale cybercrime crackdown across Africa, dubbed Operation Serengeti 2.0, has led to the arrest of 1,209 individuals, the dismantling of 11,432 malicious infrastructures, and the recovery of $97.4 million.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Criminal background checker APCS faces data breach<a href="https://www.theregister.com/2025/08/22/apcs_breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant data breach has impacted Access Personal Checking Services (APCS), a major UK-based provider of criminal background checks. The breach originated from a compromise at Intradev.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Mac fixes trick users into installing new Shamos infostealer<a href="https://www.bleepingcomputer.com/news/security/fake-mac-fixes-trick-users-into-installing-new-shamos-infostealer/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new macOS infostealer malware named Shamos, developed by the cybercriminal group COOKIE SPIDER, is actively targeting Mac users through deceptive ClickFix attacks. Shamos is a variant of the Atomic macOS Stealer.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DaVita says ransomware gang stole data of nearly 2.7 million people<a href="https://www.bleepingcomputer.com/news/security/davita-ransomware-attack-exposed-data-of-nearly-27-million-people/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DaVita Inc., a leading kidney dialysis provider, has confirmed a ransomware attack that compromised the personal and health data of nearly 2.7 million individuals. The Interlock ransomware gang claimed responsibility.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2025 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese national who sabotaged Ohio company’s systems handed four-year jail stint<a href="https://therecord.media/chinese-national-sentenced-prison?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A former employee of Eaton Corporation, a power management company based in Ohio, has been sentenced to four years in prison for intentionally sabotaging the company’s computer systems.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2025 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Good, the Bad and the Ugly in Cybersecurity – Week 34<a href="https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-34-7/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Key incidents include the sentencing of high-profile cybercriminals, enhanced supply chain protections by PyPI, the evolution of the Noodlophile infostealer, and a sophisticated DPRK-linked espionage campaign using the MoonPeak RAT.
+</details>
+<div style="text-align: right" markdown="1">
+Sentinel One
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IT staffing firm The Computer Merchant notifies 34K people of data breach that leaked SSNs<a href="https://www.comparitech.com/news/it-staffing-firm-the-computer-merchant-notifies-34k-people-of-data-breach-that-leaked-ssns/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Computer Merchant, an IT staffing firm based in Norwell, Massachusetts, has disclosed a data breach affecting 34,127 individuals. The breach, attributed to the Play ransomware group, exposed sensitive personal data.
+</details>
+<div style="text-align: right" markdown="1">
+Compari Tech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 20, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
