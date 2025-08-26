@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+August 23, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dev gets 4 years for creating kill switch on ex-employer's systems<a href="https://www.bleepingcomputer.com/news/security/dev-gets-4-years-for-creating-kill-switch-on-ex-employers-systems/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A software developer, Davis Lu, has been sentenced to four years in prison for deploying a kill switch and custom malware within the Windows production environment of a reportedly affected Ohio-based company.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese national who sabotaged Ohio company’s systems handed four-year jail stint<a href="https://therecord.media/chinese-national-sentenced-prison?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A former employee of Eaton Corporation, a power management company based in Ohio, has been sentenced to four years in prison for intentionally sabotaging the company’s computer systems.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 20, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

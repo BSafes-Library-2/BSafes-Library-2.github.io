@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 23, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interpol operation seizes $97 million in African cybercrime sweep<a href="https://www.helpnetsecurity.com/2025/08/22/interpol-africa-cybercrime-crackdown/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large-scale cybercrime crackdown across Africa, dubbed Operation Serengeti 2.0, has led to the arrest of 1,209 individuals, the dismantling of 11,432 malicious infrastructures, and the recovery of $97.4 million.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 18, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

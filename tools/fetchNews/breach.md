@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+August 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Criminal background checker APCS faces data breach<a href="https://www.theregister.com/2025/08/22/apcs_breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant data breach has impacted Access Personal Checking Services (APCS), a major UK-based provider of criminal background checks. The breach originated from a compromise at Intradev.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DaVita says ransomware gang stole data of nearly 2.7 million people<a href="https://www.bleepingcomputer.com/news/security/davita-ransomware-attack-exposed-data-of-nearly-27-million-people/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DaVita Inc., a leading kidney dialysis provider, has confirmed a ransomware attack that compromised the personal and health data of nearly 2.7 million individuals. The Interlock ransomware gang claimed responsibility.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IT staffing firm The Computer Merchant notifies 34K people of data breach that leaked SSNs<a href="https://www.comparitech.com/news/it-staffing-firm-the-computer-merchant-notifies-34k-people-of-data-breach-that-leaked-ssns/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Computer Merchant, an IT staffing firm based in Norwell, Massachusetts, has disclosed a data breach affecting 34,127 individuals. The breach, attributed to the Play ransomware group, exposed sensitive personal data.
+</details>
+<div style="text-align: right" markdown="1">
+Compari Tech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 20, 2025 <br>`
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

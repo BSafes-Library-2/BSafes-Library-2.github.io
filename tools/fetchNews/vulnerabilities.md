@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 23, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. CISA adds Apple iOS, iPadOS, and macOS flaw to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/181406/security/u-s-cisa-adds-apple-ios-ipados-and-macos-flaw-to-its-known-exploited-vulnerabilities-catalog.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has added CVE-2025-43300, a zero-day vulnerability affecting Apple iOS, iPadOS, and macOS, to its KEV catalog. Successful exploitation can result in memory corruption, potentially allowing attackers to execute arbitrary code.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 20, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 23, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europol Denies $50K Reward for Qilin Ransomware, Calls It a Scam<a href="https://hackread.com/europol-denies-qilin-ransomware-reward-scam/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A fraudulent message claiming that Europol was offering a $50,000 reward for information on the Qilin ransomware group has been confirmed as a scam. The law enforcement agency has clarified that it does not use Telegram for official communications.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 13, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

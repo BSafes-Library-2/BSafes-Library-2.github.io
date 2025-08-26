@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+August 25, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+O took offline operational systems following a ransomware attack<a href="https://securityaffairs.com/181493/cyber-crime/electronics-manufacturer-data-i-o-took-offline-operational-systems-following-a-ransomware-attack.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data I/O, a prominent manufacturer of manual and automated programming systems for flash memory, microcontrollers, and logic devices, reported a ransomware attack that forced the company to take several operational systems offline.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 18, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
