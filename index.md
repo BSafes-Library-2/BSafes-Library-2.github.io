@@ -34,6 +34,118 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ScreenConnect admins targeted with spoofed login alerts<a href="https://www.helpnetsecurity.com/2025/08/25/screenconnect-admins-targeted-with-spoofed-suspicious-login-alerts/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A low-volume spear-phishing campaign is targeting ScreenConnect Super Admins—users with full administrative control over their organization's deployment. The attackers aim to harvest login credentials MFA tokens.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android.Backdoor.916.origin malware targets Russian business executives<a href="https://securityaffairs.com/181503/malware/android-backdoor-916-origin-malware-targets-russian-business-executives.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered Android spyware, Android.Backdoor.916.origin, is actively targeting Russian-speaking business executives by masquerading as a fake antivirus app named "GuardCB." The malware is designed for surveillance and data theft.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+O took offline operational systems following a ransomware attack<a href="https://securityaffairs.com/181493/cyber-crime/electronics-manufacturer-data-i-o-took-offline-operational-systems-following-a-ransomware-attack.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data I/O, a prominent manufacturer of manual and automated programming systems for flash memory, microcontrollers, and logic devices, reported a ransomware attack that forced the company to take several operational systems offline.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Murky Panda hackers exploit cloud trust to hack downstream customers<a href="https://www.bleepingcomputer.com/news/security/murky-panda-hackers-exploit-cloud-trust-to-hack-downstream-customers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Murky Panda has recently compromised cloud service providers to abuse their trusted access to customer environments. In one case, they exploited zero-day vulnerabilities to access a SaaS provider’s cloud infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why satellite cybersecurity threats matter to everyone<a href="https://www.helpnetsecurity.com/2025/08/25/brett-loubert-deloitte-satellite-cybersecurity-threats/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Many satellites currently in orbit are over 20 years old and were not designed with cybersecurity in mind. These legacy systems often lack the compute, memory, and storage capacity required to support modern cybersecurity tools.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GeoServer Exploits, PolarEdge, and Gayfemboy Push Cybercrime Beyond Traditional Botnets<a href="https://thehackernews.com/2025/08/geoserver-exploits-polaredge-and.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These campaigns—GeoServer exploitation, PolarEdge botnet, and the Gayfemboy Mirai variant—demonstrate a shift toward stealthy, persistent monetization and advanced evasion techniques.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake CoinMarketCap Journalists Targeting Crypto Executives in Spear-Phishing Campaign<a href="https://hackread.com/fake-coinmarketcap-journalists-crypto-executives-spear-phishing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A targeted spear-phishing campaign is impersonating CoinMarketCap journalists to compromise cryptocurrency executives. The attackers exploit Zoom’s remote control feature to gain access to victims' systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 23, 2025 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

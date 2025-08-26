@@ -34,7 +34,119 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2025
+August 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ScreenConnect admins targeted with spoofed login alerts<a href="https://www.helpnetsecurity.com/2025/08/25/screenconnect-admins-targeted-with-spoofed-suspicious-login-alerts/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A low-volume spear-phishing campaign is targeting ScreenConnect Super Admins—users with full administrative control over their organization's deployment. The attackers aim to harvest login credentials MFA tokens.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android.Backdoor.916.origin malware targets Russian business executives<a href="https://securityaffairs.com/181503/malware/android-backdoor-916-origin-malware-targets-russian-business-executives.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered Android spyware, Android.Backdoor.916.origin, is actively targeting Russian-speaking business executives by masquerading as a fake antivirus app named "GuardCB." The malware is designed for surveillance and data theft.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+O took offline operational systems following a ransomware attack<a href="https://securityaffairs.com/181493/cyber-crime/electronics-manufacturer-data-i-o-took-offline-operational-systems-following-a-ransomware-attack.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data I/O, a prominent manufacturer of manual and automated programming systems for flash memory, microcontrollers, and logic devices, reported a ransomware attack that forced the company to take several operational systems offline.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Murky Panda hackers exploit cloud trust to hack downstream customers<a href="https://www.bleepingcomputer.com/news/security/murky-panda-hackers-exploit-cloud-trust-to-hack-downstream-customers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Murky Panda has recently compromised cloud service providers to abuse their trusted access to customer environments. In one case, they exploited zero-day vulnerabilities to access a SaaS provider’s cloud infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why satellite cybersecurity threats matter to everyone<a href="https://www.helpnetsecurity.com/2025/08/25/brett-loubert-deloitte-satellite-cybersecurity-threats/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Many satellites currently in orbit are over 20 years old and were not designed with cybersecurity in mind. These legacy systems often lack the compute, memory, and storage capacity required to support modern cybersecurity tools.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GeoServer Exploits, PolarEdge, and Gayfemboy Push Cybercrime Beyond Traditional Botnets<a href="https://thehackernews.com/2025/08/geoserver-exploits-polaredge-and.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These campaigns—GeoServer exploitation, PolarEdge botnet, and the Gayfemboy Mirai variant—demonstrate a shift toward stealthy, persistent monetization and advanced evasion techniques.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake CoinMarketCap Journalists Targeting Crypto Executives in Spear-Phishing Campaign<a href="https://hackread.com/fake-coinmarketcap-journalists-crypto-executives-spear-phishing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A targeted spear-phishing campaign is impersonating CoinMarketCap journalists to compromise cryptocurrency executives. The attackers exploit Zoom’s remote control feature to gain access to victims' systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2025 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dev gets 4 years for creating kill switch on ex-employer's systems<a href="https://www.bleepingcomputer.com/news/security/dev-gets-4-years-for-creating-kill-switch-on-ex-employers-systems/?&web_view=true"> Full Text</a>
@@ -44,13 +156,13 @@ Dev gets 4 years for creating kill switch on ex-employer's systems<a href="https
 A software developer, Davis Lu, has been sentenced to four years in prison for deploying a kill switch and custom malware within the Windows production environment of a reportedly affected Ohio-based company.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2025
+August 23, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Europol Denies $50K Reward for Qilin Ransomware, Calls It a Scam<a href="https://hackread.com/europol-denies-qilin-ransomware-reward-scam/?&web_view=true"> Full Text</a>
@@ -60,13 +172,13 @@ Europol Denies $50K Reward for Qilin Ransomware, Calls It a Scam<a href="https:/
 A fraudulent message claiming that Europol was offering a $50,000 reward for information on the Qilin ransomware group has been confirmed as a scam. The law enforcement agency has clarified that it does not use Telegram for official communications.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2025
+August 23, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. CISA adds Apple iOS, iPadOS, and macOS flaw to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/181406/security/u-s-cisa-adds-apple-ios-ipados-and-macos-flaw-to-its-known-exploited-vulnerabilities-catalog.html?&web_view=true"> Full Text</a>
@@ -76,13 +188,13 @@ U.S. CISA adds Apple iOS, iPadOS, and macOS flaw to its Known Exploited Vulnerab
 CISA has added CVE-2025-43300, a zero-day vulnerability affecting Apple iOS, iPadOS, and macOS, to its KEV catalog. Successful exploitation can result in memory corruption, potentially allowing attackers to execute arbitrary code.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2025
+August 23, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Interpol operation seizes $97 million in African cybercrime sweep<a href="https://www.helpnetsecurity.com/2025/08/22/interpol-africa-cybercrime-crackdown/?&web_view=true"> Full Text</a>
@@ -92,13 +204,13 @@ Interpol operation seizes $97 million in African cybercrime sweep<a href="https:
 A large-scale cybercrime crackdown across Africa, dubbed Operation Serengeti 2.0, has led to the arrest of 1,209 individuals, the dismantling of 11,432 malicious infrastructures, and the recovery of $97.4 million.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2025
+August 22, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Criminal background checker APCS faces data breach<a href="https://www.theregister.com/2025/08/22/apcs_breach/?&web_view=true"> Full Text</a>
@@ -108,13 +220,13 @@ Criminal background checker APCS faces data breach<a href="https://www.theregist
 A significant data breach has impacted Access Personal Checking Services (APCS), a major UK-based provider of criminal background checks. The breach originated from a compromise at Intradev.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2025
+August 22, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Mac fixes trick users into installing new Shamos infostealer<a href="https://www.bleepingcomputer.com/news/security/fake-mac-fixes-trick-users-into-installing-new-shamos-infostealer/?&web_view=true"> Full Text</a>
@@ -124,13 +236,13 @@ Fake Mac fixes trick users into installing new Shamos infostealer<a href="https:
 A new macOS infostealer malware named Shamos, developed by the cybercriminal group COOKIE SPIDER, is actively targeting Mac users through deceptive ClickFix attacks. Shamos is a variant of the Atomic macOS Stealer.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2025
+August 22, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DaVita says ransomware gang stole data of nearly 2.7 million people<a href="https://www.bleepingcomputer.com/news/security/davita-ransomware-attack-exposed-data-of-nearly-27-million-people/?&web_view=true"> Full Text</a>
@@ -140,13 +252,13 @@ DaVita says ransomware gang stole data of nearly 2.7 million people<a href="http
 DaVita Inc., a leading kidney dialysis provider, has confirmed a ransomware attack that compromised the personal and health data of nearly 2.7 million individuals. The Interlock ransomware gang claimed responsibility.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2025
+August 22, 2025 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese national who sabotaged Ohio company’s systems handed four-year jail stint<a href="https://therecord.media/chinese-national-sentenced-prison?&web_view=true"> Full Text</a>
@@ -156,13 +268,13 @@ Chinese national who sabotaged Ohio company’s systems handed four-year jail st
 A former employee of Eaton Corporation, a power management company based in Ohio, has been sentenced to four years in prison for intentionally sabotaging the company’s computer systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2025
+August 22, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Good, the Bad and the Ugly in Cybersecurity – Week 34<a href="https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-34-7/?&web_view=true"> Full Text</a>
@@ -172,13 +284,13 @@ The Good, the Bad and the Ugly in Cybersecurity – Week 34<a href="https://www.
 Key incidents include the sentencing of high-profile cybercriminals, enhanced supply chain protections by PyPI, the evolution of the Noodlophile infostealer, and a sophisticated DPRK-linked espionage campaign using the MoonPeak RAT.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sentinel One
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2025
+August 22, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IT staffing firm The Computer Merchant notifies 34K people of data breach that leaked SSNs<a href="https://www.comparitech.com/news/it-staffing-firm-the-computer-merchant-notifies-34k-people-of-data-breach-that-leaked-ssns/?&web_view=true"> Full Text</a>
@@ -188,7 +300,7 @@ IT staffing firm The Computer Merchant notifies 34K people of data breach that l
 The Computer Merchant, an IT staffing firm based in Norwell, Massachusetts, has disclosed a data breach affecting 34,127 individuals. The breach, attributed to the Play ransomware group, exposed sensitive personal data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Compari Tech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
