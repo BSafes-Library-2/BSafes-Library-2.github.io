@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+August 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Developer Jailed for Deploying Malicious Code at US Company<a href="https://www.infosecurity-magazine.com/news/chinese-developer-malicious-code-us/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A former software developer has been sentenced to four years in prison for deploying malicious code within the network of his US-based employer, causing widespread disruption and financial losses.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 23, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+August 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New AI attack hides data-theft prompts in downscaled images<a href="https://www.bleepingcomputer.com/news/security/new-ai-attack-hides-data-theft-prompts-in-downscaled-images/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An AI-based attack technique enables data theft by embedding malicious prompts within images. These prompts are revealed only after the images are downscaled by AI systems, allowing attackers to inject commands into LLMs without user awareness.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Surge in coordinated scans targets Microsoft RDP auth servers<a href="https://www.bleepingcomputer.com/news/security/surge-in-coordinated-scans-targets-microsoft-rdp-auth-servers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A surge in coordinated scanning activity has been detected targeting Microsoft RDP Web Access and RDP Web Client authentication portals. This activity involves nearly 1,971 unique IP addresses.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 15, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

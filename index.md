@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2025
+August 26, 2025 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Developer Jailed for Deploying Malicious Code at US Company<a href="https://www.infosecurity-magazine.com/news/chinese-developer-malicious-code-us/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Chinese Developer Jailed for Deploying Malicious Code at US Company<a href="http
 A former software developer has been sentenced to four years in prison for deploying malicious code within the network of his US-based employer, causing widespread disruption and financial losses.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2025
+August 26, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 National Public Data Relaunches Despite 2.9 Billion SSNs Breach<a href="https://hackread.com/national-public-data-relaunch-despite-ssns-breach/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ National Public Data Relaunches Despite 2.9 Billion SSNs Breach<a href="https://
 The breach exposed approximately 2.9 billion records, including highly sensitive personal information such as Social Security numbers (SSNs), names, addresses, phone numbers, and familial relationships.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2025
+August 26, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Blistering Wyden letter seeks review of federal court cybersecurity, citing ‘incompetence,’ ‘negligence’<a href="https://cyberscoop.com/blistering-wyden-letter-seeks-review-of-federal-court-cybersecurity-citing-incompetence-negligence/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Blistering Wyden letter seeks review of federal court cybersecurity, citing ‘i
 The breach, attributed to alleged Russian hackers, exploited vulnerabilities that had remained unpatched for five years, with unauthorized access dating back to at least July. The breach compromised highly sensitive information.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyber Scoop
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2025
+August 26, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Farmers Insurance says 1 million customers affected by cyberattack on third-party vendor<a href="https://therecord.media/farmers-insurance-million-data-breach?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Farmers Insurance says 1 million customers affected by cyberattack on third-part
 A significant data breach has impacted over 1 million customers of Farmers Insurance and its subsidiaries, stemming from a cyberattack on an undisclosed third-party vendor. The breach resulted in the exposure of sensitive personal information.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2025
+August 26, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Auchan retailer data breach impacts hundreds of thousands of customers<a href="https://www.bleepingcomputer.com/news/security/auchan-retailer-data-breach-impacts-hundreds-of-thousands-of-customers/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Auchan retailer data breach impacts hundreds of thousands of customers<a href="h
 French multinational retailer Auchan has disclosed a significant data breach affecting several hundred thousand customers. The breach specifically impacted loyalty accounts, exposing personal data tied to these programs.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2025
+August 26, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Jersey social services org notifies 42K people of data breach that leaked SSNs, medical and financial info<a href="https://www.comparitech.com/news/new-jersey-social-services-org-notifies-42k-people-of-data-breach-that-leaked-ssns-medical-and-financial-info/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ New Jersey social services org notifies 42K people of data breach that leaked SS
 Legacy Treatment Services, a New Jersey-based nonprofit healthcare provider, disclosed a ransomware attack affecting 41,826 individuals. The breach, attributed to the Interlock group, exposed extensive personal, financial, and medical data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CompariTech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2025
+August 26, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AI browsers could leave users penniless: A prompt injection warning<a href="https://www.malwarebytes.com/blog/news/2025/08/ai-browsers-could-leave-users-penniless-a-prompt-injection-warning?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ AI browsers could leave users penniless: A prompt injection warning<a href="http
 The rise of AI-powered and agentic browsers introduces a new class of cybersecurity threats—prompt injection attacks. These attacks exploit the language-processing capabilities of LLMs embedded in browsers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Malware Bytes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2025
+August 26, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New AI attack hides data-theft prompts in downscaled images<a href="https://www.bleepingcomputer.com/news/security/new-ai-attack-hides-data-theft-prompts-in-downscaled-images/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ New AI attack hides data-theft prompts in downscaled images<a href="https://www.
 An AI-based attack technique enables data theft by embedding malicious prompts within images. These prompts are revealed only after the images are downscaled by AI systems, allowing attackers to inject commands into LLMs without user awareness.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2025
+August 26, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Surge in coordinated scans targets Microsoft RDP auth servers<a href="https://www.bleepingcomputer.com/news/security/surge-in-coordinated-scans-targets-microsoft-rdp-auth-servers/?&web_view=true"> Full Text</a>
@@ -172,7 +172,7 @@ Surge in coordinated scans targets Microsoft RDP auth servers<a href="https://ww
 A surge in coordinated scanning activity has been detected targeting Microsoft RDP Web Access and RDP Web Client authentication portals. This activity involves nearly 1,971 unique IP addresses.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

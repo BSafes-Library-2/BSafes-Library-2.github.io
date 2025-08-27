@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 25, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ScreenConnect admins targeted with spoofed login alerts<a href="https://www.helpnetsecurity.com/2025/08/25/screenconnect-admins-targeted-with-spoofed-suspicious-login-alerts/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A low-volume spear-phishing campaign is targeting ScreenConnect Super Admins—users with full administrative control over their organization's deployment. The attackers aim to harvest login credentials MFA tokens.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 25, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake CoinMarketCap Journalists Targeting Crypto Executives in Spear-Phishing Campaign<a href="https://hackread.com/fake-coinmarketcap-journalists-crypto-executives-spear-phishing/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A targeted spear-phishing campaign is impersonating CoinMarketCap journalists to compromise cryptocurrency executives. The attackers exploit Zoom’s remote control feature to gain access to victims' systems.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 23, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

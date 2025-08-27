@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI browsers could leave users penniless: A prompt injection warning<a href="https://www.malwarebytes.com/blog/news/2025/08/ai-browsers-could-leave-users-penniless-a-prompt-injection-warning?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The rise of AI-powered and agentic browsers introduces a new class of cybersecurity threats—prompt injection attacks. These attacks exploit the language-processing capabilities of LLMs embedded in browsers.
+</details>
+<div style="text-align: right" markdown="1">
+Malware Bytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 23, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
