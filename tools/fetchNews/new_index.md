@@ -34,7 +34,151 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2025
+August 26, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Developer Jailed for Deploying Malicious Code at US Company<a href="https://www.infosecurity-magazine.com/news/chinese-developer-malicious-code-us/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A former software developer has been sentenced to four years in prison for deploying malicious code within the network of his US-based employer, causing widespread disruption and financial losses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+National Public Data Relaunches Despite 2.9 Billion SSNs Breach<a href="https://hackread.com/national-public-data-relaunch-despite-ssns-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach exposed approximately 2.9 billion records, including highly sensitive personal information such as Social Security numbers (SSNs), names, addresses, phone numbers, and familial relationships.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blistering Wyden letter seeks review of federal court cybersecurity, citing ‘incompetence,’ ‘negligence’<a href="https://cyberscoop.com/blistering-wyden-letter-seeks-review-of-federal-court-cybersecurity-citing-incompetence-negligence/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach, attributed to alleged Russian hackers, exploited vulnerabilities that had remained unpatched for five years, with unauthorized access dating back to at least July. The breach compromised highly sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Farmers Insurance says 1 million customers affected by cyberattack on third-party vendor<a href="https://therecord.media/farmers-insurance-million-data-breach?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant data breach has impacted over 1 million customers of Farmers Insurance and its subsidiaries, stemming from a cyberattack on an undisclosed third-party vendor. The breach resulted in the exposure of sensitive personal information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Auchan retailer data breach impacts hundreds of thousands of customers<a href="https://www.bleepingcomputer.com/news/security/auchan-retailer-data-breach-impacts-hundreds-of-thousands-of-customers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+French multinational retailer Auchan has disclosed a significant data breach affecting several hundred thousand customers. The breach specifically impacted loyalty accounts, exposing personal data tied to these programs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Jersey social services org notifies 42K people of data breach that leaked SSNs, medical and financial info<a href="https://www.comparitech.com/news/new-jersey-social-services-org-notifies-42k-people-of-data-breach-that-leaked-ssns-medical-and-financial-info/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Legacy Treatment Services, a New Jersey-based nonprofit healthcare provider, disclosed a ransomware attack affecting 41,826 individuals. The breach, attributed to the Interlock group, exposed extensive personal, financial, and medical data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI browsers could leave users penniless: A prompt injection warning<a href="https://www.malwarebytes.com/blog/news/2025/08/ai-browsers-could-leave-users-penniless-a-prompt-injection-warning?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The rise of AI-powered and agentic browsers introduces a new class of cybersecurity threats—prompt injection attacks. These attacks exploit the language-processing capabilities of LLMs embedded in browsers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New AI attack hides data-theft prompts in downscaled images<a href="https://www.bleepingcomputer.com/news/security/new-ai-attack-hides-data-theft-prompts-in-downscaled-images/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An AI-based attack technique enables data theft by embedding malicious prompts within images. These prompts are revealed only after the images are downscaled by AI systems, allowing attackers to inject commands into LLMs without user awareness.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Surge in coordinated scans targets Microsoft RDP auth servers<a href="https://www.bleepingcomputer.com/news/security/surge-in-coordinated-scans-targets-microsoft-rdp-auth-servers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A surge in coordinated scanning activity has been detected targeting Microsoft RDP Web Access and RDP Web Client authentication portals. This activity involves nearly 1,971 unique IP addresses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ScreenConnect admins targeted with spoofed login alerts<a href="https://www.helpnetsecurity.com/2025/08/25/screenconnect-admins-targeted-with-spoofed-suspicious-login-alerts/?&web_view=true"> Full Text</a>
@@ -44,13 +188,13 @@ ScreenConnect admins targeted with spoofed login alerts<a href="https://www.help
 A low-volume spear-phishing campaign is targeting ScreenConnect Super Admins—users with full administrative control over their organization's deployment. The attackers aim to harvest login credentials MFA tokens.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2025
+August 25, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android.Backdoor.916.origin malware targets Russian business executives<a href="https://securityaffairs.com/181503/malware/android-backdoor-916-origin-malware-targets-russian-business-executives.html?&web_view=true"> Full Text</a>
@@ -60,13 +204,13 @@ Android.Backdoor.916.origin malware targets Russian business executives<a href="
 A newly discovered Android spyware, Android.Backdoor.916.origin, is actively targeting Russian-speaking business executives by masquerading as a fake antivirus app named "GuardCB." The malware is designed for surveillance and data theft.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2025
+August 25, 2025 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 O took offline operational systems following a ransomware attack<a href="https://securityaffairs.com/181493/cyber-crime/electronics-manufacturer-data-i-o-took-offline-operational-systems-following-a-ransomware-attack.html?&web_view=true"> Full Text</a>
@@ -76,13 +220,13 @@ O took offline operational systems following a ransomware attack<a href="https:/
 Data I/O, a prominent manufacturer of manual and automated programming systems for flash memory, microcontrollers, and logic devices, reported a ransomware attack that forced the company to take several operational systems offline.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2025
+August 25, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Murky Panda hackers exploit cloud trust to hack downstream customers<a href="https://www.bleepingcomputer.com/news/security/murky-panda-hackers-exploit-cloud-trust-to-hack-downstream-customers/?&web_view=true"> Full Text</a>
@@ -92,13 +236,13 @@ Murky Panda hackers exploit cloud trust to hack downstream customers<a href="htt
 Murky Panda has recently compromised cloud service providers to abuse their trusted access to customer environments. In one case, they exploited zero-day vulnerabilities to access a SaaS provider’s cloud infrastructure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2025
+August 25, 2025 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why satellite cybersecurity threats matter to everyone<a href="https://www.helpnetsecurity.com/2025/08/25/brett-loubert-deloitte-satellite-cybersecurity-threats/?&web_view=true"> Full Text</a>
@@ -108,13 +252,13 @@ Why satellite cybersecurity threats matter to everyone<a href="https://www.helpn
 Many satellites currently in orbit are over 20 years old and were not designed with cybersecurity in mind. These legacy systems often lack the compute, memory, and storage capacity required to support modern cybersecurity tools.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2025
+August 25, 2025 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GeoServer Exploits, PolarEdge, and Gayfemboy Push Cybercrime Beyond Traditional Botnets<a href="https://thehackernews.com/2025/08/geoserver-exploits-polaredge-and.html?&web_view=true"> Full Text</a>
@@ -124,13 +268,13 @@ GeoServer Exploits, PolarEdge, and Gayfemboy Push Cybercrime Beyond Traditional 
 These campaigns—GeoServer exploitation, PolarEdge botnet, and the Gayfemboy Mirai variant—demonstrate a shift toward stealthy, persistent monetization and advanced evasion techniques.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2025
+August 25, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake CoinMarketCap Journalists Targeting Crypto Executives in Spear-Phishing Campaign<a href="https://hackread.com/fake-coinmarketcap-journalists-crypto-executives-spear-phishing/?&web_view=true"> Full Text</a>
@@ -140,7 +284,7 @@ Fake CoinMarketCap Journalists Targeting Crypto Executives in Spear-Phishing Cam
 A targeted spear-phishing campaign is impersonating CoinMarketCap journalists to compromise cryptocurrency executives. The attackers exploit Zoom’s remote control feature to gain access to victims' systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
