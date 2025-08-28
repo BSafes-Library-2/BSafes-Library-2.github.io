@@ -8,6 +8,76 @@ nav_order: 900029
 
 ## Breach
 ---
+August 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+National Public Data Relaunches Despite 2.9 Billion SSNs Breach<a href="https://hackread.com/national-public-data-relaunch-despite-ssns-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach exposed approximately 2.9 billion records, including highly sensitive personal information such as Social Security numbers (SSNs), names, addresses, phone numbers, and familial relationships.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blistering Wyden letter seeks review of federal court cybersecurity, citing ‘incompetence,’ ‘negligence’<a href="https://cyberscoop.com/blistering-wyden-letter-seeks-review-of-federal-court-cybersecurity-citing-incompetence-negligence/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach, attributed to alleged Russian hackers, exploited vulnerabilities that had remained unpatched for five years, with unauthorized access dating back to at least July. The breach compromised highly sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Scoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Farmers Insurance says 1 million customers affected by cyberattack on third-party vendor<a href="https://therecord.media/farmers-insurance-million-data-breach?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant data breach has impacted over 1 million customers of Farmers Insurance and its subsidiaries, stemming from a cyberattack on an undisclosed third-party vendor. The breach resulted in the exposure of sensitive personal information.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Auchan retailer data breach impacts hundreds of thousands of customers<a href="https://www.bleepingcomputer.com/news/security/auchan-retailer-data-breach-impacts-hundreds-of-thousands-of-customers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+French multinational retailer Auchan has disclosed a significant data breach affecting several hundred thousand customers. The breach specifically impacted loyalty accounts, exposing personal data tied to these programs.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Jersey social services org notifies 42K people of data breach that leaked SSNs, medical and financial info<a href="https://www.comparitech.com/news/new-jersey-social-services-org-notifies-42k-people-of-data-breach-that-leaked-ssns-medical-and-financial-info/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Legacy Treatment Services, a New Jersey-based nonprofit healthcare provider, disclosed a ransomware attack affecting 41,826 individuals. The breach, attributed to the Interlock group, exposed extensive personal, financial, and medical data.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 25, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

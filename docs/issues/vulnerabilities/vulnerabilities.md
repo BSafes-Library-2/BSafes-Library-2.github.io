@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 27, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HPE security advisory (AV25-544)<a href="https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-544?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hewlett Packard Enterprise (HPE) has issued Security Advisory AV25-544 on August 26, 2025, addressing multiple vulnerabilities in HPE Compute Scale-up Server 3200 systems. These vulnerabilities affect systems running versions prior to v1.60.88.
+</details>
+<div style="text-align: right" markdown="1">
+Government of Canada
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 26, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
