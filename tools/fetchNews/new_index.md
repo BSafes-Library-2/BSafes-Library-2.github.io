@@ -34,7 +34,103 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2025
+August 28, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ShadowSilk Campaign Targets Central Asian Governments<a href="https://www.infosecurity-magazine.com/news/shadowsilk-targets-central-asian/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A series of cyberattacks against government organizations in Central Asia and the Asia-Pacific has been linked to a threat cluster known as ShadowSilk, according to new research by Group-IB.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of Swedish municipalities impacted by suspected ransomware attack on IT supplier<a href="https://therecord.media/sweden-municipalities-ransomware-software?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A suspected ransomware attack on Miljödata, a Swedish software provider used for managing sick leave and similar HR reports, is believed to have impacted around 200 of the country’s municipal governments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+300k+ Plex Media Server instances still vulnerable to attack via CVE-2025-34158<a href="https://www.helpnetsecurity.com/2025/08/27/plex-media-server-cve-2025-34158-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 300,000 internet-facing Plex Media Server instances are still vulnerable to attack via CVE-2025-34158, a critical vulnerability for which Plex issued a fix earlier this month, Censys warned.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Allied spy agencies blame three Chinese tech companies for Salt Typhoon attacks<a href="https://therecord.media/allied-spy-agencies-blame-chinese-companies-salt-typhoon?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The activity identified by the intelligence services partially overlaps with campaigns reported by the cybersecurity industry and tracked as Salt Typhoon, RedMike, OPERATOR PANDA, UNC5807 and Ghost Emperor among others, stated the document.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware group says it hacked West Chester Township, Ohio<a href="https://www.comparitech.com/news/ransomware-group-says-it-hacked-west-chester-township-oh/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+West Chester Township officials on August 12 announced they had isolated and contained a cybersecurity breach. PEAR claimed responsibility for the attack on August 15, 2025, saying it stole 2 TB of data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FreePBX servers hacked via zero-day, emergency fix released<a href="https://www.bleepingcomputer.com/news/security/freepbx-servers-hacked-via-zero-day-emergency-fix-released/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an advisory posted to the FreePBX forums, the Sangoma FreePBX Security Team warned that since August 21, hackers have been exploiting a zero-day vulnerability in exposed FreePBX administrator control panels.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HPE security advisory (AV25-544)<a href="https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-544?&web_view=true"> Full Text</a>
@@ -44,13 +140,13 @@ HPE security advisory (AV25-544)<a href="https://www.cyber.gc.ca/en/alerts-advis
 Hewlett Packard Enterprise (HPE) has issued Security Advisory AV25-544 on August 26, 2025, addressing multiple vulnerabilities in HPE Compute Scale-up Server 3200 systems. These vulnerabilities affect systems running versions prior to v1.60.88.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Government of Canada
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2025
+August 27, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers flag code that uses AI systems to carry out ransomware attacks<a href="https://cyberscoop.com/prompt-lock-eset-ransomware-research-ai-powered-prompt-injection/?&web_view=true"> Full Text</a>
@@ -60,13 +156,13 @@ Researchers flag code that uses AI systems to carry out ransomware attacks<a hre
 Researchers have identified PromptLock, the first known AI-powered ransomware, written in Golang. This malware leverages prompt injection attacks on large language models (LLMs) to execute ransomware functions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyber Scoop
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2025
+August 27, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Velociraptor incident response tool abused for remote access<a href="https://news.sophos.com/en-us/2025/08/26/velociraptor-incident-response-tool-abused-for-remote-access/?&web_view=true"> Full Text</a>
@@ -76,13 +172,13 @@ Velociraptor incident response tool abused for remote access<a href="https://new
 Threat actors have been observed abusing the legitimate Velociraptor digital forensics and incident response (DFIR) tool to establish remote access and execute further malicious payloads.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sophos
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2025
+August 27, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data Is the New Diamond: Heists in the Digital Age<a href="https://unit42.paloaltonetworks.com/retail-hospitality-heists-in-the-digital-age/?&web_view=true"> Full Text</a>
@@ -92,7 +188,7 @@ Data Is the New Diamond: Heists in the Digital Age<a href="https://unit42.paloal
 A financially motivated data extortion campaign, active since at least December 2024, is targeting high-end retailers and luxury commerce sectors. The campaign involves threat actors compromising Salesforce environments using social engineering .
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Palo Alto Networks
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
