@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+August 27, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Velociraptor incident response tool abused for remote access<a href="https://news.sophos.com/en-us/2025/08/26/velociraptor-incident-response-tool-abused-for-remote-access/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have been observed abusing the legitimate Velociraptor digital forensics and incident response (DFIR) tool to establish remote access and execute further malicious payloads.
+</details>
+<div style="text-align: right" markdown="1">
+Sophos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 27, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Is the New Diamond: Heists in the Digital Age<a href="https://unit42.paloaltonetworks.com/retail-hospitality-heists-in-the-digital-age/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A financially motivated data extortion campaign, active since at least December 2024, is targeting high-end retailers and luxury commerce sectors. The campaign involves threat actors compromising Salesforce environments using social engineering .
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 26, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

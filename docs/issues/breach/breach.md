@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+August 28, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware group says it hacked West Chester Township, Ohio<a href="https://www.comparitech.com/news/ransomware-group-says-it-hacked-west-chester-township-oh/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+West Chester Township officials on August 12 announced they had isolated and contained a cybersecurity breach. PEAR claimed responsibility for the attack on August 15, 2025, saying it stole 2 TB of data.
+</details>
+<div style="text-align: right" markdown="1">
+ComapriTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 26, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
