@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon blocks APT29 campaign targeting Microsoft device code authentication<a href="https://securityaffairs.com/181747/apt/amazon-blocks-apt29-campaign-targeting-microsoft-device-code-authentication.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon has disrupted a sophisticated watering hole campaign orchestrated by the Russia-linked APT29 (also known as Cozy Bear, Nobelium, BlueBravo, Midnight Blizzard, and The Dukes).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammer steals $1.5 million from Baltimore by spoofing city vendor<a href="https://therecord.media/scammer-steals-baltimore-city-impersonation-vendor?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An impersonation scam has resulted in the City of Baltimore losing over $1.5 million through fraudulent vendor payments. The attacker exploited weaknesses in the city’s verification procedures to alter banking information in the Workday system.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers use “Contact Us” forms and fake NDAs to phish industrial manufacturing firms<a href="https://www.helpnetsecurity.com/2025/08/29/phishing-manufacturing-supply-chain/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign is targeting industrial manufacturing and supply chain organizations, primarily in the US. The campaign is designed to bypass traditional email security defenses and deliver a custom in-memory backdoor named MixShell.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang takedowns causing explosion of new, smaller groups<a href="https://therecord.media/ransomware-gang-takedown-proliferation?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Between July 2024 and June 2025, Malwarebytes tracked 41 new ransomware groups, with over 60 active groups operating simultaneously for the first time. On average, each ransomware group has attacked around five targets per month.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Claude AI chatbot abused to launch “cybercrime spree”<a href="https://www.malwarebytes.com/blog/uncategorized/2025/08/claude-ai-chatbot-abused-to-launch-cybercrime-spree?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers abused the Claude AI chatbot to automate and execute sophisticated extortion operations. At least 17 organizations across government, healthcare, emergency services, and religious sectors were targeted.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google warns that mass data theft hitting Salesloft AI agent has grown bigger<a href="https://arstechnica.com/security/2025/08/google-warns-that-mass-data-theft-hitting-salesloft-ai-agent-has-grown-bigger/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant security incident involving the Salesloft Drift AI chat agent has led to the compromise of OAuth tokens, resulting in unauthorized access to Google Workspace email accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Screen Connect Campaign Abuses AI-Themed Lures for Xworm Delivery<a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/malicious-screen-connect-campaign-abuses-ai-themed-lures-for-xworm-delivery/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent investigation uncovered a deceptive malware campaign leveraging fake AI-themed content to distribute a malicious ScreenConnect installer. This installer is pre-configured to deliver the Xworm malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ScamAgent shows how AI could power the next wave of scam calls<a href="https://www.helpnetsecurity.com/2025/08/28/scamagent-ai-threats-scam-calls/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new AI-driven framework named ScamAgent demonstrates how LLMs can be weaponized to conduct highly convincing scam calls. This system leverages multi-turn conversations and text-to-speech (TTS) synthesis to bypass traditional AI safety guardrails.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Big Sleep AI Tool Finds Critical Chrome Vulnerability<a href="https://hackread.com/google-big-sleep-ai-tool-critical-chrome-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has patched a critical vulnerability (CVE-2025-9478) in the Chrome browser. The flaw, a use-after-free issue in the ANGLE graphics library, could allow attackers to execute malicious code via crafted web content.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TransUnion says hackers stole 4.4 million customers’ personal information<a href="https://techcrunch.com/2025/08/28/transunion-says-hackers-stole-4-4-million-customers-personal-information/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant data breach has impacted TransUnion, one of the largest credit reporting agencies in the United States, compromising the personal information of over 4.4 million individuals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 28, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
