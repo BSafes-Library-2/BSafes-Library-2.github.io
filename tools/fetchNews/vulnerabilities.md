@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 28, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+300k+ Plex Media Server instances still vulnerable to attack via CVE-2025-34158<a href="https://www.helpnetsecurity.com/2025/08/27/plex-media-server-cve-2025-34158-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 300,000 internet-facing Plex Media Server instances are still vulnerable to attack via CVE-2025-34158, a critical vulnerability for which Plex issued a fix earlier this month, Censys warned.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 28, 2025  <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FreePBX servers hacked via zero-day, emergency fix released<a href="https://www.bleepingcomputer.com/news/security/freepbx-servers-hacked-via-zero-day-emergency-fix-released/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an advisory posted to the FreePBX forums, the Sangoma FreePBX Security Team warned that since August 21, hackers have been exploiting a zero-day vulnerability in exposed FreePBX administrator control panels.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 27, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 29, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Big Sleep AI Tool Finds Critical Chrome Vulnerability<a href="https://hackread.com/google-big-sleep-ai-tool-critical-chrome-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has patched a critical vulnerability (CVE-2025-9478) in the Chrome browser. The flaw, a use-after-free issue in the ANGLE graphics library, could allow attackers to execute malicious code via crafted web content.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 28, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

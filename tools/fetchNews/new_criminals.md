@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 1, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammer steals $1.5 million from Baltimore by spoofing city vendor<a href="https://therecord.media/scammer-steals-baltimore-city-impersonation-vendor?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An impersonation scam has resulted in the City of Baltimore losing over $1.5 million through fraudulent vendor payments. The attacker exploited weaknesses in the city’s verification procedures to alter banking information in the Workday system.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang takedowns causing explosion of new, smaller groups<a href="https://therecord.media/ransomware-gang-takedown-proliferation?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Between July 2024 and June 2025, Malwarebytes tracked 41 new ransomware groups, with over 60 active groups operating simultaneously for the first time. On average, each ransomware group has attacked around five targets per month.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 23, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

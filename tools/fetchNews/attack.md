@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+August 28, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ShadowSilk Campaign Targets Central Asian Governments<a href="https://www.infosecurity-magazine.com/news/shadowsilk-targets-central-asian/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A series of cyberattacks against government organizations in Central Asia and the Asia-Pacific has been linked to a threat cluster known as ShadowSilk, according to new research by Group-IB.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 28, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of Swedish municipalities impacted by suspected ransomware attack on IT supplier<a href="https://therecord.media/sweden-municipalities-ransomware-software?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A suspected ransomware attack on Miljödata, a Swedish software provider used for managing sick leave and similar HR reports, is believed to have impacted around 200 of the country’s municipal governments.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 28, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Allied spy agencies blame three Chinese tech companies for Salt Typhoon attacks<a href="https://therecord.media/allied-spy-agencies-blame-chinese-companies-salt-typhoon?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The activity identified by the intelligence services partially overlaps with campaigns reported by the cybersecurity industry and tracked as Salt Typhoon, RedMike, OPERATOR PANDA, UNC5807 and Ghost Emperor among others, stated the document.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 27, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

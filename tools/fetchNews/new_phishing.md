@@ -8,6 +8,48 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers use “Contact Us” forms and fake NDAs to phish industrial manufacturing firms<a href="https://www.helpnetsecurity.com/2025/08/29/phishing-manufacturing-supply-chain/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign is targeting industrial manufacturing and supply chain organizations, primarily in the US. The campaign is designed to bypass traditional email security defenses and deliver a custom in-memory backdoor named MixShell.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 29, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Screen Connect Campaign Abuses AI-Themed Lures for Xworm Delivery<a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/malicious-screen-connect-campaign-abuses-ai-themed-lures-for-xworm-delivery/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent investigation uncovered a deceptive malware campaign leveraging fake AI-themed content to distribute a malicious ScreenConnect installer. This installer is pre-configured to deliver the Xworm malware.
+</details>
+<div style="text-align: right" markdown="1">
+Trust Wave
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 29, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ScamAgent shows how AI could power the next wave of scam calls<a href="https://www.helpnetsecurity.com/2025/08/28/scamagent-ai-threats-scam-calls/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new AI-driven framework named ScamAgent demonstrates how LLMs can be weaponized to conduct highly convincing scam calls. This system leverages multi-turn conversations and text-to-speech (TTS) synthesis to bypass traditional AI safety guardrails.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 25, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

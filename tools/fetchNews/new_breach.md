@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+August 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google warns that mass data theft hitting Salesloft AI agent has grown bigger<a href="https://arstechnica.com/security/2025/08/google-warns-that-mass-data-theft-hitting-salesloft-ai-agent-has-grown-bigger/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant security incident involving the Salesloft Drift AI chat agent has led to the compromise of OAuth tokens, resulting in unauthorized access to Google Workspace email accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Ars Technica
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 29, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TransUnion says hackers stole 4.4 million customers’ personal information<a href="https://techcrunch.com/2025/08/28/transunion-says-hackers-stole-4-4-million-customers-personal-information/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant data breach has impacted TransUnion, one of the largest credit reporting agencies in the United States, compromising the personal information of over 4.4 million individuals.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 28, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
