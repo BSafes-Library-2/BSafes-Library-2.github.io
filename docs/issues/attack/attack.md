@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+September 3, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ethereum smart contracts used to push malicious code on npm<a href="https://www.reversinglabs.com/blog/ethereum-contracts-malicious-code?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A novel software supply chain attack campaign has been uncovered involving malicious npm packages—colortoolsv2 and mimelib2—that use Ethereum smart contracts to deliver second-stage malware.
+</details>
+<div style="text-align: right" markdown="1">
+Reversing Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 30, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

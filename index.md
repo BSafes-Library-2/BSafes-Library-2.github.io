@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 3, 2025
+September 3, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android droppers evolved into versatile tools to spread malware<a href="https://securityaffairs.com/181849/malware/android-droppers-evolved-into-versatile-tools-to-spread-malware.html?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Android droppers evolved into versatile tools to spread malware<a href="https://
 ThreatFabric researchers have identified a new dropper variant named RewardDropMiner. This staged dropper is capable of evading both Play Protect and the Pilot Program by delaying malicious activity until after installation.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 3, 2025
+September 3, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake AnyDesk Installer Spreads MetaStealer Through ClickFix Scam<a href="https://hackread.com/fake-anydesk-installer-metastealer-clickfix-scam/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Fake AnyDesk Installer Spreads MetaStealer Through ClickFix Scam<a href="https:/
 A new malware campaign is leveraging a fake AnyDesk installer and a deceptive ClickFix technique to distribute MetaStealer malware. This campaign uses a novel "FileFix" method to bypass traditional defenses by exploiting Windows File Explorer.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 3, 2025
+September 3, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google patches two Android zero-days, 120 defects total in September security update<a href="https://cyberscoop.com/android-security-update-september-2025/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Google patches two Android zero-days, 120 defects total in September security up
 Google has released its September 2025 Android security update, addressing a record-breaking 120 vulnerabilities. Notably, the update patches two actively exploited zero-day vulnerabilities affecting the Android kernel and runtime components.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyber Scoop
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 3, 2025
+September 3, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ethereum smart contracts used to push malicious code on npm<a href="https://www.reversinglabs.com/blog/ethereum-contracts-malicious-code?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Ethereum smart contracts used to push malicious code on npm<a href="https://www.
 A novel software supply chain attack campaign has been uncovered involving malicious npm packages—colortoolsv2 and mimelib2—that use Ethereum smart contracts to deliver second-stage malware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Reversing Labs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 3, 2025
+September 3, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. CISA adds WhatsApp, and TP-link flaws to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/181863/hacking/u-s-cisa-adds-whatsapp-and-tp-link-flaws-to-its-known-exploited-vulnerabilities-catalog.html?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ U.S. CISA adds WhatsApp, and TP-link flaws to its Known Exploited Vulnerabilitie
 The CISA has added two actively exploited vulnerabilities—one in WhatsApp (CVE-2025-55177) and another in TP-Link TL-WA855RE Wi-Fi extenders (CVE-2020-24363)—to its Known Exploited Vulnerabilities (KEV) catalog.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 3, 2025
+September 3, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Prolific Russian ransomware operator living in California enjoys rare leniency awaiting trial<a href="https://cyberscoop.com/ianis-antropenko-zeppelin-ransomware-russian-cybercrime/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Prolific Russian ransomware operator living in California enjoys rare leniency a
 U.S. authorities have charged Ianis Aleksandrovich Antropenko, a Russian national, with multiple felonies related to the deployment of Zeppelin ransomware from 2018 to 2022. The charges include conspiracy to commit computer fraud and abuse.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyber Scoop
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 3, 2025
+September 3, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers breach fintech firm in attempted $130M bank heist<a href="https://www.bleepingcomputer.com/news/security/hackers-breach-fintech-firm-in-attempted-130m-bank-heist/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Hackers breach fintech firm in attempted $130M bank heist<a href="https://www.bl
 A major cyberattack targeted Sinqia S.A. in an attempted $130 million heist via Brazil’s Pix real-time payment system. The attackers attempted to execute unauthorized B2B transactions involving two financial institutions that are customers of Sinqia.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 3, 2025
+September 3, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ICE Reinstates Contract with Paragon<a href="https://www.infosecurity-magazine.com/news/ice-reinstated-spyware-paragon/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ ICE Reinstates Contract with Paragon<a href="https://www.infosecurity-magazine.c
 On August 30, 2025, the U.S. Immigration and Customs Enforcement (ICE) lifted a stop work order on a $2 million contract with Paragon Solutions, an Israeli spyware vendor now owned by a U.S. private investment firm.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 2, 2025
+September 2, 2025 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Jaguar Land Rover ‘severely disrupted’ by cybersecurity incident<a href="https://therecord.media/jaguar-land-rover-disruption-cyber-incident?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Jaguar Land Rover ‘severely disrupted’ by cybersecurity incident<a href="htt
 Jaguar Land Rover (JLR), a major British automotive manufacturer, has experienced a significant cybersecurity incident that has severely disrupted its global operations. The incident has impacted both production and retail systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 2, 2025
+September 2, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious npm Package nodejs-smtp Mimics Nodemailer, Targets Atomic and Exodus Wallets<a href="https://thehackernews.com/2025/09/malicious-npm-package-nodejs-smtp.html?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Malicious npm Package nodejs-smtp Mimics Nodemailer, Targets Atomic and Exodus W
 Cybersecurity researchers have discovered a malicious npm package that comes with stealthy features to inject malicious code into desktop apps for cryptocurrency wallets like Atomic and Exodus on Windows systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
