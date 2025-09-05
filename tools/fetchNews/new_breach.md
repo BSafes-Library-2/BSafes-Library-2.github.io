@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+September 4, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South Carolina school district notifies 31,000 people of data breach that leaked SSNs and financial info<a href="https://www.comparitech.com/news/south-carolina-school-district-notifies-31000-people-of-data-breach-that-leaked-ssns-and-financial-info/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+School District 5 of Lexington and Richland Counties, South Carolina, experienced a ransomware attack in June 2025, compromising sensitive data of 31,475 individuals. The Interlock ransomware gang claimed responsibility.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 4, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SaaS giant Workiva discloses data breach after Salesforce attack<a href="https://www.bleepingcomputer.com/news/security/saas-giant-workiva-discloses-data-breach-after-salesforce-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent data breach at a major SaaS provider has exposed sensitive customer information following a compromise of a third-party CRM system. The breach is part of a broader campaign targeting Salesforce customers.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 3, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

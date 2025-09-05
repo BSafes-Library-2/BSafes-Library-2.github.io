@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+September 3, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. CISA adds WhatsApp, and TP-link flaws to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/181863/hacking/u-s-cisa-adds-whatsapp-and-tp-link-flaws-to-its-known-exploited-vulnerabilities-catalog.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA has added two actively exploited vulnerabilities—one in WhatsApp (CVE-2025-55177) and another in TP-Link TL-WA855RE Wi-Fi extenders (CVE-2020-24363)—to its Known Exploited Vulnerabilities (KEV) catalog.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 3, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ICE Reinstates Contract with Paragon<a href="https://www.infosecurity-magazine.com/news/ice-reinstated-spyware-paragon/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On August 30, 2025, the U.S. Immigration and Customs Enforcement (ICE) lifted a stop work order on a $2 million contract with Paragon Solutions, an Israeli spyware vendor now owned by a U.S. private investment firm.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 20, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

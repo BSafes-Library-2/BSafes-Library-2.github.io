@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2025
+September 4, 2025 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DDoS attacks serve as instruments of political influence and disruption<a href="https://www.helpnetsecurity.com/2025/09/04/ddos-attacks-worldwide-2025/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ DDoS attacks serve as instruments of political influence and disruption<a href="
 In H1 2025, a total of 8,062,971 DDoS attacks were recorded globally, with the EMEA region experiencing the highest volume at 3.2 million attacks. Peak attack speeds reached 3.12 Tbps and 1.5 Gbps.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+HelpNet Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2025
+September 4, 2025 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloudflare Mitigates Largest Ever Recorded DDoS Attack at 11.5 Tbps<a href="https://hackread.com/cloudflare-mitigates-largest-ddos-attack-11-5-tbps/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Cloudflare Mitigates Largest Ever Recorded DDoS Attack at 11.5 Tbps<a href="http
 A record-breaking Distributed Denial-of-Service (DDoS) attack peaking at 11.5 terabits per second (Tbps) was successfully mitigated without service disruption. The attack lasted approximately 35 seconds.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2025
+September 4, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 South Carolina school district notifies 31,000 people of data breach that leaked SSNs and financial info<a href="https://www.comparitech.com/news/south-carolina-school-district-notifies-31000-people-of-data-breach-that-leaked-ssns-and-financial-info/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ South Carolina school district notifies 31,000 people of data breach that leaked
 School District 5 of Lexington and Richland Counties, South Carolina, experienced a ransomware attack in June 2025, compromising sensitive data of 31,475 individuals. The Interlock ransomware gang claimed responsibility.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CompariTech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2025
+September 4, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SaaS giant Workiva discloses data breach after Salesforce attack<a href="https://www.bleepingcomputer.com/news/security/saas-giant-workiva-discloses-data-breach-after-salesforce-attack/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ SaaS giant Workiva discloses data breach after Salesforce attack<a href="https:/
 A recent data breach at a major SaaS provider has exposed sensitive customer information following a compromise of a third-party CRM system. The breach is part of a broader campaign targeting Salesforce customers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2025
+September 4, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android security advisory – September 2025 monthly rollup (AV25-560)<a href="https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-september-2025-monthly-rollup-av25-560?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Android security advisory – September 2025 monthly rollup (AV25-560)<a href="h
 A security bulletin was published on September 2, 2025, addressing two critical vulnerabilities in Android—CVE-2025-38352 and CVE-2025-48543. Both vulnerabilities are confirmed to be under limited, targeted exploitation.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Government of Canada
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2025
+September 4, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mis-issued certificates for 1.1.1.1 DNS service pose a threat to the Internet<a href="https://arstechnica.com/security/2025/09/mis-issued-certificates-for-1-1-1-1-dns-service-pose-a-threat-to-the-internet/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Mis-issued certificates for 1.1.1.1 DNS service pose a threat to the Internet<a 
 Three TLS certificates were mis-issued for 1.1.1.1, a DNS service operated by Cloudflare and APNIC. These certificates, issued in May 2025 by Fina RDC 2020, a subordinate CA under Fina Root CA, were only discovered four months later.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Arts technica
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2025
+September 4, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Automated Sextortion Spyware Takes Webcam Pics of Victims Watching Porn<a href="https://www.wired.com/story/stealerium-infostealer-porn-sextortion/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Automated Sextortion Spyware Takes Webcam Pics of Victims Watching Porn<a href="
 A new variant of infostealer malware, Stealerium, introduces an automated sextortion feature that captures webcam images and browser screenshots when victims access NSFW content. This development marks a disturbing evolution in cybercrime.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Wired
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2025
+September 4, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors abuse X’s Grok AI to spread malicious links<a href="https://www.bleepingcomputer.com/news/security/threat-actors-abuse-xs-grok-ai-to-spread-malicious-links/?&web_view=true"> Full Text</a>
@@ -156,7 +156,7 @@ Threat actors abuse X’s Grok AI to spread malicious links<a href="https://www.
 Threat actors are exploiting X’s built-in AI assistant, Grok, to distribute malicious links by bypassing the platform’s link-posting restrictions. This abuse leverages Grok’s trusted status to amplify the reach and credibility of harmful content.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

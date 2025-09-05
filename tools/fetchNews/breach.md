@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+September 3, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers breach fintech firm in attempted $130M bank heist<a href="https://www.bleepingcomputer.com/news/security/hackers-breach-fintech-firm-in-attempted-130m-bank-heist/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A major cyberattack targeted Sinqia S.A. in an attempted $130 million heist via Brazil’s Pix real-time payment system. The attackers attempted to execute unauthorized B2B transactions involving two financial institutions that are customers of Sinqia.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 30, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

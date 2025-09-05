@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 4, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android security advisory – September 2025 monthly rollup (AV25-560)<a href="https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-september-2025-monthly-rollup-av25-560?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security bulletin was published on September 2, 2025, addressing two critical vulnerabilities in Android—CVE-2025-38352 and CVE-2025-48543. Both vulnerabilities are confirmed to be under limited, targeted exploitation.
+</details>
+<div style="text-align: right" markdown="1">
+Government of Canada
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 4, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mis-issued certificates for 1.1.1.1 DNS service pose a threat to the Internet<a href="https://arstechnica.com/security/2025/09/mis-issued-certificates-for-1-1-1-1-dns-service-pose-a-threat-to-the-internet/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three TLS certificates were mis-issued for 1.1.1.1, a DNS service operated by Cloudflare and APNIC. These certificates, issued in May 2025 by Fina RDC 2020, a subordinate CA under Fina Root CA, were only discovered four months later.
+</details>
+<div style="text-align: right" markdown="1">
+Arts technica
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 4, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors abuse X’s Grok AI to spread malicious links<a href="https://www.bleepingcomputer.com/news/security/threat-actors-abuse-xs-grok-ai-to-spread-malicious-links/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting X’s built-in AI assistant, Grok, to distribute malicious links by bypassing the platform’s link-posting restrictions. This abuse leverages Grok’s trusted status to amplify the reach and credibility of harmful content.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 3, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

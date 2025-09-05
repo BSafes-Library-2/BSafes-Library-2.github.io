@@ -8,6 +8,34 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+September 4, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS attacks serve as instruments of political influence and disruption<a href="https://www.helpnetsecurity.com/2025/09/04/ddos-attacks-worldwide-2025/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In H1 2025, a total of 8,062,971 DDoS attacks were recorded globally, with the EMEA region experiencing the highest volume at 3.2 million attacks. Peak attack speeds reached 3.12 Tbps and 1.5 Gbps.
+</details>
+<div style="text-align: right" markdown="1">
+HelpNet Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 4, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare Mitigates Largest Ever Recorded DDoS Attack at 11.5 Tbps<a href="https://hackread.com/cloudflare-mitigates-largest-ddos-attack-11-5-tbps/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A record-breaking Distributed Denial-of-Service (DDoS) attack peaking at 11.5 terabits per second (Tbps) was successfully mitigated without service disruption. The attack lasted approximately 35 seconds.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 16, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 3, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prolific Russian ransomware operator living in California enjoys rare leniency awaiting trial<a href="https://cyberscoop.com/ianis-antropenko-zeppelin-ransomware-russian-cybercrime/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. authorities have charged Ianis Aleksandrovich Antropenko, a Russian national, with multiple felonies related to the deployment of Zeppelin ransomware from 2018 to 2022. The charges include conspiracy to commit computer fraud and abuse.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Scoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 1, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
