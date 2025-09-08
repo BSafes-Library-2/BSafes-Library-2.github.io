@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+September 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TAG-150 Develops CastleRAT in Python and C, Expanding CastleLoader Malware Operations<a href="https://thehackernews.com/2025/09/tag-150-develops-castlerat-in-python.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TAG-150 has been working on CastleRAT since March, with the threat actor leveraging a multi-tiered infrastructure comprising Tier 1 victim-facing C2 servers, as well as Tier 2 and Tier 3 servers that are mostly VPSes, and Tier 4 backup servers.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 13, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

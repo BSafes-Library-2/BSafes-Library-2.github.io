@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 6, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Knock-on effects of software dev break-in hit schools trust<a href="https://www.theregister.com/2025/09/05/uk_schools_intradev_breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant data breach at UK-based software developer Intradev has impacted the Affinity Learning Partnership, a trust operating seven schools and employing over 650 staff. The breach occurred on August 4.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 6, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South Carolina School District Data Breach Affects 31,000 People<a href="https://www.infosecurity-magazine.com/news/south-carolina-school-district/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach affected 31,475 individuals and exposed sensitive data, including current and former names, dates of birth, Social Security numbers, financial account information, and state-issued ID information such as driver’s licenses and passports.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 6, 2025 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Good, the Bad and the Ugly in Cybersecurity – Week 36<a href="https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-36-7/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three Russian FSB officers are accused of orchestrating cyberattacks on U.S. critical infrastructure. Two malicious npm packages were using Ethereum smart contracts to conceal URLs for second-stage payload delivery.
+</details>
+<div style="text-align: right" markdown="1">
+Sentinel One
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 6, 2025 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TAG-150 Develops CastleRAT in Python and C, Expanding CastleLoader Malware Operations<a href="https://thehackernews.com/2025/09/tag-150-develops-castlerat-in-python.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TAG-150 has been working on CastleRAT since March, with the threat actor leveraging a multi-tiered infrastructure comprising Tier 1 victim-facing C2 servers, as well as Tier 2 and Tier 3 servers that are mostly VPSes, and Tier 4 backup servers.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 6, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two arrested in Egypt as authorities take down Streameast sports piracy platform<a href="https://therecord.media/streameast-sports-piracy-site-takedown-arrests-egypt?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Alliance for Creativity and Entertainment (ACE) said it worked with Egyptian authorities to shut down the piracy network — which had more than 80 associated domains and logged more than 1.6 billion visits over the past year.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 6, 2025 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA orders federal agencies to patch Sitecore zero-day following hacking reports<a href="https://therecord.media/cisa-orders-patch-for-sitecore-zero-day?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal civilian agencies have until September 25 to patch a vulnerability in popular content management system Sitecore after incident responders said they disrupted a recent attack involving the bug.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 5, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stealthy attack serves poisoned web pages only to AI agents<a href="https://www.helpnetsecurity.com/2025/09/05/ai-agents-prompt-injection-poisoned-web/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This method enables attackers to serve malicious web content exclusively to AI agents while presenting benign pages to human users, thereby hijacking the agents’ behavior for malicious purposes.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security 
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 5, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'SEO fraud-as-a-service' scheme hijacks Windows servers to promote gambling websites<a href="https://therecord.media/seo-scheme-windows-malware-gambling-sites-ghostredirector?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly identified threat actor group, GhostRedirector, has launched a global "SEO fraud-as-a-service" campaign targeting Windows servers to promote gambling websites. The campaign leverages two custom backdoors - Rungan and Gamshen.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 5, 2025 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine’s cyber chief on Russian hackers’ shifting tactics, US cyber aid<a href="https://therecord.media/ukraine-cyber-chief-on-russia-hacks-us-aid?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CERT-UA is currently tracking around 80 hacker groups, each with a code name and signature tactics. This intelligence enables Ukraine to anticipate attacks, inform partners, and develop timely countermeasures.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 5, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+$10M reward for Russia's FSB officers accused of hacking US Critical infrastructure<a href="https://securityaffairs.com/181904/cyber-warfare-2/10m-reward-for-russias-fsb-officers-accused-of-hacking-us-critical-infrastructure.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three Russian FSB officers are accused of a decade-long cyber espionage campaign targeting U.S. critical infrastructure and over 500 global energy firms. The U.S. State Department offers up to $10M for information on their identity or location.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 4, 2025 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

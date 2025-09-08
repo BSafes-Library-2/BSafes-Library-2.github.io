@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+September 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stealthy attack serves poisoned web pages only to AI agents<a href="https://www.helpnetsecurity.com/2025/09/05/ai-agents-prompt-injection-poisoned-web/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This method enables attackers to serve malicious web content exclusively to AI agents while presenting benign pages to human users, thereby hijacking the agents’ behavior for malicious purposes.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security 
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'SEO fraud-as-a-service' scheme hijacks Windows servers to promote gambling websites<a href="https://therecord.media/seo-scheme-windows-malware-gambling-sites-ghostredirector?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly identified threat actor group, GhostRedirector, has launched a global "SEO fraud-as-a-service" campaign targeting Windows servers to promote gambling websites. The campaign leverages two custom backdoors - Rungan and Gamshen.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 3, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+September 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Good, the Bad and the Ugly in Cybersecurity – Week 36<a href="https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-36-7/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three Russian FSB officers are accused of orchestrating cyberattacks on U.S. critical infrastructure. Two malicious npm packages were using Ethereum smart contracts to conceal URLs for second-stage payload delivery.
+</details>
+<div style="text-align: right" markdown="1">
+Sentinel One
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 22, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

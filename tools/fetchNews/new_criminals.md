@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two arrested in Egypt as authorities take down Streameast sports piracy platform<a href="https://therecord.media/streameast-sports-piracy-site-takedown-arrests-egypt?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Alliance for Creativity and Entertainment (ACE) said it worked with Egyptian authorities to shut down the piracy network — which had more than 80 associated domains and logged more than 1.6 billion visits over the past year.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+$10M reward for Russia's FSB officers accused of hacking US Critical infrastructure<a href="https://securityaffairs.com/181904/cyber-warfare-2/10m-reward-for-russias-fsb-officers-accused-of-hacking-us-critical-infrastructure.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three Russian FSB officers are accused of a decade-long cyber espionage campaign targeting U.S. critical infrastructure and over 500 global energy firms. The U.S. State Department offers up to $10M for information on their identity or location.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 3, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
