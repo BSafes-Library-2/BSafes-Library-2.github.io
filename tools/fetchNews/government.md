@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+September 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA orders federal agencies to patch Sitecore zero-day following hacking reports<a href="https://therecord.media/cisa-orders-patch-for-sitecore-zero-day?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal civilian agencies have until September 25 to patch a vulnerability in popular content management system Sitecore after incident responders said they disrupted a recent attack involving the bug.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine’s cyber chief on Russian hackers’ shifting tactics, US cyber aid<a href="https://therecord.media/ukraine-cyber-chief-on-russia-hacks-us-aid?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CERT-UA is currently tracking around 80 hacker groups, each with a code name and signature tactics. This intelligence enables Ukraine to anticipate attacks, inform partners, and develop timely countermeasures.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 3, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

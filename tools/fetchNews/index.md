@@ -34,6 +34,150 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Georgia hospital notifies 160,000+ people of year-old data breach that leaked SSNs, credit cards, and medical records<a href="https://www.comparitech.com/news/georgia-hospital-notifies-160000-people-of-year-old-data-breach-that-leaked-ssns-credit-cards-and-medical-records/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wayne Memorial Hospital (WMH) in Jesup, Georgia, has notified 163,440 individuals of a ransomware attack that occurred between May 30 and June 3, 2024. Monti ransomware group claimed responsibility and listed WMH on its data leak site.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MostereRAT Deployed AnyDesk/TightVNC for Covert Full Access<a href="https://www.fortinet.com/blog/threat-research/mostererat-deployed-anydesk-tightvnc-for-covert-full-access?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly identified phishing campaign is deploying a sophisticated RAT dubbed MostereRAT, targeting Microsoft Windows systems. The campaign begins with phishing emails targeting Japanese users, impersonating legitimate business inquiries.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian investment platform Wealthsimple disclosed a data breach<a href="https://securityaffairs.com/181999/data-breach/canadian-investment-platform-wealthsimple-disclosed-a-data-breach.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach originated from a supply chain compromise involving a trusted third-party software package integrated into Wealthsimple’s systems. The unauthorized access occurred for a brief period and affected less than 1% of the platform’s clients.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+iCloud Calendar abused to send phishing emails from Apple’s servers<a href="https://www.bleepingcomputer.com/news/security/icloud-calendar-abused-to-send-phishing-emails-from-apples-servers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated phishing campaign is exploiting Apple’s iCloud Calendar invite system to send callback phishing emails directly from Apple’s legitimate email servers. This abuse allows the phishing messages to bypass standard email security filters.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI-powered malware hit 2,180 GitHub accounts in “s1ngularity” attack<a href="https://www.bleepingcomputer.com/news/security/ai-powered-malware-hit-2-180-github-accounts-in-s1ngularity-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An AI-powered supply chain attack, dubbed s1ngularity, has compromised 2,180 GitHub accounts and 7,200 repositories by exploiting the Nx open-source project. The attackers used a malicious NPM package to deploy credential-stealing malware.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VirusTotal finds hidden malware phishing campaign in SVG files<a href="https://www.bleepingcomputer.com/news/security/virustotal-finds-hidden-malware-phishing-campaign-in-svg-files/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VirusTotal has uncovered a stealthy phishing campaign that uses SVG (Scalable Vector Graphics) files to impersonate Colombia’s judicial system and deliver malware. The initial SVG file had zero antivirus detections.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nexar dashcam video database hacked<a href="https://www.malwarebytes.com/blog/news/2025/09/nexar-dashcam-video-database-hacked?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach compromised sensitive video recordings, including footage with clearly visible faces and potentially identifiable individuals. Organizations and government entities that had access to Nexar’s data may also be indirectly affected.
+</details>
+<div style="text-align: right" markdown="1">
+Malware Bytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2025 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rogue AI Agents In Your SOCs and SIEMs – Indirect Prompt Injection via Log Files<a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/rogue-ai-agents-in-your-socs-and-siems-indirect-prompt-injection-via-log-files/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AI agents in SOCs and SIEMs are vulnerable to indirect prompt injection, where malicious inputs are embedded in log files. These log files, when ingested by the AI, can trigger unintended behaviors such as altering event classifications.
+</details>
+<div style="text-align: right" markdown="1">
+Trust Wave
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GhostAction Attack Steals 3,325 Secrets from GitHub Projects<a href="https://hackread.com/ghostaction-attack-steals-github-projects-secrets/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach affected 327 developers and exposed thousands of secrets, posing a significant risk to software supply chains. Several companies reported that their entire SDK portfolios were tampered with, increasing the risk of downstream compromise.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 6, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+September 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Knock-on effects of software dev break-in hit schools trust<a href="https://www.theregister.com/2025/09/05/uk_schools_intradev_breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant data breach at UK-based software developer Intradev has impacted the Affinity Learning Partnership, a trust operating seven schools and employing over 650 staff. The breach occurred on August 4.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South Carolina School District Data Breach Affects 31,000 People<a href="https://www.infosecurity-magazine.com/news/south-carolina-school-district/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach affected 31,475 individuals and exposed sensitive data, including current and former names, dates of birth, Social Security numbers, financial account information, and state-issued ID information such as driver’s licenses and passports.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 4, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

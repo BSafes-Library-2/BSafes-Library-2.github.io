@@ -8,6 +8,48 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MostereRAT Deployed AnyDesk/TightVNC for Covert Full Access<a href="https://www.fortinet.com/blog/threat-research/mostererat-deployed-anydesk-tightvnc-for-covert-full-access?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly identified phishing campaign is deploying a sophisticated RAT dubbed MostereRAT, targeting Microsoft Windows systems. The campaign begins with phishing emails targeting Japanese users, impersonating legitimate business inquiries.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+iCloud Calendar abused to send phishing emails from Apple’s servers<a href="https://www.bleepingcomputer.com/news/security/icloud-calendar-abused-to-send-phishing-emails-from-apples-servers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated phishing campaign is exploiting Apple’s iCloud Calendar invite system to send callback phishing emails directly from Apple’s legitimate email servers. This abuse allows the phishing messages to bypass standard email security filters.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VirusTotal finds hidden malware phishing campaign in SVG files<a href="https://www.bleepingcomputer.com/news/security/virustotal-finds-hidden-malware-phishing-campaign-in-svg-files/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VirusTotal has uncovered a stealthy phishing campaign that uses SVG (Scalable Vector Graphics) files to impersonate Colombia’s judicial system and deliver malware. The initial SVG file had zero antivirus detections.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 30, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
