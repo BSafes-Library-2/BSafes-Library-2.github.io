@@ -34,7 +34,151 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 6, 2025
+September 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Georgia hospital notifies 160,000+ people of year-old data breach that leaked SSNs, credit cards, and medical records<a href="https://www.comparitech.com/news/georgia-hospital-notifies-160000-people-of-year-old-data-breach-that-leaked-ssns-credit-cards-and-medical-records/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wayne Memorial Hospital (WMH) in Jesup, Georgia, has notified 163,440 individuals of a ransomware attack that occurred between May 30 and June 3, 2024. Monti ransomware group claimed responsibility and listed WMH on its data leak site.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MostereRAT Deployed AnyDesk/TightVNC for Covert Full Access<a href="https://www.fortinet.com/blog/threat-research/mostererat-deployed-anydesk-tightvnc-for-covert-full-access?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly identified phishing campaign is deploying a sophisticated RAT dubbed MostereRAT, targeting Microsoft Windows systems. The campaign begins with phishing emails targeting Japanese users, impersonating legitimate business inquiries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian investment platform Wealthsimple disclosed a data breach<a href="https://securityaffairs.com/181999/data-breach/canadian-investment-platform-wealthsimple-disclosed-a-data-breach.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach originated from a supply chain compromise involving a trusted third-party software package integrated into Wealthsimple’s systems. The unauthorized access occurred for a brief period and affected less than 1% of the platform’s clients.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+iCloud Calendar abused to send phishing emails from Apple’s servers<a href="https://www.bleepingcomputer.com/news/security/icloud-calendar-abused-to-send-phishing-emails-from-apples-servers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated phishing campaign is exploiting Apple’s iCloud Calendar invite system to send callback phishing emails directly from Apple’s legitimate email servers. This abuse allows the phishing messages to bypass standard email security filters.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI-powered malware hit 2,180 GitHub accounts in “s1ngularity” attack<a href="https://www.bleepingcomputer.com/news/security/ai-powered-malware-hit-2-180-github-accounts-in-s1ngularity-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An AI-powered supply chain attack, dubbed s1ngularity, has compromised 2,180 GitHub accounts and 7,200 repositories by exploiting the Nx open-source project. The attackers used a malicious NPM package to deploy credential-stealing malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VirusTotal finds hidden malware phishing campaign in SVG files<a href="https://www.bleepingcomputer.com/news/security/virustotal-finds-hidden-malware-phishing-campaign-in-svg-files/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VirusTotal has uncovered a stealthy phishing campaign that uses SVG (Scalable Vector Graphics) files to impersonate Colombia’s judicial system and deliver malware. The initial SVG file had zero antivirus detections.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nexar dashcam video database hacked<a href="https://www.malwarebytes.com/blog/news/2025/09/nexar-dashcam-video-database-hacked?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach compromised sensitive video recordings, including footage with clearly visible faces and potentially identifiable individuals. Organizations and government entities that had access to Nexar’s data may also be indirectly affected.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rogue AI Agents In Your SOCs and SIEMs – Indirect Prompt Injection via Log Files<a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/rogue-ai-agents-in-your-socs-and-siems-indirect-prompt-injection-via-log-files/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AI agents in SOCs and SIEMs are vulnerable to indirect prompt injection, where malicious inputs are embedded in log files. These log files, when ingested by the AI, can trigger unintended behaviors such as altering event classifications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GhostAction Attack Steals 3,325 Secrets from GitHub Projects<a href="https://hackread.com/ghostaction-attack-steals-github-projects-secrets/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach affected 327 developers and exposed thousands of secrets, posing a significant risk to software supply chains. Several companies reported that their entire SDK portfolios were tampered with, increasing the risk of downstream compromise.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 6, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Knock-on effects of software dev break-in hit schools trust<a href="https://www.theregister.com/2025/09/05/uk_schools_intradev_breach/?&web_view=true"> Full Text</a>
@@ -44,13 +188,13 @@ Knock-on effects of software dev break-in hit schools trust<a href="https://www.
 A significant data breach at UK-based software developer Intradev has impacted the Affinity Learning Partnership, a trust operating seven schools and employing over 650 staff. The breach occurred on August 4.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 6, 2025
+September 6, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 South Carolina School District Data Breach Affects 31,000 People<a href="https://www.infosecurity-magazine.com/news/south-carolina-school-district/?&web_view=true"> Full Text</a>
@@ -60,13 +204,13 @@ South Carolina School District Data Breach Affects 31,000 People<a href="https:/
 The breach affected 31,475 individuals and exposed sensitive data, including current and former names, dates of birth, Social Security numbers, financial account information, and state-issued ID information such as driver’s licenses and passports.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 6, 2025
+September 6, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Good, the Bad and the Ugly in Cybersecurity – Week 36<a href="https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-36-7/?&web_view=true"> Full Text</a>
@@ -76,13 +220,13 @@ The Good, the Bad and the Ugly in Cybersecurity – Week 36<a href="https://www.
 Three Russian FSB officers are accused of orchestrating cyberattacks on U.S. critical infrastructure. Two malicious npm packages were using Ethereum smart contracts to conceal URLs for second-stage payload delivery.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sentinel One
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 6, 2025
+September 6, 2025 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TAG-150 Develops CastleRAT in Python and C, Expanding CastleLoader Malware Operations<a href="https://thehackernews.com/2025/09/tag-150-develops-castlerat-in-python.html?&web_view=true"> Full Text</a>
@@ -92,13 +236,13 @@ TAG-150 Develops CastleRAT in Python and C, Expanding CastleLoader Malware Opera
 TAG-150 has been working on CastleRAT since March, with the threat actor leveraging a multi-tiered infrastructure comprising Tier 1 victim-facing C2 servers, as well as Tier 2 and Tier 3 servers that are mostly VPSes, and Tier 4 backup servers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 6, 2025
+September 6, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two arrested in Egypt as authorities take down Streameast sports piracy platform<a href="https://therecord.media/streameast-sports-piracy-site-takedown-arrests-egypt?&web_view=true"> Full Text</a>
@@ -108,13 +252,13 @@ Two arrested in Egypt as authorities take down Streameast sports piracy platform
 The Alliance for Creativity and Entertainment (ACE) said it worked with Egyptian authorities to shut down the piracy network — which had more than 80 associated domains and logged more than 1.6 billion visits over the past year.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 6, 2025
+September 6, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA orders federal agencies to patch Sitecore zero-day following hacking reports<a href="https://therecord.media/cisa-orders-patch-for-sitecore-zero-day?&web_view=true"> Full Text</a>
@@ -124,13 +268,13 @@ CISA orders federal agencies to patch Sitecore zero-day following hacking report
 Federal civilian agencies have until September 25 to patch a vulnerability in popular content management system Sitecore after incident responders said they disrupted a recent attack involving the bug.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2025
+September 5, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stealthy attack serves poisoned web pages only to AI agents<a href="https://www.helpnetsecurity.com/2025/09/05/ai-agents-prompt-injection-poisoned-web/?&web_view=true"> Full Text</a>
@@ -140,13 +284,13 @@ Stealthy attack serves poisoned web pages only to AI agents<a href="https://www.
 This method enables attackers to serve malicious web content exclusively to AI agents while presenting benign pages to human users, thereby hijacking the agents’ behavior for malicious purposes.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security 
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2025
+September 5, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 'SEO fraud-as-a-service' scheme hijacks Windows servers to promote gambling websites<a href="https://therecord.media/seo-scheme-windows-malware-gambling-sites-ghostredirector?&web_view=true"> Full Text</a>
@@ -156,13 +300,13 @@ September 5, 2025
 A newly identified threat actor group, GhostRedirector, has launched a global "SEO fraud-as-a-service" campaign targeting Windows servers to promote gambling websites. The campaign leverages two custom backdoors - Rungan and Gamshen.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2025
+September 5, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine’s cyber chief on Russian hackers’ shifting tactics, US cyber aid<a href="https://therecord.media/ukraine-cyber-chief-on-russia-hacks-us-aid?&web_view=true"> Full Text</a>
@@ -172,13 +316,13 @@ Ukraine’s cyber chief on Russian hackers’ shifting tactics, US cyber aid<a h
 CERT-UA is currently tracking around 80 hacker groups, each with a code name and signature tactics. This intelligence enables Ukraine to anticipate attacks, inform partners, and develop timely countermeasures.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2025
+September 5, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 $10M reward for Russia's FSB officers accused of hacking US Critical infrastructure<a href="https://securityaffairs.com/181904/cyber-warfare-2/10m-reward-for-russias-fsb-officers-accused-of-hacking-us-critical-infrastructure.html?&web_view=true"> Full Text</a>
@@ -188,7 +332,7 @@ $10M reward for Russia's FSB officers accused of hacking US Critical infrastruct
 Three Russian FSB officers are accused of a decade-long cyber espionage campaign targeting U.S. critical infrastructure and over 500 global energy firms. The U.S. State Department offers up to $10M for information on their identity or location.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
