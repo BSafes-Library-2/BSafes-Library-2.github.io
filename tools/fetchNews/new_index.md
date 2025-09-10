@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2025
+September 9, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RatOn Android Malware Detected With NFC Relay and ATS Banking Fraud Capabilities<a href="https://thehackernews.com/2025/09/raton-android-malware-detected-with-nfc.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered Android banking trojan named RatOn demonstrates a significant leap in mobile malware sophistication. RatOn combines overlay attacks, NFC relay tactics, and an Automated Transfer System (ATS).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP security advisory – September 2025 monthly rollup (AV25-576)<a href="https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-september-2025-monthly-rollup-av25-576?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities addressed affect critical SAP components and could potentially lead to unauthorized access, data compromise, or service disruption. CVE-2025-42957 is confirmed to be exploited in the wild, increasing the urgency for remediation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Suspected Chinese operation aims to recruit former feds with job postings, research shows<a href="https://www.nextgov.com/cybersecurity/2025/09/suspected-chinese-operation-aims-recruit-former-feds-job-postings-research-shows/407970/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A suspected Chinese intelligence operation has been uncovered using fake job postings and fictitious consulting websites to recruit former and current U.S. federal employees, particularly those with security clearances or technical expertise.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ongoing malvertising campaign targets European IT workers with fake GitHub Desktop installers<a href="https://www.helpnetsecurity.com/2025/09/09/github-desktop-malvertising-it-workers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated malvertising campaign, dubbed GPUGate, is actively targeting IT professionals in the EU by distributing fake GitHub Desktop installers. The campaign aims to gain initial access to enterprise environments for credential theft.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Employees keep feeding AI tools secrets they can’t take back<a href="https://www.helpnetsecurity.com/2025/09/09/employees-ai-tools-sensitive-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant number of employees are sharing sensitive data like customer records, financial results, and login credentials, with public AI platforms. This data is often submitted from unmanaged devices that security teams cannot monitor.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers test the limits of railway cybersecurity<a href="https://www.helpnetsecurity.com/2025/09/09/railway-systems-cybersecurity/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Railway systems are increasingly vulnerable to cyberattacks due to digital transformation, legacy infrastructure, and geopolitical tensions. A critical b dugiscovered in 2012 allows attackers to remotely trigger emergency brakes on American trains.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Plex tells users to reset passwords after new data breach<a href="https://www.bleepingcomputer.com/news/security/plex-tells-users-to-reset-passwords-after-new-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Media streaming platform Plex has issued a security advisory urging users to reset their passwords following a data breach. The breach occurred when a hacker accessed one of Plex’s databases and stole customer authentication data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+45 Previously Unreported Domains Expose Longstanding Salt Typhoon Cyber Espionage<a href="https://thehackernews.com/2025/09/45-previously-unreported-domains-expose.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A set of 45 previously unreported domains linked to the China-affiliated threat actors Salt Typhoon and UNC4841 has been uncovered, revealing a longstanding cyber espionage campaign dating back to May 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Surge in networks scans targeting Cisco ASA devices raise concerns<a href="https://www.bleepingcomputer.com/news/security/surge-in-networks-scans-targeting-cisco-asa-devices-raise-concerns/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The scanning activity involved probing Cisco ASA login portals and Cisco IOS Telnet/SSH services. Notably, the scans used overlapping Chrome-like user agents, indicating a likely common origin among the scanning sources.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LunaLock Ransomware threatens victims by feeding stolen data to AI models<a href="https://securityaffairs.com/182014/malware/lunalock-ransomware-threatens-victims-by-feeding-stolen-data-to-ai-models.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LunaLock ransomware introduced a novel and alarming extortion tactic by threatening to submit stolen digital artwork to AI training datasets. Its attack on the Artists&Clients platform involved data theft and encryption, with a $50,000 ransom demand.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Georgia hospital notifies 160,000+ people of year-old data breach that leaked SSNs, credit cards, and medical records<a href="https://www.comparitech.com/news/georgia-hospital-notifies-160000-people-of-year-old-data-breach-that-leaked-ssns-credit-cards-and-medical-records/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Georgia hospital notifies 160,000+ people of year-old data breach that leaked SS
 Wayne Memorial Hospital (WMH) in Jesup, Georgia, has notified 163,440 individuals of a ransomware attack that occurred between May 30 and June 3, 2024. Monti ransomware group claimed responsibility and listed WMH on its data leak site.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CompariTech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2025
+September 8, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MostereRAT Deployed AnyDesk/TightVNC for Covert Full Access<a href="https://www.fortinet.com/blog/threat-research/mostererat-deployed-anydesk-tightvnc-for-covert-full-access?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ MostereRAT Deployed AnyDesk/TightVNC for Covert Full Access<a href="https://www.
 A newly identified phishing campaign is deploying a sophisticated RAT dubbed MostereRAT, targeting Microsoft Windows systems. The campaign begins with phishing emails targeting Japanese users, impersonating legitimate business inquiries.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Fortinet
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2025
+September 8, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Canadian investment platform Wealthsimple disclosed a data breach<a href="https://securityaffairs.com/181999/data-breach/canadian-investment-platform-wealthsimple-disclosed-a-data-breach.html?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Canadian investment platform Wealthsimple disclosed a data breach<a href="https:
 The breach originated from a supply chain compromise involving a trusted third-party software package integrated into Wealthsimple’s systems. The unauthorized access occurred for a brief period and affected less than 1% of the platform’s clients.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2025
+September 8, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 iCloud Calendar abused to send phishing emails from Apple’s servers<a href="https://www.bleepingcomputer.com/news/security/icloud-calendar-abused-to-send-phishing-emails-from-apples-servers/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ iCloud Calendar abused to send phishing emails from Apple’s servers<a href="ht
 A sophisticated phishing campaign is exploiting Apple’s iCloud Calendar invite system to send callback phishing emails directly from Apple’s legitimate email servers. This abuse allows the phishing messages to bypass standard email security filters.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2025
+September 8, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AI-powered malware hit 2,180 GitHub accounts in “s1ngularity” attack<a href="https://www.bleepingcomputer.com/news/security/ai-powered-malware-hit-2-180-github-accounts-in-s1ngularity-attack/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ AI-powered malware hit 2,180 GitHub accounts in “s1ngularity” attack<a href=
 An AI-powered supply chain attack, dubbed s1ngularity, has compromised 2,180 GitHub accounts and 7,200 repositories by exploiting the Nx open-source project. The attackers used a malicious NPM package to deploy credential-stealing malware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2025
+September 8, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VirusTotal finds hidden malware phishing campaign in SVG files<a href="https://www.bleepingcomputer.com/news/security/virustotal-finds-hidden-malware-phishing-campaign-in-svg-files/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ VirusTotal finds hidden malware phishing campaign in SVG files<a href="https://w
 VirusTotal has uncovered a stealthy phishing campaign that uses SVG (Scalable Vector Graphics) files to impersonate Colombia’s judicial system and deliver malware. The initial SVG file had zero antivirus detections.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2025
+September 8, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nexar dashcam video database hacked<a href="https://www.malwarebytes.com/blog/news/2025/09/nexar-dashcam-video-database-hacked?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Nexar dashcam video database hacked<a href="https://www.malwarebytes.com/blog/ne
 The breach compromised sensitive video recordings, including footage with clearly visible faces and potentially identifiable individuals. Organizations and government entities that had access to Nexar’s data may also be indirectly affected.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Malware Bytes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2025
+September 8, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rogue AI Agents In Your SOCs and SIEMs – Indirect Prompt Injection via Log Files<a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/rogue-ai-agents-in-your-socs-and-siems-indirect-prompt-injection-via-log-files/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Rogue AI Agents In Your SOCs and SIEMs – Indirect Prompt Injection via Log Fil
 AI agents in SOCs and SIEMs are vulnerable to indirect prompt injection, where malicious inputs are embedded in log files. These log files, when ingested by the AI, can trigger unintended behaviors such as altering event classifications.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Trust Wave
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2025
+September 8, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GhostAction Attack Steals 3,325 Secrets from GitHub Projects<a href="https://hackread.com/ghostaction-attack-steals-github-projects-secrets/?&web_view=true"> Full Text</a>
@@ -172,7 +332,7 @@ GhostAction Attack Steals 3,325 Secrets from GitHub Projects<a href="https://hac
 The breach affected 327 developers and exposed thousands of secrets, posing a significant risk to software supply chains. Several companies reported that their entire SDK portfolios were tampered with, increasing the risk of downstream compromise.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
