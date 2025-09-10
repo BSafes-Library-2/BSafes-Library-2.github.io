@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+September 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Plex tells users to reset passwords after new data breach<a href="https://www.bleepingcomputer.com/news/security/plex-tells-users-to-reset-passwords-after-new-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Media streaming platform Plex has issued a security advisory urging users to reset their passwords following a data breach. The breach occurred when a hacker accessed one of Plex’s databases and stole customer authentication data.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 8, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

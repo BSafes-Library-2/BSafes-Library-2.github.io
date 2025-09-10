@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 9, 2025
+September 9, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RatOn Android Malware Detected With NFC Relay and ATS Banking Fraud Capabilities<a href="https://thehackernews.com/2025/09/raton-android-malware-detected-with-nfc.html?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ RatOn Android Malware Detected With NFC Relay and ATS Banking Fraud Capabilities
 A newly discovered Android banking trojan named RatOn demonstrates a significant leap in mobile malware sophistication. RatOn combines overlay attacks, NFC relay tactics, and an Automated Transfer System (ATS).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 9, 2025
+September 9, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SAP security advisory – September 2025 monthly rollup (AV25-576)<a href="https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-september-2025-monthly-rollup-av25-576?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ SAP security advisory – September 2025 monthly rollup (AV25-576)<a href="https
 The vulnerabilities addressed affect critical SAP components and could potentially lead to unauthorized access, data compromise, or service disruption. CVE-2025-42957 is confirmed to be exploited in the wild, increasing the urgency for remediation.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Government of Canada
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 9, 2025
+September 9, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Suspected Chinese operation aims to recruit former feds with job postings, research shows<a href="https://www.nextgov.com/cybersecurity/2025/09/suspected-chinese-operation-aims-recruit-former-feds-job-postings-research-shows/407970/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Suspected Chinese operation aims to recruit former feds with job postings, resea
 A suspected Chinese intelligence operation has been uncovered using fake job postings and fictitious consulting websites to recruit former and current U.S. federal employees, particularly those with security clearances or technical expertise.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Next Gov
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 9, 2025
+September 9, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ongoing malvertising campaign targets European IT workers with fake GitHub Desktop installers<a href="https://www.helpnetsecurity.com/2025/09/09/github-desktop-malvertising-it-workers/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Ongoing malvertising campaign targets European IT workers with fake GitHub Deskt
 A sophisticated malvertising campaign, dubbed GPUGate, is actively targeting IT professionals in the EU by distributing fake GitHub Desktop installers. The campaign aims to gain initial access to enterprise environments for credential theft.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 9, 2025
+September 9, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Employees keep feeding AI tools secrets they can’t take back<a href="https://www.helpnetsecurity.com/2025/09/09/employees-ai-tools-sensitive-data/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Employees keep feeding AI tools secrets they can’t take back<a href="https://w
 A significant number of employees are sharing sensitive data like customer records, financial results, and login credentials, with public AI platforms. This data is often submitted from unmanaged devices that security teams cannot monitor.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 9, 2025
+September 9, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers test the limits of railway cybersecurity<a href="https://www.helpnetsecurity.com/2025/09/09/railway-systems-cybersecurity/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Attackers test the limits of railway cybersecurity<a href="https://www.helpnetse
 Railway systems are increasingly vulnerable to cyberattacks due to digital transformation, legacy infrastructure, and geopolitical tensions. A critical b dugiscovered in 2012 allows attackers to remotely trigger emergency brakes on American trains.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 9, 2025
+September 9, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Plex tells users to reset passwords after new data breach<a href="https://www.bleepingcomputer.com/news/security/plex-tells-users-to-reset-passwords-after-new-data-breach/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Plex tells users to reset passwords after new data breach<a href="https://www.bl
 Media streaming platform Plex has issued a security advisory urging users to reset their passwords following a data breach. The breach occurred when a hacker accessed one of Plex’s databases and stole customer authentication data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 9, 2025
+September 9, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 45 Previously Unreported Domains Expose Longstanding Salt Typhoon Cyber Espionage<a href="https://thehackernews.com/2025/09/45-previously-unreported-domains-expose.html?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ September 9, 2025
 A set of 45 previously unreported domains linked to the China-affiliated threat actors Salt Typhoon and UNC4841 has been uncovered, revealing a longstanding cyber espionage campaign dating back to May 2020.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 9, 2025
+September 9, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Surge in networks scans targeting Cisco ASA devices raise concerns<a href="https://www.bleepingcomputer.com/news/security/surge-in-networks-scans-targeting-cisco-asa-devices-raise-concerns/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Surge in networks scans targeting Cisco ASA devices raise concerns<a href="https
 The scanning activity involved probing Cisco ASA login portals and Cisco IOS Telnet/SSH services. Notably, the scans used overlapping Chrome-like user agents, indicating a likely common origin among the scanning sources.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 9, 2025
+September 9, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LunaLock Ransomware threatens victims by feeding stolen data to AI models<a href="https://securityaffairs.com/182014/malware/lunalock-ransomware-threatens-victims-by-feeding-stolen-data-to-ai-models.html?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ LunaLock Ransomware threatens victims by feeding stolen data to AI models<a href
 LunaLock ransomware introduced a novel and alarming extortion tactic by threatening to submit stolen digital artwork to AI training datasets. Its attack on the Artists&Clients platform involved data theft and encryption, with a $50,000 ransom demand.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

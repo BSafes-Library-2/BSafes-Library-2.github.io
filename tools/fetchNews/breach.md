@@ -8,6 +8,76 @@ nav_order: 900029
 
 ## Breach
 ---
+September 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Georgia hospital notifies 160,000+ people of year-old data breach that leaked SSNs, credit cards, and medical records<a href="https://www.comparitech.com/news/georgia-hospital-notifies-160000-people-of-year-old-data-breach-that-leaked-ssns-credit-cards-and-medical-records/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wayne Memorial Hospital (WMH) in Jesup, Georgia, has notified 163,440 individuals of a ransomware attack that occurred between May 30 and June 3, 2024. Monti ransomware group claimed responsibility and listed WMH on its data leak site.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian investment platform Wealthsimple disclosed a data breach<a href="https://securityaffairs.com/181999/data-breach/canadian-investment-platform-wealthsimple-disclosed-a-data-breach.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach originated from a supply chain compromise involving a trusted third-party software package integrated into Wealthsimple’s systems. The unauthorized access occurred for a brief period and affected less than 1% of the platform’s clients.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI-powered malware hit 2,180 GitHub accounts in “s1ngularity” attack<a href="https://www.bleepingcomputer.com/news/security/ai-powered-malware-hit-2-180-github-accounts-in-s1ngularity-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An AI-powered supply chain attack, dubbed s1ngularity, has compromised 2,180 GitHub accounts and 7,200 repositories by exploiting the Nx open-source project. The attackers used a malicious NPM package to deploy credential-stealing malware.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nexar dashcam video database hacked<a href="https://www.malwarebytes.com/blog/news/2025/09/nexar-dashcam-video-database-hacked?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach compromised sensitive video recordings, including footage with clearly visible faces and potentially identifiable individuals. Organizations and government entities that had access to Nexar’s data may also be indirectly affected.
+</details>
+<div style="text-align: right" markdown="1">
+Malware Bytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GhostAction Attack Steals 3,325 Secrets from GitHub Projects<a href="https://hackread.com/ghostaction-attack-steals-github-projects-secrets/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach affected 327 developers and exposed thousands of secrets, posing a significant risk to software supply chains. Several companies reported that their entire SDK portfolios were tampered with, increasing the risk of downstream compromise.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 6, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

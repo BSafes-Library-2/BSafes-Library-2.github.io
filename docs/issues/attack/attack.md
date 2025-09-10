@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+September 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+45 Previously Unreported Domains Expose Longstanding Salt Typhoon Cyber Espionage<a href="https://thehackernews.com/2025/09/45-previously-unreported-domains-expose.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A set of 45 previously unreported domains linked to the China-affiliated threat actors Salt Typhoon and UNC4841 has been uncovered, revealing a longstanding cyber espionage campaign dating back to May 2020.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Surge in networks scans targeting Cisco ASA devices raise concerns<a href="https://www.bleepingcomputer.com/news/security/surge-in-networks-scans-targeting-cisco-asa-devices-raise-concerns/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The scanning activity involved probing Cisco ASA login portals and Cisco IOS Telnet/SSH services. Notably, the scans used overlapping Chrome-like user agents, indicating a likely common origin among the scanning sources.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 5, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

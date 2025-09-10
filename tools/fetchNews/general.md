@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+September 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rogue AI Agents In Your SOCs and SIEMs – Indirect Prompt Injection via Log Files<a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/rogue-ai-agents-in-your-socs-and-siems-indirect-prompt-injection-via-log-files/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AI agents in SOCs and SIEMs are vulnerable to indirect prompt injection, where malicious inputs are embedded in log files. These log files, when ingested by the AI, can trigger unintended behaviors such as altering event classifications.
+</details>
+<div style="text-align: right" markdown="1">
+Trust Wave
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 6, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP security advisory – September 2025 monthly rollup (AV25-576)<a href="https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-september-2025-monthly-rollup-av25-576?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities addressed affect critical SAP components and could potentially lead to unauthorized access, data compromise, or service disruption. CVE-2025-42957 is confirmed to be exploited in the wild, increasing the urgency for remediation.
+</details>
+<div style="text-align: right" markdown="1">
+Government of Canada
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 4, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

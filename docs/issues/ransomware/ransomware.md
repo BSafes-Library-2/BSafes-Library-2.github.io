@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+September 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LunaLock Ransomware threatens victims by feeding stolen data to AI models<a href="https://securityaffairs.com/182014/malware/lunalock-ransomware-threatens-victims-by-feeding-stolen-data-to-ai-models.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LunaLock ransomware introduced a novel and alarming extortion tactic by threatening to submit stolen digital artwork to AI training datasets. Its attack on the Artists&amp;Clients platform involved data theft and encryption, with a $50,000 ransom demand.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 27, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
