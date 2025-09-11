@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+September 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Employees keep feeding AI tools secrets they can’t take back<a href="https://www.helpnetsecurity.com/2025/09/09/employees-ai-tools-sensitive-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant number of employees are sharing sensitive data like customer records, financial results, and login credentials, with public AI platforms. This data is often submitted from unmanaged devices that security teams cannot monitor.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers test the limits of railway cybersecurity<a href="https://www.helpnetsecurity.com/2025/09/09/railway-systems-cybersecurity/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Railway systems are increasingly vulnerable to cyberattacks due to digital transformation, legacy infrastructure, and geopolitical tensions. A critical b dugiscovered in 2012 allows attackers to remotely trigger emergency brakes on American trains.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 8, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

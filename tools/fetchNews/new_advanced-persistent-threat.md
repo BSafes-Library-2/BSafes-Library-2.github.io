@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+September 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese APT Hits Philippine Military Firm with New EggStreme Fileless Malware<a href="https://hackread.com/chinese-apt-philippine-military-eggstreme-fileless-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A China-based advanced persistent threat (APT) group is actively targeting military organizations in the Asia-Pacific region, particularly the Philippines, using a newly discovered fileless malware framework named EggStreme.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 1, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
