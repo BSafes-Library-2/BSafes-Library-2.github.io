@@ -34,6 +34,86 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers abuse ConnectWise ScreenConnect to drop AsyncRAT<a href="https://securityaffairs.com/182090/malware/attackers-abuse-connectwise-screenconnect-to-drop-asyncrat.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting ConnectWise ScreenConnect to deploy AsyncRAT using fileless techniques, leveraging VBScript and PowerShell loaders, and maintain persistence through a fake Skype updater.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+France: Three Regional Healthcare Agencies Targeted by Cyber-Attacks<a href="https://www.infosecurity-magazine.com/news/france-regional-healthcare/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three French regional healthcare agencies—Hauts-de-France, Normandy, and Pays de la Loire—have been targeted in a coordinated cyber-attack campaign that compromised the personal data of patients across public hospitals.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2025 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+When typing becomes tracking: Study reveals widespread silent keystroke interception<a href="https://www.helpnetsecurity.com/2025/09/11/website-keystroke-tracking-privacy/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from multiple institutions analyzed 15,000 websites and found that 91% used JavaScript event listeners to monitor user interactions. Approximately 40% of websites captured keystrokes before users pressed submit.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vienna, VA discloses data breach that leaked SSNs, financial info<a href="https://www.comparitech.com/news/vienna-va-discloses-data-breach-that-leaked-ssns-financial-info/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The town of Vienna, Virginia, experienced a ransomware attack in August 2025, compromising the personal data of 811 individuals. The exposed data includes names, Social Security numbers, financial account details, and passport numbers.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitLab security advisory (AV25-584)<a href="https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av25-584?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitLab issued a security advisory (AV25-584) addressing multiple vulnerabilities in GitLab Community Edition (CE) and Enterprise Edition (EE). The affected versions include all releases before 18.3.2, 18.2.6, and 18.1.6.
+</details>
+<div style="text-align: right" markdown="1">
+Government of Canada
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 11, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

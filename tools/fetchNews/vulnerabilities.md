@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe security advisory (AV25-583)<a href="https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av25-583?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe has released Security Advisory AV25-583 on September 9, 2025, addressing multiple vulnerabilities across a wide range of its products, including Acrobat, After Effects, Premiere Pro, ColdFusion, and Adobe Commerce.
+</details>
+<div style="text-align: right" markdown="1">
+Government of Canada
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cursor AI editor lets repos “autorun” malicious code on devices<a href="https://www.bleepingcomputer.com/news/security/cursor-ai-editor-lets-repos-autorun-malicious-code-on-devices/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This vulnerability enables threat actors to execute arbitrary code, steal credentials and API tokens, modify files, or establish command-and-control channels without any user interaction.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AdaptixC2: A New Open-Source Framework Leveraged in Real-World Attacks<a href="https://unit42.paloaltonetworks.com/adaptixc2-post-exploitation-framework/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AdaptixC2 is a modular, open-source command-and-control (C2) framework originally designed for red teaming but now actively exploited by threat actors. It supports extensive post-exploitation capabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Vulnerabilities in GitLab Patched, Blocking DoS and SSRF Attack Vectors<a href="https://gbhackers.com/multiple-vulnerabilities-in-gitlab-patched/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitLab has released critical security updates across multiple versions to address six significant vulnerabilities that could enable denial-of-service attacks, server-side request forgery, and information disclosure.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 9, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

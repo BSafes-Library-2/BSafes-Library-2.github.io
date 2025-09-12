@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+September 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers abuse ConnectWise ScreenConnect to drop AsyncRAT<a href="https://securityaffairs.com/182090/malware/attackers-abuse-connectwise-screenconnect-to-drop-asyncrat.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting ConnectWise ScreenConnect to deploy AsyncRAT using fileless techniques, leveraging VBScript and PowerShell loaders, and maintain persistence through a fake Skype updater.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+France: Three Regional Healthcare Agencies Targeted by Cyber-Attacks<a href="https://www.infosecurity-magazine.com/news/france-regional-healthcare/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three French regional healthcare agencies—Hauts-de-France, Normandy, and Pays de la Loire—have been targeted in a coordinated cyber-attack campaign that compromised the personal data of patients across public hospitals.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 9, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+September 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attack at blood center: Org tells users their data’s been stolen<a href="https://www.malwarebytes.com/blog/news/2025/09/ransomware-attack-at-blood-center-org-tells-users-their-datas-been-stolen?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The New York Blood Center suffered the ransomware attack in January, in which an unauthorized party gained access to its network and acquired copies of a subset of files. This week NYBC has started notifying victims.
+</details>
+<div style="text-align: right" markdown="1">
+Malware Bytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European crypto platform SwissBorg to reimburse users after $41 million theft<a href="https://therecord.media/swissborg-platform-solana-cryptocurrency-stolen?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SwissBorg, a European cryptocurrency platform, has announced that it will fully reimburse users affected by a recent cyber incident that resulted in the theft of approximately $41 million worth of Solana (SOL) tokens.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 9, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

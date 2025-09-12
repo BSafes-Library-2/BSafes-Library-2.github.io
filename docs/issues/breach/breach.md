@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+September 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vienna, VA discloses data breach that leaked SSNs, financial info<a href="https://www.comparitech.com/news/vienna-va-discloses-data-breach-that-leaked-ssns-financial-info/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The town of Vienna, Virginia, experienced a ransomware attack in August 2025, compromising the personal data of 811 individuals. The exposed data includes names, Social Security numbers, financial account details, and passport numbers.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 10, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
