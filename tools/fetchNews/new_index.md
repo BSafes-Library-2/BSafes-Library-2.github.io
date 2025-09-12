@@ -37,11 +37,11 @@ BSafes library includes mobile-friendly cybersecurity publications.
 September 11, 2025
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-Adobe security advisory (AV25-583)<a href="https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av25-583?&web_view=true"> Full Text</a>
+Attackers abuse ConnectWise ScreenConnect to drop AsyncRAT<a href="https://securityaffairs.com/182090/malware/attackers-abuse-connectwise-screenconnect-to-drop-asyncrat.html?&web_view=true"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-Adobe has released Security Advisory AV25-583 on September 9, 2025, addressing multiple vulnerabilities across a wide range of its products, including Acrobat, After Effects, Premiere Pro, ColdFusion, and Adobe Commerce.
+Threat actors are exploiting ConnectWise ScreenConnect to deploy AsyncRAT using fileless techniques, leveraging VBScript and PowerShell loaders, and maintain persistence through a fake Skype updater.
 </details>
 <div style="text-align: right" markdown="1">
 Cyware
@@ -51,6 +51,86 @@ Cyware
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+France: Three Regional Healthcare Agencies Targeted by Cyber-Attacks<a href="https://www.infosecurity-magazine.com/news/france-regional-healthcare/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three French regional healthcare agencies—Hauts-de-France, Normandy, and Pays de la Loire—have been targeted in a coordinated cyber-attack campaign that compromised the personal data of patients across public hospitals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+When typing becomes tracking: Study reveals widespread silent keystroke interception<a href="https://www.helpnetsecurity.com/2025/09/11/website-keystroke-tracking-privacy/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from multiple institutions analyzed 15,000 websites and found that 91% used JavaScript event listeners to monitor user interactions. Approximately 40% of websites captured keystrokes before users pressed submit.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vienna, VA discloses data breach that leaked SSNs, financial info<a href="https://www.comparitech.com/news/vienna-va-discloses-data-breach-that-leaked-ssns-financial-info/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The town of Vienna, Virginia, experienced a ransomware attack in August 2025, compromising the personal data of 811 individuals. The exposed data includes names, Social Security numbers, financial account details, and passport numbers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitLab security advisory (AV25-584)<a href="https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av25-584?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitLab issued a security advisory (AV25-584) addressing multiple vulnerabilities in GitLab Community Edition (CE) and Enterprise Edition (EE). The affected versions include all releases before 18.3.2, 18.2.6, and 18.1.6.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe security advisory (AV25-583)<a href="https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av25-583?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe has released Security Advisory AV25-583 on September 9, 2025, addressing multiple vulnerabilities across a wide range of its products, including Acrobat, After Effects, Premiere Pro, ColdFusion, and Adobe Commerce.
+</details>
+<div style="text-align: right" markdown="1">
+Government of Canada
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2025 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese APT Hits Philippine Military Firm with New EggStreme Fileless Malware<a href="https://hackread.com/chinese-apt-philippine-military-eggstreme-fileless-malware/?&web_view=true"> Full Text</a>
@@ -60,13 +140,13 @@ Chinese APT Hits Philippine Military Firm with New EggStreme Fileless Malware<a 
 A China-based advanced persistent threat (APT) group is actively targeting military organizations in the Asia-Pacific region, particularly the Philippines, using a newly discovered fileless malware framework named EggStreme.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2025
+September 11, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cursor AI editor lets repos “autorun” malicious code on devices<a href="https://www.bleepingcomputer.com/news/security/cursor-ai-editor-lets-repos-autorun-malicious-code-on-devices/?&web_view=true"> Full Text</a>
@@ -76,13 +156,13 @@ Cursor AI editor lets repos “autorun” malicious code on devices<a href="http
 This vulnerability enables threat actors to execute arbitrary code, steal credentials and API tokens, modify files, or establish command-and-control channels without any user interaction.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2025
+September 11, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ChillyHell modular macOS malware OKed by Apple in 2021<a href="https://www.theregister.com/2025/09/10/chillyhell_modular_macos_malware/?&web_view=true"> Full Text</a>
@@ -92,13 +172,13 @@ ChillyHell modular macOS malware OKed by Apple in 2021<a href="https://www.there
 ChillyHell is a modular macOS backdoor malware that remained undetected for four years after being notarized by Apple in 2021. Despite its malicious nature, the sample had passed Apple’s security checks and was publicly hosted on Dropbox since 2021.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2025
+September 11, 2025 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DDoS defender targeted in 1.5 Bpps denial-of-service attack<a href="https://www.bleepingcomputer.com/news/security/ddos-defender-targeted-in-15-bpps-denial-of-service-attack/?&web_view=true"> Full Text</a>
@@ -108,13 +188,13 @@ DDoS defender targeted in 1.5 Bpps denial-of-service attack<a href="https://www.
 A European DDoS mitigation provider was recently targeted in a record-breaking distributed denial-of-service (DDoS) attack that peaked at an unprecedented 1.5 billion packets per second (Bpps).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2025
+September 10, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AdaptixC2: A New Open-Source Framework Leveraged in Real-World Attacks<a href="https://unit42.paloaltonetworks.com/adaptixc2-post-exploitation-framework/?&web_view=true"> Full Text</a>
@@ -124,13 +204,13 @@ AdaptixC2: A New Open-Source Framework Leveraged in Real-World Attacks<a href="h
 AdaptixC2 is a modular, open-source command-and-control (C2) framework originally designed for red teaming but now actively exploited by threat actors. It supports extensive post-exploitation capabilities.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Palo Alto Networks
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2025
+September 10, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple Vulnerabilities in GitLab Patched, Blocking DoS and SSRF Attack Vectors<a href="https://gbhackers.com/multiple-vulnerabilities-in-gitlab-patched/?&web_view=true"> Full Text</a>
@@ -140,13 +220,13 @@ Multiple Vulnerabilities in GitLab Patched, Blocking DoS and SSRF Attack Vectors
 GitLab has released critical security updates across multiple versions to address six significant vulnerabilities that could enable denial-of-service attacks, server-side request forgery, and information disclosure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2025
+September 10, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware attack at blood center: Org tells users their data’s been stolen<a href="https://www.malwarebytes.com/blog/news/2025/09/ransomware-attack-at-blood-center-org-tells-users-their-datas-been-stolen?&web_view=true"> Full Text</a>
@@ -156,13 +236,13 @@ Ransomware attack at blood center: Org tells users their data’s been stolen<a 
 The New York Blood Center suffered the ransomware attack in January, in which an unauthorized party gained access to its network and acquired copies of a subset of files. This week NYBC has started notifying victims.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Malware Bytes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2025
+September 10, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 European crypto platform SwissBorg to reimburse users after $41 million theft<a href="https://therecord.media/swissborg-platform-solana-cryptocurrency-stolen?&web_view=true"> Full Text</a>
@@ -172,13 +252,13 @@ European crypto platform SwissBorg to reimburse users after $41 million theft<a 
 SwissBorg, a European cryptocurrency platform, has announced that it will fully reimburse users affected by a recent cyber incident that resulted in the theft of approximately $41 million worth of Solana (SOL) tokens.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2025
+September 10, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CHILLYHELL macOS Backdoor and ZynorRAT RAT Threaten macOS, Windows, and Linux Systems<a href="https://thehackernews.com/2025/09/chillyhell-macos-backdoor-and-zynorrat.html?&web_view=true"> Full Text</a>
@@ -188,7 +268,7 @@ CHILLYHELL macOS Backdoor and ZynorRAT RAT Threaten macOS, Windows, and Linux Sy
 Cybersecurity researchers have discovered two new malware families, including a modular Apple macOS backdoor called CHILLYHELL and a Go-based remote access trojan (RAT) named ZynorRAT that can target both Windows and Linux systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
