@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers warn VoidProxy phishing platform can bypass MFA<a href="https://www.cybersecuritydive.com/news/researchers-voidproxy-phishing-bypass-mfa/760017/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing-as-a-service platform, VoidProxy, has emerged as a significant threat by enabling attackers to bypass multifactor authentication (MFA) and compromise high-value accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 9, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

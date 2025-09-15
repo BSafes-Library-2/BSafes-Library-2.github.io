@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+September 12, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple issues spyware warnings as CERT-FR confirms attacks<a href="https://securityaffairs.com/182129/malware/apple-issues-spyware-warnings-as-cert-fr-confirms-attacks.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These attacks are highly sophisticated, often leveraging zero-day bugs and requiring no user interaction. The primary targets include high-risk individuals such as journalists, lawyers, activists, politicians, and executives in strategic sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 11, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

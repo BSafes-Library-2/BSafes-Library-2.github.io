@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DELMIA Factory Software Vulnerability Exploited in Attacks<a href="https://www.securityweek.com/delmia-factory-software-vulnerability-exploited-in-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability (CVE-2025-5086) in DELMIA Apriso factory software is being actively exploited in the wild. The flaw, a deserialization of untrusted data issue, enables remote code execution and affects versions from 2020 through 2025.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 12, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes high-severity IOS XR flaws enabling image bypass and DoS<a href="https://securityaffairs.com/182144/security/cisco-fixes-high-severity-ios-xr-flaws-enabling-image-bypass-and-dos.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has addressed multiple high- and medium-severity vulnerabilities in its IOS XR software. These flaws include a DoS bug via ARP broadcast storms, an image verification bypass vulnerability, and an ACL bypass issue in the management interface.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 12, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes critical Chrome flaw, researcher earns $43K<a href="https://securityaffairs.com/182107/security/google-fixes-critical-chrome-flaw-researcher-earns-43k.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released a critical security update for Chrome addressing two high-severity vulnerabilities: CVE-2025-10200 and CVE-2025-10201. These flaws could potentially allow remote code execution and compromise user systems.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 11, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

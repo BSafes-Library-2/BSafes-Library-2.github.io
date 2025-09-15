@@ -1,4 +1,4 @@
----
+--
 layout: default
 title: Welcome 
 nav_order: 1
@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2025
+September 13, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DELMIA Factory Software Vulnerability Exploited in Attacks<a href="https://www.securityweek.com/delmia-factory-software-vulnerability-exploited-in-attacks/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ DELMIA Factory Software Vulnerability Exploited in Attacks<a href="https://www.s
 A critical vulnerability (CVE-2025-5086) in DELMIA Apriso factory software is being actively exploited in the wild. The flaw, a deserialization of untrusted data issue, enables remote code execution and affects versions from 2020 through 2025.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Week
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2025
+September 13, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vietnam, Panama governments suffer incidents leaking citizen data<a href="https://therecord.media/vietnam-cic-panama-finance-ministry-cyberattacks?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Vietnam, Panama governments suffer incidents leaking citizen data<a href="https:
 In Vietnam, the CIC was breached, with attackers claiming to have stolen 160 million records. In Panama, the Ministry of Economy and Finance (MEF) was targeted by the INC ransomware group, which claims to have exfiltrated 1.5 TB of data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2025
+September 13, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers warn VoidProxy phishing platform can bypass MFA<a href="https://www.cybersecuritydive.com/news/researchers-voidproxy-phishing-bypass-mfa/760017/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Researchers warn VoidProxy phishing platform can bypass MFA<a href="https://www.
 A new phishing-as-a-service platform, VoidProxy, has emerged as a significant threat by enabling attackers to bypass multifactor authentication (MFA) and compromise high-value accounts.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2025
+September 13, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HybridPetya: (Proof-of-concept?) ransomware can bypass UEFI Secure Boot<a href="https://www.helpnetsecurity.com/2025/09/12/hybridpetya-ransomware-secure-boot-bypass/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ HybridPetya: (Proof-of-concept?) ransomware can bypass UEFI Secure Boot<a href="
 HybridPetya mimics Petya/NotPetya and introduces the ability to bypass UEFI Secure Boot using CVE-2024-7344. Although not yet seen in the wild, it demonstrates a significant evolution in ransomware capabilities by targeting UEFI-based systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2025
+September 12, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple issues spyware warnings as CERT-FR confirms attacks<a href="https://securityaffairs.com/182129/malware/apple-issues-spyware-warnings-as-cert-fr-confirms-attacks.html?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Apple issues spyware warnings as CERT-FR confirms attacks<a href="https://securi
 These attacks are highly sophisticated, often leveraging zero-day bugs and requiring no user interaction. The primary targets include high-risk individuals such as journalists, lawyers, activists, politicians, and executives in strategic sectors.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2025
+September 12, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixes high-severity IOS XR flaws enabling image bypass and DoS<a href="https://securityaffairs.com/182144/security/cisco-fixes-high-severity-ios-xr-flaws-enabling-image-bypass-and-dos.html?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Cisco fixes high-severity IOS XR flaws enabling image bypass and DoS<a href="htt
 Cisco has addressed multiple high- and medium-severity vulnerabilities in its IOS XR software. These flaws include a DoS bug via ARP broadcast storms, an image verification bypass vulnerability, and an ACL bypass issue in the management interface.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2025
+September 12, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google fixes critical Chrome flaw, researcher earns $43K<a href="https://securityaffairs.com/182107/security/google-fixes-critical-chrome-flaw-researcher-earns-43k.html?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Google fixes critical Chrome flaw, researcher earns $43K<a href="https://securit
 Google has released a critical security update for Chrome addressing two high-severity vulnerabilities: CVE-2025-10200 and CVE-2025-10201. These flaws could potentially allow remote code execution and compromise user systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2025
+September 12, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMSCAPE Spectre vulnerability leaks cloud secrets<a href="https://www.theregister.com/2025/09/11/vmscape_spectre_vulnerability/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ VMSCAPE Spectre vulnerability leaks cloud secrets<a href="https://www.theregiste
 VMSCAPE undermines the isolation between virtual machines and the hypervisor, allowing attackers to extract sensitive data such as cryptographic keys used for disk encryption.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2025
+September 12, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Akira ransomware affiliates continue breaching organizations via SonicWall firewalls<a href="https://www.helpnetsecurity.com/2025/09/11/akira-ransomware-sonicwall-firewalls/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Akira ransomware affiliates continue breaching organizations via SonicWall firew
 Akira ransomware affiliates continue to exploit SonicWall firewalls by leveraging a combination of vulnerabilities and misconfigurations. Despite the availability of a patch for CVE-2024-40766, many systems remain unpatched.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2025
+September 12, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattacks against schools driven by a rise in student hackers, ICO warns<a href="https://therecord.media/cyberattacks-against-schools-driven-by-student-hackers?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Cyberattacks against schools driven by a rise in student hackers, ICO warns<a hr
 The ICO analyzed 215 insider threat breach reports from the education sector between January 2022 and August 2024 and identified a pattern of student involvement in cyber incidents. Approximately 57% of these breaches were caused by students.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
