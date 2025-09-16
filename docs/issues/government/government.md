@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+September 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns of Salesforce attacks by UNC6040 and UNC6395<a href="https://securityaffairs.com/182159/cyber-crime/fbi-warns-of-salesforce-attacks-by-unc6040-and-unc6395-groups.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has issued a FLASH alert warning organizations of ongoing malicious campaigns by cybercriminal groups UNC6040 and UNC6395. These groups are actively targeting Salesforce platforms to conduct data theft and extortion operations.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 9, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

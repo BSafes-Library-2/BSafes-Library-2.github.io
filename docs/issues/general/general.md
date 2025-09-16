@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+September 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI-Powered Villager Pen Testing Tool Hits 11,000 PyPI Downloads Amid Abuse Concerns<a href="https://thehackernews.com/2025/09/ai-powered-villager-pen-testing-tool.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new AI-powered penetration testing tool named Villager has garnered nearly 11,000 downloads on PyPI.  Villager’s AI-driven architecture enables large-scale, parallelized exploitation.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 12, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

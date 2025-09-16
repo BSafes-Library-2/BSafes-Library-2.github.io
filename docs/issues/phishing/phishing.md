@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI-Forged Military IDs Used in North Korean Phishing Attack<a href="https://www.infosecurity-magazine.com/news/ai-military-ids-north-korea/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phishing campaign involved emails impersonating a South Korean defense-related institution, claiming to manage ID issuance for military personnel. These emails contained malicious attachments.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 13, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

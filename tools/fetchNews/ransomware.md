@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+September 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HybridPetya: (Proof-of-concept?) ransomware can bypass UEFI Secure Boot<a href="https://www.helpnetsecurity.com/2025/09/12/hybridpetya-ransomware-secure-boot-bypass/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HybridPetya mimics Petya/NotPetya and introduces the ability to bypass UEFI Secure Boot using CVE-2024-7344. Although not yet seen in the wild, it demonstrates a significant evolution in ransomware capabilities by targeting UEFI-based systems.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 12, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Akira ransomware affiliates continue breaching organizations via SonicWall firewalls<a href="https://www.helpnetsecurity.com/2025/09/11/akira-ransomware-sonicwall-firewalls/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Akira ransomware affiliates continue to exploit SonicWall firewalls by leveraging a combination of vulnerabilities and misconfigurations. Despite the availability of a patch for CVE-2024-40766, many systems remain unpatched.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 9, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

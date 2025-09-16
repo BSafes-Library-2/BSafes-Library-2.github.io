@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2025
+September 15, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AI-Forged Military IDs Used in North Korean Phishing Attack<a href="https://www.infosecurity-magazine.com/news/ai-military-ids-north-korea/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ AI-Forged Military IDs Used in North Korean Phishing Attack<a href="https://www.
 The phishing campaign involved emails impersonating a South Korean defense-related institution, claiming to manage ID issuance for military personnel. These emails contained malicious attachments.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2025
+September 15, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ShinyHunters Attack National Credit Information Center of Vietnam<a href="https://securityaffairs.com/182189/cyber-crime/shinyhunters-attack-national-credit-information-center-of-vietnam.html?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ ShinyHunters Attack National Credit Information Center of Vietnam<a href="https:
 Vietnam’s National Credit Information Center suffered a cyberattack by the ShinyHunters group, exploiting an n-day vulnerability in unsupported software. The attackers accessed and leaked personal data, which was listed for sale on the dark web.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2025
+September 15, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AI-Powered Villager Pen Testing Tool Hits 11,000 PyPI Downloads Amid Abuse Concerns<a href="https://thehackernews.com/2025/09/ai-powered-villager-pen-testing-tool.html?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ AI-Powered Villager Pen Testing Tool Hits 11,000 PyPI Downloads Amid Abuse Conce
 A new AI-powered penetration testing tool named Villager has garnered nearly 11,000 downloads on PyPI.  Villager’s AI-driven architecture enables large-scale, parallelized exploitation.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2025
+September 15, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious MCP servers used in supply chain attacks<a href="https://securelist.com/model-context-protocol-for-ai-integration-abused-in-supply-chain-attacks/117473/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Malicious MCP servers used in supply chain attacks<a href="https://securelist.co
 A recent investigation has revealed how the Model Context Protocol (MCP), an open standard for integrating AI assistants with external tools, can be exploited as a supply chain attack vector.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Secure List
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2025
+September 15, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 West Virginia Credit Union Notifying 187,000 People Impacted by 2023 Data Breach<a href="https://www.securityweek.com/west-virginia-credit-union-notifying-187000-people-impacted-by-2023-data-breach/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ West Virginia Credit Union Notifying 187,000 People Impacted by 2023 Data Breach
 A significant data breach at Fairmont Federal Credit Union has compromised the sensitive personal, financial, and medical information of over 187,000 individuals. The compromised information includes: Full names and dates of birth, SSNs, and more.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Week
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2025
+September 15, 2025 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Qrator Labs Mitigated Record L7 DDoS Attack from 5.76M-Device Botnet<a href="https://hackread.com/qrator-labs-mitigate-l7-ddos-attack-5-76m-botnet/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Qrator Labs Mitigated Record L7 DDoS Attack from 5.76M-Device Botnet<a href="htt
 A record-breaking Layer 7 (L7) Distributed Denial of Service (DDoS) attack was successfully mitigated after being launched by a massive botnet comprising 5.76 million compromised devices.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2025
+September 15, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 600 GB of Alleged Great Firewall of China Data Published in Largest Leak Yet<a href="https://hackread.com/great-firewall-of-china-data-published-largest-leak/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ September 15, 2025
 A massive 600 GB data leak allegedly tied to the Great Firewall of China has surfaced online, exposing a trove of internal documents, source code, and operational data. The leaked data is attributed to the hacktivist group Enlace Hacktivista.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2025
+September 15, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Warns of Salesforce attacks by UNC6040 and UNC6395<a href="https://securityaffairs.com/182159/cyber-crime/fbi-warns-of-salesforce-attacks-by-unc6040-and-unc6395-groups.html?&web_view=true"> Full Text</a>
@@ -156,7 +156,7 @@ FBI Warns of Salesforce attacks by UNC6040 and UNC6395<a href="https://securitya
 The FBI has issued a FLASH alert warning organizations of ongoing malicious campaigns by cybercriminal groups UNC6040 and UNC6395. These groups are actively targeting Salesforce platforms to conduct data theft and extortion operations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
