@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+September 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+West Virginia Credit Union Notifying 187,000 People Impacted by 2023 Data Breach<a href="https://www.securityweek.com/west-virginia-credit-union-notifying-187000-people-impacted-by-2023-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant data breach at Fairmont Federal Credit Union has compromised the sensitive personal, financial, and medical information of over 187,000 individuals. The compromised information includes: Full names and dates of birth, SSNs, and more.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+600 GB of Alleged Great Firewall of China Data Published in Largest Leak Yet<a href="https://hackread.com/great-firewall-of-china-data-published-largest-leak/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive 600 GB data leak allegedly tied to the Great Firewall of China has surfaced online, exposing a trove of internal documents, source code, and operational data. The leaked data is attributed to the hacktivist group Enlace Hacktivista.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 13, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

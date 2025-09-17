@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+September 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qrator Labs Mitigated Record L7 DDoS Attack from 5.76M-Device Botnet<a href="https://hackread.com/qrator-labs-mitigate-l7-ddos-attack-5-76m-botnet/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A record-breaking Layer 7 (L7) Distributed Denial of Service (DDoS) attack was successfully mitigated after being launched by a massive botnet comprising 5.76 million compromised devices.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 25, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

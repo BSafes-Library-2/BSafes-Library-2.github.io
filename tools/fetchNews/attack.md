@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+September 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ShinyHunters Attack National Credit Information Center of Vietnam<a href="https://securityaffairs.com/182189/cyber-crime/shinyhunters-attack-national-credit-information-center-of-vietnam.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vietnam’s National Credit Information Center suffered a cyberattack by the ShinyHunters group, exploiting an n-day vulnerability in unsupported software. The attackers accessed and leaked personal data, which was listed for sale on the dark web.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious MCP servers used in supply chain attacks<a href="https://securelist.com/model-context-protocol-for-ai-integration-abused-in-supply-chain-attacks/117473/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent investigation has revealed how the Model Context Protocol (MCP), an open standard for integrating AI assistants with external tools, can be exploited as a supply chain attack vector.
+</details>
+<div style="text-align: right" markdown="1">
+Secure List
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 12, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

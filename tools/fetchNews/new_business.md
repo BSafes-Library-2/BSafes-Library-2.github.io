@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+September 16, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fraud Prevention Company SEON Raises $80 Million in Series C Funding<a href="https://www.securityweek.com/fraud-prevention-company-seon-raises-80-million-in-series-c-funding/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fraud prevention and AML compliance firm SEON today announced raising $80 million in Series C funding, which brings the total raised by the company to $187 million. The new investment round was led by Sixth Street Growth.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 30, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

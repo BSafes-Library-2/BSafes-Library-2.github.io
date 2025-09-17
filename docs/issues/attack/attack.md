@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+September 16, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New FileFix attack uses steganography to drop StealC malware<a href="https://www.bleepingcomputer.com/news/security/new-filefix-attack-uses-steganography-to-drop-stealc-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new FileFix-based social engineering campaign is actively delivering the StealC infostealer malware by exploiting user trust and abusing the File Explorer address bar. This attack impersonates Meta support and uses steganography to evade detection.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 16, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SlopAds Fraud Ring Exploits 224 Android Apps to Drive 2.3 Billion Daily Ad Bids<a href="https://thehackernews.com/2025/09/slopads-fraud-ring-exploits-224-android.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large-scale mobile ad fraud operation dubbed SlopAds exploited 224 Android apps, amassing over 38 million downloads across 228 countries. The campaign generated up to 2.3 billion ad bid requests daily by leveraging hidden WebViews and steganography
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 16, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Phoenix attack bypasses Rowhammer defenses in DDR5 memory<a href="https://www.bleepingcomputer.com/news/security/new-phoenix-attack-bypasses-rowhammer-defenses-in-ddr5-memory/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Academic researchers have developed a new Rowhammer-based attack, dubbed Phoenix, that bypasses DDR5 memory protections, including Target Row Refresh (TRR). The Phoenix attack was able to flip bits on all 15 DDR5 memory chips tested.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 15, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

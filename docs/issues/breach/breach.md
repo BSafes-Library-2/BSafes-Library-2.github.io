@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+September 16, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FinWise insider breach impacts 689K American First Finance customers<a href="https://www.bleepingcomputer.com/news/security/finwise-insider-breach-impacts-689k-american-first-finance-customers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An insider data breach at FinWise Bank has compromised the personal information of approximately 689,000 customers of American First Finance (AFF). The breach occurred when a former employee accessed sensitive data after their employment had ended.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 16, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google confirms fraudulent account created in law enforcement portal<a href="https://www.bleepingcomputer.com/news/security/google-confirms-fraudulent-account-created-in-law-enforcement-portal/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor group known as Scattered Lapsus$ Hunters has claimed unauthorized access to Google’s Law Enforcement Request System (LERS) and the FBI’s eCheck background check system.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 16, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers steal millions of Gucci, Balenciaga, and Alexander McQueen customer records<a href="https://securityaffairs.com/182236/cyber-crime/hackers-steal-millions-of-gucci-balenciaga-and-alexander-mcqueen-customer-records.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A data breach has compromised the personal information of millions of customers from luxury fashion brands Gucci, Balenciaga, and Alexander McQueen. The breach was attributed to the cybercriminal group Shiny Hunters
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 15, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
