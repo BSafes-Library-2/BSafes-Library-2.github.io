@@ -34,7 +34,151 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2025
+September 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+JLR Extends Production Halt After Cyber-Attack<a href="https://www.infosecurity-magazine.com/news/jlr-extends-production-halt-after/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Jaguar Land Rover (JLR) has extended its production halt until at least September 24, 2025, following a significant cyber-attack that disrupted its operations and supply chain. The attack has had cascading effects on third-party suppliers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BreachForums administrator given three-year prison stint after resentencing<a href="https://therecord.media/conor-fitzpatrick-pompompurin-three-year-sentence-breachforums-administrator?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Conor Fitzpatrick, the founder and lead administrator of the notorious cybercrime marketplace BreachForums, has been resentenced to three years in prison following a judicial review that overturned a controversial early release.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hackers target Polish hospitals and city water supply<a href="https://www.ft.com/content/3e7c7a96-09e7-407f-98d7-a29310743d28?accessToken=zwAGPugTeA8Qkc8-fHqWCedAf9OY16KTEHQ9KA.MEUCIQCacITr76lomCkzmVOF0uI0OVMYQH1W9RWXQXXOx79DmwIgGigimWQ4KlCODOCpuI7xEXFODbYWqzsCnVvmHU-Sg9o&sharetype=gift&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Polish government is increasing its cybersecurity budget to €1bn this year, after Russian sabotage attempts targeted hospitals and urban water supplies. Poland was facing between 20 and 50 attempts to damage critical infrastructure every day.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Signal Report<a href="https://fortiguard.fortinet.com/threat-signal-report/6199?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple critical vulnerabilities have been identified in Citrix NetScaler ADC and NetScaler Gateway appliances, including a memory overflow flaw (CVE-2025-7775) that enables remote code execution (RCE) and denial of service (DoS).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chaos Mesh Critical GraphQL Flaws Enable RCE and Full Kubernetes Cluster Takeover<a href="https://thehackernews.com/2025/09/chaos-mesh-critical-graphql-flaws.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple critical vulnerabilities were discovered in Chaos Mesh, an open-source chaos engineering platform for Kubernetes. These flaws, collectively named "Chaotic Deputy," allow unauthenticated in-cluster attackers to execute arbitrary commands.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A DHS Data Hub Exposed Sensitive Intel to Thousands of Unauthorized Users<a href="https://www.wired.com/story/a-dhs-data-hub-exposed-sensitive-intel-to-thousands-of-unauthorized-users/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach affected 439 intelligence products, which were accessed 1,525 times by users not cleared for such information, including private sector contractors and foreign nationals. The breach exposed sensitive national security data, including PII.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Self-replicating worm hits 180+ npm packages in (largely) automated supply chain attack<a href="https://www.helpnetsecurity.com/2025/09/16/self-replicating-worm-hits-180-npm-packages-in-largely-automated-supply-chain-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A self-replicating JavaScript worm named Shai-Hulud has compromised over 180 npm packages in a rapidly evolving supply chain attack. The worm targets npm developers, leveraging stolen credentials to propagate itself and exfiltrate sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple backports fix for actively exploited CVE-2025-43300<a href="https://securityaffairs.com/182283/security/apple-backports-fix-for-actively-exploited-cve-2025-43300.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2025-43300 is a 0-day vulnerability in Apple’s ImageIO framework that enables memory corruption via malicious image files. The vulnerability was initially patched in August 2025. The issue was addressed by implementing improved bounds checking.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Old file types, new tricks: Attackers turn everyday files into weapons<a href="https://www.helpnetsecurity.com/2025/09/17/malware-delivery-trends-2025/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing emails accounted for 61% of threats reaching endpoints. Archives were the top delivery method (40%), followed by scripts and executables (35%). Attackers used realistic invoice-themed emails with SVG and PDF attachments to lure victims.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New FileFix attack uses steganography to drop StealC malware<a href="https://www.bleepingcomputer.com/news/security/new-filefix-attack-uses-steganography-to-drop-stealc-malware/?&web_view=true"> Full Text</a>
@@ -44,13 +188,13 @@ New FileFix attack uses steganography to drop StealC malware<a href="https://www
 A new FileFix-based social engineering campaign is actively delivering the StealC infostealer malware by exploiting user trust and abusing the File Explorer address bar. This attack impersonates Meta support and uses steganography to evade detection.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2025
+September 16, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SlopAds Fraud Ring Exploits 224 Android Apps to Drive 2.3 Billion Daily Ad Bids<a href="https://thehackernews.com/2025/09/slopads-fraud-ring-exploits-224-android.html?&web_view=true"> Full Text</a>
@@ -60,13 +204,13 @@ SlopAds Fraud Ring Exploits 224 Android Apps to Drive 2.3 Billion Daily Ad Bids<
 A large-scale mobile ad fraud operation dubbed SlopAds exploited 224 Android apps, amassing over 38 million downloads across 228 countries. The campaign generated up to 2.3 billion ad bid requests daily by leveraging hidden WebViews and steganography
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2025
+September 16, 2025 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fraud Prevention Company SEON Raises $80 Million in Series C Funding<a href="https://www.securityweek.com/fraud-prevention-company-seon-raises-80-million-in-series-c-funding/?&web_view=true"> Full Text</a>
@@ -76,13 +220,13 @@ Fraud Prevention Company SEON Raises $80 Million in Series C Funding<a href="htt
 Fraud prevention and AML compliance firm SEON today announced raising $80 million in Series C funding, which brings the total raised by the company to $187 million. The new investment round was led by Sixth Street Growth.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Week
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2025
+September 16, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SEO Poisoning Targets Chinese Users with Fake Software Sites<a href="https://www.infosecurity-magazine.com/news/seo-poisoning-targets-china/?&web_view=true"> Full Text</a>
@@ -92,13 +236,13 @@ SEO Poisoning Targets Chinese Users with Fake Software Sites<a href="https://www
 A sophisticated SEO poisoning campaign has been uncovered targeting Chinese-speaking Microsoft Windows users. The attackers manipulated search engine results to promote fraudulent websites mimicking legitimate software providers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2025
+September 16, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FinWise insider breach impacts 689K American First Finance customers<a href="https://www.bleepingcomputer.com/news/security/finwise-insider-breach-impacts-689k-american-first-finance-customers/?&web_view=true"> Full Text</a>
@@ -108,13 +252,13 @@ FinWise insider breach impacts 689K American First Finance customers<a href="htt
 An insider data breach at FinWise Bank has compromised the personal information of approximately 689,000 customers of American First Finance (AFF). The breach occurred when a former employee accessed sensitive data after their employment had ended.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2025
+September 16, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Phoenix attack bypasses Rowhammer defenses in DDR5 memory<a href="https://www.bleepingcomputer.com/news/security/new-phoenix-attack-bypasses-rowhammer-defenses-in-ddr5-memory/?&web_view=true"> Full Text</a>
@@ -124,13 +268,13 @@ New Phoenix attack bypasses Rowhammer defenses in DDR5 memory<a href="https://ww
 Academic researchers have developed a new Rowhammer-based attack, dubbed Phoenix, that bypasses DDR5 memory protections, including Target Row Refresh (TRR). The Phoenix attack was able to flip bits on all 15 DDR5 memory chips tested.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2025
+September 16, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google confirms fraudulent account created in law enforcement portal<a href="https://www.bleepingcomputer.com/news/security/google-confirms-fraudulent-account-created-in-law-enforcement-portal/?&web_view=true"> Full Text</a>
@@ -140,13 +284,13 @@ Google confirms fraudulent account created in law enforcement portal<a href="htt
 A threat actor group known as Scattered Lapsus$ Hunters has claimed unauthorized access to Google’s Law Enforcement Request System (LERS) and the FBI’s eCheck background check system.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2025
+September 16, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers steal millions of Gucci, Balenciaga, and Alexander McQueen customer records<a href="https://securityaffairs.com/182236/cyber-crime/hackers-steal-millions-of-gucci-balenciaga-and-alexander-mcqueen-customer-records.html?&web_view=true"> Full Text</a>
@@ -156,7 +300,7 @@ Hackers steal millions of Gucci, Balenciaga, and Alexander McQueen customer reco
 A data breach has compromised the personal information of millions of customers from luxury fashion brands Gucci, Balenciaga, and Alexander McQueen. The breach was attributed to the cybercriminal group Shiny Hunters
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
