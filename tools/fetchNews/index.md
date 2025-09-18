@@ -34,6 +34,150 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2025 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+JLR Extends Production Halt After Cyber-Attack<a href="https://www.infosecurity-magazine.com/news/jlr-extends-production-halt-after/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Jaguar Land Rover (JLR) has extended its production halt until at least September 24, 2025, following a significant cyber-attack that disrupted its operations and supply chain. The attack has had cascading effects on third-party suppliers.
+</details>
+<div style="text-align: right" markdown="1">
+Infoseurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2025 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BreachForums administrator given three-year prison stint after resentencing<a href="https://therecord.media/conor-fitzpatrick-pompompurin-three-year-sentence-breachforums-administrator?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Conor Fitzpatrick, the founder and lead administrator of the notorious cybercrime marketplace BreachForums, has been resentenced to three years in prison following a judicial review that overturned a controversial early release.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hackers target Polish hospitals and city water supply<a href="https://www.ft.com/content/3e7c7a96-09e7-407f-98d7-a29310743d28?accessToken=zwAGPugTeA8Qkc8-fHqWCedAf9OY16KTEHQ9KA.MEUCIQCacITr76lomCkzmVOF0uI0OVMYQH1W9RWXQXXOx79DmwIgGigimWQ4KlCODOCpuI7xEXFODbYWqzsCnVvmHU-Sg9o&sharetype=gift&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Polish government is increasing its cybersecurity budget to €1bn this year, after Russian sabotage attempts targeted hospitals and urban water supplies. Poland was facing between 20 and 50 attempts to damage critical infrastructure every day.
+</details>
+<div style="text-align: right" markdown="1">
+Financial Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Signal Report<a href="https://fortiguard.fortinet.com/threat-signal-report/6199?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple critical vulnerabilities have been identified in Citrix NetScaler ADC and NetScaler Gateway appliances, including a memory overflow flaw (CVE-2025-7775) that enables remote code execution (RCE) and denial of service (DoS).
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chaos Mesh Critical GraphQL Flaws Enable RCE and Full Kubernetes Cluster Takeover<a href="https://thehackernews.com/2025/09/chaos-mesh-critical-graphql-flaws.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple critical vulnerabilities were discovered in Chaos Mesh, an open-source chaos engineering platform for Kubernetes. These flaws, collectively named "Chaotic Deputy," allow unauthenticated in-cluster attackers to execute arbitrary commands.
+</details>
+<div style="text-align: right" markdown="1">
+THe Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A DHS Data Hub Exposed Sensitive Intel to Thousands of Unauthorized Users<a href="https://www.wired.com/story/a-dhs-data-hub-exposed-sensitive-intel-to-thousands-of-unauthorized-users/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach affected 439 intelligence products, which were accessed 1,525 times by users not cleared for such information, including private sector contractors and foreign nationals. The breach exposed sensitive national security data, including PII.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Self-replicating worm hits 180+ npm packages in (largely) automated supply chain attack<a href="https://www.helpnetsecurity.com/2025/09/16/self-replicating-worm-hits-180-npm-packages-in-largely-automated-supply-chain-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A self-replicating JavaScript worm named Shai-Hulud has compromised over 180 npm packages in a rapidly evolving supply chain attack. The worm targets npm developers, leveraging stolen credentials to propagate itself and exfiltrate sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple backports fix for actively exploited CVE-2025-43300<a href="https://securityaffairs.com/182283/security/apple-backports-fix-for-actively-exploited-cve-2025-43300.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2025-43300 is a 0-day vulnerability in Apple’s ImageIO framework that enables memory corruption via malicious image files. The vulnerability was initially patched in August 2025. The issue was addressed by implementing improved bounds checking.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Old file types, new tricks: Attackers turn everyday files into weapons<a href="https://www.helpnetsecurity.com/2025/09/17/malware-delivery-trends-2025/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing emails accounted for 61% of threats reaching endpoints. Archives were the top delivery method (40%), followed by scripts and executables (35%). Attackers used realistic invoice-themed emails with SVG and PDF attachments to lure victims.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 16, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

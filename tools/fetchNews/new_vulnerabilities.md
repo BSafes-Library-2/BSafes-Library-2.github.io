@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Signal Report<a href="https://fortiguard.fortinet.com/threat-signal-report/6199?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple critical vulnerabilities have been identified in Citrix NetScaler ADC and NetScaler Gateway appliances, including a memory overflow flaw (CVE-2025-7775) that enables remote code execution (RCE) and denial of service (DoS).
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chaos Mesh Critical GraphQL Flaws Enable RCE and Full Kubernetes Cluster Takeover<a href="https://thehackernews.com/2025/09/chaos-mesh-critical-graphql-flaws.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple critical vulnerabilities were discovered in Chaos Mesh, an open-source chaos engineering platform for Kubernetes. These flaws, collectively named "Chaotic Deputy," allow unauthenticated in-cluster attackers to execute arbitrary commands.
+</details>
+<div style="text-align: right" markdown="1">
+THe Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A DHS Data Hub Exposed Sensitive Intel to Thousands of Unauthorized Users<a href="https://www.wired.com/story/a-dhs-data-hub-exposed-sensitive-intel-to-thousands-of-unauthorized-users/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach affected 439 intelligence products, which were accessed 1,525 times by users not cleared for such information, including private sector contractors and foreign nationals. The breach exposed sensitive national security data, including PII.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple backports fix for actively exploited CVE-2025-43300<a href="https://securityaffairs.com/182283/security/apple-backports-fix-for-actively-exploited-cve-2025-43300.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2025-43300 is a 0-day vulnerability in Apple’s ImageIO framework that enables memory corruption via malicious image files. The vulnerability was initially patched in August 2025. The issue was addressed by implementing improved bounds checking.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 13, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+September 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BreachForums administrator given three-year prison stint after resentencing<a href="https://therecord.media/conor-fitzpatrick-pompompurin-three-year-sentence-breachforums-administrator?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Conor Fitzpatrick, the founder and lead administrator of the notorious cybercrime marketplace BreachForums, has been resentenced to three years in prison following a judicial review that overturned a controversial early release.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 26, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
