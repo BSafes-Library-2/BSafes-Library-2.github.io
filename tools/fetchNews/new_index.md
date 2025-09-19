@@ -34,7 +34,151 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 17, 2025
+September 19, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patches Severe Entra ID Tenant Takeover Bug<a href="https://www.esecurityplanet.com/news/entra-id-bug-microsoft-tenant/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in Microsoft Entra ID exposed all Microsoft cloud tenants to potential full compromise. It allowed attackers to impersonate any user without detection.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CopyCop Deepens Its Playbook with New Websites and Targets<a href="https://www.recordedfuture.com/research/copycop-deepens-its-playbook-with-new-websites-and-targets?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian influence operation known as CopyCop has expanded its disinformation infrastructure in 2025, deploying over 300 websites to target democratic institutions and public opinion across the US, France, Canada, Germany, Armenia, and Moldova.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI made crypto scams far more dangerous<a href="https://www.helpnetsecurity.com/2025/09/18/ai-crypto-scams-dangerous/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first half of 2025 witnessed a surge in AI-powered cryptocurrency scams, resulting in over $3.01 billion in stolen assets. These scams leverage artificial intelligence to automate and scale phishing, impersonation, and malware distribution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GOLD SALEM’s Warlock operation joins busy ransomware landscape<a href="https://news.sophos.com/en-us/2025/09/17/gold-salems-warlock-operation-joins-busy-ransomware-landscape/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GOLD SALEM, also known as the Warlock Group, is an emerging ransomware threat actor active since March. The group has targeted a wide range of organizations across North America, Europe, and South America, deploying its Warlock ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Jenkins security advisory (AV25-598)<a href="https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av25-598?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities affect both Jenkins weekly and Jenkins LTS versions, potentially exposing systems to security risks if left unpatched. These issues may impact the integrity and availability of Jenkins-based CI/CD environments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New York Blood Center notifies 194,000 people of data breach<a href="https://www.comparitech.com/news/new-york-blood-center-notifies-194000-people-of-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New York Blood Center Enterprises (NYBCe) has disclosed a significant data breach affecting 193,822 individuals. The breach, which occurred in January 2025, exposed sensitive personal and health-related information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VC giant Insight Partners warns thousands after ransomware breach<a href="https://www.bleepingcomputer.com/news/security/vc-giant-insight-partners-warns-thousands-after-ransomware-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Insight Partners, a prominent New York-based venture capital and private equity firm, has disclosed a ransomware attack that compromised sensitive data of 12,657 individuals. The breach involved a sophisticated social engineering attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Raven Stealer Malware Hits Browsers for Passwords and Payment Data<a href="https://hackread.com/raven-stealer-malware-browsers-passwords-payment-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Raven Stealer is a newly identified malware strain that targets web browsers such as Chrome and Edge to exfiltrate sensitive user data, including passwords, cookies, and payment information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attack on SonicWall’s cloud portal exposes customers’ firewall configurations<a href="https://cyberscoop.com/sonicwall-cyberattack-customer-firewall-configurations/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberattack on MySonicWall.com has resulted in unauthorized access to customer firewall configuration files. Hackers conducted a series of brute-force attacks on individual accounts to access backup firewall preference files stored in the cloud.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2025 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 JLR Extends Production Halt After Cyber-Attack<a href="https://www.infosecurity-magazine.com/news/jlr-extends-production-halt-after/?&web_view=true"> Full Text</a>
@@ -44,13 +188,13 @@ JLR Extends Production Halt After Cyber-Attack<a href="https://www.infosecurity-
 Jaguar Land Rover (JLR) has extended its production halt until at least September 24, 2025, following a significant cyber-attack that disrupted its operations and supply chain. The attack has had cascading effects on third-party suppliers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infoseurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 17, 2025
+September 17, 2025 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BreachForums administrator given three-year prison stint after resentencing<a href="https://therecord.media/conor-fitzpatrick-pompompurin-three-year-sentence-breachforums-administrator?&web_view=true"> Full Text</a>
@@ -60,13 +204,13 @@ BreachForums administrator given three-year prison stint after resentencing<a hr
 Conor Fitzpatrick, the founder and lead administrator of the notorious cybercrime marketplace BreachForums, has been resentenced to three years in prison following a judicial review that overturned a controversial early release.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 17, 2025
+September 17, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian hackers target Polish hospitals and city water supply<a href="https://www.ft.com/content/3e7c7a96-09e7-407f-98d7-a29310743d28?accessToken=zwAGPugTeA8Qkc8-fHqWCedAf9OY16KTEHQ9KA.MEUCIQCacITr76lomCkzmVOF0uI0OVMYQH1W9RWXQXXOx79DmwIgGigimWQ4KlCODOCpuI7xEXFODbYWqzsCnVvmHU-Sg9o&sharetype=gift&web_view=true"> Full Text</a>
@@ -76,13 +220,13 @@ Russian hackers target Polish hospitals and city water supply<a href="https://ww
 The Polish government is increasing its cybersecurity budget to €1bn this year, after Russian sabotage attempts targeted hospitals and urban water supplies. Poland was facing between 20 and 50 attempts to damage critical infrastructure every day.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Financial Times
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 17, 2025
+September 17, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Signal Report<a href="https://fortiguard.fortinet.com/threat-signal-report/6199?&web_view=true"> Full Text</a>
@@ -92,13 +236,13 @@ Threat Signal Report<a href="https://fortiguard.fortinet.com/threat-signal-repor
 Multiple critical vulnerabilities have been identified in Citrix NetScaler ADC and NetScaler Gateway appliances, including a memory overflow flaw (CVE-2025-7775) that enables remote code execution (RCE) and denial of service (DoS).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Fortinet
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 17, 2025
+September 17, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chaos Mesh Critical GraphQL Flaws Enable RCE and Full Kubernetes Cluster Takeover<a href="https://thehackernews.com/2025/09/chaos-mesh-critical-graphql-flaws.html?&web_view=true"> Full Text</a>
@@ -108,13 +252,13 @@ Chaos Mesh Critical GraphQL Flaws Enable RCE and Full Kubernetes Cluster Takeove
 Multiple critical vulnerabilities were discovered in Chaos Mesh, an open-source chaos engineering platform for Kubernetes. These flaws, collectively named "Chaotic Deputy," allow unauthenticated in-cluster attackers to execute arbitrary commands.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+THe Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 17, 2025
+September 17, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A DHS Data Hub Exposed Sensitive Intel to Thousands of Unauthorized Users<a href="https://www.wired.com/story/a-dhs-data-hub-exposed-sensitive-intel-to-thousands-of-unauthorized-users/?&web_view=true"> Full Text</a>
@@ -124,13 +268,13 @@ A DHS Data Hub Exposed Sensitive Intel to Thousands of Unauthorized Users<a href
 The breach affected 439 intelligence products, which were accessed 1,525 times by users not cleared for such information, including private sector contractors and foreign nationals. The breach exposed sensitive national security data, including PII.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Wired
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 17, 2025
+September 17, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Self-replicating worm hits 180+ npm packages in (largely) automated supply chain attack<a href="https://www.helpnetsecurity.com/2025/09/16/self-replicating-worm-hits-180-npm-packages-in-largely-automated-supply-chain-attack/?&web_view=true"> Full Text</a>
@@ -140,13 +284,13 @@ Self-replicating worm hits 180+ npm packages in (largely) automated supply chain
 A self-replicating JavaScript worm named Shai-Hulud has compromised over 180 npm packages in a rapidly evolving supply chain attack. The worm targets npm developers, leveraging stolen credentials to propagate itself and exfiltrate sensitive data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 17, 2025
+September 17, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple backports fix for actively exploited CVE-2025-43300<a href="https://securityaffairs.com/182283/security/apple-backports-fix-for-actively-exploited-cve-2025-43300.html?&web_view=true"> Full Text</a>
@@ -156,13 +300,13 @@ Apple backports fix for actively exploited CVE-2025-43300<a href="https://securi
 CVE-2025-43300 is a 0-day vulnerability in Apple’s ImageIO framework that enables memory corruption via malicious image files. The vulnerability was initially patched in August 2025. The issue was addressed by implementing improved bounds checking.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 17, 2025
+September 17, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Old file types, new tricks: Attackers turn everyday files into weapons<a href="https://www.helpnetsecurity.com/2025/09/17/malware-delivery-trends-2025/?&web_view=true"> Full Text</a>
@@ -172,7 +316,7 @@ Old file types, new tricks: Attackers turn everyday files into weapons<a href="h
 Phishing emails accounted for 61% of threats reaching endpoints. Archives were the top delivery method (40%), followed by scripts and executables (35%). Attackers used realistic invoice-themed emails with SVG and PDF attachments to lure victims.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

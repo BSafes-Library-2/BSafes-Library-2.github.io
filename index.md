@@ -34,6 +34,150 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patches Severe Entra ID Tenant Takeover Bug<a href="https://www.esecurityplanet.com/news/entra-id-bug-microsoft-tenant/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in Microsoft Entra ID exposed all Microsoft cloud tenants to potential full compromise. It allowed attackers to impersonate any user without detection.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CopyCop Deepens Its Playbook with New Websites and Targets<a href="https://www.recordedfuture.com/research/copycop-deepens-its-playbook-with-new-websites-and-targets?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian influence operation known as CopyCop has expanded its disinformation infrastructure in 2025, deploying over 300 websites to target democratic institutions and public opinion across the US, France, Canada, Germany, Armenia, and Moldova.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI made crypto scams far more dangerous<a href="https://www.helpnetsecurity.com/2025/09/18/ai-crypto-scams-dangerous/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first half of 2025 witnessed a surge in AI-powered cryptocurrency scams, resulting in over $3.01 billion in stolen assets. These scams leverage artificial intelligence to automate and scale phishing, impersonation, and malware distribution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GOLD SALEM’s Warlock operation joins busy ransomware landscape<a href="https://news.sophos.com/en-us/2025/09/17/gold-salems-warlock-operation-joins-busy-ransomware-landscape/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GOLD SALEM, also known as the Warlock Group, is an emerging ransomware threat actor active since March. The group has targeted a wide range of organizations across North America, Europe, and South America, deploying its Warlock ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Jenkins security advisory (AV25-598)<a href="https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av25-598?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities affect both Jenkins weekly and Jenkins LTS versions, potentially exposing systems to security risks if left unpatched. These issues may impact the integrity and availability of Jenkins-based CI/CD environments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New York Blood Center notifies 194,000 people of data breach<a href="https://www.comparitech.com/news/new-york-blood-center-notifies-194000-people-of-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New York Blood Center Enterprises (NYBCe) has disclosed a significant data breach affecting 193,822 individuals. The breach, which occurred in January 2025, exposed sensitive personal and health-related information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VC giant Insight Partners warns thousands after ransomware breach<a href="https://www.bleepingcomputer.com/news/security/vc-giant-insight-partners-warns-thousands-after-ransomware-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Insight Partners, a prominent New York-based venture capital and private equity firm, has disclosed a ransomware attack that compromised sensitive data of 12,657 individuals. The breach involved a sophisticated social engineering attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Raven Stealer Malware Hits Browsers for Passwords and Payment Data<a href="https://hackread.com/raven-stealer-malware-browsers-passwords-payment-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Raven Stealer is a newly identified malware strain that targets web browsers such as Chrome and Edge to exfiltrate sensitive user data, including passwords, cookies, and payment information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attack on SonicWall’s cloud portal exposes customers’ firewall configurations<a href="https://cyberscoop.com/sonicwall-cyberattack-customer-firewall-configurations/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberattack on MySonicWall.com has resulted in unauthorized access to customer firewall configuration files. Hackers conducted a series of brute-force attacks on individual accounts to access backup firewall preference files stored in the cloud.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 17, 2025 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
