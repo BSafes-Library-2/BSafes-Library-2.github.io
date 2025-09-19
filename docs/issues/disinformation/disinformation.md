@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+September 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CopyCop Deepens Its Playbook with New Websites and Targets<a href="https://www.recordedfuture.com/research/copycop-deepens-its-playbook-with-new-websites-and-targets?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian influence operation known as CopyCop has expanded its disinformation infrastructure in 2025, deploying over 300 websites to target democratic institutions and public opinion across the US, France, Canada, Germany, Armenia, and Moldova.
+</details>
+<div style="text-align: right" markdown="1">
+Recorded Future
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 19, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

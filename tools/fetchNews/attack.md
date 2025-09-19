@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+September 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hackers target Polish hospitals and city water supply<a href="https://www.ft.com/content/3e7c7a96-09e7-407f-98d7-a29310743d28?accessToken=zwAGPugTeA8Qkc8-fHqWCedAf9OY16KTEHQ9KA.MEUCIQCacITr76lomCkzmVOF0uI0OVMYQH1W9RWXQXXOx79DmwIgGigimWQ4KlCODOCpuI7xEXFODbYWqzsCnVvmHU-Sg9o&amp;sharetype=gift&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Polish government is increasing its cybersecurity budget to €1bn this year, after Russian sabotage attempts targeted hospitals and urban water supplies. Poland was facing between 20 and 50 attempts to damage critical infrastructure every day.
+</details>
+<div style="text-align: right" markdown="1">
+Financial Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Self-replicating worm hits 180+ npm packages in (largely) automated supply chain attack<a href="https://www.helpnetsecurity.com/2025/09/16/self-replicating-worm-hits-180-npm-packages-in-largely-automated-supply-chain-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A self-replicating JavaScript worm named Shai-Hulud has compromised over 180 npm packages in a rapidly evolving supply chain attack. The worm targets npm developers, leveraging stolen credentials to propagate itself and exfiltrate sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 16, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

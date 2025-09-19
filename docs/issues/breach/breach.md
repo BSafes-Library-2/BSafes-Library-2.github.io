@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+September 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New York Blood Center notifies 194,000 people of data breach<a href="https://www.comparitech.com/news/new-york-blood-center-notifies-194000-people-of-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New York Blood Center Enterprises (NYBCe) has disclosed a significant data breach affecting 193,822 individuals. The breach, which occurred in January 2025, exposed sensitive personal and health-related information.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VC giant Insight Partners warns thousands after ransomware breach<a href="https://www.bleepingcomputer.com/news/security/vc-giant-insight-partners-warns-thousands-after-ransomware-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Insight Partners, a prominent New York-based venture capital and private equity firm, has disclosed a ransomware attack that compromised sensitive data of 12,657 individuals. The breach involved a sophisticated social engineering attack.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attack on SonicWall’s cloud portal exposes customers’ firewall configurations<a href="https://cyberscoop.com/sonicwall-cyberattack-customer-firewall-configurations/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberattack on MySonicWall.com has resulted in unauthorized access to customer firewall configuration files. Hackers conducted a series of brute-force attacks on individual accounts to access backup firewall preference files stored in the cloud.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Scoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 16, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

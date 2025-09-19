@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+September 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+JLR Extends Production Halt After Cyber-Attack<a href="https://www.infosecurity-magazine.com/news/jlr-extends-production-halt-after/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Jaguar Land Rover (JLR) has extended its production halt until at least September 24, 2025, following a significant cyber-attack that disrupted its operations and supply chain. The attack has had cascading effects on third-party suppliers.
+</details>
+<div style="text-align: right" markdown="1">
+Infoseurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 2, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

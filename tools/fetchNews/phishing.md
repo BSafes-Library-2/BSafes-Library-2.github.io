@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Old file types, new tricks: Attackers turn everyday files into weapons<a href="https://www.helpnetsecurity.com/2025/09/17/malware-delivery-trends-2025/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing emails accounted for 61% of threats reaching endpoints. Archives were the top delivery method (40%), followed by scripts and executables (35%). Attackers used realistic invoice-themed emails with SVG and PDF attachments to lure victims.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 16, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
