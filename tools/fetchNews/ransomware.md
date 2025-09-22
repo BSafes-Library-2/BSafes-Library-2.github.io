@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+September 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GOLD SALEM’s Warlock operation joins busy ransomware landscape<a href="https://news.sophos.com/en-us/2025/09/17/gold-salems-warlock-operation-joins-busy-ransomware-landscape/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GOLD SALEM, also known as the Warlock Group, is an emerging ransomware threat actor active since March. The group has targeted a wide range of organizations across North America, Europe, and South America, deploying its Warlock ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Sophos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 13, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

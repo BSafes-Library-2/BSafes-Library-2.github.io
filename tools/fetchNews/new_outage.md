@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+September 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian regional airline disrupted by suspected cyberattack<a href="https://therecord.media/russia-krasavia-airline-disrupted-suspected-cyberattack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A suspected cyberattack has disrupted digital services at KrasAvia, a regional Russian airline, marking another incident in a growing trend of cyber operations targeting the Russian aviation sector.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 17, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

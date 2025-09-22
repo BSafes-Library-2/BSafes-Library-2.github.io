@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patches Severe Entra ID Tenant Takeover Bug<a href="https://www.esecurityplanet.com/news/entra-id-bug-microsoft-tenant/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in Microsoft Entra ID exposed all Microsoft cloud tenants to potential full compromise. It allowed attackers to impersonate any user without detection.
+</details>
+<div style="text-align: right" markdown="1">
+eSecurity Planet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Jenkins security advisory (AV25-598)<a href="https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av25-598?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities affect both Jenkins weekly and Jenkins LTS versions, potentially exposing systems to security risks if left unpatched. These issues may impact the integrity and availability of Jenkins-based CI/CD environments.
+</details>
+<div style="text-align: right" markdown="1">
+Government of Canada
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 17, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

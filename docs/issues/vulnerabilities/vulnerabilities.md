@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Schneider Electric Saitel DR &amp; Saitel DP Remote Terminal Unit<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-261-03?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two OS command injection vulnerabilities were identified in Schneider Electric’s Saitel DR and DP Remote Terminal Units (RTUs). These flaws could allow local attackers to execute arbitrary shell commands via the BLMon Console during SSH sessions.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nokia security advisory (AV25-602)<a href="https://www.cyber.gc.ca/en/alerts-advisories/nokia-security-advisory-av25-602?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nokia has released a security advisory addressing two critical vulnerabilities affecting CloudBand Infrastructure Software and Nokia Container Service. These bugs include an authentication bypass and a RCE flaw.
+</details>
+<div style="text-align: right" markdown="1">
+Government of Canada
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hitachi Energy Asset Suite<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-261-04?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple critical vulnerabilities have been identified in Hitachi Energy's Asset Suite platform (versions 9.6.4.5 and prior), originating from embedded open-source components. These vulnerabilities could lead to RCE, DOS, and other security risks.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cognex In-Sight Explorer and In-Sight Camera Firmware<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-261-06?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple critical vulnerabilities have been identified in Cognex In-Sight Explorer and In-Sight Camera Firmware, potentially allowing attackers to steal credentials, modify system configurations, or cause denial-of-service (DoS) conditions.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 19, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

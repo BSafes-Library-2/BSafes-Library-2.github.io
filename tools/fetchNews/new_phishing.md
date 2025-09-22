@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How AI-Native Development Platforms Enable Fake Captcha Pages<a href="https://www.trendmicro.com/en_us/research/25/i/ai-development-platforms-enable-fake-captcha-pages.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new wave of phishing campaigns is exploiting AI-native development platforms such as Vercel, Netlify, and Lovable to host fake CAPTCHA pages. These deceptive pages serve as a gateway to credential-harvesting phishing sites.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 17, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

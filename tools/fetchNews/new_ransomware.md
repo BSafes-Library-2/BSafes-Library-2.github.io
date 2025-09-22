@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+September 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qilin Remains Top Ransomware Group as New Threats Emerge<a href="https://thecyberexpress.com/qilin-top-ransomware-group-amid-new-threats/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware group Qilin emerged as the most dominant threat actor in August, claiming responsibility for 104 attacks during the month alone. Since April, Qilin has amassed a total of 398 victims, placing it more than 70% ahead of Akira.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 18, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

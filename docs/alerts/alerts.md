@@ -7,6 +7,21 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 18, 2025 - CISA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Schneider Electric Saitel DR & Saitel DP Remote Terminal Unit <a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-261-03?&web_view=true"> Full Text</a>
+</p>
+<details>
+CVSS v4 5.8
+ATTENTION: Low Attack Complexity
+Vendor: Schneider Electric
+Equipment: Saitel DR RTU
+Vulnerabilities: Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 12, 2025 - FBI 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
