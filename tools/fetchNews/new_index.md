@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Heathrow cyberattack: Delays after airport check-in system hit<a href="https://www.bbc.com/news/articles/c3drpgv33pxo?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Heathrow is among several European airports hit by a cyberattack affecting an electronic check-in and baggage system. The airport warned of possible delays due to a "technical issue" affecting software provided by Collins Aerospace.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qilin Remains Top Ransomware Group as New Threats Emerge<a href="https://thecyberexpress.com/qilin-top-ransomware-group-amid-new-threats/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware group Qilin emerged as the most dominant threat actor in August, claiming responsibility for 104 attacks during the month alone. Since April, Qilin has amassed a total of 398 victims, placing it more than 70% ahead of Akira.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How AI-Native Development Platforms Enable Fake Captcha Pages<a href="https://www.trendmicro.com/en_us/research/25/i/ai-development-platforms-enable-fake-captcha-pages.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new wave of phishing campaigns is exploiting AI-native development platforms such as Vercel, Netlify, and Lovable to host fake CAPTCHA pages. These deceptive pages serve as a gateway to credential-harvesting phishing sites.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang says it hacked Spartanburg County, SC<a href="https://www.comparitech.com/news/ransomware-gang-says-it-hacked-spartanburg-county-nc-employee-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spartanburg County, North Carolina, experienced a ransomware attack in August, attributed to the Qilin ransomware group. The attackers claim to have exfiltrated 390 GB of sensitive data, including personal, financial, and law enforcement records.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Schneider Electric Saitel DR & Saitel DP Remote Terminal Unit<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-261-03?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two OS command injection vulnerabilities were identified in Schneider Electric’s Saitel DR and DP Remote Terminal Units (RTUs). These flaws could allow local attackers to execute arbitrary shell commands via the BLMon Console during SSH sessions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tiffany Data Breach Impacts Thousands of Customers<a href="https://www.securityweek.com/tiffany-data-breach-impacts-thousands-of-customers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent data breach at Tiffany & Co. has compromised the personal information of over 2,500 customers in the US, with potential impact on Canadian customers as well. The breach exposed sensitive gift card-related data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 19, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nokia security advisory (AV25-602)<a href="https://www.cyber.gc.ca/en/alerts-advisories/nokia-security-advisory-av25-602?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nokia has released a security advisory addressing two critical vulnerabilities affecting CloudBand Infrastructure Software and Nokia Container Service. These bugs include an authentication bypass and a RCE flaw.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian regional airline disrupted by suspected cyberattack<a href="https://therecord.media/russia-krasavia-airline-disrupted-suspected-cyberattack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A suspected cyberattack has disrupted digital services at KrasAvia, a regional Russian airline, marking another incident in a growing trend of cyber operations targeting the Russian aviation sector.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hitachi Energy Asset Suite<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-261-04?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple critical vulnerabilities have been identified in Hitachi Energy's Asset Suite platform (versions 9.6.4.5 and prior), originating from embedded open-source components. These vulnerabilities could lead to RCE, DOS, and other security risks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cognex In-Sight Explorer and In-Sight Camera Firmware<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-261-06?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple critical vulnerabilities have been identified in Cognex In-Sight Explorer and In-Sight Camera Firmware, potentially allowing attackers to steal credentials, modify system configurations, or cause denial-of-service (DoS) conditions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Patches Severe Entra ID Tenant Takeover Bug<a href="https://www.esecurityplanet.com/news/entra-id-bug-microsoft-tenant/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Microsoft Patches Severe Entra ID Tenant Takeover Bug<a href="https://www.esecur
 A critical vulnerability in Microsoft Entra ID exposed all Microsoft cloud tenants to potential full compromise. It allowed attackers to impersonate any user without detection.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+eSecurity Planet
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 18, 2025
+September 18, 2025 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CopyCop Deepens Its Playbook with New Websites and Targets<a href="https://www.recordedfuture.com/research/copycop-deepens-its-playbook-with-new-websites-and-targets?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ CopyCop Deepens Its Playbook with New Websites and Targets<a href="https://www.r
 A Russian influence operation known as CopyCop has expanded its disinformation infrastructure in 2025, deploying over 300 websites to target democratic institutions and public opinion across the US, France, Canada, Germany, Armenia, and Moldova.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Recorded Future
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 18, 2025
+September 18, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AI made crypto scams far more dangerous<a href="https://www.helpnetsecurity.com/2025/09/18/ai-crypto-scams-dangerous/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ AI made crypto scams far more dangerous<a href="https://www.helpnetsecurity.com/
 The first half of 2025 witnessed a surge in AI-powered cryptocurrency scams, resulting in over $3.01 billion in stolen assets. These scams leverage artificial intelligence to automate and scale phishing, impersonation, and malware distribution.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 18, 2025
+September 18, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GOLD SALEM’s Warlock operation joins busy ransomware landscape<a href="https://news.sophos.com/en-us/2025/09/17/gold-salems-warlock-operation-joins-busy-ransomware-landscape/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ GOLD SALEM’s Warlock operation joins busy ransomware landscape<a href="https:/
 GOLD SALEM, also known as the Warlock Group, is an emerging ransomware threat actor active since March. The group has targeted a wide range of organizations across North America, Europe, and South America, deploying its Warlock ransomware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sophos
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 18, 2025
+September 18, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Jenkins security advisory (AV25-598)<a href="https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av25-598?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Jenkins security advisory (AV25-598)<a href="https://www.cyber.gc.ca/en/alerts-a
 The vulnerabilities affect both Jenkins weekly and Jenkins LTS versions, potentially exposing systems to security risks if left unpatched. These issues may impact the integrity and availability of Jenkins-based CI/CD environments.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Government of Canada
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 18, 2025
+September 18, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New York Blood Center notifies 194,000 people of data breach<a href="https://www.comparitech.com/news/new-york-blood-center-notifies-194000-people-of-data-breach/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ New York Blood Center notifies 194,000 people of data breach<a href="https://www
 New York Blood Center Enterprises (NYBCe) has disclosed a significant data breach affecting 193,822 individuals. The breach, which occurred in January 2025, exposed sensitive personal and health-related information.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CompariTech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 18, 2025
+September 18, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VC giant Insight Partners warns thousands after ransomware breach<a href="https://www.bleepingcomputer.com/news/security/vc-giant-insight-partners-warns-thousands-after-ransomware-breach/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ VC giant Insight Partners warns thousands after ransomware breach<a href="https:
 Insight Partners, a prominent New York-based venture capital and private equity firm, has disclosed a ransomware attack that compromised sensitive data of 12,657 individuals. The breach involved a sophisticated social engineering attack.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 18, 2025
+September 18, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Raven Stealer Malware Hits Browsers for Passwords and Payment Data<a href="https://hackread.com/raven-stealer-malware-browsers-passwords-payment-data/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ New Raven Stealer Malware Hits Browsers for Passwords and Payment Data<a href="h
 Raven Stealer is a newly identified malware strain that targets web browsers such as Chrome and Edge to exfiltrate sensitive user data, including passwords, cookies, and payment information.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+HackRead
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 18, 2025
+September 18, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attack on SonicWall’s cloud portal exposes customers’ firewall configurations<a href="https://cyberscoop.com/sonicwall-cyberattack-customer-firewall-configurations/?&web_view=true"> Full Text</a>
@@ -172,7 +332,7 @@ Attack on SonicWall’s cloud portal exposes customers’ firewall configuration
 A cyberattack on MySonicWall.com has resulted in unauthorized access to customer firewall configuration files. Hackers conducted a series of brute-force attacks on individual accounts to access backup firewall preference files stored in the cloud.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyber Scoop
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
