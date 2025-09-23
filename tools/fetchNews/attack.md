@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+September 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Heathrow cyberattack: Delays after airport check-in system hit<a href="https://www.bbc.com/news/articles/c3drpgv33pxo?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Heathrow is among several European airports hit by a cyberattack affecting an electronic check-in and baggage system. The airport warned of possible delays due to a "technical issue" affecting software provided by Collins Aerospace.
+</details>
+<div style="text-align: right" markdown="1">
+BBC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 17, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

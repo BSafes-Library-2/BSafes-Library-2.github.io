@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+September 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two of the Kremlin’s most active hack groups are collaborating, ESET says<a href="https://arstechnica.com/security/2025/09/two-of-the-kremlins-most-active-hack-groups-are-collaborating-eset-says/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Turla has been known for deploying stealthy Linux malware and using satellite-based Internet links to maintain the stealth of its operations. These activities suggest a strategic alignment between the two groups to enhance operational effectiveness.
+</details>
+<div style="text-align: right" markdown="1">
+Ars Technica
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 6, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

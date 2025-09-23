@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+September 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack Disrupts Airport Check-In Systems Across Europe<a href="https://hackread.com/cyberattack-disrupts-airport-check-in-systems-europe/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberattack targeting Collins Aerospace’s MUSE (Multi-User System Environment) software disrupted check-in systems across several major European airports, leading to widespread delays, flight cancellations, and manual fallback operations.
+</details>
+<div style="text-align: right" markdown="1">
+HackRead
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 19, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canada dismantles TradeOgre exchange, seizes $40 million in crypto<a href="https://www.bleepingcomputer.com/news/security/canada-dismantles-tradeogre-exchange-seizes-40-million-in-crypto/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Canadian authorities have dismantled the TradeOgre cryptocurrency exchange and seized over $40 million in digital assets believed to be linked to criminal activity. This also marks the largest asset seizure in Canadian history.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 6, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

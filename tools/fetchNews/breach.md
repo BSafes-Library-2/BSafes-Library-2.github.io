@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+September 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang says it hacked Spartanburg County, SC<a href="https://www.comparitech.com/news/ransomware-gang-says-it-hacked-spartanburg-county-nc-employee-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spartanburg County, North Carolina, experienced a ransomware attack in August, attributed to the Qilin ransomware group. The attackers claim to have exfiltrated 390 GB of sensitive data, including personal, financial, and law enforcement records.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tiffany Data Breach Impacts Thousands of Customers<a href="https://www.securityweek.com/tiffany-data-breach-impacts-thousands-of-customers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent data breach at Tiffany &amp; Co. has compromised the personal information of over 2,500 customers in the US, with potential impact on Canadian customers as well. The breach exposed sensitive gift card-related data.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 18, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

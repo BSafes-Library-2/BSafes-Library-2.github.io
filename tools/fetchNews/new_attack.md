@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+September 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nimbus Manticore Deploys New Malware Targeting Europe<a href="https://research.checkpoint.com/2025/nimbus-manticore-deploys-new-malware-targeting-europe/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nimbus Manticore launched a sophisticated cyber-espionage campaign targeting aerospace, defense, telecommunications, and satellite sectors in Europe. The campaign employs MiniJunk and MiniBrowse malware.
+</details>
+<div style="text-align: right" markdown="1">
+Check Point
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Cyberattack on Jaguar Land Rover Is Causing a Supply Chain Disaster<a href="https://www.wired.com/story/jlr-jaguar-land-rover-cyberattack-supply-chain-disaster/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyberattack, which began in early September, has led JLR to proactively shut down its systems to contain the threat. The production pause has now been extended to September 24 as forensic investigations continue.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 20, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
