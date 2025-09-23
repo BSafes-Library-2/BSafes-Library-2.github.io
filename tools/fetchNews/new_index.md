@@ -34,7 +34,135 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2025
+September 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nimbus Manticore Deploys New Malware Targeting Europe<a href="https://research.checkpoint.com/2025/nimbus-manticore-deploys-new-malware-targeting-europe/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nimbus Manticore launched a sophisticated cyber-espionage campaign targeting aerospace, defense, telecommunications, and satellite sectors in Europe. The campaign employs MiniJunk and MiniBrowse malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canada dismantles TradeOgre exchange, seizes $40 million in crypto<a href="https://www.bleepingcomputer.com/news/security/canada-dismantles-tradeogre-exchange-seizes-40-million-in-crypto/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Canadian authorities have dismantled the TradeOgre cryptocurrency exchange and seized over $40 million in digital assets believed to be linked to criminal activity. This also marks the largest asset seizure in Canadian history.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cross-site scripting vulnerability in Lectora course navigation<a href="https://kb.cert.org/vuls/id/780141?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cross-site scripting (XSS) vulnerability has been identified in Lectora Desktop versions 21.0–21.3 and Lectora Online versions 7.1.6 and older. The issue arises when courses are published with SPP enabled and Web Accessibility disabled.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall Urges Urgent Credential Reset After Backup File Exposure<a href="https://www.esecurityplanet.com/news/sonicwall-urges-urgent-credential-reset-after-backup-file-exposure/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall has issued an urgent advisory following the inadvertent public exposure of configuration backup files from MySonicWall. These files contained encrypted passwords, pre-shared keys, and TLS certificates used by SonicOS appliances.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[Control systems] ABB security advisory (AV25-605)<a href="https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av25-605?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Exploitation of these vulnerabilities could compromise the integrity, availability, or confidentiality of industrial control systems, potentially leading to operational disruptions or unauthorized access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack Disrupts Airport Check-In Systems Across Europe<a href="https://hackread.com/cyberattack-disrupts-airport-check-in-systems-europe/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberattack targeting Collins Aerospace’s MUSE (Multi-User System Environment) software disrupted check-in systems across several major European airports, leading to widespread delays, flight cancellations, and manual fallback operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two of the Kremlin’s most active hack groups are collaborating, ESET says<a href="https://arstechnica.com/security/2025/09/two-of-the-kremlins-most-active-hack-groups-are-collaborating-eset-says/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Turla has been known for deploying stealthy Linux malware and using satellite-based Internet links to maintain the stealth of its operations. These activities suggest a strategic alignment between the two groups to enhance operational effectiveness.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Cyberattack on Jaguar Land Rover Is Causing a Supply Chain Disaster<a href="https://www.wired.com/story/jlr-jaguar-land-rover-cyberattack-supply-chain-disaster/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyberattack, which began in early September, has led JLR to proactively shut down its systems to contain the threat. The production pause has now been extended to September 24 as forensic investigations continue.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Heathrow cyberattack: Delays after airport check-in system hit<a href="https://www.bbc.com/news/articles/c3drpgv33pxo?&web_view=true"> Full Text</a>
@@ -44,13 +172,13 @@ Heathrow cyberattack: Delays after airport check-in system hit<a href="https://w
 Heathrow is among several European airports hit by a cyberattack affecting an electronic check-in and baggage system. The airport warned of possible delays due to a "technical issue" affecting software provided by Collins Aerospace.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+BBC
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2025
+September 20, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Qilin Remains Top Ransomware Group as New Threats Emerge<a href="https://thecyberexpress.com/qilin-top-ransomware-group-amid-new-threats/?&web_view=true"> Full Text</a>
@@ -60,13 +188,13 @@ Qilin Remains Top Ransomware Group as New Threats Emerge<a href="https://thecybe
 The ransomware group Qilin emerged as the most dominant threat actor in August, claiming responsibility for 104 attacks during the month alone. Since April, Qilin has amassed a total of 398 victims, placing it more than 70% ahead of Akira.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2025
+September 20, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How AI-Native Development Platforms Enable Fake Captcha Pages<a href="https://www.trendmicro.com/en_us/research/25/i/ai-development-platforms-enable-fake-captcha-pages.html?&web_view=true"> Full Text</a>
@@ -76,13 +204,13 @@ How AI-Native Development Platforms Enable Fake Captcha Pages<a href="https://ww
 A new wave of phishing campaigns is exploiting AI-native development platforms such as Vercel, Netlify, and Lovable to host fake CAPTCHA pages. These deceptive pages serve as a gateway to credential-harvesting phishing sites.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Trend Micro
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2025
+September 20, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gang says it hacked Spartanburg County, SC<a href="https://www.comparitech.com/news/ransomware-gang-says-it-hacked-spartanburg-county-nc-employee-data/?&web_view=true"> Full Text</a>
@@ -92,13 +220,13 @@ Ransomware gang says it hacked Spartanburg County, SC<a href="https://www.compar
 Spartanburg County, North Carolina, experienced a ransomware attack in August, attributed to the Qilin ransomware group. The attackers claim to have exfiltrated 390 GB of sensitive data, including personal, financial, and law enforcement records.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CompariTech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2025
+September 20, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Schneider Electric Saitel DR & Saitel DP Remote Terminal Unit<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-261-03?&web_view=true"> Full Text</a>
@@ -108,13 +236,13 @@ Schneider Electric Saitel DR & Saitel DP Remote Terminal Unit<a href="https://ww
 Two OS command injection vulnerabilities were identified in Schneider Electric’s Saitel DR and DP Remote Terminal Units (RTUs). These flaws could allow local attackers to execute arbitrary shell commands via the BLMon Console during SSH sessions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CISA
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2025
+September 20, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tiffany Data Breach Impacts Thousands of Customers<a href="https://www.securityweek.com/tiffany-data-breach-impacts-thousands-of-customers/?&web_view=true"> Full Text</a>
@@ -124,13 +252,13 @@ Tiffany Data Breach Impacts Thousands of Customers<a href="https://www.securityw
 A recent data breach at Tiffany & Co. has compromised the personal information of over 2,500 customers in the US, with potential impact on Canadian customers as well. The breach exposed sensitive gift card-related data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Week
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2025
+September 19, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nokia security advisory (AV25-602)<a href="https://www.cyber.gc.ca/en/alerts-advisories/nokia-security-advisory-av25-602?&web_view=true"> Full Text</a>
@@ -140,13 +268,13 @@ Nokia security advisory (AV25-602)<a href="https://www.cyber.gc.ca/en/alerts-adv
 Nokia has released a security advisory addressing two critical vulnerabilities affecting CloudBand Infrastructure Software and Nokia Container Service. These bugs include an authentication bypass and a RCE flaw.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Government of Canada
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2025
+September 19, 2025 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian regional airline disrupted by suspected cyberattack<a href="https://therecord.media/russia-krasavia-airline-disrupted-suspected-cyberattack?&web_view=true"> Full Text</a>
@@ -156,13 +284,13 @@ Russian regional airline disrupted by suspected cyberattack<a href="https://ther
 A suspected cyberattack has disrupted digital services at KrasAvia, a regional Russian airline, marking another incident in a growing trend of cyber operations targeting the Russian aviation sector.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2025
+September 19, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hitachi Energy Asset Suite<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-261-04?&web_view=true"> Full Text</a>
@@ -172,13 +300,13 @@ Hitachi Energy Asset Suite<a href="https://www.cisa.gov/news-events/ics-advisori
 Multiple critical vulnerabilities have been identified in Hitachi Energy's Asset Suite platform (versions 9.6.4.5 and prior), originating from embedded open-source components. These vulnerabilities could lead to RCE, DOS, and other security risks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CISA
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2025
+September 19, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cognex In-Sight Explorer and In-Sight Camera Firmware<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-261-06?&web_view=true"> Full Text</a>
@@ -188,7 +316,7 @@ Cognex In-Sight Explorer and In-Sight Camera Firmware<a href="https://www.cisa.g
 Multiple critical vulnerabilities have been identified in Cognex In-Sight Explorer and In-Sight Camera Firmware, potentially allowing attackers to steal credentials, modify system configurations, or cause denial-of-service (DoS) conditions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CISA
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

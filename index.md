@@ -34,6 +34,134 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nimbus Manticore Deploys New Malware Targeting Europe<a href="https://research.checkpoint.com/2025/nimbus-manticore-deploys-new-malware-targeting-europe/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nimbus Manticore launched a sophisticated cyber-espionage campaign targeting aerospace, defense, telecommunications, and satellite sectors in Europe. The campaign employs MiniJunk and MiniBrowse malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canada dismantles TradeOgre exchange, seizes $40 million in crypto<a href="https://www.bleepingcomputer.com/news/security/canada-dismantles-tradeogre-exchange-seizes-40-million-in-crypto/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Canadian authorities have dismantled the TradeOgre cryptocurrency exchange and seized over $40 million in digital assets believed to be linked to criminal activity. This also marks the largest asset seizure in Canadian history.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cross-site scripting vulnerability in Lectora course navigation<a href="https://kb.cert.org/vuls/id/780141?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cross-site scripting (XSS) vulnerability has been identified in Lectora Desktop versions 21.0–21.3 and Lectora Online versions 7.1.6 and older. The issue arises when courses are published with SPP enabled and Web Accessibility disabled.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall Urges Urgent Credential Reset After Backup File Exposure<a href="https://www.esecurityplanet.com/news/sonicwall-urges-urgent-credential-reset-after-backup-file-exposure/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall has issued an urgent advisory following the inadvertent public exposure of configuration backup files from MySonicWall. These files contained encrypted passwords, pre-shared keys, and TLS certificates used by SonicOS appliances.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[Control systems] ABB security advisory (AV25-605)<a href="https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av25-605?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Exploitation of these vulnerabilities could compromise the integrity, availability, or confidentiality of industrial control systems, potentially leading to operational disruptions or unauthorized access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack Disrupts Airport Check-In Systems Across Europe<a href="https://hackread.com/cyberattack-disrupts-airport-check-in-systems-europe/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberattack targeting Collins Aerospace’s MUSE (Multi-User System Environment) software disrupted check-in systems across several major European airports, leading to widespread delays, flight cancellations, and manual fallback operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two of the Kremlin’s most active hack groups are collaborating, ESET says<a href="https://arstechnica.com/security/2025/09/two-of-the-kremlins-most-active-hack-groups-are-collaborating-eset-says/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Turla has been known for deploying stealthy Linux malware and using satellite-based Internet links to maintain the stealth of its operations. These activities suggest a strategic alignment between the two groups to enhance operational effectiveness.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Cyberattack on Jaguar Land Rover Is Causing a Supply Chain Disaster<a href="https://www.wired.com/story/jlr-jaguar-land-rover-cyberattack-supply-chain-disaster/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyberattack, which began in early September, has led JLR to proactively shut down its systems to contain the threat. The production pause has now been extended to September 24 as forensic investigations continue.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 20, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
