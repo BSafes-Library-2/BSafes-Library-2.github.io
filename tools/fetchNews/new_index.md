@@ -34,7 +34,135 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2025
+September 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals are going after law firms’ sensitive client data<a href="https://www.helpnetsecurity.com/2025/09/23/law-firms-cyberthreats/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law firms are increasingly becoming prime targets for cybercriminals due to the sensitive nature of the data they handle, including client communications, financial records, and legal strategies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Automaker giant Stellantis confirms data breach after Salesforce hack<a href="https://www.bleepingcomputer.com/news/security/automaker-giant-stellantis-confirms-data-breach-after-salesforce-hack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Automotive giant Stellantis has confirmed a data breach affecting its North American customer service operations. The breach occurred through unauthorized access to a third-party service provider's platform integrated with Salesforce.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New EDR-Freeze tool uses Windows WER to suspend security software<a href="https://www.bleepingcomputer.com/news/security/new-edr-freeze-tool-uses-windows-wer-to-suspend-security-software/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A novel attack technique named EDR-Freeze has emerged, demonstrating the ability to suspend endpoint detection and response (EDR) and antivirus (AV) processes on Windows systems using only user-mode operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Here’s how potent Atomic credential stealer is finding its way onto Macs<a href="https://arstechnica.com/security/2025/09/potent-atomic-credential-stealer-can-bypass-gatekeeper/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A widespread malware campaign is targeting macOS users by impersonating a broad range of online services through malicious ads on search engines. The campaign aims to distribute the Atomic Stealer, a potent credential-stealing malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GPT-4 Malware Generates Ransomware in Real Time<a href="https://www.esecurityplanet.com/news/malterminal-malware-gpt-4/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MalTerminal is a newly discovered AI-powered malware that leverages GPT-4 to generate ransomware or reverse shell code in real time. The malware represents the first known instance of large language model (LLM)-enabled malware found in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telecom exec: Salt Typhoon inspiring other hackers to use unconventional techniques<a href="https://cyberscoop.com/telecom-exec-salt-typhoon-inspiring-other-hackers-to-use-unconventional-techniques/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are increasingly adopting stealthy and unconventional techniques inspired by the Chinese APT group Salt Typhoon, which previously infiltrated major telecommunications providers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Full Disclosure: Current Password not Required When Changing Password<a href="https://seclists.org/fulldisclosure/2025/Sep/62?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A flaw has been identified in FlatPress v1.4.1 that allows an administrator to change their password without providing the current password. This bug undermines standard authentication practices and could lead to unauthorized access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Full Disclosure: libelf 0.8.12 Stack-based buffer overflow in gmo2msg (libelf) via unbounded sprintf of lang argument<a href="https://seclists.org/fulldisclosure/2025/Sep/64?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A stack-based buffer overflow vulnerability has been identified in `libelf` version 0.8.12, specifically within the `gmo2msg` utility. The flaw stems from unbounded `sprintf` operations on a fixed-size buffer when handling user-supplied input.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nimbus Manticore Deploys New Malware Targeting Europe<a href="https://research.checkpoint.com/2025/nimbus-manticore-deploys-new-malware-targeting-europe/?&web_view=true"> Full Text</a>
@@ -44,13 +172,13 @@ Nimbus Manticore Deploys New Malware Targeting Europe<a href="https://research.c
 Nimbus Manticore launched a sophisticated cyber-espionage campaign targeting aerospace, defense, telecommunications, and satellite sectors in Europe. The campaign employs MiniJunk and MiniBrowse malware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Check Point
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2025
+September 22, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Canada dismantles TradeOgre exchange, seizes $40 million in crypto<a href="https://www.bleepingcomputer.com/news/security/canada-dismantles-tradeogre-exchange-seizes-40-million-in-crypto/?&web_view=true"> Full Text</a>
@@ -60,13 +188,13 @@ Canada dismantles TradeOgre exchange, seizes $40 million in crypto<a href="https
 Canadian authorities have dismantled the TradeOgre cryptocurrency exchange and seized over $40 million in digital assets believed to be linked to criminal activity. This also marks the largest asset seizure in Canadian history.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2025
+September 22, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cross-site scripting vulnerability in Lectora course navigation<a href="https://kb.cert.org/vuls/id/780141?&web_view=true"> Full Text</a>
@@ -76,13 +204,13 @@ Cross-site scripting vulnerability in Lectora course navigation<a href="https://
 A cross-site scripting (XSS) vulnerability has been identified in Lectora Desktop versions 21.0–21.3 and Lectora Online versions 7.1.6 and older. The issue arises when courses are published with SPP enabled and Web Accessibility disabled.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CERT
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2025
+September 22, 2025 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SonicWall Urges Urgent Credential Reset After Backup File Exposure<a href="https://www.esecurityplanet.com/news/sonicwall-urges-urgent-credential-reset-after-backup-file-exposure/?&web_view=true"> Full Text</a>
@@ -92,13 +220,13 @@ SonicWall Urges Urgent Credential Reset After Backup File Exposure<a href="https
 SonicWall has issued an urgent advisory following the inadvertent public exposure of configuration backup files from MySonicWall. These files contained encrypted passwords, pre-shared keys, and TLS certificates used by SonicOS appliances.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ESecurity Planet
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2025
+September 22, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 [Control systems] ABB security advisory (AV25-605)<a href="https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av25-605?&web_view=true"> Full Text</a>
@@ -108,13 +236,13 @@ September 22, 2025
 Exploitation of these vulnerabilities could compromise the integrity, availability, or confidentiality of industrial control systems, potentially leading to operational disruptions or unauthorized access.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Government of Canada
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2025
+September 22, 2025 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattack Disrupts Airport Check-In Systems Across Europe<a href="https://hackread.com/cyberattack-disrupts-airport-check-in-systems-europe/?&web_view=true"> Full Text</a>
@@ -124,13 +252,13 @@ Cyberattack Disrupts Airport Check-In Systems Across Europe<a href="https://hack
 A cyberattack targeting Collins Aerospace’s MUSE (Multi-User System Environment) software disrupted check-in systems across several major European airports, leading to widespread delays, flight cancellations, and manual fallback operations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+HackRead
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2025
+September 22, 2025 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two of the Kremlin’s most active hack groups are collaborating, ESET says<a href="https://arstechnica.com/security/2025/09/two-of-the-kremlins-most-active-hack-groups-are-collaborating-eset-says/?&web_view=true"> Full Text</a>
@@ -140,13 +268,13 @@ Two of the Kremlin’s most active hack groups are collaborating, ESET says<a hr
 Turla has been known for deploying stealthy Linux malware and using satellite-based Internet links to maintain the stealth of its operations. These activities suggest a strategic alignment between the two groups to enhance operational effectiveness.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Ars Technica
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2025
+September 22, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Cyberattack on Jaguar Land Rover Is Causing a Supply Chain Disaster<a href="https://www.wired.com/story/jlr-jaguar-land-rover-cyberattack-supply-chain-disaster/?&web_view=true"> Full Text</a>
@@ -156,7 +284,7 @@ A Cyberattack on Jaguar Land Rover Is Causing a Supply Chain Disaster<a href="ht
 The cyberattack, which began in early September, has led JLR to proactively shut down its systems to contain the threat. The production pause has now been extended to September 24 as forensic investigations continue.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Wired
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

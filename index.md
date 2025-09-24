@@ -34,6 +34,134 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals are going after law firms’ sensitive client data<a href="https://www.helpnetsecurity.com/2025/09/23/law-firms-cyberthreats/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law firms are increasingly becoming prime targets for cybercriminals due to the sensitive nature of the data they handle, including client communications, financial records, and legal strategies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Automaker giant Stellantis confirms data breach after Salesforce hack<a href="https://www.bleepingcomputer.com/news/security/automaker-giant-stellantis-confirms-data-breach-after-salesforce-hack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Automotive giant Stellantis has confirmed a data breach affecting its North American customer service operations. The breach occurred through unauthorized access to a third-party service provider's platform integrated with Salesforce.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New EDR-Freeze tool uses Windows WER to suspend security software<a href="https://www.bleepingcomputer.com/news/security/new-edr-freeze-tool-uses-windows-wer-to-suspend-security-software/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A novel attack technique named EDR-Freeze has emerged, demonstrating the ability to suspend endpoint detection and response (EDR) and antivirus (AV) processes on Windows systems using only user-mode operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Here’s how potent Atomic credential stealer is finding its way onto Macs<a href="https://arstechnica.com/security/2025/09/potent-atomic-credential-stealer-can-bypass-gatekeeper/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A widespread malware campaign is targeting macOS users by impersonating a broad range of online services through malicious ads on search engines. The campaign aims to distribute the Atomic Stealer, a potent credential-stealing malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GPT-4 Malware Generates Ransomware in Real Time<a href="https://www.esecurityplanet.com/news/malterminal-malware-gpt-4/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MalTerminal is a newly discovered AI-powered malware that leverages GPT-4 to generate ransomware or reverse shell code in real time. The malware represents the first known instance of large language model (LLM)-enabled malware found in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telecom exec: Salt Typhoon inspiring other hackers to use unconventional techniques<a href="https://cyberscoop.com/telecom-exec-salt-typhoon-inspiring-other-hackers-to-use-unconventional-techniques/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are increasingly adopting stealthy and unconventional techniques inspired by the Chinese APT group Salt Typhoon, which previously infiltrated major telecommunications providers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Full Disclosure: Current Password not Required When Changing Password<a href="https://seclists.org/fulldisclosure/2025/Sep/62?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A flaw has been identified in FlatPress v1.4.1 that allows an administrator to change their password without providing the current password. This bug undermines standard authentication practices and could lead to unauthorized access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Full Disclosure: libelf 0.8.12 Stack-based buffer overflow in gmo2msg (libelf) via unbounded sprintf of lang argument<a href="https://seclists.org/fulldisclosure/2025/Sep/64?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A stack-based buffer overflow vulnerability has been identified in `libelf` version 0.8.12, specifically within the `gmo2msg` utility. The flaw stems from unbounded `sprintf` operations on a fixed-size buffer when handling user-supplied input.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 22, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
