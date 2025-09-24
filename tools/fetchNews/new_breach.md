@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+September 23, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Automaker giant Stellantis confirms data breach after Salesforce hack<a href="https://www.bleepingcomputer.com/news/security/automaker-giant-stellantis-confirms-data-breach-after-salesforce-hack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Automotive giant Stellantis has confirmed a data breach affecting its North American customer service operations. The breach occurred through unauthorized access to a third-party service provider's platform integrated with Salesforce.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 20, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

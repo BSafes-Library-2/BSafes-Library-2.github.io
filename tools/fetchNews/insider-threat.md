@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+September 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall Urges Urgent Credential Reset After Backup File Exposure<a href="https://www.esecurityplanet.com/news/sonicwall-urges-urgent-credential-reset-after-backup-file-exposure/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall has issued an urgent advisory following the inadvertent public exposure of configuration backup files from MySonicWall. These files contained encrypted passwords, pre-shared keys, and TLS certificates used by SonicOS appliances.
+</details>
+<div style="text-align: right" markdown="1">
+ESecurity Planet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 30, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

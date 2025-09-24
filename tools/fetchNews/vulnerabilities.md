@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cross-site scripting vulnerability in Lectora course navigation<a href="https://kb.cert.org/vuls/id/780141?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cross-site scripting (XSS) vulnerability has been identified in Lectora Desktop versions 21.0–21.3 and Lectora Online versions 7.1.6 and older. The issue arises when courses are published with SPP enabled and Web Accessibility disabled.
+</details>
+<div style="text-align: right" markdown="1">
+CERT
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[Control systems] ABB security advisory (AV25-605)<a href="https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av25-605?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Exploitation of these vulnerabilities could compromise the integrity, availability, or confidentiality of industrial control systems, potentially leading to operational disruptions or unauthorized access.
+</details>
+<div style="text-align: right" markdown="1">
+Government of Canada
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 20, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

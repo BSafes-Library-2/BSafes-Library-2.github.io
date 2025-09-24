@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+September 23, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals are going after law firms’ sensitive client data<a href="https://www.helpnetsecurity.com/2025/09/23/law-firms-cyberthreats/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law firms are increasingly becoming prime targets for cybercriminals due to the sensitive nature of the data they handle, including client communications, financial records, and legal strategies.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 18, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

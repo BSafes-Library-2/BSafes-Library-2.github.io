@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+September 23, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GPT-4 Malware Generates Ransomware in Real Time<a href="https://www.esecurityplanet.com/news/malterminal-malware-gpt-4/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MalTerminal is a newly discovered AI-powered malware that leverages GPT-4 to generate ransomware or reverse shell code in real time. The malware represents the first known instance of large language model (LLM)-enabled malware found in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+ESecurity Planet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 20, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

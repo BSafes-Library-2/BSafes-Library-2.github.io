@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 23, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Full Disclosure: Current Password not Required When Changing Password<a href="https://seclists.org/fulldisclosure/2025/Sep/62?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A flaw has been identified in FlatPress v1.4.1 that allows an administrator to change their password without providing the current password. This bug undermines standard authentication practices and could lead to unauthorized access.
+</details>
+<div style="text-align: right" markdown="1">
+SecLists
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 23, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Full Disclosure: libelf 0.8.12 Stack-based buffer overflow in gmo2msg (libelf) via unbounded sprintf of lang argument<a href="https://seclists.org/fulldisclosure/2025/Sep/64?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A stack-based buffer overflow vulnerability has been identified in `libelf` version 0.8.12, specifically within the `gmo2msg` utility. The flaw stems from unbounded `sprintf` operations on a fixed-size buffer when handling user-supplied input.
+</details>
+<div style="text-align: right" markdown="1">
+SecLists
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 22, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
