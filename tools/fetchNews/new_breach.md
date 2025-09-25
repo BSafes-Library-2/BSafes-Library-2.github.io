@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+September 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hidden WordPress Backdoors Creating Admin Accounts<a href="https://blog.sucuri.net/2025/09/hidden-wordpress-backdoors-creating-admin-accounts.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent investigation uncovered two stealthy backdoors on a compromised WordPress site: a fake plugin named DebugMaster Pro and a script named wp-user.php. These files maintained persistent administrative access and exfiltrated credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Sucuri
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Boyd Gaming discloses data breach after suffering a cyberattack<a href="https://www.bleepingcomputer.com/news/security/boyd-gaming-discloses-data-breach-after-suffering-a-cyberattack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Boyd Gaming Corporation, a major U.S. casino and gaming operator, has disclosed a data breach following a cyberattack that led to the unauthorized access and exfiltration of sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 23, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

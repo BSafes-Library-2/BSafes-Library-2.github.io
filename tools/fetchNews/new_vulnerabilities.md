@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 25, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Drupal security advisory (AV25-617)<a href="https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av25-617?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security vulnerabilities were identified in multiple contributed modules for Drupal. These issues affect several modules including JSON Field, Plausible Tracking, Access Code, Umami Analytics, Currency, and Reverse Proxy Header.
+</details>
+<div style="text-align: right" markdown="1">
+Government of Canada
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Patch Bypassed for Supermicro Vulnerability Allowing BMC Hack<a href="https://www.securityweek.com/patch-bypassed-for-supermicro-vulnerability-allowing-bmc-hack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Supermicro has patched two critical Baseboard Management Controller bugs—CVE-2025-7937 and CVE-2025-6198—that allow malicious firmware updates. Although initially patched, the fix could be bypassed, prompting a new patch and CVE assignment.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+22 Vulnerabilities Under Attack – And Another That Could Be<a href="https://thecyberexpress.com/vulnerabilities-under-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have identified 22 vulnerabilities currently under active exploitation, with 12 detected via honeypot sensors and 10 exploited by ransomware groups. Notably, nine of these vulnerabilities are not listed in CISA’s KEV catalog.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI-Powered App Exposes User Data, Creates Risk of Supply Chain Attacks<a href="https://www.trendmicro.com/en_us/research/25/i/ai-powered-app-exposes-user-data.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical security flaw in Wondershare RepairIt, an AI-powered image and video enhancement application, has exposed sensitive user data and created a high risk of supply chain attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 23, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

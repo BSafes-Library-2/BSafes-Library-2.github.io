@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+September 25, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang says it hacked the Maryland Department of Transportation<a href="https://www.comparitech.com/news/ransomware-gang-says-it-hacked-the-maryland-transportation-department/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rhysida ransomware group has claimed responsibility for a cyberattack on the Maryland Transit Administration (MTA), a division of the Maryland Department of Transportation. The attack specifically disrupted MobilityLink.
+</details>
+<div style="text-align: right" markdown="1">
+Compari Tech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 22, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
