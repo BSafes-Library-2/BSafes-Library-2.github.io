@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2025
+September 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang says it hacked the Maryland Department of Transportation<a href="https://www.comparitech.com/news/ransomware-gang-says-it-hacked-the-maryland-transportation-department/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rhysida ransomware group has claimed responsibility for a cyberattack on the Maryland Transit Administration (MTA), a division of the Maryland Department of Transportation. The attack specifically disrupted MobilityLink.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PSF Warns of Fake PyPI Login Site Stealing User Credentials<a href="https://hackread.com/psf-warn-fake-pypi-login-site-steal-credentials/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign is targeting developers using the Python Package Index (PyPI), aiming to steal user credentials through a spoofed login site. The phishing campaign begins with emails that appear to originate from PyPI administrators.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Drupal security advisory (AV25-617)<a href="https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av25-617?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security vulnerabilities were identified in multiple contributed modules for Drupal. These issues affect several modules including JSON Field, Plausible Tracking, Access Code, Umami Analytics, Currency, and Reverse Proxy Header.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Patch Bypassed for Supermicro Vulnerability Allowing BMC Hack<a href="https://www.securityweek.com/patch-bypassed-for-supermicro-vulnerability-allowing-bmc-hack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Supermicro has patched two critical Baseboard Management Controller bugs—CVE-2025-7937 and CVE-2025-6198—that allow malicious firmware updates. Although initially patched, the fix could be bypassed, prompting a new patch and CVE assignment.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+22 Vulnerabilities Under Attack – And Another That Could Be<a href="https://thecyberexpress.com/vulnerabilities-under-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have identified 22 vulnerabilities currently under active exploitation, with 12 detected via honeypot sensors and 10 exploited by ransomware groups. Notably, nine of these vulnerabilities are not listed in CISA’s KEV catalog.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hidden WordPress Backdoors Creating Admin Accounts<a href="https://blog.sucuri.net/2025/09/hidden-wordpress-backdoors-creating-admin-accounts.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent investigation uncovered two stealthy backdoors on a compromised WordPress site: a fake plugin named DebugMaster Pro and a script named wp-user.php. These files maintained persistent administrative access and exfiltrated credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘SIM Farms’ Are a Spam Plague. A Giant One in New York Threatened US Infrastructure, Feds Say<a href="https://www.wired.com/story/sim-farm-new-york-threatened-us-infrastructure-feds-say/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive SIM farm operation discovered in the New York City area has raised serious concerns about the potential for large-scale disruption of US telecommunications infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How RainyDay, Turian and a new PlugX variant abuse DLL search order hijacking<a href="https://blog.talosintelligence.com/how-rainyday-turian-and-a-new-plugx-variant-abuse-dll-search-order-hijacking/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly identified PlugX variant was deployed in a cyber-espionage campaign targeting telecommunications and manufacturing sectors in Central and South Asia. The campaign is attributed to the Chinese-speaking threat actor Naikon.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI-Powered App Exposes User Data, Creates Risk of Supply Chain Attacks<a href="https://www.trendmicro.com/en_us/research/25/i/ai-powered-app-exposes-user-data.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical security flaw in Wondershare RepairIt, an AI-powered image and video enhancement application, has exposed sensitive user data and created a high risk of supply chain attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Boyd Gaming discloses data breach after suffering a cyberattack<a href="https://www.bleepingcomputer.com/news/security/boyd-gaming-discloses-data-breach-after-suffering-a-cyberattack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Boyd Gaming Corporation, a major U.S. casino and gaming operator, has disclosed a data breach following a cyberattack that led to the unauthorized access and exfiltration of sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals are going after law firms’ sensitive client data<a href="https://www.helpnetsecurity.com/2025/09/23/law-firms-cyberthreats/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Cybercriminals are going after law firms’ sensitive client data<a href="https:
 Law firms are increasingly becoming prime targets for cybercriminals due to the sensitive nature of the data they handle, including client communications, financial records, and legal strategies.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2025
+September 23, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Automaker giant Stellantis confirms data breach after Salesforce hack<a href="https://www.bleepingcomputer.com/news/security/automaker-giant-stellantis-confirms-data-breach-after-salesforce-hack/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Automaker giant Stellantis confirms data breach after Salesforce hack<a href="ht
 Automotive giant Stellantis has confirmed a data breach affecting its North American customer service operations. The breach occurred through unauthorized access to a third-party service provider's platform integrated with Salesforce.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2025
+September 23, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New EDR-Freeze tool uses Windows WER to suspend security software<a href="https://www.bleepingcomputer.com/news/security/new-edr-freeze-tool-uses-windows-wer-to-suspend-security-software/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ New EDR-Freeze tool uses Windows WER to suspend security software<a href="https:
 A novel attack technique named EDR-Freeze has emerged, demonstrating the ability to suspend endpoint detection and response (EDR) and antivirus (AV) processes on Windows systems using only user-mode operations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2025
+September 23, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Here’s how potent Atomic credential stealer is finding its way onto Macs<a href="https://arstechnica.com/security/2025/09/potent-atomic-credential-stealer-can-bypass-gatekeeper/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Here’s how potent Atomic credential stealer is finding its way onto Macs<a hre
 A widespread malware campaign is targeting macOS users by impersonating a broad range of online services through malicious ads on search engines. The campaign aims to distribute the Atomic Stealer, a potent credential-stealing malware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Ars Technica
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2025
+September 23, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GPT-4 Malware Generates Ransomware in Real Time<a href="https://www.esecurityplanet.com/news/malterminal-malware-gpt-4/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ GPT-4 Malware Generates Ransomware in Real Time<a href="https://www.esecuritypla
 MalTerminal is a newly discovered AI-powered malware that leverages GPT-4 to generate ransomware or reverse shell code in real time. The malware represents the first known instance of large language model (LLM)-enabled malware found in the wild.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ESecurity Planet
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2025
+September 23, 2025 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Telecom exec: Salt Typhoon inspiring other hackers to use unconventional techniques<a href="https://cyberscoop.com/telecom-exec-salt-typhoon-inspiring-other-hackers-to-use-unconventional-techniques/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Telecom exec: Salt Typhoon inspiring other hackers to use unconventional techniq
 Threat actors are increasingly adopting stealthy and unconventional techniques inspired by the Chinese APT group Salt Typhoon, which previously infiltrated major telecommunications providers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyber Scoop
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2025
+September 23, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Full Disclosure: Current Password not Required When Changing Password<a href="https://seclists.org/fulldisclosure/2025/Sep/62?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Full Disclosure: Current Password not Required When Changing Password<a href="ht
 A flaw has been identified in FlatPress v1.4.1 that allows an administrator to change their password without providing the current password. This bug undermines standard authentication practices and could lead to unauthorized access.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+SecLists
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2025
+September 23, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Full Disclosure: libelf 0.8.12 Stack-based buffer overflow in gmo2msg (libelf) via unbounded sprintf of lang argument<a href="https://seclists.org/fulldisclosure/2025/Sep/64?&web_view=true"> Full Text</a>
@@ -156,7 +316,7 @@ Full Disclosure: libelf 0.8.12 Stack-based buffer overflow in gmo2msg (libelf) v
 A stack-based buffer overflow vulnerability has been identified in `libelf` version 0.8.12, specifically within the `gmo2msg` utility. The flaw stems from unbounded `sprintf` operations on a fixed-size buffer when handling user-supplied input.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+SecLists
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
