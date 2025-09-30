@@ -7,6 +7,19 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2025 - National Cyber Security Centre, UK 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operational Technology, Making sense of cyber security in OT environments<a href="https://www.ncsc.gov.uk/collection/operational-technology"> Full Text</a>
+</p>
+<details>
+What would life be like without traffic lights, mass-produced food, energy at the touch of a button, or easily available motor fuel?
+
+Operational Technology (OT) makes all these things happen and pervades our lives in both obvious and hidden ways, automatically monitoring and controlling processes and equipment that are too dangerous, too demanding or too monotonous for manual operation.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 18, 2025 - CISA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
