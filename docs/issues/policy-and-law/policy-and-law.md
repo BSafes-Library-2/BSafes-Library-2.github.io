@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+September 29, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vital cyber data-sharing law appears likely to expire amid looming government shutdown<a href="https://www.nextgov.com/cybersecurity/2025/09/vital-cyber-data-sharing-law-appears-likely-expire-amid-looming-government-shutdown/408410/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The 2015 Cybersecurity Information Sharing Act is poised to expire on September 30. The law has been instrumental in enabling private sector entities to share cyber threat intelligence with federal agencies under legal protections.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 27, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dem report concludes Department of Government Efficiency violates cybersecurity, privacy rules<a href="https://cyberscoop.com/senate-democrats-report-doge-cybersecurity-privacy-violations/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The report focuses on DOGE’s activities at the General Services Administration (GSA), Office of Personnel Management (OPM), and Social Security Administration (SSA), revealing multiple instances of potential cybersecurity violations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 17, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

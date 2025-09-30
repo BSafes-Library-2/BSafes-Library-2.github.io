@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 29, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitLab security advisory (AV25-620)<a href="https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av25-620?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Flaws have been identified in GitLab Community Edition (CE) and Enterprise Edition (EE), affecting versions prior to 18.4.1, 18.3.3, and 18.2.7. GitLab has released a security advisory and corresponding patch updates to address these issues.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 25, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

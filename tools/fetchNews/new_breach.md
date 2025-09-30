@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+September 29, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medusa Ransomware Claims Comcast Data Breach, Demands $1.2M<a href="https://hackread.com/medusa-ransomware-comcast-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Medusa ransomware group claimed responsibility for a data breach at Comcast Corporation, alleging the theft of 834.4 GB of data. The group is demanding a $1.2 million ransom for either deleting the data or selling it to interested buyers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 24, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

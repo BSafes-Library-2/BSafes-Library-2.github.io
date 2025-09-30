@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+September 27, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Cyberspies Hacked US Defense Contractors<a href="https://www.securityweek.com/chinese-cyberspies-hacked-us-defense-contractors/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RedNovember, a Chinese state-sponsored cyberespionage group, has conducted a global campaign from July 2024 to July 2025, targeting US defense contractors and a wide range of organizations across government, aerospace, legal, and industrial sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 23, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

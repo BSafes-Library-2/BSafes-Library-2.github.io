@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 25, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PSF Warns of Fake PyPI Login Site Stealing User Credentials<a href="https://hackread.com/psf-warn-fake-pypi-login-site-steal-credentials/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign is targeting developers using the Python Package Index (PyPI), aiming to steal user credentials through a spoofed login site. The phishing campaign begins with emails that appear to originate from PyPI administrators.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 20, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
