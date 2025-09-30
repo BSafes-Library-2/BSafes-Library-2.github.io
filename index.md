@@ -44,7 +44,7 @@ National Cyber Authorities Launch OT Security Guidance<a href="https://www.infos
 National cybersecurity agencies from seven countries have jointly released new guidance to enhance the security of OT systems. The guidance is intended for cybersecurity practitioners working in organizations that deploy or operate OT systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -60,7 +60,7 @@ Tile Tracking Tags Can Be Exploited by Tech-Savvy Stalkers, Researchers Say<a hr
 Researchers have uncovered privacy and security bugs in Tile tracking tags. These flaws allow malicious actors to track users, bypass anti-stalking protections, and even impersonate Tile tags to falsely implicate individuals.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Wired
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -76,7 +76,7 @@ Medusa Ransomware Claims Comcast Data Breach, Demands $1.2M<a href="https://hack
 The Medusa ransomware group claimed responsibility for a data breach at Comcast Corporation, alleging the theft of 834.4 GB of data. The group is demanding a $1.2 million ransom for either deleting the data or selling it to interested buyers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -92,7 +92,7 @@ Vital cyber data-sharing law appears likely to expire amid looming government sh
 The 2015 Cybersecurity Information Sharing Act is poised to expire on September 30. The law has been instrumental in enabling private sector entities to share cyber threat intelligence with federal agencies under legal protections.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+NextGov
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -108,7 +108,7 @@ Google Ads Used to Spread Trojan Disguised as TradingView Premium<a href="https:
 A malware campaign is leveraging Google Ads and hijacked YouTube channels to distribute a Trojan disguised as TradingView Premium. The campaign It now uses over 500 domains and thousands of malicious ads daily in English, Vietnamese, and Thai.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -124,7 +124,7 @@ GitLab security advisory (AV25-620)<a href="https://www.cyber.gc.ca/en/alerts-ad
 Flaws have been identified in GitLab Community Edition (CE) and Enterprise Edition (EE), affecting versions prior to 18.4.1, 18.3.3, and 18.2.7. GitLab has released a security advisory and corresponding patch updates to address these issues.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Government of Canada
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -140,7 +140,7 @@ Chinese Cyberspies Hacked US Defense Contractors<a href="https://www.securitywee
 RedNovember, a Chinese state-sponsored cyberespionage group, has conducted a global campaign from July 2024 to July 2025, targeting US defense contractors and a wide range of organizations across government, aerospace, legal, and industrial sectors.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Week
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -156,7 +156,7 @@ Dem report concludes Department of Government Efficiency violates cybersecurity,
 The report focuses on DOGE’s activities at the General Services Administration (GSA), Office of Personnel Management (OPM), and Social Security Administration (SSA), revealing multiple instances of potential cybersecurity violations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyber Scoop
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -172,7 +172,7 @@ CISA Directs Federal Agencies to Identify and Mitigate Potential Compromise of C
 On September 25, 2025, the CISA issued Emergency Directive ED 25-03, mandating all U.S. federal agencies to identify and mitigate potential compromises in all versions of Cisco Adaptive Security Appliances (ASA) and Cisco Firepower devices.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CISA
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -188,7 +188,7 @@ Interpol Cracks Down on Large-Scale African Scamming Networks<a href="https://ww
 A major transnational cybercrime crackdown, Operation Contender 3.0, has led to the arrest of 260 individuals and the dismantling of 81 cybercrime infrastructures across 14 African countries.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
