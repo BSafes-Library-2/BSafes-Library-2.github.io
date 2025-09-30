@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+National Cyber Authorities Launch OT Security Guidance<a href="https://www.infosecurity-magazine.com/news/national-cyber-authorities-ot/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+National cybersecurity agencies from seven countries have jointly released new guidance to enhance the security of OT systems. The guidance is intended for cybersecurity practitioners working in organizations that deploy or operate OT systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tile Tracking Tags Can Be Exploited by Tech-Savvy Stalkers, Researchers Say<a href="https://www.wired.com/story/tile-tracking-tags-can-be-exploited-by-tech-savvy-stalkers-researchers-say/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have uncovered privacy and security bugs in Tile tracking tags. These flaws allow malicious actors to track users, bypass anti-stalking protections, and even impersonate Tile tags to falsely implicate individuals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medusa Ransomware Claims Comcast Data Breach, Demands $1.2M<a href="https://hackread.com/medusa-ransomware-comcast-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Medusa ransomware group claimed responsibility for a data breach at Comcast Corporation, alleging the theft of 834.4 GB of data. The group is demanding a $1.2 million ransom for either deleting the data or selling it to interested buyers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vital cyber data-sharing law appears likely to expire amid looming government shutdown<a href="https://www.nextgov.com/cybersecurity/2025/09/vital-cyber-data-sharing-law-appears-likely-expire-amid-looming-government-shutdown/408410/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The 2015 Cybersecurity Information Sharing Act is poised to expire on September 30. The law has been instrumental in enabling private sector entities to share cyber threat intelligence with federal agencies under legal protections.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Ads Used to Spread Trojan Disguised as TradingView Premium<a href="https://hackread.com/tradingview-scam-expands-to-google-youtube/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malware campaign is leveraging Google Ads and hijacked YouTube channels to distribute a Trojan disguised as TradingView Premium. The campaign It now uses over 500 domains and thousands of malicious ads daily in English, Vietnamese, and Thai.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitLab security advisory (AV25-620)<a href="https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av25-620?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Flaws have been identified in GitLab Community Edition (CE) and Enterprise Edition (EE), affecting versions prior to 18.4.1, 18.3.3, and 18.2.7. GitLab has released a security advisory and corresponding patch updates to address these issues.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Cyberspies Hacked US Defense Contractors<a href="https://www.securityweek.com/chinese-cyberspies-hacked-us-defense-contractors/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RedNovember, a Chinese state-sponsored cyberespionage group, has conducted a global campaign from July 2024 to July 2025, targeting US defense contractors and a wide range of organizations across government, aerospace, legal, and industrial sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dem report concludes Department of Government Efficiency violates cybersecurity, privacy rules<a href="https://cyberscoop.com/senate-democrats-report-doge-cybersecurity-privacy-violations/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The report focuses on DOGE’s activities at the General Services Administration (GSA), Office of Personnel Management (OPM), and Social Security Administration (SSA), revealing multiple instances of potential cybersecurity violations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Directs Federal Agencies to Identify and Mitigate Potential Compromise of Cisco Devices<a href="https://www.cisa.gov/news-events/alerts/2025/09/25/cisa-directs-federal-agencies-identify-and-mitigate-potential-compromise-cisco-devices?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On September 25, 2025, the CISA issued Emergency Directive ED 25-03, mandating all U.S. federal agencies to identify and mitigate potential compromises in all versions of Cisco Adaptive Security Appliances (ASA) and Cisco Firepower devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interpol Cracks Down on Large-Scale African Scamming Networks<a href="https://www.infosecurity-magazine.com/news/interpol-african-scamming-networks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A major transnational cybercrime crackdown, Operation Contender 3.0, has led to the arrest of 260 individuals and the dismantling of 81 cybercrime infrastructures across 14 African countries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 25, 2025 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
