@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+September 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK government to be guarantor for Jaguar Land Rover loan as it recovers from cyberattack<a href="https://therecord.media/jaguar-land-rover-loan-guarantor-cyberattack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The British government announced it is underwriting a loan for auto manufacturer Jaguar Land Rover (JLR) as the company and its supply chain attempt to recover from the disruption caused by a cyberattack earlier this month.
+</details>
+<div style="text-align: right" markdown="1">
+THe Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Asahi runs dry as online attackers take down Japanese ops<a href="https://www.theregister.com/2025/09/29/asahi_hacking_outage/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japan's largest brewery biz, Asahi, has shut down distribution systems following an online attack, and local drinkers will just have to make do with stocks as they stand.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 25, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

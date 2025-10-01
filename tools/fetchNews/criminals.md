@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 27, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interpol Cracks Down on Large-Scale African Scamming Networks<a href="https://www.infosecurity-magazine.com/news/interpol-african-scamming-networks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A major transnational cybercrime crackdown, Operation Contender 3.0, has led to the arrest of 260 individuals and the dismantling of 81 cybercrime infrastructures across 14 African countries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 24, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

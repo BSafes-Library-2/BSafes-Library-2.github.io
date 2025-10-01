@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 1, 2025
+October 1, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New MatrixPDF toolkit turns PDFs into phishing and malware lures<a href="https://www.bleepingcomputer.com/news/security/new-matrixpdf-toolkit-turns-pdfs-into-phishing-and-malware-lures/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ New MatrixPDF toolkit turns PDFs into phishing and malware lures<a href="https:/
 A new phishing and malware distribution toolkit named MatrixPDF has emerged, enabling threat actors to weaponize PDF files for credential theft and malware delivery. It embeds JS actions that execute when a document is opened.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 1, 2025
+October 1, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 $50 Battering RAM Attack Breaks Intel and AMD Cloud Security Protections<a href="https://thehackernews.com/2025/10/50-battering-ram-attack-breaks-intel.html?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ $50 Battering RAM Attack Breaks Intel and AMD Cloud Security Protections<a href=
 A newly disclosed hardware-based attack, dubbed Battering RAM, enables attackers to bypass memory encryption protections in Intel SGX and AMD SEV-SNP technologies. It leverages a low-cost DDR4 interposer to manipulate memory access.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2025
+September 30, 2025 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK government to be guarantor for Jaguar Land Rover loan as it recovers from cyberattack<a href="https://therecord.media/jaguar-land-rover-loan-guarantor-cyberattack?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ UK government to be guarantor for Jaguar Land Rover loan as it recovers from cyb
 The British government announced it is underwriting a loan for auto manufacturer Jaguar Land Rover (JLR) as the company and its supply chain attempt to recover from the disruption caused by a cyberattack earlier this month.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+THe Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2025
+September 30, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gang sought BBC reporter’s help in hacking media giant<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-sought-bbc-reporters-help-in-hacking-media-giant/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Ransomware gang sought BBC reporter’s help in hacking media giant<a href="http
 Cybersecurity correspondent Joe Tidy revealed in a story on the BBC that the hackers wanted to use his laptop to breach the British public-service broadcaster's network and then ask for a ransom.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2025
+September 30, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Android Trojan "Datzbro" Tricking Elderly with AI-Generated Facebook Travel Events<a href="https://thehackernews.com/2025/09/new-android-trojan-datzbro-tricking.html?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ New Android Trojan "Datzbro" Tricking Elderly with AI-Generated Facebook Travel 
 Cybersecurity researchers have flagged a previously undocumented Android banking trojan called Datzbro that can conduct device takeover (DTO) attacks and perform fraudulent transactions by preying on the elderly.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2025
+September 30, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Akira ransomware: From SonicWall VPN login to encryption in under four hours<a href="https://www.helpnetsecurity.com/2025/09/29/akira-ransomware-sonicwall-vpn/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Akira ransomware: From SonicWall VPN login to encryption in under four hours<a h
 Four hours or less: that’s how long it takes for Akira affiliates to break into organizations and deploy the ransomware on their systems, Arctic Wolf researchers have warned.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2025
+September 30, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Postmark MCP npm package stole emails with one-liner<a href="https://www.theregister.com/2025/09/29/postmark_mcp_server_code_hijacked/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Fake Postmark MCP npm package stole emails with one-liner<a href="https://www.th
 A fake npm package posing as Postmark's MCP (Model Context Protocol) server silently stole potentially thousands of emails a day by adding a single line of code that secretly copied outgoing messages to an attacker-controlled address.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2025
+September 30, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘Widespread’ breach let hackers steal employee data from FEMA and CBP<a href="https://www.nextgov.com/cybersecurity/2025/09/widespread-breach-let-hackers-steal-employee-data-fema-and-cbp/408456/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ September 30, 2025
 A “widespread cybersecurity incident” at the Federal Emergency Management Agency allowed hackers to make off with employee data from both the disaster management office and U.S. Customs and Border Protection.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Next Gov
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2025
+September 30, 2025 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Asahi runs dry as online attackers take down Japanese ops<a href="https://www.theregister.com/2025/09/29/asahi_hacking_outage/?&web_view=true"> Full Text</a>
@@ -172,7 +172,7 @@ Asahi runs dry as online attackers take down Japanese ops<a href="https://www.th
 Japan's largest brewery biz, Asahi, has shut down distribution systems following an online attack, and local drinkers will just have to make do with stocks as they stand.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

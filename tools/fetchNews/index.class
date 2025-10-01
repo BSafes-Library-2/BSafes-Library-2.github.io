@@ -34,6 +34,150 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 1, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New MatrixPDF toolkit turns PDFs into phishing and malware lures<a href="https://www.bleepingcomputer.com/news/security/new-matrixpdf-toolkit-turns-pdfs-into-phishing-and-malware-lures/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing and malware distribution toolkit named MatrixPDF has emerged, enabling threat actors to weaponize PDF files for credential theft and malware delivery. It embeds JS actions that execute when a document is opened.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 1, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+$50 Battering RAM Attack Breaks Intel and AMD Cloud Security Protections<a href="https://thehackernews.com/2025/10/50-battering-ram-attack-breaks-intel.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly disclosed hardware-based attack, dubbed Battering RAM, enables attackers to bypass memory encryption protections in Intel SGX and AMD SEV-SNP technologies. It leverages a low-cost DDR4 interposer to manipulate memory access.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2025 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK government to be guarantor for Jaguar Land Rover loan as it recovers from cyberattack<a href="https://therecord.media/jaguar-land-rover-loan-guarantor-cyberattack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The British government announced it is underwriting a loan for auto manufacturer Jaguar Land Rover (JLR) as the company and its supply chain attempt to recover from the disruption caused by a cyberattack earlier this month.
+</details>
+<div style="text-align: right" markdown="1">
+THe Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang sought BBC reporter’s help in hacking media giant<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-sought-bbc-reporters-help-in-hacking-media-giant/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity correspondent Joe Tidy revealed in a story on the BBC that the hackers wanted to use his laptop to breach the British public-service broadcaster's network and then ask for a ransom.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Android Trojan "Datzbro" Tricking Elderly with AI-Generated Facebook Travel Events<a href="https://thehackernews.com/2025/09/new-android-trojan-datzbro-tricking.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have flagged a previously undocumented Android banking trojan called Datzbro that can conduct device takeover (DTO) attacks and perform fraudulent transactions by preying on the elderly.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Akira ransomware: From SonicWall VPN login to encryption in under four hours<a href="https://www.helpnetsecurity.com/2025/09/29/akira-ransomware-sonicwall-vpn/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four hours or less: that’s how long it takes for Akira affiliates to break into organizations and deploy the ransomware on their systems, Arctic Wolf researchers have warned.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Postmark MCP npm package stole emails with one-liner<a href="https://www.theregister.com/2025/09/29/postmark_mcp_server_code_hijacked/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A fake npm package posing as Postmark's MCP (Model Context Protocol) server silently stole potentially thousands of emails a day by adding a single line of code that secretly copied outgoing messages to an attacker-controlled address.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Widespread’ breach let hackers steal employee data from FEMA and CBP<a href="https://www.nextgov.com/cybersecurity/2025/09/widespread-breach-let-hackers-steal-employee-data-fema-and-cbp/408456/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A “widespread cybersecurity incident” at the Federal Emergency Management Agency allowed hackers to make off with employee data from both the disaster management office and U.S. Customs and Border Protection.
+</details>
+<div style="text-align: right" markdown="1">
+Next Gov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2025 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Asahi runs dry as online attackers take down Japanese ops<a href="https://www.theregister.com/2025/09/29/asahi_hacking_outage/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japan's largest brewery biz, Asahi, has shut down distribution systems following an online attack, and local drinkers will just have to make do with stocks as they stand.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 29, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -44,7 +188,7 @@ National Cyber Authorities Launch OT Security Guidance<a href="https://www.infos
 National cybersecurity agencies from seven countries have jointly released new guidance to enhance the security of OT systems. The guidance is intended for cybersecurity practitioners working in organizations that deploy or operate OT systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -60,7 +204,7 @@ Tile Tracking Tags Can Be Exploited by Tech-Savvy Stalkers, Researchers Say<a hr
 Researchers have uncovered privacy and security bugs in Tile tracking tags. These flaws allow malicious actors to track users, bypass anti-stalking protections, and even impersonate Tile tags to falsely implicate individuals.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Wired
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -76,7 +220,7 @@ Medusa Ransomware Claims Comcast Data Breach, Demands $1.2M<a href="https://hack
 The Medusa ransomware group claimed responsibility for a data breach at Comcast Corporation, alleging the theft of 834.4 GB of data. The group is demanding a $1.2 million ransom for either deleting the data or selling it to interested buyers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -92,7 +236,7 @@ Vital cyber data-sharing law appears likely to expire amid looming government sh
 The 2015 Cybersecurity Information Sharing Act is poised to expire on September 30. The law has been instrumental in enabling private sector entities to share cyber threat intelligence with federal agencies under legal protections.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+NextGov
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -108,7 +252,7 @@ Google Ads Used to Spread Trojan Disguised as TradingView Premium<a href="https:
 A malware campaign is leveraging Google Ads and hijacked YouTube channels to distribute a Trojan disguised as TradingView Premium. The campaign It now uses over 500 domains and thousands of malicious ads daily in English, Vietnamese, and Thai.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -124,7 +268,7 @@ GitLab security advisory (AV25-620)<a href="https://www.cyber.gc.ca/en/alerts-ad
 Flaws have been identified in GitLab Community Edition (CE) and Enterprise Edition (EE), affecting versions prior to 18.4.1, 18.3.3, and 18.2.7. GitLab has released a security advisory and corresponding patch updates to address these issues.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Government of Canada
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -140,7 +284,7 @@ Chinese Cyberspies Hacked US Defense Contractors<a href="https://www.securitywee
 RedNovember, a Chinese state-sponsored cyberespionage group, has conducted a global campaign from July 2024 to July 2025, targeting US defense contractors and a wide range of organizations across government, aerospace, legal, and industrial sectors.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Week
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -156,7 +300,7 @@ Dem report concludes Department of Government Efficiency violates cybersecurity,
 The report focuses on DOGE’s activities at the General Services Administration (GSA), Office of Personnel Management (OPM), and Social Security Administration (SSA), revealing multiple instances of potential cybersecurity violations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyber Scoop
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -172,7 +316,7 @@ CISA Directs Federal Agencies to Identify and Mitigate Potential Compromise of C
 On September 25, 2025, the CISA issued Emergency Directive ED 25-03, mandating all U.S. federal agencies to identify and mitigate potential compromises in all versions of Cisco Adaptive Security Appliances (ASA) and Cisco Firepower devices.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CISA
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -188,7 +332,7 @@ Interpol Cracks Down on Large-Scale African Scamming Networks<a href="https://ww
 A major transnational cybercrime crackdown, Operation Contender 3.0, has led to the arrest of 260 individuals and the dismantling of 81 cybercrime infrastructures across 14 African countries.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

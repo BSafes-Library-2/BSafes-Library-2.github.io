@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+September 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Akira ransomware: From SonicWall VPN login to encryption in under four hours<a href="https://www.helpnetsecurity.com/2025/09/29/akira-ransomware-sonicwall-vpn/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four hours or less: that’s how long it takes for Akira affiliates to break into organizations and deploy the ransomware on their systems, Arctic Wolf researchers have warned.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 23, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
