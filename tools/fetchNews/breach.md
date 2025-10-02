@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+September 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Widespread’ breach let hackers steal employee data from FEMA and CBP<a href="https://www.nextgov.com/cybersecurity/2025/09/widespread-breach-let-hackers-steal-employee-data-fema-and-cbp/408456/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A “widespread cybersecurity incident” at the Federal Emergency Management Agency allowed hackers to make off with employee data from both the disaster management office and U.S. Customs and Border Protection.
+</details>
+<div style="text-align: right" markdown="1">
+Next Gov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 29, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

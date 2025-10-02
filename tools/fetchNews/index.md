@@ -34,6 +34,118 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 2, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+walk through the updates<a href="https://research.checkpoint.com/2025/rhadamanthys-0-9-x-walk-through-the-updates/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rhadamanthys, a modular infostealer, has released version 0.9.2 with significant updates. These changes impact detection, analysis, and reverse engineering, and include new evasion techniques, configuration formats, and delivery mechanisms.
+</details>
+<div style="text-align: right" markdown="1">
+Check Point
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 1, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Smishing Campaigns Exploit Cellular Routers to Target Belgium<a href="https://www.infosecurity-magazine.com/news/smishing-exploit-cellular-routers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A wave of smishing attacks has been traced to exploited Milesight Industrial Cellular Routers, with attackers abusing their APIs to send phishing SMS messages. These campaigns primarily target Belgian users.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 1, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Project Zero Exposes ASLR Bypass Vulnerability in Apple’s Serialization Framework<a href="https://thecyberexpress.com/project-zero-exposes-aslr-bypass/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have uncovered a novel technique to bypass Address Space Layout Randomization (ASLR) in Apple devices by exploiting deterministic behaviors in the NSKeyedArchiver and NSKeyedUnarchiver serialization frameworks.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 1, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Festo CPX-CEC-C1 and CPX-CMXX<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-273-03?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability (CVE-2022-3079) has been identified in Festo CPX-CEC-C1 and CPX-CMXX control blocks. This flaw allows unauthenticated, remote access to critical webpage functions, potentially resulting in a denial of service (DoS).
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 1, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hack of US Surveillance Provider RemoteCOM Exposes Court Data<a href="https://hackread.com/us-surveillance-remotecom-hack-court-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant data breach has compromised RemoteCOM, a US-based surveillance provider, exposing highly sensitive data of nearly 14,000 individuals under court supervision and 6,896 law enforcement personnel.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 1, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tesla Fixes TCU USB Flaw Allowing Root Access<a href="https://www.esecurityplanet.com/news/tesla-patches-tcu-bug/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in Tesla’s TCU allowed attackers with physical access to gain root-level code execution. The flaw has been patched via an over-the-air (OTA) update.
+</details>
+<div style="text-align: right" markdown="1">
+ESecurity Planet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 1, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WestJet confirms recent breach exposed customers' passports<a href="https://www.bleepingcomputer.com/news/security/westjet-confirms-recent-breach-exposed-customers-passports/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent cybersecurity incident at Canadian airline WestJet has resulted in the exposure of sensitive customer data, including passport and government-issued ID information. The breach has been confirmed to involve personal data exfiltration.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 1, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

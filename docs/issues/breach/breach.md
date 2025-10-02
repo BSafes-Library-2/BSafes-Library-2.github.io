@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+October 1, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hack of US Surveillance Provider RemoteCOM Exposes Court Data<a href="https://hackread.com/us-surveillance-remotecom-hack-court-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant data breach has compromised RemoteCOM, a US-based surveillance provider, exposing highly sensitive data of nearly 14,000 individuals under court supervision and 6,896 law enforcement personnel.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 1, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WestJet confirms recent breach exposed customers' passports<a href="https://www.bleepingcomputer.com/news/security/westjet-confirms-recent-breach-exposed-customers-passports/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent cybersecurity incident at Canadian airline WestJet has resulted in the exposure of sensitive customer data, including passport and government-issued ID information. The breach has been confirmed to involve personal data exfiltration.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 30, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

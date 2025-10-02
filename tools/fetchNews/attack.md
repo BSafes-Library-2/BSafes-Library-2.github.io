@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+October 1, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+$50 Battering RAM Attack Breaks Intel and AMD Cloud Security Protections<a href="https://thehackernews.com/2025/10/50-battering-ram-attack-breaks-intel.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly disclosed hardware-based attack, dubbed Battering RAM, enables attackers to bypass memory encryption protections in Intel SGX and AMD SEV-SNP technologies. It leverages a low-cost DDR4 interposer to manipulate memory access.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 27, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
