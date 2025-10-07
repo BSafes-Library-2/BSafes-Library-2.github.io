@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+October 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive surge in scans targeting Palo Alto Networks login portals<a href="https://www.bleepingcomputer.com/news/security/massive-surge-in-scans-targeting-palo-alto-networks-login-portals/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant surge in reconnaissance scans has been detected targeting Palo Alto Networks login portals. Experts reported a 500% increase in scanning activity, with over 1,285 unique IPs involved on October 3.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ghost in the Cloud: Weaponizing AWS X-Ray for Command &amp; Control<a href="https://securityaffairs.com/182968/hacking/ghost-in-the-cloud-weaponizing-aws-x-ray-for-command-control.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A novel Command and Control (C2) technique has emerged that leverages AWS X-Ray, Amazon’s distributed tracing service, as a covert bidirectional C2 channel. This method exploits legitimate cloud infrastructure to evade traditional network defenses.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 2, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 6, 2025
+October 6, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Self-Propagating Malware Spreading Via WhatsApp, Targets Brazilian Users<a href="https://www.trendmicro.com/en_us/research/25/j/self-propagating-malware-spreads-via-whatsapp.html?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Self-Propagating Malware Spreading Via WhatsApp, Targets Brazilian Users<a href=
 A new malware campaign named SORVEPOTEL is actively targeting Brazilian users via WhatsApp and email. It spreads through phishing messages containing ZIP files with malicious LNK shortcuts, aiming for rapid propagation rather than data theft.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Trend Micro
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 6, 2025
+October 6, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malvertising Campaign Hides in Plain Sight on WordPress Websites<a href="https://blog.sucuri.net/2025/10/malvertising-campaign-hides-in-plain-sight-on-wordpress-websites.html?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Malvertising Campaign Hides in Plain Sight on WordPress Websites<a href="https:/
 The infection was identified when a customer noticed unauthorized JavaScript loading on their WordPress site. Investigation revealed that the same malicious script was active on at least 17 other websites.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sucuri
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 6, 2025
+October 6, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Discord discloses data breach after hackers steal support tickets<a href="https://www.bleepingcomputer.com/news/security/discord-discloses-data-breach-after-hackers-steal-support-tickets/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Discord discloses data breach after hackers steal support tickets<a href="https:
 A recent data breach involving a third-party customer service provider has resulted in the unauthorized access and theft of personally identifiable information (PII) of Discord users.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 6, 2025
+October 6, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Massive surge in scans targeting Palo Alto Networks login portals<a href="https://www.bleepingcomputer.com/news/security/massive-surge-in-scans-targeting-palo-alto-networks-login-portals/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Massive surge in scans targeting Palo Alto Networks login portals<a href="https:
 A significant surge in reconnaissance scans has been detected targeting Palo Alto Networks login portals. Experts reported a 500% increase in scanning activity, with over 1,285 unique IPs involved on October 3.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 6, 2025
+October 6, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Event startup Partiful wasn’t stripping GPS locations from user-uploaded photos<a href="https://techcrunch.com/2025/10/04/event-startup-partiful-wasnt-stripping-gps-locations-from-user-uploaded-photos/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Event startup Partiful wasn’t stripping GPS locations from user-uploaded photo
 A critical privacy vulnerability was discovered in the Partiful event planning app, where GPS metadata embedded in user-uploaded images—including public profile photos—was not stripped upon upload.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Tech Crunch
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 6, 2025
+October 6, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. CISA adds Smartbedded Meteobridge, Samsung, Juniper ScreenOS, Jenkins, and GNU Bash flaws to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/182925/hacking/u-s-cisa-adds-smartbedded-meteobridge-samsung-juniper-screenos-jenkins-and-gnu-bash-flaws-to-its-known-exploited-vulnerabilities-catalog.html?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ U.S. CISA adds Smartbedded Meteobridge, Samsung, Juniper ScreenOS, Jenkins, and 
 CISA has added five critical vulnerabilities to its KE) catalog, mandating federal agencies to remediate them by October 23, 2025. These include flaws in GNU Bash, Juniper ScreenOS, Jenkins, Smartbedded Meteobridge, and Samsung mobile devices.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 6, 2025
+October 6, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ghost in the Cloud: Weaponizing AWS X-Ray for Command & Control<a href="https://securityaffairs.com/182968/hacking/ghost-in-the-cloud-weaponizing-aws-x-ray-for-command-control.html?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Ghost in the Cloud: Weaponizing AWS X-Ray for Command & Control<a href="https://
 A novel Command and Control (C2) technique has emerged that leverages AWS X-Ray, Amazon’s distributed tracing service, as a covert bidirectional C2 channel. This method exploits legitimate cloud infrastructure to evade traditional network defenses.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 6, 2025
+October 6, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers exploited Zimbra flaw as zero-day using iCalendar files<a href="https://www.bleepingcomputer.com/news/security/hackers-exploited-zimbra-flaw-as-zero-day-using-icalendar-files/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Hackers exploited Zimbra flaw as zero-day using iCalendar files<a href="https://
 A zero-day vulnerability (CVE-2025-27915) in Zimbra Collaboration Suite (ZCS) was actively exploited using malicious iCalendar files. The flaw, an XS) vulnerability, allowed attackers to execute arbitrary JavaScript in victim sessions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 3, 2025
+October 3, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scam Facebook groups send malicious Android malware to seniors<a href="https://www.malwarebytes.com/blog/news/2025/10/scam-facebook-groups-send-malicious-android-malware-to-seniors?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Scam Facebook groups send malicious Android malware to seniors<a href="https://w
 Attackers used social engineering methods to lure targets into joining fake Facebook groups that appeared to promote travel and community activities—such as trips, dance classes, and community gatherings.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Malware Bytes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 3, 2025
+October 3, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Renault UK Customer Records Stolen in Third-Party Breach<a href="https://hackread.com/renault-uk-customers-third-party-data-breach/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Renault UK Customer Records Stolen in Third-Party Breach<a href="https://hackrea
 Renault UK is informing customers that their personal data may have been compromised following a cyberattack on one of its third-party service providers. The automaker has said that the attackers gained access via the external provider.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

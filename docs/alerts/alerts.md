@@ -7,6 +7,23 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 2, 2025 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Five Known Exploited Vulnerabilities to Catalog <a href="https://www.cisa.gov/news-events/alerts/2025/10/02/cisa-adds-five-known-exploited-vulnerabilities-catalog"> Full Text</a>
+</p>
+<details>
+CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.
+
+CVE-2014-6278 GNU Bash OS Command Injection Vulnerability
+CVE-2015-7755 Juniper ScreenOS Improper Authentication Vulnerability
+CVE-2017-1000353 Jenkins Remote Code Execution Vulnerability
+CVE-2025-4008 Smartbedded Meteobridge Command Injection Vulnerability
+CVE-2025-21043 Samsung Mobile Devices Out-of-Bounds Write Vulnerability
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 29, 2025 - National Cyber Security Centre, UK 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

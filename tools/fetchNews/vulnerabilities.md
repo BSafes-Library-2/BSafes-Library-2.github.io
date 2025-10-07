@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 2, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe Analytics bug leaked customer tracking data to other tenants<a href="https://www.bleepingcomputer.com/news/security/adobe-analytics-bug-leaked-customer-tracking-data-to-other-tenants/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical ingestion bug in Adobe Analytics caused cross-tenant data leakage, exposing customer tracking data from one organization to others. The issue lasted for nearly a day and affected multiple Adobe Analytics services globally.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 2, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Vulnerabilities in VMware Aria Operations and VMware Tools Could Allow for Privilege Escalation<a href="https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-vmware-aria-operations-and-vmware-tools-could-allow-for-privilege-escalation_2025-092?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple vulnerabilities have been identified in VMware Aria Operations and VMware Tools, the most critical of which (CVE-2025-41244) allows local privilege escalation to root.
+</details>
+<div style="text-align: right" markdown="1">
+CI Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 1, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

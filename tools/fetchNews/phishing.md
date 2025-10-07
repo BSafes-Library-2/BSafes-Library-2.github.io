@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+October 2, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+That annoying SMS phish you just got may have come from a box like this<a href="https://arstechnica.com/security/2025/10/that-annoying-sms-phish-you-just-got-may-have-come-from-a-box-like-this/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting unsecured Milesight IoT cellular routers to send SMS-based phishing messages. These routers are widely deployed in critical infrastructure such as traffic lights and electric power meters.
+</details>
+<div style="text-align: right" markdown="1">
+Ars Technical
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 29, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

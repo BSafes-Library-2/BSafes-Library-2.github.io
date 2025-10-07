@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+October 3, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scam Facebook groups send malicious Android malware to seniors<a href="https://www.malwarebytes.com/blog/news/2025/10/scam-facebook-groups-send-malicious-android-malware-to-seniors?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers used social engineering methods to lure targets into joining fake Facebook groups that appeared to promote travel and community activities—such as trips, dance classes, and community gatherings.
+</details>
+<div style="text-align: right" markdown="1">
+Malware Bytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 2, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
