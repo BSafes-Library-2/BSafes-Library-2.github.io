@@ -45,7 +45,7 @@ var sources = {
 	'CY': {
 		name: "Cyware",
 		domain: "https://cyware.com/",
-		url: "https://cyware.com/cyber-security-news-articles",
+		url: "https://social.cyware.com/cyber-security-news-articles",
 		items: [],
     index: 0,
 		handler: getCYWARESocial,

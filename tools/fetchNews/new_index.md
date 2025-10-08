@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[Control systems] ABB security advisory (AV25-648)<a href="https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av25-648?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ABB has disclosed a high-severity vulnerability (CVE-2021-22291) affecting its EIBPORT V3 KNX and EIBPORT V3 KNX GSM products. The vulnerability, rated with a CVSS score of 8.5, involves improper input neutralization during web page generation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Mic-E-Mouse Attack Shows Computer Mice Can Capture Conversations<a href="https://hackread.com/mic-e-mouse-attack-computer-mice-conversations/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have unveiled a novel side-channel attack named Mic-E-Mouse, which exploits high-DPI optical sensors in modern computer mice to capture and reconstruct human speech.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Breach at Doctors Imaging Group Impacts 171,000 People<a href="https://www.securityweek.com/data-breach-at-doctors-imaging-group-impacts-171000-people/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant data breach at Doctors Imaging Group compromised the personal and medical information of over 171,000 individuals. Doctors Imaging Group experienced unauthorized access to its network between November 5 and November 11, 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishers target 1Password users with convincing fake breach alert<a href="https://www.malwarebytes.com/blog/news/2025/10/phishers-target-1password-users-with-convincing-fake-breach-alert?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent spear-phishing campaign targeted a Malwarebytes employee with a convincing fake breach alert impersonating 1Password’s Watchtower service. The attackers aimed to steal the victim’s 1Password credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Known Exploited Vulnerabilities Catalog<a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2010-3765?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical RCE bug affects multiple Mozilla products including Firefox, Thunderbird, and SeaMonkey. This flaw, which occurs when JavaScript is enabled, allows remote attackers to execute arbitrary code by exploiting memory corruption.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Known Exploited Vulnerabilities Catalog<a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2021-22555?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical heap out-of-bounds write vulnerability, tracked as CVE-2021-22555, has been identified in the Linux Kernel. This flaw allows attackers to escalate privileges or cause a DoS condition via heap memory corruption through user namespaces.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Known Exploited Vulnerabilities Catalog<a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2011-3402?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2011-3402 is a critical remote code execution vulnerability in Microsoft Windows, stemming from a flaw in the TrueType font parsing engine within the win32k.sys kernel-mode driver.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Known Exploited Vulnerabilities Catalog<a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2013-3918?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical out-of-bounds write vulnerability has been identified in Microsoft Windows, specifically within the InformationCardSigninHelper Class ActiveX control. This flaw allows remote code execution when a user visits a malicious webpage.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang Qilin hacked Mecklenburg County, VA public schools<a href="https://www.comparitech.com/news/ransomware-gang-qilin-hacked-mecklenburg-county-va-public-schools/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Qilin ransomware group has claimed responsibility for a cyberattack on Mecklenburg County Public Schools (MCPS) in Virginia, which occurred in September 2025. The group alleges it exfiltrated 305 GB of sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 7, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fort Wayne Medical Education Program notifies 29,000+ people of data breach<a href="https://www.comparitech.com/news/fort-wayne-medical-education-program-notifies-29000-people-of-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Fort Wayne Medical Education Program (FWMEP), a medical residency program in Indiana, has disclosed a ransomware attack that compromised the personal data of 29,485 individuals, including employees and their dependents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 6, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
