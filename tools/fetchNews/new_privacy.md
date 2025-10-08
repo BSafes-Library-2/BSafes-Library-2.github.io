@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+October 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Mic-E-Mouse Attack Shows Computer Mice Can Capture Conversations<a href="https://hackread.com/mic-e-mouse-attack-computer-mice-conversations/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have unveiled a novel side-channel attack named Mic-E-Mouse, which exploits high-DPI optical sensors in modern computer mice to capture and reconstruct human speech.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 29, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

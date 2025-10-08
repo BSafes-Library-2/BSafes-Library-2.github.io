@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Event startup Partiful wasn’t stripping GPS locations from user-uploaded photos<a href="https://techcrunch.com/2025/10/04/event-startup-partiful-wasnt-stripping-gps-locations-from-user-uploaded-photos/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical privacy vulnerability was discovered in the Partiful event planning app, where GPS metadata embedded in user-uploaded images—including public profile photos—was not stripped upon upload.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. CISA adds Smartbedded Meteobridge, Samsung, Juniper ScreenOS, Jenkins, and GNU Bash flaws to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/182925/hacking/u-s-cisa-adds-smartbedded-meteobridge-samsung-juniper-screenos-jenkins-and-gnu-bash-flaws-to-its-known-exploited-vulnerabilities-catalog.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has added five critical vulnerabilities to its KE) catalog, mandating federal agencies to remediate them by October 23, 2025. These include flaws in GNU Bash, Juniper ScreenOS, Jenkins, Smartbedded Meteobridge, and Samsung mobile devices.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers exploited Zimbra flaw as zero-day using iCalendar files<a href="https://www.bleepingcomputer.com/news/security/hackers-exploited-zimbra-flaw-as-zero-day-using-icalendar-files/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A zero-day vulnerability (CVE-2025-27915) in Zimbra Collaboration Suite (ZCS) was actively exploited using malicious iCalendar files. The flaw, an XS) vulnerability, allowed attackers to execute arbitrary JavaScript in victim sessions.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 2, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
