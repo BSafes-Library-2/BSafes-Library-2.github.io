@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 9, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitLab security advisory (AV25-650)<a href="https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av25-650?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitLab issued a security advisory (AV25-650) addressing multiple vulnerabilities in GitLab Community Edition (CE) and Enterprise Edition (EE). The vulnerabilities affect versions prior to 18.4.2, 18.3.4, and 18.2.8.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 9, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Open Web Analytics SQL Injection<a href="https://seclists.org/fulldisclosure/2025/Oct/5?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity SQL injection vulnerability (CVE-2025-59397) has been identified in Open Web Analytics (OWA) version 1.8.0 and likely affects earlier versions. The flaw allows authenticated users to inject arbitrary SQL commands.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mic-E-Mouse: When Your Gaming Mouse Becomes a Microphone<a href="https://www.esecurityplanet.com/threats/mic-e-mouse-when-your-gaming-mouse-becomes-a-microphone/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A novel side-channel attack named Mic-E-Mouse has been demonstrated, leveraging high-DPI optical mouse sensors to capture desk vibrations and reconstruct nearby speech. This technique transforms a common input device into a covert surveillance tool.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+“Can you test my game?” Fake itch.io pages spread hidden malware to gamers<a href="https://www.malwarebytes.com/blog/threat-intel/2025/10/can-you-test-my-game-fake-itch-io-pages-spread-hidden-malware-to-gamers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign leverages compromised Discord accounts to send direct messages asking users to test a game. Victims are redirected to convincing fake game pages hosted on Blogspot subdomains or cloud services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Group Claims Attack on Beer Giant Asahi<a href="https://www.securityweek.com/ransomware-group-claims-attack-on-beer-giant-asahi/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russia-based Qilin ransomware group added Asahi to its leak site, claiming responsibility for the attack. The group alleges the theft of 27 GB of sensitive data, including contracts, employee records, financial documents, and business forecasts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Western Sydney University Targeted in Widespread Email Scam Causing Student Distress<a href="https://thecyberexpress.com/western-sydney-university-email-scam/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Western Sydney University has been targeted in a widespread phishing scam involving fraudulent emails sent to students and alumni. These emails falsely claimed that recipients’ degrees had been revoked.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Shuyal Stealer Targets 17 Web Browsers for Login Data and Discord Tokens<a href="https://hackread.com/shuyal-stealer-web-browsers-login-data-discord-tokens/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new infostealer malware named Shuyal Stealer has been identified by a Threat Intelligence Team. This malware targets login credentials and Discord tokens from 17 different web browsers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Met Police Arrest Two Teens in Connection with Kido Attack<a href="https://www.infosecurity-magazine.com/news/met-police-arrest-two-teens-kido/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two teenagers have been arrested in Bishop’s Stortford, Hertfordshire, in connection with a ransomware attack on the Kido nursery group in London. The attackers, operating under the alias "Radiant," attempted to extort £600,000 in Bitcoin .
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Don’t connect your wallet: Best Wallet cryptocurrency scam is making the rounds<a href="https://www.malwarebytes.com/blog/news/2025/10/dont-connect-your-wallet-best-wallet-cryptocurrency-scam-is-making-the-rounds?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A phishing campaign is targeting cryptocurrency users by impersonating the Best Wallet app. The attackers aim to steal wallet credentials, private keys, and seed phrases by luring victims to a fake website that closely mimics the legitimate platform.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 8, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Military radio maker BK Technologies cops to cyber break-in<a href="https://www.theregister.com/2025/10/07/police_and_military_radio_maker_bk_admits_breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BK Technologies, a manufacturer of mission-critical communication radios for police, fire, and military services, has disclosed a cyber intrusion that resulted in the compromise of internal systems and potential exposure of employee data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 7, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
