@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+October 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Breach at Doctors Imaging Group Impacts 171,000 People<a href="https://www.securityweek.com/data-breach-at-doctors-imaging-group-impacts-171000-people/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant data breach at Doctors Imaging Group compromised the personal and medical information of over 171,000 individuals. Doctors Imaging Group experienced unauthorized access to its network between November 5 and November 11, 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang Qilin hacked Mecklenburg County, VA public schools<a href="https://www.comparitech.com/news/ransomware-gang-qilin-hacked-mecklenburg-county-va-public-schools/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Qilin ransomware group has claimed responsibility for a cyberattack on Mecklenburg County Public Schools (MCPS) in Virginia, which occurred in September 2025. The group alleges it exfiltrated 305 GB of sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fort Wayne Medical Education Program notifies 29,000+ people of data breach<a href="https://www.comparitech.com/news/fort-wayne-medical-education-program-notifies-29000-people-of-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Fort Wayne Medical Education Program (FWMEP), a medical residency program in Indiana, has disclosed a ransomware attack that compromised the personal data of 29,485 individuals, including employees and their dependents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 6, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

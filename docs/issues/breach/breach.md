@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+October 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Group Claims Attack on Beer Giant Asahi<a href="https://www.securityweek.com/ransomware-group-claims-attack-on-beer-giant-asahi/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russia-based Qilin ransomware group added Asahi to its leak site, claiming responsibility for the attack. The group alleges the theft of 27 GB of sensitive data, including contracts, employee records, financial documents, and business forecasts.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Military radio maker BK Technologies cops to cyber break-in<a href="https://www.theregister.com/2025/10/07/police_and_military_radio_maker_bk_admits_breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BK Technologies, a manufacturer of mission-critical communication radios for police, fire, and military services, has disclosed a cyber intrusion that resulted in the compromise of internal systems and potential exposure of employee data.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 7, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
