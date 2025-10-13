@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+October 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. CISA adds Grafana flaw to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/183192/hacking/u-s-cisa-adds-grafana-flaw-to-its-known-exploited-vulnerabilities-catalog.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a critical directory traversal vulnerability in Grafana, tracked as CVE-2021-43798 (CVSS score 7.5), to its Known Exploited Vulnerabilities (KEV) catalog.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 7, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

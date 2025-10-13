@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea IT worker scheme swells beyond US companies<a href="https://cyberscoop.com/north-korea-it-worker-global-scheme-okta/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have identified over 130 fake personas linked to more than 6,500 job interviews across approximately 5,000 companies over a four-year period through mid-2025.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Scoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean hackers stole over $2 billion in crypto this year<a href="https://www.bleepingcomputer.com/news/cryptocurrency/north-korean-hackers-stole-over-2-billion-in-crypto-this-year/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean threat actors have stolen over $2 billion in cryptocurrency assets in 2025, marking the largest annual total on record. The largest confirmed theft was the Bybit hack in February 2025, resulting in the loss of $1.46 billion.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 8, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
