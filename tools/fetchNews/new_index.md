@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 9, 2025
+October 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea IT worker scheme swells beyond US companies<a href="https://cyberscoop.com/north-korea-it-worker-global-scheme-okta/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have identified over 130 fake personas linked to more than 6,500 job interviews across approximately 5,000 companies over a four-year period through mid-2025.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean hackers stole over $2 billion in crypto this year<a href="https://www.bleepingcomputer.com/news/cryptocurrency/north-korean-hackers-stole-over-2-billion-in-crypto-this-year/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean threat actors have stolen over $2 billion in cryptocurrency assets in 2025, marking the largest annual total on record. The largest confirmed theft was the Bybit hack in February 2025, resulting in the loss of $1.46 billion.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Scammers Are Doing Architectural Design Now<a href="https://www.wired.com/story/north-korean-scammers-are-doing-architectural-design-now/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean operatives are expanding their cyber-enabled fraud operations into the architectural and civil engineering sectors. These actors are impersonating licensed professionals to secure freelance design jobs in the US.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. CISA adds Grafana flaw to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/183192/hacking/u-s-cisa-adds-grafana-flaw-to-its-known-exploited-vulnerabilities-catalog.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a critical directory traversal vulnerability in Grafana, tracked as CVE-2021-43798 (CVSS score 7.5), to its Known Exploited Vulnerabilities (KEV) catalog.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI Chatbots Used as Backdoors in New Cyberattacks<a href="https://www.esecurityplanet.com/news/ai-exploited-prompt-injection/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign targets enterprises across finance, healthcare, and technology sectors that have adopted LLM chatbots for customer service and automation. Attackers have successfully exfiltrated internal system data and more.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Payroll pirate' hackers diverting salary payments from university employees, Microsoft says<a href="https://therecord.media/universities-phishing-payroll-pirates?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Storm-2657 is targeting U.S. universities to hijack employee payroll accounts. At least 11 accounts across three universities were compromised to send phishing emails to nearly 6,000 recipients across 25 universities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+77% of Employees Leak Data via ChatGPT, Report Finds<a href="https://www.esecurityplanet.com/news/shadow-ai-chatgpt-dlp/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+18% of enterprise employees paste data into generative AI tools, and over 50% of those pastes include corporate information. Notably, 77% of online LLM access is to ChatGPT, with 43% of enterprise users engaging with ChatGPT alone.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Cascade of Insecure Architectures: Axis Plugin Design Flaw Expose Select Autodesk Revit Users to Supply Chain Risk<a href="https://www.trendmicro.com/en_us/research/25/j/axis-plugin-flaw-autodesk-revit-supply-chain-risk.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A supply chain vulnerability was found in the Axis Plugin for Autodesk Revit, where hard-coded Azure Storage Account credentials were embedded in signed DLLs. These credentials enabled unauthorized access to cloud-hosted MSI installers and RFA files.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Legit tools, illicit uses: Velociraptor, Nezha turned against victims<a href="https://www.helpnetsecurity.com/2025/10/09/velociraptor-nezha-attackers-misuse/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are increasingly abusing legitimate open-source tools for malicious purposes. Recent campaigns have seen the misuse of Velociraptor and Nezha to maintain persistence, exfiltrate data, and deploy ransomware and RATs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang says it hacked merchandise distributor SRP not once, but twice<a href="https://www.comparitech.com/news/ransomware-gang-says-it-hacked-merchandise-distributor-srp-not-once-but-twice/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Strategic Retail Partners (SRP), a major North American merchandise distributor, experienced a ransomware attack in February 2025, with the Medusa gang claiming responsibility. The breach exposed sensitive personal data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 9, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitLab security advisory (AV25-650)<a href="https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av25-650?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ GitLab security advisory (AV25-650)<a href="https://www.cyber.gc.ca/en/alerts-ad
 GitLab issued a security advisory (AV25-650) addressing multiple vulnerabilities in GitLab Community Edition (CE) and Enterprise Edition (EE). The vulnerabilities affect versions prior to 18.4.2, 18.3.4, and 18.2.8.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Government of Canada
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 9, 2025
+October 9, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Open Web Analytics SQL Injection<a href="https://seclists.org/fulldisclosure/2025/Oct/5?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Open Web Analytics SQL Injection<a href="https://seclists.org/fulldisclosure/202
 A high-severity SQL injection vulnerability (CVE-2025-59397) has been identified in Open Web Analytics (OWA) version 1.8.0 and likely affects earlier versions. The flaw allows authenticated users to inject arbitrary SQL commands.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+SecLists
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 8, 2025
+October 8, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mic-E-Mouse: When Your Gaming Mouse Becomes a Microphone<a href="https://www.esecurityplanet.com/threats/mic-e-mouse-when-your-gaming-mouse-becomes-a-microphone/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Mic-E-Mouse: When Your Gaming Mouse Becomes a Microphone<a href="https://www.ese
 A novel side-channel attack named Mic-E-Mouse has been demonstrated, leveraging high-DPI optical mouse sensors to capture desk vibrations and reconstruct nearby speech. This technique transforms a common input device into a covert surveillance tool.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ESecurity Planet
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 8, 2025
+October 8, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 “Can you test my game?” Fake itch.io pages spread hidden malware to gamers<a href="https://www.malwarebytes.com/blog/threat-intel/2025/10/can-you-test-my-game-fake-itch-io-pages-spread-hidden-malware-to-gamers?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ October 8, 2025
 The campaign leverages compromised Discord accounts to send direct messages asking users to test a game. Victims are redirected to convincing fake game pages hosted on Blogspot subdomains or cloud services.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Malware Bytes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 8, 2025
+October 8, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Group Claims Attack on Beer Giant Asahi<a href="https://www.securityweek.com/ransomware-group-claims-attack-on-beer-giant-asahi/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Ransomware Group Claims Attack on Beer Giant Asahi<a href="https://www.securityw
 The Russia-based Qilin ransomware group added Asahi to its leak site, claiming responsibility for the attack. The group alleges the theft of 27 GB of sensitive data, including contracts, employee records, financial documents, and business forecasts.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Week
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 8, 2025
+October 8, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Western Sydney University Targeted in Widespread Email Scam Causing Student Distress<a href="https://thecyberexpress.com/western-sydney-university-email-scam/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Western Sydney University Targeted in Widespread Email Scam Causing Student Dist
 Western Sydney University has been targeted in a widespread phishing scam involving fraudulent emails sent to students and alumni. These emails falsely claimed that recipients’ degrees had been revoked.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 8, 2025
+October 8, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Shuyal Stealer Targets 17 Web Browsers for Login Data and Discord Tokens<a href="https://hackread.com/shuyal-stealer-web-browsers-login-data-discord-tokens/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ New Shuyal Stealer Targets 17 Web Browsers for Login Data and Discord Tokens<a h
 A new infostealer malware named Shuyal Stealer has been identified by a Threat Intelligence Team. This malware targets login credentials and Discord tokens from 17 different web browsers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 8, 2025
+October 8, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Met Police Arrest Two Teens in Connection with Kido Attack<a href="https://www.infosecurity-magazine.com/news/met-police-arrest-two-teens-kido/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Met Police Arrest Two Teens in Connection with Kido Attack<a href="https://www.i
 Two teenagers have been arrested in Bishop’s Stortford, Hertfordshire, in connection with a ransomware attack on the Kido nursery group in London. The attackers, operating under the alias "Radiant," attempted to extort £600,000 in Bitcoin .
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 8, 2025
+October 8, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Don’t connect your wallet: Best Wallet cryptocurrency scam is making the rounds<a href="https://www.malwarebytes.com/blog/news/2025/10/dont-connect-your-wallet-best-wallet-cryptocurrency-scam-is-making-the-rounds?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Don’t connect your wallet: Best Wallet cryptocurrency scam is making the round
 A phishing campaign is targeting cryptocurrency users by impersonating the Best Wallet app. The attackers aim to steal wallet credentials, private keys, and seed phrases by luring victims to a fake website that closely mimics the legitimate platform.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Malware Bytes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 8, 2025
+October 8, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Military radio maker BK Technologies cops to cyber break-in<a href="https://www.theregister.com/2025/10/07/police_and_military_radio_maker_bk_admits_breach/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Military radio maker BK Technologies cops to cyber break-in<a href="https://www.
 BK Technologies, a manufacturer of mission-critical communication radios for police, fire, and military services, has disclosed a cyber intrusion that resulted in the compromise of internal systems and potential exposure of employee data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -204,7 +364,7 @@ October 7, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilitie
 ABB has disclosed a high-severity vulnerability (CVE-2021-22291) affecting its EIBPORT V3 KNX and EIBPORT V3 KNX GSM products. The vulnerability, rated with a CVSS score of 8.5, involves improper input neutralization during web page generation.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Government of Canada
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -220,7 +380,7 @@ New Mic-E-Mouse Attack Shows Computer Mice Can Capture Conversations<a href="htt
 Security researchers have unveiled a novel side-channel attack named Mic-E-Mouse, which exploits high-DPI optical sensors in modern computer mice to capture and reconstruct human speech.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -236,7 +396,7 @@ Data Breach at Doctors Imaging Group Impacts 171,000 People<a href="https://www.
 A significant data breach at Doctors Imaging Group compromised the personal and medical information of over 171,000 individuals. Doctors Imaging Group experienced unauthorized access to its network between November 5 and November 11, 2024.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Week
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -252,7 +412,7 @@ Phishers target 1Password users with convincing fake breach alert<a href="https:
 A recent spear-phishing campaign targeted a Malwarebytes employee with a convincing fake breach alert impersonating 1Password’s Watchtower service. The attackers aimed to steal the victim’s 1Password credentials.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Malware Bytes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -268,7 +428,7 @@ Known Exploited Vulnerabilities Catalog<a href="https://www.cisa.gov/known-explo
 A critical RCE bug affects multiple Mozilla products including Firefox, Thunderbird, and SeaMonkey. This flaw, which occurs when JavaScript is enabled, allows remote attackers to execute arbitrary code by exploiting memory corruption.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CISA
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -284,7 +444,7 @@ Known Exploited Vulnerabilities Catalog<a href="https://www.cisa.gov/known-explo
 A critical heap out-of-bounds write vulnerability, tracked as CVE-2021-22555, has been identified in the Linux Kernel. This flaw allows attackers to escalate privileges or cause a DoS condition via heap memory corruption through user namespaces.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CISA
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -300,7 +460,7 @@ Known Exploited Vulnerabilities Catalog<a href="https://www.cisa.gov/known-explo
 CVE-2011-3402 is a critical remote code execution vulnerability in Microsoft Windows, stemming from a flaw in the TrueType font parsing engine within the win32k.sys kernel-mode driver.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CISA
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -316,7 +476,7 @@ Known Exploited Vulnerabilities Catalog<a href="https://www.cisa.gov/known-explo
 A critical out-of-bounds write vulnerability has been identified in Microsoft Windows, specifically within the InformationCardSigninHelper Class ActiveX control. This flaw allows remote code execution when a user visits a malicious webpage.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CISA
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -332,7 +492,7 @@ Ransomware gang Qilin hacked Mecklenburg County, VA public schools<a href="https
 The Qilin ransomware group has claimed responsibility for a cyberattack on Mecklenburg County Public Schools (MCPS) in Virginia, which occurred in September 2025. The group alleges it exfiltrated 305 GB of sensitive data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CompariTech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -348,7 +508,7 @@ Fort Wayne Medical Education Program notifies 29,000+ people of data breach<a hr
 The Fort Wayne Medical Education Program (FWMEP), a medical residency program in Indiana, has disclosed a ransomware attack that compromised the personal data of 29,485 individuals, including employees and their dependents.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CompariTech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

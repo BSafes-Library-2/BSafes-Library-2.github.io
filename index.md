@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea IT worker scheme swells beyond US companies<a href="https://cyberscoop.com/north-korea-it-worker-global-scheme-okta/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have identified over 130 fake personas linked to more than 6,500 job interviews across approximately 5,000 companies over a four-year period through mid-2025.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean hackers stole over $2 billion in crypto this year<a href="https://www.bleepingcomputer.com/news/cryptocurrency/north-korean-hackers-stole-over-2-billion-in-crypto-this-year/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean threat actors have stolen over $2 billion in cryptocurrency assets in 2025, marking the largest annual total on record. The largest confirmed theft was the Bybit hack in February 2025, resulting in the loss of $1.46 billion.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Scammers Are Doing Architectural Design Now<a href="https://www.wired.com/story/north-korean-scammers-are-doing-architectural-design-now/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean operatives are expanding their cyber-enabled fraud operations into the architectural and civil engineering sectors. These actors are impersonating licensed professionals to secure freelance design jobs in the US.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. CISA adds Grafana flaw to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/183192/hacking/u-s-cisa-adds-grafana-flaw-to-its-known-exploited-vulnerabilities-catalog.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a critical directory traversal vulnerability in Grafana, tracked as CVE-2021-43798 (CVSS score 7.5), to its Known Exploited Vulnerabilities (KEV) catalog.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI Chatbots Used as Backdoors in New Cyberattacks<a href="https://www.esecurityplanet.com/news/ai-exploited-prompt-injection/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign targets enterprises across finance, healthcare, and technology sectors that have adopted LLM chatbots for customer service and automation. Attackers have successfully exfiltrated internal system data and more.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Payroll pirate' hackers diverting salary payments from university employees, Microsoft says<a href="https://therecord.media/universities-phishing-payroll-pirates?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Storm-2657 is targeting U.S. universities to hijack employee payroll accounts. At least 11 accounts across three universities were compromised to send phishing emails to nearly 6,000 recipients across 25 universities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+77% of Employees Leak Data via ChatGPT, Report Finds<a href="https://www.esecurityplanet.com/news/shadow-ai-chatgpt-dlp/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+18% of enterprise employees paste data into generative AI tools, and over 50% of those pastes include corporate information. Notably, 77% of online LLM access is to ChatGPT, with 43% of enterprise users engaging with ChatGPT alone.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Cascade of Insecure Architectures: Axis Plugin Design Flaw Expose Select Autodesk Revit Users to Supply Chain Risk<a href="https://www.trendmicro.com/en_us/research/25/j/axis-plugin-flaw-autodesk-revit-supply-chain-risk.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A supply chain vulnerability was found in the Axis Plugin for Autodesk Revit, where hard-coded Azure Storage Account credentials were embedded in signed DLLs. These credentials enabled unauthorized access to cloud-hosted MSI installers and RFA files.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Legit tools, illicit uses: Velociraptor, Nezha turned against victims<a href="https://www.helpnetsecurity.com/2025/10/09/velociraptor-nezha-attackers-misuse/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are increasingly abusing legitimate open-source tools for malicious purposes. Recent campaigns have seen the misuse of Velociraptor and Nezha to maintain persistence, exfiltrate data, and deploy ransomware and RATs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang says it hacked merchandise distributor SRP not once, but twice<a href="https://www.comparitech.com/news/ransomware-gang-says-it-hacked-merchandise-distributor-srp-not-once-but-twice/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Strategic Retail Partners (SRP), a major North American merchandise distributor, experienced a ransomware attack in February 2025, with the Medusa gang claiming responsibility. The breach exposed sensitive personal data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 9, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
