@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitLab security advisory (AV25-650)<a href="https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av25-650?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitLab issued a security advisory (AV25-650) addressing multiple vulnerabilities in GitLab Community Edition (CE) and Enterprise Edition (EE). The vulnerabilities affect versions prior to 18.4.2, 18.3.4, and 18.2.8.
+</details>
+<div style="text-align: right" markdown="1">
+Government of Canada
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Open Web Analytics SQL Injection<a href="https://seclists.org/fulldisclosure/2025/Oct/5?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity SQL injection vulnerability (CVE-2025-59397) has been identified in Open Web Analytics (OWA) version 1.8.0 and likely affects earlier versions. The flaw allows authenticated users to inject arbitrary SQL commands.
+</details>
+<div style="text-align: right" markdown="1">
+SecLists
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 7, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

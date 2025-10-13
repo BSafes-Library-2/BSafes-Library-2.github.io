@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Cascade of Insecure Architectures: Axis Plugin Design Flaw Expose Select Autodesk Revit Users to Supply Chain Risk<a href="https://www.trendmicro.com/en_us/research/25/j/axis-plugin-flaw-autodesk-revit-supply-chain-risk.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A supply chain vulnerability was found in the Axis Plugin for Autodesk Revit, where hard-coded Azure Storage Account credentials were embedded in signed DLLs. These credentials enabled unauthorized access to cloud-hosted MSI installers and RFA files.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 9, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

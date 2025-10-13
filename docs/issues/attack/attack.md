@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+October 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI Chatbots Used as Backdoors in New Cyberattacks<a href="https://www.esecurityplanet.com/news/ai-exploited-prompt-injection/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign targets enterprises across finance, healthcare, and technology sectors that have adopted LLM chatbots for customer service and automation. Attackers have successfully exfiltrated internal system data and more.
+</details>
+<div style="text-align: right" markdown="1">
+ESecurity Planet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 8, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

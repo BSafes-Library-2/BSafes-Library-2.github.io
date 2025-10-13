@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+October 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Scammers Are Doing Architectural Design Now<a href="https://www.wired.com/story/north-korean-scammers-are-doing-architectural-design-now/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean operatives are expanding their cyber-enabled fraud operations into the architectural and civil engineering sectors. These actors are impersonating licensed professionals to secure freelance design jobs in the US.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+77% of Employees Leak Data via ChatGPT, Report Finds<a href="https://www.esecurityplanet.com/news/shadow-ai-chatgpt-dlp/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+18% of enterprise employees paste data into generative AI tools, and over 50% of those pastes include corporate information. Notably, 77% of online LLM access is to ChatGPT, with 43% of enterprise users engaging with ChatGPT alone.
+</details>
+<div style="text-align: right" markdown="1">
+ESecurity Planet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Legit tools, illicit uses: Velociraptor, Nezha turned against victims<a href="https://www.helpnetsecurity.com/2025/10/09/velociraptor-nezha-attackers-misuse/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are increasingly abusing legitimate open-source tools for malicious purposes. Recent campaigns have seen the misuse of Velociraptor and Nezha to maintain persistence, exfiltrate data, and deploy ransomware and RATs.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 23, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

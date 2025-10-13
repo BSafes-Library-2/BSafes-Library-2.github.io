@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+October 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mic-E-Mouse: When Your Gaming Mouse Becomes a Microphone<a href="https://www.esecurityplanet.com/threats/mic-e-mouse-when-your-gaming-mouse-becomes-a-microphone/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A novel side-channel attack named Mic-E-Mouse has been demonstrated, leveraging high-DPI optical mouse sensors to capture desk vibrations and reconstruct nearby speech. This technique transforms a common input device into a covert surveillance tool.
+</details>
+<div style="text-align: right" markdown="1">
+ESecurity Planet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 6, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

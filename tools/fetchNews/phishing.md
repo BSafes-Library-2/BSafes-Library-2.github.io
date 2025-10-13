@@ -8,6 +8,48 @@ nav_order: 900160
 
 ## Phishing
 ---
+October 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+“Can you test my game?” Fake itch.io pages spread hidden malware to gamers<a href="https://www.malwarebytes.com/blog/threat-intel/2025/10/can-you-test-my-game-fake-itch-io-pages-spread-hidden-malware-to-gamers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign leverages compromised Discord accounts to send direct messages asking users to test a game. Victims are redirected to convincing fake game pages hosted on Blogspot subdomains or cloud services.
+</details>
+<div style="text-align: right" markdown="1">
+Malware Bytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Western Sydney University Targeted in Widespread Email Scam Causing Student Distress<a href="https://thecyberexpress.com/western-sydney-university-email-scam/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Western Sydney University has been targeted in a widespread phishing scam involving fraudulent emails sent to students and alumni. These emails falsely claimed that recipients’ degrees had been revoked.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Don’t connect your wallet: Best Wallet cryptocurrency scam is making the rounds<a href="https://www.malwarebytes.com/blog/news/2025/10/dont-connect-your-wallet-best-wallet-cryptocurrency-scam-is-making-the-rounds?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A phishing campaign is targeting cryptocurrency users by impersonating the Best Wallet app. The attackers aim to steal wallet credentials, private keys, and seed phrases by luring victims to a fake website that closely mimics the legitimate platform.
+</details>
+<div style="text-align: right" markdown="1">
+Malware Bytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 7, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

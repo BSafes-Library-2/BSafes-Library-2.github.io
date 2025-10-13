@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 8, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Met Police Arrest Two Teens in Connection with Kido Attack<a href="https://www.infosecurity-magazine.com/news/met-police-arrest-two-teens-kido/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two teenagers have been arrested in Bishop’s Stortford, Hertfordshire, in connection with a ransomware attack on the Kido nursery group in London. The attackers, operating under the alias "Radiant," attempted to extort £600,000 in Bitcoin .
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 30, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

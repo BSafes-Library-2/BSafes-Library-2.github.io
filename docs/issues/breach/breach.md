@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+October 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Payroll pirate' hackers diverting salary payments from university employees, Microsoft says<a href="https://therecord.media/universities-phishing-payroll-pirates?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Storm-2657 is targeting U.S. universities to hijack employee payroll accounts. At least 11 accounts across three universities were compromised to send phishing emails to nearly 6,000 recipients across 25 universities.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang says it hacked merchandise distributor SRP not once, but twice<a href="https://www.comparitech.com/news/ransomware-gang-says-it-hacked-merchandise-distributor-srp-not-once-but-twice/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Strategic Retail Partners (SRP), a major North American merchandise distributor, experienced a ransomware attack in February 2025, with the Medusa gang claiming responsibility. The breach exposed sensitive personal data.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 8, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
