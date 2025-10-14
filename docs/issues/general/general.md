@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+October 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+When hackers hit, patient safety takes the fall<a href="https://www.helpnetsecurity.com/2025/10/13/report-cyberattacks-disrupt-patient-care/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+93% of U.S. healthcare organizations experienced at least one cyberattack in the past year, with an average of 43 incidents per organization. 72% of respondents said at least one incident disrupted patient care.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 11, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
