@@ -34,7 +34,135 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2025
+October 15, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Invoicely Data Leak Exposes 178K Customer Records<a href="https://www.esecurityplanet.com/news/invoicely-178k-records-cloud-misconfiguration/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In October 2025, researchers discovered an unprotected Amazon S3 bucket linked to Invoicely, a Vienna-based SaaS invoicing platform. The misconfigured bucket exposed 178,519 sensitive documents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious crypto-stealing VSCode extensions resurface on OpenVSX<a href="https://www.bleepingcomputer.com/news/security/malicious-crypto-stealing-vscode-extensions-resurface-on-openvsx/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor known as TigerJack is actively distributing malicious VSCode extensions to steal crypto, exfiltrate source code, and execute arbitrary code. Researchers have identified at least 11 malicious VSCode extensions distributed by TigerJack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Use Court-Themed Phishing to Deliver Info-Stealer Malware<a href="https://gbhackers.com/info-stealer-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The sophisticated attack begins with a carefully crafted Spanish-language email impersonating the “17th Municipal Civil Court of the Bogotá Circuit,” complete with formal legal language and institutional details.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Secure Boot bypass risk threatens nearly 200,000 Linux Framework laptops<a href="https://www.bleepingcomputer.com/news/security/secure-boot-bypass-risk-on-nearly-200-000-linux-framework-sytems/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Around 200,000 Linux computer systems from American computer maker Framework were shipped with signed UEFI shell components that could be exploited to bypass Secure Boot protections.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Satellites found exposing unencrypted data, including phone calls and some military comms<a href="https://techcrunch.com/2025/10/14/satellites-found-exposing-unencrypted-data-including-phone-calls-and-some-military-comms/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have discovered that as many as half of all geostationary satellites in Earth’s orbit are carrying unencrypted sensitive consumer, corporate, and military information, making this data wide open to eavesdropping.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clevo UEFI Leak Allows Signing of Malicious Firmware with BootGuard Keys<a href="https://gbhackers.com/clevo-uefi-leak-allows-malicious-firmware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Clevo accidentally exposed private keys used in its Intel Boot Guard implementation, allowing attackers to sign malicious firmware that would be trusted during the earliest boot stages.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK hit by record number of ‘nationally significant’ cyberattacks<a href="https://therecord.media/uk-hit-by-record-number-significant-cyberattacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A record number of “nationally significant” cyberattacks hit the United Kingdom last year, the National Cyber Security Centre (NCSC) is to announce on Tuesday as it publishes its annual review for 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+178,000+ Invoices Expose Customer Data from Invoicely Platform<a href="https://gbhackers.com/customer-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant data exposure incident has affected the cloud-based invoicing platform Invoicely, potentially compromising sensitive information belonging to customers worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 13, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 When hackers hit, patient safety takes the fall<a href="https://www.helpnetsecurity.com/2025/10/13/report-cyberattacks-disrupt-patient-care/?&web_view=true"> Full Text</a>
@@ -44,13 +172,13 @@ When hackers hit, patient safety takes the fall<a href="https://www.helpnetsecur
 93% of U.S. healthcare organizations experienced at least one cyberattack in the past year, with an average of 43 incidents per organization. 72% of respondents said at least one incident disrupted patient care.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2025
+October 13, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Oracle E-Business Suite Flaw Enables Remote Code Execution and Data Theft<a href="https://gbhackers.com/oracle-e-business-suite-flaw/?&web_view=true"> Full Text</a>
@@ -60,13 +188,13 @@ Oracle E-Business Suite Flaw Enables Remote Code Execution and Data Theft<a href
 Oracle has issued a critical security alert for a severe vulnerability in its E-Business Suite platform that could allow attackers to execute remote code and steal sensitive data without requiring authentication.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2025
+October 13, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SonicWall SSLVPN Targeted After Hackers Breach All Customer Firewall Backups<a href="https://gbhackers.com/sonicwall-sslvpn-targeted/?&web_view=true"> Full Text</a>
@@ -76,13 +204,13 @@ SonicWall SSLVPN Targeted After Hackers Breach All Customer Firewall Backups<a h
 Cybersecurity researchers at Huntress have detected a widespread attack campaign targeting SonicWall SSL VPN devices across multiple customer environments, with over 100 accounts compromised since early October.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2025
+October 13, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Rust-Based Malware "ChaosBot" Uses Discord Channels to Control Victims' PCs<a href="https://thehackernews.com/2025/10/new-rust-based-malware-chaosbot-hijacks.html?&web_view=true"> Full Text</a>
@@ -92,13 +220,13 @@ New Rust-Based Malware "ChaosBot" Uses Discord Channels to Control Victims' PCs<
 Cybersecurity researchers have disclosed details of a new Rust-based backdoor called ChaosBot that can allow operators to conduct reconnaissance and execute arbitrary commands on compromised hosts.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2025
+October 13, 2025 - [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spanish Authorities Dismantle Advanced AI Phishing Operation GoogleXcoder<a href="https://gbhackers.com/spanish-authorities-dismantle-advanced-ai-phishing-operation/?&web_view=true"> Full Text</a>
@@ -108,13 +236,13 @@ Spanish Authorities Dismantle Advanced AI Phishing Operation GoogleXcoder<a href
 Spanish law enforcement recently dismantled an advanced AI-driven phishing network and arrested the mastermind developer known as “GoogleXcoder.” This operation marks a significant victory in the fight against banking credential theft in Spain.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2025
+October 13, 2025 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kearney Public Schools Hit by Cyberattack, Network and Phones Down Ahead of Monday Classes<a href="https://thecyberexpress.com/kearney-public-schools-hit-by-cyberattack/?&web_view=true"> Full Text</a>
@@ -124,13 +252,13 @@ Kearney Public Schools Hit by Cyberattack, Network and Phones Down Ahead of Mond
 Kearney Public Schools (KPS) is fighting with a cybersecurity incident that has disrupted its entire technology network, affecting phones, computers, and other digital systems across the district.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2025
+October 13, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WhatsApp Worm Targets Users with Banking Malware, Steals Login Information<a href="https://gbhackers.com/whatsapp-worm/?&web_view=true"> Full Text</a>
@@ -140,13 +268,13 @@ WhatsApp Worm Targets Users with Banking Malware, Steals Login Information<a hre
 The most concerning aspect of this campaign is its self-propagating nature. After successful infection, the malware attempts to spread itself to the victim’s WhatsApp contacts, creating an exponential distribution network that leverages social trust.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2025
+October 13, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Astaroth Banking Trojan Abuses GitHub to Remain Operational After Takedowns<a href="https://thehackernews.com/2025/10/astaroth-banking-trojan-abuses-github.html?&web_view=true"> Full Text</a>
@@ -156,13 +284,13 @@ Astaroth Banking Trojan Abuses GitHub to Remain Operational After Takedowns<a hr
 Cybersecurity researchers are calling attention to a new campaign that delivers the Astaroth banking trojan that employs GitHub as a backbone for its operations to stay resilient in the face of infrastructure takedowns.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2025
+October 13, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stealit Malware spreads via fake game & VPN installers on Mediafire and Discord<a href="https://securityaffairs.com/183290/malware/stealit-malware-spreads-via-fake-game-vpn-installers-on-mediafire-and-discord.html?&web_view=true"> Full Text</a>
@@ -172,7 +300,7 @@ Stealit Malware spreads via fake game & VPN installers on Mediafire and Discord<
 Fortinet FortiGuard Labs researchers spotted Stealit malware campaign abusing Node.js Single Executable Application (SEA) and sometimes Electron to spread via fake game and VPN installers on Mediafire and Discord.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
