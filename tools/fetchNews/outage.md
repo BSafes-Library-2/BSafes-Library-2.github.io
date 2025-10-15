@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+October 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kearney Public Schools Hit by Cyberattack, Network and Phones Down Ahead of Monday Classes<a href="https://thecyberexpress.com/kearney-public-schools-hit-by-cyberattack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kearney Public Schools (KPS) is fighting with a cybersecurity incident that has disrupted its entire technology network, affecting phones, computers, and other digital systems across the district.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 30, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

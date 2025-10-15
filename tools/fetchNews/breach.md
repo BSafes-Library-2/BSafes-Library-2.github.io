@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+October 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall SSLVPN Targeted After Hackers Breach All Customer Firewall Backups<a href="https://gbhackers.com/sonicwall-sslvpn-targeted/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers at Huntress have detected a widespread attack campaign targeting SonicWall SSL VPN devices across multiple customer environments, with over 100 accounts compromised since early October.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 10, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

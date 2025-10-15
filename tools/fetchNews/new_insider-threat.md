@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+October 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Invoicely Data Leak Exposes 178K Customer Records<a href="https://www.esecurityplanet.com/news/invoicely-178k-records-cloud-misconfiguration/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In October 2025, researchers discovered an unprotected Amazon S3 bucket linked to Invoicely, a Vienna-based SaaS invoicing platform. The misconfigured bucket exposed 178,519 sensitive documents.
+</details>
+<div style="text-align: right" markdown="1">
+ESecurity Planet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 22, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

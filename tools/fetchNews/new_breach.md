@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+October 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+178,000+ Invoices Expose Customer Data from Invoicely Platform<a href="https://gbhackers.com/customer-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant data exposure incident has affected the cloud-based invoicing platform Invoicely, potentially compromising sensitive information belonging to customers worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 13, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

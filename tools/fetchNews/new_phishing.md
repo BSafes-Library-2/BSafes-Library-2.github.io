@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+October 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Use Court-Themed Phishing to Deliver Info-Stealer Malware<a href="https://gbhackers.com/info-stealer-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The sophisticated attack begins with a carefully crafted Spanish-language email impersonating the “17th Municipal Civil Court of the Bogotá Circuit,” complete with formal legal language and institutional details.
+</details>
+<div style="text-align: right" markdown="1">
+GBHakcers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 8, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
