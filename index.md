@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WatchGuard security advisory (AV25-677)<a href="https://www.cyber.gc.ca/en/alerts-advisories/watchguard-security-advisory-av25-677?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WatchGuard has issued a security advisory (AV25-677) addressing a critical vulnerability in Fireware OS. The vulnerability, identified as an Out of Bounds Write in the iked component, affects multiple versions of the operating system.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Whisper 2FA Behind One Million Phishing Attempts Since July<a href="https://www.infosecurity-magazine.com/news/whisper-2fa-behind-1m-phishing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Whisper 2FA is a sophisticated phishing-as-a-service (PhaaS) platform responsible for nearly one million phishing attacks since July 2025. It ranks as the third most active phishing kit globally, following Tycoon and EvilProxy.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GhostBat RAT Returns with Fake RTO Apps Targeting Indian Android Users with Telegram Bot-Driven Malware<a href="https://thecyberexpress.com/ghostbat-rat/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Android malware campaign, GhostBat RAT, is actively targeting Indian users by impersonating the legitimate mParivahan app. This malware is designed to steal financial data, mine cryptocurrency, and exfiltrate SMS messages.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang says it hacked Kearney Public Schools, but district says it didn’t get ransom demand<a href="https://www.comparitech.com/news/ransomware-gang-says-it-hacked-kearney-public-schools-but-district-says-it-didnt-get-ransom-demand/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kearney Public Schools in Nebraska experienced a ransomware attack attributed to the Interlock gang, which claims to have stolen 354 GB of sensitive data, including personal, financial, and third-party information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Known Exploited Vulnerabilities Catalog<a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2025-54253?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability affects Adobe Experience Manager Forms JEE. This flaw allows attackers to execute arbitrary code on affected systems. The vulnerability has been added to CISA’s KEV catalog, indicating confirmed exploitation in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qilin Ransomware and the Ghost Bulletproof Hosting Conglomerate<a href="https://www.resecurity.com/blog/article/qilin-ransomware-and-the-ghost-bulletproof-hosting-conglomerate?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Qilin is a sophisticated Ransomware-as-a-Service (RaaS) group that emerged in 2022 and has since targeted high-value organizations globally. The group leverages bulletproof hosting (BPH) infrastructure to evade law enforcement and sustain operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake LastPass, Bitwarden breach alerts lead to PC hijacks<a href="https://www.bleepingcomputer.com/news/security/fake-lastpass-bitwarden-breach-alerts-lead-to-pc-hijacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign was strategically launched over the Columbus Day holiday weekend to exploit reduced staffing and delay detection. The phishing emails impersonate official communications from LastPass and Bitwarden.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco security advisory (AV25-672)<a href="https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av25-672?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has released a security advisory, addressing multiple vulnerabilities across a range of its products. These vulnerabilities affect various Cisco collaboration and communication platforms.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco must share more information about effects of severe bugs on businesses, senator says<a href="https://therecord.media/cisco-asa-vulnerabilities-sen-bill-cassidy-questions?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two critical vulnerabilities—CVE-2025-30333 and CVE-2025-20362—affecting Cisco Adaptive Security Appliances (ASA) have triggered an emergency directive from CISA, requiring immediate patching by federal agencies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation Zero Disco: Attackers Exploit Cisco SNMP Vulnerability to Deploy Rootkits<a href="https://www.trendmicro.com/en_us/research/25/j/operation-zero-disco-cisco-snmp-vulnerability-exploit.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new attack campaign, dubbed Operation Zero Disco, exploits the Cisco SNMP vulnerability CVE-2025-20352 to deploy Linux rootkits on unprotected Cisco devices. The campaign targets Cisco 9400, 9300, and legacy 3750G series switches.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 15, 2025 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

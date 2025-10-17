@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 15, 2025
+October 17, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WatchGuard security advisory (AV25-677)<a href="https://www.cyber.gc.ca/en/alerts-advisories/watchguard-security-advisory-av25-677?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WatchGuard has issued a security advisory (AV25-677) addressing a critical vulnerability in Fireware OS. The vulnerability, identified as an Out of Bounds Write in the iked component, affects multiple versions of the operating system.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Whisper 2FA Behind One Million Phishing Attempts Since July<a href="https://www.infosecurity-magazine.com/news/whisper-2fa-behind-1m-phishing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Whisper 2FA is a sophisticated phishing-as-a-service (PhaaS) platform responsible for nearly one million phishing attacks since July 2025. It ranks as the third most active phishing kit globally, following Tycoon and EvilProxy.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GhostBat RAT Returns with Fake RTO Apps Targeting Indian Android Users with Telegram Bot-Driven Malware<a href="https://thecyberexpress.com/ghostbat-rat/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Android malware campaign, GhostBat RAT, is actively targeting Indian users by impersonating the legitimate mParivahan app. This malware is designed to steal financial data, mine cryptocurrency, and exfiltrate SMS messages.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang says it hacked Kearney Public Schools, but district says it didn’t get ransom demand<a href="https://www.comparitech.com/news/ransomware-gang-says-it-hacked-kearney-public-schools-but-district-says-it-didnt-get-ransom-demand/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kearney Public Schools in Nebraska experienced a ransomware attack attributed to the Interlock gang, which claims to have stolen 354 GB of sensitive data, including personal, financial, and third-party information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Known Exploited Vulnerabilities Catalog<a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2025-54253?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability affects Adobe Experience Manager Forms JEE. This flaw allows attackers to execute arbitrary code on affected systems. The vulnerability has been added to CISA’s KEV catalog, indicating confirmed exploitation in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qilin Ransomware and the Ghost Bulletproof Hosting Conglomerate<a href="https://www.resecurity.com/blog/article/qilin-ransomware-and-the-ghost-bulletproof-hosting-conglomerate?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Qilin is a sophisticated Ransomware-as-a-Service (RaaS) group that emerged in 2022 and has since targeted high-value organizations globally. The group leverages bulletproof hosting (BPH) infrastructure to evade law enforcement and sustain operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake LastPass, Bitwarden breach alerts lead to PC hijacks<a href="https://www.bleepingcomputer.com/news/security/fake-lastpass-bitwarden-breach-alerts-lead-to-pc-hijacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign was strategically launched over the Columbus Day holiday weekend to exploit reduced staffing and delay detection. The phishing emails impersonate official communications from LastPass and Bitwarden.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco security advisory (AV25-672)<a href="https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av25-672?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has released a security advisory, addressing multiple vulnerabilities across a range of its products. These vulnerabilities affect various Cisco collaboration and communication platforms.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco must share more information about effects of severe bugs on businesses, senator says<a href="https://therecord.media/cisco-asa-vulnerabilities-sen-bill-cassidy-questions?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two critical vulnerabilities—CVE-2025-30333 and CVE-2025-20362—affecting Cisco Adaptive Security Appliances (ASA) have triggered an emergency directive from CISA, requiring immediate patching by federal agencies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation Zero Disco: Attackers Exploit Cisco SNMP Vulnerability to Deploy Rootkits<a href="https://www.trendmicro.com/en_us/research/25/j/operation-zero-disco-cisco-snmp-vulnerability-exploit.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new attack campaign, dubbed Operation Zero Disco, exploits the Cisco SNMP vulnerability CVE-2025-20352 to deploy Linux rootkits on unprotected Cisco devices. The campaign targets Cisco 9400, 9300, and legacy 3750G series switches.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2025 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Invoicely Data Leak Exposes 178K Customer Records<a href="https://www.esecurityplanet.com/news/invoicely-178k-records-cloud-misconfiguration/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Invoicely Data Leak Exposes 178K Customer Records<a href="https://www.esecurityp
 In October 2025, researchers discovered an unprotected Amazon S3 bucket linked to Invoicely, a Vienna-based SaaS invoicing platform. The misconfigured bucket exposed 178,519 sensitive documents.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ESecurity Planet
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 15, 2025
+October 15, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious crypto-stealing VSCode extensions resurface on OpenVSX<a href="https://www.bleepingcomputer.com/news/security/malicious-crypto-stealing-vscode-extensions-resurface-on-openvsx/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Malicious crypto-stealing VSCode extensions resurface on OpenVSX<a href="https:/
 A threat actor known as TigerJack is actively distributing malicious VSCode extensions to steal crypto, exfiltrate source code, and execute arbitrary code. Researchers have identified at least 11 malicious VSCode extensions distributed by TigerJack.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2025
+October 14, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Use Court-Themed Phishing to Deliver Info-Stealer Malware<a href="https://gbhackers.com/info-stealer-malware/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Hackers Use Court-Themed Phishing to Deliver Info-Stealer Malware<a href="https:
 The sophisticated attack begins with a carefully crafted Spanish-language email impersonating the “17th Municipal Civil Court of the Bogotá Circuit,” complete with formal legal language and institutional details.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHakcers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2025
+October 14, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Secure Boot bypass risk threatens nearly 200,000 Linux Framework laptops<a href="https://www.bleepingcomputer.com/news/security/secure-boot-bypass-risk-on-nearly-200-000-linux-framework-sytems/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Secure Boot bypass risk threatens nearly 200,000 Linux Framework laptops<a href=
 Around 200,000 Linux computer systems from American computer maker Framework were shipped with signed UEFI shell components that could be exploited to bypass Secure Boot protections.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2025
+October 14, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Satellites found exposing unencrypted data, including phone calls and some military comms<a href="https://techcrunch.com/2025/10/14/satellites-found-exposing-unencrypted-data-including-phone-calls-and-some-military-comms/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Satellites found exposing unencrypted data, including phone calls and some milit
 Security researchers have discovered that as many as half of all geostationary satellites in Earth’s orbit are carrying unencrypted sensitive consumer, corporate, and military information, making this data wide open to eavesdropping.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Tech Crunch
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2025
+October 14, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Clevo UEFI Leak Allows Signing of Malicious Firmware with BootGuard Keys<a href="https://gbhackers.com/clevo-uefi-leak-allows-malicious-firmware/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Clevo UEFI Leak Allows Signing of Malicious Firmware with BootGuard Keys<a href=
 Clevo accidentally exposed private keys used in its Intel Boot Guard implementation, allowing attackers to sign malicious firmware that would be trusted during the earliest boot stages.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2025
+October 14, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK hit by record number of ‘nationally significant’ cyberattacks<a href="https://therecord.media/uk-hit-by-record-number-significant-cyberattacks?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ UK hit by record number of ‘nationally significant’ cyberattacks<a href="htt
 A record number of “nationally significant” cyberattacks hit the United Kingdom last year, the National Cyber Security Centre (NCSC) is to announce on Tuesday as it publishes its annual review for 2024.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2025
+October 14, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 178,000+ Invoices Expose Customer Data from Invoicely Platform<a href="https://gbhackers.com/customer-data/?&web_view=true"> Full Text</a>
@@ -156,7 +316,7 @@ October 14, 2025
 A significant data exposure incident has affected the cloud-based invoicing platform Invoicely, potentially compromising sensitive information belonging to customers worldwide.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
