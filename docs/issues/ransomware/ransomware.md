@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+October 16, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qilin Ransomware and the Ghost Bulletproof Hosting Conglomerate<a href="https://www.resecurity.com/blog/article/qilin-ransomware-and-the-ghost-bulletproof-hosting-conglomerate?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Qilin is a sophisticated Ransomware-as-a-Service (RaaS) group that emerged in 2022 and has since targeted high-value organizations globally. The group leverages bulletproof hosting (BPH) infrastructure to evade law enforcement and sustain operations.
+</details>
+<div style="text-align: right" markdown="1">
+ReSecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 30, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

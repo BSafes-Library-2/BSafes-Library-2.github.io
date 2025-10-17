@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+October 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK hit by record number of ‘nationally significant’ cyberattacks<a href="https://therecord.media/uk-hit-by-record-number-significant-cyberattacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A record number of “nationally significant” cyberattacks hit the United Kingdom last year, the National Cyber Security Centre (NCSC) is to announce on Tuesday as it publishes its annual review for 2024.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 11, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

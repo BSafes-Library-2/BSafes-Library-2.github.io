@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+October 16, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Whisper 2FA Behind One Million Phishing Attempts Since July<a href="https://www.infosecurity-magazine.com/news/whisper-2fa-behind-1m-phishing/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Whisper 2FA is a sophisticated phishing-as-a-service (PhaaS) platform responsible for nearly one million phishing attacks since July 2025. It ranks as the third most active phishing kit globally, following Tycoon and EvilProxy.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 14, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

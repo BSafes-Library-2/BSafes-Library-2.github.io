@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+October 16, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation Zero Disco: Attackers Exploit Cisco SNMP Vulnerability to Deploy Rootkits<a href="https://www.trendmicro.com/en_us/research/25/j/operation-zero-disco-cisco-snmp-vulnerability-exploit.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new attack campaign, dubbed Operation Zero Disco, exploits the Cisco SNMP vulnerability CVE-2025-20352 to deploy Linux rootkits on unprotected Cisco devices. The campaign targets Cisco 9400, 9300, and legacy 3750G series switches.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 14, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
