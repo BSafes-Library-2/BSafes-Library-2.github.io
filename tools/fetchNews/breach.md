@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+October 16, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang says it hacked Kearney Public Schools, but district says it didn’t get ransom demand<a href="https://www.comparitech.com/news/ransomware-gang-says-it-hacked-kearney-public-schools-but-district-says-it-didnt-get-ransom-demand/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kearney Public Schools in Nebraska experienced a ransomware attack attributed to the Interlock gang, which claims to have stolen 354 GB of sensitive data, including personal, financial, and third-party information.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 16, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake LastPass, Bitwarden breach alerts lead to PC hijacks<a href="https://www.bleepingcomputer.com/news/security/fake-lastpass-bitwarden-breach-alerts-lead-to-pc-hijacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign was strategically launched over the Columbus Day holiday weekend to exploit reduced staffing and delay detection. The phishing emails impersonate official communications from LastPass and Bitwarden.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 14, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

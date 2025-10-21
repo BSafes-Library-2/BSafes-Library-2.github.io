@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WatchGuard security advisory (AV25-677)<a href="https://www.cyber.gc.ca/en/alerts-advisories/watchguard-security-advisory-av25-677?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WatchGuard has issued a security advisory (AV25-677) addressing a critical vulnerability in Fireware OS. The vulnerability, identified as an Out of Bounds Write in the iked component, affects multiple versions of the operating system.
+</details>
+<div style="text-align: right" markdown="1">
+Govenment of Canada
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 16, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco security advisory (AV25-672)<a href="https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av25-672?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has released a security advisory, addressing multiple vulnerabilities across a range of its products. These vulnerabilities affect various Cisco collaboration and communication platforms.
+</details>
+<div style="text-align: right" markdown="1">
+Government of Canada
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 16, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco must share more information about effects of severe bugs on businesses, senator says<a href="https://therecord.media/cisco-asa-vulnerabilities-sen-bill-cassidy-questions?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two critical vulnerabilities—CVE-2025-30333 and CVE-2025-20362—affecting Cisco Adaptive Security Appliances (ASA) have triggered an emergency directive from CISA, requiring immediate patching by federal agencies.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 14, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

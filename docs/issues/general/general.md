@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+October 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Auto sector faces historic cyber threats to business continuity<a href="https://www.cybersecuritydive.com/news/auto-sector-cyber-threats-business-continuity/802974/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The automotive sector is facing an unprecedented wave of cyberattacks that threaten business continuity, disrupt global supply chains, and expose critical vulnerabilities in connected vehicle systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 14, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
