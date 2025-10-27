@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2025
+October 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qilin ransomware: stats on attacks, ransoms & data breaches<a href="https://www.comparitech.com/news/qilin-ransomware-stats-on-attacks-ransoms-data-breaches/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Qilin ransomware emerged as the most active ransomware group in 2025, with 701 claimed attacks and 116 TB of data stolen. Operating under a ransomware-as-a-service (RaaS) model, Qilin has seen a surge in activity following the shutdown of RansomHub.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Strings in the maze: Finding hidden strengths and gaps in your team<a href="https://blog.talosintelligence.com/strings-in-the-maze/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybersecurity landscape has seen a significant shift in threat actor behavior, with a marked increase in the exploitation of public-facing applications, evolving ransomware tactics, and targeted cyber-espionage campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Locking it down: A new technique to prevent LLM jailbreaks<a href="https://news.sophos.com/en-us/2025/10/24/locking-it-down-a-new-technique-to-prevent-llm-jailbreaks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new technique called LLM salting has been introduced to counteract jailbreak attacks on LLMs such as LLaMA-2-7B and Vicuna-7B. These attacks exploit the reuse of precomputed adversarial prompts across similar model deployments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft disables File Explorer preview for downloads to block attacks<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-disables-preview-pane-for-downloads-to-block-ntlm-theft-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has implemented a security enhancement in File Explorer that disables the preview pane for files downloaded from the internet. This change is designed to prevent credential theft attacks that exploit NTLM hash leakage.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spoofed AI sidebars can trick Atlas, Comet users into dangerous actions<a href="https://www.bleepingcomputer.com/news/security/spoofed-ai-sidebars-can-trick-atlas-comet-users-into-dangerous-actions/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have uncovered a critical vulnerability in OpenAI's Atlas and Perplexity's Comet browsers that allows attackers to spoof the built-in AI sidebar. This spoofing attack can deceive users into executing malicious actions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian security advisory (AV25-695)<a href="https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av25-695?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These vulnerabilities may expose organizations to potential security risks, including unauthorized access, data leakage, or service disruption, depending on the nature of the flaws in the affected products.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google and Check Point nuke massive YouTube malware network<a href="https://www.theregister.com/2025/10/23/youtube_ghost_network_malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated malware campaign known as the "YouTube Ghost Network" has been dismantled by Google and Check Point after distributing over 3,000 malicious videos on YouTube.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shadow Escape 0-Click Attack in AI Assistants Puts Trillions of Records at Risk<a href="https://hackread.com/shadow-escape-0-click-attack-ai-assistants-risk/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered zero-click attack, dubbed Shadow Escape, exploits MCP used by AI assistants. This attack enables the silent exfiltration of sensitive data—including SSNs, financial records, and medical identifiers—without any user interaction.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medusa Ransomware Leaks 834 GB of Comcast Data After $1.2M Demand<a href="https://hackread.com/medusa-ransomware-comcast-data-leak/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Medusa ransomware group has leaked a 186.36 GB compressed archive of data allegedly stolen from Comcast Corporation. The data was released after Comcast reportedly failed to meet a $1.2 million ransom demand.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Toys R Us Canada customer data swiped, dumped online<a href="https://www.theregister.com/2025/10/23/toysrus_canada_data_leak/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Toys R Us Canada disclosed that attackers accessed a customer database and exfiltrated personal information including names, addresses, phone numbers, and email addresses. However, the exact number of affected individuals remains undisclosed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A critical WatchGuard Fireware flaw could allow unauthenticated code execution<a href="https://securityaffairs.com/183548/security/a-critical-watchguard-fireware-flaw-could-allow-unauthenticated-code-execution.html?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ A critical WatchGuard Fireware flaw could allow unauthenticated code execution<a
 An unauthenticated attacker can exploit the flaw to execute arbitrary code. The vulnerability is an out-of-bounds write issue that affects Fireware OS versions 11.10.2–11.12.4_Update1, 12.0–12.11.3, and 2025.1.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2025
+October 20, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hackers Combine BeaverTail and OtterCookie into Advanced JS Malware<a href="https://thehackernews.com/2025/10/north-korean-hackers-combine-beavertail.html?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ North Korean Hackers Combine BeaverTail and OtterCookie into Advanced JS Malware
 The North Korean threat actor linked to the Contagious Interview campaign has been observed merging some of the functionality of two of its malware programs, indicating that the hacking group is actively refining its toolset.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2025
+October 20, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 American Airlines subsidiary Envoy confirms Oracle data theft attack<a href="https://www.bleepingcomputer.com/news/security/american-airlines-subsidiary-envoy-confirms-oracle-data-theft-attack/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ American Airlines subsidiary Envoy confirms Oracle data theft attack<a href="htt
 Envoy Air, a regional airline carrier owned by American Airlines, confirms that data was compromised from its Oracle E-Business Suite application after the Clop extortion gang listed American Airlines on its data leak site.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2025
+October 20, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ConnectWise fixes Automate bug allowing AiTM update attacks<a href="https://www.bleepingcomputer.com/news/security/connectwise-fixes-automate-bug-allowing-aitm-update-attacks?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ ConnectWise fixes Automate bug allowing AiTM update attacks<a href="https://www.
 ConnectWise released a security update to address vulnerabilities, one of them with critical severity, in Automate product that could expose sensitive communications to interception and modification.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2025
+October 20, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Perplexity Comet Browser Download Ads Push Malware Via Google<a href="https://hackread.com/perplexity-comet-browser-download-ads-malware-google/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Malicious Perplexity Comet Browser Download Ads Push Malware Via Google<a href="
 A new malvertising campaign is taking advantage of the popularity of Perplexity’s recently released Comet browser, tricking users into downloading a malicious installer instead of the legitimate product.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2025
+October 20, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google ads for fake Homebrew, LogMeIn sites push infostealers<a href="https://www.bleepingcomputer.com/news/security/google-ads-for-fake-homebrew-logmein-sites-push-infostealers/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Google ads for fake Homebrew, LogMeIn sites push infostealers<a href="https://ww
 A new malicious campaign is targeting macOS developers with fake Homebrew, LogMeIn, and TradingView platforms that deliver infostealing malware like AMOS (Atomic macOS Stealer) and Odyssey.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2025
+October 20, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TikTok videos continue to push infostealers in ClickFix attacks<a href="https://www.bleepingcomputer.com/news/security/tiktok-videos-continue-to-push-infostealers-in-clickfix-attacks/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ TikTok videos continue to push infostealers in ClickFix attacks<a href="https://
 Cybercriminals are using TikTok videos disguised as free activation guides for popular software like Windows, Spotify, and Netflix to spread information-stealing malware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2025
+October 20, 2025 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FortiGuard Tracks HoldingHands Malware Shift: Cross-Regional APT Uses Task Scheduler Hijack to Evade Detection<a href="https://securityonline.info/fortiguard-tracks-holdinghands-malware-shift-cross-regional-apt-uses-task-scheduler-hijack-to-evade-detection/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ FortiGuard Tracks HoldingHands Malware Shift: Cross-Regional APT Uses Task Sched
 FortiGuard Labs has uncovered a sophisticated cross-regional campaign that has gradually expanded from China to Taiwan, Japan, and most recently Malaysia, revealing a methodical evolution in both targeting and technical capability.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 18, 2025
+October 18, 2025 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PowerSchool hacker got four years in prison<a href="https://securityaffairs.com/183515/security/powerschool-hacker-got-four-years-in-prison.html?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ PowerSchool hacker got four years in prison<a href="https://securityaffairs.com/
 A Massachusetts student has been sentenced to four years in prison for hacking and extorting approximately $3 million from two companies. The cyberattack led to the exposure of sensitive data belonging to nearly 70 million individuals
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 18, 2025
+October 18, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Auto sector faces historic cyber threats to business continuity<a href="https://www.cybersecuritydive.com/news/auto-sector-cyber-threats-business-continuity/802974/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Auto sector faces historic cyber threats to business continuity<a href="https://
 The automotive sector is facing an unprecedented wave of cyberattacks that threaten business continuity, disrupt global supply chains, and expose critical vulnerabilities in connected vehicle systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
