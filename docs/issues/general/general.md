@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+October 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Strings in the maze: Finding hidden strengths and gaps in your team<a href="https://blog.talosintelligence.com/strings-in-the-maze/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybersecurity landscape has seen a significant shift in threat actor behavior, with a marked increase in the exploitation of public-facing applications, evolving ransomware tactics, and targeted cyber-espionage campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+Talos Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 18, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

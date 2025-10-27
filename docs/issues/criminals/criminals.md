@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google and Check Point nuke massive YouTube malware network<a href="https://www.theregister.com/2025/10/23/youtube_ghost_network_malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated malware campaign known as the "YouTube Ghost Network" has been dismantled by Google and Check Point after distributing over 3,000 malicious videos on YouTube.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 11, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

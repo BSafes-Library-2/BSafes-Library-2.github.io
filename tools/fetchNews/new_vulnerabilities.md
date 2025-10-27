@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spoofed AI sidebars can trick Atlas, Comet users into dangerous actions<a href="https://www.bleepingcomputer.com/news/security/spoofed-ai-sidebars-can-trick-atlas-comet-users-into-dangerous-actions/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have uncovered a critical vulnerability in OpenAI's Atlas and Perplexity's Comet browsers that allows attackers to spoof the built-in AI sidebar. This spoofing attack can deceive users into executing malicious actions.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian security advisory (AV25-695)<a href="https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av25-695?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These vulnerabilities may expose organizations to potential security risks, including unauthorized access, data leakage, or service disruption, depending on the nature of the flaws in the affected products.
+</details>
+<div style="text-align: right" markdown="1">
+Government of Canada
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 20, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

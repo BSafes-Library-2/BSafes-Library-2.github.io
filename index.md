@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2025
+October 24, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Qilin ransomware: stats on attacks, ransoms & data breaches<a href="https://www.comparitech.com/news/qilin-ransomware-stats-on-attacks-ransoms-data-breaches/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Qilin ransomware: stats on attacks, ransoms & data breaches<a href="https://www.
 Qilin ransomware emerged as the most active ransomware group in 2025, with 701 claimed attacks and 116 TB of data stolen. Operating under a ransomware-as-a-service (RaaS) model, Qilin has seen a surge in activity following the shutdown of RansomHub.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CompariTech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2025
+October 24, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Strings in the maze: Finding hidden strengths and gaps in your team<a href="https://blog.talosintelligence.com/strings-in-the-maze/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Strings in the maze: Finding hidden strengths and gaps in your team<a href="http
 The cybersecurity landscape has seen a significant shift in threat actor behavior, with a marked increase in the exploitation of public-facing applications, evolving ransomware tactics, and targeted cyber-espionage campaigns.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Talos Intelligence
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2025
+October 24, 2025 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Locking it down: A new technique to prevent LLM jailbreaks<a href="https://news.sophos.com/en-us/2025/10/24/locking-it-down-a-new-technique-to-prevent-llm-jailbreaks/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Locking it down: A new technique to prevent LLM jailbreaks<a href="https://news.
 A new technique called LLM salting has been introduced to counteract jailbreak attacks on LLMs such as LLaMA-2-7B and Vicuna-7B. These attacks exploit the reuse of precomputed adversarial prompts across similar model deployments.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sophos
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2025
+October 24, 2025 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft disables File Explorer preview for downloads to block attacks<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-disables-preview-pane-for-downloads-to-block-ntlm-theft-attacks/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Microsoft disables File Explorer preview for downloads to block attacks<a href="
 Microsoft has implemented a security enhancement in File Explorer that disables the preview pane for files downloaded from the internet. This change is designed to prevent credential theft attacks that exploit NTLM hash leakage.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2025
+October 24, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spoofed AI sidebars can trick Atlas, Comet users into dangerous actions<a href="https://www.bleepingcomputer.com/news/security/spoofed-ai-sidebars-can-trick-atlas-comet-users-into-dangerous-actions/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Spoofed AI sidebars can trick Atlas, Comet users into dangerous actions<a href="
 Security researchers have uncovered a critical vulnerability in OpenAI's Atlas and Perplexity's Comet browsers that allows attackers to spoof the built-in AI sidebar. This spoofing attack can deceive users into executing malicious actions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2025
+October 24, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Atlassian security advisory (AV25-695)<a href="https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av25-695?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Atlassian security advisory (AV25-695)<a href="https://www.cyber.gc.ca/en/alerts
 These vulnerabilities may expose organizations to potential security risks, including unauthorized access, data leakage, or service disruption, depending on the nature of the flaws in the affected products.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Government of Canada
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2025
+October 24, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google and Check Point nuke massive YouTube malware network<a href="https://www.theregister.com/2025/10/23/youtube_ghost_network_malware/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Google and Check Point nuke massive YouTube malware network<a href="https://www.
 A sophisticated malware campaign known as the "YouTube Ghost Network" has been dismantled by Google and Check Point after distributing over 3,000 malicious videos on YouTube.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2025
+October 24, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Shadow Escape 0-Click Attack in AI Assistants Puts Trillions of Records at Risk<a href="https://hackread.com/shadow-escape-0-click-attack-ai-assistants-risk/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Shadow Escape 0-Click Attack in AI Assistants Puts Trillions of Records at Risk<
 A newly discovered zero-click attack, dubbed Shadow Escape, exploits MCP used by AI assistants. This attack enables the silent exfiltration of sensitive data—including SSNs, financial records, and medical identifiers—without any user interaction.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2025
+October 24, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Medusa Ransomware Leaks 834 GB of Comcast Data After $1.2M Demand<a href="https://hackread.com/medusa-ransomware-comcast-data-leak/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Medusa Ransomware Leaks 834 GB of Comcast Data After $1.2M Demand<a href="https:
 The Medusa ransomware group has leaked a 186.36 GB compressed archive of data allegedly stolen from Comcast Corporation. The data was released after Comcast reportedly failed to meet a $1.2 million ransom demand.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2025
+October 24, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Toys R Us Canada customer data swiped, dumped online<a href="https://www.theregister.com/2025/10/23/toysrus_canada_data_leak/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Toys R Us Canada customer data swiped, dumped online<a href="https://www.theregi
 Toys R Us Canada disclosed that attackers accessed a customer database and exfiltrated personal information including names, addresses, phone numbers, and email addresses. However, the exact number of affected individuals remains undisclosed.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

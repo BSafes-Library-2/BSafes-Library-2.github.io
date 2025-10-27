@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+October 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+American Airlines subsidiary Envoy confirms Oracle data theft attack<a href="https://www.bleepingcomputer.com/news/security/american-airlines-subsidiary-envoy-confirms-oracle-data-theft-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Envoy Air, a regional airline carrier owned by American Airlines, confirms that data was compromised from its Oracle E-Business Suite application after the Clop extortion gang listed American Airlines on its data leak site.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 16, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

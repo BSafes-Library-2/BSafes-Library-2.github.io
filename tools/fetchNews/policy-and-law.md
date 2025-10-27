@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+October 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PowerSchool hacker got four years in prison<a href="https://securityaffairs.com/183515/security/powerschool-hacker-got-four-years-in-prison.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Massachusetts student has been sentenced to four years in prison for hacking and extorting approximately $3 million from two companies. The cyberattack led to the exposure of sensitive data belonging to nearly 70 million individuals
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 29, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

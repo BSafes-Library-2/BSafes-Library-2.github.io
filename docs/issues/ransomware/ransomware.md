@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+October 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qilin ransomware: stats on attacks, ransoms &amp; data breaches<a href="https://www.comparitech.com/news/qilin-ransomware-stats-on-attacks-ransoms-data-breaches/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Qilin ransomware emerged as the most active ransomware group in 2025, with 701 claimed attacks and 116 TB of data stolen. Operating under a ransomware-as-a-service (RaaS) model, Qilin has seen a surge in activity following the shutdown of RansomHub.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 16, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

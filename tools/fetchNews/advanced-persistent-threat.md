@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+October 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FortiGuard Tracks HoldingHands Malware Shift: Cross-Regional APT Uses Task Scheduler Hijack to Evade Detection<a href="https://securityonline.info/fortiguard-tracks-holdinghands-malware-shift-cross-regional-apt-uses-task-scheduler-hijack-to-evade-detection/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FortiGuard Labs has uncovered a sophisticated cross-regional campaign that has gradually expanded from China to Taiwan, Japan, and most recently Malaysia, revealing a methodical evolution in both targeting and technical capability.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 11, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
