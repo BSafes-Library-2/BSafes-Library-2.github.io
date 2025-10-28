@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 27, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Full Disclosure: [REVIVE-SA-2025-002] Revive Adserver Vulnerability<a href="https://seclists.org/fulldisclosure/2025/Oct/21?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity SQL injection vulnerability (CVE-2025-52664) has been identified in Revive Adserver version 6.0.0. The flaw resides in the admin-search.php script and is exploitable via the keyword parameter using either GET or POST methods.
+</details>
+<div style="text-align: right" markdown="1">
+SecLists
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 27, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Full Disclosure: [REVIVE-SA-2025-001] Revive Adserver Vulnerability<a href="https://seclists.org/fulldisclosure/2025/Oct/20?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Successful exploitation allows execution of malicious scripts in the administrator’s browser context. However, the session cookie cannot be accessed or stolen via JavaScript.
+</details>
+<div style="text-align: right" markdown="1">
+SecLists
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 24, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+October 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medusa Ransomware Leaks 834 GB of Comcast Data After $1.2M Demand<a href="https://hackread.com/medusa-ransomware-comcast-data-leak/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Medusa ransomware group has leaked a 186.36 GB compressed archive of data allegedly stolen from Comcast Corporation. The data was released after Comcast reportedly failed to meet a $1.2 million ransom demand.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Toys R Us Canada customer data swiped, dumped online<a href="https://www.theregister.com/2025/10/23/toysrus_canada_data_leak/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Toys R Us Canada disclosed that attackers accessed a customer database and exfiltrated personal information including names, addresses, phone numbers, and email addresses. However, the exact number of affected individuals remains undisclosed.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 20, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

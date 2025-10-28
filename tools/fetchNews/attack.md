@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+October 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shadow Escape 0-Click Attack in AI Assistants Puts Trillions of Records at Risk<a href="https://hackread.com/shadow-escape-0-click-attack-ai-assistants-risk/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered zero-click attack, dubbed Shadow Escape, exploits MCP used by AI assistants. This attack enables the silent exfiltration of sensitive data—including SSNs, financial records, and medical identifiers—without any user interaction.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 16, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

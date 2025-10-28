@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2025
+October 27, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Baohuo Android Malware Hijacks Telegram Accounts via Fake Telegram X<a href="https://hackread.com/baohuo-android-malware-telegram-x-hijacks-accounts/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Baohuo Android Malware Hijacks Telegram Accounts via Fake Telegram X<a href="htt
 A new Android malware, Android.Backdoor.Baohuo.1.origin, is spreading via fake Telegram X apps, granting attackers full control over victims' Telegram accounts. Baohuo uses the Xposed framework to alter app behavior at runtime.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2025
+October 27, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New CoPhish attack steals OAuth tokens via Copilot Studio agents<a href="https://www.bleepingcomputer.com/news/security/new-cophish-attack-steals-oauth-tokens-via-copilot-studio-agents/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ New CoPhish attack steals OAuth tokens via Copilot Studio agents<a href="https:/
 CoPhish abuses the flexibility of Microsoft Copilot Studio, which allows users to create and share chatbot agents hosted on copilotstudio.microsoft.com. These agents can be customized using "topics"—automated workflows that include login prompts.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2025
+October 27, 2025 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Rosselkhoznadzor hit by DDoS attack, food shipments across Russia delayed<a href="https://securityaffairs.com/183845/security/russian-rosselkhoznadzor-hit-by-ddos-attack-food-shipments-delayed.html?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Russian Rosselkhoznadzor hit by DDoS attack, food shipments across Russia delaye
 A large-scale Distributed Denial-of-Service (DDoS) attack has targeted Russia’s Federal Service for Veterinary and Phytosanitary Surveillance (Rosselkhoznadzor), severely disrupting food logistics across the country.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2025
+October 27, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Full Disclosure: [REVIVE-SA-2025-002] Revive Adserver Vulnerability<a href="https://seclists.org/fulldisclosure/2025/Oct/21?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Full Disclosure: [REVIVE-SA-2025-002] Revive Adserver Vulnerability<a href="http
 A high-severity SQL injection vulnerability (CVE-2025-52664) has been identified in Revive Adserver version 6.0.0. The flaw resides in the admin-search.php script and is exploitable via the keyword parameter using either GET or POST methods.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+SecLists
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2025
+October 27, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Full Disclosure: [REVIVE-SA-2025-001] Revive Adserver Vulnerability<a href="https://seclists.org/fulldisclosure/2025/Oct/20?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Full Disclosure: [REVIVE-SA-2025-001] Revive Adserver Vulnerability<a href="http
 Successful exploitation allows execution of malicious scripts in the administrator’s browser context. However, the session cookie cannot be accessed or stolen via JavaScript.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+SecLists
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2025
+October 27, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Safepay ransomware group claims the hack of professional video surveillance provider Xortec<a href="https://securityaffairs.com/183868/malware/safepay-ransomware-group-claims-the-hack-of-professional-video-surveillance-provider-xortec.html?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Safepay ransomware group claims the hack of professional video surveillance prov
 A ransomware attack by the Safepay group has compromised Xortec GmbH, a German provider of professional video surveillance and security solutions. The group has listed Xortec on its data leak site.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2025
+October 27, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Everest Ransomware Says It Stole 1.5M Dublin Airport Passenger Records<a href="https://hackread.com/everest-ransomware-dublin-airport-passenger-data/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Everest Ransomware Says It Stole 1.5M Dublin Airport Passenger Records<a href="h
 The Everest ransomware group claimed responsibility for breaching Dublin Airport and Air Arabia. The group alleges the theft of approximately 1.5 million passenger records from Dublin Airport and personal data of over 18,000 Air Arabia employees.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2025
+October 27, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Have I Been Pwned: MyVidster (2025) Data Breach<a href="https://haveibeenpwned.com/Breach/MyVidster2025?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Have I Been Pwned: MyVidster (2025) Data Breach<a href="https://haveibeenpwned.c
 A significant data breach has impacted MyVidster, compromising the personal information of nearly 3.9 million users. The data was publicly posted on a hacking forum, increasing the risk of phishing and credential-based attacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Have I Been Pwned
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2025
+October 27, 2025 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DDoS, data theft, and malware are storming the gaming industry<a href="https://www.helpnetsecurity.com/2025/10/27/gaming-industry-cyber-threats-risks/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ DDoS, data theft, and malware are storming the gaming industry<a href="https://w
 As the global gaming market approaches $188.8 billion in value, attackers are exploiting its vast user base, digital assets, and third-party ecosystems to launch increasingly sophisticated attacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2025
+October 27, 2025 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mem3nt0 mori – The Hacking Team is back!<a href="https://securelist.com/forumtroll-apt-hacking-team-dante-spyware/117851/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Mem3nt0 mori – The Hacking Team is back!<a href="https://securelist.com/forumt
 A sophisticated APT campaign, dubbed Operation ForumTroll, has been linked to the use of advanced spyware tools including LeetAgent and Dante, developed by Memento Labs (formerly Hacking Team).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Secure List
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

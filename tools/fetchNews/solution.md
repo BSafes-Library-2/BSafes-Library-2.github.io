@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+October 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Locking it down: A new technique to prevent LLM jailbreaks<a href="https://news.sophos.com/en-us/2025/10/24/locking-it-down-a-new-technique-to-prevent-llm-jailbreaks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new technique called LLM salting has been introduced to counteract jailbreak attacks on LLMs such as LLaMA-2-7B and Vicuna-7B. These attacks exploit the reuse of precomputed adversarial prompts across similar model deployments.
+</details>
+<div style="text-align: right" markdown="1">
+Sophos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft disables File Explorer preview for downloads to block attacks<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-disables-preview-pane-for-downloads-to-block-ntlm-theft-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has implemented a security enhancement in File Explorer that disables the preview pane for files downloaded from the internet. This change is designed to prevent credential theft attacks that exploit NTLM hash leakage.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 29, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
