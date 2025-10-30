@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+October 29, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers target international students by threatening their visa status<a href="https://www.helpnetsecurity.com/2025/10/29/international-students-scams-visa-status/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A surge in social engineering scams is targeting international students in the US. These scams impersonate government officials, police, or university staff to coerce victims into disclosing sensitive information or making payments.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 20, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

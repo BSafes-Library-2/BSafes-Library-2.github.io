@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 29, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC code drops for remotely exploitable BIND 9 DNS flaw (CVE-2025-40778)<a href="https://www.helpnetsecurity.com/2025/10/28/bind-9-vulnerability-cve-2025-40778-poc/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity vulnerability, CVE-2025-40778, has been identified in BIND 9, the only actively maintained version of the Berkeley Internet Name Domain (BIND) software suite developed by the Internet Systems Consortium (ISC).
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 29, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Full Disclosure: Stored Cross-Site Scripting (XSS)<a href="https://seclists.org/fulldisclosure/2025/Oct/25?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A stored Cross-Site Scripting (XSS) vulnerability has been identified in the layout functionality of Total.js version 5013. This flaw allows attackers to inject malicious JavaScript payloads into layout templates.
+</details>
+<div style="text-align: right" markdown="1">
+SecLists
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 29, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Full Disclosure: Struts2 and Related Framework Array<a href="https://seclists.org/fulldisclosure/2025/Oct/22?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A longstanding DoS vulnerability exists in Apache Struts2 and related frameworks due to unsafe deserialization of arrays and collections. This flaw allows attackers to craft minimal requests that result in the creation of massive data structures.
+</details>
+<div style="text-align: right" markdown="1">
+SecLists
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 29, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Full Disclosure: Current Password not Required When Changing Password<a href="https://seclists.org/fulldisclosure/2025/Oct/24?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability has been identified in Total.js version 5013 that allows users to change their account password without providing the current password. This flaw can lead to unauthorized account access and potential privilege escalation.
+</details>
+<div style="text-align: right" markdown="1">
+SecLists
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 27, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

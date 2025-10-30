@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+October 27, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Rosselkhoznadzor hit by DDoS attack, food shipments across Russia delayed<a href="https://securityaffairs.com/183845/security/russian-rosselkhoznadzor-hit-by-ddos-attack-food-shipments-delayed.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large-scale Distributed Denial-of-Service (DDoS) attack has targeted Russia’s Federal Service for Veterinary and Phytosanitary Surveillance (Rosselkhoznadzor), severely disrupting food logistics across the country.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 13, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

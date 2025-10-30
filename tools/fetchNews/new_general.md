@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+October 29, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nation-State Cyber Ecosystems Weakened by Sanctions, Report Reveals<a href="https://www.infosecurity-magazine.com/news/nation-state-cyber-weakened/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent report based on the inaugural meeting of the Cyber Sanctions Taskforce—comprising officials from the UK, US, and EU—highlights the evolving role of sanctions in cyber deterrence strategies.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 29, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bots, Bread and the Battle for the Web<a href="https://unit42.paloaltonetworks.com/malicious-seo-and-ai/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AI-powered malicious SEO is rapidly transforming the digital threat landscape, enabling threat actors to manipulate search engine algorithms at scale. This undermines the visibility of legitimate content, erodes trust in online information.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 24, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+October 27, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Safepay ransomware group claims the hack of professional video surveillance provider Xortec<a href="https://securityaffairs.com/183868/malware/safepay-ransomware-group-claims-the-hack-of-professional-video-surveillance-provider-xortec.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack by the Safepay group has compromised Xortec GmbH, a German provider of professional video surveillance and security solutions. The group has listed Xortec on its data leak site.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 27, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Everest Ransomware Says It Stole 1.5M Dublin Airport Passenger Records<a href="https://hackread.com/everest-ransomware-dublin-airport-passenger-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Everest ransomware group claimed responsibility for breaching Dublin Airport and Air Arabia. The group alleges the theft of approximately 1.5 million passenger records from Dublin Airport and personal data of over 18,000 Air Arabia employees.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 27, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Have I Been Pwned: MyVidster (2025) Data Breach<a href="https://haveibeenpwned.com/Breach/MyVidster2025?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant data breach has impacted MyVidster, compromising the personal information of nearly 3.9 million users. The data was publicly posted on a hacking forum, increasing the risk of phishing and credential-based attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Have I Been Pwned
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 24, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

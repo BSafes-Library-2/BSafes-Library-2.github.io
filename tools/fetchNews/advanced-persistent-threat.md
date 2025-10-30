@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+October 27, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mem3nt0 mori – The Hacking Team is back!<a href="https://securelist.com/forumtroll-apt-hacking-team-dante-spyware/117851/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated APT campaign, dubbed Operation ForumTroll, has been linked to the use of advanced spyware tools including LeetAgent and Dante, developed by Memento Labs (formerly Hacking Team).
+</details>
+<div style="text-align: right" markdown="1">
+Secure List
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 20, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
