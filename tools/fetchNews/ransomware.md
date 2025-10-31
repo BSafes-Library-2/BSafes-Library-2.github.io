@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+October 29, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Spotlight: DragonForce<a href="https://www.trendmicro.com/vinfo/us/security/news/ransomware-spotlight/ransomware-spotlight-dragonforce?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DragonForce is a rapidly evolving Ransomware-as-a-Service (RaaS) group, first observed in 2023 and gaining notoriety in 2025. Operating under the alias Water Tambanakua, the group has adopted a cartel model.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 24, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

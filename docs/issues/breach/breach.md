@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+October 31, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang claims Conduent breach: what you should watch for next<a href="https://www.malwarebytes.com/blog/news/2025/10/ransomware-gang-claims-conduent-breach-what-you-should-watch-for-next?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SafePay ransomware claimed responsibility for a significant data breach at Conduent. The breach has exposed sensitive personal data of over half a million individuals across multiple states.
+</details>
+<div style="text-align: right" markdown="1">
+Malware Bytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Living off the land' allowed Russia-linked group to breach Ukrainian entities this summer<a href="https://therecord.media/russia-linked-breaches-ukraine-living-off-the-land?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russia-linked threat actor breached Ukrainian entities in mid-2025 using stealthy LotL techniques. The attackers leveraged legitimate administrative tools and minimal custom malware to evade detection while stealing sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 27, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Jenkins security advisory (AV25-707)<a href="https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av25-707?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent security advisory has disclosed vulnerabilities in multiple Jenkins plugins. Users and administrators are urged to update the affected plugins to their latest versions to maintain the security and stability of their Jenkins environments.
+</details>
+<div style="text-align: right" markdown="1">
+Government of Canada
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Docker security advisory (AV25–708)<a href="https://www.cyber.gc.ca/en/alerts-advisories/docker-security-advisory-av25-708?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A path traversal bug was identified in Docker Compose, affecting versions prior to v2.40.2. This issue arises from improper handling of OCI artifact layer annotations, which could potentially allow unauthorized file access.
+</details>
+<div style="text-align: right" markdown="1">
+Government of Canada
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Full Disclosure: Re: [FD] : "Glass Cage" – Zero-Click iMessage → Persistent iOS Compromise + Bricking (CVE-2025-24085 / 24201, CNVD-2025-07885)<a href="https://seclists.org/fulldisclosure/2025/Oct/31?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical zero-click iMessage exploit chain, dubbed "Glass Cage", has been identified targeting iOS 18 devices. This attack leverages multiple vulnerabilities, CVE-2025-24085, CVE-2025-24201, and CNVD-2025-07885.
+</details>
+<div style="text-align: right" markdown="1">
+SecLists
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 29, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

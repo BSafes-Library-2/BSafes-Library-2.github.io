@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+October 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AL25-016 Internet-accessible industrial control systems (ICS) abused by hacktivists<a href="https://www.cyber.gc.ca/en/alerts-advisories/al25-016-internet-accessible-industrial-control-systems-ics-abused-hacktivists?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hacktivists are increasingly targeting internet-accessible Industrial Control Systems (ICS) across Canada, exploiting exposed components to disrupt operations, generate media attention, and undermine public trust.
+</details>
+<div style="text-align: right" markdown="1">
+Government of Canada
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PHP Servers and IoT Devices Face Growing Cyber-Attack Risks<a href="https://www.infosecurity-magazine.com/news/php-servers-and-iot-devices-cyber/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A surge in cyber-attacks is targeting PHP servers, IoT devices, and cloud gateways. These attacks are primarily driven by botnets such as Mirai, Gafgyt, and Mozi, which exploit known vulnerabilities and misconfigurations to expand their reach.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlueNoroff Expands Cyberattacks with AI-Driven Campaigns Targeting Executives<a href="https://www.esecurityplanet.com/news/bluenoroff-expands-cyberattacks-with-ai-driven-campaigns-targeting-executives/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BlueNoroff has launched AI-driven cyberattacks under the GhostCall and GhostHire campaigns. These operations are part of the broader SnatchCrypto campaign targeting blockchain, digital finance, and emerging crypto technologies.
+</details>
+<div style="text-align: right" markdown="1">
+ESecurity Planet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 24, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

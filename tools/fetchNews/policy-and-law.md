@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+October 29, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ICO fines sole trader for allegedly sending 1M spam texts<a href="https://www.theregister.com/2025/10/29/ico_spam_text_fine/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A UK-based sole trader has been fined £200,000 for orchestrating a large-scale SMS spam campaign that targeted financially vulnerable individuals. The ICO found that nearly one million unsolicited messages were sent without valid consent.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 18, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
