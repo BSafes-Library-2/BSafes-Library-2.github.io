@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 29, 2025
+October 31, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang claims Conduent breach: what you should watch for next<a href="https://www.malwarebytes.com/blog/news/2025/10/ransomware-gang-claims-conduent-breach-what-you-should-watch-for-next?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SafePay ransomware claimed responsibility for a significant data breach at Conduent. The breach has exposed sensitive personal data of over half a million individuals across multiple states.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Your photo could be all AI needs to clone your voice<a href="https://www.helpnetsecurity.com/2025/10/30/face-to-voice-deepfakes-voice-authentication-risk/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new AI-driven attack method, FOICE (Face-to-Voice), enables the generation of synthetic speech from facial images, posing a significant threat to voice authentication systems. This technique bypasses traditional deepfake detectors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Jenkins security advisory (AV25-707)<a href="https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av25-707?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent security advisory has disclosed vulnerabilities in multiple Jenkins plugins. Users and administrators are urged to update the affected plugins to their latest versions to maintain the security and stability of their Jenkins environments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Docker security advisory (AV25–708)<a href="https://www.cyber.gc.ca/en/alerts-advisories/docker-security-advisory-av25-708?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A path traversal bug was identified in Docker Compose, affecting versions prior to v2.40.2. This issue arises from improper handling of OCI artifact layer annotations, which could potentially allow unauthorized file access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Full Disclosure: Re: [FD] : "Glass Cage" – Zero-Click iMessage → Persistent iOS Compromise + Bricking (CVE-2025-24085 / 24201, CNVD-2025-07885)<a href="https://seclists.org/fulldisclosure/2025/Oct/31?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical zero-click iMessage exploit chain, dubbed "Glass Cage", has been identified targeting iOS 18 devices. This attack leverages multiple vulnerabilities, CVE-2025-24085, CVE-2025-24201, and CNVD-2025-07885.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AL25-016 Internet-accessible industrial control systems (ICS) abused by hacktivists<a href="https://www.cyber.gc.ca/en/alerts-advisories/al25-016-internet-accessible-industrial-control-systems-ics-abused-hacktivists?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hacktivists are increasingly targeting internet-accessible Industrial Control Systems (ICS) across Canada, exploiting exposed components to disrupt operations, generate media attention, and undermine public trust.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bolstering Cybersecurity Resilience in the Public Sector<a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/bolstering-cybersecurity-resilience-in-the-public-sector/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The public sector faces a surge in sophisticated cyber threats, including ransomware, phishing, and exploitation of 0-day vulnerabilities. They target sensitive data, disrupt essential services, and exploit trust in government institutions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Living off the land' allowed Russia-linked group to breach Ukrainian entities this summer<a href="https://therecord.media/russia-linked-breaches-ukraine-living-off-the-land?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russia-linked threat actor breached Ukrainian entities in mid-2025 using stealthy LotL techniques. The attackers leveraged legitimate administrative tools and minimal custom malware to evade detection while stealing sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PHP Servers and IoT Devices Face Growing Cyber-Attack Risks<a href="https://www.infosecurity-magazine.com/news/php-servers-and-iot-devices-cyber/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A surge in cyber-attacks is targeting PHP servers, IoT devices, and cloud gateways. These attacks are primarily driven by botnets such as Mirai, Gafgyt, and Mozi, which exploit known vulnerabilities and misconfigurations to expand their reach.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlueNoroff Expands Cyberattacks with AI-Driven Campaigns Targeting Executives<a href="https://www.esecurityplanet.com/news/bluenoroff-expands-cyberattacks-with-ai-driven-campaigns-targeting-executives/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BlueNoroff has launched AI-driven cyberattacks under the GhostCall and GhostHire campaigns. These operations are part of the broader SnatchCrypto campaign targeting blockchain, digital finance, and emerging crypto technologies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 29, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Spotlight: DragonForce<a href="https://www.trendmicro.com/vinfo/us/security/news/ransomware-spotlight/ransomware-spotlight-dragonforce?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Ransomware Spotlight: DragonForce<a href="https://www.trendmicro.com/vinfo/us/se
 DragonForce is a rapidly evolving Ransomware-as-a-Service (RaaS) group, first observed in 2023 and gaining notoriety in 2025. Operating under the alias Water Tambanakua, the group has adopted a cartel model.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Trend Micro
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 29, 2025
+October 29, 2025 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ICO fines sole trader for allegedly sending 1M spam texts<a href="https://www.theregister.com/2025/10/29/ico_spam_text_fine/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ ICO fines sole trader for allegedly sending 1M spam texts<a href="https://www.th
 A UK-based sole trader has been fined £200,000 for orchestrating a large-scale SMS spam campaign that targeted financially vulnerable individuals. The ICO found that nearly one million unsolicited messages were sent without valid consent.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 29, 2025
+October 29, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nation-State Cyber Ecosystems Weakened by Sanctions, Report Reveals<a href="https://www.infosecurity-magazine.com/news/nation-state-cyber-weakened/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Nation-State Cyber Ecosystems Weakened by Sanctions, Report Reveals<a href="http
 A recent report based on the inaugural meeting of the Cyber Sanctions Taskforce—comprising officials from the UK, US, and EU—highlights the evolving role of sanctions in cyber deterrence strategies.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 29, 2025
+October 29, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Herodotus Android malware mimics human typing to evade detection<a href="https://securityaffairs.com/183974/malware/herodotus-android-malware-mimics-human-typing-to-evade-detection.html?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Herodotus Android malware mimics human typing to evade detection<a href="https:/
 Herodotus is a sophisticated Android device-takeover banking Trojan. It is engineered to evade behavioral biometrics and anti-fraud systems by mimicking human typing behavior through randomized delays.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 29, 2025
+October 29, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bots, Bread and the Battle for the Web<a href="https://unit42.paloaltonetworks.com/malicious-seo-and-ai/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Bots, Bread and the Battle for the Web<a href="https://unit42.paloaltonetworks.c
 AI-powered malicious SEO is rapidly transforming the digital threat landscape, enabling threat actors to manipulate search engine algorithms at scale. This undermines the visibility of legitimate content, erodes trust in online information.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Palo Alto Networks
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 29, 2025
+October 29, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PoC code drops for remotely exploitable BIND 9 DNS flaw (CVE-2025-40778)<a href="https://www.helpnetsecurity.com/2025/10/28/bind-9-vulnerability-cve-2025-40778-poc/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ PoC code drops for remotely exploitable BIND 9 DNS flaw (CVE-2025-40778)<a href=
 A high-severity vulnerability, CVE-2025-40778, has been identified in BIND 9, the only actively maintained version of the Berkeley Internet Name Domain (BIND) software suite developed by the Internet Systems Consortium (ISC).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 29, 2025
+October 29, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Full Disclosure: Stored Cross-Site Scripting (XSS)<a href="https://seclists.org/fulldisclosure/2025/Oct/25?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Full Disclosure: Stored Cross-Site Scripting (XSS)<a href="https://seclists.org/
 A stored Cross-Site Scripting (XSS) vulnerability has been identified in the layout functionality of Total.js version 5013. This flaw allows attackers to inject malicious JavaScript payloads into layout templates.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+SecLists
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 29, 2025
+October 29, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Full Disclosure: Struts2 and Related Framework Array<a href="https://seclists.org/fulldisclosure/2025/Oct/22?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Full Disclosure: Struts2 and Related Framework Array<a href="https://seclists.or
 A longstanding DoS vulnerability exists in Apache Struts2 and related frameworks due to unsafe deserialization of arrays and collections. This flaw allows attackers to craft minimal requests that result in the creation of massive data structures.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+SecLists
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 29, 2025
+October 29, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scammers target international students by threatening their visa status<a href="https://www.helpnetsecurity.com/2025/10/29/international-students-scams-visa-status/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Scammers target international students by threatening their visa status<a href="
 A surge in social engineering scams is targeting international students in the US. These scams impersonate government officials, police, or university staff to coerce victims into disclosing sensitive information or making payments.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 29, 2025
+October 29, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Full Disclosure: Current Password not Required When Changing Password<a href="https://seclists.org/fulldisclosure/2025/Oct/24?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Full Disclosure: Current Password not Required When Changing Password<a href="ht
 A critical vulnerability has been identified in Total.js version 5013 that allows users to change their account password without providing the current password. This flaw can lead to unauthorized account access and potential privilege escalation.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+SecLists
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
