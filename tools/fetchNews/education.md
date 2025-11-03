@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+October 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bolstering Cybersecurity Resilience in the Public Sector<a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/bolstering-cybersecurity-resilience-in-the-public-sector/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The public sector faces a surge in sophisticated cyber threats, including ransomware, phishing, and exploitation of 0-day vulnerabilities. They target sensitive data, disrupt essential services, and exploit trust in government institutions.
+</details>
+<div style="text-align: right" markdown="1">
+Trust Wave
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 25, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

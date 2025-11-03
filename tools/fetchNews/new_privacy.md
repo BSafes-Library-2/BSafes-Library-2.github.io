@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+November 1, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows zero-day actively exploited to spy on European diplomats<a href="https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-windows-zero-day-to-spy-on-european-diplomats/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A China-linked hacking group is exploiting a Windows zero-day in attacks targeting European diplomats in Hungary, Belgium, and other European nations. The attack chain begins with spearphishing emails that lead to the delivery of malicious LNK files.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 7, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

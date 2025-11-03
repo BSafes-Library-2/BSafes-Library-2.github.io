@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+October 31, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers exploiting WSUS vulnerability drop Skuld infostealer (CVE-2025-59287)<a href="https://www.helpnetsecurity.com/2025/10/30/wsus-vulnerability-infostealer-cve-2025-59287/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical remote code execution vulnerability in Windows Server Update Services (WSUS), tracked as CVE-2025-59287, is being actively exploited in the wild. Attackers are leveraging this flaw to deploy the Skuld infostealer.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 30, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

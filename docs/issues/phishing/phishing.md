@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+October 31, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake PayPal invoice from Geek Squad is a tech support scam<a href="https://www.malwarebytes.com/blog/news/2025/10/fake-paypal-invoice-from-geek-squad-is-a-tech-support-scam?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A phishing campaign is impersonating PayPal and Geek Squad to execute a tech support scam. Victims receive fake invoices via email, prompting them to call a fraudulent support number, leading to potential financial loss and system compromise.
+</details>
+<div style="text-align: right" markdown="1">
+Malware Bytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 29, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

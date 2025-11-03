@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+October 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Your photo could be all AI needs to clone your voice<a href="https://www.helpnetsecurity.com/2025/10/30/face-to-voice-deepfakes-voice-authentication-risk/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new AI-driven attack method, FOICE (Face-to-Voice), enables the generation of synthetic speech from facial images, posing a significant threat to voice authentication systems. This technique bypasses traditional deepfake detectors.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security 
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 29, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

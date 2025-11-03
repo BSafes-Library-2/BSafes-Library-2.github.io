@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+November 1, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+One In Four Employees Use Unapproved AI Tools, Research Finds<a href="https://www.infosecurity-magazine.com/news/shadow-ai-employees-use-unapproved/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Overall, workers are broadly encouraged by their company to use AI as part of their workloads and the 1Password report found that of 5000 workers surveyed 73% said their company is in favor of such experimentation.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 30, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

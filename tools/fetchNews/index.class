@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 1, 2025 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+One In Four Employees Use Unapproved AI Tools, Research Finds<a href="https://www.infosecurity-magazine.com/news/shadow-ai-employees-use-unapproved/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Overall, workers are broadly encouraged by their company to use AI as part of their workloads and the 1Password report found that of 5000 workers surveyed 73% said their company is in favor of such experimentation.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 1, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaws Found in Elementor King Addons Affect 10,000 Sites<a href="https://www.infosecurity-magazine.com/news/critical-flaws-elementor-king/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The King Addons for Elementor plugin, used on over 10,000 sites, contains two unauthenticated critical issues that can lead to full site takeover. New research from Patchstack shows two easily exploitable flaws.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 1, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major telecom services provider Ribbon breached by state hackers<a href="https://www.bleepingcomputer.com/news/security/major-telecom-services-provider-ribbon-breached-by-state-hackers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ribbon Communications, a provider of telecommunications services to the U.S. government and telecom companies worldwide, revealed that nation-state hackers breached its IT network as early as December 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 1, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive surge of NFC relay malware steals Europeans’ credit cards<a href="https://www.bleepingcomputer.com/news/security/massive-surge-of-nfc-relay-malware-steals-europeans-credit-cards/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NFC relay malware has become increasingly prevalent in Eastern Europe, targeting Android users' payment card data. The malware exploits Android's HCE to manipulate contactless payment data.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 1, 2025 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows zero-day actively exploited to spy on European diplomats<a href="https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-windows-zero-day-to-spy-on-european-diplomats/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A China-linked hacking group is exploiting a Windows zero-day in attacks targeting European diplomats in Hungary, Belgium, and other European nations. The attack chain begins with spearphishing emails that lead to the delivery of malicious LNK files.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Case of ActiveMQ Vulnerability Exploitation to Install Sharpire (Kinsing)<a href="https://asec.ahnlab.com/en/90811/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical remote code execution vulnerability in Apache ActiveMQ is being actively exploited by the Kinsing (H2Miner) threat actor to deploy multiple malware strains, including the Sharpire backdoor, XMRig miner, and post-exploitation tools.
+</details>
+<div style="text-align: right" markdown="1">
+Ahn Lab
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers exploiting WSUS vulnerability drop Skuld infostealer (CVE-2025-59287)<a href="https://www.helpnetsecurity.com/2025/10/30/wsus-vulnerability-infostealer-cve-2025-59287/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical remote code execution vulnerability in Windows Server Update Services (WSUS), tracked as CVE-2025-59287, is being actively exploited in the wild. Attackers are leveraging this flaw to deploy the Skuld infostealer.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Splunk security advisory (AV25-710)<a href="https://www.cyber.gc.ca/en/alerts-advisories/splunk-security-advisory-av25-710?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple vulnerabilities have been identified in various Splunk AppDynamics agents and the Splunk Operator for Kubernetes Add-on. These vulnerabilities stem from outdated third-party packages.
+</details>
+<div style="text-align: right" markdown="1">
+Government of Canada
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Drupal security advisory (AV25-709)<a href="https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av25-709?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical access bypass vulnerability has been identified in the Drupal module Simple OAuth (OAuth2) & OpenID Connect, affecting versions 6.0.0 through versions prior to 6.0.7.
+</details>
+<div style="text-align: right" markdown="1">
+Government of Canada
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake PayPal invoice from Geek Squad is a tech support scam<a href="https://www.malwarebytes.com/blog/news/2025/10/fake-paypal-invoice-from-geek-squad-is-a-tech-support-scam?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A phishing campaign is impersonating PayPal and Geek Squad to execute a tech support scam. Victims receive fake invoices via email, prompting them to call a fraudulent support number, leading to potential financial loss and system compromise.
+</details>
+<div style="text-align: right" markdown="1">
+Malware Bytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 31, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
