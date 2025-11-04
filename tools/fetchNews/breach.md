@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+November 1, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major telecom services provider Ribbon breached by state hackers<a href="https://www.bleepingcomputer.com/news/security/major-telecom-services-provider-ribbon-breached-by-state-hackers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ribbon Communications, a provider of telecommunications services to the U.S. government and telecom companies worldwide, revealed that nation-state hackers breached its IT network as early as December 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 31, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

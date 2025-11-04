@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 1, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaws Found in Elementor King Addons Affect 10,000 Sites<a href="https://www.infosecurity-magazine.com/news/critical-flaws-elementor-king/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The King Addons for Elementor plugin, used on over 10,000 sites, contains two unauthenticated critical issues that can lead to full site takeover. New research from Patchstack shows two easily exploitable flaws.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 31, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Case of ActiveMQ Vulnerability Exploitation to Install Sharpire (Kinsing)<a href="https://asec.ahnlab.com/en/90811/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical remote code execution vulnerability in Apache ActiveMQ is being actively exploited by the Kinsing (H2Miner) threat actor to deploy multiple malware strains, including the Sharpire backdoor, XMRig miner, and post-exploitation tools.
+</details>
+<div style="text-align: right" markdown="1">
+Ahn Lab
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 31, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Splunk security advisory (AV25-710)<a href="https://www.cyber.gc.ca/en/alerts-advisories/splunk-security-advisory-av25-710?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple vulnerabilities have been identified in various Splunk AppDynamics agents and the Splunk Operator for Kubernetes Add-on. These vulnerabilities stem from outdated third-party packages.
+</details>
+<div style="text-align: right" markdown="1">
+Government of Canada
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 31, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Drupal security advisory (AV25-709)<a href="https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av25-709?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical access bypass vulnerability has been identified in the Drupal module Simple OAuth (OAuth2) &amp; OpenID Connect, affecting versions 6.0.0 through versions prior to 6.0.7.
+</details>
+<div style="text-align: right" markdown="1">
+Government of Canada
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 30, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+November 3, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leak Site Ransomware Victims Spike 13% in a Year<a href="https://www.infosecurity-magazine.com/news/leak-site-ransomware-victims-spike/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A review of data leak sites over the period September 2024-August 2025 revealed a double-digit annual increase in European victims, to 1380. After the UK, Germany, Italy, France and Spain were the most targeted nations.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 1, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
