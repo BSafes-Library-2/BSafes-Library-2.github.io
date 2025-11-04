@@ -34,6 +34,134 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Akira Ransomware Strikes Apache OpenOffice, Allegedly Exfiltrates 23GB of Data<a href="https://gbhackers.com/akira-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious Akira ransomware gang announced on October 29, 2025, that it successfully penetrated the systems of Apache OpenOffice, claiming to have exfiltrated a staggering 23 gigabytes of sensitive corporate data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Proton Warns of 300 Million Stolen Login Details Circulating on Dark Web<a href="https://gbhackers.com/proton-warns-of-300-million-stolen-login-details-on-dark-web/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Privacy-focused technology company Proton has issued a warning about the escalating data breach crisis, revealing that hundreds of millions of stolen login credentials are actively circulating on the dark web.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leak Site Ransomware Victims Spike 13% in a Year<a href="https://www.infosecurity-magazine.com/news/leak-site-ransomware-victims-spike/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A review of data leak sites over the period September 2024-August 2025 revealed a double-digit annual increase in European victims, to 1380. After the UK, Germany, Italy, France and Spain were the most targeted nations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New BOF Tool Bypasses Microsoft Teams Cookie Encryption to Steal User Chats<a href="https://gbhackers.com/new-bof-tool-bypasses-microsoft-teams-cookie-encryption/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have released a specialised Beacon Object File (BOF) tool that exploits a critical weakness in Microsoft Teams cookie encryption, enabling attackers to steal user chat messages and other sensitive communications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-Linked Hackers Exploit Windows Shortcut Flaw to Target European Diplomats<a href="https://thehackernews.com/2025/10/china-linked-hackers-exploit-windows.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A China-affiliated threat actor known as UNC6384 has been linked to a fresh set of attacks exploiting an unpatched Windows shortcut vulnerability to target European diplomatic and government entities between September and October 2025.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability<a href="https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian Signals Directorate (ASD) has issued a bulletin about ongoing cyber attacks targeting unpatched Cisco IOS XE devices in the country with a previously undocumented implant known as BADCANDY.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nation-State Hackers Deploy New Airstalk Malware in Suspected Supply Chain Attack<a href="https://thehackernews.com/2025/10/nation-state-hackers-deploy-new.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A suspected nation-state threat actor has been linked to the distribution of a new malware called Airstalk as part of a likely supply chain attack. Airstalk misuses the AirWatch API for Workspace ONE Unified Endpoint Management.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conduent January 2025 breach impacts 10M+ people<a href="https://securityaffairs.com/184128/data-breach/conduent-january-2025-breach-impacts-10m-people.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A major data breach at Conduent has compromised the personal information of approximately 10,515,849 individuals. The breach, discovered exposed sensitive data including names, addresses, dates of birth, SSNs, and health and insurance information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 1, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
