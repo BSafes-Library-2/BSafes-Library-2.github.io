@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2025
+November 5, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nine Arrested in €600M crypto laundering bust across Europe<a href="https://securityaffairs.com/184215/cyber-crime/nine-arrested-in-e600m-crypto-laundering-bust-across-europe.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A coordinated international law enforcement operation has led to the arrest of nine individuals across Cyprus, Spain, and Germany for their involvement in laundering over €600 million through fraudulent cryptocurrency investment schemes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 5, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Media giant Nikkei reports data breach impacting 17,000 people<a href="https://www.bleepingcomputer.com/news/security/media-giant-nikkei-reports-data-breach-impacting-17-000-people/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent data breach at Japanese media conglomerate Nikkei has compromised the personal information of 17,368 individuals, including employees and business partners, following unauthorized access to its Slack messaging platform.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 5, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data breach at major Swedish software supplier impacts 1.5 million<a href="https://www.bleepingcomputer.com/news/security/data-breach-at-major-swedish-software-supplier-impacts-15-million/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant data breach at Swedish IT systems supplier Miljödata has compromised the personal data of approximately 1.5 million individuals. The breach is attributed to the threat actor Datacarry.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 5, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Radiometrics VizAir<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-308-04?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple critical vulnerabilities have been identified in Radiometrics VizAir, a weather monitoring system used in aviation. All vulnerabilities have a CVSS v3.1 and v4 base score of 10.0, indicating maximum severity.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 5, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Survision License Plate Recognition Camera<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-308-02?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Survision LPR Camera system does not enforce password protection by default. This allows access to the configuration wizard immediately without a login prompt or credentials check.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 5, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TruffleHog, Fade In and BSAFE Crypto-C vulnerabilities<a href="https://blog.talosintelligence.com/trufflehog-fade-in-and-bsafe-crypto-c-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple critical vulnerabilities have been identified and patched across three software products: Fade In (screenwriting software), TruffleHog (sensitive data scanner for code repositories), and Dell BSAFE Crypto-C (cryptographic development kit).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 5, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hackers abuse Hyper-V to hide malware in Linux VMs<a href="https://www.bleepingcomputer.com/news/security/russian-hackers-abuse-hyper-v-to-hide-malware-in-linux-vms/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian-aligned cyber-espionage group, Curly COMrades, is leveraging Microsoft Hyper-V to deploy hidden Alpine Linux VMs on compromised Windows systems. These VMs host custom malware implants - CurlyShell and CurlCat.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 5, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical React Native CLI Flaw Exposed Millions of Developers to Remote Attacks<a href="https://thehackernews.com/2025/11/critical-react-native-cli-flaw-exposed.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical command injection bug has been identified in two npm packages. It allows remote unauthenticated attackers to execute arbitrary OS commands on development machines running the vulnerable Metro server.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 5, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers warn of flaws that allow manipulation of Microsoft Teams messages<a href="https://www.cybersecuritydive.com/news/researchers-flaws-manipulation-microsoft-teams-messages/804636/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple critical vulnerabilities in Microsoft Teams have been identified that allow attackers to manipulate messages, spoof notifications, and impersonate users in chats and calls. These flaws affect both internal and external communications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 5, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How PowerShell Gallery simplifies supply chain attacks<a href="https://www.reversinglabs.com/blog/powershell-gallery-simplify-sscs-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PowerShell Gallery has been identified as a potential vector for software supply chain attacks. Malicious actors can exploit PowerShell’s autoloading and command clobbering features to override legitimate system commands.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Akira Ransomware Strikes Apache OpenOffice, Allegedly Exfiltrates 23GB of Data<a href="https://gbhackers.com/akira-ransomware/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Akira Ransomware Strikes Apache OpenOffice, Allegedly Exfiltrates 23GB of Data<a
 The notorious Akira ransomware gang announced on October 29, 2025, that it successfully penetrated the systems of Apache OpenOffice, claiming to have exfiltrated a staggering 23 gigabytes of sensitive corporate data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2025
+November 3, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Proton Warns of 300 Million Stolen Login Details Circulating on Dark Web<a href="https://gbhackers.com/proton-warns-of-300-million-stolen-login-details-on-dark-web/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Proton Warns of 300 Million Stolen Login Details Circulating on Dark Web<a href=
 Privacy-focused technology company Proton has issued a warning about the escalating data breach crisis, revealing that hundreds of millions of stolen login credentials are actively circulating on the dark web.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2025
+November 3, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Leak Site Ransomware Victims Spike 13% in a Year<a href="https://www.infosecurity-magazine.com/news/leak-site-ransomware-victims-spike/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Leak Site Ransomware Victims Spike 13% in a Year<a href="https://www.infosecurit
 A review of data leak sites over the period September 2024-August 2025 revealed a double-digit annual increase in European victims, to 1380. After the UK, Germany, Italy, France and Spain were the most targeted nations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2025
+November 3, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New BOF Tool Bypasses Microsoft Teams Cookie Encryption to Steal User Chats<a href="https://gbhackers.com/new-bof-tool-bypasses-microsoft-teams-cookie-encryption/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ New BOF Tool Bypasses Microsoft Teams Cookie Encryption to Steal User Chats<a hr
 Cybersecurity researchers have released a specialised Beacon Object File (BOF) tool that exploits a critical weakness in Microsoft Teams cookie encryption, enabling attackers to steal user chat messages and other sensitive communications.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2025
+November 3, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-Linked Hackers Exploit Windows Shortcut Flaw to Target European Diplomats<a href="https://thehackernews.com/2025/10/china-linked-hackers-exploit-windows.html?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ China-Linked Hackers Exploit Windows Shortcut Flaw to Target European Diplomats<
 A China-affiliated threat actor known as UNC6384 has been linked to a fresh set of attacks exploiting an unpatched Windows shortcut vulnerability to target European diplomatic and government entities between September and October 2025.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2025
+November 3, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability<a href="https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability<a hr
 The Australian Signals Directorate (ASD) has issued a bulletin about ongoing cyber attacks targeting unpatched Cisco IOS XE devices in the country with a previously undocumented implant known as BADCANDY.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2025
+November 3, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nation-State Hackers Deploy New Airstalk Malware in Suspected Supply Chain Attack<a href="https://thehackernews.com/2025/10/nation-state-hackers-deploy-new.html?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Nation-State Hackers Deploy New Airstalk Malware in Suspected Supply Chain Attac
 A suspected nation-state threat actor has been linked to the distribution of a new malware called Airstalk as part of a likely supply chain attack. Airstalk misuses the AirWatch API for Workspace ONE Unified Endpoint Management.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2025
+November 3, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Conduent January 2025 breach impacts 10M+ people<a href="https://securityaffairs.com/184128/data-breach/conduent-january-2025-breach-impacts-10m-people.html?&web_view=true"> Full Text</a>
@@ -156,7 +316,7 @@ Conduent January 2025 breach impacts 10M+ people<a href="https://securityaffairs
 A major data breach at Conduent has compromised the personal information of approximately 10,515,849 individuals. The breach, discovered exposed sensitive data including names, addresses, dates of birth, SSNs, and health and insurance information.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
