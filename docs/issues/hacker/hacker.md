@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hackers abuse Hyper-V to hide malware in Linux VMs<a href="https://www.bleepingcomputer.com/news/security/russian-hackers-abuse-hyper-v-to-hide-malware-in-linux-vms/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian-aligned cyber-espionage group, Curly COMrades, is leveraging Microsoft Hyper-V to deploy hidden Alpine Linux VMs on compromised Windows systems. These VMs host custom malware implants - CurlyShell and CurlCat.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 23, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

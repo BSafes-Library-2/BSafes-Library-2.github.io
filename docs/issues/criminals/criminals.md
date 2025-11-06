@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nine Arrested in €600M crypto laundering bust across Europe<a href="https://securityaffairs.com/184215/cyber-crime/nine-arrested-in-e600m-crypto-laundering-bust-across-europe.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A coordinated international law enforcement operation has led to the arrest of nine individuals across Cyprus, Spain, and Germany for their involvement in laundering over €600 million through fraudulent cryptocurrency investment schemes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 24, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

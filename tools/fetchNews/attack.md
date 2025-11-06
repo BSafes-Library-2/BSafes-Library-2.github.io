@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+November 3, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-Linked Hackers Exploit Windows Shortcut Flaw to Target European Diplomats<a href="https://thehackernews.com/2025/10/china-linked-hackers-exploit-windows.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A China-affiliated threat actor known as UNC6384 has been linked to a fresh set of attacks exploiting an unpatched Windows shortcut vulnerability to target European diplomatic and government entities between September and October 2025.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 3, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability<a href="https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian Signals Directorate (ASD) has issued a bulletin about ongoing cyber attacks targeting unpatched Cisco IOS XE devices in the country with a previously undocumented implant known as BADCANDY.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 3, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nation-State Hackers Deploy New Airstalk Malware in Suspected Supply Chain Attack<a href="https://thehackernews.com/2025/10/nation-state-hackers-deploy-new.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A suspected nation-state threat actor has been linked to the distribution of a new malware called Airstalk as part of a likely supply chain attack. Airstalk misuses the AirWatch API for Workspace ONE Unified Endpoint Management.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 31, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

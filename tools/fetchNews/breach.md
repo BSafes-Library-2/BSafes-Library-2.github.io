@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+November 3, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Akira Ransomware Strikes Apache OpenOffice, Allegedly Exfiltrates 23GB of Data<a href="https://gbhackers.com/akira-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious Akira ransomware gang announced on October 29, 2025, that it successfully penetrated the systems of Apache OpenOffice, claiming to have exfiltrated a staggering 23 gigabytes of sensitive corporate data.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 3, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Proton Warns of 300 Million Stolen Login Details Circulating on Dark Web<a href="https://gbhackers.com/proton-warns-of-300-million-stolen-login-details-on-dark-web/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Privacy-focused technology company Proton has issued a warning about the escalating data breach crisis, revealing that hundreds of millions of stolen login credentials are actively circulating on the dark web.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 3, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conduent January 2025 breach impacts 10M+ people<a href="https://securityaffairs.com/184128/data-breach/conduent-january-2025-breach-impacts-10m-people.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A major data breach at Conduent has compromised the personal information of approximately 10,515,849 individuals. The breach, discovered exposed sensitive data including names, addresses, dates of birth, SSNs, and health and insurance information.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 1, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
