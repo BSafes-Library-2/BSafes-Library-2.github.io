@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Infrastructure Finds Stability with aurologic GmbH<a href="https://www.recordedfuture.com/research/malicious-infrastructure-finds-stability-with-aurologic-gmbh?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+aurologic GmbH, a German hosting provider, has emerged as a central enabler of malicious infrastructure by providing upstream connectivity to numerous high-risk and sanctioned networks.
+</details>
+<div style="text-align: right" markdown="1">
+Recorded Future
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 5, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

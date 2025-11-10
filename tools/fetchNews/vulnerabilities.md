@@ -8,6 +8,90 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Radiometrics VizAir<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-308-04?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple critical vulnerabilities have been identified in Radiometrics VizAir, a weather monitoring system used in aviation. All vulnerabilities have a CVSS v3.1 and v4 base score of 10.0, indicating maximum severity.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Survision License Plate Recognition Camera<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-308-02?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Survision LPR Camera system does not enforce password protection by default. This allows access to the configuration wizard immediately without a login prompt or credentials check.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TruffleHog, Fade In and BSAFE Crypto-C vulnerabilities<a href="https://blog.talosintelligence.com/trufflehog-fade-in-and-bsafe-crypto-c-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple critical vulnerabilities have been identified and patched across three software products: Fade In (screenwriting software), TruffleHog (sensitive data scanner for code repositories), and Dell BSAFE Crypto-C (cryptographic development kit).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical React Native CLI Flaw Exposed Millions of Developers to Remote Attacks<a href="https://thehackernews.com/2025/11/critical-react-native-cli-flaw-exposed.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical command injection bug has been identified in two npm packages. It allows remote unauthenticated attackers to execute arbitrary OS commands on development machines running the vulnerable Metro server.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers warn of flaws that allow manipulation of Microsoft Teams messages<a href="https://www.cybersecuritydive.com/news/researchers-flaws-manipulation-microsoft-teams-messages/804636/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple critical vulnerabilities in Microsoft Teams have been identified that allow attackers to manipulate messages, spoof notifications, and impersonate users in chats and calls. These flaws affect both internal and external communications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How PowerShell Gallery simplifies supply chain attacks<a href="https://www.reversinglabs.com/blog/powershell-gallery-simplify-sscs-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PowerShell Gallery has been identified as a potential vector for software supply chain attacks. Malicious actors can exploit PowerShell’s autoloading and command clobbering features to override legitimate system commands.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 3, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

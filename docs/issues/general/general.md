@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+November 6, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enterprises are losing track of the devices inside their networks<a href="https://www.helpnetsecurity.com/2025/11/06/enterprise-xiot-devices-risk/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A comprehensive analysis of 10 million devices across 700+ organizations revealed that nearly two-thirds of connected assets were non-traditional IT devices. These included network infrastructure (routers, firewalls) and xIoT devices such as OT.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 3, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

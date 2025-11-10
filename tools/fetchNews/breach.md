@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+November 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Media giant Nikkei reports data breach impacting 17,000 people<a href="https://www.bleepingcomputer.com/news/security/media-giant-nikkei-reports-data-breach-impacting-17-000-people/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent data breach at Japanese media conglomerate Nikkei has compromised the personal information of 17,368 individuals, including employees and business partners, following unauthorized access to its Slack messaging platform.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data breach at major Swedish software supplier impacts 1.5 million<a href="https://www.bleepingcomputer.com/news/security/data-breach-at-major-swedish-software-supplier-impacts-15-million/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant data breach at Swedish IT systems supplier Miljödata has compromised the personal data of approximately 1.5 million individuals. The breach is attributed to the threat actor Datacarry.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 3, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
