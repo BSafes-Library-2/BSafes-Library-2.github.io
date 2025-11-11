@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 7, 2025
+November 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Uncovers 'Whisper Leak' Attack That Identifies AI Chat Topics in Encrypted Traffic<a href="https://thehackernews.com/2025/11/microsoft-uncovers-whisper-leak-attack.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A novel side-channel attack technique, dubbed Whisper Leak, has been disclosed, targeting encrypted communications between users and streaming-mode large language models (LLMs).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco: Actively exploited firewall flaws now abused for DoS attacks<a href="https://www.bleepingcomputer.com/news/security/cisco-actively-exploited-firewall-flaws-now-abused-for-dos-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two critical bugs in Cisco ASA and FTD firewalls—CVE-2025-20362 and CVE-2025-20333—are being actively exploited in the wild. Initially used for remote code execution and unauthorized access, these flaws are now also being leveraged in DoS attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nevada ransomware attack traced back to malware download by employee<a href="https://www.cybersecuritydive.com/news/nevada-ransomware-attack-traced-back-to-malware-download-by-employee/805011/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack targeting the state of Nevada was traced back to a malware-laced tool downloaded by a state employee from a spoofed website. The attack, which culminated in ransomware deployment on August 24, impacted over 60 state agencies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon WorkSpaces Linux Flaw Exposes User Tokens<a href="https://www.esecurityplanet.com/news/amazon-workspaces-linux-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in Amazon WorkSpaces client for Linux (CVE-2025-12779) allows local attackers to extract valid authentication tokens, potentially leading to unauthorized access and lateral movement within corporate environments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattacks surge against IoT, mobile devices in critical infrastructure<a href="https://www.cybersecuritydive.com/news/mobile-iot-attacks-surge-critical-infrastructure-zscaler/805008/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant surge in cyberattacks targeting Android and Internet of Things (IoT) devices has been observed across critical infrastructure sectors between June 2024 and May 2025.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hidden Logic Bombs in Malware-Laced NuGet Packages Set to Detonate Years After Installation<a href="https://thehackernews.com/2025/11/hidden-logic-bombs-in-malware-laced.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated software supply chain attack has been uncovered involving nine malicious NuGet packages embedded with time-delayed logic bombs. These packages, published by a user named shanhai666, were downloaded nearly 9,500 times.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+From Log4j to IIS, China's Hackers Turn Legacy Bugs into Global Espionage Tools<a href="https://thehackernews.com/2025/11/from-log4j-to-iis-chinas-hackers-turn.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple Chinese state-linked threat actors are exploiting legacy bugs in widely used software to conduct cyberespionage. These target government, non-profit, and private sector organizations across the U.S., Asia, Europe, and Latin America.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New “LANDFALL” Android Malware Uses Samsung 0-Day Vulnerability Hidden in WhatsApp Images<a href="https://gbhackers.com/samsung-0-day-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered Android spyware campaign, dubbed LANDFALL, has exploited a critical zero-day vulnerability (CVE-2025-21042) in Samsung’s image processing library to deliver surveillance malware via malformed DNG image files sent through WhatsApp.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Microsoft Teams Feature Exposes Users to Phishing and Malware Risks<a href="https://gbhackers.com/microsoft-teams-feature/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is introducing a new feature in Teams that allows users to initiate chats with any email address, even if the recipient is not a Teams user. It significantly increases the risk of phishing, impersonation, and malware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Have I Been Pwned: TISZA Világ Data Breach<a href="https://haveibeenpwned.com/Breach/Tisza?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A data breach has impacted the TISZA Világ service resulting in the exposure of nearly 200,000 user records. The breach, which occurred in October 2025, has led to the widespread redistribution of sensitive personal data online.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 7, 2025 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Old privacy laws create new risks for businesses<a href="https://www.helpnetsecurity.com/2025/11/07/businesses-web-privacy-lawsuits/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Old privacy laws create new risks for businesses<a href="https://www.helpnetsecu
 A recent analysis of nearly 200 data privacy-related insurance claims and 5,000 business websites reveals that 77% of wrongful collection claims stem from web activity. The Meta Pixel alone was cited in 43% of all web privacy claims.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 7, 2025
+November 7, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Influence of Chinese Hacker Organizations on U.S. Foreign Policy<a href="https://gbhackers.com/chinese-hacker-organizations/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Influence of Chinese Hacker Organizations on U.S. Foreign Policy<a href="https:/
 A coordinated cyber-espionage campaign attributed to Chinese state-linked threat actors has targeted a prominent U.S. non-profit involved in foreign policy advocacy. The operation demonstrates advanced persistence techniques.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 7, 2025
+November 7, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Congressional Budget Office hit by suspected foreign cyberattack<a href="https://www.bleepingcomputer.com/news/security/us-congressional-budget-office-hit-by-suspected-foreign-cyberattack/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ U.S. Congressional Budget Office hit by suspected foreign cyberattack<a href="ht
 The U.S. Congressional Budget Office (CBO) has confirmed a cybersecurity incident involving unauthorized access to its network, suspected to be the work of a foreign threat actor.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 7, 2025
+November 7, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Infrastructure Finds Stability with aurologic GmbH<a href="https://www.recordedfuture.com/research/malicious-infrastructure-finds-stability-with-aurologic-gmbh?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Malicious Infrastructure Finds Stability with aurologic GmbH<a href="https://www
 aurologic GmbH, a German hosting provider, has emerged as a central enabler of malicious infrastructure by providing upstream connectivity to numerous high-risk and sanctioned networks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Recorded Future
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 7, 2025
+November 7, 2025 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Italian communications executive reveals he was targeted with Paragon spyware<a href="https://therecord.media/italy-comms-exec-spyware?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Italian communications executive reveals he was targeted with Paragon spyware<a 
 Francesco Nicodemo, a prominent Italian communications executive and political adviser, has been identified as the fifth Italian victim of Paragon’s Graphite spyware. He is among 90 individuals notified by WhatsApp of the targeting.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 7, 2025
+November 7, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sandworm Hackers Target Ukrainian Organizations With Data-Wiping Malware<a href="https://gbhackers.com/sandworm-hackers/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Sandworm Hackers Target Ukrainian Organizations With Data-Wiping Malware<a href=
 Russia-aligned Sandworm deployed two data-wiping malware strains—ZEROLOT and Sting. The malware campaigns have targeted critical sectors including governmental entities, energy infrastructure, logistics providers, and notably, the grain sector.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 7, 2025
+November 7, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cavalry Werewolf Launches Cyberattack on Government Agencies to Deploy Network Backdoor<a href="https://gbhackers.com/cavalry-werewolf/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Cavalry Werewolf Launches Cyberattack on Government Agencies to Deploy Network B
 A sophisticated cyberattack campaign has been attributed to the threat actor group Cavalry Werewolf, targeting government agencies with the intent to steal sensitive data and establish persistent access within critical infrastructure networks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 7, 2025
+November 7, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New NGate Malware Lets Hackers Drain ATMs Remotely<a href="https://www.esecurityplanet.com/threats/news-ngate-malware-poland-atm/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ New NGate Malware Lets Hackers Drain ATMs Remotely<a href="https://www.esecurity
 NGate is a newly identified Android malware that enables attackers to perform unauthorized ATM withdrawals by relaying NFC payment data from victims’ smartphones. It leverages Host Card Emulation (HCE) and advanced social engineering.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ESecurity Planet
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 7, 2025
+November 7, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AI-Slop ransomware test sneaks on to VS Code marketplace<a href="https://www.bleepingcomputer.com/news/security/ai-slop-ransomware-test-sneaks-on-to-vs-code-marketplace/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ AI-Slop ransomware test sneaks on to VS Code marketplace<a href="https://www.ble
 A malicious Visual Studio Code extension named susvsex, published by suspublisher18, was discovered on the official VS Code marketplace. The extension exhibited ransomware-like behavior.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 6, 2025
+November 6, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Enterprises are losing track of the devices inside their networks<a href="https://www.helpnetsecurity.com/2025/11/06/enterprise-xiot-devices-risk/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Enterprises are losing track of the devices inside their networks<a href="https:
 A comprehensive analysis of 10 million devices across 700+ organizations revealed that nearly two-thirds of connected assets were non-traditional IT devices. These included network infrastructure (routers, firewalls) and xIoT devices such as OT.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -204,7 +364,7 @@ Nine Arrested in €600M crypto laundering bust across Europe<a href="https://se
 A coordinated international law enforcement operation has led to the arrest of nine individuals across Cyprus, Spain, and Germany for their involvement in laundering over €600 million through fraudulent cryptocurrency investment schemes.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -220,7 +380,7 @@ Media giant Nikkei reports data breach impacting 17,000 people<a href="https://w
 A recent data breach at Japanese media conglomerate Nikkei has compromised the personal information of 17,368 individuals, including employees and business partners, following unauthorized access to its Slack messaging platform.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -236,7 +396,7 @@ Data breach at major Swedish software supplier impacts 1.5 million<a href="https
 A significant data breach at Swedish IT systems supplier Miljödata has compromised the personal data of approximately 1.5 million individuals. The breach is attributed to the threat actor Datacarry.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -252,7 +412,7 @@ Radiometrics VizAir<a href="https://www.cisa.gov/news-events/ics-advisories/icsa
 Multiple critical vulnerabilities have been identified in Radiometrics VizAir, a weather monitoring system used in aviation. All vulnerabilities have a CVSS v3.1 and v4 base score of 10.0, indicating maximum severity.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CISA
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -268,7 +428,7 @@ Survision License Plate Recognition Camera<a href="https://www.cisa.gov/news-eve
 The Survision LPR Camera system does not enforce password protection by default. This allows access to the configuration wizard immediately without a login prompt or credentials check.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CISA
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -284,7 +444,7 @@ TruffleHog, Fade In and BSAFE Crypto-C vulnerabilities<a href="https://blog.talo
 Multiple critical vulnerabilities have been identified and patched across three software products: Fade In (screenwriting software), TruffleHog (sensitive data scanner for code repositories), and Dell BSAFE Crypto-C (cryptographic development kit).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Talos Intelligence
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -300,7 +460,7 @@ Russian hackers abuse Hyper-V to hide malware in Linux VMs<a href="https://www.b
 A Russian-aligned cyber-espionage group, Curly COMrades, is leveraging Microsoft Hyper-V to deploy hidden Alpine Linux VMs on compromised Windows systems. These VMs host custom malware implants - CurlyShell and CurlCat.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -316,7 +476,7 @@ Critical React Native CLI Flaw Exposed Millions of Developers to Remote Attacks<
 A critical command injection bug has been identified in two npm packages. It allows remote unauthenticated attackers to execute arbitrary OS commands on development machines running the vulnerable Metro server.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -332,7 +492,7 @@ Researchers warn of flaws that allow manipulation of Microsoft Teams messages<a 
 Multiple critical vulnerabilities in Microsoft Teams have been identified that allow attackers to manipulate messages, spoof notifications, and impersonate users in chats and calls. These flaws affect both internal and external communications.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyber Security Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -348,7 +508,7 @@ How PowerShell Gallery simplifies supply chain attacks<a href="https://www.rever
 PowerShell Gallery has been identified as a potential vector for software supply chain attacks. Malicious actors can exploit PowerShell’s autoloading and command clobbering features to override legitimate system commands.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Reversing Labs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
