@@ -8,6 +8,34 @@ nav_order: 900165
 
 ## Privacy
 ---
+November 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Old privacy laws create new risks for businesses<a href="https://www.helpnetsecurity.com/2025/11/07/businesses-web-privacy-lawsuits/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent analysis of nearly 200 data privacy-related insurance claims and 5,000 business websites reveals that 77% of wrongful collection claims stem from web activity. The Meta Pixel alone was cited in 43% of all web privacy claims.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italian communications executive reveals he was targeted with Paragon spyware<a href="https://therecord.media/italy-comms-exec-spyware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Francesco Nicodemo, a prominent Italian communications executive and political adviser, has been identified as the fifth Italian victim of Paragon’s Graphite spyware. He is among 90 individuals notified by WhatsApp of the targeting.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 1, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

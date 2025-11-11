@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+From Log4j to IIS, China's Hackers Turn Legacy Bugs into Global Espionage Tools<a href="https://thehackernews.com/2025/11/from-log4j-to-iis-chinas-hackers-turn.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple Chinese state-linked threat actors are exploiting legacy bugs in widely used software to conduct cyberespionage. These target government, non-profit, and private sector organizations across the U.S., Asia, Europe, and Latin America.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 5, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

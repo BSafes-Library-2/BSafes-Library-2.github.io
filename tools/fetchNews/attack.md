@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+November 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Congressional Budget Office hit by suspected foreign cyberattack<a href="https://www.bleepingcomputer.com/news/security/us-congressional-budget-office-hit-by-suspected-foreign-cyberattack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Congressional Budget Office (CBO) has confirmed a cybersecurity incident involving unauthorized access to its network, suspected to be the work of a foreign threat actor.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sandworm Hackers Target Ukrainian Organizations With Data-Wiping Malware<a href="https://gbhackers.com/sandworm-hackers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-aligned Sandworm deployed two data-wiping malware strains—ZEROLOT and Sting. The malware campaigns have targeted critical sectors including governmental entities, energy infrastructure, logistics providers, and notably, the grain sector.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 7, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cavalry Werewolf Launches Cyberattack on Government Agencies to Deploy Network Backdoor<a href="https://gbhackers.com/cavalry-werewolf/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated cyberattack campaign has been attributed to the threat actor group Cavalry Werewolf, targeting government agencies with the intent to steal sensitive data and establish persistent access within critical infrastructure networks.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 3, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

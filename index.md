@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 10, 2025
+November 10, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Uncovers 'Whisper Leak' Attack That Identifies AI Chat Topics in Encrypted Traffic<a href="https://thehackernews.com/2025/11/microsoft-uncovers-whisper-leak-attack.html?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Microsoft Uncovers 'Whisper Leak' Attack That Identifies AI Chat Topics in Encry
 A novel side-channel attack technique, dubbed Whisper Leak, has been disclosed, targeting encrypted communications between users and streaming-mode large language models (LLMs).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 10, 2025
+November 10, 2025 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco: Actively exploited firewall flaws now abused for DoS attacks<a href="https://www.bleepingcomputer.com/news/security/cisco-actively-exploited-firewall-flaws-now-abused-for-dos-attacks/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Cisco: Actively exploited firewall flaws now abused for DoS attacks<a href="http
 Two critical bugs in Cisco ASA and FTD firewalls—CVE-2025-20362 and CVE-2025-20333—are being actively exploited in the wild. Initially used for remote code execution and unauthorized access, these flaws are now also being leveraged in DoS attacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 10, 2025
+November 10, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nevada ransomware attack traced back to malware download by employee<a href="https://www.cybersecuritydive.com/news/nevada-ransomware-attack-traced-back-to-malware-download-by-employee/805011/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Nevada ransomware attack traced back to malware download by employee<a href="htt
 A ransomware attack targeting the state of Nevada was traced back to a malware-laced tool downloaded by a state employee from a spoofed website. The attack, which culminated in ransomware deployment on August 24, impacted over 60 state agencies.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 10, 2025
+November 10, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Amazon WorkSpaces Linux Flaw Exposes User Tokens<a href="https://www.esecurityplanet.com/news/amazon-workspaces-linux-vulnerability/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Amazon WorkSpaces Linux Flaw Exposes User Tokens<a href="https://www.esecuritypl
 A critical vulnerability in Amazon WorkSpaces client for Linux (CVE-2025-12779) allows local attackers to extract valid authentication tokens, potentially leading to unauthorized access and lateral movement within corporate environments.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ESecurity Planet
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 10, 2025
+November 10, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattacks surge against IoT, mobile devices in critical infrastructure<a href="https://www.cybersecuritydive.com/news/mobile-iot-attacks-surge-critical-infrastructure-zscaler/805008/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Cyberattacks surge against IoT, mobile devices in critical infrastructure<a href
 A significant surge in cyberattacks targeting Android and Internet of Things (IoT) devices has been observed across critical infrastructure sectors between June 2024 and May 2025.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 10, 2025
+November 10, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hidden Logic Bombs in Malware-Laced NuGet Packages Set to Detonate Years After Installation<a href="https://thehackernews.com/2025/11/hidden-logic-bombs-in-malware-laced.html?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Hidden Logic Bombs in Malware-Laced NuGet Packages Set to Detonate Years After I
 A sophisticated software supply chain attack has been uncovered involving nine malicious NuGet packages embedded with time-delayed logic bombs. These packages, published by a user named shanhai666, were downloaded nearly 9,500 times.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 10, 2025
+November 10, 2025 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 From Log4j to IIS, China's Hackers Turn Legacy Bugs into Global Espionage Tools<a href="https://thehackernews.com/2025/11/from-log4j-to-iis-chinas-hackers-turn.html?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ From Log4j to IIS, China's Hackers Turn Legacy Bugs into Global Espionage Tools<
 Multiple Chinese state-linked threat actors are exploiting legacy bugs in widely used software to conduct cyberespionage. These target government, non-profit, and private sector organizations across the U.S., Asia, Europe, and Latin America.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 10, 2025
+November 10, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New “LANDFALL” Android Malware Uses Samsung 0-Day Vulnerability Hidden in WhatsApp Images<a href="https://gbhackers.com/samsung-0-day-vulnerability/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ New “LANDFALL” Android Malware Uses Samsung 0-Day Vulnerability Hidden in Wh
 A newly discovered Android spyware campaign, dubbed LANDFALL, has exploited a critical zero-day vulnerability (CVE-2025-21042) in Samsung’s image processing library to deliver surveillance malware via malformed DNG image files sent through WhatsApp.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 10, 2025
+November 10, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Microsoft Teams Feature Exposes Users to Phishing and Malware Risks<a href="https://gbhackers.com/microsoft-teams-feature/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ New Microsoft Teams Feature Exposes Users to Phishing and Malware Risks<a href="
 Microsoft is introducing a new feature in Teams that allows users to initiate chats with any email address, even if the recipient is not a Teams user. It significantly increases the risk of phishing, impersonation, and malware attacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 10, 2025
+November 10, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Have I Been Pwned: TISZA Világ Data Breach<a href="https://haveibeenpwned.com/Breach/Tisza?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Have I Been Pwned: TISZA Világ Data Breach<a href="https://haveibeenpwned.com/B
 A data breach has impacted the TISZA Világ service resulting in the exposure of nearly 200,000 user records. The breach, which occurred in October 2025, has led to the widespread redistribution of sensitive personal data online.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Have I Been PWNED
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
