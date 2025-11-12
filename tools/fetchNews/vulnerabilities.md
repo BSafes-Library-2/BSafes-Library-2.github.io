@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon WorkSpaces Linux Flaw Exposes User Tokens<a href="https://www.esecurityplanet.com/news/amazon-workspaces-linux-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in Amazon WorkSpaces client for Linux (CVE-2025-12779) allows local attackers to extract valid authentication tokens, potentially leading to unauthorized access and lateral movement within corporate environments.
+</details>
+<div style="text-align: right" markdown="1">
+ESecurity Planet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Microsoft Teams Feature Exposes Users to Phishing and Malware Risks<a href="https://gbhackers.com/microsoft-teams-feature/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is introducing a new feature in Teams that allows users to initiate chats with any email address, even if the recipient is not a Teams user. It significantly increases the risk of phishing, impersonation, and malware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 5, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

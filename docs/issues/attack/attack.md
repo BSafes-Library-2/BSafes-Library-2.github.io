@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+November 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Group Deploys Weaponized Documents Against Aerospace &amp; Defense<a href="https://gbhackers.com/lazarus-group/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers at ENKI have uncovered a sophisticated espionage campaign targeting aerospace and defense organizations, in which the Lazarus Group is weaponizing a new variant of the Comebacker backdoor to infiltrate high-value targets.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 10, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

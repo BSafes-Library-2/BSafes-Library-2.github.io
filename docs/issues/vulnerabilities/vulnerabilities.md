@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Triofox bug exploited to run malicious payloads via AV configuration<a href="https://securityaffairs.com/184439/hacking/critical-triofox-bug-exploited-to-run-malicious-payloads-via-av-configuration.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google’s Mandiant researchers spotted threat actors exploiting a now-patched Triofox flaw, tracked as CVE-2025-12480 that allows them to bypass authentication to upload and run remote access tools via the platform’s antivirus feature.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 10, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

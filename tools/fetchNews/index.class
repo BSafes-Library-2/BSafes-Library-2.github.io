@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2025
+November 11, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Yanluowang initial access broker pleaded guilty to ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/yanluowang-initial-access-broker-pleaded-guilty-to-ransomware-attacks/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Yanluowang initial access broker pleaded guilty to ransomware attacks<a href="ht
 A Russian national will plead guilty to acting as an initial access broker (IAB) for Yanluowang ransomware attacks that targeted at least eight U.S. companies between July 2021 and November 2022.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2025
+November 11, 2025 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APT37 hackers abuse Google Find Hub in Android data-wiping attacks<a href="https://www.bleepingcomputer.com/news/security/apt37-hackers-abuse-google-find-hub-in-android-data-wiping-attacks/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ APT37 hackers abuse Google Find Hub in Android data-wiping attacks<a href="https
 North Korean hackers are abusing Google’s Find Hub tool to track the GPS location of their targets and remotely reset Android devices to factory settings. The attacks are primarily targeting South Koreans.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2025
+November 11, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus Group Deploys Weaponized Documents Against Aerospace & Defense<a href="https://gbhackers.com/lazarus-group/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Lazarus Group Deploys Weaponized Documents Against Aerospace & Defense<a href="h
 Security researchers at ENKI have uncovered a sophisticated espionage campaign targeting aerospace and defense organizations, in which the Lazarus Group is weaponizing a new variant of the Comebacker backdoor to infiltrate high-value targets.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2025
+November 11, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Expose Deep Connections Between Maverick and Coyote Banking Malware<a href="https://gbhackers.com/maverick-and-coyote/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Researchers Expose Deep Connections Between Maverick and Coyote Banking Malware<
 Security researchers at CyberProof have uncovered critical connections between two sophisticated banking trojans Maverick and Coyote that are actively targeting Brazilian users through WhatsApp.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2025
+November 11, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Triofox bug exploited to run malicious payloads via AV configuration<a href="https://securityaffairs.com/184439/hacking/critical-triofox-bug-exploited-to-run-malicious-payloads-via-av-configuration.html?&web_view=true"> Full Text</a>
@@ -108,7 +108,7 @@ Critical Triofox bug exploited to run malicious payloads via AV configuration<a 
 Google’s Mandiant researchers spotted threat actors exploiting a now-patched Triofox flaw, tracked as CVE-2025-12480 that allows them to bypass authentication to upload and run remote access tools via the platform’s antivirus feature.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

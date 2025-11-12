@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Yanluowang initial access broker pleaded guilty to ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/yanluowang-initial-access-broker-pleaded-guilty-to-ransomware-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian national will plead guilty to acting as an initial access broker (IAB) for Yanluowang ransomware attacks that targeted at least eight U.S. companies between July 2021 and November 2022.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 7, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

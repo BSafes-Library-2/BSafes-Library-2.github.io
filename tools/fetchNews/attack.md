@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+November 10, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nevada ransomware attack traced back to malware download by employee<a href="https://www.cybersecuritydive.com/news/nevada-ransomware-attack-traced-back-to-malware-download-by-employee/805011/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack targeting the state of Nevada was traced back to a malware-laced tool downloaded by a state employee from a spoofed website. The attack, which culminated in ransomware deployment on August 24, impacted over 60 state agencies.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 7, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
