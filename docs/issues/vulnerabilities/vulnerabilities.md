@@ -8,6 +8,26 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patches 63 Vulnerabilities in November Patch Tuesday Including Critical RCE and Privilege Escalation Flaws<a href="https://news.sophos.com/en-us/2025/11/12/november-patch-tuesday-does-its-chores/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft’s November Patch Tuesday addresses 63 vulnerabilities across 13 product families, including:
+
+Windows (38) 
+Office (12), 365 (11), Excel (7), Visual Studio (4)
+Dynamics 365 (3), Azure (1), Configuration Manager (1)
+
+and more.
+</details>
+<div style="text-align: right" markdown="1">
+Sophos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 11, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

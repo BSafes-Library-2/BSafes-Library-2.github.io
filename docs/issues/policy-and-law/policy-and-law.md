@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+November 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Government Finally Introduces Cyber Security and Resilience Bill<a href="https://www.infosecurity-magazine.com/news/government-cyber-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK government has introduced the Cyber Security and Resilience Bill to Parliament, marking a significant step toward strengthening national cybersecurity and protecting critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 29, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

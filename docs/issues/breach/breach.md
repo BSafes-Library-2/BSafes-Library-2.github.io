@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+November 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NHS patients to finally be informed if hackers published their STI and cancer test data<a href="https://therecord.media/synnovis-healthcare-data-breach-notification-uk-patients?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack by the Qilin cybercrime group in June 2024 targeted Synnovis, a pathology services provider for the NHS, resulting in the exposure of highly sensitive medical data of over 900,000 patients.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 10, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

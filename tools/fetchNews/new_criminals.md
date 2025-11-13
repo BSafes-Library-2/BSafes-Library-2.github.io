@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rhadamanthys Stealer Servers Reportedly Seized<a href="https://gbhackers.com/rhadamanthys-stealer-2/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A major law enforcement operation has reportedly compromised the infrastructure of the Rhadamanthys stealer, a prominent malware-as-a-service platform. The takedown has disrupted access to its command-and-control (C2) servers and control panels.
+</details>
+<div style="text-align: right" markdown="1">
+GBHakcers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 11, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

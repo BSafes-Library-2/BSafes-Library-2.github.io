@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+November 12, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean spies used Google Find Hub as remote-wipe tool<a href="https://www.theregister.com/2025/11/11/north_korean_spies_turn_googles/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked threat actor KONNI has been observed abusing Google's Find My Device feature to remotely factory reset Android smartphones and tablets belonging to South Korean targets.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 11, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
