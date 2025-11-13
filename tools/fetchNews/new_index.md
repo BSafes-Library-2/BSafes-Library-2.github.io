@@ -34,7 +34,173 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2025
+November 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patches 63 Vulnerabilities in November Patch Tuesday Including Critical RCE and Privilege Escalation Flaws<a href="https://news.sophos.com/en-us/2025/11/12/november-patch-tuesday-does-its-chores/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft’s November Patch Tuesday addresses 63 vulnerabilities across 13 product families, including:
+
+Windows (38) 
+Office (12), 365 (11), Excel (7), Visual Studio (4)
+Dynamics 365 (3), Azure (1), Configuration Manager (1)
+
+and more.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NHS patients to finally be informed if hackers published their STI and cancer test data<a href="https://therecord.media/synnovis-healthcare-data-breach-notification-uk-patients?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack by the Qilin cybercrime group in June 2024 targeted Synnovis, a pathology services provider for the NHS, resulting in the exposure of highly sensitive medical data of over 900,000 patients.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rhadamanthys Stealer Servers Reportedly Seized<a href="https://gbhackers.com/rhadamanthys-stealer-2/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A major law enforcement operation has reportedly compromised the infrastructure of the Rhadamanthys stealer, a prominent malware-as-a-service platform. The takedown has disrupted access to its command-and-control (C2) servers and control panels.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Government Finally Introduces Cyber Security and Resilience Bill<a href="https://www.infosecurity-magazine.com/news/government-cyber-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK government has introduced the Cyber Security and Resilience Bill to Parliament, marking a significant step toward strengthening national cybersecurity and protecting critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing emails disguised as spam filter alerts are stealing logins<a href="https://www.malwarebytes.com/blog/news/2025/11/phishing-emails-disguised-as-spam-filter-alerts-are-stealing-logins?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phishing emails are crafted to resemble internal “Email Delivery Reports” and claim that due to a recent upgrade in the Secure Message system, some messages are pending delivery.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware of Security Alert-Themed Malicious Emails that Steal Your Email Logins<a href="https://gbhackers.com/email-logins/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated phishing campaign is actively targeting email users by impersonating internal security alert systems. These emails appear to originate from the recipient’s own corporate domain.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Quantum Route Redirect Phishing Kit Democratizes Cyber-Attacks<a href="https://www.infosecurity-magazine.com/news/quantum-route-redirect-phishing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new PhaaS platform, Quantum Route Redirect, is enabling cybercriminals to launch sophisticated phishing campaigns with minimal technical expertise. The platform has been used to target users across 90 nations, with 76% of victims located in the US.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fantasy Hub: Russian-sold Android RAT boasts full device espionage as MaaS<a href="https://securityaffairs.com/184488/malware/fantasy-hub-russian-sold-android-rat-boasts-full-device-espionage-as-maas.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fantasy Hub is a sophisticated Android Remote Access Trojan (RAT) sold as a Malware-as-a-Service (MaaS) offering, primarily targeting mobile banking users and BYOD environments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qilin Ransomware Activity Surges as Attacks Target Small Businesses<a href="https://www.infosecurity-magazine.com/news/qilin-ransomware-activity-surges/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Qilin ransomware, a long-standing Ransomware-as-a-Service (RaaS) operation, has seen a surge in activity, primarily targeting small-to-medium-sized businesses across the construction, healthcare, and financial sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean spies used Google Find Hub as remote-wipe tool<a href="https://www.theregister.com/2025/11/11/north_korean_spies_turn_googles/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked threat actor KONNI has been observed abusing Google's Find My Device feature to remotely factory reset Android smartphones and tablets belonging to South Korean targets.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Yanluowang initial access broker pleaded guilty to ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/yanluowang-initial-access-broker-pleaded-guilty-to-ransomware-attacks/?&web_view=true"> Full Text</a>
@@ -44,13 +210,13 @@ Yanluowang initial access broker pleaded guilty to ransomware attacks<a href="ht
 A Russian national will plead guilty to acting as an initial access broker (IAB) for Yanluowang ransomware attacks that targeted at least eight U.S. companies between July 2021 and November 2022.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2025
+November 11, 2025 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APT37 hackers abuse Google Find Hub in Android data-wiping attacks<a href="https://www.bleepingcomputer.com/news/security/apt37-hackers-abuse-google-find-hub-in-android-data-wiping-attacks/?&web_view=true"> Full Text</a>
@@ -60,13 +226,13 @@ APT37 hackers abuse Google Find Hub in Android data-wiping attacks<a href="https
 North Korean hackers are abusing Google’s Find Hub tool to track the GPS location of their targets and remotely reset Android devices to factory settings. The attacks are primarily targeting South Koreans.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2025
+November 11, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus Group Deploys Weaponized Documents Against Aerospace & Defense<a href="https://gbhackers.com/lazarus-group/?&web_view=true"> Full Text</a>
@@ -76,13 +242,13 @@ Lazarus Group Deploys Weaponized Documents Against Aerospace & Defense<a href="h
 Security researchers at ENKI have uncovered a sophisticated espionage campaign targeting aerospace and defense organizations, in which the Lazarus Group is weaponizing a new variant of the Comebacker backdoor to infiltrate high-value targets.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2025
+November 11, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Expose Deep Connections Between Maverick and Coyote Banking Malware<a href="https://gbhackers.com/maverick-and-coyote/?&web_view=true"> Full Text</a>
@@ -92,13 +258,13 @@ Researchers Expose Deep Connections Between Maverick and Coyote Banking Malware<
 Security researchers at CyberProof have uncovered critical connections between two sophisticated banking trojans Maverick and Coyote that are actively targeting Brazilian users through WhatsApp.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2025
+November 11, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Triofox bug exploited to run malicious payloads via AV configuration<a href="https://securityaffairs.com/184439/hacking/critical-triofox-bug-exploited-to-run-malicious-payloads-via-av-configuration.html?&web_view=true"> Full Text</a>
@@ -108,7 +274,7 @@ Critical Triofox bug exploited to run malicious payloads via AV configuration<a 
 Google’s Mandiant researchers spotted threat actors exploiting a now-patched Triofox flaw, tracked as CVE-2025-12480 that allows them to bypass authentication to upload and run remote access tools via the platform’s antivirus feature.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
