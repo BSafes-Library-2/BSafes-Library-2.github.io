@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerabilities in Brightpick Mission Control Allow Remote Access and Credential Exposure<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-317-04?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple high-severity vulnerabilities have been identified in all versions of Brightpick AI's Mission Control / Internal Logic Control platform. These bugs affect all versions of the product and are exploitable remotely with low attack complexity.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub security advisory (AV25-737)<a href="https://www.cyber.gc.ca/en/alerts-advisories/github-security-advisory-av25-737?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple versions of GitHub Enterprise Server are affected by a vulnerability identified as CVE-2025-11892. This issue may have been exploited, prompting urgent action to update to the latest patched versions.
+</details>
+<div style="text-align: right" markdown="1">
+Government of Canada
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability in Google Chrome for Desktop Prior to Version 142.0.7444.162<a href="https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av25-742?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security vulnerability has been identified in Google Chrome for Desktop. Users running versions prior to 142.0.7444.162/.163 on Windows and 142.0.7444.162 on Mac and Linux are affected.
+</details>
+<div style="text-align: right" markdown="1">
+Government of Canada
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 13, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

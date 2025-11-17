@@ -8,6 +8,48 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 13, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing emails disguised as spam filter alerts are stealing logins<a href="https://www.malwarebytes.com/blog/news/2025/11/phishing-emails-disguised-as-spam-filter-alerts-are-stealing-logins?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phishing emails are crafted to resemble internal “Email Delivery Reports” and claim that due to a recent upgrade in the Secure Message system, some messages are pending delivery.
+</details>
+<div style="text-align: right" markdown="1">
+Malware Bytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 12, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware of Security Alert-Themed Malicious Emails that Steal Your Email Logins<a href="https://gbhackers.com/email-logins/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated phishing campaign is actively targeting email users by impersonating internal security alert systems. These emails appear to originate from the recipient’s own corporate domain.
+</details>
+<div style="text-align: right" markdown="1">
+GBHackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 12, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Quantum Route Redirect Phishing Kit Democratizes Cyber-Attacks<a href="https://www.infosecurity-magazine.com/news/quantum-route-redirect-phishing/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new PhaaS platform, Quantum Route Redirect, is enabling cybercriminals to launch sophisticated phishing campaigns with minimal technical expertise. The platform has been used to target users across 90 nations, with 76% of victims located in the US.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 31, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

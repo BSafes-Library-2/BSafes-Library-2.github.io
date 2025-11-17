@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+November 12, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qilin Ransomware Activity Surges as Attacks Target Small Businesses<a href="https://www.infosecurity-magazine.com/news/qilin-ransomware-activity-surges/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Qilin ransomware, a long-standing Ransomware-as-a-Service (RaaS) operation, has seen a surge in activity, primarily targeting small-to-medium-sized businesses across the construction, healthcare, and financial sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 10, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

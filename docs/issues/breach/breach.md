@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+November 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Washington Post data breach impacts nearly 10K employees, contractors<a href="https://www.bleepingcomputer.com/news/security/washington-post-data-breach-impacts-nearly-10k-employees-contractors/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical data breach at The Washington Post has compromised sensitive personal and financial information of 9,720 employees and contractors. The breach was facilitated through a zero-day vulnerability in Oracle E-Business Suite (CVE-2025-61884).
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoorDash hit by new data breach in October exposing user information<a href="https://www.bleepingcomputer.com/news/security/doordash-hit-by-new-data-breach-in-october-exposing-user-information/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DoorDash has disclosed a data breach, involving unauthorized access to user data through a social engineering attack. Notification emails began reaching affected users the evening before the public disclosure, primarily targeting users in Canada.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 13, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
