@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerabilities in Brightpick Mission Control Allow Remote Access and Credential Exposure<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-317-04?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple high-severity vulnerabilities have been identified in all versions of Brightpick AI's Mission Control / Internal Logic Control platform. These bugs affect all versions of the product and are exploitable remotely with low attack complexity.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Washington Post data breach impacts nearly 10K employees, contractors<a href="https://www.bleepingcomputer.com/news/security/washington-post-data-breach-impacts-nearly-10k-employees-contractors/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical data breach at The Washington Post has compromised sensitive personal and financial information of 9,720 employees and contractors. The breach was facilitated through a zero-day vulnerability in Oracle E-Business Suite (CVE-2025-61884).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA and Partners Release Advisory Update on Akira Ransomware<a href="https://www.cisa.gov/news-events/alerts/2025/11/13/cisa-and-partners-release-advisory-update-akira-ransomware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As of November 2025, Akira ransomware actors have expanded their operations, deploying a new variant—Akira_v2—that features faster encryption speeds and improved mechanisms to inhibit system recovery.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens LOGO! 8 BM Devices<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-317-13?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple critical vulnerabilities have been identified in Siemens LOGO! 8 BM and SIPLUS LOGO! programmable logic controller (PLC) devices. These vulnerabilities could allow remote attackers to execute arbitrary code.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub security advisory (AV25-737)<a href="https://www.cyber.gc.ca/en/alerts-advisories/github-security-advisory-av25-737?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple versions of GitHub Enterprise Server are affected by a vulnerability identified as CVE-2025-11892. This issue may have been exploited, prompting urgent action to update to the latest patched versions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake spam filter alerts are hitting inboxes<a href="https://www.helpnetsecurity.com/2025/11/13/phishing-spam-filter-alert/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated phishing campaign is targeting email users with fake spam filter alerts. These emails impersonate legitimate spam filter notifications and redirect users to spoofed login pages designed to harvest sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing campaign targets customers of major Italian web hosting provider<a href="https://therecord.media/phishing-campaign-targets-italian-web-hosting-customers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large-scale phishing campaign has been uncovered targeting customers of Aruba S.p.A. The campaign aims to steal sensitive login credentials and payment information by impersonating Aruba’s login and payment portals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoorDash hit by new data breach in October exposing user information<a href="https://www.bleepingcomputer.com/news/security/doordash-hit-by-new-data-breach-in-october-exposing-user-information/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DoorDash has disclosed a data breach, involving unauthorized access to user data through a social engineering attack. Notification emails began reaching affected users the evening before the public disclosure, primarily targeting users in Canada.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Use KakaoTalk and Google Find Hub in Android Spyware Attack<a href="https://hackread.com/hackers-kakaotalk-google-find-hub-android-spyware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated spyware campaign attributed to the North Korea-linked KONNI APT group has targeted individuals in South Korea using spear phishing, social engineering, and abuse of legitimate services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 13, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability in Google Chrome for Desktop Prior to Version 142.0.7444.162<a href="https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av25-742?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security vulnerability has been identified in Google Chrome for Desktop. Users running versions prior to 142.0.7444.162/.163 on Windows and 142.0.7444.162 on Mac and Linux are affected.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 13, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
