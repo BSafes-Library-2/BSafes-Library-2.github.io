@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake spam filter alerts are hitting inboxes<a href="https://www.helpnetsecurity.com/2025/11/13/phishing-spam-filter-alert/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated phishing campaign is targeting email users with fake spam filter alerts. These emails impersonate legitimate spam filter notifications and redirect users to spoofed login pages designed to harvest sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security 
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing campaign targets customers of major Italian web hosting provider<a href="https://therecord.media/phishing-campaign-targets-italian-web-hosting-customers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large-scale phishing campaign has been uncovered targeting customers of Aruba S.p.A. The campaign aims to steal sensitive login credentials and payment information by impersonating Aruba’s login and payment portals.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 13, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

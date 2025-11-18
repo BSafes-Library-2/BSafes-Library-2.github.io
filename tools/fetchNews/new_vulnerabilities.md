@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mitsubishi Electric MELSEC iQ-F Series<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-317-01?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A medium-severity bug (CVE-2025-10259) has been identified in Mitsubishi Electric's MELSEC iQ-F Series programmable logic controllers (PLCs). The flaw, stemming from improper validation of specified quantity in input, can be exploited remotely.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medium-Severity Vulnerabilities in Siemens SICAM P850 and P855 Devices Allow Remote Impersonation and CSRF Attacks<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-317-11?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two medium-severity vulnerabilities have been identified in Siemens SICAM P850 and P855 devices, which are widely deployed in the Energy sector. Exploitation could allow attackers to impersonate users or perform unauthorized actions remotely.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 14, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

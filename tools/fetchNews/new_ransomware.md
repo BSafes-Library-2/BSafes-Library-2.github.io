@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+November 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Akira Ransomware Haul Surpasses $244M in Illicit Proceeds<a href="https://www.infosecurity-magazine.com/news/akira-ransomware-244m-in-illicit/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Akira ransomware has generated over $244 million in illicit proceeds since late September 2025, showcasing a significant evolution in its tactics and capabilities. The group has expanded its targeting scope to include Nutanix AHV environments.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 7, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

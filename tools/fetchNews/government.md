@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+November 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA and Partners Release Advisory Update on Akira Ransomware<a href="https://www.cisa.gov/news-events/alerts/2025/11/13/cisa-and-partners-release-advisory-update-akira-ransomware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As of November 2025, Akira ransomware actors have expanded their operations, deploying a new variant—Akira_v2—that features faster encryption speeds and improved mechanisms to inhibit system recovery.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 14, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens LOGO! 8 BM Devices<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-317-13?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple critical vulnerabilities have been identified in Siemens LOGO! 8 BM and SIPLUS LOGO! programmable logic controller (PLC) devices. These vulnerabilities could allow remote attackers to execute arbitrary code.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 7, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,6 +34,134 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Tech Firm Leak Reportedly Exposes State Linked Hacking<a href="https://hackread.com/chinese-tech-firm-leak-state-linked-hacking/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A major data breach at Chinese cybersecurity firm Knownsec has reportedly exposed over 12,000 files revealing its alleged involvement in developing and deploying state-linked cyber-espionage tools.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Akira Ransomware Haul Surpasses $244M in Illicit Proceeds<a href="https://www.infosecurity-magazine.com/news/akira-ransomware-244m-in-illicit/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Akira ransomware has generated over $244 million in illicit proceeds since late September 2025, showcasing a significant evolution in its tactics and capabilities. The group has expanded its targeting scope to include Nutanix AHV environments.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mitsubishi Electric MELSEC iQ-F Series<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-317-01?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A medium-severity bug (CVE-2025-10259) has been identified in Mitsubishi Electric's MELSEC iQ-F Series programmable logic controllers (PLCs). The flaw, stemming from improper validation of specified quantity in input, can be exploited remotely.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Decades-old ‘Finger’ protocol abused in ClickFix malware attacks<a href="https://www.bleepingcomputer.com/news/security/decades-old-finger-protocol-abused-in-clickfix-malware-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting the legacy Finger protocol via Windows' built-in finger command to execute remote commands and deploy malware through the ClickFix malware campaign.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Digital Doppelgangers: Anatomy of Evolving Impersonation Campaigns Distributing Gh0st RAT<a href="https://unit42.paloaltonetworks.com/impersonation-campaigns-deliver-gh0st-rat/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two evolving malware campaigns—Campaign Trio (Feb–Mar 2025) and Campaign Chorus (May 2025)—are distributing variants of the Gh0st remote access trojan (RAT) by impersonating known software applications through massive fake domain infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crims flood npm with 150K+ junk packages to farm TEA tokens<a href="https://www.theregister.com/2025/11/14/selfreplicating_supplychain_attack_poisons_150k/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large-scale supply chain attack has flooded the npm open-source registry with over 150,000 malicious packages in a campaign exploiting the tea.xyz platform to harvest cryptocurrency rewards.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Turn JSON Services into Covert Malware Delivery Channels<a href="https://thehackernews.com/2025/11/north-korean-hackers-turn-json-services.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated North Korean-backed campaign, dubbed Contagious Interview, has adopted novel tactics by leveraging legitimate JSON storage services—such as JSON Keeper, JSONsilo, and npoint.io—as covert payload delivery platforms.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medium-Severity Vulnerabilities in Siemens SICAM P850 and P855 Devices Allow Remote Impersonation and CSRF Attacks<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-317-11?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two medium-severity vulnerabilities have been identified in Siemens SICAM P850 and P855 devices, which are widely deployed in the Energy sector. Exploitation could allow attackers to impersonate users or perform unauthorized actions remotely.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 14, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

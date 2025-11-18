@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+November 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Tech Firm Leak Reportedly Exposes State Linked Hacking<a href="https://hackread.com/chinese-tech-firm-leak-state-linked-hacking/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A major data breach at Chinese cybersecurity firm Knownsec has reportedly exposed over 12,000 files revealing its alleged involvement in developing and deploying state-linked cyber-espionage tools.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 14, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
