@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2025
+November 21, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UNC2891 Money Mule Network Reveals Full Scope of ATM Fraud Operation<a href="https://www.infosecurity-magazine.com/news/unc2891-money-mule-network-atm/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ UNC2891 Money Mule Network Reveals Full Scope of ATM Fraud Operation<a href="htt
 An ATM fraud operation led by the threat group UNC2891 involved ATM malware, money mule recruitment, rootkit-based PIN bypass, and coordinated cash withdrawal efforts targeting two major Indonesian banks between 2022 and 2024.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2025
+November 21, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Authentication Bypass Vulnerabilities Identified in iCam365 P201 and QC021 CCTV Models<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-324-02?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Authentication Bypass Vulnerabilities Identified in iCam365 P201 and QC021 CCTV 
 Multiple iCam365 CCTV camera models are affected by missing authentication vulnerabilities, impacting ONVIF and RTSP services. These flaws expose video streams and configuration data to unauthorized users on the same local network.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CISA
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2025
+November 21, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multi-threat Android malware Sturnus steals Signal, WhatsApp messages<a href="https://www.bleepingcomputer.com/news/security/multi-threat-android-malware-sturnus-steals-signal-whatsapp-messages/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Multi-threat Android malware Sturnus steals Signal, WhatsApp messages<a href="ht
 A newly discovered Android banking trojan named Sturnus poses a significant threat to device and data security by targeting encrypted messaging applications such as Signal, WhatsApp, and Telegram.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 20, 2025
+November 20, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New WrtHug campaign hijacks thousands of end-of-life ASUS routers<a href="https://www.bleepingcomputer.com/news/security/new-wrthug-campaign-hijacks-thousands-of-end-of-life-asus-routers/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ New WrtHug campaign hijacks thousands of end-of-life ASUS routers<a href="https:
 Thousands of ASUS WRT routers, mostly end-of-life or outdated devices, have been hijacked in a global campaign called Operation WrtHug that exploits several vulnerabilities.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 20, 2025
+November 20, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian bulletproof hosting provider sanctioned over ransomware ties<a href="https://www.bleepingcomputer.com/news/security/us-sanctions-russian-bulletproof-hosting-provider-media-land-over-ransomware-ties/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Russian bulletproof hosting provider sanctioned over ransomware ties<a href="htt
 The United States, the United Kingdom, and Australia announced sanctions targeting Russian bulletproof hosting (BPH) providers that have supported ransomware gangs and other cybercrime operations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 20, 2025
+November 20, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 W3 Total Cache WordPress plugin vulnerable to PHP command injection<a href="https://www.bleepingcomputer.com/news/security/w3-total-cache-wordpress-plugin-vulnerable-to-php-command-injection/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ W3 Total Cache WordPress plugin vulnerable to PHP command injection<a href="http
 The vulnerability, tracked as CVE-2025-9501, in the W3 Total Cache (W3TC) WordPress plugin can be exploited to run PHP commands on the server by posting a comment that contains a malicious payload.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 20, 2025
+November 20, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sneaky2FA PhaaS kit now uses redteamers' Browser-in-the-Browser attack<a href="https://www.bleepingcomputer.com/news/security/sneaky2fa-phaas-kit-now-uses-redteamers-browser-in-the-browser-attack/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Sneaky2FA PhaaS kit now uses redteamers' Browser-in-the-Browser attack<a href="h
 The Sneaky2FA phishing-as-a-service (PhaaS) kit has added browser-in-the-browser (BitB) capabilities that are used in attacks to steal Microsoft credentials and active sessions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2025
+November 19, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New ShadowRay attacks convert Ray clusters into crypto miners<a href="https://www.bleepingcomputer.com/news/security/new-shadowray-attacks-convert-ray-clusters-into-crypto-miners/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ New ShadowRay attacks convert Ray clusters into crypto miners<a href="https://ww
 A new global campaign, ShadowRay 2.0, is compromising publicly exposed instances of the distributed computing framework Ray by exploiting a critical, unpatched vulnerability (CVE-2023-48022).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2025
+November 19, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LG battery subsidiary says ransomware attack targeted overseas facility<a href="https://therecord.media/lg-energy-solution-ransomware-incident-battery-maker?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ LG battery subsidiary says ransomware attack targeted overseas facility<a href="
 A ransomware attack has targeted an overseas facility of LG Energy Solution, a major global battery manufacturer. The Akira ransomware group claims responsibility for the incident, alleging the theft of 1.7 terabytes of sensitive data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2025
+November 19, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WhatsApp Screen-Sharing Scam Drains $700K in Minutes<a href="https://www.esecurityplanet.com/threats/whatsapp-screen-sharing-scam-drains-700k-in-minutes/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ WhatsApp Screen-Sharing Scam Drains $700K in Minutes<a href="https://www.esecuri
 A widespread scam campaign is exploiting WhatsApp’s screen-sharing feature alongside malware-based propagation via WhatsApp Web to compromise accounts and execute large-scale financial fraud.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ESecurity Planet
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

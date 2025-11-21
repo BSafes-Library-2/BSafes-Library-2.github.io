@@ -8,6 +8,62 @@ nav_order: 900029
 
 ## Breach
 ---
+November 21, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UNC2891 Money Mule Network Reveals Full Scope of ATM Fraud Operation<a href="https://www.infosecurity-magazine.com/news/unc2891-money-mule-network-atm/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ATM fraud operation led by the threat group UNC2891 involved ATM malware, money mule recruitment, rootkit-based PIN bypass, and coordinated cash withdrawal efforts targeting two major Indonesian banks between 2022 and 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New WrtHug campaign hijacks thousands of end-of-life ASUS routers<a href="https://www.bleepingcomputer.com/news/security/new-wrthug-campaign-hijacks-thousands-of-end-of-life-asus-routers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thousands of ASUS WRT routers, mostly end-of-life or outdated devices, have been hijacked in a global campaign called Operation WrtHug that exploits several vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ShadowRay attacks convert Ray clusters into crypto miners<a href="https://www.bleepingcomputer.com/news/security/new-shadowray-attacks-convert-ray-clusters-into-crypto-miners/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new global campaign, ShadowRay 2.0, is compromising publicly exposed instances of the distributed computing framework Ray by exploiting a critical, unpatched vulnerability (CVE-2023-48022).
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp Screen-Sharing Scam Drains $700K in Minutes<a href="https://www.esecurityplanet.com/threats/whatsapp-screen-sharing-scam-drains-700k-in-minutes/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A widespread scam campaign is exploiting WhatsApp’s screen-sharing feature alongside malware-based propagation via WhatsApp Web to compromise accounts and execute large-scale financial fraud.
+</details>
+<div style="text-align: right" markdown="1">
+ESecurity Planet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 17, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sneaky2FA PhaaS kit now uses redteamers' Browser-in-the-Browser attack<a href="https://www.bleepingcomputer.com/news/security/sneaky2fa-phaas-kit-now-uses-redteamers-browser-in-the-browser-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Sneaky2FA phishing-as-a-service (PhaaS) kit has added browser-in-the-browser (BitB) capabilities that are used in attacks to steal Microsoft credentials and active sessions.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 14, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+November 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Decades-old ‘Finger’ protocol abused in ClickFix malware attacks<a href="https://www.bleepingcomputer.com/news/security/decades-old-finger-protocol-abused-in-clickfix-malware-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting the legacy Finger protocol via Windows' built-in finger command to execute remote commands and deploy malware through the ClickFix malware campaign.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crims flood npm with 150K+ junk packages to farm TEA tokens<a href="https://www.theregister.com/2025/11/14/selfreplicating_supplychain_attack_poisons_150k/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large-scale supply chain attack has flooded the npm open-source registry with over 150,000 malicious packages in a campaign exploiting the tea.xyz platform to harvest cryptocurrency rewards.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Turn JSON Services into Covert Malware Delivery Channels<a href="https://thehackernews.com/2025/11/north-korean-hackers-turn-json-services.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated North Korean-backed campaign, dubbed Contagious Interview, has adopted novel tactics by leveraging legitimate JSON storage services—such as JSON Keeper, JSONsilo, and npoint.io—as covert payload delivery platforms.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 12, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

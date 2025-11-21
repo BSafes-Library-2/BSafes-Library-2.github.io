@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian bulletproof hosting provider sanctioned over ransomware ties<a href="https://www.bleepingcomputer.com/news/security/us-sanctions-russian-bulletproof-hosting-provider-media-land-over-ransomware-ties/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States, the United Kingdom, and Australia announced sanctions targeting Russian bulletproof hosting (BPH) providers that have supported ransomware gangs and other cybercrime operations.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 13, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
