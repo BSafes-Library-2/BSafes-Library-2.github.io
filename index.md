@@ -34,6 +34,86 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cox Enterprises discloses Oracle E-Business Suite data breach<a href="https://www.bleepingcomputer.com/news/security/cox-enterprises-discloses-oracle-e-business-suite-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cox Enterprises has suffered a significant data breach due to exploitation of a zero-day vulnerability in Oracle E-Business Suite. The Cl0p ransomware group exploited CVE-2025-61882.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Breaking Down S3 Ransomware: Variants, Attack Paths and Trend Vision One™ Defenses<a href="https://www.trendmicro.com/en_us/research/25/k/s3-ransomware.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent ransomware developments have shifted focus toward exploiting cloud-native environments, particularly Amazon S3, through misconfigurations and advanced misuse of AWS encryption and access mechanisms.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Tsundere botnet uses the Ethereum blockchain to infect its targets<a href="https://securelist.com/tsundere-node-js-botnet-uses-ethereum-blockchain/117979/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly emerged malware campaign, dubbed Tsundere Botnet, is actively targeting Windows systems through various sophisticated infection mechanisms. This Node.js-based botnet utilizes Ethereum blockchain smart contracts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OWASP Top 10 takes on software supply chain risk<a href="https://www.reversinglabs.com/blog/owasp-top-10-supply-chain-risk?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The OWASP Top 10 for 2025 introduces core changes emphasizing systemic risks in modern application ecosystems. Key additions include “Supply Chain Failures” at rank #3 and “Mishandling of Exceptional Conditions” at rank #10.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Salesforce investigating campaign targeting customer environments connected to Gainsight app<a href="https://www.cybersecuritydive.com/news/salesforce-investigating-customer-connected-Gainsight/806093/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent campaign linked to the ShinyHunters threat actor is exploiting OAuth tokens from third-party applications—specifically those developed by Gainsight—integrated into Salesforce environments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 21, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
