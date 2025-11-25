@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+November 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LG battery subsidiary says ransomware attack targeted overseas facility<a href="https://therecord.media/lg-energy-solution-ransomware-incident-battery-maker?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack has targeted an overseas facility of LG Energy Solution, a major global battery manufacturer. The Akira ransomware group claims responsibility for the incident, alleging the theft of 1.7 terabytes of sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 17, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

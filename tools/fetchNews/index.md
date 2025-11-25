@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2025
+November 24, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Who Is Dark Storm? The Threat Actor European Security Teams Can’t Ignore<a href="https://thecyberexpress.com/dark-storm-threat-actor-profile/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Who Is Dark Storm? The Threat Actor European Security Teams Can’t Ignore<a hre
 A threat actor known as Dark Storm, a pro-Russian hacktivist collective, has escalated its cyber disruption campaigns across Europe and Russia, increasingly targeting government institutions and critical infrastructure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2025
+November 24, 2025 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ToddyCat APT's new tools and techniques<a href="https://securelist.com/toddycat-apt-steals-email-data-from-outlook/118044/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ ToddyCat APT's new tools and techniques<a href="https://securelist.com/toddycat-
 A highly sophisticated email espionage campaign led by the persistent threat actor ToddyCat has been detected making use of enhanced and stealthy malware methodologies to exfiltrate corporate email data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Secure List
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2025
+November 24, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hidden Functionality Vulnerability in Festo MSE6-C2M/D2M/E2M Devices Allows Remote Compromise<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-324-04?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Hidden Functionality Vulnerability in Festo MSE6-C2M/D2M/E2M Devices Allows Remo
 A critical vulnerability has been identified in multiple models of Festo's MSE6-C2M, D2M, and E2M devices. Exploitation of this remotely accessible flaw may allow a low-privileged authenticated attacker to trigger undocumented test modes.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CISA
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2025
+November 24, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Massive data leak hits Italian railway operator Ferrovie dello Stato via Almaviva hack<a href="https://securityaffairs.com/184907/data-breach/massive-data-leak-hits-italian-railway-operator-ferrovie-dello-stato-via-almaviva-hack.html?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Massive data leak hits Italian railway operator Ferrovie dello Stato via Almaviv
 A data breach has affected Italy’s national railway operator, Ferrovie dello Stato Italiane, following a successful cyberattack on its digital services provider, Almaviva. Threat actors claim to have exfiltrated 2.3 TB of highly sensitive info.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2025
+November 24, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Adds One Known Exploited Vulnerability to Catalog<a href="https://www.cisa.gov/news-events/alerts/2025/11/21/cisa-adds-one-known-exploited-vulnerability-catalog?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ CISA Adds One Known Exploited Vulnerability to Catalog<a href="https://www.cisa.
 A newly discovered and actively exploited vulnerability in Oracle Fusion Middleware—tracked as CVE-2025-61757—has been added to the Known Exploited Vulnerabilities (KEV) Catalog maintained to promote early detection and remediation.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CISA
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2025
+November 24, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Analysis Report on Malicious Apps Using Advanced Detection and Evasion Techniques<a href="https://asec.ahnlab.com/en/91180/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Analysis Report on Malicious Apps Using Advanced Detection and Evasion Technique
 A sophisticated Android malware has been identified utilizing advanced evasion and detection resistance strategies. The malware employs strong packing and obfuscation to hinder traditional antivirus (AV) systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Ahn Lab
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2025
+November 24, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cox Enterprises discloses Oracle E-Business Suite data breach<a href="https://www.bleepingcomputer.com/news/security/cox-enterprises-discloses-oracle-e-business-suite-data-breach/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Cox Enterprises discloses Oracle E-Business Suite data breach<a href="https://ww
 Cox Enterprises has suffered a significant data breach due to exploitation of a zero-day vulnerability in Oracle E-Business Suite. The Cl0p ransomware group exploited CVE-2025-61882.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2025
+November 24, 2025 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Breaking Down S3 Ransomware: Variants, Attack Paths and Trend Vision One™ Defenses<a href="https://www.trendmicro.com/en_us/research/25/k/s3-ransomware.html?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Breaking Down S3 Ransomware: Variants, Attack Paths and Trend Vision One™ Defe
 Recent ransomware developments have shifted focus toward exploiting cloud-native environments, particularly Amazon S3, through misconfigurations and advanced misuse of AWS encryption and access mechanisms.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Trend Micro
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2025
+November 21, 2025 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Tsundere botnet uses the Ethereum blockchain to infect its targets<a href="https://securelist.com/tsundere-node-js-botnet-uses-ethereum-blockchain/117979/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ The Tsundere botnet uses the Ethereum blockchain to infect its targets<a href="h
 A newly emerged malware campaign, dubbed Tsundere Botnet, is actively targeting Windows systems through various sophisticated infection mechanisms. This Node.js-based botnet utilizes Ethereum blockchain smart contracts.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Secure List
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2025
+November 21, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OWASP Top 10 takes on software supply chain risk<a href="https://www.reversinglabs.com/blog/owasp-top-10-supply-chain-risk?&web_view=true"> Full Text</a>
@@ -188,13 +188,13 @@ OWASP Top 10 takes on software supply chain risk<a href="https://www.reversingla
 The OWASP Top 10 for 2025 introduces core changes emphasizing systemic risks in modern application ecosystems. Key additions include “Supply Chain Failures” at rank #3 and “Mishandling of Exceptional Conditions” at rank #10.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Reversing Labs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2025
+November 21, 2025  -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Salesforce investigating campaign targeting customer environments connected to Gainsight app<a href="https://www.cybersecuritydive.com/news/salesforce-investigating-customer-connected-Gainsight/806093/?&web_view=true"> Full Text</a>
@@ -204,7 +204,7 @@ Salesforce investigating campaign targeting customer environments connected to G
 A recent campaign linked to the ShinyHunters threat actor is exploiting OAuth tokens from third-party applications—specifically those developed by Gainsight—integrated into Salesforce environments.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

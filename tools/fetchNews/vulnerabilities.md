@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 21, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Authentication Bypass Vulnerabilities Identified in iCam365 P201 and QC021 CCTV Models<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-324-02?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple iCam365 CCTV camera models are affected by missing authentication vulnerabilities, impacting ONVIF and RTSP services. These flaws expose video streams and configuration data to unauthorized users on the same local network.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 20, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+W3 Total Cache WordPress plugin vulnerable to PHP command injection<a href="https://www.bleepingcomputer.com/news/security/w3-total-cache-wordpress-plugin-vulnerable-to-php-command-injection/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2025-9501, in the W3 Total Cache (W3TC) WordPress plugin can be exploited to run PHP commands on the server by posting a comment that contains a malicious payload.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 17, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

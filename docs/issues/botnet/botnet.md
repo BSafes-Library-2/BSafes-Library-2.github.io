@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+November 21, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Tsundere botnet uses the Ethereum blockchain to infect its targets<a href="https://securelist.com/tsundere-node-js-botnet-uses-ethereum-blockchain/117979/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly emerged malware campaign, dubbed Tsundere Botnet, is actively targeting Windows systems through various sophisticated infection mechanisms. This Node.js-based botnet utilizes Ethereum blockchain smart contracts.
+</details>
+<div style="text-align: right" markdown="1">
+Secure List
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 15, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

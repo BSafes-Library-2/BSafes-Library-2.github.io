@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+November 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Breaking Down S3 Ransomware: Variants, Attack Paths and Trend Vision One™ Defenses<a href="https://www.trendmicro.com/en_us/research/25/k/s3-ransomware.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent ransomware developments have shifted focus toward exploiting cloud-native environments, particularly Amazon S3, through misconfigurations and advanced misuse of AWS encryption and access mechanisms.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 17, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+November 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ToddyCat APT's new tools and techniques<a href="https://securelist.com/toddycat-apt-steals-email-data-from-outlook/118044/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A highly sophisticated email espionage campaign led by the persistent threat actor ToddyCat has been detected making use of enhanced and stealthy malware methodologies to exfiltrate corporate email data.
+</details>
+<div style="text-align: right" markdown="1">
+Secure List
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 13, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

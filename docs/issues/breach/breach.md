@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+November 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive data leak hits Italian railway operator Ferrovie dello Stato via Almaviva hack<a href="https://securityaffairs.com/184907/data-breach/massive-data-leak-hits-italian-railway-operator-ferrovie-dello-stato-via-almaviva-hack.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A data breach has affected Italy’s national railway operator, Ferrovie dello Stato Italiane, following a successful cyberattack on its digital services provider, Almaviva. Threat actors claim to have exfiltrated 2.3 TB of highly sensitive info.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cox Enterprises discloses Oracle E-Business Suite data breach<a href="https://www.bleepingcomputer.com/news/security/cox-enterprises-discloses-oracle-e-business-suite-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cox Enterprises has suffered a significant data breach due to exploitation of a zero-day vulnerability in Oracle E-Business Suite. The Cl0p ransomware group exploited CVE-2025-61882.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 21, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
