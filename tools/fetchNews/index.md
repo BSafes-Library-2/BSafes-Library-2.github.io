@@ -37,6 +37,102 @@ BSafes library includes mobile-friendly cybersecurity publications.
 November 24, 2025
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Who Is Dark Storm? The Threat Actor European Security Teams Can’t Ignore<a href="https://thecyberexpress.com/dark-storm-threat-actor-profile/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor known as Dark Storm, a pro-Russian hacktivist collective, has escalated its cyber disruption campaigns across Europe and Russia, increasingly targeting government institutions and critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ToddyCat APT's new tools and techniques<a href="https://securelist.com/toddycat-apt-steals-email-data-from-outlook/118044/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A highly sophisticated email espionage campaign led by the persistent threat actor ToddyCat has been detected making use of enhanced and stealthy malware methodologies to exfiltrate corporate email data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hidden Functionality Vulnerability in Festo MSE6-C2M/D2M/E2M Devices Allows Remote Compromise<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-324-04?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability has been identified in multiple models of Festo's MSE6-C2M, D2M, and E2M devices. Exploitation of this remotely accessible flaw may allow a low-privileged authenticated attacker to trigger undocumented test modes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive data leak hits Italian railway operator Ferrovie dello Stato via Almaviva hack<a href="https://securityaffairs.com/184907/data-breach/massive-data-leak-hits-italian-railway-operator-ferrovie-dello-stato-via-almaviva-hack.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A data breach has affected Italy’s national railway operator, Ferrovie dello Stato Italiane, following a successful cyberattack on its digital services provider, Almaviva. Threat actors claim to have exfiltrated 2.3 TB of highly sensitive info.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds One Known Exploited Vulnerability to Catalog<a href="https://www.cisa.gov/news-events/alerts/2025/11/21/cisa-adds-one-known-exploited-vulnerability-catalog?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered and actively exploited vulnerability in Oracle Fusion Middleware—tracked as CVE-2025-61757—has been added to the Known Exploited Vulnerabilities (KEV) Catalog maintained to promote early detection and remediation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analysis Report on Malicious Apps Using Advanced Detection and Evasion Techniques<a href="https://asec.ahnlab.com/en/91180/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated Android malware has been identified utilizing advanced evasion and detection resistance strategies. The malware employs strong packing and obfuscation to hinder traditional antivirus (AV) systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cox Enterprises discloses Oracle E-Business Suite data breach<a href="https://www.bleepingcomputer.com/news/security/cox-enterprises-discloses-oracle-e-business-suite-data-breach/?&web_view=true"> Full Text</a>
 </p>
 <details>
