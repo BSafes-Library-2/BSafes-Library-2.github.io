@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hidden Functionality Vulnerability in Festo MSE6-C2M/D2M/E2M Devices Allows Remote Compromise<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-324-04?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability has been identified in multiple models of Festo's MSE6-C2M, D2M, and E2M devices. Exploitation of this remotely accessible flaw may allow a low-privileged authenticated attacker to trigger undocumented test modes.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 21, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

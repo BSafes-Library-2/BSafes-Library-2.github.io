@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+November 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Who Is Dark Storm? The Threat Actor European Security Teams Can’t Ignore<a href="https://thecyberexpress.com/dark-storm-threat-actor-profile/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor known as Dark Storm, a pro-Russian hacktivist collective, has escalated its cyber disruption campaigns across Europe and Russia, increasingly targeting government institutions and critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 21, 2025  <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Salesforce investigating campaign targeting customer environments connected to Gainsight app<a href="https://www.cybersecuritydive.com/news/salesforce-investigating-customer-connected-Gainsight/806093/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent campaign linked to the ShinyHunters threat actor is exploiting OAuth tokens from third-party applications—specifically those developed by Gainsight—integrated into Salesforce environments.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 19, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

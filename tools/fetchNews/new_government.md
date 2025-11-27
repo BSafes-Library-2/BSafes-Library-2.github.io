@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+November 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+$262 million stolen in account takeover fraud schemes this year, FBI says ahead of holiday season<a href="https://therecord.media/millions-in-account-takeover-fbi-warns-ahead-of-holidays?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals have ramped up account takeover (ATO) frauds, causing over $262 million in losses since January. The frequency and sophistication of these attacks are rapidly intensifying with the onset of the holiday shopping season.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 24, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+November 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+London Councils Hit By Serious Cyber “Incidents”<a href="https://www.infosecurity-magazine.com/news/london-councils-hit-by-serious/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Authorities in London—including the Royal Borough of Kensington and Chelsea (RBKC) and Westminster City Council (WCC)—are responding to a serious cybersecurity incident first identified on Monday morning.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 24, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

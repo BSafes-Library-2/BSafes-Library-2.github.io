@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 27, 2025 - FBI 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Account Takeover Fraud via Impersonation of Financial Institution Support <a href="https://www.ic3.gov/PSA/2025/PSA251125"> Full Text</a>
+</p>
+<details>
+The FBI warns of cyber criminals impersonating financial institutions to steal money or information in Account Takeover (ATO) fraud schemes. The cyber criminals target individuals, businesses, and organizations of varied sizes and across sectors. In ATO fraud, cyber criminals gain unauthorized access to the targeted online financial institution, payroll, or health savings account, with the goal of stealing money or information for personal gain. Since January 2025, the FBI Internet Crime Complaint Center (IC3) received more than 5,100 complaints reporting ATO fraud, with losses exceeding $262 million.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 13, 2025 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 25, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Firefox Bug Leaves 180M Users Exposed<a href="https://www.esecurityplanet.com/threats/critical-firefox-bug-leaves-180m-users-exposed/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity vulnerability was discovered in Mozilla Firefox's WebAssembly garbage-collection implementation. This flaw exposed over 180 million users worldwide to risk of memory corruption and potential RCE.
+</details>
+<div style="text-align: right" markdown="1">
+ESecurity Planet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 25, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability Summary for the Week of November 17, 2025<a href="https://www.cisa.gov/news-events/bulletins/sb25-328?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This weekly vulnerability summary highlights several high-severity issues identified across major vendor platforms such as ABB, AMD, Broadcom, Grafana, and HPE. Many of these allow for authentication bypass, RCE, privilege escalation, and DoS.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 24, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

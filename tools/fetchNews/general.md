@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+November 21, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OWASP Top 10 takes on software supply chain risk<a href="https://www.reversinglabs.com/blog/owasp-top-10-supply-chain-risk?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The OWASP Top 10 for 2025 introduces core changes emphasizing systemic risks in modern application ecosystems. Key additions include “Supply Chain Failures” at rank #3 and “Mishandling of Exceptional Conditions” at rank #10.
+</details>
+<div style="text-align: right" markdown="1">
+Reversing Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 12, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

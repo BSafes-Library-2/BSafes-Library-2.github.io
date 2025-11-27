@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 25, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Friday scammers offer fake gifts from big-name brands to empty bank accounts<a href="https://www.malwarebytes.com/blog/scams/2025/11/black-friday-scammers-offer-fake-gifts-from-big-name-brands-to-empty-bank-accounts?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A widespread and industrial-scale scam campaign targeting Black Friday shoppers is exploiting malvertising and fake brand giveaways to harvest personal information and payment card data.
+</details>
+<div style="text-align: right" markdown="1">
+Malware Bytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 20, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

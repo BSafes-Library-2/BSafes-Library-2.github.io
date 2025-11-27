@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+November 25, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Harvard reports vishing breach exposing alumni and donor contact data<a href="https://securityaffairs.com/185034/security/harvard-reports-vishing-breach-exposing-alumni-and-donor-contact-data.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Harvard University has disclosed a data breach targeting its Alumni Affairs and Development systems, caused by a vishing attack. It led to the unauthorized access of sensitive contact and biographical information of university affiliates.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 24, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
