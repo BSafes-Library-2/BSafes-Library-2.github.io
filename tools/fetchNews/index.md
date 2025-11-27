@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+London Councils Hit By Serious Cyber “Incidents”<a href="https://www.infosecurity-magazine.com/news/london-councils-hit-by-serious/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Authorities in London—including the Royal Borough of Kensington and Chelsea (RBKC) and Westminster City Council (WCC)—are responding to a serious cybersecurity incident first identified on Monday morning.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OnSolve CodeRED cyberattack disrupts emergency alert systems nationwide<a href="https://www.bleepingcomputer.com/news/security/onsolve-codered-cyberattack-disrupts-emergency-alert-systems-nationwide/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A widespread cyberattack targeting Crisis24's legacy CodeRED platform has significantly disrupted emergency communication systems used by local governments, police, and fire agencies across the United States.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+$262 million stolen in account takeover fraud schemes this year, FBI says ahead of holiday season<a href="https://therecord.media/millions-in-account-takeover-fbi-warns-ahead-of-holidays?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals have ramped up account takeover (ATO) frauds, causing over $262 million in losses since January. The frequency and sophistication of these attacks are rapidly intensifying with the onset of the holiday shopping season.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lifetime access to WormGPT 4 costs just $220<a href="https://www.theregister.com/2025/11/25/wormgpt_4_evil_ai_lifetime_cost_220_dollars/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Emerging malicious LLMs such as WormGPT 4 and KawaiiGPT are being sold and distributed through underground platforms like Telegram and Darknet forums.  These AI-based tools are capable of generating highly functional malware scripts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Firefox Bug Leaves 180M Users Exposed<a href="https://www.esecurityplanet.com/threats/critical-firefox-bug-leaves-180m-users-exposed/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity vulnerability was discovered in Mozilla Firefox's WebAssembly garbage-collection implementation. This flaw exposed over 180 million users worldwide to risk of memory corruption and potential RCE.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang says it hacked Georgia Clerks Authority, disrupted systems<a href="https://www.comparitech.com/news/ransomware-gang-says-it-hacked-georgia-clerks-authority-disrupted-systems/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware group identified as Devman has claimed responsibility for a cyberattack targeting the Georgia Superior Court Clerks’ Cooperative Authority (GSCCCA), disrupting core administrative functions across Georgia’s judiciary.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability Summary for the Week of November 17, 2025<a href="https://www.cisa.gov/news-events/bulletins/sb25-328?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This weekly vulnerability summary highlights several high-severity issues identified across major vendor platforms such as ABB, AMD, Broadcom, Grafana, and HPE. Many of these allow for authentication bypass, RCE, privilege escalation, and DoS.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Harvard reports vishing breach exposing alumni and donor contact data<a href="https://securityaffairs.com/185034/security/harvard-reports-vishing-breach-exposing-alumni-and-donor-contact-data.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Harvard University has disclosed a data breach targeting its Alumni Affairs and Development systems, caused by a vishing attack. It led to the unauthorized access of sensitive contact and biographical information of university affiliates.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Friday scammers offer fake gifts from big-name brands to empty bank accounts<a href="https://www.malwarebytes.com/blog/scams/2025/11/black-friday-scammers-offer-fake-gifts-from-big-name-brands-to-empty-bank-accounts?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A widespread and industrial-scale scam campaign targeting Black Friday shoppers is exploiting malvertising and fake brand giveaways to harvest personal information and payment card data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Blender model files deliver StealC infostealing malware<a href="https://www.bleepingcomputer.com/news/security/malicious-blender-model-files-deliver-stealc-infostealing-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware campaign leveraging malicious Blender model files is delivering the latest variant of the StealC V2 infostealer. The attack targets users of CGTrader by embedding malicious Python scripts into `.blend` files.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 24, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
