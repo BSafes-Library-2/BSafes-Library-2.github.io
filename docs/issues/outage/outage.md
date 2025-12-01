@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+November 27, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple London councils report disruption amid ongoing cyberattack<a href="https://techcrunch.com/2025/11/26/multiple-london-councils-report-disruption-amid-ongoing-cyberattack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three London borough councils—Kensington and Chelsea, Westminster, and Hammersmith &amp; Fulham—have been targeted in a coordinated cyberattack, leading to widespread disruption of core public services and operational systems.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 26, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

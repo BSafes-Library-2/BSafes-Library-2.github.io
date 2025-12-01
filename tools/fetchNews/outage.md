@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+November 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OnSolve CodeRED cyberattack disrupts emergency alert systems nationwide<a href="https://www.bleepingcomputer.com/news/security/onsolve-codered-cyberattack-disrupts-emergency-alert-systems-nationwide/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A widespread cyberattack targeting Crisis24's legacy CodeRED platform has significantly disrupted emergency communication systems used by local governments, police, and fire agencies across the United States.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 25, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang says it hacked Georgia Clerks Authority, disrupted systems<a href="https://www.comparitech.com/news/ransomware-gang-says-it-hacked-georgia-clerks-authority-disrupted-systems/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware group identified as Devman has claimed responsibility for a cyberattack targeting the Georgia Superior Court Clerks’ Cooperative Authority (GSCCCA), disrupting core administrative functions across Georgia’s judiciary.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 27, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

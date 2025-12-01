@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 27, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Teams Flaw in Guest Chat Exposes Users to Malware Attacks<a href="https://hackread.com/microsoft-teams-guest-chat-flaw-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered architectural flaw in Microsoft Teams B2B Guest Access exposes users to malware, phishing, and data exfiltration attacks. Attackers are exploiting a systemic gap that bypasses Microsoft Defender for Office 365 protections.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 25, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

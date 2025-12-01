@@ -18,6 +18,21 @@ The FBI warns of cyber criminals impersonating financial institutions to steal m
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2025 - FCC 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PUBLIC SAFETY AND HOMELAND SECURITY BUREAU REMINDS BROADCASTERS TO ENSURE THEY COMPLY WITH BEST PRACTICES TO PREVENT CYBERATTACKS  <a href="https://docs.fcc.gov/public/attachments/DA-25-996A1.pdf"> Full Text</a>
+</p>
+<details>
+The Public Safety and Homeland Security Bureau (Bureau) of the Federal Communications
+Commission (Commission) reminds broadcasters of their responsibility to ensure the security of their
+broadcast networks and systems. In particular, this Public Notice is issued in response to the recent string
+of cyber intrusions against various radio broadcasters that resulted in the broadcast of obscene materials
+and the misuse of the Emergency Alert System (EAS) Attention Signal (Attention Signal).
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 13, 2025 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2025
+November 28, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Salesforce-Gainsight Security Incident: What You Need to Know<a href="https://www.recordedfuture.com/blog/salesforce-gainsight-security-incident?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ The Salesforce-Gainsight Security Incident: What You Need to Know<a href="https:
 A recent security incident involving Gainsight applications integrated with Salesforce has highlighted the growing risk of supply-chain compromise through trusted SaaS connections.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Recorded Future
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2025
+November 28, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Canadian scientific consulting service confirms data breach following $1.2 million ransom demand<a href="https://www.comparitech.com/news/canadian-scientific-consulting-service-confirms-data-breach-following-1-2-million-ransom-demand/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Canadian scientific consulting service confirms data breach following $1.2 milli
 A cyberattack orchestrated by the Rhysida ransomware group has resulted in a confirmed data breach at JASCO Applied Sciences, a Canadian consulting firm servicing sectors like defense, renewable energy, and marine construction.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CompariTech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2025
+November 28, 2025 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bloody Wolf Threat Actor Expands Activity Across Central Asia<a href="https://www.infosecurity-magazine.com/news/bloody-wolf-expands-central-asia/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Bloody Wolf Threat Actor Expands Activity Across Central Asia<a href="https://ww
 A significant cyber-espionage campaign linked to the Bloody Wolf Advanced Persistent Threat (APT) group has expanded across Central Asia, targeting government entities in Kyrgyzstan and Uzbekistan.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2025
+November 28, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FCC Warns of Hackers Hijacking Radio Equipment For False Alerts<a href="https://www.infosecurity-magazine.com/news/fcc-hackers-hijacking-radio/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ FCC Warns of Hackers Hijacking Radio Equipment For False Alerts<a href="https://
 US radio broadcasters are being targeted in a surge of infrastructure hijackings where intruders exploit unsecured Barix audio devices to air unauthorized Emergency Alert System (EAS) tones and offensive content over public airwaves.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 27, 2025
+November 27, 2025 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ShadowV2 Casts a Shadow Over IoT Devices<a href="https://www.fortinet.com/blog/threat-research/shadowv2-casts-a-shadow-over-iot-devices?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ ShadowV2 Casts a Shadow Over IoT Devices<a href="https://www.fortinet.com/blog/t
 A new Mirai-variant botnet named ShadowV2 has been identified targeting Internet of Things (IoT) devices globally. It is designed to exploit known vulnerabilities across multiple embedded platforms
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Fortinet
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 27, 2025
+November 27, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 For the first time, a RomCom payload has been observed being distributed via SocGholish.<a href="https://securityaffairs.com/185084/security/for-the-first-time-a-romcom-payload-has-been-observed-being-distributed-via-socgholish.html?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ For the first time, a RomCom payload has been observed being distributed via Soc
 RomCom malware, linked to Russian military intelligence unit GRU Unit 29155, has been observed using the SocGholish fake browser update framework to deliver a Mythic C2 agent, targeting a U.S. civil engineering firm with ties to Ukraine.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 27, 2025
+November 27, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Teams Flaw in Guest Chat Exposes Users to Malware Attacks<a href="https://hackread.com/microsoft-teams-guest-chat-flaw-malware/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Microsoft Teams Flaw in Guest Chat Exposes Users to Malware Attacks<a href="http
 A newly discovered architectural flaw in Microsoft Teams B2B Guest Access exposes users to malware, phishing, and data exfiltration attacks. Attackers are exploiting a systemic gap that bypasses Microsoft Defender for Office 365 protections.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 27, 2025
+November 27, 2025 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple London councils report disruption amid ongoing cyberattack<a href="https://techcrunch.com/2025/11/26/multiple-london-councils-report-disruption-amid-ongoing-cyberattack/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Multiple London councils report disruption amid ongoing cyberattack<a href="http
 Three London borough councils—Kensington and Chelsea, Westminster, and Hammersmith & Fulham—have been targeted in a coordinated cyberattack, leading to widespread disruption of core public services and operational systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Tech Crunch
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 27, 2025
+November 27, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Qilin Ransomware Turns South Korean MSP Breach Into 28-Victim 'Korean Leaks' Data Heist<a href="https://thehackernews.com/2025/11/qilin-ransomware-turns-south-korean-msp.html?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Qilin Ransomware Turns South Korean MSP Breach Into 28-Victim 'Korean Leaks' Dat
 A highly coordinated supply chain attack exploiting a South Korean Managed Service Provider (MSP) has led to the deployment of the Qilin ransomware, culminating in a significant data heist campaign dubbed "Korean Leaks".
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 27, 2025
+November 27, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OpenAI Confirms Mixpanel Breach Impacting API User Data<a href="https://thecyberexpress.com/openai-mixpanel-security-incident/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ OpenAI Confirms Mixpanel Breach Impacting API User Data<a href="https://thecyber
 A data breach at Mixpanel—a third-party analytics vendor used by OpenAI—has led to the exposure of limited identifiable information belonging to some OpenAI API users. The breach was exclusively attributed to Mixpanel.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

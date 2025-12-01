@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+November 27, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ShadowV2 Casts a Shadow Over IoT Devices<a href="https://www.fortinet.com/blog/threat-research/shadowv2-casts-a-shadow-over-iot-devices?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Mirai-variant botnet named ShadowV2 has been identified targeting Internet of Things (IoT) devices globally. It is designed to exploit known vulnerabilities across multiple embedded platforms
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 21, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,62 @@ nav_order: 900029
 
 ## Breach
 ---
+November 28, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Salesforce-Gainsight Security Incident: What You Need to Know<a href="https://www.recordedfuture.com/blog/salesforce-gainsight-security-incident?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent security incident involving Gainsight applications integrated with Salesforce has highlighted the growing risk of supply-chain compromise through trusted SaaS connections.
+</details>
+<div style="text-align: right" markdown="1">
+Recorded Future
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 28, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian scientific consulting service confirms data breach following $1.2 million ransom demand<a href="https://www.comparitech.com/news/canadian-scientific-consulting-service-confirms-data-breach-following-1-2-million-ransom-demand/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberattack orchestrated by the Rhysida ransomware group has resulted in a confirmed data breach at JASCO Applied Sciences, a Canadian consulting firm servicing sectors like defense, renewable energy, and marine construction.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 27, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qilin Ransomware Turns South Korean MSP Breach Into 28-Victim 'Korean Leaks' Data Heist<a href="https://thehackernews.com/2025/11/qilin-ransomware-turns-south-korean-msp.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A highly coordinated supply chain attack exploiting a South Korean Managed Service Provider (MSP) has led to the deployment of the Qilin ransomware, culminating in a significant data heist campaign dubbed "Korean Leaks".
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 27, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenAI Confirms Mixpanel Breach Impacting API User Data<a href="https://thecyberexpress.com/openai-mixpanel-security-incident/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A data breach at Mixpanel—a third-party analytics vendor used by OpenAI—has led to the exposure of limited identifiable information belonging to some OpenAI API users. The breach was exclusively attributed to Mixpanel.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 25, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
