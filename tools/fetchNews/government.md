@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+November 28, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FCC Warns of Hackers Hijacking Radio Equipment For False Alerts<a href="https://www.infosecurity-magazine.com/news/fcc-hackers-hijacking-radio/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US radio broadcasters are being targeted in a surge of infrastructure hijackings where intruders exploit unsecured Barix audio devices to air unauthorized Emergency Alert System (EAS) tones and offensive content over public airwaves.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 26, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

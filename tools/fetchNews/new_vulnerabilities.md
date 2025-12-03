@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 2, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google addresses 107 Android vulnerabilities, including two zero-days<a href="https://cyberscoop.com/android-security-update-december-2025/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's December security update for Android addresses 107 vulnerabilities, including two high-severity zero-day vulnerabilities, CVE-2025-48633 and CVE-2025-48572. This update marks the second-highest number of vulnerabilities patched this year.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Scoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 2, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Full Disclosure: [REVIVE-SA-2025-005] Revive Adserver Vulnerability<a href="https://seclists.org/fulldisclosure/2025/Dec/1?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in Revive Adserver, identified as CVE-2025-55129, has been reported. This vulnerability involves an incomplete list of disallowed inputs, allowing for potential impersonation attacks.
+</details>
+<div style="text-align: right" markdown="1">
+SecLists
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 27, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

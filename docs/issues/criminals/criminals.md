@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 2, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Officials accuse North Korea’s Lazarus of $30 million theft from crypto exchange<a href="https://therecord.media/officials-accuse-north-korea-hackers-of-attack-on-crypto-exchange?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent cyberattack on South Korea's largest cryptocurrency exchange, Upbit, resulted in the theft of $30 million. The attack is attributed to North Korea's Lazarus Group.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 1, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police takes down Cryptomixer cryptocurrency mixing service<a href="https://www.bleepingcomputer.com/news/security/police-takes-down-cryptomixer-cryptocurrency-mixing-service/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law enforcement agencies in Switzerland and Germany have successfully dismantled the Cryptomixer cryptocurrency mixing service. This operation, known as "Operation Olympia," resulted in the seizure of €24 million in Bitcoin.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 20, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

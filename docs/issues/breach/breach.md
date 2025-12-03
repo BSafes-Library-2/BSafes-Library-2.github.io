@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+December 2, 2025a <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SmartTube YouTube app for Android TV breached to push malicious update<a href="https://www.bleepingcomputer.com/news/security/smarttube-youtube-app-for-android-tv-breached-to-push-malicious-update/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The SmartTube YouTube app for Android TV has been compromised, leading to a malicious update being pushed to users. The breach involved the compromise of the developer's signing keys, affecting version 30.51 of the app.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 1, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South Korea’s Coupang Hit by Massive Data Breach Affecting Nearly 34 Million Customers<a href="https://thecyberexpress.com/coupang-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Coupang, a leading South Korean e-commerce platform, has experienced a massive data breach affecting nearly 34 million customers. This incident is one of the largest cybersecurity breaches in South Korea in recent years.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 1, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brsk confirms breach as bidding begins for 230K+ records<a href="https://www.theregister.com/2025/11/28/brsk_breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+British telco Brsk has confirmed a data breach involving unauthorized access to its customer database, affecting over 230,000 records. The stolen data includes customer names, email and home addresses, phone numbers, and installation details.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 28, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
