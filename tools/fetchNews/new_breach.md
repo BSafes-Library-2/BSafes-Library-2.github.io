@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+December 3, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang demands sheriff of Cleveland County, OK pay almost $800,000 in one week<a href="https://www.comparitech.com/news/ransomware-gang-demands-sheriff-of-cleveland-county-ok-pay-almost-800000-in-one-week?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cleveland County Sheriff's Office in Oklahoma has been targeted by the Rhysida ransomware group, which is demanding a ransom of 9 bitcoin (approximately $787,000). The attack was disclosed on November 20, 2025.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 3, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shai-Hulud 2.0 NPM malware attack exposed up to 400,000 dev secrets<a href="https://www.bleepingcomputer.com/news/security/shai-hulud-20-npm-malware-attack-exposed-up-to-400-000-dev-secrets/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Shai-Hulud 2.0 malware attack has compromised over 800 NPM packages, exposing up to 400,000 developer secrets. This attack has significant implications for software supply chain security.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 2, 2025a <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

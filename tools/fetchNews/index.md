@@ -34,6 +34,86 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 3, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unraveling Water Saci's New Multi-Format, AI-Enhanced Attacks Propagated via WhatsApp<a href="https://www.trendmicro.com/en_us/research/25/l/water-saci.html/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Water Saci campaign in Brazil leverages AI-enhanced, multi-format attacks via WhatsApp, utilizing a layered infection chain with various file formats and scripting languages.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 3, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang demands sheriff of Cleveland County, OK pay almost $800,000 in one week<a href="https://www.comparitech.com/news/ransomware-gang-demands-sheriff-of-cleveland-county-ok-pay-almost-800000-in-one-week?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cleveland County Sheriff's Office in Oklahoma has been targeted by the Rhysida ransomware group, which is demanding a ransom of 9 bitcoin (approximately $787,000). The attack was disclosed on November 20, 2025.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 3, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shai-Hulud 2.0 NPM malware attack exposed up to 400,000 dev secrets<a href="https://www.bleepingcomputer.com/news/security/shai-hulud-20-npm-malware-attack-exposed-up-to-400-000-dev-secrets/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Shai-Hulud 2.0 malware attack has compromised over 800 NPM packages, exposing up to 400,000 developer secrets. This attack has significant implications for software supply chain security.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 3, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability & Patch Roundup — November 2025<a href="https://blog.sucuri.net/2025/11/vulnerability-patch-roundup-november-2025.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This advisory provides a detailed overview of critical and high-risk vulnerabilities identified in various WordPress plugins and themes for November 2025. These vulnerabilities pose significant security risks.
+</details>
+<div style="text-align: right" markdown="1">
+Sucuri
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 3, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOJ takes down Myanmar scam center website spoofing TickMill trading platform<a href="https://therecord.media/doj-takes-down-myanmar-scam-site-trickmill-spoof?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DOJ has successfully dismantled a fraudulent website spoofing the TickMill trading platform, operated by a scam center in Myanmar. The Scam Center Strike Force tracked the fake website back to the Tai Chang scam compound in Kyaukhat, Myanmar.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 2, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

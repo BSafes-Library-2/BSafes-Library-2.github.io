@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+December 3, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unraveling Water Saci's New Multi-Format, AI-Enhanced Attacks Propagated via WhatsApp<a href="https://www.trendmicro.com/en_us/research/25/l/water-saci.html/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Water Saci campaign in Brazil leverages AI-enhanced, multi-format attacks via WhatsApp, utilizing a layered infection chain with various file formats and scripting languages.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 26, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
