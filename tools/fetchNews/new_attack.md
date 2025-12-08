@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+December 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoldFactory Hits Southeast Asia with Modified Banking Apps Driving 11,000+ Infections<a href="https://thehackernews.com/2025/12/goldfactory-hits-southeast-asia-with.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GoldFactory, a financially motivated cybercriminal group, has launched a new wave of attacks in Southeast Asia, targeting mobile users in Indonesia, Thailand, and Vietnam. The group uses modified banking apps to distribute Android malware.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 4, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How attackers use real IT tools to take over your computer<a href="https://www.malwarebytes.com/blog/news/2025/12/how-attackers-use-real-it-tools-to-take-over-your-computer?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new wave of cyberattacks is exploiting legitimate Remote Monitoring and Management (RMM) tools such as LogMeIn Resolve and PDQ Connect. Attackers trick users into installing these tools under false pretenses.
+</details>
+<div style="text-align: right" markdown="1">
+Malware Bytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 3, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
