@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 5, 2025
+December 5, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers find Predator spyware is being used in several countries, including Iraq<a href="https://therecord.media/intellexa-predator-spyware-continues-despite-sanctions?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Researchers find Predator spyware is being used in several countries, including 
 Predator spyware, developed by Intellexa, is actively being used in several countries, including Iraq and Pakistan. Researchers have found indicators likely associated with the use of Predator spyware by an entity tied to Pakistan.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 5, 2025
+December 5, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update Chrome now: Google fixes 13 security issues affecting billions<a href="https://www.malwarebytes.com/blog/news/2025/12/google-fixes-13-security-issues-affecting-billions?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Update Chrome now: Google fixes 13 security issues affecting billions<a href="ht
 Google has released an update for its Chrome browser, addressing 13 security vulnerabilities, including four high-severity issues. One critical vulnerability, CVE-2025-13633, affects the Digital Credentials feature.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Malware Bytes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 5, 2025
+December 5, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GoldFactory Hits Southeast Asia with Modified Banking Apps Driving 11,000+ Infections<a href="https://thehackernews.com/2025/12/goldfactory-hits-southeast-asia-with.html?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ GoldFactory Hits Southeast Asia with Modified Banking Apps Driving 11,000+ Infec
 GoldFactory, a financially motivated cybercriminal group, has launched a new wave of attacks in Southeast Asia, targeting mobile users in Indonesia, Thailand, and Vietnam. The group uses modified banking apps to distribute Android malware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 5, 2025
+December 5, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Signal Report<a href="https://fortiguard.fortinet.com/threat-signal-report/6274?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Threat Signal Report<a href="https://fortiguard.fortinet.com/threat-signal-repor
 A critical pre-authentication RCE bug has been identified in Oracle Identity Manager’s REST WebServices. This vulnerability allows unauthenticated attackers to exploit URI and matrix parameter parsing weaknesses to execute arbitrary code.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Fortinet
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 4, 2025
+December 4, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Massive gambling network doubles as hidden C2 and anonymity infrastructure, researchers say<a href="https://www.helpnetsecurity.com/2025/12/03/indonesian-online-gambling-network/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Massive gambling network doubles as hidden C2 and anonymity infrastructure, rese
 A massive network, active for over 14 years, is being used for illegal online gambling and malware distribution, doubling as a command and control (C2) and anonymity infrastructure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 4, 2025
+December 4, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Adds Two Known Exploited Vulnerabilities to Catalog<a href="https://www.cisa.gov/news-events/alerts/2025/12/02/cisa-adds-two-known-exploited-vulnerabilities-catalog?&web_view=true"> Full Text</a>
@@ -127,13 +127,13 @@ CISA has added two new bugs to its KEV Catalog. The vulnerabilities include:
 2. CVE-2025-48633: Android Framework Information Disclosure Vulnerability
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CISA
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 4, 2025
+December 4, 2025 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Aisuru botnet behind new record-breaking 29.7 Tbps DDoS attack<a href="https://www.bleepingcomputer.com/news/security/aisuru-botnet-behind-new-record-breaking-297-tbps-ddos-attack/?&web_view=true"> Full Text</a>
@@ -143,13 +143,13 @@ Aisuru botnet behind new record-breaking 29.7 Tbps DDoS attack<a href="https://w
 The Aisuru botnet has launched over 1,300 DDoS attacks in just three months, with Cloudflare mitigating 2,867 attacks since the beginning of the year. The botnet's most significant attack peaked at 29.7 Tbps, setting a new record.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 4, 2025
+December 4, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How attackers use real IT tools to take over your computer<a href="https://www.malwarebytes.com/blog/news/2025/12/how-attackers-use-real-it-tools-to-take-over-your-computer?&web_view=true"> Full Text</a>
@@ -159,13 +159,13 @@ How attackers use real IT tools to take over your computer<a href="https://www.m
 A new wave of cyberattacks is exploiting legitimate Remote Monitoring and Management (RMM) tools such as LogMeIn Resolve and PDQ Connect. Attackers trick users into installing these tools under false pretenses.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Malware Bytes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 4, 2025
+December 4, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sha1-Hulud: The Second Coming of The New npm GitHub Worm<a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/sha1-hulud-the-second-coming-of-the-new-npm-github-worm/?&web_view=true"> Full Text</a>
@@ -175,13 +175,13 @@ Sha1-Hulud: The Second Coming of The New npm GitHub Worm<a href="https://www.tru
 Sha1-Hulud has resurfaced with a new campaign targeting npm packages, affecting thousands of code repositories. This malware compromises development environments by trojaning npm packages.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Trust Wave
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 4, 2025
+December 4, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft "mitigates" Windows LNK flaw exploited as zero-day<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-mitigates-windows-lnk-flaw-exploited-as-zero-day/?&web_view=true"> Full Text</a>
@@ -191,7 +191,7 @@ Microsoft "mitigates" Windows LNK flaw exploited as zero-day<a href="https://www
 A high-severity Windows LNK vulnerability, tracked as CVE-2025-9491, has been exploited by multiple state-backed and cybercrime groups in zero-day attacks. This flaw allows attackers to hide malicious commands within Windows LNK files.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

@@ -7,6 +7,21 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2025 - CISA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Two Known Exploited Vulnerabilities to Catalog <a href="https://www.cisa.gov/news-events/alerts/2025/12/02/cisa-adds-two-known-exploited-vulnerabilities-catalog?&web_view=true"> Full Text</a>
+</p>
+<details>
+CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.
+
+CVE-2025-48572 Android Framework Privilege Escalation Vulnerability  
+CVE-2025-48633 Android Framework Information Disclosure Vulnerability 
+These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise.   
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 27, 2025 - FBI 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
