@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Crooks manipulate online photos to fuel virtual kidnapping ransoms<a href="https://securityaffairs.com/185456/cyber-crime/fbi-crooks-manipulate-online-photos-to-fuel-virtual-kidnapping-ransoms.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI issued a warning about a new scam where criminals manipulate online photos to create fake "proof-of-life" images for virtual kidnapping scams. These involve criminals posing as kidnappers, demanding ransom, and using altered images.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European cops arrest 193 'violence-as-a-service' suspects<a href="https://www.theregister.com/2025/12/08/european_cops_arrest_193/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Europol's Operational Taskforce GRIMM has successfully dismantled a significant "violence-as-a-service" network, resulting in the arrest of 193 individuals. The operation involved law enforcement agencies from multiple European countries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers spot 700 percent increase in hypervisor attacks<a href="https://www.theregister.com/2025/12/09/hypervisor_ransomware_attacks_increasing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybersecurity landscape has witnessed a dramatic 700% increase in ransomware attacks targeting hypervisors, with their role in malicious encryption surging from 3% in the first half of the year to 25% in the second half.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Initial access brokers involved in more attacks, including on critical infrastructure<a href="https://www.cybersecuritydive.com/news/initial-access-brokers-check-point/807315?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Initial Access Brokers have become pivotal in the cybercrime ecosystem, facilitating the outsourcing of intrusion tasks to advanced adversaries. This commoditization of access to critical systems allows IABs to sell access to the highest bidder.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers harvesting Facebook photos to stage fake kidnappings, warns FBI<a href="https://www.malwarebytes.com/blog/news/2025/12/scammers-harvesting-facebook-photos-to-stage-fake-kidnappings-warns-fbi?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has issued a warning about a new scam where criminals harvest photos from social media platforms like Facebook, LinkedIn, and X to stage fake kidnappings. These photos are used as "proof-of-life" to extort ransom from the victim's family.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK intelligence warns AI 'prompt injection' attacks might never go away<a href="https://therecord.media/prompt-injection-attacks-uk-intelligence-warning?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK's National Cyber Security Centre (NCSC) has issued a warning about the persistent threat of "prompt injection" attacks on AI systems. These attacks manipulate AI models into executing unintended commands, posing a significant security risk.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three hacking groups, two vulnerabilities and all eyes on China<a href="https://therecord.media/three-hacking-groups-two-vulnerabilities-china-microsoft?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ToolShell campaign has exposed critical vulnerabilities in Microsoft's SharePoint software, exploited by three Chinese hacking groups: Linen Typhoon, Violet Typhoon, and Storm-2603.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Confirm JS#SMUGGLER Uses Compromised Sites to Deploy NetSupport RAT<a href="https://thehackernews.com/2025/12/experts-confirm-jssmuggler-uses.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The JS#SMUGGLER campaign leverages compromised websites to deploy the NetSupport RAT, that allows attackers full control over victim systems. The campaign targets enterprise users through a sophisticated multi-stage web-based malware operation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ChrimeraWire Trojan Fakes Chrome Activity to Manipulate Search Rankings<a href="https://hackread.com/chrimerawire-trojan-fakes-chrome-search-activity/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ChrimeraWire trojan manipulates search engine rankings by simulating user activity through Chrome. Unlike traditional malware, it focuses on boosting the visibility of specific websites in search results rather than stealing data or encrypting files.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious VSCode extensions on Microsoft's registry drop infostealers<a href="https://www.bleepingcomputer.com/news/security/malicious-vscode-extensions-on-microsofts-registry-drop-infostealers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two malicious VSCode extensions, Bitcoin Black and Codo AI, have been identified on Microsoft's registry. These extensions, published under the developer name 'BigBlack', are designed to infect developers' machines with information-stealing malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 5, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
