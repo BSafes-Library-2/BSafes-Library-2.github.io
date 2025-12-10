@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three hacking groups, two vulnerabilities and all eyes on China<a href="https://therecord.media/three-hacking-groups-two-vulnerabilities-china-microsoft?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ToolShell campaign has exposed critical vulnerabilities in Microsoft's SharePoint software, exploited by three Chinese hacking groups: Linen Typhoon, Violet Typhoon, and Storm-2603.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 5, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

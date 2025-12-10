@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+December 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Confirm JS#SMUGGLER Uses Compromised Sites to Deploy NetSupport RAT<a href="https://thehackernews.com/2025/12/experts-confirm-jssmuggler-uses.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The JS#SMUGGLER campaign leverages compromised websites to deploy the NetSupport RAT, that allows attackers full control over victim systems. The campaign targets enterprise users through a sophisticated multi-stage web-based malware operation.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 3, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

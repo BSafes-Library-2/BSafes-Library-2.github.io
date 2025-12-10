@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+December 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers spot 700 percent increase in hypervisor attacks<a href="https://www.theregister.com/2025/12/09/hypervisor_ransomware_attacks_increasing/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybersecurity landscape has witnessed a dramatic 700% increase in ransomware attacks targeting hypervisors, with their role in malicious encryption surging from 3% in the first half of the year to 25% in the second half.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Initial access brokers involved in more attacks, including on critical infrastructure<a href="https://www.cybersecuritydive.com/news/initial-access-brokers-check-point/807315?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Initial Access Brokers have become pivotal in the cybercrime ecosystem, facilitating the outsourcing of intrusion tasks to advanced adversaries. This commoditization of access to critical systems allows IABs to sell access to the highest bidder.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK intelligence warns AI 'prompt injection' attacks might never go away<a href="https://therecord.media/prompt-injection-attacks-uk-intelligence-warning?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK's National Cyber Security Centre (NCSC) has issued a warning about the persistent threat of "prompt injection" attacks on AI systems. These attacks manipulate AI models into executing unintended commands, posing a significant security risk.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 21, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

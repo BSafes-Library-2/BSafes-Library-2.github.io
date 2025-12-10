@@ -7,6 +7,28 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 5, 2025 - NCSC 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prompt injection is not SQL injection (it may be worse)<a href="https://www.ncsc.gov.uk/blog-post/prompt-injection-is-not-sql-injection"> Full Text</a>
+</p>
+<details>
+The term ‘prompt injection’ was coined in 2022 to describe a new class of application vulnerability in genAI applications. Prompt injection is where developers concatenate their own instructions with untrusted content in a single prompt, and then treat the model’s response as if there were a robust boundary between ‘what the app asked for’ and anything in the untrusted content.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 5, 2025 - FBI 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Criminals Using Altered Proof-of-Life Media to Extort Victims in Virtual Kidnapping for Ransom Scams <a href="https://www.ic3.gov/PSA/2025/PSA251205"> Full Text</a>
+</p>
+<details>
+The Federal Bureau of Investigation (FBI) warns the public about criminals altering photos found on social media or other publicly available sites to use as fake proof of life photos in virtual kidnapping for ransom scams. The criminal actors pose as kidnappers and provide seemingly real photos or videos of victims along with demands for ransom payments.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 2, 2025 - CISA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update Chrome now: Google fixes 13 security issues affecting billions<a href="https://www.malwarebytes.com/blog/news/2025/12/google-fixes-13-security-issues-affecting-billions?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released an update for its Chrome browser, addressing 13 security vulnerabilities, including four high-severity issues. One critical vulnerability, CVE-2025-13633, affects the Digital Credentials feature.
+</details>
+<div style="text-align: right" markdown="1">
+Malware Bytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 5, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Signal Report<a href="https://fortiguard.fortinet.com/threat-signal-report/6274?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical pre-authentication RCE bug has been identified in Oracle Identity Manager’s REST WebServices. This vulnerability allows unauthenticated attackers to exploit URI and matrix parameter parsing weaknesses to execute arbitrary code.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 4, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft "mitigates" Windows LNK flaw exploited as zero-day<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-mitigates-windows-lnk-flaw-exploited-as-zero-day/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity Windows LNK vulnerability, tracked as CVE-2025-9491, has been exploited by multiple state-backed and cybercrime groups in zero-day attacks. This flaw allows attackers to hide malicious commands within Windows LNK files.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 3, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
