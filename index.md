@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2025
+December 11, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cracking ValleyRAT: From Builder Secrets to Kernel Rootkits<a href="https://research.checkpoint.com/2025/cracking-valleyrat-from-builder-secrets-to-kernel-rootkits/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Cracking ValleyRAT: From Builder Secrets to Kernel Rootkits<a href="https://rese
 The ValleyRAT backdoor, also known as Winos/Winos4.0, has been dissected to reveal its modular architecture and advanced capabilities. The backdoor is associated with Chinese-speaking threat actors.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Check Point
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2025
+December 11, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VS Code extensions contain trojan-laden fake image<a href="https://www.reversinglabs.com/blog/malicious-vs-code-fake-image?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ VS Code extensions contain trojan-laden fake image<a href="https://www.reversing
 A recent campaign has been identified involving 19 malicious VS Code extensions that contain malware disguised as a PNG file. These extensions exploit the "path-is-absolute" npm package to execute malicious activities on developers' machines.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Reversing Labs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2025
+December 11, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 .NET SOAPwn Flaw Opens Door for File Writes and Remote Code Execution via Rogue WSDL<a href="https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ December 11, 2025
 A critical vulnerability, known as "SOAPwn," has been identified in the .NET Framework, allowing attackers to achieve remote code execution by exploiting WSDL imports and HTTP client proxies.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2025
+December 11, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 700+ self-hosted Git instances battered in 0-day attacks<a href="https://www.theregister.com/2025/12/10/gogs_0day_under_active_exploitation/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ December 11, 2025
 A 0-day bug in Gogs, a self-hosted Git service, is being actively exploited. The vulnerability (CVE-2025-8110) affects Gogs servers with open-registration enabled. Over 700 instances have been compromised, with 1,400 exposed to the internet.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2025
+December 11, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gang says it hacked Kansas broadband provider Rainbow Communications<a href="https://www.comparitech.com/news/ransomware-gang-says-it-hacked-kansas-broadband-provider-rainbow-communications/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Ransomware gang says it hacked Kansas broadband provider Rainbow Communications<
 Rainbow Communications, a broadband provider in Kansas, experienced a ransomware attack by the group Inc, leading to service disruptions from November 16 to November 19, 2025. Inc claims to have stolen 200 GB of data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CompariTech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2025
+December 11, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New DroidLock malware locks Android devices and demands a ransom<a href="https://www.bleepingcomputer.com/news/security/new-droidlock-malware-locks-android-devices-and-demands-a-ransom/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ New DroidLock malware locks Android devices and demands a ransom<a href="https:/
 DroidLock is a newly discovered Android malware that locks devices and demands a ransom. It specifically targets Spanish-speaking users and is distributed through malicious websites promoting fake applications.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2025
+December 11, 2025 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ClickFix Social Engineering Sparks Rise of CastleLoader Attacks<a href="https://www.infosecurity-magazine.com/news/clickfix-rise-castleloader-attacks/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ ClickFix Social Engineering Sparks Rise of CastleLoader Attacks<a href="https://
 A new malware campaign has been identified, utilizing ClickFix social engineering tactics to deploy the CastleLoader malware family. This campaign employs a Python-based delivery chain, replacing earlier AutoIt droppers with a compact Python loader.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecuirty Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2025
+December 11, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Petco takes down Vetco website after exposing customers’ personal information<a href="https://techcrunch.com/2025/12/10/petco-takes-down-vetco-website-after-exposing-customers-personal-information/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Petco takes down Vetco website after exposing customers’ personal information<
 Petco's Vetco Clinics website experienced a significant data breach, exposing sensitive customer and pet information. This breach marks the third data breach for Petco in 2025.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Tech Crunch
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2025
+December 11, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WordPress Auto-Login Backdoor Disguised as JavaScript Data File<a href="https://blog.sucuri.net/2025/12/wordpress-auto-login-backdoor-disguised-as-javascript-data-file.html?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ WordPress Auto-Login Backdoor Disguised as JavaScript Data File<a href="https://
 A WordPress backdoor has been discovered, disguised as a JavaScript data file, allowing attackers to automatically log into administrator accounts without credentials. This malware is hidden in a PHP file within the WordPress `wp-admin/js` directory.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sucuri
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2025
+December 11, 2025 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Browser Hijacking: Three Technique Studies<a href="https://www.gdatasoftware.com/blog/2025/11/38298-learning-about-browser-hijacking?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Browser Hijacking: Three Technique Studies<a href="https://www.gdatasoftware.com
 This advisory explores three distinct techniques of browser hijacking, focusing on the manipulation of browser preference files, the use of a Browser Remote Access Tool (BRAT), and the exploitation of registry entries and scheduled tasks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GData Software
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

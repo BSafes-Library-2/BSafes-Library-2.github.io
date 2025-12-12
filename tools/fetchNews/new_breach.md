@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+December 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+700+ self-hosted Git instances battered in 0-day attacks<a href="https://www.theregister.com/2025/12/10/gogs_0day_under_active_exploitation/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 0-day bug in Gogs, a self-hosted Git service, is being actively exploited. The vulnerability (CVE-2025-8110) affects Gogs servers with open-registration enabled. Over 700 instances have been compromised, with 1,400 exposed to the internet.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang says it hacked Kansas broadband provider Rainbow Communications<a href="https://www.comparitech.com/news/ransomware-gang-says-it-hacked-kansas-broadband-provider-rainbow-communications/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rainbow Communications, a broadband provider in Kansas, experienced a ransomware attack by the group Inc, leading to service disruptions from November 16 to November 19, 2025. Inc claims to have stolen 200 GB of data.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Petco takes down Vetco website after exposing customers’ personal information<a href="https://techcrunch.com/2025/12/10/petco-takes-down-vetco-website-after-exposing-customers-personal-information/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Petco's Vetco Clinics website experienced a significant data breach, exposing sensitive customer and pet information. This breach marks the third data breach for Petco in 2025.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 9, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

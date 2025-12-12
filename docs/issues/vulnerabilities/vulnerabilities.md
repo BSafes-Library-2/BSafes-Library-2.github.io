@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+.NET SOAPwn Flaw Opens Door for File Writes and Remote Code Execution via Rogue WSDL<a href="https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability, known as "SOAPwn," has been identified in the .NET Framework, allowing attackers to achieve remote code execution by exploiting WSDL imports and HTTP client proxies.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 9, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

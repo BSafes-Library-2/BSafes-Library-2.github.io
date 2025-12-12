@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+December 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Crooks manipulate online photos to fuel virtual kidnapping ransoms<a href="https://securityaffairs.com/185456/cyber-crime/fbi-crooks-manipulate-online-photos-to-fuel-virtual-kidnapping-ransoms.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI issued a warning about a new scam where criminals manipulate online photos to create fake "proof-of-life" images for virtual kidnapping scams. These involve criminals posing as kidnappers, demanding ransom, and using altered images.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 4, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

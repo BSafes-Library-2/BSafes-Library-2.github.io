@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+December 11, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Browser Hijacking: Three Technique Studies<a href="https://www.gdatasoftware.com/blog/2025/11/38298-learning-about-browser-hijacking?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This advisory explores three distinct techniques of browser hijacking, focusing on the manipulation of browser preference files, the use of a Browser Remote Access Tool (BRAT), and the exploitation of registry entries and scheduled tasks.
+</details>
+<div style="text-align: right" markdown="1">
+GData Software
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 30, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

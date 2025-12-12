@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 9, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European cops arrest 193 'violence-as-a-service' suspects<a href="https://www.theregister.com/2025/12/08/european_cops_arrest_193/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Europol's Operational Taskforce GRIMM has successfully dismantled a significant "violence-as-a-service" network, resulting in the arrest of 193 individuals. The operation involved law enforcement agencies from multiple European countries.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 4, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
