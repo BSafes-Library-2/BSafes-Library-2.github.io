@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 9, 2025
+December 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cracking ValleyRAT: From Builder Secrets to Kernel Rootkits<a href="https://research.checkpoint.com/2025/cracking-valleyrat-from-builder-secrets-to-kernel-rootkits/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ValleyRAT backdoor, also known as Winos/Winos4.0, has been dissected to reveal its modular architecture and advanced capabilities. The backdoor is associated with Chinese-speaking threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VS Code extensions contain trojan-laden fake image<a href="https://www.reversinglabs.com/blog/malicious-vs-code-fake-image?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent campaign has been identified involving 19 malicious VS Code extensions that contain malware disguised as a PNG file. These extensions exploit the "path-is-absolute" npm package to execute malicious activities on developers' machines.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+.NET SOAPwn Flaw Opens Door for File Writes and Remote Code Execution via Rogue WSDL<a href="https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability, known as "SOAPwn," has been identified in the .NET Framework, allowing attackers to achieve remote code execution by exploiting WSDL imports and HTTP client proxies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+700+ self-hosted Git instances battered in 0-day attacks<a href="https://www.theregister.com/2025/12/10/gogs_0day_under_active_exploitation/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 0-day bug in Gogs, a self-hosted Git service, is being actively exploited. The vulnerability (CVE-2025-8110) affects Gogs servers with open-registration enabled. Over 700 instances have been compromised, with 1,400 exposed to the internet.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang says it hacked Kansas broadband provider Rainbow Communications<a href="https://www.comparitech.com/news/ransomware-gang-says-it-hacked-kansas-broadband-provider-rainbow-communications/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rainbow Communications, a broadband provider in Kansas, experienced a ransomware attack by the group Inc, leading to service disruptions from November 16 to November 19, 2025. Inc claims to have stolen 200 GB of data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New DroidLock malware locks Android devices and demands a ransom<a href="https://www.bleepingcomputer.com/news/security/new-droidlock-malware-locks-android-devices-and-demands-a-ransom/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DroidLock is a newly discovered Android malware that locks devices and demands a ransom. It specifically targets Spanish-speaking users and is distributed through malicious websites promoting fake applications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ClickFix Social Engineering Sparks Rise of CastleLoader Attacks<a href="https://www.infosecurity-magazine.com/news/clickfix-rise-castleloader-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware campaign has been identified, utilizing ClickFix social engineering tactics to deploy the CastleLoader malware family. This campaign employs a Python-based delivery chain, replacing earlier AutoIt droppers with a compact Python loader.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Petco takes down Vetco website after exposing customers’ personal information<a href="https://techcrunch.com/2025/12/10/petco-takes-down-vetco-website-after-exposing-customers-personal-information/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Petco's Vetco Clinics website experienced a significant data breach, exposing sensitive customer and pet information. This breach marks the third data breach for Petco in 2025.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress Auto-Login Backdoor Disguised as JavaScript Data File<a href="https://blog.sucuri.net/2025/12/wordpress-auto-login-backdoor-disguised-as-javascript-data-file.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A WordPress backdoor has been discovered, disguised as a JavaScript data file, allowing attackers to automatically log into administrator accounts without credentials. This malware is hidden in a PHP file within the WordPress `wp-admin/js` directory.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Browser Hijacking: Three Technique Studies<a href="https://www.gdatasoftware.com/blog/2025/11/38298-learning-about-browser-hijacking?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This advisory explores three distinct techniques of browser hijacking, focusing on the manipulation of browser preference files, the use of a Browser Remote Access Tool (BRAT), and the exploitation of registry entries and scheduled tasks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI: Crooks manipulate online photos to fuel virtual kidnapping ransoms<a href="https://securityaffairs.com/185456/cyber-crime/fbi-crooks-manipulate-online-photos-to-fuel-virtual-kidnapping-ransoms.html?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ FBI: Crooks manipulate online photos to fuel virtual kidnapping ransoms<a href="
 The FBI issued a warning about a new scam where criminals manipulate online photos to create fake "proof-of-life" images for virtual kidnapping scams. These involve criminals posing as kidnappers, demanding ransom, and using altered images.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 9, 2025
+December 9, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 European cops arrest 193 'violence-as-a-service' suspects<a href="https://www.theregister.com/2025/12/08/european_cops_arrest_193/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ European cops arrest 193 'violence-as-a-service' suspects<a href="https://www.th
 The Europol's Operational Taskforce GRIMM has successfully dismantled a significant "violence-as-a-service" network, resulting in the arrest of 193 individuals. The operation involved law enforcement agencies from multiple European countries.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 9, 2025
+December 9, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers spot 700 percent increase in hypervisor attacks<a href="https://www.theregister.com/2025/12/09/hypervisor_ransomware_attacks_increasing/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Researchers spot 700 percent increase in hypervisor attacks<a href="https://www.
 The cybersecurity landscape has witnessed a dramatic 700% increase in ransomware attacks targeting hypervisors, with their role in malicious encryption surging from 3% in the first half of the year to 25% in the second half.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 9, 2025
+December 9, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Initial access brokers involved in more attacks, including on critical infrastructure<a href="https://www.cybersecuritydive.com/news/initial-access-brokers-check-point/807315?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Initial access brokers involved in more attacks, including on critical infrastru
 Initial Access Brokers have become pivotal in the cybercrime ecosystem, facilitating the outsourcing of intrusion tasks to advanced adversaries. This commoditization of access to critical systems allows IABs to sell access to the highest bidder.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 9, 2025
+December 9, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scammers harvesting Facebook photos to stage fake kidnappings, warns FBI<a href="https://www.malwarebytes.com/blog/news/2025/12/scammers-harvesting-facebook-photos-to-stage-fake-kidnappings-warns-fbi?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Scammers harvesting Facebook photos to stage fake kidnappings, warns FBI<a href=
 The FBI has issued a warning about a new scam where criminals harvest photos from social media platforms like Facebook, LinkedIn, and X to stage fake kidnappings. These photos are used as "proof-of-life" to extort ransom from the victim's family.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Malware Bytes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 9, 2025
+December 9, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK intelligence warns AI 'prompt injection' attacks might never go away<a href="https://therecord.media/prompt-injection-attacks-uk-intelligence-warning?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ UK intelligence warns AI 'prompt injection' attacks might never go away<a href="
 The UK's National Cyber Security Centre (NCSC) has issued a warning about the persistent threat of "prompt injection" attacks on AI systems. These attacks manipulate AI models into executing unintended commands, posing a significant security risk.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 9, 2025
+December 9, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Three hacking groups, two vulnerabilities and all eyes on China<a href="https://therecord.media/three-hacking-groups-two-vulnerabilities-china-microsoft?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Three hacking groups, two vulnerabilities and all eyes on China<a href="https://
 The ToolShell campaign has exposed critical vulnerabilities in Microsoft's SharePoint software, exploited by three Chinese hacking groups: Linen Typhoon, Violet Typhoon, and Storm-2603.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 9, 2025
+December 9, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Confirm JS#SMUGGLER Uses Compromised Sites to Deploy NetSupport RAT<a href="https://thehackernews.com/2025/12/experts-confirm-jssmuggler-uses.html?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Experts Confirm JS#SMUGGLER Uses Compromised Sites to Deploy NetSupport RAT<a hr
 The JS#SMUGGLER campaign leverages compromised websites to deploy the NetSupport RAT, that allows attackers full control over victim systems. The campaign targets enterprise users through a sophisticated multi-stage web-based malware operation.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 9, 2025
+December 9, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ChrimeraWire Trojan Fakes Chrome Activity to Manipulate Search Rankings<a href="https://hackread.com/chrimerawire-trojan-fakes-chrome-search-activity/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ ChrimeraWire Trojan Fakes Chrome Activity to Manipulate Search Rankings<a href="
 ChrimeraWire trojan manipulates search engine rankings by simulating user activity through Chrome. Unlike traditional malware, it focuses on boosting the visibility of specific websites in search results rather than stealing data or encrypting files.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 9, 2025
+December 9, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious VSCode extensions on Microsoft's registry drop infostealers<a href="https://www.bleepingcomputer.com/news/security/malicious-vscode-extensions-on-microsofts-registry-drop-infostealers/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Malicious VSCode extensions on Microsoft's registry drop infostealers<a href="ht
 Two malicious VSCode extensions, Bitcoin Black and Codo AI, have been identified on Microsoft's registry. These extensions, published under the developer name 'BigBlack', are designed to infect developers' machines with information-stealing malware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
