@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2025
+December 15, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data breach at credit check giant 700Credit affects at least 5.6 million<a href="https://techcrunch.com/2025/12/12/data-breach-at-credit-check-giant-700credit-affects-at-least-5-6-million/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated adversary-in-the-middle (AiTM) phishing campaign has been identified, targeting Microsoft 365 and Okta users. The campaign bypasses multi-factor authentication (MFA) by hijacking legitimate single sign-on (SSO) authentication flows.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 15, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Known Exploited Vulnerabilities Catalog<a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2025-14174?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical out of bounds memory access vulnerability has been identified in Google Chromium, tracked as CVE-2025-14174. This vulnerability could allow remote attackers to perform unauthorized memory access via a crafted HTML page.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 15, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fieldtex notifies 274,000 people of data breach, ransomware gang takes credit<a href="https://www.comparitech.com/news/fieldtex-notifies-274000-people-of-data-breach-ransomware-gang-takes-credit/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fieldtex, a New York-based manufacturer, has notified 247,363 individuals of a data breach that occurred in August 2025. The breach, claimed by the ransomware group Akira, involved the theft of personal information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 15, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New PyStoreRAT Malware Targets OSINT Researchers Through GitHub<a href="https://hackread.com/pystorerat-rat-malware-github-osint-researchers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PyStoreRAT is a newly identified malware targeting OSINT researchers and IT professionals through GitHub. It is distributed via fake OSINT tools and other software, leveraging AI to build trust and evade detection.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 15, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More than 340,000 impacted by cyberattack on library in large Washington county<a href="https://therecord.media/over-340000-impacted-washington-state-library-hack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberattack on the Pierce County Library System in Washington has exposed the personal information of over 340,000 individuals. The breach, attributed to the INC ransomware gang, forced the library system to shut down all its systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 15, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes two zero-day flaws exploited in 'sophisticated' attacks<a href="https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-day-flaws-exploited-in-sophisticated-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released emergency updates to address two zero-day vulnerabilities, CVE-2025-43529 and CVE-2025-14174, which were exploited in sophisticated attacks targeting specific individuals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 15, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks<a href="https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability, CVE-2018-4063, affecting Sierra Wireless AirLink ALEOS routers, to its Known Exploited Vulnerabilities catalog.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 15, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found an unsecured 16TB database containing 4.3B professional records<a href="https://securityaffairs.com/185661/data-breach/experts-found-an-unsecured-16tb-database-containing-4-3b-professional-records.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unsecured 16TB MongoDB database containing 4.3 billion professional records was discovered, posing a significant risk for large-scale AI-driven social engineering attacks. The database included LinkedIn-style data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Notepad++ fixes flaw that let attackers push malicious update files<a href="https://www.bleepingcomputer.com/news/security/notepad-plus-plus-fixes-flaw-that-let-attackers-push-malicious-update-files/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Notepad++ has addressed a critical bug in its WinGUp update tool that allowed attackers to push malicious update files. It was exploited to execute unauthorized commands and exfiltrate sensitive data, posing a significant security risk to users.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Doxers Posing as Cops Are Tricking Big Tech Firms Into Sharing People’s Private Data<a href="https://www.wired.com/story/doxers-posing-as-cops-are-tricking-big-tech-firms-into-sharing-peoples-private-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are exploiting vulnerabilities in the emergency data request (EDR) process by impersonating law enforcement officers to obtain private user data from major tech companies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cracking ValleyRAT: From Builder Secrets to Kernel Rootkits<a href="https://research.checkpoint.com/2025/cracking-valleyrat-from-builder-secrets-to-kernel-rootkits/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Cracking ValleyRAT: From Builder Secrets to Kernel Rootkits<a href="https://rese
 The ValleyRAT backdoor, also known as Winos/Winos4.0, has been dissected to reveal its modular architecture and advanced capabilities. The backdoor is associated with Chinese-speaking threat actors.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Check Point
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2025
+December 11, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VS Code extensions contain trojan-laden fake image<a href="https://www.reversinglabs.com/blog/malicious-vs-code-fake-image?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ VS Code extensions contain trojan-laden fake image<a href="https://www.reversing
 A recent campaign has been identified involving 19 malicious VS Code extensions that contain malware disguised as a PNG file. These extensions exploit the "path-is-absolute" npm package to execute malicious activities on developers' machines.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Reversing Labs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2025
+December 11, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 .NET SOAPwn Flaw Opens Door for File Writes and Remote Code Execution via Rogue WSDL<a href="https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ December 11, 2025
 A critical vulnerability, known as "SOAPwn," has been identified in the .NET Framework, allowing attackers to achieve remote code execution by exploiting WSDL imports and HTTP client proxies.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2025
+December 11, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 700+ self-hosted Git instances battered in 0-day attacks<a href="https://www.theregister.com/2025/12/10/gogs_0day_under_active_exploitation/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ December 11, 2025
 A 0-day bug in Gogs, a self-hosted Git service, is being actively exploited. The vulnerability (CVE-2025-8110) affects Gogs servers with open-registration enabled. Over 700 instances have been compromised, with 1,400 exposed to the internet.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2025
+December 11, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gang says it hacked Kansas broadband provider Rainbow Communications<a href="https://www.comparitech.com/news/ransomware-gang-says-it-hacked-kansas-broadband-provider-rainbow-communications/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Ransomware gang says it hacked Kansas broadband provider Rainbow Communications<
 Rainbow Communications, a broadband provider in Kansas, experienced a ransomware attack by the group Inc, leading to service disruptions from November 16 to November 19, 2025. Inc claims to have stolen 200 GB of data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CompariTech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2025
+December 11, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New DroidLock malware locks Android devices and demands a ransom<a href="https://www.bleepingcomputer.com/news/security/new-droidlock-malware-locks-android-devices-and-demands-a-ransom/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ New DroidLock malware locks Android devices and demands a ransom<a href="https:/
 DroidLock is a newly discovered Android malware that locks devices and demands a ransom. It specifically targets Spanish-speaking users and is distributed through malicious websites promoting fake applications.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2025
+December 11, 2025 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ClickFix Social Engineering Sparks Rise of CastleLoader Attacks<a href="https://www.infosecurity-magazine.com/news/clickfix-rise-castleloader-attacks/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ ClickFix Social Engineering Sparks Rise of CastleLoader Attacks<a href="https://
 A new malware campaign has been identified, utilizing ClickFix social engineering tactics to deploy the CastleLoader malware family. This campaign employs a Python-based delivery chain, replacing earlier AutoIt droppers with a compact Python loader.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecuirty Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2025
+December 11, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Petco takes down Vetco website after exposing customers’ personal information<a href="https://techcrunch.com/2025/12/10/petco-takes-down-vetco-website-after-exposing-customers-personal-information/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Petco takes down Vetco website after exposing customers’ personal information<
 Petco's Vetco Clinics website experienced a significant data breach, exposing sensitive customer and pet information. This breach marks the third data breach for Petco in 2025.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Tech Crunch
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2025
+December 11, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WordPress Auto-Login Backdoor Disguised as JavaScript Data File<a href="https://blog.sucuri.net/2025/12/wordpress-auto-login-backdoor-disguised-as-javascript-data-file.html?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ WordPress Auto-Login Backdoor Disguised as JavaScript Data File<a href="https://
 A WordPress backdoor has been discovered, disguised as a JavaScript data file, allowing attackers to automatically log into administrator accounts without credentials. This malware is hidden in a PHP file within the WordPress `wp-admin/js` directory.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sucuri
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2025
+December 11, 2025 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Browser Hijacking: Three Technique Studies<a href="https://www.gdatasoftware.com/blog/2025/11/38298-learning-about-browser-hijacking?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Browser Hijacking: Three Technique Studies<a href="https://www.gdatasoftware.com
 This advisory explores three distinct techniques of browser hijacking, focusing on the manipulation of browser preference files, the use of a Browser Remote Access Tool (BRAT), and the exploitation of registry entries and scheduled tasks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GData Software
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
