@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2025
+December 15, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data breach at credit check giant 700Credit affects at least 5.6 million<a href="https://techcrunch.com/2025/12/12/data-breach-at-credit-check-giant-700credit-affects-at-least-5-6-million/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Data breach at credit check giant 700Credit affects at least 5.6 million<a href=
 A sophisticated adversary-in-the-middle (AiTM) phishing campaign has been identified, targeting Microsoft 365 and Okta users. The campaign bypasses multi-factor authentication (MFA) by hijacking legitimate single sign-on (SSO) authentication flows.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Tech Crunch
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2025
+December 15, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Known Exploited Vulnerabilities Catalog<a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2025-14174?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Known Exploited Vulnerabilities Catalog<a href="https://www.cisa.gov/known-explo
 A critical out of bounds memory access vulnerability has been identified in Google Chromium, tracked as CVE-2025-14174. This vulnerability could allow remote attackers to perform unauthorized memory access via a crafted HTML page.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CISA
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2025
+December 15, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fieldtex notifies 274,000 people of data breach, ransomware gang takes credit<a href="https://www.comparitech.com/news/fieldtex-notifies-274000-people-of-data-breach-ransomware-gang-takes-credit/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Fieldtex notifies 274,000 people of data breach, ransomware gang takes credit<a 
 Fieldtex, a New York-based manufacturer, has notified 247,363 individuals of a data breach that occurred in August 2025. The breach, claimed by the ransomware group Akira, involved the theft of personal information.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CompariTech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2025
+December 15, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New PyStoreRAT Malware Targets OSINT Researchers Through GitHub<a href="https://hackread.com/pystorerat-rat-malware-github-osint-researchers/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ New PyStoreRAT Malware Targets OSINT Researchers Through GitHub<a href="https://
 PyStoreRAT is a newly identified malware targeting OSINT researchers and IT professionals through GitHub. It is distributed via fake OSINT tools and other software, leveraging AI to build trust and evade detection.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2025
+December 15, 2025 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More than 340,000 impacted by cyberattack on library in large Washington county<a href="https://therecord.media/over-340000-impacted-washington-state-library-hack?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ More than 340,000 impacted by cyberattack on library in large Washington county<
 A cyberattack on the Pierce County Library System in Washington has exposed the personal information of over 340,000 individuals. The breach, attributed to the INC ransomware gang, forced the library system to shut down all its systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2025
+December 15, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple fixes two zero-day flaws exploited in 'sophisticated' attacks<a href="https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-day-flaws-exploited-in-sophisticated-attacks/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Apple fixes two zero-day flaws exploited in 'sophisticated' attacks<a href="http
 Apple has released emergency updates to address two zero-day vulnerabilities, CVE-2025-43529 and CVE-2025-14174, which were exploited in sophisticated attacks targeting specific individuals.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2025
+December 15, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks<a href="https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks<a 
 The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability, CVE-2018-4063, affecting Sierra Wireless AirLink ALEOS routers, to its Known Exploited Vulnerabilities catalog.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2025
+December 15, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts found an unsecured 16TB database containing 4.3B professional records<a href="https://securityaffairs.com/185661/data-breach/experts-found-an-unsecured-16tb-database-containing-4-3b-professional-records.html?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Experts found an unsecured 16TB database containing 4.3B professional records<a 
 An unsecured 16TB MongoDB database containing 4.3 billion professional records was discovered, posing a significant risk for large-scale AI-driven social engineering attacks. The database included LinkedIn-style data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2025
+December 12, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Notepad++ fixes flaw that let attackers push malicious update files<a href="https://www.bleepingcomputer.com/news/security/notepad-plus-plus-fixes-flaw-that-let-attackers-push-malicious-update-files/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Notepad++ fixes flaw that let attackers push malicious update files<a href="http
 Notepad++ has addressed a critical bug in its WinGUp update tool that allowed attackers to push malicious update files. It was exploited to execute unauthorized commands and exfiltrate sensitive data, posing a significant security risk to users.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2025
+December 12, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Doxers Posing as Cops Are Tricking Big Tech Firms Into Sharing People’s Private Data<a href="https://www.wired.com/story/doxers-posing-as-cops-are-tricking-big-tech-firms-into-sharing-peoples-private-data/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Doxers Posing as Cops Are Tricking Big Tech Firms Into Sharing People’s Privat
 Hackers are exploiting vulnerabilities in the emergency data request (EDR) process by impersonating law enforcement officers to obtain private user data from major tech companies.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Wired
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

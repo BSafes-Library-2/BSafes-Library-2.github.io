@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+December 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks<a href="https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability, CVE-2018-4063, affecting Sierra Wireless AirLink ALEOS routers, to its Known Exploited Vulnerabilities catalog.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 9, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

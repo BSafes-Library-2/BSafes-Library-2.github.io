@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+December 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More than 340,000 impacted by cyberattack on library in large Washington county<a href="https://therecord.media/over-340000-impacted-washington-state-library-hack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberattack on the Pierce County Library System in Washington has exposed the personal information of over 340,000 individuals. The breach, attributed to the INC ransomware gang, forced the library system to shut down all its systems.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 27, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

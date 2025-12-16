@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+December 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data breach at credit check giant 700Credit affects at least 5.6 million<a href="https://techcrunch.com/2025/12/12/data-breach-at-credit-check-giant-700credit-affects-at-least-5-6-million/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated adversary-in-the-middle (AiTM) phishing campaign has been identified, targeting Microsoft 365 and Okta users. The campaign bypasses multi-factor authentication (MFA) by hijacking legitimate single sign-on (SSO) authentication flows.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fieldtex notifies 274,000 people of data breach, ransomware gang takes credit<a href="https://www.comparitech.com/news/fieldtex-notifies-274000-people-of-data-breach-ransomware-gang-takes-credit/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fieldtex, a New York-based manufacturer, has notified 247,363 individuals of a data breach that occurred in August 2025. The breach, claimed by the ransomware group Akira, involved the theft of personal information.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 15, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found an unsecured 16TB database containing 4.3B professional records<a href="https://securityaffairs.com/185661/data-breach/experts-found-an-unsecured-16tb-database-containing-4-3b-professional-records.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unsecured 16TB MongoDB database containing 4.3 billion professional records was discovered, posing a significant risk for large-scale AI-driven social engineering attacks. The database included LinkedIn-style data.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 11, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

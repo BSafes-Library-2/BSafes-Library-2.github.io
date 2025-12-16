@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 12, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Doxers Posing as Cops Are Tricking Big Tech Firms Into Sharing People’s Private Data<a href="https://www.wired.com/story/doxers-posing-as-cops-are-tricking-big-tech-firms-into-sharing-peoples-private-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are exploiting vulnerabilities in the emergency data request (EDR) process by impersonating law enforcement officers to obtain private user data from major tech companies.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 9, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
