@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 17, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Vulnerabilities in Apple Products Could Allow for Arbitrary Code Execution<a href="https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-apple-products-could-allow-for-arbitrary-code-execution_2025-116?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple bugs have been identified in Apple products, with the most severe potentially allowing for arbitrary code execution. Apple is aware of reports that CVE-2025-43529 and CVE-2025-14174 may have been exploited in sophisticated attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Ci Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 17, 2025 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Compromised IAM Credentials Power a Large AWS Crypto Mining Campaign<a href="https://thehackernews.com/2025/12/compromised-iam-credentials-power-large.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated cryptocurrency mining campaign has been identified targeting AWS customers. The attackers leverage compromised IAM credentials to deploy crypto miners, using advanced persistence techniques to evade detection and maintain operations.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 17, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Photo booth flaw exposes people’s private pictures online<a href="https://www.malwarebytes.com/blog/uncategorized/2025/12/photo-booth-flaw-exposes-peoples-private-pictures-online?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in a photo booth company's website exposed private photos of users, posing significant privacy risks. The flaw allowed unauthorized access to photos and videos
+</details>
+<div style="text-align: right" markdown="1">
+Malware Bytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 17, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked hackers breach critical infrastructure organizations via edge devices<a href="https://www.cybersecuritydive.com/news/russian-hackers-critical-infrastructure-energy-edge-devices/808005/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor has shifted its focus from exploiting zero-day and N-day vulnerabilities to targeting known but unpatched flaws in edge devices. This strategy reduces their workload and chances of detection while maintaining operational outcomes.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 17, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability in Mitsubishi Electric GT Designer3 Allows Unauthorized Device Operation<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-350-04?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in Mitsubishi Electric GT Designer3 allows attackers to obtain plaintext credentials, potentially leading to unauthorized operation of GOT2000 and GOT1000 series devices.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 17, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerability in Hitachi Energy AFS, AFR, and AFF Series<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-350-03?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability, CVE-2024-3596, has been identified in Hitachi Energy's AFS, AFR, and AFF series. This vulnerability can compromise data integrity and disrupt availability, posing significant risks to critical infrastructure sectors.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 17, 2025 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Alerts on Apple WebKit Zero-Day Actively Exploited<a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA identified a critical zero-day vulnerability, CVE-2025-43529, in Apple's WebKit rendering engine. This vulnerability is actively exploited in the wild, affecting millions of users across iOS, iPadOS, macOS, and other Apple platforms.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 17, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cellik Android malware builds malicious versions from Google Play apps<a href="https://www.bleepingcomputer.com/news/security/cellik-android-malware-builds-malicious-versions-from-google-play-apps/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cellik is a newly discovered Android malware-as-a-service (MaaS) that allows cybercriminals to create malicious versions of apps from the Google Play Store. It is offered for $150 per month or $900 for lifetime access.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 17, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlindEagle Deploys Caminho and DCRAT<a href="https://www.zscaler.com/blogs/security-research/blindeagle-targets-colombian-government-agency-caminho-and-dcrat?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BlindEagle, a threat actor operating in South America, has launched a sophisticated spear phishing campaign targeting a Colombian government agency under the Ministry of Commerce, Industry and Tourism (MCIT).
+</details>
+<div style="text-align: right" markdown="1">
+ZScaler
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 17, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GhostPoster attacks hide malicious JavaScript in Firefox addon logos<a href="https://www.bleepingcomputer.com/news/security/ghostposter-attacks-hide-malicious-javascript-in-firefox-addon-logos/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The "GhostPoster" campaign is exploiting Firefox extensions by embedding malicious JavaScript in the image logos using steganography. This technique allows attackers to monitor browser activity and plant a backdoor, affecting over 50,000 users.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 15, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

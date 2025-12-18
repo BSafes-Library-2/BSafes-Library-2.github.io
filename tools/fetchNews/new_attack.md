@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+December 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GhostPoster attacks hide malicious JavaScript in Firefox addon logos<a href="https://www.bleepingcomputer.com/news/security/ghostposter-attacks-hide-malicious-javascript-in-firefox-addon-logos/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The "GhostPoster" campaign is exploiting Firefox extensions by embedding malicious JavaScript in the image logos using steganography. This technique allows attackers to monitor browser activity and plant a backdoor, affecting over 50,000 users.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 5, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

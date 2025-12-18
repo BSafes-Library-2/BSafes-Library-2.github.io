@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlindEagle Deploys Caminho and DCRAT<a href="https://www.zscaler.com/blogs/security-research/blindeagle-targets-colombian-government-agency-caminho-and-dcrat?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BlindEagle, a threat actor operating in South America, has launched a sophisticated spear phishing campaign targeting a Colombian government agency under the Ministry of Commerce, Industry and Tourism (MCIT).
+</details>
+<div style="text-align: right" markdown="1">
+ZScaler
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 12, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

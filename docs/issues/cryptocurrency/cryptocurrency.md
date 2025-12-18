@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+December 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Compromised IAM Credentials Power a Large AWS Crypto Mining Campaign<a href="https://thehackernews.com/2025/12/compromised-iam-credentials-power-large.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated cryptocurrency mining campaign has been identified targeting AWS customers. The attackers leverage compromised IAM credentials to deploy crypto miners, using advanced persistence techniques to evade detection and maintain operations.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

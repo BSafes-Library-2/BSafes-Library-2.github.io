@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Vulnerabilities in Apple Products Could Allow for Arbitrary Code Execution<a href="https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-apple-products-could-allow-for-arbitrary-code-execution_2025-116?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple bugs have been identified in Apple products, with the most severe potentially allowing for arbitrary code execution. Apple is aware of reports that CVE-2025-43529 and CVE-2025-14174 may have been exploited in sophisticated attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Ci Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Photo booth flaw exposes people’s private pictures online<a href="https://www.malwarebytes.com/blog/uncategorized/2025/12/photo-booth-flaw-exposes-peoples-private-pictures-online?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in a photo booth company's website exposed private photos of users, posing significant privacy risks. The flaw allowed unauthorized access to photos and videos
+</details>
+<div style="text-align: right" markdown="1">
+Malware Bytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability in Mitsubishi Electric GT Designer3 Allows Unauthorized Device Operation<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-350-04?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in Mitsubishi Electric GT Designer3 allows attackers to obtain plaintext credentials, potentially leading to unauthorized operation of GOT2000 and GOT1000 series devices.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerability in Hitachi Energy AFS, AFR, and AFF Series<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-350-03?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability, CVE-2024-3596, has been identified in Hitachi Energy's AFS, AFR, and AFF series. This vulnerability can compromise data integrity and disrupt availability, posing significant risks to critical infrastructure sectors.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 15, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
