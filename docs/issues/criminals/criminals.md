@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon blocked 1,800 suspected DPRK job applicants<a href="https://www.theregister.com/2025/12/18/amazon_blocked_fake_dprk_workers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon has successfully blocked over 1,800 suspected North Korean scammers from securing remote jobs since April 2024. These scammers use fake identities, AI tools, and deepfakes to apply for jobs, funneling their wages to the North Korean regime.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 9, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+December 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kimwolf Botnet Hijacks 1.8 Million Android TVs, Launches Large-Scale DDoS Attacks<a href="https://thehackernews.com/2025/12/kimwolf-botnet-hijacks-18-million.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Kimwolf botnet has emerged as a significant threat, hijacking 1.8 million Android-based devices, including TVs, set-top boxes, and tablets, to conduct large-scale DDoS attacks. This botnet is linked to the AISURU botnet.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 4, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

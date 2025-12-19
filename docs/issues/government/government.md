@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+December 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Three Known Exploited Vulnerabilities to Catalog<a href="https://www.cisa.gov/news-events/alerts/2025/12/17/cisa-adds-three-known-exploited-vulnerabilities-catalog?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, indicating active exploitation. These vulnerabilities pose significant risks to federal enterprises and require immediate attention.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Flags Critical ASUS Live Update Flaw After Evidence of Active Exploitation<a href="https://thehackernews.com/2025/12/cisa-flags-critical-asus-live-update.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in ASUS Live Update, identified as CVE-2025-59374 with a CVSS score of 9.3, has been actively exploited. This flaw, resulting from a supply chain compromise, allows attackers to perform unintended actions on affected devices.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 15, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

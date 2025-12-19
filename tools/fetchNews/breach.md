@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+December 17, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked hackers breach critical infrastructure organizations via edge devices<a href="https://www.cybersecuritydive.com/news/russian-hackers-critical-infrastructure-energy-edge-devices/808005/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor has shifted its focus from exploiting zero-day and N-day vulnerabilities to targeting known but unpatched flaws in edge devices. This strategy reduces their workload and chances of detection while maintaining operational outcomes.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 15, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

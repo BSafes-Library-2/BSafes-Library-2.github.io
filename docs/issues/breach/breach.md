@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+December 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Richmond, VA mental health service notifies 113,000+ people of data breach<a href="https://www.comparitech.com/news/richmond-va-mental-health-service-notifies-113000-people-of-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Richmond Behavioral Health Authority in Virginia experienced a data breach, affecting 113,232 individuals. The compromised data includes names, SSNs, passport numbers, financial account information, and protected health information.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 17, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

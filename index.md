@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 19, 2025
+December 19, 2025 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Group Policy abuse reveals China-aligned espionage group targeting governments<a href="https://www.helpnetsecurity.com/2025/12/18/eset-china-aligned-apt-group-policy/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Group Policy abuse reveals China-aligned espionage group targeting governments<a
 A China-aligned advanced persistent threat group, LongNosedGoblin, has been identified targeting government institutions in Southeast Asia and Japan. The group exploits Windows Group Policy to deploy malware and conduct long-term surveillance.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 19, 2025
+December 19, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Amazon blocked 1,800 suspected DPRK job applicants<a href="https://www.theregister.com/2025/12/18/amazon_blocked_fake_dprk_workers/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Amazon blocked 1,800 suspected DPRK job applicants<a href="https://www.theregist
 Amazon has successfully blocked over 1,800 suspected North Korean scammers from securing remote jobs since April 2024. These scammers use fake identities, AI tools, and deepfakes to apply for jobs, funneling their wages to the North Korean regime.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 18, 2025
+December 18, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 November 2025 Trends Report on Phishing Emails<a href="https://asec.ahnlab.com/en/91596/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ November 2025 Trends Report on Phishing Emails<a href="https://asec.ahnlab.com/e
 This advisory provides an overview of phishing email trends observed in November 2025, highlighting the tactics, techniques, and procedures (TTPs) employed by threat actors.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Ahn Lab.
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 18, 2025
+December 18, 2025 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kimwolf Botnet Hijacks 1.8 Million Android TVs, Launches Large-Scale DDoS Attacks<a href="https://thehackernews.com/2025/12/kimwolf-botnet-hijacks-18-million.html?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Kimwolf Botnet Hijacks 1.8 Million Android TVs, Launches Large-Scale DDoS Attack
 The Kimwolf botnet has emerged as a significant threat, hijacking 1.8 million Android-based devices, including TVs, set-top boxes, and tablets, to conduct large-scale DDoS attacks. This botnet is linked to the AISURU botnet.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 18, 2025
+December 18, 2025 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ink Dragon's Relay Network and Stealthy Offensive Operation<a href="https://research.checkpoint.com/2025/ink-dragons-relay-network-and-offensive-operation/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Ink Dragon's Relay Network and Stealthy Offensive Operation<a href="https://rese
 Ink Dragon, a sophisticated Chinese threat actor, has been leveraging a custom ShadowPad IIS Listener module to transform compromised servers into distributed relay nodes.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Check Point
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 18, 2025
+December 18, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New spyware discovered on Belarusian journalist’s phone after interrogation<a href="https://therecord.media/spyware-belarus-journalist-rsf?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ New spyware discovered on Belarusian journalist’s phone after interrogation<a 
 A new spyware, dubbed ResidentBat, has been discovered on a Belarusian journalist's phone. This spyware targets Android devices and can access call logs, SMS, encrypted app messages, microphone recordings, locally stored files, and screen captures.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 18, 2025
+December 18, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Richmond, VA mental health service notifies 113,000+ people of data breach<a href="https://www.comparitech.com/news/richmond-va-mental-health-service-notifies-113000-people-of-data-breach/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Richmond, VA mental health service notifies 113,000+ people of data breach<a hre
 The Richmond Behavioral Health Authority in Virginia experienced a data breach, affecting 113,232 individuals. The compromised data includes names, SSNs, passport numbers, financial account information, and protected health information.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CompariTech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 18, 2025
+December 18, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exploited SonicWall zero-day patched (CVE-2025-40602)<a href="https://www.helpnetsecurity.com/2025/12/17/sonicwall-cve-2025-40602/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Exploited SonicWall zero-day patched (CVE-2025-40602)<a href="https://www.helpne
 A critical vulnerability has been patched in SonicWall's Secure Mobile Access (SMA) 1000 appliances. This vulnerability, when combined with CVE-2025-23006, allows attackers to achieve unauthenticated remote code execution with root privileges.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 18, 2025
+December 18, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Adds Three Known Exploited Vulnerabilities to Catalog<a href="https://www.cisa.gov/news-events/alerts/2025/12/17/cisa-adds-three-known-exploited-vulnerabilities-catalog?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ CISA Adds Three Known Exploited Vulnerabilities to Catalog<a href="https://www.c
 CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, indicating active exploitation. These vulnerabilities pose significant risks to federal enterprises and require immediate attention.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CISA
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 18, 2025
+December 18, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Flags Critical ASUS Live Update Flaw After Evidence of Active Exploitation<a href="https://thehackernews.com/2025/12/cisa-flags-critical-asus-live-update.html?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ CISA Flags Critical ASUS Live Update Flaw After Evidence of Active Exploitation<
 A critical vulnerability in ASUS Live Update, identified as CVE-2025-59374 with a CVSS score of 9.3, has been actively exploited. This flaw, resulting from a supply chain compromise, allows attackers to perform unintended actions on affected devices.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
