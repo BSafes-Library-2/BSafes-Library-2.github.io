@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 17, 2025
+December 19, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Group Policy abuse reveals China-aligned espionage group targeting governments<a href="https://www.helpnetsecurity.com/2025/12/18/eset-china-aligned-apt-group-policy/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A China-aligned advanced persistent threat group, LongNosedGoblin, has been identified targeting government institutions in Southeast Asia and Japan. The group exploits Windows Group Policy to deploy malware and conduct long-term surveillance.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 19, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon blocked 1,800 suspected DPRK job applicants<a href="https://www.theregister.com/2025/12/18/amazon_blocked_fake_dprk_workers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon has successfully blocked over 1,800 suspected North Korean scammers from securing remote jobs since April 2024. These scammers use fake identities, AI tools, and deepfakes to apply for jobs, funneling their wages to the North Korean regime.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+November 2025 Trends Report on Phishing Emails<a href="https://asec.ahnlab.com/en/91596/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This advisory provides an overview of phishing email trends observed in November 2025, highlighting the tactics, techniques, and procedures (TTPs) employed by threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kimwolf Botnet Hijacks 1.8 Million Android TVs, Launches Large-Scale DDoS Attacks<a href="https://thehackernews.com/2025/12/kimwolf-botnet-hijacks-18-million.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Kimwolf botnet has emerged as a significant threat, hijacking 1.8 million Android-based devices, including TVs, set-top boxes, and tablets, to conduct large-scale DDoS attacks. This botnet is linked to the AISURU botnet.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ink Dragon's Relay Network and Stealthy Offensive Operation<a href="https://research.checkpoint.com/2025/ink-dragons-relay-network-and-offensive-operation/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ink Dragon, a sophisticated Chinese threat actor, has been leveraging a custom ShadowPad IIS Listener module to transform compromised servers into distributed relay nodes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New spyware discovered on Belarusian journalist’s phone after interrogation<a href="https://therecord.media/spyware-belarus-journalist-rsf?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new spyware, dubbed ResidentBat, has been discovered on a Belarusian journalist's phone. This spyware targets Android devices and can access call logs, SMS, encrypted app messages, microphone recordings, locally stored files, and screen captures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Richmond, VA mental health service notifies 113,000+ people of data breach<a href="https://www.comparitech.com/news/richmond-va-mental-health-service-notifies-113000-people-of-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Richmond Behavioral Health Authority in Virginia experienced a data breach, affecting 113,232 individuals. The compromised data includes names, SSNs, passport numbers, financial account information, and protected health information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploited SonicWall zero-day patched (CVE-2025-40602)<a href="https://www.helpnetsecurity.com/2025/12/17/sonicwall-cve-2025-40602/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability has been patched in SonicWall's Secure Mobile Access (SMA) 1000 appliances. This vulnerability, when combined with CVE-2025-23006, allows attackers to achieve unauthenticated remote code execution with root privileges.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Three Known Exploited Vulnerabilities to Catalog<a href="https://www.cisa.gov/news-events/alerts/2025/12/17/cisa-adds-three-known-exploited-vulnerabilities-catalog?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, indicating active exploitation. These vulnerabilities pose significant risks to federal enterprises and require immediate attention.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 18, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Flags Critical ASUS Live Update Flaw After Evidence of Active Exploitation<a href="https://thehackernews.com/2025/12/cisa-flags-critical-asus-live-update.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in ASUS Live Update, identified as CVE-2025-59374 with a CVSS score of 9.3, has been actively exploited. This flaw, resulting from a supply chain compromise, allows attackers to perform unintended actions on affected devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 17, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple Vulnerabilities in Apple Products Could Allow for Arbitrary Code Execution<a href="https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-apple-products-could-allow-for-arbitrary-code-execution_2025-116?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Multiple Vulnerabilities in Apple Products Could Allow for Arbitrary Code Execut
 Multiple bugs have been identified in Apple products, with the most severe potentially allowing for arbitrary code execution. Apple is aware of reports that CVE-2025-43529 and CVE-2025-14174 may have been exploited in sophisticated attacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Ci Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 17, 2025
+December 17, 2025 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Compromised IAM Credentials Power a Large AWS Crypto Mining Campaign<a href="https://thehackernews.com/2025/12/compromised-iam-credentials-power-large.html?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Compromised IAM Credentials Power a Large AWS Crypto Mining Campaign<a href="htt
 A sophisticated cryptocurrency mining campaign has been identified targeting AWS customers. The attackers leverage compromised IAM credentials to deploy crypto miners, using advanced persistence techniques to evade detection and maintain operations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 17, 2025
+December 17, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Photo booth flaw exposes people’s private pictures online<a href="https://www.malwarebytes.com/blog/uncategorized/2025/12/photo-booth-flaw-exposes-peoples-private-pictures-online?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Photo booth flaw exposes people’s private pictures online<a href="https://www.
 A vulnerability in a photo booth company's website exposed private photos of users, posing significant privacy risks. The flaw allowed unauthorized access to photos and videos
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Malware Bytes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 17, 2025
+December 17, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-linked hackers breach critical infrastructure organizations via edge devices<a href="https://www.cybersecuritydive.com/news/russian-hackers-critical-infrastructure-energy-edge-devices/808005/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Russia-linked hackers breach critical infrastructure organizations via edge devi
 The threat actor has shifted its focus from exploiting zero-day and N-day vulnerabilities to targeting known but unpatched flaws in edge devices. This strategy reduces their workload and chances of detection while maintaining operational outcomes.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 17, 2025
+December 17, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerability in Mitsubishi Electric GT Designer3 Allows Unauthorized Device Operation<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-350-04?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Vulnerability in Mitsubishi Electric GT Designer3 Allows Unauthorized Device Ope
 A vulnerability in Mitsubishi Electric GT Designer3 allows attackers to obtain plaintext credentials, potentially leading to unauthorized operation of GOT2000 and GOT1000 series devices.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CISA
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 17, 2025
+December 17, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Vulnerability in Hitachi Energy AFS, AFR, and AFF Series<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-350-03?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Critical Vulnerability in Hitachi Energy AFS, AFR, and AFF Series<a href="https:
 A critical vulnerability, CVE-2024-3596, has been identified in Hitachi Energy's AFS, AFR, and AFF series. This vulnerability can compromise data integrity and disrupt availability, posing significant risks to critical infrastructure sectors.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CISA
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 17, 2025
+December 17, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Alerts on Apple WebKit Zero-Day Actively Exploited<a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ CISA Alerts on Apple WebKit Zero-Day Actively Exploited<a href="https://www.cisa
 CISA identified a critical zero-day vulnerability, CVE-2025-43529, in Apple's WebKit rendering engine. This vulnerability is actively exploited in the wild, affecting millions of users across iOS, iPadOS, macOS, and other Apple platforms.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CISA
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 17, 2025
+December 17, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cellik Android malware builds malicious versions from Google Play apps<a href="https://www.bleepingcomputer.com/news/security/cellik-android-malware-builds-malicious-versions-from-google-play-apps/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Cellik Android malware builds malicious versions from Google Play apps<a href="h
 Cellik is a newly discovered Android malware-as-a-service (MaaS) that allows cybercriminals to create malicious versions of apps from the Google Play Store. It is offered for $150 per month or $900 for lifetime access.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 17, 2025
+December 17, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlindEagle Deploys Caminho and DCRAT<a href="https://www.zscaler.com/blogs/security-research/blindeagle-targets-colombian-government-agency-caminho-and-dcrat?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ BlindEagle Deploys Caminho and DCRAT<a href="https://www.zscaler.com/blogs/secur
 BlindEagle, a threat actor operating in South America, has launched a sophisticated spear phishing campaign targeting a Colombian government agency under the Ministry of Commerce, Industry and Tourism (MCIT).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ZScaler
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 17, 2025
+December 17, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GhostPoster attacks hide malicious JavaScript in Firefox addon logos<a href="https://www.bleepingcomputer.com/news/security/ghostposter-attacks-hide-malicious-javascript-in-firefox-addon-logos/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ GhostPoster attacks hide malicious JavaScript in Firefox addon logos<a href="htt
 The "GhostPoster" campaign is exploiting Firefox extensions by embedding malicious JavaScript in the image logos using steganography. This technique allows attackers to monitor browser activity and plant a backdoor, affecting over 50,000 users.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
