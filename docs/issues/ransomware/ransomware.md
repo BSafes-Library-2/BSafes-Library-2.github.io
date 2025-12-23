@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+December 22, 2025  <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+“ClickFix” Trap: Fake Human Verification Leads to Qilin Ransomware Infection<a href="https://securityonline.info/clickfix-trap-fake-human-verification-leads-to-qilin-ransomware-infection/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A deceptive social engineering tactic known as “ClickFix” has evolved into a gateway for major ransomware attacks, with researchers uncovering a direct link between these fake verification prompts and the notorious Qilin ransomware group.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 24, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

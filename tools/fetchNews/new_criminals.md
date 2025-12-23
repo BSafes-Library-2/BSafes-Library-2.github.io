@@ -11,6 +11,20 @@ nav_order: 900031
 December 19, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+DIG AI: Uncensored Darknet AI Assistant at the Service of Criminals and Terrorists<a href="https://www.resecurity.com/blog/article/dig-ai-uncensored-darknet-ai-assistant-at-the-service-of-criminals-and-terrorists?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The emergence of DIG AI, an uncensored darknet AI assistant, has been identified as a significant threat, with a notable increase of over 200% in mentions and use of malicious AI tools from 2024 to 2025.
+</details>
+<div style="text-align: right" markdown="1">
+ReSecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Amazon blocked 1,800 suspected DPRK job applicants<a href="https://www.theregister.com/2025/12/18/amazon_blocked_fake_dprk_workers/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

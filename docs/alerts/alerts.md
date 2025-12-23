@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 19, 2025 - CISA, NSA, CCCS
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BRICKSTORM Backdoor <a href="https://www.cisa.gov/news-events/analysis-reports/ar25-338a"> Full Text</a>
+</p>
+<details>
+The Cybersecurity and Infrastructure Security Agency (CISA), National Security Agency (NSA), and Canadian Centre for Cyber Security (Cyber Centre) assess People’s Republic of China (PRC) state-sponsored cyber actors are using BRICKSTORM malware for long-term persistence on victim systems. CISA, NSA, and Cyber Centre are releasing this Malware Analysis Report to share indicators of compromise (IOCs) and detection signatures based off analysis of 11 BRICKSTORM samples. CISA, NSA, and Cyber Centre urge organizations to use the IOCs and detection signatures to identify BRICKSTORM malware samples.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 12, 2025 - CISA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

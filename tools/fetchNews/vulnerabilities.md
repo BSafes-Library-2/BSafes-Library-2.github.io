@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploited SonicWall zero-day patched (CVE-2025-40602)<a href="https://www.helpnetsecurity.com/2025/12/17/sonicwall-cve-2025-40602/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability has been patched in SonicWall's Secure Mobile Access (SMA) 1000 appliances. This vulnerability, when combined with CVE-2025-23006, allows attackers to achieve unauthenticated remote code execution with root privileges.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 17, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

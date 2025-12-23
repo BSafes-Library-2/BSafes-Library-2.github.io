@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+December 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Group Policy abuse reveals China-aligned espionage group targeting governments<a href="https://www.helpnetsecurity.com/2025/12/18/eset-china-aligned-apt-group-policy/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A China-aligned advanced persistent threat group, LongNosedGoblin, has been identified targeting government institutions in Southeast Asia and Japan. The group exploits Windows Group Policy to deploy malware and conduct long-term surveillance.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 28, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

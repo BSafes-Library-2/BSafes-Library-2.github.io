@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside a purchase order PDF phishing campaign<a href="https://www.malwarebytes.com/blog/threat-intel/2025/12/inside-a-purchase-order-pdf-phishing-campaign?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated phishing campaign has been identified, utilizing weaponized PDF documents to steal corporate credentials. The phishing emails contain a PDF attachment named "NEW Purchase Order # 52177236.pdf.
+</details>
+<div style="text-align: right" markdown="1">
+Malware Byte
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 17, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+December 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senior U.S. Officials Continue to be Impersonated in Malicious Messaging Campaign<a href="https://www.ic3.gov/PSA/2025/PSA251219?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Activity dating back to 2023 reveals malicious actors have impersonated senior U.S. state government, White House, and Cabinet level officials, as well as members of Congress to target individuals.
+</details>
+<div style="text-align: right" markdown="1">
+IC3
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 18, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

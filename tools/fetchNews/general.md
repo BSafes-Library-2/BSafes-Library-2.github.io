@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+December 18, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+November 2025 Trends Report on Phishing Emails<a href="https://asec.ahnlab.com/en/91596/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This advisory provides an overview of phishing email trends observed in November 2025, highlighting the tactics, techniques, and procedures (TTPs) employed by threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+Ahn Lab.
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 9, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

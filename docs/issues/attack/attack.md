@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+December 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GachiLoader: Defeating Node.js Malware with API Tracing GachiLoader: Defeating Node.js Malware<a href="https://research.checkpoint.com/2025/gachiloader-node-js-malware-with-api-tracing/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated malware distribution campaign has been identified, leveraging the YouTube Ghost Network to deploy GachiLoader, a heavily obfuscated Node.js-based loader. This loader delivers Rhadamanthys infostealer to unsuspecting victims.
+</details>
+<div style="text-align: right" markdown="1">
+Check Point
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 19, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop ransomware targets Gladinet CentreStack in data theft attacks<a href="https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-gladinet-centrestack-servers-for-extortion/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Clop ransomware gang is actively targeting Gladinet CentreStack file servers in a new data theft extortion campaign. This campaign involves scanning for and breaching Internet-exposed CentreStack servers.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 17, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

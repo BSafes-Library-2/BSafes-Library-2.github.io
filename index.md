@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2025
+December 22, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TikTok’s “Scam-Yourself” Trap: How AuraStealer Malware Tricks Users into Hacking Their Own PCs<a href="https://securityonline.info/tiktoks-scam-yourself-trap-how-aurastealer-malware-tricks-users-into-hacking-their-own-pcs/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ TikTok’s “Scam-Yourself” Trap: How AuraStealer Malware Tricks Users into H
 A deep-dive analysis by Gen Digital (Gen Threat Labs) has unveiled AuraStealer, an emerging Malware-as-a-Service (MaaS) that is rapidly gaining traction in underground forums by leveraging a devious distribution tactic known as “Scam-Yourself.”
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2025
+December 22, 2025  -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 “ClickFix” Trap: Fake Human Verification Leads to Qilin Ransomware Infection<a href="https://securityonline.info/clickfix-trap-fake-human-verification-leads-to-qilin-ransomware-infection/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ December 22, 2025
 A deceptive social engineering tactic known as “ClickFix” has evolved into a gateway for major ransomware attacks, with researchers uncovering a direct link between these fake verification prompts and the notorious Qilin ransomware group.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2025
+December 22, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Senior U.S. Officials Continue to be Impersonated in Malicious Messaging Campaign<a href="https://www.ic3.gov/PSA/2025/PSA251219?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Senior U.S. Officials Continue to be Impersonated in Malicious Messaging Campaig
 Activity dating back to 2023 reveals malicious actors have impersonated senior U.S. state government, White House, and Cabinet level officials, as well as members of Congress to target individuals.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+IC3
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2025
+December 22, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA and Partners Release Update to Malware Analysis Report BRICKSTORM Backdoor<a href="https://www.cisa.gov/news-events/alerts/2025/12/19/cisa-and-partners-release-update-malware-analysis-report-brickstorm-backdoor?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ CISA and Partners Release Update to Malware Analysis Report BRICKSTORM Backdoor<
 CISA, National Security Agency, and Canadian Centre for Cyber Security have released an update to the Malware Analysis Report BRICKSTORM Backdoor with indicators of compromise (IOCs) and detection signatures for additional BRICKSTORM samples.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CISA
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2025
+December 22, 2025 -- [Law Article](/docs/laws-and-regulations/laws-and-regulations/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nefilim Ransomware Affiliate Pleads Guilty<a href="https://www.infosecurity-magazine.com/news/nefilim-ransomware-affiliate/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Nefilim Ransomware Affiliate Pleads Guilty<a href="https://www.infosecurity-maga
 Artem Aleksandrovych Stryzhak, 35, was extradited from the Spanish city of Barcelona earlier this year after being arrested in June 2024. He pleaded guilty to one count of conspiracy to commit computer fraud, according to the US Justice Department.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 19, 2025
+December 19, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GachiLoader: Defeating Node.js Malware with API Tracing GachiLoader: Defeating Node.js Malware<a href="https://research.checkpoint.com/2025/gachiloader-node-js-malware-with-api-tracing/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ GachiLoader: Defeating Node.js Malware with API Tracing GachiLoader: Defeating N
 A sophisticated malware distribution campaign has been identified, leveraging the YouTube Ghost Network to deploy GachiLoader, a heavily obfuscated Node.js-based loader. This loader delivers Rhadamanthys infostealer to unsuspecting victims.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Check Point
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 19, 2025
+December 19, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Clop ransomware targets Gladinet CentreStack in data theft attacks<a href="https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-gladinet-centrestack-servers-for-extortion/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Clop ransomware targets Gladinet CentreStack in data theft attacks<a href="https
 The Clop ransomware gang is actively targeting Gladinet CentreStack file servers in a new data theft extortion campaign. This campaign involves scanning for and breaching Internet-exposed CentreStack servers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 19, 2025
+December 19, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows 10 OOB update released to fix Message Queuing (MSMQ) issues<a href="https://www.bleepingcomputer.com/news/microsoft/windows-10-oob-update-released-to-fix-message-queuing-msmq-issues/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Windows 10 OOB update released to fix Message Queuing (MSMQ) issues<a href="http
 Microsoft has released an out-of-band (OOB) update (KB5074976) to address issues with the Message Queuing (MSMQ) functionality in Windows 10, which arose after the December 9, 2025, update.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 19, 2025
+December 19, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Inside a purchase order PDF phishing campaign<a href="https://www.malwarebytes.com/blog/threat-intel/2025/12/inside-a-purchase-order-pdf-phishing-campaign?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Inside a purchase order PDF phishing campaign<a href="https://www.malwarebytes.c
 A sophisticated phishing campaign has been identified, utilizing weaponized PDF documents to steal corporate credentials. The phishing emails contain a PDF attachment named "NEW Purchase Order # 52177236.pdf.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Malware Byte
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 19, 2025
+December 19, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DIG AI: Uncensored Darknet AI Assistant at the Service of Criminals and Terrorists<a href="https://www.resecurity.com/blog/article/dig-ai-uncensored-darknet-ai-assistant-at-the-service-of-criminals-and-terrorists?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ DIG AI: Uncensored Darknet AI Assistant at the Service of Criminals and Terroris
 The emergence of DIG AI, an uncensored darknet AI assistant, has been identified as a significant threat, with a notable increase of over 200% in mentions and use of malicious AI tools from 2024 to 2025.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ReSecurity
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
