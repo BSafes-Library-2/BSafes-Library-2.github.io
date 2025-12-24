@@ -7,6 +7,20 @@ nav_order: 700
 
 ## Laws and Regulations
 ---
+December 22, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nefilim Ransomware Affiliate Pleads Guilty<a href="https://www.infosecurity-magazine.com/news/nefilim-ransomware-affiliate/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Artem Aleksandrovych Stryzhak, 35, was extradited from the Spanish city of Barcelona earlier this year after being arrested in June 2024. He pleaded guilty to one count of conspiracy to commit computer fraud, according to the US Justice Department.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 8, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

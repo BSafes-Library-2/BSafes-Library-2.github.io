@@ -8,6 +8,62 @@ nav_order: 900029
 
 ## Breach
 ---
+December 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South Korea’s Shinhan Card Data Breach Affects 192,000 Merchants<a href="https://thecyberexpress.com/shinhan-card-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Shinhan Card data breach has exposed the personal information of approximately 192,000 card merchants. This incident highlights the risks associated with internal misconduct within financial institutions.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 23, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1,000 systems pwned in Romanian Waters ransomware attack<a href="https://www.theregister.com/2025/12/22/around_1000_systems_compromised_in/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack has compromised approximately 1,000 systems within Romania's water management administration Romanian Waters. The attack began on December 20 and spread to ten of the country's 11 river basin management organizations.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 23, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+University of Phoenix data breach impacts nearly 3.5 million individuals<a href="https://www.bleepingcomputer.com/news/security/university-of-phoenix-data-breach-impacts-nearly-35-million-individuals/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The University of Phoenix (UoPX) experienced a data breach affecting 3,489,274 individuals, including students, staff, and suppliers. The breach was disclosed on the university's official website in early December.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 23, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Florida dermatologist warns 55,000+ people of data breach that compromised SSNs, medical info<a href="https://www.comparitech.com/news/florida-dermatologist-warns-55000-people-of-data-breach-that-compromised-ssns-medical-info/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Brevard Skin and Cancer Center has notified over 55,000 individuals of a data breach that compromised sensitive personal information, including names, SSNs, billing and claims information, diagnoses, clinical information, and more.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 18, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
