@@ -34,7 +34,103 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 24, 2025
+December 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST, MITRE announce $20 million research effort on AI cybersecurity<a href="https://cyberscoop.com/nist-mitre-announce-20-million-dollar-research-effort-on-ai-cybersecurity/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NIST and The MITRE Corporation have announced a $20 million initiative to establish two new research centers focused on artificial intelligence (AI) and its impact on cybersecurity for U.S. critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Webrat, disguised as exploits, is spreading via GitHub repositories<a href="https://securelist.com/webrat-distributed-via-github/118555/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Webrat malware campaign is actively targeting inexperienced security professionals and students by disguising itself as exploits for high-profile vulnerabilities. The campaign exploits vulnerabilities with high CVSSv3 scores.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Crypto Scammers on Telegram Are Fueling the Biggest Darknet Markets Ever<a href="https://www.wired.com/story/expired-tired-wired-chinese-scammer-crypto-markets/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Chinese-speaking crypto scam markets on Telegram, specifically Tudou Guarantee and Xinbi Guarantee, have become the largest darknet markets in history. These markets facilitate nearly $2 billion in monthly transactions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+React2Shell Explained (CVE-2025-55182): From Vulnerability Discovery to Exploitation<a href="https://www.resecurity.com/blog/article/react2shell-explained-cve-2025-55182-from-vulnerability-discovery-to-exploitation?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+React2Shell is a critical RCE vulnerability affecting React Server Components and the React Flight protocol. This vulnerability allows unauthenticated attackers to execute arbitrary code on vulnerable servers through a single crafted HTTP request.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside Uzbekistan’s nationwide license plate surveillance system<a href="https://techcrunch.com/2025/12/23/inside-uzbekistans-nationwide-license-plate-surveillance-system/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Uzbekistan's nationwide license plate surveillance system has been exposed to the internet without a password. This lapse reveals the real-time locations of surveillance cameras and millions of photos and videos of vehicles.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 25, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MongoDB warns admins to patch severe RCE flaw immediately<a href="https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-rce-flaw-immediately/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MongoDB has issued an urgent advisory for IT administrators to patch a critical remote code execution (RCE) vulnerability, CVE-2025-14847. This flaw affects multiple versions of MongoDB and MongoDB Server.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 24, 2025 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. CISA adds a flaw in Digiever DS-2105 Pro to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/186021/security/u-s-cisa-adds-a-flaw-in-digiever-ds-2105-pro-to-its-known-exploited-vulnerabilities-catalog.html?&web_view=true"> Full Text</a>
@@ -44,13 +140,13 @@ U.S. CISA adds a flaw in Digiever DS-2105 Pro to its Known Exploited Vulnerabili
 The CISA has added a critical vulnerability in the Digiever DS-2105 Pro network video recorder to its Known Exploited Vulnerabilities catalog. This vulnerability, identified as CVE-2023-52163, has a CVSS score of 8.8.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 24, 2025
+December 24, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 South Korea’s Shinhan Card Data Breach Affects 192,000 Merchants<a href="https://thecyberexpress.com/shinhan-card-data-breach/?&web_view=true"> Full Text</a>
@@ -60,13 +156,13 @@ South Korea’s Shinhan Card Data Breach Affects 192,000 Merchants<a href="https
 The Shinhan Card data breach has exposed the personal information of approximately 192,000 card merchants. This incident highlights the risks associated with internal misconduct within financial institutions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 24, 2025
+December 24, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. DoJ Seizes Fraud Domain Behind $14.6 Million Bank Account Takeover Scheme<a href="https://thehackernews.com/2025/12/us-doj-seizes-fraud-domain-behind-146.html?&web_view=true"> Full Text</a>
@@ -76,13 +172,13 @@ U.S. DoJ Seizes Fraud Domain Behind $14.6 Million Bank Account Takeover Scheme<a
 The U.S. Department of Justice has seized the domain web3adspanels[.]org, used in a bank account takeover scheme resulting in $14.6 million in losses. Visitors to the domain now see a seizure banner indicating its takedown.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2025
+December 23, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Seizes Fake ID Template Domains Operating from Bangladesh<a href="https://hackread.com/fbi-seizes-domains-us-id-templates-bangladesh/?&web_view=true"> Full Text</a>
@@ -92,13 +188,13 @@ FBI Seizes Fake ID Template Domains Operating from Bangladesh<a href="https://ha
 The FBI has successfully dismantled an online marketplace operated by Zahid Hasan from Bangladesh, which sold fake ID templates. This operation, known as TechTreek, involved the sale of digital templates for fraudulent identification documents.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2025
+December 23, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Flaw in Somalia’s E-Visa System Exposes Travelers’ Passport Data<a href="https://thecyberexpress.com/somalia-e-visa-security-flaw-data-exposure/?&web_view=true"> Full Text</a>
@@ -108,13 +204,13 @@ New Flaw in Somalia’s E-Visa System Exposes Travelers’ Passport Data<a href=
 A critical security flaw in Somalia's e-visa system has been identified, exposing sensitive personal data of travelers. This vulnerability allows unauthorized access to passport details, full names, and birth dates.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2025
+December 23, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 1,000 systems pwned in Romanian Waters ransomware attack<a href="https://www.theregister.com/2025/12/22/around_1000_systems_compromised_in/?&web_view=true"> Full Text</a>
@@ -124,13 +220,13 @@ December 23, 2025
 A ransomware attack has compromised approximately 1,000 systems within Romania's water management administration Romanian Waters. The attack began on December 20 and spread to ten of the country's 11 river basin management organizations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2025
+December 23, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 University of Phoenix data breach impacts nearly 3.5 million individuals<a href="https://www.bleepingcomputer.com/news/security/university-of-phoenix-data-breach-impacts-nearly-35-million-individuals/?&web_view=true"> Full Text</a>
@@ -140,13 +236,13 @@ University of Phoenix data breach impacts nearly 3.5 million individuals<a href=
 The University of Phoenix (UoPX) experienced a data breach affecting 3,489,274 individuals, including students, staff, and suppliers. The breach was disclosed on the university's official website in early December.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2025
+December 23, 2025 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Abuse Popular Monitoring Tool Nezha as a Stealth Trojan<a href="https://hackread.com/hackers-abuse-monitoring-tool-nezha-trojan/?&web_view=true"> Full Text</a>
@@ -156,13 +252,13 @@ Hackers Abuse Popular Monitoring Tool Nezha as a Stealth Trojan<a href="https://
 Hackers have been using Nezha with scripts containing Simplified Chinese messages, and their command center is hosted on Alibaba Cloud services in Japan. This activity is part of a broader trend of digital warfare.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2025
+December 23, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious npm package steals WhatsApp accounts and messages<a href="https://www.bleepingcomputer.com/news/security/malicious-npm-package-steals-whatsapp-accounts-and-messages/?&web_view=true"> Full Text</a>
@@ -172,13 +268,13 @@ Malicious npm package steals WhatsApp accounts and messages<a href="https://www.
 A malicious npm package named lotusbail has been identified, posing as a legitimate WhatsApp Web API library. This package is a fork of the WhiskeySockets Baileys project and has been downloaded over 56,000 times.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2025
+December 23, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Florida dermatologist warns 55,000+ people of data breach that compromised SSNs, medical info<a href="https://www.comparitech.com/news/florida-dermatologist-warns-55000-people-of-data-breach-that-compromised-ssns-medical-info/?&web_view=true"> Full Text</a>
@@ -188,7 +284,7 @@ Florida dermatologist warns 55,000+ people of data breach that compromised SSNs,
 Brevard Skin and Cancer Center has notified over 55,000 individuals of a data breach that compromised sensitive personal information, including names, SSNs, billing and claims information, diagnoses, clinical information, and more.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CompariTech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
