@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 25, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Crypto Scammers on Telegram Are Fueling the Biggest Darknet Markets Ever<a href="https://www.wired.com/story/expired-tired-wired-chinese-scammer-crypto-markets/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Chinese-speaking crypto scam markets on Telegram, specifically Tudou Guarantee and Xinbi Guarantee, have become the largest darknet markets in history. These markets facilitate nearly $2 billion in monthly transactions.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 24, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

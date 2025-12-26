@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. DoJ Seizes Fraud Domain Behind $14.6 Million Bank Account Takeover Scheme<a href="https://thehackernews.com/2025/12/us-doj-seizes-fraud-domain-behind-146.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice has seized the domain web3adspanels[.]org, used in a bank account takeover scheme resulting in $14.6 million in losses. Visitors to the domain now see a seizure banner indicating its takedown.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 23, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Seizes Fake ID Template Domains Operating from Bangladesh<a href="https://hackread.com/fbi-seizes-domains-us-id-templates-bangladesh/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has successfully dismantled an online marketplace operated by Zahid Hasan from Bangladesh, which sold fake ID templates. This operation, known as TechTreek, involved the sale of digital templates for fraudulent identification documents.
+</details>
+<div style="text-align: right" markdown="1">
+Hack News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 19, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+December 25, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST, MITRE announce $20 million research effort on AI cybersecurity<a href="https://cyberscoop.com/nist-mitre-announce-20-million-dollar-research-effort-on-ai-cybersecurity/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NIST and The MITRE Corporation have announced a $20 million initiative to establish two new research centers focused on artificial intelligence (AI) and its impact on cybersecurity for U.S. critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Scoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 22, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

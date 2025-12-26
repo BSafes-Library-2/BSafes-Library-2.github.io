@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+December 25, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside Uzbekistan’s nationwide license plate surveillance system<a href="https://techcrunch.com/2025/12/23/inside-uzbekistans-nationwide-license-plate-surveillance-system/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Uzbekistan's nationwide license plate surveillance system has been exposed to the internet without a password. This lapse reveals the real-time locations of surveillance cameras and millions of photos and videos of vehicles.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 7, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

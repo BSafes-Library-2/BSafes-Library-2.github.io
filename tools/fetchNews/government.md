@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+December 24, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. CISA adds a flaw in Digiever DS-2105 Pro to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/186021/security/u-s-cisa-adds-a-flaw-in-digiever-ds-2105-pro-to-its-known-exploited-vulnerabilities-catalog.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA has added a critical vulnerability in the Digiever DS-2105 Pro network video recorder to its Known Exploited Vulnerabilities catalog. This vulnerability, identified as CVE-2023-52163, has a CVSS score of 8.8.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 22, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

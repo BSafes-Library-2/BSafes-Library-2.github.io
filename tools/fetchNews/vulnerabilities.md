@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 23, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Flaw in Somalia’s E-Visa System Exposes Travelers’ Passport Data<a href="https://thecyberexpress.com/somalia-e-visa-security-flaw-data-exposure/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical security flaw in Somalia's e-visa system has been identified, exposing sensitive personal data of travelers. This vulnerability allows unauthorized access to passport details, full names, and birth dates.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 19, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
