@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+December 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FCC Bans Foreign-Made Drones and Key Parts Over U.S. National Security Risks<a href="https://thehackernews.com/2025/12/fcc-bans-foreign-made-drones-and-key.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FCC has announced a ban on foreign-made drones and critical components, citing national security risks. This decision is grounded in the 2025 National Defense Authorization Act (NDAA) and aims to protect U.S. airspace.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japan Adopts New Cybersecurity Strategy to Counter Rising Cyber Threats<a href="https://thecyberexpress.com/japan-cybersecurity-strategy-five-year-plan/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new strategy identifies cyber operations linked to China, Russia, and North Korea as significant threats. These attacks have targeted public institutions, private companies, and essential services, leveraging advanced technologies like AI.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 26, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Releases One Industrial Control Systems Advisory<a href="https://www.cisa.gov/news-events/alerts/2025/12/23/cisa-releases-one-industrial-control-systems-advisory?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities in Mitsubishi Electric Air Conditioning Systems could potentially allow unauthorized access or control over the systems, leading to disruptions in operations and potential safety hazards.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 24, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

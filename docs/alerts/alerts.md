@@ -7,6 +7,20 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 23, 2025 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Releases One Industrial Control Systems Advisory <a href="https://www.cisa.gov/news-events/analysis-reports/ar25-338a"> Full Text</a>
+</p>
+<details>
+CISA released one Industrial Control Systems (ICS) Advisory. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. 
+
+ICSA-25-177-01 Mitsubishi Electric Air Conditioning Systems (Update B)
+CISA encourages users and administrators to review the newly released ICS advisory for technical details and mitigations.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 19, 2025 - CISA, NSA, CCCS
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 25, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+React2Shell Explained (CVE-2025-55182): From Vulnerability Discovery to Exploitation<a href="https://www.resecurity.com/blog/article/react2shell-explained-cve-2025-55182-from-vulnerability-discovery-to-exploitation?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+React2Shell is a critical RCE vulnerability affecting React Server Components and the React Flight protocol. This vulnerability allows unauthenticated attackers to execute arbitrary code on vulnerable servers through a single crafted HTTP request.
+</details>
+<div style="text-align: right" markdown="1">
+ReSecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 25, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MongoDB warns admins to patch severe RCE flaw immediately<a href="https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-rce-flaw-immediately/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MongoDB has issued an urgent advisory for IT administrators to patch a critical remote code execution (RCE) vulnerability, CVE-2025-14847. This flaw affects multiple versions of MongoDB and MongoDB Server.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 23, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
