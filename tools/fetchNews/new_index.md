@@ -34,7 +34,71 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 25, 2025
+December 26, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FCC Bans Foreign-Made Drones and Key Parts Over U.S. National Security Risks<a href="https://thehackernews.com/2025/12/fcc-bans-foreign-made-drones-and-key.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FCC has announced a ban on foreign-made drones and critical components, citing national security risks. This decision is grounded in the 2025 National Defense Authorization Act (NDAA) and aims to protect U.S. airspace.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 26, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japan Adopts New Cybersecurity Strategy to Counter Rising Cyber Threats<a href="https://thecyberexpress.com/japan-cybersecurity-strategy-five-year-plan/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new strategy identifies cyber operations linked to China, Russia, and North Korea as significant threats. These attacks have targeted public institutions, private companies, and essential services, leveraging advanced technologies like AI.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 26, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nomani Investment Scam Surges 62% Using AI Deepfake Ads on Social Media<a href="https://thehackernews.com/2025/12/nomani-investment-scam-surges-62-using.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Nomani investment scam has surged by 62%, utilizing AI deepfake ads on social media platforms to deceive users. This alert provides an overview of the scam's tactics, improvements in AI-generated content, and the broader implications of ad fraud.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 26, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Releases One Industrial Control Systems Advisory<a href="https://www.cisa.gov/news-events/alerts/2025/12/23/cisa-releases-one-industrial-control-systems-advisory?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities in Mitsubishi Electric Air Conditioning Systems could potentially allow unauthorized access or control over the systems, leading to disruptions in operations and potential safety hazards.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 25, 2025 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NIST, MITRE announce $20 million research effort on AI cybersecurity<a href="https://cyberscoop.com/nist-mitre-announce-20-million-dollar-research-effort-on-ai-cybersecurity/?&web_view=true"> Full Text</a>
@@ -44,13 +108,13 @@ NIST, MITRE announce $20 million research effort on AI cybersecurity<a href="htt
 The NIST and The MITRE Corporation have announced a $20 million initiative to establish two new research centers focused on artificial intelligence (AI) and its impact on cybersecurity for U.S. critical infrastructure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyber Scoop
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 25, 2025
+December 25, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Webrat, disguised as exploits, is spreading via GitHub repositories<a href="https://securelist.com/webrat-distributed-via-github/118555/?&web_view=true"> Full Text</a>
@@ -60,13 +124,13 @@ Webrat, disguised as exploits, is spreading via GitHub repositories<a href="http
 The Webrat malware campaign is actively targeting inexperienced security professionals and students by disguising itself as exploits for high-profile vulnerabilities. The campaign exploits vulnerabilities with high CVSSv3 scores.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Secure List
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 25, 2025
+December 25, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Crypto Scammers on Telegram Are Fueling the Biggest Darknet Markets Ever<a href="https://www.wired.com/story/expired-tired-wired-chinese-scammer-crypto-markets/?&web_view=true"> Full Text</a>
@@ -76,13 +140,13 @@ Chinese Crypto Scammers on Telegram Are Fueling the Biggest Darknet Markets Ever
 The Chinese-speaking crypto scam markets on Telegram, specifically Tudou Guarantee and Xinbi Guarantee, have become the largest darknet markets in history. These markets facilitate nearly $2 billion in monthly transactions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Wired
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 25, 2025
+December 25, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 React2Shell Explained (CVE-2025-55182): From Vulnerability Discovery to Exploitation<a href="https://www.resecurity.com/blog/article/react2shell-explained-cve-2025-55182-from-vulnerability-discovery-to-exploitation?&web_view=true"> Full Text</a>
@@ -92,13 +156,13 @@ React2Shell Explained (CVE-2025-55182): From Vulnerability Discovery to Exploita
 React2Shell is a critical RCE vulnerability affecting React Server Components and the React Flight protocol. This vulnerability allows unauthenticated attackers to execute arbitrary code on vulnerable servers through a single crafted HTTP request.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ReSecurity
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 25, 2025
+December 25, 2025 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Inside Uzbekistan’s nationwide license plate surveillance system<a href="https://techcrunch.com/2025/12/23/inside-uzbekistans-nationwide-license-plate-surveillance-system/?&web_view=true"> Full Text</a>
@@ -108,13 +172,13 @@ Inside Uzbekistan’s nationwide license plate surveillance system<a href="https
 Uzbekistan's nationwide license plate surveillance system has been exposed to the internet without a password. This lapse reveals the real-time locations of surveillance cameras and millions of photos and videos of vehicles.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Tech Crunch
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 25, 2025
+December 25, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MongoDB warns admins to patch severe RCE flaw immediately<a href="https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-rce-flaw-immediately/?&web_view=true"> Full Text</a>
@@ -124,7 +188,7 @@ MongoDB warns admins to patch severe RCE flaw immediately<a href="https://www.bl
 MongoDB has issued an urgent advisory for IT administrators to patch a critical remote code execution (RCE) vulnerability, CVE-2025-14847. This flaw affects multiple versions of MongoDB and MongoDB Server.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
