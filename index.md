@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 30, 2025
+December 30, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Grubhub emails promise tenfold return on sent cryptocurrency<a href="https://www.bleepingcomputer.com/news/security/fake-grubhub-emails-promise-tenfold-return-on-sent-cryptocurrency/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Fake Grubhub emails promise tenfold return on sent cryptocurrency<a href="https:
 Grubhub users received fraudulent messages, apparently from a company email address, promising a tenfold bitcoin payout in return for a transfer to a specified cryptocurrency wallet.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 30, 2025
+December 30, 2025 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Evasive Panda cyberespionage campaign uses DNS poisoning to install MgBot backdoor<a href="https://securityaffairs.com/186213/apt/evasive-panda-cyberespionage-campaign-uses-dns-poisoning-to-install-mgbot-backdoor.html?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Evasive Panda cyberespionage campaign uses DNS poisoning to install MgBot backdo
 Researchers spotted the China-linked APT group Evasive Panda (aka Daggerfly, Bronze Highland, and StormBamboo) running a targeted cyber-espionage campaign using DNS poisoning to deliver the MgBot backdoor against victims in Türkiye, China, and India.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 30, 2025
+December 30, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Korean Air discloses data breach after the hack of its catering and duty-free supplier<a href="https://securityaffairs.com/186275/data-breach/korean-air-discloses-data-breach-after-the-hack-of-its-catering-and-duty-free-supplier.html?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Korean Air discloses data breach after the hack of its catering and duty-free su
 Korean Air suffered a data breach after its in-flight catering supplier Korean Air Catering & Duty-Free (KC&D) was hacked, exposing personal data of ~30,000 employees of Korean Air employees.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 30, 2025
+December 30, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker arrested for KMSAuto malware campaign with 2.8 million downloads<a href="https://www.bleepingcomputer.com/news/security/hacker-arrested-for-kmsauto-malware-campaign-with-28-million-downloads/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Hacker arrested for KMSAuto malware campaign with 2.8 million downloads<a href="
 A Lithuanian national has been arrested for his alleged involvement in infecting 2.8 million systems with clipboard-stealing malware disguised as the KMSAuto tool for illegally activating Windows and Office software.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 30, 2025
+December 30, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two more banks notifying thousands of victims about Marquis Software ransomware attack<a href="https://therecord.media/banks-marquis-software-ransomware?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Two more banks notifying thousands of victims about Marquis Software ransomware 
 Two U.S. banks have come forward to warn customers they were impacted by an August ransomware attack. Artisans' Bank and VeraBank informed regulators in Maine last week that recent data breaches were sourced back to a cyberattack on Marquis Software.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 30, 2025
+December 30, 2025 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese state hackers use rootkit to hide ToneShell malware activity<a href="https://www.bleepingcomputer.com/news/security/chinese-state-hackers-use-rootkit-to-hide-toneshell-malware-activity/?&web_view=true"> Full Text</a>
@@ -124,7 +124,7 @@ Chinese state hackers use rootkit to hide ToneShell malware activity<a href="htt
 A new sample of the ToneShell backdoor, typically seen in Chinese cyberespionage campaigns, has been delivered through a kernel-mode loader in attacks against government organizations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

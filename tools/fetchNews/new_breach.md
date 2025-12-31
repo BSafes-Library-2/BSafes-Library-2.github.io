@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+December 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Korean Air discloses data breach after the hack of its catering and duty-free supplier<a href="https://securityaffairs.com/186275/data-breach/korean-air-discloses-data-breach-after-the-hack-of-its-catering-and-duty-free-supplier.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Korean Air suffered a data breach after its in-flight catering supplier Korean Air Catering &amp; Duty-Free (KC&amp;D) was hacked, exposing personal data of ~30,000 employees of Korean Air employees.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two more banks notifying thousands of victims about Marquis Software ransomware attack<a href="https://therecord.media/banks-marquis-software-ransomware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two U.S. banks have come forward to warn customers they were impacted by an August ransomware attack. Artisans' Bank and VeraBank informed regulators in Maine last week that recent data breaches were sourced back to a cyberattack on Marquis Software.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 24, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker arrested for KMSAuto malware campaign with 2.8 million downloads<a href="https://www.bleepingcomputer.com/news/security/hacker-arrested-for-kmsauto-malware-campaign-with-28-million-downloads/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Lithuanian national has been arrested for his alleged involvement in infecting 2.8 million systems with clipboard-stealing malware disguised as the KMSAuto tool for illegally activating Windows and Office software.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 25, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
