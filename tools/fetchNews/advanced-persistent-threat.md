@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+December 30, 2025 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evasive Panda cyberespionage campaign uses DNS poisoning to install MgBot backdoor<a href="https://securityaffairs.com/186213/apt/evasive-panda-cyberespionage-campaign-uses-dns-poisoning-to-install-mgbot-backdoor.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted the China-linked APT group Evasive Panda (aka Daggerfly, Bronze Highland, and StormBamboo) running a targeted cyber-espionage campaign using DNS poisoning to deliver the MgBot backdoor against victims in Türkiye, China, and India.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 19, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

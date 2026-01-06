@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 5, 2026
+January 5, 2026 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign<a href="https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign
 Cybercriminals are abusing Google Cloud's Application Integration service to conduct a sophisticated phishing campaign. The attackers use the email address "noreply-application-integration@google[.]com" to send phishing emails that appear legitimate.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 5, 2026
+January 5, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 10K Fortinet firewalls exposed to actively exploited 2FA bypass<a href="https://www.bleepingcomputer.com/news/security/over-10-000-fortinet-firewalls-exposed-to-ongoing-2fa-bypass-attacks/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Over 10K Fortinet firewalls exposed to actively exploited 2FA bypass<a href="htt
 Over 10,000 Fortinet firewalls are currently exposed to a critical two-factor authentication (2FA) bypass vulnerability, CVE-2020-12812. This flaw allows attackers to log in without the second factor of authentication by altering the username's case.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 5, 2026
+January 5, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cryptocurrency theft attacks traced to 2022 LastPass breach<a href="https://www.bleepingcomputer.com/news/security/cryptocurrency-theft-attacks-traced-to-2022-lastpass-breach/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Cryptocurrency theft attacks traced to 2022 LastPass breach<a href="https://www.
 Ongoing cryptocurrency thefts have been traced back to the 2022 LastPass breach, where attackers stole encrypted vaults containing cryptocurrency wallet private keys and seed phrases.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 5, 2026
+January 5, 2026 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercrook claims to sell critical info about utilities<a href="https://www.theregister.com/2026/01/02/critical_utility_files_for_sale/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Cybercrook claims to sell critical info about utilities<a href="https://www.ther
 A cybercriminal claims to have breached Pickett and Associates and is selling 139 GB of sensitive engineering data related to three major US utilities: Tampa Electric Company, Duke Energy Florida, and American Electric Power.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 5, 2026
+January 5, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sedgwick confirms cyber incident affecting its major federal contractor subsidiary<a href="https://therecord.media/sedgwick-cyber-incident-ransomware?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Sedgwick confirms cyber incident affecting its major federal contractor subsidia
 Sedgwick Government Solutions, a subsidiary of Sedgwick, experienced a cybersecurity incident involving the TridentLocker ransomware gang, which claimed to have stolen 3.4 gigabytes of data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 5, 2026
+January 5, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Latest Oracle EBS Victims Include Korean Air, University of Phoenix<a href="https://thecyberexpress.com/oracle-ebs-victims-university-of-phoenix/?&web_view=true"> Full Text</a>
@@ -124,7 +124,7 @@ Latest Oracle EBS Victims Include Korean Air, University of Phoenix<a href="http
 The CL0P ransomware group has targeted Oracle EBS vulnerabilities, affecting organizations such as Korean Air and the University of Phoenix. The University of Phoenix reported a breach compromising personal data of nearly 3.5 million individuals.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

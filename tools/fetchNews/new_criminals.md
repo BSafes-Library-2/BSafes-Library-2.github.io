@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 5, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercrook claims to sell critical info about utilities<a href="https://www.theregister.com/2026/01/02/critical_utility_files_for_sale/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cybercriminal claims to have breached Pickett and Associates and is selling 139 GB of sensitive engineering data related to three major US utilities: Tampa Electric Company, Duke Energy Florida, and American Electric Power.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 30, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

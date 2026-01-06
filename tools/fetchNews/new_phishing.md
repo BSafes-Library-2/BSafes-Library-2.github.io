@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+January 5, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign<a href="https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are abusing Google Cloud's Application Integration service to conduct a sophisticated phishing campaign. The attackers use the email address "noreply-application-integration@google[.]com" to send phishing emails that appear legitimate.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 30, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
