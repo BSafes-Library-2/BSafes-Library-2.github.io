@@ -1,293 +1,11 @@
 ---
 layout: default
-title: Welcome 
-nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
-permalink: /
+title: December, 2025
+parent: Events
+has_children: true
+nav_order: 5097500
 ---
-<style>
-.dont-break-out {
-
-  /* These are technically the same, but use both */
-  overflow-wrap: break-word;
-  word-wrap: break-word;
-
-  -ms-word-break: break-all;
-  /* This is the dangerous one in WebKit, as it breaks things wherever */
-  word-break: break-all;
-  /* Instead use this non-standard one: */
-  word-break: break-word;
-
-  /* Adds a hyphen where the word breaks, if supported (No Blink) */
-  -ms-hyphens: auto;
-  -moz-hyphens: auto;
-  -webkit-hyphens: auto;
-  hyphens: auto;
-}
-</style>
-# Welcome to BSafes Library
-{: .fs-9 }
-
-BSafes library includes mobile-friendly cybersecurity publications.
-{: .fs-6 .fw-300 }
-
-## News
-{: .fs-6 .label .label-yellow }
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 7, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-New D-Link flaw in legacy DSL routers actively exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/new-d-link-flaw-in-legacy-dsl-routers-actively-exploited-in-attacks/?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-A critical command injection vulnerability, identified as CVE-2026-0625, has been discovered in legacy D-Link DSL routers. This flaw allows unauthenticated attackers to execute arbitrary commands remotely.
-</details>
-<div style="text-align: right" markdown="1">
-Bleeping Computer
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 6, 2026 -- [Malware](/docs/issues/malware/malware/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-VVS Stealer Uses Advanced Obfuscation to Target Discord Users<a href="https://www.infosecurity-magazine.com/news/vvs-stealer-advanced-obfuscation/?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-VVS Stealer is a Python-based malware targeting Discord users, employing advanced obfuscation techniques to extract sensitive data. It primarily focuses on stealing Discord tokens and browser information.
-</details>
-<div style="text-align: right" markdown="1">
-Infosecurity Magazine
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 6, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-VSCode IDE forks expose users to "recommended extension" attacks<a href="https://www.bleepingcomputer.com/news/security/vscode-ide-forks-expose-users-to-recommended-extension-attacks/?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-AI-powered IDEs forked from Microsoft VSCode, such as Cursor, Windsurf, Google Antigravity, and Trae, are vulnerable to "recommended extension" attacks. These IDEs recommend extensions that are not present in the OpenVSX registry.
-</details>
-<div style="text-align: right" markdown="1">
-Bleeping Computer
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 6, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-California urgent care clinic notifies patients of data breach that compromised SSNs, medical info<a href="https://www.comparitech.com/news/california-urgent-care-clinic-notifies-patients-of-data-breach-that-compromised-ssns-medical-info/?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Pulse Urgent Care Center in Redding, California, experienced a data breach in March 2025, compromising sensitive patient information, including Social Security numbers, driver's license numbers, medical information, and health insurance details.
-</details>
-<div style="text-align: right" markdown="1">
-CompariTech
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 6, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Researchers Warn of Data Exposure Risks in Claude Chrome Extension<a href="https://hackread.com/data-exposure-risk-claude-chrome-extension/?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-The Claude Chrome extension, developed by Anthropic, poses significant data exposure risks. This extension allows AI to browse and interact with websites on behalf of users, potentially bypassing traditional web security measures.
-</details>
-<div style="text-align: right" markdown="1">
-Hack Read
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 6, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-SlowMist Flags Potential Security Risk at HitBTC Exchange<a href="https://thecyberexpress.com/hitbtc-exchange-critical-security-warning/?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-A critical security vulnerability has been identified at the HitBTC Exchange by the blockchain security researchers. Despite attempts to responsibly disclose the issue, HitBTC has not responded.
-</details>
-<div style="text-align: right" markdown="1">
-The Cyber Express
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 6, 2026 -- [Attack](/docs/issues/attack/attack/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government<a href="https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-UAC-0184 has been targeting Ukrainian military and government entities using the Viber messaging platform. The attack involves distributing malicious ZIP archives containing LNK files disguised as Microsoft Word and Excel documents.
-</details>
-<div style="text-align: right" markdown="1">
-The Hacker News
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 6, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Crimson Collective Claims Breach of U.S. Fiber Broadband Provider Brightspeed<a href="https://thecyberexpress.com/crimson-collective-claims-brightspeed-breach/?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-The hacking group Crimson Collective has claimed responsibility for a significant data breach involving the U.S. fiber broadband provider Brightspeed. The breach reportedly affects over a million residential customers.
-</details>
-<div style="text-align: right" markdown="1">
-The Cyber Express
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 6, 2026 -- [Attack](/docs/issues/attack/attack/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Cloud file-sharing sites targeted for corporate data theft attacks<a href="https://www.bleepingcomputer.com/news/security/cloud-file-sharing-sites-targeted-for-corporate-data-theft-attacks/?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-A threat actor known as Zestix is actively selling corporate data stolen from cloud file-sharing services such as ShareFile, Nextcloud, and OwnCloud. The data theft is facilitated by info-stealing malware like RedLine, Lumma, and Vidar.
-</details>
-<div style="text-align: right" markdown="1">
-Bleeping Computer
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 6, 2026 -- [Attack](/docs/issues/attack/attack/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Russian hackers target European hospitality industry with ‘blue screen of death’ malware<a href="https://therecord.media/russian-hackers-europe-hospitality-blue-screen?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-A sophisticated malware campaign, attributed to Russian cybercriminals, is targeting the European hospitality industry. The attack uses a fake "Blue Screen of Death" to deceive victims into downloading the DCRat malware.
-</details>
-<div style="text-align: right" markdown="1">
-The Record
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 5, 2026 -- [Phishing](/docs/issues/phishing/phishing/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign<a href="https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Cybercriminals are abusing Google Cloud's Application Integration service to conduct a sophisticated phishing campaign. The attackers use the email address "noreply-application-integration@google[.]com" to send phishing emails that appear legitimate.
-</details>
-<div style="text-align: right" markdown="1">
-The Hacker News
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 5, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Over 10K Fortinet firewalls exposed to actively exploited 2FA bypass<a href="https://www.bleepingcomputer.com/news/security/over-10-000-fortinet-firewalls-exposed-to-ongoing-2fa-bypass-attacks/?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Over 10,000 Fortinet firewalls are currently exposed to a critical two-factor authentication (2FA) bypass vulnerability, CVE-2020-12812. This flaw allows attackers to log in without the second factor of authentication by altering the username's case.
-</details>
-<div style="text-align: right" markdown="1">
-Bleeping Computer
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 5, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Cryptocurrency theft attacks traced to 2022 LastPass breach<a href="https://www.bleepingcomputer.com/news/security/cryptocurrency-theft-attacks-traced-to-2022-lastpass-breach/?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Ongoing cryptocurrency thefts have been traced back to the 2022 LastPass breach, where attackers stole encrypted vaults containing cryptocurrency wallet private keys and seed phrases.
-</details>
-<div style="text-align: right" markdown="1">
-Bleeping Computer
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 5, 2026 -- [Criminals](/docs/issues/criminals/criminals/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Cybercrook claims to sell critical info about utilities<a href="https://www.theregister.com/2026/01/02/critical_utility_files_for_sale/?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-A cybercriminal claims to have breached Pickett and Associates and is selling 139 GB of sensitive engineering data related to three major US utilities: Tampa Electric Company, Duke Energy Florida, and American Electric Power.
-</details>
-<div style="text-align: right" markdown="1">
-The Register
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 5, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Sedgwick confirms cyber incident affecting its major federal contractor subsidiary<a href="https://therecord.media/sedgwick-cyber-incident-ransomware?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Sedgwick Government Solutions, a subsidiary of Sedgwick, experienced a cybersecurity incident involving the TridentLocker ransomware gang, which claimed to have stolen 3.4 gigabytes of data.
-</details>
-<div style="text-align: right" markdown="1">
-The Record
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 5, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Latest Oracle EBS Victims Include Korean Air, University of Phoenix<a href="https://thecyberexpress.com/oracle-ebs-victims-university-of-phoenix/?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-The CL0P ransomware group has targeted Oracle EBS vulnerabilities, affecting organizations such as Korean Air and the University of Phoenix. The University of Phoenix reported a breach compromising personal data of nearly 3.5 million individuals.
-</details>
-<div style="text-align: right" markdown="1">
-The Cyber Express
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
+## December, 2025
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 30, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
@@ -1181,6 +899,889 @@ The "GhostPoster" campaign is exploiting Firefox extensions by embedding malicio
 </details>
 <div style="text-align: right" markdown="1">
 Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 15, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data breach at credit check giant 700Credit affects at least 5.6 million<a href="https://techcrunch.com/2025/12/12/data-breach-at-credit-check-giant-700credit-affects-at-least-5-6-million/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated adversary-in-the-middle (AiTM) phishing campaign has been identified, targeting Microsoft 365 and Okta users. The campaign bypasses multi-factor authentication (MFA) by hijacking legitimate single sign-on (SSO) authentication flows.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 15, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Known Exploited Vulnerabilities Catalog<a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2025-14174?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical out of bounds memory access vulnerability has been identified in Google Chromium, tracked as CVE-2025-14174. This vulnerability could allow remote attackers to perform unauthorized memory access via a crafted HTML page.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 15, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fieldtex notifies 274,000 people of data breach, ransomware gang takes credit<a href="https://www.comparitech.com/news/fieldtex-notifies-274000-people-of-data-breach-ransomware-gang-takes-credit/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fieldtex, a New York-based manufacturer, has notified 247,363 individuals of a data breach that occurred in August 2025. The breach, claimed by the ransomware group Akira, involved the theft of personal information.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 15, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New PyStoreRAT Malware Targets OSINT Researchers Through GitHub<a href="https://hackread.com/pystorerat-rat-malware-github-osint-researchers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PyStoreRAT is a newly identified malware targeting OSINT researchers and IT professionals through GitHub. It is distributed via fake OSINT tools and other software, leveraging AI to build trust and evade detection.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 15, 2025 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More than 340,000 impacted by cyberattack on library in large Washington county<a href="https://therecord.media/over-340000-impacted-washington-state-library-hack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberattack on the Pierce County Library System in Washington has exposed the personal information of over 340,000 individuals. The breach, attributed to the INC ransomware gang, forced the library system to shut down all its systems.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 15, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes two zero-day flaws exploited in 'sophisticated' attacks<a href="https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-day-flaws-exploited-in-sophisticated-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released emergency updates to address two zero-day vulnerabilities, CVE-2025-43529 and CVE-2025-14174, which were exploited in sophisticated attacks targeting specific individuals.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 15, 2025 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks<a href="https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability, CVE-2018-4063, affecting Sierra Wireless AirLink ALEOS routers, to its Known Exploited Vulnerabilities catalog.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 15, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found an unsecured 16TB database containing 4.3B professional records<a href="https://securityaffairs.com/185661/data-breach/experts-found-an-unsecured-16tb-database-containing-4-3b-professional-records.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unsecured 16TB MongoDB database containing 4.3 billion professional records was discovered, posing a significant risk for large-scale AI-driven social engineering attacks. The database included LinkedIn-style data.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Notepad++ fixes flaw that let attackers push malicious update files<a href="https://www.bleepingcomputer.com/news/security/notepad-plus-plus-fixes-flaw-that-let-attackers-push-malicious-update-files/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Notepad++ has addressed a critical bug in its WinGUp update tool that allowed attackers to push malicious update files. It was exploited to execute unauthorized commands and exfiltrate sensitive data, posing a significant security risk to users.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Doxers Posing as Cops Are Tricking Big Tech Firms Into Sharing People’s Private Data<a href="https://www.wired.com/story/doxers-posing-as-cops-are-tricking-big-tech-firms-into-sharing-peoples-private-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are exploiting vulnerabilities in the emergency data request (EDR) process by impersonating law enforcement officers to obtain private user data from major tech companies.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cracking ValleyRAT: From Builder Secrets to Kernel Rootkits<a href="https://research.checkpoint.com/2025/cracking-valleyrat-from-builder-secrets-to-kernel-rootkits/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ValleyRAT backdoor, also known as Winos/Winos4.0, has been dissected to reveal its modular architecture and advanced capabilities. The backdoor is associated with Chinese-speaking threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+Check Point
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VS Code extensions contain trojan-laden fake image<a href="https://www.reversinglabs.com/blog/malicious-vs-code-fake-image?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent campaign has been identified involving 19 malicious VS Code extensions that contain malware disguised as a PNG file. These extensions exploit the "path-is-absolute" npm package to execute malicious activities on developers' machines.
+</details>
+<div style="text-align: right" markdown="1">
+Reversing Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+.NET SOAPwn Flaw Opens Door for File Writes and Remote Code Execution via Rogue WSDL<a href="https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability, known as "SOAPwn," has been identified in the .NET Framework, allowing attackers to achieve remote code execution by exploiting WSDL imports and HTTP client proxies.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+700+ self-hosted Git instances battered in 0-day attacks<a href="https://www.theregister.com/2025/12/10/gogs_0day_under_active_exploitation/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 0-day bug in Gogs, a self-hosted Git service, is being actively exploited. The vulnerability (CVE-2025-8110) affects Gogs servers with open-registration enabled. Over 700 instances have been compromised, with 1,400 exposed to the internet.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang says it hacked Kansas broadband provider Rainbow Communications<a href="https://www.comparitech.com/news/ransomware-gang-says-it-hacked-kansas-broadband-provider-rainbow-communications/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rainbow Communications, a broadband provider in Kansas, experienced a ransomware attack by the group Inc, leading to service disruptions from November 16 to November 19, 2025. Inc claims to have stolen 200 GB of data.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New DroidLock malware locks Android devices and demands a ransom<a href="https://www.bleepingcomputer.com/news/security/new-droidlock-malware-locks-android-devices-and-demands-a-ransom/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DroidLock is a newly discovered Android malware that locks devices and demands a ransom. It specifically targets Spanish-speaking users and is distributed through malicious websites promoting fake applications.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2025 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ClickFix Social Engineering Sparks Rise of CastleLoader Attacks<a href="https://www.infosecurity-magazine.com/news/clickfix-rise-castleloader-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware campaign has been identified, utilizing ClickFix social engineering tactics to deploy the CastleLoader malware family. This campaign employs a Python-based delivery chain, replacing earlier AutoIt droppers with a compact Python loader.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecuirty Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Petco takes down Vetco website after exposing customers’ personal information<a href="https://techcrunch.com/2025/12/10/petco-takes-down-vetco-website-after-exposing-customers-personal-information/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Petco's Vetco Clinics website experienced a significant data breach, exposing sensitive customer and pet information. This breach marks the third data breach for Petco in 2025.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress Auto-Login Backdoor Disguised as JavaScript Data File<a href="https://blog.sucuri.net/2025/12/wordpress-auto-login-backdoor-disguised-as-javascript-data-file.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A WordPress backdoor has been discovered, disguised as a JavaScript data file, allowing attackers to automatically log into administrator accounts without credentials. This malware is hidden in a PHP file within the WordPress `wp-admin/js` directory.
+</details>
+<div style="text-align: right" markdown="1">
+Sucuri
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2025 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Browser Hijacking: Three Technique Studies<a href="https://www.gdatasoftware.com/blog/2025/11/38298-learning-about-browser-hijacking?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This advisory explores three distinct techniques of browser hijacking, focusing on the manipulation of browser preference files, the use of a Browser Remote Access Tool (BRAT), and the exploitation of registry entries and scheduled tasks.
+</details>
+<div style="text-align: right" markdown="1">
+GData Software
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2025 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Crooks manipulate online photos to fuel virtual kidnapping ransoms<a href="https://securityaffairs.com/185456/cyber-crime/fbi-crooks-manipulate-online-photos-to-fuel-virtual-kidnapping-ransoms.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI issued a warning about a new scam where criminals manipulate online photos to create fake "proof-of-life" images for virtual kidnapping scams. These involve criminals posing as kidnappers, demanding ransom, and using altered images.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European cops arrest 193 'violence-as-a-service' suspects<a href="https://www.theregister.com/2025/12/08/european_cops_arrest_193/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Europol's Operational Taskforce GRIMM has successfully dismantled a significant "violence-as-a-service" network, resulting in the arrest of 193 individuals. The operation involved law enforcement agencies from multiple European countries.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2025 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers spot 700 percent increase in hypervisor attacks<a href="https://www.theregister.com/2025/12/09/hypervisor_ransomware_attacks_increasing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybersecurity landscape has witnessed a dramatic 700% increase in ransomware attacks targeting hypervisors, with their role in malicious encryption surging from 3% in the first half of the year to 25% in the second half.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2025 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Initial access brokers involved in more attacks, including on critical infrastructure<a href="https://www.cybersecuritydive.com/news/initial-access-brokers-check-point/807315?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Initial Access Brokers have become pivotal in the cybercrime ecosystem, facilitating the outsourcing of intrusion tasks to advanced adversaries. This commoditization of access to critical systems allows IABs to sell access to the highest bidder.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2025 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers harvesting Facebook photos to stage fake kidnappings, warns FBI<a href="https://www.malwarebytes.com/blog/news/2025/12/scammers-harvesting-facebook-photos-to-stage-fake-kidnappings-warns-fbi?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has issued a warning about a new scam where criminals harvest photos from social media platforms like Facebook, LinkedIn, and X to stage fake kidnappings. These photos are used as "proof-of-life" to extort ransom from the victim's family.
+</details>
+<div style="text-align: right" markdown="1">
+Malware Bytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2025 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK intelligence warns AI 'prompt injection' attacks might never go away<a href="https://therecord.media/prompt-injection-attacks-uk-intelligence-warning?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK's National Cyber Security Centre (NCSC) has issued a warning about the persistent threat of "prompt injection" attacks on AI systems. These attacks manipulate AI models into executing unintended commands, posing a significant security risk.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three hacking groups, two vulnerabilities and all eyes on China<a href="https://therecord.media/three-hacking-groups-two-vulnerabilities-china-microsoft?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ToolShell campaign has exposed critical vulnerabilities in Microsoft's SharePoint software, exploited by three Chinese hacking groups: Linen Typhoon, Violet Typhoon, and Storm-2603.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Confirm JS#SMUGGLER Uses Compromised Sites to Deploy NetSupport RAT<a href="https://thehackernews.com/2025/12/experts-confirm-jssmuggler-uses.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The JS#SMUGGLER campaign leverages compromised websites to deploy the NetSupport RAT, that allows attackers full control over victim systems. The campaign targets enterprise users through a sophisticated multi-stage web-based malware operation.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ChrimeraWire Trojan Fakes Chrome Activity to Manipulate Search Rankings<a href="https://hackread.com/chrimerawire-trojan-fakes-chrome-search-activity/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ChrimeraWire trojan manipulates search engine rankings by simulating user activity through Chrome. Unlike traditional malware, it focuses on boosting the visibility of specific websites in search results rather than stealing data or encrypting files.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious VSCode extensions on Microsoft's registry drop infostealers<a href="https://www.bleepingcomputer.com/news/security/malicious-vscode-extensions-on-microsofts-registry-drop-infostealers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two malicious VSCode extensions, Bitcoin Black and Codo AI, have been identified on Microsoft's registry. These extensions, published under the developer name 'BigBlack', are designed to infect developers' machines with information-stealing malware.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 5, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers find Predator spyware is being used in several countries, including Iraq<a href="https://therecord.media/intellexa-predator-spyware-continues-despite-sanctions?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Predator spyware, developed by Intellexa, is actively being used in several countries, including Iraq and Pakistan. Researchers have found indicators likely associated with the use of Predator spyware by an entity tied to Pakistan.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 5, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update Chrome now: Google fixes 13 security issues affecting billions<a href="https://www.malwarebytes.com/blog/news/2025/12/google-fixes-13-security-issues-affecting-billions?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released an update for its Chrome browser, addressing 13 security vulnerabilities, including four high-severity issues. One critical vulnerability, CVE-2025-13633, affects the Digital Credentials feature.
+</details>
+<div style="text-align: right" markdown="1">
+Malware Bytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 5, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoldFactory Hits Southeast Asia with Modified Banking Apps Driving 11,000+ Infections<a href="https://thehackernews.com/2025/12/goldfactory-hits-southeast-asia-with.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GoldFactory, a financially motivated cybercriminal group, has launched a new wave of attacks in Southeast Asia, targeting mobile users in Indonesia, Thailand, and Vietnam. The group uses modified banking apps to distribute Android malware.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 5, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Signal Report<a href="https://fortiguard.fortinet.com/threat-signal-report/6274?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical pre-authentication RCE bug has been identified in Oracle Identity Manager’s REST WebServices. This vulnerability allows unauthenticated attackers to exploit URI and matrix parameter parsing weaknesses to execute arbitrary code.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive gambling network doubles as hidden C2 and anonymity infrastructure, researchers say<a href="https://www.helpnetsecurity.com/2025/12/03/indonesian-online-gambling-network/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive network, active for over 14 years, is being used for illegal online gambling and malware distribution, doubling as a command and control (C2) and anonymity infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2025 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Two Known Exploited Vulnerabilities to Catalog<a href="https://www.cisa.gov/news-events/alerts/2025/12/02/cisa-adds-two-known-exploited-vulnerabilities-catalog?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has added two new bugs to its KEV Catalog. The vulnerabilities include:
+
+1. CVE-2025-48572: Android Framework Privilege Escalation Vulnerability
+2. CVE-2025-48633: Android Framework Information Disclosure Vulnerability
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2025 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aisuru botnet behind new record-breaking 29.7 Tbps DDoS attack<a href="https://www.bleepingcomputer.com/news/security/aisuru-botnet-behind-new-record-breaking-297-tbps-ddos-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Aisuru botnet has launched over 1,300 DDoS attacks in just three months, with Cloudflare mitigating 2,867 attacks since the beginning of the year. The botnet's most significant attack peaked at 29.7 Tbps, setting a new record.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How attackers use real IT tools to take over your computer<a href="https://www.malwarebytes.com/blog/news/2025/12/how-attackers-use-real-it-tools-to-take-over-your-computer?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new wave of cyberattacks is exploiting legitimate Remote Monitoring and Management (RMM) tools such as LogMeIn Resolve and PDQ Connect. Attackers trick users into installing these tools under false pretenses.
+</details>
+<div style="text-align: right" markdown="1">
+Malware Bytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sha1-Hulud: The Second Coming of The New npm GitHub Worm<a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/sha1-hulud-the-second-coming-of-the-new-npm-github-worm/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sha1-Hulud has resurfaced with a new campaign targeting npm packages, affecting thousands of code repositories. This malware compromises development environments by trojaning npm packages.
+</details>
+<div style="text-align: right" markdown="1">
+Trust Wave
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft "mitigates" Windows LNK flaw exploited as zero-day<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-mitigates-windows-lnk-flaw-exploited-as-zero-day/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity Windows LNK vulnerability, tracked as CVE-2025-9491, has been exploited by multiple state-backed and cybercrime groups in zero-day attacks. This flaw allows attackers to hide malicious commands within Windows LNK files.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 3, 2025 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unraveling Water Saci's New Multi-Format, AI-Enhanced Attacks Propagated via WhatsApp<a href="https://www.trendmicro.com/en_us/research/25/l/water-saci.html/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Water Saci campaign in Brazil leverages AI-enhanced, multi-format attacks via WhatsApp, utilizing a layered infection chain with various file formats and scripting languages.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 3, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang demands sheriff of Cleveland County, OK pay almost $800,000 in one week<a href="https://www.comparitech.com/news/ransomware-gang-demands-sheriff-of-cleveland-county-ok-pay-almost-800000-in-one-week?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cleveland County Sheriff's Office in Oklahoma has been targeted by the Rhysida ransomware group, which is demanding a ransom of 9 bitcoin (approximately $787,000). The attack was disclosed on November 20, 2025.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 3, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shai-Hulud 2.0 NPM malware attack exposed up to 400,000 dev secrets<a href="https://www.bleepingcomputer.com/news/security/shai-hulud-20-npm-malware-attack-exposed-up-to-400-000-dev-secrets/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Shai-Hulud 2.0 malware attack has compromised over 800 NPM packages, exposing up to 400,000 developer secrets. This attack has significant implications for software supply chain security.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 3, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability & Patch Roundup — November 2025<a href="https://blog.sucuri.net/2025/11/vulnerability-patch-roundup-november-2025.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This advisory provides a detailed overview of critical and high-risk vulnerabilities identified in various WordPress plugins and themes for November 2025. These vulnerabilities pose significant security risks.
+</details>
+<div style="text-align: right" markdown="1">
+Sucuri
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 3, 2025
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOJ takes down Myanmar scam center website spoofing TickMill trading platform<a href="https://therecord.media/doj-takes-down-myanmar-scam-site-trickmill-spoof?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DOJ has successfully dismantled a fraudulent website spoofing the TickMill trading platform, operated by a scam center in Myanmar. The Scam Center Strike Force tracked the fake website back to the Tai Chang scam compound in Kyaukhat, Myanmar.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ShadyPanda browser extensions amass 4.3M installs in malicious campaign<a href="https://www.bleepingcomputer.com/news/security/shadypanda-browser-extensions-amass-43m-installs-in-malicious-campaign/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The "ShadyPanda" campaign is a long-running malware operation involving browser extensions that have amassed over 4.3 million installations. Initially submitted in 2018, the first signs of malicious activity were observed in 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2025a -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SmartTube YouTube app for Android TV breached to push malicious update<a href="https://www.bleepingcomputer.com/news/security/smarttube-youtube-app-for-android-tv-breached-to-push-malicious-update/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The SmartTube YouTube app for Android TV has been compromised, leading to a malicious update being pushed to users. The breach involved the compromise of the developer's signing keys, affecting version 30.51 of the app.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2025 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Glassworm malware returns in third wave of malicious VS Code packages<a href="https://www.bleepingcomputer.com/news/security/glassworm-malware-returns-in-third-wave-of-malicious-vs-code-packages/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Glassworm malware has resurfaced in its third wave, targeting developers using VS Code-compatible editors. This campaign introduces 24 new malicious packages on the OpenVSX and Microsoft Visual Studio marketplaces.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Officials accuse North Korea’s Lazarus of $30 million theft from crypto exchange<a href="https://therecord.media/officials-accuse-north-korea-hackers-of-attack-on-crypto-exchange?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent cyberattack on South Korea's largest cryptocurrency exchange, Upbit, resulted in the theft of $30 million. The attack is attributed to North Korea's Lazarus Group.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google addresses 107 Android vulnerabilities, including two zero-days<a href="https://cyberscoop.com/android-security-update-december-2025/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's December security update for Android addresses 107 vulnerabilities, including two high-severity zero-day vulnerabilities, CVE-2025-48633 and CVE-2025-48572. This update marks the second-highest number of vulnerabilities patched this year.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Scoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2025 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Full Disclosure: [REVIVE-SA-2025-005] Revive Adserver Vulnerability<a href="https://seclists.org/fulldisclosure/2025/Dec/1?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in Revive Adserver, identified as CVE-2025-55129, has been reported. This vulnerability involves an incomplete list of disallowed inputs, allowing for potential impersonation attacks.
+</details>
+<div style="text-align: right" markdown="1">
+SecLists
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 1, 2025 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police takes down Cryptomixer cryptocurrency mixing service<a href="https://www.bleepingcomputer.com/news/security/police-takes-down-cryptomixer-cryptocurrency-mixing-service/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law enforcement agencies in Switzerland and Germany have successfully dismantled the Cryptomixer cryptocurrency mixing service. This operation, known as "Operation Olympia," resulted in the seizure of €24 million in Bitcoin.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 1, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South Korea’s Coupang Hit by Massive Data Breach Affecting Nearly 34 Million Customers<a href="https://thecyberexpress.com/coupang-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Coupang, a leading South Korean e-commerce platform, has experienced a massive data breach affecting nearly 34 million customers. This incident is one of the largest cybersecurity breaches in South Korea in recent years.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 1, 2025 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV<a href="https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a cross-site scripting (XSS) vulnerability, CVE-2021-26829, in OpenPLC ScadaBR to its Known Exploited Vulnerabilities (KEV) catalog.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 1, 2025 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brsk confirms breach as bidding begins for 230K+ records<a href="https://www.theregister.com/2025/11/28/brsk_breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+British telco Brsk has confirmed a data breach involving unauthorized access to its customer database, affecting over 230,000 records. The stolen data includes customer names, email and home addresses, phone numbers, and installation details.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
