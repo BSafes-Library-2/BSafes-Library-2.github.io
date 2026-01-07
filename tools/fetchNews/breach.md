@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+January 5, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptocurrency theft attacks traced to 2022 LastPass breach<a href="https://www.bleepingcomputer.com/news/security/cryptocurrency-theft-attacks-traced-to-2022-lastpass-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ongoing cryptocurrency thefts have been traced back to the 2022 LastPass breach, where attackers stole encrypted vaults containing cryptocurrency wallet private keys and seed phrases.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 5, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sedgwick confirms cyber incident affecting its major federal contractor subsidiary<a href="https://therecord.media/sedgwick-cyber-incident-ransomware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sedgwick Government Solutions, a subsidiary of Sedgwick, experienced a cybersecurity incident involving the TridentLocker ransomware gang, which claimed to have stolen 3.4 gigabytes of data.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 5, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latest Oracle EBS Victims Include Korean Air, University of Phoenix<a href="https://thecyberexpress.com/oracle-ebs-victims-university-of-phoenix/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CL0P ransomware group has targeted Oracle EBS vulnerabilities, affecting organizations such as Korean Air and the University of Phoenix. The University of Phoenix reported a breach compromising personal data of nearly 3.5 million individuals.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 30, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

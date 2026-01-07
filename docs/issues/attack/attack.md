@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+January 6, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government<a href="https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UAC-0184 has been targeting Ukrainian military and government entities using the Viber messaging platform. The attack involves distributing malicious ZIP archives containing LNK files disguised as Microsoft Word and Excel documents.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 6, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud file-sharing sites targeted for corporate data theft attacks<a href="https://www.bleepingcomputer.com/news/security/cloud-file-sharing-sites-targeted-for-corporate-data-theft-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor known as Zestix is actively selling corporate data stolen from cloud file-sharing services such as ShareFile, Nextcloud, and OwnCloud. The data theft is facilitated by info-stealing malware like RedLine, Lumma, and Vidar.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 6, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hackers target European hospitality industry with ‘blue screen of death’ malware<a href="https://therecord.media/russian-hackers-europe-hospitality-blue-screen?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated malware campaign, attributed to Russian cybercriminals, is targeting the European hospitality industry. The attack uses a fake "Blue Screen of Death" to deceive victims into downloading the DCRat malware.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 19, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

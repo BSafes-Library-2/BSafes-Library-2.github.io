@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+January 6, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+California urgent care clinic notifies patients of data breach that compromised SSNs, medical info<a href="https://www.comparitech.com/news/california-urgent-care-clinic-notifies-patients-of-data-breach-that-compromised-ssns-medical-info/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pulse Urgent Care Center in Redding, California, experienced a data breach in March 2025, compromising sensitive patient information, including Social Security numbers, driver's license numbers, medical information, and health insurance details.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 6, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crimson Collective Claims Breach of U.S. Fiber Broadband Provider Brightspeed<a href="https://thecyberexpress.com/crimson-collective-claims-brightspeed-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hacking group Crimson Collective has claimed responsibility for a significant data breach involving the U.S. fiber broadband provider Brightspeed. The breach reportedly affects over a million residential customers.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 5, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

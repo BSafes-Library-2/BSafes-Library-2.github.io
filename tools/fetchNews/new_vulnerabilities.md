@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 7, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New D-Link flaw in legacy DSL routers actively exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/new-d-link-flaw-in-legacy-dsl-routers-actively-exploited-in-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical command injection vulnerability, identified as CVE-2026-0625, has been discovered in legacy D-Link DSL routers. This flaw allows unauthenticated attackers to execute arbitrary commands remotely.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 6, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VSCode IDE forks expose users to "recommended extension" attacks<a href="https://www.bleepingcomputer.com/news/security/vscode-ide-forks-expose-users-to-recommended-extension-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AI-powered IDEs forked from Microsoft VSCode, such as Cursor, Windsurf, Google Antigravity, and Trae, are vulnerable to "recommended extension" attacks. These IDEs recommend extensions that are not present in the OpenVSX registry.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 6, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of Data Exposure Risks in Claude Chrome Extension<a href="https://hackread.com/data-exposure-risk-claude-chrome-extension/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Claude Chrome extension, developed by Anthropic, poses significant data exposure risks. This extension allows AI to browse and interact with websites on behalf of users, potentially bypassing traditional web security measures.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 6, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SlowMist Flags Potential Security Risk at HitBTC Exchange<a href="https://thecyberexpress.com/hitbtc-exchange-critical-security-warning/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical security vulnerability has been identified at the HitBTC Exchange by the blockchain security researchers. Despite attempts to responsibly disclose the issue, HitBTC has not responded.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 5, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
