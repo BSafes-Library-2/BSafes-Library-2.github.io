@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 5, 2026
+January 7, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New D-Link flaw in legacy DSL routers actively exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/new-d-link-flaw-in-legacy-dsl-routers-actively-exploited-in-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical command injection vulnerability, identified as CVE-2026-0625, has been discovered in legacy D-Link DSL routers. This flaw allows unauthenticated attackers to execute arbitrary commands remotely.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VVS Stealer Uses Advanced Obfuscation to Target Discord Users<a href="https://www.infosecurity-magazine.com/news/vvs-stealer-advanced-obfuscation/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VVS Stealer is a Python-based malware targeting Discord users, employing advanced obfuscation techniques to extract sensitive data. It primarily focuses on stealing Discord tokens and browser information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VSCode IDE forks expose users to "recommended extension" attacks<a href="https://www.bleepingcomputer.com/news/security/vscode-ide-forks-expose-users-to-recommended-extension-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AI-powered IDEs forked from Microsoft VSCode, such as Cursor, Windsurf, Google Antigravity, and Trae, are vulnerable to "recommended extension" attacks. These IDEs recommend extensions that are not present in the OpenVSX registry.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+California urgent care clinic notifies patients of data breach that compromised SSNs, medical info<a href="https://www.comparitech.com/news/california-urgent-care-clinic-notifies-patients-of-data-breach-that-compromised-ssns-medical-info/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pulse Urgent Care Center in Redding, California, experienced a data breach in March 2025, compromising sensitive patient information, including Social Security numbers, driver's license numbers, medical information, and health insurance details.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of Data Exposure Risks in Claude Chrome Extension<a href="https://hackread.com/data-exposure-risk-claude-chrome-extension/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Claude Chrome extension, developed by Anthropic, poses significant data exposure risks. This extension allows AI to browse and interact with websites on behalf of users, potentially bypassing traditional web security measures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SlowMist Flags Potential Security Risk at HitBTC Exchange<a href="https://thecyberexpress.com/hitbtc-exchange-critical-security-warning/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical security vulnerability has been identified at the HitBTC Exchange by the blockchain security researchers. Despite attempts to responsibly disclose the issue, HitBTC has not responded.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government<a href="https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UAC-0184 has been targeting Ukrainian military and government entities using the Viber messaging platform. The attack involves distributing malicious ZIP archives containing LNK files disguised as Microsoft Word and Excel documents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crimson Collective Claims Breach of U.S. Fiber Broadband Provider Brightspeed<a href="https://thecyberexpress.com/crimson-collective-claims-brightspeed-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hacking group Crimson Collective has claimed responsibility for a significant data breach involving the U.S. fiber broadband provider Brightspeed. The breach reportedly affects over a million residential customers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud file-sharing sites targeted for corporate data theft attacks<a href="https://www.bleepingcomputer.com/news/security/cloud-file-sharing-sites-targeted-for-corporate-data-theft-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor known as Zestix is actively selling corporate data stolen from cloud file-sharing services such as ShareFile, Nextcloud, and OwnCloud. The data theft is facilitated by info-stealing malware like RedLine, Lumma, and Vidar.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hackers target European hospitality industry with ‘blue screen of death’ malware<a href="https://therecord.media/russian-hackers-europe-hospitality-blue-screen?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated malware campaign, attributed to Russian cybercriminals, is targeting the European hospitality industry. The attack uses a fake "Blue Screen of Death" to deceive victims into downloading the DCRat malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 5, 2026 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign<a href="https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign
 Cybercriminals are abusing Google Cloud's Application Integration service to conduct a sophisticated phishing campaign. The attackers use the email address "noreply-application-integration@google[.]com" to send phishing emails that appear legitimate.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 5, 2026
+January 5, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 10K Fortinet firewalls exposed to actively exploited 2FA bypass<a href="https://www.bleepingcomputer.com/news/security/over-10-000-fortinet-firewalls-exposed-to-ongoing-2fa-bypass-attacks/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Over 10K Fortinet firewalls exposed to actively exploited 2FA bypass<a href="htt
 Over 10,000 Fortinet firewalls are currently exposed to a critical two-factor authentication (2FA) bypass vulnerability, CVE-2020-12812. This flaw allows attackers to log in without the second factor of authentication by altering the username's case.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 5, 2026
+January 5, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cryptocurrency theft attacks traced to 2022 LastPass breach<a href="https://www.bleepingcomputer.com/news/security/cryptocurrency-theft-attacks-traced-to-2022-lastpass-breach/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Cryptocurrency theft attacks traced to 2022 LastPass breach<a href="https://www.
 Ongoing cryptocurrency thefts have been traced back to the 2022 LastPass breach, where attackers stole encrypted vaults containing cryptocurrency wallet private keys and seed phrases.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 5, 2026
+January 5, 2026 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercrook claims to sell critical info about utilities<a href="https://www.theregister.com/2026/01/02/critical_utility_files_for_sale/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Cybercrook claims to sell critical info about utilities<a href="https://www.ther
 A cybercriminal claims to have breached Pickett and Associates and is selling 139 GB of sensitive engineering data related to three major US utilities: Tampa Electric Company, Duke Energy Florida, and American Electric Power.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 5, 2026
+January 5, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sedgwick confirms cyber incident affecting its major federal contractor subsidiary<a href="https://therecord.media/sedgwick-cyber-incident-ransomware?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Sedgwick confirms cyber incident affecting its major federal contractor subsidia
 Sedgwick Government Solutions, a subsidiary of Sedgwick, experienced a cybersecurity incident involving the TridentLocker ransomware gang, which claimed to have stolen 3.4 gigabytes of data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 5, 2026
+January 5, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Latest Oracle EBS Victims Include Korean Air, University of Phoenix<a href="https://thecyberexpress.com/oracle-ebs-victims-university-of-phoenix/?&web_view=true"> Full Text</a>
@@ -124,7 +284,7 @@ Latest Oracle EBS Victims Include Korean Air, University of Phoenix<a href="http
 The CL0P ransomware group has targeted Oracle EBS vulnerabilities, affecting organizations such as Korean Air and the University of Phoenix. The University of Phoenix reported a breach compromising personal data of nearly 3.5 million individuals.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

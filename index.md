@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 7, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New D-Link flaw in legacy DSL routers actively exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/new-d-link-flaw-in-legacy-dsl-routers-actively-exploited-in-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical command injection vulnerability, identified as CVE-2026-0625, has been discovered in legacy D-Link DSL routers. This flaw allows unauthenticated attackers to execute arbitrary commands remotely.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VVS Stealer Uses Advanced Obfuscation to Target Discord Users<a href="https://www.infosecurity-magazine.com/news/vvs-stealer-advanced-obfuscation/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VVS Stealer is a Python-based malware targeting Discord users, employing advanced obfuscation techniques to extract sensitive data. It primarily focuses on stealing Discord tokens and browser information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VSCode IDE forks expose users to "recommended extension" attacks<a href="https://www.bleepingcomputer.com/news/security/vscode-ide-forks-expose-users-to-recommended-extension-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AI-powered IDEs forked from Microsoft VSCode, such as Cursor, Windsurf, Google Antigravity, and Trae, are vulnerable to "recommended extension" attacks. These IDEs recommend extensions that are not present in the OpenVSX registry.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+California urgent care clinic notifies patients of data breach that compromised SSNs, medical info<a href="https://www.comparitech.com/news/california-urgent-care-clinic-notifies-patients-of-data-breach-that-compromised-ssns-medical-info/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pulse Urgent Care Center in Redding, California, experienced a data breach in March 2025, compromising sensitive patient information, including Social Security numbers, driver's license numbers, medical information, and health insurance details.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of Data Exposure Risks in Claude Chrome Extension<a href="https://hackread.com/data-exposure-risk-claude-chrome-extension/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Claude Chrome extension, developed by Anthropic, poses significant data exposure risks. This extension allows AI to browse and interact with websites on behalf of users, potentially bypassing traditional web security measures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SlowMist Flags Potential Security Risk at HitBTC Exchange<a href="https://thecyberexpress.com/hitbtc-exchange-critical-security-warning/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical security vulnerability has been identified at the HitBTC Exchange by the blockchain security researchers. Despite attempts to responsibly disclose the issue, HitBTC has not responded.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government<a href="https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UAC-0184 has been targeting Ukrainian military and government entities using the Viber messaging platform. The attack involves distributing malicious ZIP archives containing LNK files disguised as Microsoft Word and Excel documents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crimson Collective Claims Breach of U.S. Fiber Broadband Provider Brightspeed<a href="https://thecyberexpress.com/crimson-collective-claims-brightspeed-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hacking group Crimson Collective has claimed responsibility for a significant data breach involving the U.S. fiber broadband provider Brightspeed. The breach reportedly affects over a million residential customers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud file-sharing sites targeted for corporate data theft attacks<a href="https://www.bleepingcomputer.com/news/security/cloud-file-sharing-sites-targeted-for-corporate-data-theft-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor known as Zestix is actively selling corporate data stolen from cloud file-sharing services such as ShareFile, Nextcloud, and OwnCloud. The data theft is facilitated by info-stealing malware like RedLine, Lumma, and Vidar.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hackers target European hospitality industry with ‘blue screen of death’ malware<a href="https://therecord.media/russian-hackers-europe-hospitality-blue-screen?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated malware campaign, attributed to Russian cybercriminals, is targeting the European hospitality industry. The attack uses a fake "Blue Screen of Death" to deceive victims into downloading the DCRat malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 5, 2026 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
