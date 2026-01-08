@@ -7,6 +7,21 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2026 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Columbia Weather Systems MicroServer <a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-006-01?&web_view=true"> Full Text</a>
+</p>
+<details>
+Successful exploitation of these vulnerabilities could allow an attacker to redirect connections to an attacker controlled device, gain admin access to the web portal, or gain limited shell access.
+
+The following versions of Columbia Weather Systems MicroServer are affected:
+
+MicroServer firmware (CVE-2025-61939, CVE-2025-64305, CVE-2025-66620)
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 23, 2025 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

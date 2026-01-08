@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+January 7, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK government injects £210M into cybersecurity overhaul<a href="https://www.theregister.com/2026/01/06/government_cyber_action_plan/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK Government has announced an investment of £210 million to bolster cybersecurity across its public services. This Government Cyber Action Plan aims to enhance the security of digital public services to the level of critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 26, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

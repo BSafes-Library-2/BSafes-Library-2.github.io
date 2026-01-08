@@ -34,6 +34,118 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 7, 2026 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Counterintelligence (CCI): When 'Shiny Objects' trick 'Shiny Hunters'<a href="https://www.resecurity.com/blog/article/cyber-counterintelligence-cci-when-shiny-objects-trick-shiny-hunters?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybercriminal group known as "The Com," which includes subgroups like "Shiny Hunters" and "Scattered Lapsus$ Hunters," is involved in significant cybercriminal activities, including data breaches and extortion.
+</details>
+<div style="text-align: right" markdown="1">
+ReSecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 7, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes critical Dolby Decoder bug in Android January update<a href="https://securityaffairs.com/186591/security/google-fixes-critical-dolby-decoder-bug-in-android-january-update.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability, CVE-2025-54957, in the Dolby audio decoder has been addressed in the January 2026 Android security update. This flaw affects Dolby DD+ decoders and poses a significant risk to Android devices.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 7, 2026 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK government injects £210M into cybersecurity overhaul<a href="https://www.theregister.com/2026/01/06/government_cyber_action_plan/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK Government has announced an investment of £210 million to bolster cybersecurity across its public services. This Government Cyber Action Plan aims to enhance the security of digital public services to the level of critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 7, 2026 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Taiwan says China's attacks on its energy sector increased tenfold<a href="https://www.bleepingcomputer.com/news/security/taiwan-says-chinas-attacks-on-its-energy-sector-increased-tenfold/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The number of cyberattacks on Taiwan's energy sector increased by 1,000% in 2025 compared to 2024, making it the most targeted sector among nine critical infrastructure categories.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 7, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Severity Flaw in Open WebUI Affects AI Connections<a href="https://www.infosecurity-magazine.com/news/flaw-open-webui-affects-ai/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity vulnerability has been identified in Open WebUI, affecting versions 0.6.34 and older. This flaw, with a severity rating of 7.3, poses risks of account takeover and server compromise when the Direct Connections feature is enabled.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 7, 2026 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users<a href="https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two malicious Chrome extensions have been identified, targeting over 900,000 users by exfiltrating conversations from ChatGPT and DeepSeek. These extensions impersonate legitimate ones and request permissions to collect anonymized data.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 7, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Columbia Weather Systems MicroServer Vulnerabilities Allow Unauthorized Access<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-006-01?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Columbia Weather Systems MicroServer is affected by multiple vulnerabilities that could allow attackers to redirect SSH connections, gain admin access to the web portal, and obtain limited shell access.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 7, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
