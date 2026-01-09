@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+January 7, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Taiwan says China's attacks on its energy sector increased tenfold<a href="https://www.bleepingcomputer.com/news/security/taiwan-says-chinas-attacks-on-its-energy-sector-increased-tenfold/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The number of cyberattacks on Taiwan's energy sector increased by 1,000% in 2025 compared to 2024, making it the most targeted sector among nine critical infrastructure categories.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 25, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+January 8, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telecommunications Sector Sees a Four-fold Jump in Ransomware Attacks in last 4 Years: Report<a href="https://thecyberexpress.com/telecommunication-sector-cyber-threats/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The telecommunications sector experienced a four-fold increase in ransomware attacks over the past 4 years. This sector is a critical component of national infrastructure, making it a prime target for both ransomware groups and nation-state actors.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 7, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

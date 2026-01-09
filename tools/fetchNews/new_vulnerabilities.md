@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 8, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Classic Outlook bug prevents opening encrypted emails<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-classic-outlook-bug-prevents-opening-encrypted-emails/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is investigating a bug in classic Outlook that prevents recipients from opening encrypted emails with "Encrypt Only" permissions after a recent update. Affected users see a message_v2.rpmsg attachment instead of readable content.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 8, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Veeam Patches Critical RCE Vulnerability with CVSS 9.0 in Backup &amp; Replication<a href="https://thehackernews.com/2026/01/veeam-patches-critical-rce.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Veeam has released patches for multiple vulnerabilities in its Backup &amp; Replication software, including a critical remote code execution (RCE) vulnerability, CVE-2025-59470, with a CVSS score of 9.0.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 7, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

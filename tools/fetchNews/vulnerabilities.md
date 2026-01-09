@@ -11,6 +11,48 @@ nav_order: 900220
 January 7, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Google fixes critical Dolby Decoder bug in Android January update<a href="https://securityaffairs.com/186591/security/google-fixes-critical-dolby-decoder-bug-in-android-january-update.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability, CVE-2025-54957, in the Dolby audio decoder has been addressed in the January 2026 Android security update. This flaw affects Dolby DD+ decoders and poses a significant risk to Android devices.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 7, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Severity Flaw in Open WebUI Affects AI Connections<a href="https://www.infosecurity-magazine.com/news/flaw-open-webui-affects-ai/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity vulnerability has been identified in Open WebUI, affecting versions 0.6.34 and older. This flaw, with a severity rating of 7.3, poses risks of account takeover and server compromise when the Direct Connections feature is enabled.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 7, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Columbia Weather Systems MicroServer Vulnerabilities Allow Unauthorized Access<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-006-01?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Columbia Weather Systems MicroServer is affected by multiple vulnerabilities that could allow attackers to redirect SSH connections, gain admin access to the web portal, and obtain limited shell access.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 7, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New D-Link flaw in legacy DSL routers actively exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/new-d-link-flaw-in-legacy-dsl-routers-actively-exploited-in-attacks/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>
