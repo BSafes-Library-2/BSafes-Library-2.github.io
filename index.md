@@ -34,6 +34,102 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 8, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious NPM Packages Deliver NodeCordRAT<a href="https://www.zscaler.com/blogs/security-research/malicious-npm-packages-deliver-nodecordrat?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zscaler ThreatLabz identified three malicious npm packages in November 2025—bitcoin-main-lib, bitcoin-lib-js, and bip40—that deliver NodeCordRAT, a remote access trojan (RAT) with data-stealing capabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 8, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Classic Outlook bug prevents opening encrypted emails<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-classic-outlook-bug-prevents-opening-encrypted-emails/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is investigating a bug in classic Outlook that prevents recipients from opening encrypted emails with "Encrypt Only" permissions after a recent update. Affected users see a message_v2.rpmsg attachment instead of readable content.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 8, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Misconfigured email routing enables internal-spoofed phishing<a href="https://securityaffairs.com/186638/uncategorized/misconfigured-email-routing-enables-internal-spoofed-phishing.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are abusing misconfigured email routing and spoof protections to send phishing emails that appear to be from within an organization. These emails often use themes like HR notices, password resets, and shared documents to deceive recipients.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 8, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major Data Breach Hits Company Operating 150 Gas Stations in the US<a href="https://hackread.com/data-breach-us-gas-stations-company/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A major data breach has impacted Gulshan Management Services, a Texas-based company operating over 150 gas stations under the Handi Plus and Handi Stop brands. The breach exposed sensitive personal information of more than 377,000 individuals
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 8, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Veeam Patches Critical RCE Vulnerability with CVSS 9.0 in Backup & Replication<a href="https://thehackernews.com/2026/01/veeam-patches-critical-rce.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Veeam has released patches for multiple vulnerabilities in its Backup & Replication software, including a critical remote code execution (RCE) vulnerability, CVE-2025-59470, with a CVSS score of 9.0.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 8, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telecommunications Sector Sees a Four-fold Jump in Ransomware Attacks in last 4 Years: Report<a href="https://thecyberexpress.com/telecommunication-sector-cyber-threats/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The telecommunications sector experienced a four-fold increase in ransomware attacks over the past 4 years. This sector is a critical component of national infrastructure, making it a prime target for both ransomware groups and nation-state actors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 7, 2026 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
