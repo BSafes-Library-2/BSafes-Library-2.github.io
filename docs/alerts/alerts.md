@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 8, 2026 - FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Kimsuky Actors Leverage Malicious QR Codes in Spearphishing Campaigns Targeting U.S. Entities <a href="https://www.ic3.gov/CSA/2026/260108.pdf"> Full Text</a>
+</p>
+<details>
+The Federal Bureau of Investigation (FBI) is releasing this FLASH to alert NGOs, think tanks, academia, and other foreign policy experts with a nexus to North Korea of evolving tactics employed by the North Korean state-sponsored cyber threat group Kimsuky and to provide mitigation recommendations. As of 2025, Kimsuky actors have targeted think tanks, academic institutions, and both U.S. and foreign government entities with embedded malicious Quick Response (QR) codes in spearphishing campaigns. This type of spearphishing attack is referred to as Quishing. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 6, 2026 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
