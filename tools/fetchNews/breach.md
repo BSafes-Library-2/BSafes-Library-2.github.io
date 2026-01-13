@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+January 8, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major Data Breach Hits Company Operating 150 Gas Stations in the US<a href="https://hackread.com/data-breach-us-gas-stations-company/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A major data breach has impacted Gulshan Management Services, a Texas-based company operating over 150 gas stations under the Handi Plus and Handi Stop brands. The breach exposed sensitive personal information of more than 377,000 individuals
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 6, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

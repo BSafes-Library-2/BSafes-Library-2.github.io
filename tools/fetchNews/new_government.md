@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+January 12, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea–linked APT Kimsuky behind quishing attacks, FBI warns<a href="https://securityaffairs.com/186755/intelligence/north-korea-linked-apt-kimsuky-behind-quishing-attacks-fbi-warns.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea–linked APT group Kimsuky is targeting government agencies, academic institutions, and think tanks using spear-phishing emails that contain malicious QR codes (quishing), the FBI warns.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 9, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns about Kimsuky hackers using QR codes to phish U.S. orgs<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-about-kimsuky-hackers-using-qr-codes-to-phish-us-orgs/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI issued a warning regarding Kimsuky that is using malicious QR codes in spearphishing campaigns. These campaigns target U.S. organizations involved in North Korea-related policy, research, and analysis.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 7, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

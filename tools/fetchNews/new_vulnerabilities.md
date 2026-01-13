@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 9, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Snort 3 Security Flaws Threaten Network Inspection<a href="https://www.esecurityplanet.com/threats/cisco-snort-3-security-flaws-threaten-network-inspection/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two critical flaws in Cisco Snort 3, identified as CVE-2026-20026 and CVE-2026-20027, pose significant risks to network inspection processes. These vulnerabilities allow unauthenticated attackers to disrupt inspection or leak sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+ESecurity Planet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 9, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Vulnerability in Hitachi Energy Asset Suite<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-008-01?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability has been identified in the Hitachi Energy Asset Suite, specifically within the Jasper Report component. This vulnerability, identified as CVE-2025-10492, allows for remote code execution (RCE) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 8, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2026 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea–linked APT Kimsuky behind quishing attacks, FBI warns<a href="https://securityaffairs.com/186755/intelligence/north-korea-linked-apt-kimsuky-behind-quishing-attacks-fbi-warns.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea–linked APT group Kimsuky is targeting government agencies, academic institutions, and think tanks using spear-phishing emails that contain malicious QR codes (quishing), the FBI warns.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2026 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors<a href="https://thehackernews.com/2026/01/muddywater-launches-rustywater-rat-via.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian threat actor known as MuddyWater has been attributed to a spear-phishing campaign targeting diplomatic, maritime, financial, and telecom entities in the Middle East with a Rust-based implant codenamed RustyWater.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 9, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Snort 3 Security Flaws Threaten Network Inspection<a href="https://www.esecurityplanet.com/threats/cisco-snort-3-security-flaws-threaten-network-inspection/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two critical flaws in Cisco Snort 3, identified as CVE-2026-20026 and CVE-2026-20027, pose significant risks to network inspection processes. These vulnerabilities allow unauthenticated attackers to disrupt inspection or leak sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+ESecurity Planet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 9, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EEOC experienced security incident involving contractor’s ‘unauthorized’ access, email says<a href="https://www.nextgov.com/cybersecurity/2026/01/eeoc-experienced-security-incident-involving-contractors-unauthorized-access-email-says/410543/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Equal Employment Opportunity Commission (EEOC) experienced a security incident involving unauthorized access by a contractor's employees. This breach affected the EEOC's Public Portal system.
+</details>
+<div style="text-align: right" markdown="1">
+Next Gov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 9, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese hackers targeted email systems of US congressional staff, people familiar say<a href="https://www.nextgov.com/cybersecurity/2026/01/chinese-hackers-targeted-email-systems-us-congressional-staff-people-familiar-say/410544/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese state-aligned hacking group, Salt Typhoon, has allegedly targeted the email systems of U.S. congressional staff. This breach is part of a broader pattern of cyber threats against U.S. government entities.
+</details>
+<div style="text-align: right" markdown="1">
+Next Gov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 9, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Vulnerability in Hitachi Energy Asset Suite<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-008-01?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability has been identified in the Hitachi Energy Asset Suite, specifically within the Jasper Report component. This vulnerability, identified as CVE-2025-10492, allows for remote code execution (RCE) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 9, 2026 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp Worm Spreads Astaroth Banking Trojan Across Brazil via Contact Auto-Messaging<a href="https://thehackernews.com/2026/01/whatsapp-worm-spreads-astaroth-banking.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new campaign, codenamed Boto Cor-de-Rosa, is using WhatsApp to distribute the Astaroth banking trojan across Brazil. This malware targets users by automatically sending malicious messages to their WhatsApp contacts.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 9, 2026 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+50,000 Servers Exposed as GoBruteforcer Scales Brute-Force Attacks<a href="https://www.esecurityplanet.com/threats/50000-servers-exposed-as-gobruteforcer-scales-brute-force-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The GoBruteforcer botnet is aggressively targeting Linux servers worldwide, exploiting weak and reused credentials to gain access. Over 50,000 servers are at risk due to exposed infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+ESecurity Planet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 9, 2026 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GenDigital Research Exposes AuraStealer Infostealer Tactics<a href="https://www.esecurityplanet.com/threats/gendigital-research-exposes-aurastealer-infostealer-tactics/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AuraStealer is a sophisticated MaaS infostealer targeting Windows systems. It employs advanced evasion techniques and social engineering to steal sensitive data, posing significant risks to both individual users and enterprise environments.
+</details>
+<div style="text-align: right" markdown="1">
+ESecurity Planet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 9, 2026 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns about Kimsuky hackers using QR codes to phish U.S. orgs<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-about-kimsuky-hackers-using-qr-codes-to-phish-us-orgs/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI issued a warning regarding Kimsuky that is using malicious QR codes in spearphishing campaigns. These campaigns target U.S. organizations involved in North Korea-related policy, research, and analysis.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 8, 2026 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
