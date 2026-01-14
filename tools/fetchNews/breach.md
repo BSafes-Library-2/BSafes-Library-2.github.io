@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+January 9, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EEOC experienced security incident involving contractor’s ‘unauthorized’ access, email says<a href="https://www.nextgov.com/cybersecurity/2026/01/eeoc-experienced-security-incident-involving-contractors-unauthorized-access-email-says/410543/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Equal Employment Opportunity Commission (EEOC) experienced a security incident involving unauthorized access by a contractor's employees. This breach affected the EEOC's Public Portal system.
+</details>
+<div style="text-align: right" markdown="1">
+Next Gov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 9, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese hackers targeted email systems of US congressional staff, people familiar say<a href="https://www.nextgov.com/cybersecurity/2026/01/chinese-hackers-targeted-email-systems-us-congressional-staff-people-familiar-say/410544/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese state-aligned hacking group, Salt Typhoon, has allegedly targeted the email systems of U.S. congressional staff. This breach is part of a broader pattern of cyber threats against U.S. government entities.
+</details>
+<div style="text-align: right" markdown="1">
+Next Gov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 8, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

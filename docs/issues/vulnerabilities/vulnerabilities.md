@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 13, 2026 <br>`
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta fixes Instagram password reset flaw, denies data breach<a href="https://securityaffairs.com/186829/security/meta-fixes-instagram-password-reset-flaw-denies-data-breach.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta confirmed fixing an Instagram password reset vulnerability that allowed third parties to trigger reset emails, while denying any breach despite claims of leaked user data.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 9, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

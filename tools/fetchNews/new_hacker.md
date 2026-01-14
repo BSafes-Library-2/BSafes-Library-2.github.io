@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+January 13, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+“TryCloudflare” Abuse: AsyncRAT Exploits Free Tunnels to Build Stealthy WebDAV Network<a href="https://securityonline.info/trycloudflare-abuse-asyncrat-exploits-free-tunnels-to-build-stealthy-webdav-network/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report from Trend Micro details how threat actors are abusing Cloudflare’s free-tier services and TryCloudflare tunneling domains to host malicious WebDAV servers, effectively hiding their command-and-control infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 30, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

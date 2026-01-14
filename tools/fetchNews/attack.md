@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+January 9, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp Worm Spreads Astaroth Banking Trojan Across Brazil via Contact Auto-Messaging<a href="https://thehackernews.com/2026/01/whatsapp-worm-spreads-astaroth-banking.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new campaign, codenamed Boto Cor-de-Rosa, is using WhatsApp to distribute the Astaroth banking trojan across Brazil. This malware targets users by automatically sending malicious messages to their WhatsApp contacts.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 6, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

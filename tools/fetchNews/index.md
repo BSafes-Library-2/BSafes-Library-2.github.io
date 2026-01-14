@@ -34,7 +34,71 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2026
+January 13, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>`
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta fixes Instagram password reset flaw, denies data breach<a href="https://securityaffairs.com/186829/security/meta-fixes-instagram-password-reset-flaw-denies-data-breach.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta confirmed fixing an Instagram password reset vulnerability that allowed third parties to trigger reset emails, while denying any breach despite claims of leaked user data.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2026 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+“TryCloudflare” Abuse: AsyncRAT Exploits Free Tunnels to Build Stealthy WebDAV Network<a href="https://securityonline.info/trycloudflare-abuse-asyncrat-exploits-free-tunnels-to-build-stealthy-webdav-network/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report from Trend Micro details how threat actors are abusing Cloudflare’s free-tier services and TryCloudflare tunneling domains to host malicious WebDAV servers, effectively hiding their command-and-control infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2026 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA orders feds to patch Gogs RCE flaw exploited in zero-day attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-gogs-rce-flaw-exploited-in-zero-day-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+?The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered government agencies to secure their systems against a high-severity Gogs vulnerability that was exploited in zero-day attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2026 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook login thieves now using browser-in-browser trick<a href="https://www.bleepingcomputer.com/news/security/facebook-login-thieves-now-using-browser-in-browser-trick/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals over the past six months have relied increasingly more on the browser-in-the-browser (BitB) method to trick users into providing Facebook account credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2026 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker gets seven years for breaching Rotterdam and Antwerp ports<a href="https://www.bleepingcomputer.com/news/security/hacker-gets-seven-years-for-breaching-rotterdam-and-antwerp-ports/?&web_view=true"> Full Text</a>
@@ -44,13 +108,13 @@ Hacker gets seven years for breaching Rotterdam and Antwerp ports<a href="https:
 The Amsterdam Court of Appeal sentenced a 44-year-old Dutch national to seven years in prison for multiple crimes, including computer hacking and attempted extortion. The man was arrested in 2021 and convicted in 2022 by the Amsterdam District Court.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2026
+January 13, 2026 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spanish police disrupt Black Axe, arrest alleged leaders in action spanning four cities<a href="https://cyberscoop.com/black-axe-disruption-arrests-spain/?&web_view=true"> Full Text</a>
@@ -60,7 +124,7 @@ Spanish police disrupt Black Axe, arrest alleged leaders in action spanning four
 Authorities arrested 34 alleged cybercriminals in Spain, including some leaders of Black Axe, a transnational criminal organization responsible for adversary-in-the-middle scams such as business email compromise, and money laundering.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyber Scoop
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

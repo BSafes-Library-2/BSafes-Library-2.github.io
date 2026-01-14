@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+January 9, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+50,000 Servers Exposed as GoBruteforcer Scales Brute-Force Attacks<a href="https://www.esecurityplanet.com/threats/50000-servers-exposed-as-gobruteforcer-scales-brute-force-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The GoBruteforcer botnet is aggressively targeting Linux servers worldwide, exploiting weak and reused credentials to gain access. Over 50,000 servers are at risk due to exposed infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+ESecurity Planet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 18, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
