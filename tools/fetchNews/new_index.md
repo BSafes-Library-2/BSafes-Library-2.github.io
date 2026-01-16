@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2026
+January 15, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeadLock Ransomware Uses Polygon Smart Contracts For Proxy Rotation<a href="https://www.infosecurity-magazine.com/news/deadlock-polygon-smart-contracts/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DeadLock ransomware has been identified using Polygon blockchain smart contracts to manage and rotate proxy server addresses. The latest samples include an HTML file used to communicate with victims via the Session encrypted messaging platform.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 15, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft seizes RedVDS infrastructure, disrupts fast-growing cybercrime marketplace<a href="https://cyberscoop.com/microsoft-seizes-disrupts-redvds-cybercrime-marketplace/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft, in collaboration with international law enforcement, dismantled the RedVDS cybercrime marketplace. This operation has disrupted a significant source of cybercriminal activity, which facilitated widespread fraud and cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 15, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Western cyber agencies warn about threats to industrial operational technology<a href="https://therecord.media/cyber-agencies-warn-of-industrial-system-threats?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Western cyber agencies have issued a warning about the growing digital threats to industrial operational technology (OT) systems. These systems are integral to critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 15, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sources: DHS finalizing replacement for disbanded critical infrastructure security council<a href="https://cyberscoop.com/dhs-anchor-cipac-replacement-critical-infrastructure-cybersecurity-liability-protections/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DHS is in the final stages of establishing a new council, the Alliance of National Councils for Homeland Operational Resilience (ANCHOR), to replace the disbanded Critical Infrastructure Partnership Advisory Council (CIPAC).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 15, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kimwolf botnet’s swift rise to 2M infected devices agitates security researchers<a href="https://cyberscoop.com/kimwolf-aisuru-botnet-lumen-technologies/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kimwolf has launched numerous DDoS attacks, frequently targeting Minecraft servers with short bursts lasting one to two minutes, though some attacks have extended for hours, causing widespread service disruption.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 15, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CERT-UA reports PLUGGYAPE cyberattacks on defense forces<a href="https://securityaffairs.com/186910/intelligence/cert-ua-reports-pluggyape-cyberattacks-on-defense-forces.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The PLUGGYAPE malware has been used in cyberattacks targeting Ukraine's defense forces. These attacks are attributed to the Russian-linked group Void Blizzard, also known as Laundry Bear.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 15, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISOs flag gaps in third-party risk management<a href="https://www.helpnetsecurity.com/2026/01/15/panorays-cisos-ai-vendor-risk/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The increasing complexity of vendor ecosystems and the integration of AI in business operations have heightened third-party cyber risks. CISOs are increasingly concerned about the lack of visibility beyond direct vendors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 15, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MongoBleed (CVE-2025-14847): A Critical MongoDB Memory Leak Vulnerability Hidden for 8 Years<a href="https://asec.ahnlab.com/en/92067/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MongoBleed (CVE-2025-14847) is a critical memory leak vulnerability in MongoDB that has been hidden for eight years. It allows unauthenticated attackers to read uninitialized heap memory, potentially exposing sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Chrome Extension Drains Crypto via Secret API Keys<a href="https://securityonline.info/malicious-chrome-extension-drains-crypto-via-secret-api-keys/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Socket’s Threat Research Team has identified a malicious Google Chrome extension, MEXC API Automator, that quietly hijacks user accounts on the MEXC exchange to steal funds.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft releases Windows 10 KB5073724 extended security update<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5073724-extended-security-update/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released the KB5073724 extended security update to fix the Patch Tuesday security updates, including 3 zero-days and a fix for expiring Secure Boot certificates.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>`
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meta fixes Instagram password reset flaw, denies data breach<a href="https://securityaffairs.com/186829/security/meta-fixes-instagram-password-reset-flaw-denies-data-breach.html?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Meta fixes Instagram password reset flaw, denies data breach<a href="https://sec
 Meta confirmed fixing an Instagram password reset vulnerability that allowed third parties to trigger reset emails, while denying any breach despite claims of leaked user data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2026
+January 13, 2026 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 “TryCloudflare” Abuse: AsyncRAT Exploits Free Tunnels to Build Stealthy WebDAV Network<a href="https://securityonline.info/trycloudflare-abuse-asyncrat-exploits-free-tunnels-to-build-stealthy-webdav-network/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ January 13, 2026
 A new report from Trend Micro details how threat actors are abusing Cloudflare’s free-tier services and TryCloudflare tunneling domains to host malicious WebDAV servers, effectively hiding their command-and-control infrastructure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2026
+January 13, 2026 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA orders feds to patch Gogs RCE flaw exploited in zero-day attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-gogs-rce-flaw-exploited-in-zero-day-attacks/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ CISA orders feds to patch Gogs RCE flaw exploited in zero-day attacks<a href="ht
 ?The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered government agencies to secure their systems against a high-severity Gogs vulnerability that was exploited in zero-day attacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2026
+January 13, 2026 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook login thieves now using browser-in-browser trick<a href="https://www.bleepingcomputer.com/news/security/facebook-login-thieves-now-using-browser-in-browser-trick/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Facebook login thieves now using browser-in-browser trick<a href="https://www.bl
 Cybercriminals over the past six months have relied increasingly more on the browser-in-the-browser (BitB) method to trick users into providing Facebook account credentials.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2026
+January 13, 2026 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker gets seven years for breaching Rotterdam and Antwerp ports<a href="https://www.bleepingcomputer.com/news/security/hacker-gets-seven-years-for-breaching-rotterdam-and-antwerp-ports/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Hacker gets seven years for breaching Rotterdam and Antwerp ports<a href="https:
 The Amsterdam Court of Appeal sentenced a 44-year-old Dutch national to seven years in prison for multiple crimes, including computer hacking and attempted extortion. The man was arrested in 2021 and convicted in 2022 by the Amsterdam District Court.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2026
+January 13, 2026 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spanish police disrupt Black Axe, arrest alleged leaders in action spanning four cities<a href="https://cyberscoop.com/black-axe-disruption-arrests-spain/?&web_view=true"> Full Text</a>
@@ -124,7 +284,7 @@ Spanish police disrupt Black Axe, arrest alleged leaders in action spanning four
 Authorities arrested 34 alleged cybercriminals in Spain, including some leaders of Black Axe, a transnational criminal organization responsible for adversary-in-the-middle scams such as business email compromise, and money laundering.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyber Scoop
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
