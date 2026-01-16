@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+January 15, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kimwolf botnet’s swift rise to 2M infected devices agitates security researchers<a href="https://cyberscoop.com/kimwolf-aisuru-botnet-lumen-technologies/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kimwolf has launched numerous DDoS attacks, frequently targeting Minecraft servers with short bursts lasting one to two minutes, though some attacks have extended for hours, causing widespread service disruption.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Scoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 9, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

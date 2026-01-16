@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+January 15, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeadLock Ransomware Uses Polygon Smart Contracts For Proxy Rotation<a href="https://www.infosecurity-magazine.com/news/deadlock-polygon-smart-contracts/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DeadLock ransomware has been identified using Polygon blockchain smart contracts to manage and rotate proxy server addresses. The latest samples include an HTML file used to communicate with victims via the Session encrypted messaging platform.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 22, 2025  <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

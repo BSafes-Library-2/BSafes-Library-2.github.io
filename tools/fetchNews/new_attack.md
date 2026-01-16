@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+January 15, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CERT-UA reports PLUGGYAPE cyberattacks on defense forces<a href="https://securityaffairs.com/186910/intelligence/cert-ua-reports-pluggyape-cyberattacks-on-defense-forces.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The PLUGGYAPE malware has been used in cyberattacks targeting Ukraine's defense forces. These attacks are attributed to the Russian-linked group Void Blizzard, also known as Laundry Bear.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 9, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

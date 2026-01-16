@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 15, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MongoBleed (CVE-2025-14847): A Critical MongoDB Memory Leak Vulnerability Hidden for 8 Years<a href="https://asec.ahnlab.com/en/92067/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MongoBleed (CVE-2025-14847) is a critical memory leak vulnerability in MongoDB that has been hidden for eight years. It allows unauthenticated attackers to read uninitialized heap memory, potentially exposing sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+Ahn Lab
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 14, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft releases Windows 10 KB5073724 extended security update<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5073724-extended-security-update/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released the KB5073724 extended security update to fix the Patch Tuesday security updates, including 3 zero-days and a fix for expiring Secure Boot certificates.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 13, 2026 <br>`
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
