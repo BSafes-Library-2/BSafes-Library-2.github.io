@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 15, 2026
+January 17, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-Linked APT Exploits Sitecore Zero-Day in Attacks on American Critical Infrastructure<a href="https://thehackernews.com/2026/01/china-linked-apt-exploits-sitecore-zero.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A China-linked advanced persistent threat (APT) group, identified as UAT-8837, has been exploiting a critical zero-day vulnerability in Sitecore (CVE-2025-53690, CVSS score: 9.0) to target critical infrastructure sectors in North America.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerability in Festo Firmware Affects Multiple Products<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-02?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability has been identified in the firmware of multiple Festo products, affecting a wide range of devices used in critical manufacturing sectors globally. The vulnerability is tracked as CVE-2022-3270.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bankrupt scooter startup's single key controlled everything<a href="https://www.theregister.com/2026/01/16/bankrupt_scooter_startup_key/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Estonian e-scooter company, Äike, which has gone bankrupt, left a significant security flaw in its devices. The scooters were shipped with a default private key that was never individualized, allowing any scooter to be unlocked using the same key.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RondoDox botnet exploits critical HPE OneView bug<a href="https://www.theregister.com/2026/01/16/rondodox_botnet_hpe_oneview/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in HPE OneView, identified as CVE-2025-37164, is being exploited at scale by the RondoDox botnet. This remote code execution flaw has a perfect 10 CVSS severity score.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TamperedChef serves bad ads, with infostealers as the main course<a href="https://www.sophos.com/en-us/blog/tamperedchef-serves-bad-ads-with-infostealers-as-the-main-course?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The TamperedChef campaign is a sophisticated malvertising operation leveraging Google Ads to distribute infostealer. This campaign targets users searching for PDF software, redirecting them to malicious sites.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 16, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Years-Old Vulnerable Apache Struts 2 Versions See 387K Weekly Downloads<a href="https://hackread.com/years-old-vulnerable-apache-struts-2-downloads/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability, CVE-2025-68493, has been identified in Apache Struts 2, affecting versions 2.0.0 through 6.1.0. This flaw, discovered by Zast AI, involves unsafe XML parsing in the XWork component, which can lead to system crashes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 16, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Texas behavioral health center warns patients of data breach that leaked SSNs, medical info<a href="https://www.comparitech.com/news/texas-behavioral-health-center-warns-patients-of-data-breach-that-leaked-ssns-medical-info/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spindletop Center, a behavioral health clinic in Texas, experienced a significant data breach in September 2025. Rhysida ransomware claimed responsibility for the attack, demanding a ransom of 15 bitcoin, equivalent to $1.65 million at the time.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 16, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GhostPoster Browser Malware Hid for 5 Years With 840,000 Installs<a href="https://hackread.com/ghostposter-browser-malware-840000-installs/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The GhostPoster malware campaign has been active for five years, affecting over 840,000 users through browser extensions on Chrome, Firefox, and Edge. The malware uses hidden payloads within PNG images to evade detection.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 16, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China spies used Maduro capture as lure to phish US agencies<a href="https://www.theregister.com/2026/01/15/chinese_spies_used_maduros_capture/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese cyberspies, identified as the Mustang Panda group, have launched a targeted phishing campaign against US government agencies. The campaign used the geopolitical event of Venezuelan President Nicolás Maduro's capture as a lure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 16, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA’s secure-software buying tool had a simple XSS vulnerability of its own<a href="https://cyberscoop.com/cisa-secure-software-buying-tool-had-a-simple-xss-vulnerability-of-its-own/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An XSS vulnerability was discovered in CISA's "Software Acquisition Guide: Supplier Response Web Tool." This vulnerability allowed attackers to inject malicious JavaScript into the web page, potentially affecting other users and defacing the website.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 15, 2026 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DeadLock Ransomware Uses Polygon Smart Contracts For Proxy Rotation<a href="https://www.infosecurity-magazine.com/news/deadlock-polygon-smart-contracts/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ DeadLock Ransomware Uses Polygon Smart Contracts For Proxy Rotation<a href="http
 DeadLock ransomware has been identified using Polygon blockchain smart contracts to manage and rotate proxy server addresses. The latest samples include an HTML file used to communicate with victims via the Session encrypted messaging platform.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 15, 2026
+January 15, 2026 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft seizes RedVDS infrastructure, disrupts fast-growing cybercrime marketplace<a href="https://cyberscoop.com/microsoft-seizes-disrupts-redvds-cybercrime-marketplace/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Microsoft seizes RedVDS infrastructure, disrupts fast-growing cybercrime marketp
 Microsoft, in collaboration with international law enforcement, dismantled the RedVDS cybercrime marketplace. This operation has disrupted a significant source of cybercriminal activity, which facilitated widespread fraud and cyberattacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyber Scoop
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 15, 2026
+January 15, 2026 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Western cyber agencies warn about threats to industrial operational technology<a href="https://therecord.media/cyber-agencies-warn-of-industrial-system-threats?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Western cyber agencies warn about threats to industrial operational technology<a
 Western cyber agencies have issued a warning about the growing digital threats to industrial operational technology (OT) systems. These systems are integral to critical infrastructure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 15, 2026
+January 15, 2026 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sources: DHS finalizing replacement for disbanded critical infrastructure security council<a href="https://cyberscoop.com/dhs-anchor-cipac-replacement-critical-infrastructure-cybersecurity-liability-protections/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Sources: DHS finalizing replacement for disbanded critical infrastructure securi
 The DHS is in the final stages of establishing a new council, the Alliance of National Councils for Homeland Operational Resilience (ANCHOR), to replace the disbanded Critical Infrastructure Partnership Advisory Council (CIPAC).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyber Scoop
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 15, 2026
+January 15, 2026 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kimwolf botnet’s swift rise to 2M infected devices agitates security researchers<a href="https://cyberscoop.com/kimwolf-aisuru-botnet-lumen-technologies/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Kimwolf botnet’s swift rise to 2M infected devices agitates security researche
 Kimwolf has launched numerous DDoS attacks, frequently targeting Minecraft servers with short bursts lasting one to two minutes, though some attacks have extended for hours, causing widespread service disruption.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyber Scoop
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 15, 2026
+January 15, 2026 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CERT-UA reports PLUGGYAPE cyberattacks on defense forces<a href="https://securityaffairs.com/186910/intelligence/cert-ua-reports-pluggyape-cyberattacks-on-defense-forces.html?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ CERT-UA reports PLUGGYAPE cyberattacks on defense forces<a href="https://securit
 The PLUGGYAPE malware has been used in cyberattacks targeting Ukraine's defense forces. These attacks are attributed to the Russian-linked group Void Blizzard, also known as Laundry Bear.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 15, 2026
+January 15, 2026 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISOs flag gaps in third-party risk management<a href="https://www.helpnetsecurity.com/2026/01/15/panorays-cisos-ai-vendor-risk/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ CISOs flag gaps in third-party risk management<a href="https://www.helpnetsecuri
 The increasing complexity of vendor ecosystems and the integration of AI in business operations have heightened third-party cyber risks. CISOs are increasingly concerned about the lack of visibility beyond direct vendors.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security 
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 15, 2026
+January 15, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MongoBleed (CVE-2025-14847): A Critical MongoDB Memory Leak Vulnerability Hidden for 8 Years<a href="https://asec.ahnlab.com/en/92067/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ MongoBleed (CVE-2025-14847): A Critical MongoDB Memory Leak Vulnerability Hidden
 MongoBleed (CVE-2025-14847) is a critical memory leak vulnerability in MongoDB that has been hidden for eight years. It allows unauthenticated attackers to read uninitialized heap memory, potentially exposing sensitive information.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Ahn Lab
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 14, 2026
+January 14, 2026 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Chrome Extension Drains Crypto via Secret API Keys<a href="https://securityonline.info/malicious-chrome-extension-drains-crypto-via-secret-api-keys/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Malicious Chrome Extension Drains Crypto via Secret API Keys<a href="https://sec
 Socket’s Threat Research Team has identified a malicious Google Chrome extension, MEXC API Automator, that quietly hijacks user accounts on the MEXC exchange to steal funds.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 14, 2026
+January 14, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft releases Windows 10 KB5073724 extended security update<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5073724-extended-security-update/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Microsoft releases Windows 10 KB5073724 extended security update<a href="https:/
 Microsoft has released the KB5073724 extended security update to fix the Patch Tuesday security updates, including 3 zero-days and a fix for expiring Secure Boot certificates.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
