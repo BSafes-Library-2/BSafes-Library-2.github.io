@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+January 15, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sources: DHS finalizing replacement for disbanded critical infrastructure security council<a href="https://cyberscoop.com/dhs-anchor-cipac-replacement-critical-infrastructure-cybersecurity-liability-protections/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DHS is in the final stages of establishing a new council, the Alliance of National Councils for Homeland Operational Resilience (ANCHOR), to replace the disbanded Critical Infrastructure Partnership Advisory Council (CIPAC).
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Scoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 13, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+January 15, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Western cyber agencies warn about threats to industrial operational technology<a href="https://therecord.media/cyber-agencies-warn-of-industrial-system-threats?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Western cyber agencies have issued a warning about the growing digital threats to industrial operational technology (OT) systems. These systems are integral to critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 15, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISOs flag gaps in third-party risk management<a href="https://www.helpnetsecurity.com/2026/01/15/panorays-cisos-ai-vendor-risk/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The increasing complexity of vendor ecosystems and the integration of AI in business operations have heightened third-party cyber risks. CISOs are increasingly concerned about the lack of visibility beyond direct vendors.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security 
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 8, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

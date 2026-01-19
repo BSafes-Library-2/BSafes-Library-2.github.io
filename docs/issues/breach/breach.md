@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+January 16, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Texas behavioral health center warns patients of data breach that leaked SSNs, medical info<a href="https://www.comparitech.com/news/texas-behavioral-health-center-warns-patients-of-data-breach-that-leaked-ssns-medical-info/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spindletop Center, a behavioral health clinic in Texas, experienced a significant data breach in September 2025. Rhysida ransomware claimed responsibility for the attack, demanding a ransom of 15 bitcoin, equivalent to $1.65 million at the time.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 9, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

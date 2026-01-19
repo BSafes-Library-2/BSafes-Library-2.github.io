@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 15, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft seizes RedVDS infrastructure, disrupts fast-growing cybercrime marketplace<a href="https://cyberscoop.com/microsoft-seizes-disrupts-redvds-cybercrime-marketplace/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft, in collaboration with international law enforcement, dismantled the RedVDS cybercrime marketplace. This operation has disrupted a significant source of cybercriminal activity, which facilitated widespread fraud and cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Scoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 13, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

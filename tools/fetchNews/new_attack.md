@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+January 17, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TamperedChef serves bad ads, with infostealers as the main course<a href="https://www.sophos.com/en-us/blog/tamperedchef-serves-bad-ads-with-infostealers-as-the-main-course?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The TamperedChef campaign is a sophisticated malvertising operation leveraging Google Ads to distribute infostealer. This campaign targets users searching for PDF software, redirecting them to malicious sites.
+</details>
+<div style="text-align: right" markdown="1">
+Sophos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 15, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

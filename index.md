@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17, 2026
+January 17, 2026 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-Linked APT Exploits Sitecore Zero-Day in Attacks on American Critical Infrastructure<a href="https://thehackernews.com/2026/01/china-linked-apt-exploits-sitecore-zero.html?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ China-Linked APT Exploits Sitecore Zero-Day in Attacks on American Critical Infr
 A China-linked advanced persistent threat (APT) group, identified as UAT-8837, has been exploiting a critical zero-day vulnerability in Sitecore (CVE-2025-53690, CVSS score: 9.0) to target critical infrastructure sectors in North America.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17, 2026
+January 17, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Vulnerability in Festo Firmware Affects Multiple Products<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-02?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Critical Vulnerability in Festo Firmware Affects Multiple Products<a href="https
 A critical vulnerability has been identified in the firmware of multiple Festo products, affecting a wide range of devices used in critical manufacturing sectors globally. The vulnerability is tracked as CVE-2022-3270.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CISA
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17, 2026
+January 17, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bankrupt scooter startup's single key controlled everything<a href="https://www.theregister.com/2026/01/16/bankrupt_scooter_startup_key/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Bankrupt scooter startup's single key controlled everything<a href="https://www.
 An Estonian e-scooter company, Äike, which has gone bankrupt, left a significant security flaw in its devices. The scooters were shipped with a default private key that was never individualized, allowing any scooter to be unlocked using the same key.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17, 2026
+January 17, 2026 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RondoDox botnet exploits critical HPE OneView bug<a href="https://www.theregister.com/2026/01/16/rondodox_botnet_hpe_oneview/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ RondoDox botnet exploits critical HPE OneView bug<a href="https://www.theregiste
 A critical vulnerability in HPE OneView, identified as CVE-2025-37164, is being exploited at scale by the RondoDox botnet. This remote code execution flaw has a perfect 10 CVSS severity score.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17, 2026
+January 17, 2026 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TamperedChef serves bad ads, with infostealers as the main course<a href="https://www.sophos.com/en-us/blog/tamperedchef-serves-bad-ads-with-infostealers-as-the-main-course?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ TamperedChef serves bad ads, with infostealers as the main course<a href="https:
 The TamperedChef campaign is a sophisticated malvertising operation leveraging Google Ads to distribute infostealer. This campaign targets users searching for PDF software, redirecting them to malicious sites.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sophos
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 16, 2026
+January 16, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Years-Old Vulnerable Apache Struts 2 Versions See 387K Weekly Downloads<a href="https://hackread.com/years-old-vulnerable-apache-struts-2-downloads/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Years-Old Vulnerable Apache Struts 2 Versions See 387K Weekly Downloads<a href="
 A critical vulnerability, CVE-2025-68493, has been identified in Apache Struts 2, affecting versions 2.0.0 through 6.1.0. This flaw, discovered by Zast AI, involves unsafe XML parsing in the XWork component, which can lead to system crashes.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 16, 2026
+January 16, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Texas behavioral health center warns patients of data breach that leaked SSNs, medical info<a href="https://www.comparitech.com/news/texas-behavioral-health-center-warns-patients-of-data-breach-that-leaked-ssns-medical-info/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Texas behavioral health center warns patients of data breach that leaked SSNs, m
 Spindletop Center, a behavioral health clinic in Texas, experienced a significant data breach in September 2025. Rhysida ransomware claimed responsibility for the attack, demanding a ransom of 15 bitcoin, equivalent to $1.65 million at the time.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CompariTech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 16, 2026
+January 16, 2026 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GhostPoster Browser Malware Hid for 5 Years With 840,000 Installs<a href="https://hackread.com/ghostposter-browser-malware-840000-installs/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ GhostPoster Browser Malware Hid for 5 Years With 840,000 Installs<a href="https:
 The GhostPoster malware campaign has been active for five years, affecting over 840,000 users through browser extensions on Chrome, Firefox, and Edge. The malware uses hidden payloads within PNG images to evade detection.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 16, 2026
+January 16, 2026 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China spies used Maduro capture as lure to phish US agencies<a href="https://www.theregister.com/2026/01/15/chinese_spies_used_maduros_capture/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ China spies used Maduro capture as lure to phish US agencies<a href="https://www
 Chinese cyberspies, identified as the Mustang Panda group, have launched a targeted phishing campaign against US government agencies. The campaign used the geopolitical event of Venezuelan President Nicolás Maduro's capture as a lure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 16, 2026
+January 16, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA’s secure-software buying tool had a simple XSS vulnerability of its own<a href="https://cyberscoop.com/cisa-secure-software-buying-tool-had-a-simple-xss-vulnerability-of-its-own/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ CISA’s secure-software buying tool had a simple XSS vulnerability of its own<a
 An XSS vulnerability was discovered in CISA's "Software Acquisition Guide: Supplier Response Web Tool." This vulnerability allowed attackers to inject malicious JavaScript into the web page, potentially affecting other users and defacing the website.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyber Scoop
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+January 17, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RondoDox botnet exploits critical HPE OneView bug<a href="https://www.theregister.com/2026/01/16/rondodox_botnet_hpe_oneview/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in HPE OneView, identified as CVE-2025-37164, is being exploited at scale by the RondoDox botnet. This remote code execution flaw has a perfect 10 CVSS severity score.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 15, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
