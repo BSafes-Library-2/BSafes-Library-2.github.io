@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 19, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Gemini AI Tricked Into Leaking Calendar Data via Meeting Invites – Hackread – Cybersecurity News, Data Breaches, AI, and More<a href="https://hackread.com/google-gemini-ai-calendar-data-leak-meeting-invite/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in Google Gemini AI allows attackers to exploit calendar invites to extract private data. This attack uses Indirect Prompt Injection, embedding commands in meeting invites that instruct Gemini to leak information.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 17, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

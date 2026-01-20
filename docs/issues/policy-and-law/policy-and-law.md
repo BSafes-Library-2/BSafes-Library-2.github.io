@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+January 19, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A new European standard outlines security requirements for AI<a href="https://www.helpnetsecurity.com/2026/01/19/etsi-european-standard-ai-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Telecommunications Standards Institute (ETSI) has introduced a new standard, ETSI EN 304 223, to address cybersecurity requirements for AI models and systems. This standard is crucial for security teams working with AI.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 13, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

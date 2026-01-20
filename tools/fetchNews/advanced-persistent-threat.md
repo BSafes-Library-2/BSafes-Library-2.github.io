@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+January 17, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-Linked APT Exploits Sitecore Zero-Day in Attacks on American Critical Infrastructure<a href="https://thehackernews.com/2026/01/china-linked-apt-exploits-sitecore-zero.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A China-linked advanced persistent threat (APT) group, identified as UAT-8837, has been exploiting a critical zero-day vulnerability in Sitecore (CVE-2025-53690, CVSS score: 9.0) to target critical infrastructure sectors in North America.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 30, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

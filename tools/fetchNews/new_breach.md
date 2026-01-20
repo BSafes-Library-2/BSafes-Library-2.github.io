@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+January 19, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ingram Micro admits ransomware raid exposed staff records<a href="https://www.theregister.com/2026/01/19/ingram_micro_ransomware_affects/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ingram Micro experienced a significant ransomware attack in July 2025, compromising the personal data of over 42,000 employees. The attack, claimed by the ransomware group SafePay, resulted in substantial operational disruptions and data exposure.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 19, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+StealC hackers hacked as researchers hijack malware control panels<a href="https://www.bleepingcomputer.com/news/security/stealc-hackers-hacked-as-researchers-hijack-malware-control-panels/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An XSS vulnerability in the StealC malware's control panel has been exploited by researchers to gather intelligence on the malware operators. This flaw allowed researchers to hijack sessions and collect data on the attackers' hardware and location.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 19, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian investment regulator confirms hackers hit 750,000 investors<a href="https://therecord.media/canada-ciro-investing-regulator-confirms-data-breach?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Canadian Investment Regulatory Organization (CIRO) has confirmed a data breach affecting approximately 750,000 investors due to a sophisticated phishing attack. CIRO confirmed that login credentials were not at risk during the breach.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 16, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

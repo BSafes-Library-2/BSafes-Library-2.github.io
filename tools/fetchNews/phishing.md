@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+January 16, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China spies used Maduro capture as lure to phish US agencies<a href="https://www.theregister.com/2026/01/15/chinese_spies_used_maduros_capture/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese cyberspies, identified as the Mustang Panda group, have launched a targeted phishing campaign against US government agencies. The campaign used the geopolitical event of Venezuelan President Nicolás Maduro's capture as a lure.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 12, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 17, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerability in Festo Firmware Affects Multiple Products<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-02?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability has been identified in the firmware of multiple Festo products, affecting a wide range of devices used in critical manufacturing sectors globally. The vulnerability is tracked as CVE-2022-3270.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 17, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bankrupt scooter startup's single key controlled everything<a href="https://www.theregister.com/2026/01/16/bankrupt_scooter_startup_key/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Estonian e-scooter company, Äike, which has gone bankrupt, left a significant security flaw in its devices. The scooters were shipped with a default private key that was never individualized, allowing any scooter to be unlocked using the same key.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 16, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Years-Old Vulnerable Apache Struts 2 Versions See 387K Weekly Downloads<a href="https://hackread.com/years-old-vulnerable-apache-struts-2-downloads/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability, CVE-2025-68493, has been identified in Apache Struts 2, affecting versions 2.0.0 through 6.1.0. This flaw, discovered by Zast AI, involves unsafe XML parsing in the XWork component, which can lead to system crashes.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 16, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA’s secure-software buying tool had a simple XSS vulnerability of its own<a href="https://cyberscoop.com/cisa-secure-software-buying-tool-had-a-simple-xss-vulnerability-of-its-own/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An XSS vulnerability was discovered in CISA's "Software Acquisition Guide: Supplier Response Web Tool." This vulnerability allowed attackers to inject malicious JavaScript into the web page, potentially affecting other users and defacing the website.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Scoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 15, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
