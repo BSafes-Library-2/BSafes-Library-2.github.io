@@ -34,6 +34,150 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Gemini AI Tricked Into Leaking Calendar Data via Meeting Invites – Hackread – Cybersecurity News, Data Breaches, AI, and More<a href="https://hackread.com/google-gemini-ai-calendar-data-leak-meeting-invite/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in Google Gemini AI allows attackers to exploit calendar invites to extract private data. This attack uses Indirect Prompt Injection, embedding commands in meeting invites that instruct Gemini to leak information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ingram Micro admits ransomware raid exposed staff records<a href="https://www.theregister.com/2026/01/19/ingram_micro_ransomware_affects/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ingram Micro experienced a significant ransomware attack in July 2025, compromising the personal data of over 42,000 employees. The attack, claimed by the ransomware group SafePay, resulted in substantial operational disruptions and data exposure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+From Extension to Infection: An In-Depth Analysis of the Evelyn Stealer Campaign Targeting Software Developers<a href="https://www.trendmicro.com/en_us/research/26/a/analysis-of-the-evelyn-stealer-campaign.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Evelyn Stealer campaign targets software developers by exploiting the Visual Studio Code (VSC) extension ecosystem. This sophisticated attack chain involves a multistage delivery method designed to exfiltrate sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacktivists hijacked Iran ’s state TV to air anti-regime messages and an appeal to protest from Reza Pahlavi<a href="https://securityaffairs.com/187055/hacktivism/hacktivists-hijacked-iran-state-tv-to-broadcast-anti-regime-messages-and-reza-pahlavis-protest-appeal.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anti-regime activists hijacked Iran’s Badr satellite and briefly took control of state TV channels to broadcast messages from Crown Prince Reza Pahlavi, calling for protests against the Islamic Republic.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+StealC hackers hacked as researchers hijack malware control panels<a href="https://www.bleepingcomputer.com/news/security/stealc-hackers-hacked-as-researchers-hijack-malware-control-panels/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An XSS vulnerability in the StealC malware's control panel has been exploited by researchers to gather intelligence on the malware operators. This flaw allowed researchers to hijack sessions and collect data on the attackers' hardware and location.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global tensions are pushing cyber activity toward dangerous territory<a href="https://www.helpnetsecurity.com/2026/01/19/cybersecurity-geopolitical-tensions/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The intersection of cybersecurity and geopolitics is becoming increasingly pronounced, with state-sponsored cyber operations being used as tools of political influence and conflict.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A new European standard outlines security requirements for AI<a href="https://www.helpnetsecurity.com/2026/01/19/etsi-european-standard-ai-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Telecommunications Standards Institute (ETSI) has introduced a new standard, ETSI EN 304 223, to address cybersecurity requirements for AI models and systems. This standard is crucial for security teams working with AI.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+When the Olympics connect everything, attackers pay attention<a href="https://www.helpnetsecurity.com/2026/01/19/palo-alto-networks-olympic-cybersecurity-risks-report/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Milan Cortina 2026 Winter Olympic Games present a significant cybersecurity challenge. This includes temporary networks, pop-up systems, and numerous partnerships, all of which create a target-rich environment for cyber threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian investment regulator confirms hackers hit 750,000 investors<a href="https://therecord.media/canada-ciro-investing-regulator-confirms-data-breach?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Canadian Investment Regulatory Organization (CIRO) has confirmed a data breach affecting approximately 750,000 investors due to a sophisticated phishing attack. CIRO confirmed that login credentials were not at risk during the breach.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 17, 2026 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
