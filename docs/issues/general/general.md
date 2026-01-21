@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+January 20, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Breaches, Compliance and Reputation Top UK Corporate Concerns<a href="https://www.infosecurity-magazine.com/news/cyber-breaches-compliance/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over half (58%) ranked cyber-related breaches as their top risk, with three-quarters doubting their ability to manage them. Their concern is grounded in experience and 20% said they had suffered a breach over the past two years.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 19, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

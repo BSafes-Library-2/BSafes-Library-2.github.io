@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+January 21, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Everest Ransomware Claims McDonalds India Breach Involving Customer Data<a href="https://hackread.com/everest-ransomware-mcdonalds-india-breach-customer-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Everest ransomware group has claimed responsibility for a significant data breach involving McDonald's India. The group alleges to have exfiltrated 861 GB of sensitive data, including customer information and internal company documents.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 19, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+January 21, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers target Afghan government workers with fake correspondence from senior officials<a href="https://therecord.media/hackers-target-afghan-workers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A phishing campaign has been identified targeting Afghan government employees with emails disguised as official correspondence from the office of the prime minister. The campaign uses a decoy document to deliver malware named FalseCub.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 16, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

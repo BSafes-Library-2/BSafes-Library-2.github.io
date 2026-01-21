@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+January 19, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global tensions are pushing cyber activity toward dangerous territory<a href="https://www.helpnetsecurity.com/2026/01/19/cybersecurity-geopolitical-tensions/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The intersection of cybersecurity and geopolitics is becoming increasingly pronounced, with state-sponsored cyber operations being used as tools of political influence and conflict.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 19, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+When the Olympics connect everything, attackers pay attention<a href="https://www.helpnetsecurity.com/2026/01/19/palo-alto-networks-olympic-cybersecurity-risks-report/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Milan Cortina 2026 Winter Olympic Games present a significant cybersecurity challenge. This includes temporary networks, pop-up systems, and numerous partnerships, all of which create a target-rich environment for cyber threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 15, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

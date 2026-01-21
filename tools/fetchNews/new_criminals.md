@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 20, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tudou Guarantee Marketplace Halts Telegram Transactions After Processing Over $12 Billion<a href="https://thehackernews.com/2026/01/tudou-guarantee-marketplace-halts.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Telegram-based guarantee marketplace known for advertising a broad range of illicit services appears to be winding down its operations. The closure of Tudou is a significant blow to the Southeast Asian scam economy.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 15, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

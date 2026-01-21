@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+January 19, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+From Extension to Infection: An In-Depth Analysis of the Evelyn Stealer Campaign Targeting Software Developers<a href="https://www.trendmicro.com/en_us/research/26/a/analysis-of-the-evelyn-stealer-campaign.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Evelyn Stealer campaign targets software developers by exploiting the Visual Studio Code (VSC) extension ecosystem. This sophisticated attack chain involves a multistage delivery method designed to exfiltrate sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 19, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacktivists hijacked Iran ’s state TV to air anti-regime messages and an appeal to protest from Reza Pahlavi<a href="https://securityaffairs.com/187055/hacktivism/hacktivists-hijacked-iran-state-tv-to-broadcast-anti-regime-messages-and-reza-pahlavis-protest-appeal.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anti-regime activists hijacked Iran’s Badr satellite and briefly took control of state TV channels to broadcast messages from Crown Prince Reza Pahlavi, calling for protests against the Islamic Republic.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 17, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
