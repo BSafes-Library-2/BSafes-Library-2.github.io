@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 20, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious Invites<a href="https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed details of a security flaw that leverages indirect prompt injection targeting Google Gemini as a way to bypass authorization guardrails and use Google Calendar as a data extraction mechanism.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 20, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New StackWarp Hardware Flaw Breaks AMD SEV-SNP Protections on Zen 1–5 CPUs<a href="https://thehackernews.com/2026/01/new-stackwarp-hardware-flaw-breaks-amd.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new hardware vulnerability, named StackWarp, has been identified in AMD processors, specifically affecting Zen 1 through Zen 5 models. This flaw allows attackers with privileged control over host servers to execute malicious code within CVMs.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 19, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
