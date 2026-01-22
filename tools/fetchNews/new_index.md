@@ -34,7 +34,103 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 22, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixed actively exploited Unified Communications zero day<a href="https://securityaffairs.com/187177/security/cisco-fixed-actively-exploited-unified-communications-zero-day.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has addressed a critical zero-day vulnerability, CVE-2026-20045, in its Unified Communications products. This flaw allows unauthenticated remote attackers to execute arbitrary commands on affected devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 22, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Android malware uses AI to click on hidden browser ads<a href="https://www.bleepingcomputer.com/news/security/new-android-malware-uses-ai-to-click-on-hidden-browser-ads/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new family of Android click-fraud trojans is leveraging TensorFlow machine learning models to interact with advertisement elements. This malware is distributed through Xiaomi's GetApps store and third-party APK sites.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 21, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anthropic quietly fixed flaws in its Git MCP server<a href="https://www.theregister.com/2026/01/20/anthropic_prompt_injection_flaws/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anthropic has addressed critical vulnerabilities in its Git MCP server that could allow remote code execution. These vulnerabilities, identified as CVE-2025-68145, CVE-2025-68143, and CVE-2025-68144, have been fixed in the latest update.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 21, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI framework flaws put enterprise clouds at risk of takeover<a href="https://www.theregister.com/2026/01/20/ai_framework_flaws_enterprise_clouds/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two critical vulnerabilities in the Chainlit AI framework, CVE-2026-22218 and CVE-2026-22219, pose significant risks to enterprise cloud environments. These vulnerabilities could lead to data leaks or full system takeovers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 21, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities in Rockwell Automation Verve Asset Manager Allow Unauthorized Access to Sensitive Information<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-020-03?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rockwell Automation's Verve Asset Manager has been found to have vulnerabilities that could allow attackers to access sensitive information. These bugs, identified as CVE-2025-14376 and CVE-2025-14377, affect multiple versions of the product.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 21, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside a Multi-Stage Windows Malware Campaign<a href="https://www.fortinet.com/blog/threat-research/inside-a-multi-stage-windows-malware-campaign?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated multi-stage malware campaign is targeting Microsoft Windows users, primarily in Russia. The attack leverages social engineering, security control bypass, and ransomware deployment.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 21, 2026 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers target Afghan government workers with fake correspondence from senior officials<a href="https://therecord.media/hackers-target-afghan-workers?&web_view=true"> Full Text</a>
@@ -44,13 +140,13 @@ Hackers target Afghan government workers with fake correspondence from senior of
 A phishing campaign has been identified targeting Afghan government employees with emails disguised as official correspondence from the office of the prime minister. The campaign uses a decoy document to deliver malware named FalseCub.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 21, 2026
+January 21, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Everest Ransomware Claims McDonalds India Breach Involving Customer Data<a href="https://hackread.com/everest-ransomware-mcdonalds-india-breach-customer-data/?&web_view=true"> Full Text</a>
@@ -60,13 +156,13 @@ Everest Ransomware Claims McDonalds India Breach Involving Customer Data<a href=
 The Everest ransomware group has claimed responsibility for a significant data breach involving McDonald's India. The group alleges to have exfiltrated 861 GB of sensitive data, including customer information and internal company documents.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 20, 2026
+January 20, 2026 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Breaches, Compliance and Reputation Top UK Corporate Concerns<a href="https://www.infosecurity-magazine.com/news/cyber-breaches-compliance/?&web_view=true"> Full Text</a>
@@ -76,13 +172,13 @@ Cyber Breaches, Compliance and Reputation Top UK Corporate Concerns<a href="http
 Over half (58%) ranked cyber-related breaches as their top risk, with three-quarters doubting their ability to manage them. Their concern is grounded in experience and 20% said they had suffered a breach over the past two years.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 20, 2026
+January 20, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious Invites<a href="https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html?&web_view=true"> Full Text</a>
@@ -92,13 +188,13 @@ Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious 
 Cybersecurity researchers have disclosed details of a security flaw that leverages indirect prompt injection targeting Google Gemini as a way to bypass authorization guardrails and use Google Calendar as a data extraction mechanism.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 20, 2026
+January 20, 2026 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tudou Guarantee Marketplace Halts Telegram Transactions After Processing Over $12 Billion<a href="https://thehackernews.com/2026/01/tudou-guarantee-marketplace-halts.html?&web_view=true"> Full Text</a>
@@ -108,13 +204,13 @@ Tudou Guarantee Marketplace Halts Telegram Transactions After Processing Over $1
 A Telegram-based guarantee marketplace known for advertising a broad range of illicit services appears to be winding down its operations. The closure of Tudou is a significant blow to the Southeast Asian scam economy.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 20, 2026
+January 20, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New StackWarp Hardware Flaw Breaks AMD SEV-SNP Protections on Zen 1–5 CPUs<a href="https://thehackernews.com/2026/01/new-stackwarp-hardware-flaw-breaks-amd.html?&web_view=true"> Full Text</a>
@@ -124,13 +220,13 @@ New StackWarp Hardware Flaw Breaks AMD SEV-SNP Protections on Zen 1–5 CPUs<a h
 A new hardware vulnerability, named StackWarp, has been identified in AMD processors, specifically affecting Zen 1 through Zen 5 models. This flaw allows attackers with privileged control over host servers to execute malicious code within CVMs.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 20, 2026
+January 20, 2026 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake ad blocker extension crashes the browser for ClickFix attacks<a href="https://www.bleepingcomputer.com/news/security/fake-ad-blocker-extension-crashes-the-browser-for-clickfix-attacks/?&web_view=true"> Full Text</a>
@@ -140,13 +236,13 @@ Fake ad blocker extension crashes the browser for ClickFix attacks<a href="https
 A malicious ad-blocker extension called NexShield has been discovered, targeting Chrome and Edge users through a malvertising campaign. This extension creates a DoS condition by generating infinite connections, leading to browser crashes.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 20, 2026
+January 20, 2026 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PDFSIDER Malware - Exploitation of DLL Side-Loading for AV and EDR Evasion<a href="https://www.resecurity.com/es/blog/article/pdfsider-malware-exploitation-of-dll-side-loading-for-av-and-edr-evasion?&web_view=true"> Full Text</a>
@@ -156,13 +252,13 @@ PDFSIDER Malware - Exploitation of DLL Side-Loading for AV and EDR Evasion<a hre
 A new strain of malware known as PDFSider has been deployed in ransomware attacks against a Fortune 100 company in the finance sector. Attackers utilized social engineering tactics.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ReSecurity
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 20, 2026
+January 20, 2026 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK govt. warns about ongoing Russian hacktivist group attacks<a href="https://www.bleepingcomputer.com/news/security/uk-govt-warns-about-ongoing-russian-hacktivist-group-attacks/?&web_view=true"> Full Text</a>
@@ -172,7 +268,7 @@ UK govt. warns about ongoing Russian hacktivist group attacks<a href="https://ww
 The UK government has issued a warning about ongoing DDoS attacks by the Russian-aligned hacktivist group NoName057(16), targeting critical infrastructure and local government organizations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
