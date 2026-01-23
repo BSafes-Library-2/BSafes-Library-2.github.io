@@ -34,7 +34,87 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 23, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Four Known Exploited Vulnerabilities to Catalog<a href="https://www.cisa.gov/news-events/alerts/2026/01/22/cisa-adds-four-known-exploited-vulnerabilities-catalog?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has added four new vulnerabilities to its KEV Catalog. These vulnerabilities include improper access control, improper authentication, embedded malicious code, and remote file inclusion, affecting various software products.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 22, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet admins report patched FortiGate firewalls getting hacked<a href="https://www.bleepingcomputer.com/news/security/fortinet-admins-report-patched-fortigate-firewalls-getting-hacked/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet's FortiGate firewalls are under attack due to a critical authentication bypass vulnerability that remains exploitable despite previous patch attempts. Attackers are leveraging this flaw to gain unauthorized access to systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 22, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers exploit security testing apps to breach Fortune 500 firms<a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-security-testing-apps-to-breach-fortune-500-firms/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting misconfigured web applications used for security training and internal penetration testing to breach cloud environments of Fortune 500 companies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 22, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PurpleBravo’s Targeting of the IT Software Supply Chain<a href="https://www.recordedfuture.com/research/purplebravos-targeting-it-software-supply-chain?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PurpleBravo, a North Korean state-sponsored threat group, poses a significant threat to the IT software supply chain. The group targets software developers, particularly in the cryptocurrency and software development sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 22, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Can you use too many LOLBins to drop some RATs?<a href="https://www.malwarebytes.com/blog/news/2026/01/can-you-use-too-many-lolbins-to-drop-some-rats?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This advisory details a sophisticated attack leveraging Windows' built-in utilities, known as LOLBins (Living Off the Land Binaries), to deploy Remcos and NetSupport Manager, both of which are remote access tools often abused by cybercriminals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 22, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixed actively exploited Unified Communications zero day<a href="https://securityaffairs.com/187177/security/cisco-fixed-actively-exploited-unified-communications-zero-day.html?&web_view=true"> Full Text</a>
@@ -44,13 +124,13 @@ Cisco fixed actively exploited Unified Communications zero day<a href="https://s
 Cisco has addressed a critical zero-day vulnerability, CVE-2026-20045, in its Unified Communications products. This flaw allows unauthenticated remote attackers to execute arbitrary commands on affected devices.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 22, 2026
+January 22, 2026 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Android malware uses AI to click on hidden browser ads<a href="https://www.bleepingcomputer.com/news/security/new-android-malware-uses-ai-to-click-on-hidden-browser-ads/?&web_view=true"> Full Text</a>
@@ -60,13 +140,13 @@ New Android malware uses AI to click on hidden browser ads<a href="https://www.b
 A new family of Android click-fraud trojans is leveraging TensorFlow machine learning models to interact with advertisement elements. This malware is distributed through Xiaomi's GetApps store and third-party APK sites.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 21, 2026
+January 21, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anthropic quietly fixed flaws in its Git MCP server<a href="https://www.theregister.com/2026/01/20/anthropic_prompt_injection_flaws/?&web_view=true"> Full Text</a>
@@ -76,13 +156,13 @@ Anthropic quietly fixed flaws in its Git MCP server<a href="https://www.theregis
 Anthropic has addressed critical vulnerabilities in its Git MCP server that could allow remote code execution. These vulnerabilities, identified as CVE-2025-68145, CVE-2025-68143, and CVE-2025-68144, have been fixed in the latest update.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 21, 2026
+January 21, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AI framework flaws put enterprise clouds at risk of takeover<a href="https://www.theregister.com/2026/01/20/ai_framework_flaws_enterprise_clouds/?&web_view=true"> Full Text</a>
@@ -92,13 +172,13 @@ AI framework flaws put enterprise clouds at risk of takeover<a href="https://www
 Two critical vulnerabilities in the Chainlit AI framework, CVE-2026-22218 and CVE-2026-22219, pose significant risks to enterprise cloud environments. These vulnerabilities could lead to data leaks or full system takeovers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 21, 2026
+January 21, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerabilities in Rockwell Automation Verve Asset Manager Allow Unauthorized Access to Sensitive Information<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-020-03?&web_view=true"> Full Text</a>
@@ -108,13 +188,13 @@ Vulnerabilities in Rockwell Automation Verve Asset Manager Allow Unauthorized Ac
 Rockwell Automation's Verve Asset Manager has been found to have vulnerabilities that could allow attackers to access sensitive information. These bugs, identified as CVE-2025-14376 and CVE-2025-14377, affect multiple versions of the product.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CISA
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 21, 2026
+January 21, 2026 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Inside a Multi-Stage Windows Malware Campaign<a href="https://www.fortinet.com/blog/threat-research/inside-a-multi-stage-windows-malware-campaign?&web_view=true"> Full Text</a>
@@ -124,7 +204,7 @@ Inside a Multi-Stage Windows Malware Campaign<a href="https://www.fortinet.com/b
 A sophisticated multi-stage malware campaign is targeting Microsoft Windows users, primarily in Russia. The attack leverages social engineering, security control bypass, and ransomware deployment.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Fortinet
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
