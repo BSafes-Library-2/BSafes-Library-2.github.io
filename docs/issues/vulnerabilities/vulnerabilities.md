@@ -11,6 +11,20 @@ nav_order: 900220
 January 22, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Fortinet admins report patched FortiGate firewalls getting hacked<a href="https://www.bleepingcomputer.com/news/security/fortinet-admins-report-patched-fortigate-firewalls-getting-hacked/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet's FortiGate firewalls are under attack due to a critical authentication bypass vulnerability that remains exploitable despite previous patch attempts. Attackers are leveraging this flaw to gain unauthorized access to systems.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 22, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixed actively exploited Unified Communications zero day<a href="https://securityaffairs.com/187177/security/cisco-fixed-actively-exploited-unified-communications-zero-day.html?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

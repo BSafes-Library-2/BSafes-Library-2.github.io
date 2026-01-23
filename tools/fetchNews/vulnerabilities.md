@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 22, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixed actively exploited Unified Communications zero day<a href="https://securityaffairs.com/187177/security/cisco-fixed-actively-exploited-unified-communications-zero-day.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has addressed a critical zero-day vulnerability, CVE-2026-20045, in its Unified Communications products. This flaw allows unauthenticated remote attackers to execute arbitrary commands on affected devices.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 21, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anthropic quietly fixed flaws in its Git MCP server<a href="https://www.theregister.com/2026/01/20/anthropic_prompt_injection_flaws/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anthropic has addressed critical vulnerabilities in its Git MCP server that could allow remote code execution. These vulnerabilities, identified as CVE-2025-68145, CVE-2025-68143, and CVE-2025-68144, have been fixed in the latest update.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 21, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI framework flaws put enterprise clouds at risk of takeover<a href="https://www.theregister.com/2026/01/20/ai_framework_flaws_enterprise_clouds/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two critical vulnerabilities in the Chainlit AI framework, CVE-2026-22218 and CVE-2026-22219, pose significant risks to enterprise cloud environments. These vulnerabilities could lead to data leaks or full system takeovers.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 21, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities in Rockwell Automation Verve Asset Manager Allow Unauthorized Access to Sensitive Information<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-020-03?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rockwell Automation's Verve Asset Manager has been found to have vulnerabilities that could allow attackers to access sensitive information. These bugs, identified as CVE-2025-14376 and CVE-2025-14377, affect multiple versions of the product.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 20, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

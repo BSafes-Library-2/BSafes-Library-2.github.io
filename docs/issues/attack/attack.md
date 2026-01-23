@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+January 22, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PurpleBravo’s Targeting of the IT Software Supply Chain<a href="https://www.recordedfuture.com/research/purplebravos-targeting-it-software-supply-chain?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PurpleBravo, a North Korean state-sponsored threat group, poses a significant threat to the IT software supply chain. The group targets software developers, particularly in the cryptocurrency and software development sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Recorded Future
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 22, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Can you use too many LOLBins to drop some RATs?<a href="https://www.malwarebytes.com/blog/news/2026/01/can-you-use-too-many-lolbins-to-drop-some-rats?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This advisory details a sophisticated attack leveraging Windows' built-in utilities, known as LOLBins (Living Off the Land Binaries), to deploy Remcos and NetSupport Manager, both of which are remote access tools often abused by cybercriminals.
+</details>
+<div style="text-align: right" markdown="1">
+Malware Bytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 21, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
