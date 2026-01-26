@@ -37,11 +37,11 @@ BSafes library includes mobile-friendly cybersecurity publications.
 January 23, 2026
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-CISA Adds Four Known Exploited Vulnerabilities to Catalog<a href="https://www.cisa.gov/news-events/alerts/2026/01/22/cisa-adds-four-known-exploited-vulnerabilities-catalog?&web_view=true"> Full Text</a>
+Crims hit the easy button for IT helpdesk scams<a href="https://www.theregister.com/2026/01/22/crims_sell_voice_phishing_kits/?&web_view=true"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-CISA has added four new vulnerabilities to its KEV Catalog. These vulnerabilities include improper access control, improper authentication, embedded malicious code, and remote file inclusion, affecting various software products.
+The emergence of custom voice-phishing kits on dark web forums has significantly enhanced the ability of cybercriminals to conduct social engineering scams. These kits are being used to target Google, Microsoft, and Okta accounts.
 </details>
 <div style="text-align: right" markdown="1">
 Cyware
@@ -50,7 +50,55 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 22, 2026
+January 23, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+INC ransomware opsec fail allowed data recovery for 12 US orgs<a href="https://www.bleepingcomputer.com/news/security/inc-ransomware-opsec-fail-allowed-data-recovery-for-12-us-orgs/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An operational security failure by INC ransomware allowed researchers to recover data stolen from 12 US orgs. A forensic investigation that revealed the use of the Restic backup tool and exposed attacker infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 23, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing attacks abuse SharePoint, target energy orgs<a href="https://www.theregister.com/2026/01/22/crims_compromised_energy_firms_microsoft/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated phishing campaign has been identified targeting energy-sector organizations. Attackers are exploiting Microsoft SharePoint services to harvest credentials and take over corporate email accounts, leading to widespread phishing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 23, 2026 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Four Known Exploited Vulnerabilities to Catalog<a href="https://www.cisa.gov/news-events/alerts/2026/01/22/cisa-adds-four-known-exploited-vulnerabilities-catalog?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has added four new vulnerabilities to its KEV Catalog. These vulnerabilities include improper access control, improper authentication, embedded malicious code, and remote file inclusion, affecting various software products.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 22, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fortinet admins report patched FortiGate firewalls getting hacked<a href="https://www.bleepingcomputer.com/news/security/fortinet-admins-report-patched-fortigate-firewalls-getting-hacked/?&web_view=true"> Full Text</a>
@@ -60,13 +108,13 @@ Fortinet admins report patched FortiGate firewalls getting hacked<a href="https:
 Fortinet's FortiGate firewalls are under attack due to a critical authentication bypass vulnerability that remains exploitable despite previous patch attempts. Attackers are leveraging this flaw to gain unauthorized access to systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 22, 2026
+January 22, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers exploit security testing apps to breach Fortune 500 firms<a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-security-testing-apps-to-breach-fortune-500-firms/?&web_view=true"> Full Text</a>
@@ -76,13 +124,13 @@ Hackers exploit security testing apps to breach Fortune 500 firms<a href="https:
 Threat actors are exploiting misconfigured web applications used for security training and internal penetration testing to breach cloud environments of Fortune 500 companies.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 22, 2026
+January 22, 2026 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PurpleBravo’s Targeting of the IT Software Supply Chain<a href="https://www.recordedfuture.com/research/purplebravos-targeting-it-software-supply-chain?&web_view=true"> Full Text</a>
@@ -92,13 +140,13 @@ PurpleBravo’s Targeting of the IT Software Supply Chain<a href="https://www.re
 PurpleBravo, a North Korean state-sponsored threat group, poses a significant threat to the IT software supply chain. The group targets software developers, particularly in the cryptocurrency and software development sectors.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Recorded Future
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 22, 2026
+January 22, 2026 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Can you use too many LOLBins to drop some RATs?<a href="https://www.malwarebytes.com/blog/news/2026/01/can-you-use-too-many-lolbins-to-drop-some-rats?&web_view=true"> Full Text</a>
@@ -108,7 +156,7 @@ Can you use too many LOLBins to drop some RATs?<a href="https://www.malwarebytes
 This advisory details a sophisticated attack leveraging Windows' built-in utilities, known as LOLBins (Living Off the Land Binaries), to deploy Remcos and NetSupport Manager, both of which are remote access tools often abused by cybercriminals.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Malware Bytes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
