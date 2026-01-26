@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+January 23, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+INC ransomware opsec fail allowed data recovery for 12 US orgs<a href="https://www.bleepingcomputer.com/news/security/inc-ransomware-opsec-fail-allowed-data-recovery-for-12-us-orgs/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An operational security failure by INC ransomware allowed researchers to recover data stolen from 12 US orgs. A forensic investigation that revealed the use of the Restic backup tool and exposed attacker infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 15, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

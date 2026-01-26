@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 23, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crims hit the easy button for IT helpdesk scams<a href="https://www.theregister.com/2026/01/22/crims_sell_voice_phishing_kits/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The emergence of custom voice-phishing kits on dark web forums has significantly enhanced the ability of cybercriminals to conduct social engineering scams. These kits are being used to target Google, Microsoft, and Okta accounts.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 20, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

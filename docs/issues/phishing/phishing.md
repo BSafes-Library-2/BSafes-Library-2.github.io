@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+January 23, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing attacks abuse SharePoint, target energy orgs<a href="https://www.theregister.com/2026/01/22/crims_compromised_energy_firms_microsoft/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated phishing campaign has been identified targeting energy-sector organizations. Attackers are exploiting Microsoft SharePoint services to harvest credentials and take over corporate email accounts, leading to widespread phishing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 21, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
