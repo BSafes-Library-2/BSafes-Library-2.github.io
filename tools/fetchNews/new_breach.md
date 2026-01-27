@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+January 26, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ShinyHunters Leak Alleged Data of Millions From SoundCloud, Crunchbase and Betterment<a href="https://hackread.com/shinyhunters-leak-soundcloud-crunchbase-betterment-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ShinyHunters hacking group has allegedly leaked millions of user records from SoundCloud, Crunchbase, and Betterment. This breach follows failed extortion attempts and raises concerns about potential links to an Okta vishing campaign.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nike is investigating a possible data breach, after WorldLeaks claims<a href="https://securityaffairs.com/187303/data-breach/nike-is-investigating-a-possible-data-breach-after-worldleaks-claims.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nike is currently investigating a potential data breach following claims by the WorldLeaks cybercrime group. The group alleges it has accessed and stolen 1.4TB of data from Nike's systems, raising concerns about consumer privacy and data security.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 22, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
