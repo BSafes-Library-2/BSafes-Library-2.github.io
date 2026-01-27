@@ -34,6 +34,86 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ShinyHunters Leak Alleged Data of Millions From SoundCloud, Crunchbase and Betterment<a href="https://hackread.com/shinyhunters-leak-soundcloud-crunchbase-betterment-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ShinyHunters hacking group has allegedly leaked millions of user records from SoundCloud, Crunchbase, and Betterment. This breach follows failed extortion attempts and raises concerns about potential links to an Okta vishing campaign.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical VMware vCenter Server bug under attack<a href="https://www.theregister.com/2026/01/23/critical_vmware_vcenter_server_bug/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability, CVE-2024-37079, in VMware vCenter Server is being actively exploited. This vulnerability, an out-of-bounds write flaw in the DCERPC protocol, allows remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers say Russian government hackers were behind attempted Poland power outage<a href="https://techcrunch.com/2026/01/23/researchers-say-russian-government-hackers-were-behind-attempted-poland-power-outage/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive data breach has exposed 149 million credentials, including those from major platforms such as Facebook, Instagram, and government domains. This breach underscores the ongoing threat posed by infostealing malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious AI extensions on VSCode Marketplace steal developer data<a href="https://www.bleepingcomputer.com/news/security/malicious-ai-extensions-on-vscode-marketplace-steal-developer-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two malicious AI-based extensions on the VSCode Marketplace, installed 1.5 million times, exfiltrate developer data to China-based servers. These extensions are part of the 'MaliciousCorgi' campaign.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nike is investigating a possible data breach, after WorldLeaks claims<a href="https://securityaffairs.com/187303/data-breach/nike-is-investigating-a-possible-data-breach-after-worldleaks-claims.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nike is currently investigating a potential data breach following claims by the WorldLeaks cybercrime group. The group alleges it has accessed and stolen 1.4TB of data from Nike's systems, raising concerns about consumer privacy and data security.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 23, 2026 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
