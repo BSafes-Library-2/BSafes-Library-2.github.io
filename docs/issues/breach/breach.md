@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+January 28, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nike investigates data breach after extortion gang leaks files<a href="https://www.bleepingcomputer.com/news/security/nike-investigates-data-breach-after-extortion-gang-leaks-files/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nike is investigating a potential cybersecurity incident after World Leaks claimed to have stolen and leaked 1.4TB of corporate data, including nearly 190,000 files related to business operations.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 27, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals say they sold data stolen from US medical manufacturer<a href="https://www.comparitech.com/news/cybercriminals-say-they-sold-data-stolen-from-us-medical-manufacturer/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant data breach at Cytek Biosciences, a medical manufacturer based in Fremont, California, has been attributed to the ransomware group Rhysida. This breach has compromised sensitive personal and financial information of 331 individuals.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 26, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

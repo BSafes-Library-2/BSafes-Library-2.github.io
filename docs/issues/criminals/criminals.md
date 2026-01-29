@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 28, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals and nation-state groups are exploiting a six-month old WinRAR defect<a href="https://cyberscoop.com/winrar-defect-active-exploits-google-threat-intel/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical path-traversal vulnerability in WinRAR is being actively exploited by nation-state groups. The vulnerability, disclosed and patched six months ago, continues to be a target for espionage and financially motivated attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Scoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 23, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

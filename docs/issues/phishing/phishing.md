@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+January 28, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+There’s a rash of scam spam coming from a real Microsoft address<a href="https://arstechnica.com/information-technology/2026/01/theres-a-rash-of-scam-spam-coming-from-a-real-microsoft-address/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent phishing scam has been identified, exploiting a legitimate Microsoft email address to deliver scam emails. This advisory provides details on the scam's operation and its implications.
+</details>
+<div style="text-align: right" markdown="1">
+Ars Technica
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 23, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

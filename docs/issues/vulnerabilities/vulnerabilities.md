@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 28, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pyodide Sandbox Escape Enables Remote Code Execution in Grist-Core<a href="https://www.infosecurity-magazine.com/news/pyodide-sandbox-escape-rce-grist/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in Grist-Core's Pyodide WebAssembly sandbox allows remote code execution (RCE) through malicious spreadsheet formulas. This flaw, with a CVSS score of 9.1, has been patched.
+</details>
+<div style="text-align: right" markdown="1">
+Infosesecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 28, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical sandbox escape flaw found in popular vm2 NodeJS library<a href="https://www.bleepingcomputer.com/news/security/critical-sandbox-escape-flaw-discovered-in-popular-vm2-nodejs-library/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability, CVE-2026-22709, has been identified in the vm2 Node.js sandbox library, which allows attackers to escape the sandbox and execute arbitrary code on the host system.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 27, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emergency Microsoft update fixes in-the-wild Office zero-day<a href="https://securityaffairs.com/187349/hacking/emergency-microsoft-update-fixes-in-the-wild-office-zero-day.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released an emergency update to address a critical 0-day bug affecting Microsoft Office 2016–2024 and Microsoft 365 Apps. This bug is actively exploited in the wild and allows attackers to bypass security features.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 26, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

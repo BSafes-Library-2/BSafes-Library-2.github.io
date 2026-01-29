@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+January 26, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers say Russian government hackers were behind attempted Poland power outage<a href="https://techcrunch.com/2026/01/23/researchers-say-russian-government-hackers-were-behind-attempted-poland-power-outage/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive data breach has exposed 149 million credentials, including those from major platforms such as Facebook, Instagram, and government domains. This breach underscores the ongoing threat posed by infostealing malware.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 15, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
