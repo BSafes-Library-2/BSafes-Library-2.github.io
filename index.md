@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 31, 2026
+January 31, 2026 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Aisuru botnet sets new record with 31.4 Tbps DDoS attack<a href="https://www.bleepingcomputer.com/news/security/aisuru-botnet-sets-new-record-with-314-tbps-ddos-attack/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Aisuru botnet sets new record with 31.4 Tbps DDoS attack<a href="https://www.ble
 The Aisuru botnet has set a new record with a massive DDoS attack, peaking at 31.4 Tbps and 200 million requests per second. This unprecedented attack targeted multiple companies, primarily in the telecommunications sector.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 31, 2026
+January 31, 2026 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Supply chain attack on eScan antivirus: detecting and remediating malicious updates<a href="https://securelist.com/escan-supply-chain-attack/118688/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Supply chain attack on eScan antivirus: detecting and remediating malicious upda
 A supply chain attack targeted eScan antivirus software, distributing malware through its update server. The attack involved a malicious file that initiated a multi-stage infection chain.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Secure List
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 31, 2026
+January 31, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ShinyHunters claims it stole10M records from dating apps<a href="https://www.theregister.com/2026/01/29/shinyhunters_match_group/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ ShinyHunters claims it stole10M records from dating apps<a href="https://www.the
 ShinyHunters, a notorious extortion group, has claimed responsibility for a data breach affecting Match Group, a company that owns popular dating platforms such as Hinge, Match.com, and OkCupid. The breach reportedly involves over 10 million records.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 31, 2026
+January 31, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researcher’s Notebook: Inside the EmEditor supply chain compromise<a href="https://www.reversinglabs.com/blog/emeditor-supply-chain-compromise?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Researcher’s Notebook: Inside the EmEditor supply chain compromise<a href="htt
 The EmEditor supply chain compromise involved tampering with Windows Installer (MSI) packages to embed malicious scripts. The attackers used look-alike domains and command-and-control (C2) infrastructure to execute their operations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Reversing Labs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2026
+January 30, 2026 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyble Research Discovers ShadowHS, an In-Memory Linux Framework for Long-Term Access<a href="https://thecyberexpress.com/shadowhs-fileless-linux-exploitation-framework/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Cyble Research Discovers ShadowHS, an In-Memory Linux Framework for Long-Term Ac
 ShadowHS is an advanced fileless Linux exploitation framework designed for stealthy, in-memory operations. It enables attackers to maintain long-term access to compromised systems without leaving persistent traces.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2026
+January 30, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Marquis blames ransomware breach on SonicWall cloud backup hack<a href="https://www.bleepingcomputer.com/news/security/marquis-blames-ransomware-breach-on-sonicwall-cloud-backup-hack/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Marquis blames ransomware breach on SonicWall cloud backup hack<a href="https://
 Marquis Software Solutions, a financial services provider, experienced a ransomware attack attributed to a breach of SonicWall's cloud backup service. This incident affected numerous U.S. banks and credit unions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2026
+January 30, 2026 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Op Bizarre Bazaar: New LLMjacking Campaign Targets Unprotected Models<a href="https://hackread.com/operation-bizarre-bazaar-llmjacking-unprotected-models/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Op Bizarre Bazaar: New LLMjacking Campaign Targets Unprotected Models<a href="ht
 Operation Bizarre Bazaar is a significant cyberattack campaign targeting AI systems to steal compute power and resell access. The campaign, led by a hacker known as Hecker, involves exploiting unprotected AI models, particularly those using MCP.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2026
+January 30, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ivanti warns of two EPMM flaws exploited in zero-day attacks<a href="https://www.bleepingcomputer.com/news/security/ivanti-warns-of-two-epmm-flaws-exploited-in-zero-day-attacks/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Ivanti warns of two EPMM flaws exploited in zero-day attacks<a href="https://www
 Ivanti has disclosed two critical zero-day vulnerabilities in Ivanti EPMM, identified as CVE-2026-1281 and CVE-2026-1340. These vulnerabilities allow remote attackers to execute arbitrary code on vulnerable devices without authentication.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2026
+January 30, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Researcher Finds Exposed Admin Panel for AI Toy<a href="https://thecyberexpress.com/security-researcher-finds-ai-toy-admin-panel/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Security Researcher Finds Exposed Admin Panel for AI Toy<a href="https://thecybe
 A critical security vulnerability was discovered in the Bondu AI toy, where an exposed admin panel allowed unauthorized access to sensitive data, including children's personal information and conversation transcripts.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2026
+January 30, 2026 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MongoDB Ransomware Is Still Actively Hitting Exposed Databases<a href="https://www.esecurityplanet.com/threats/mongodb-ransomware-is-still-actively-hitting-exposed-databases/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ MongoDB Ransomware Is Still Actively Hitting Exposed Databases<a href="https://w
 MongoDB ransomware continues to be a significant threat, primarily targeting exposed databases due to misconfigurations. Attackers exploit these vulnerabilities by scanning for open MongoDB instances, deleting data, and demanding ransoms.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ESecurity Planet
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+January 28, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Detect Pakistan-Linked Cyber Campaigns Aimed at Indian Government Entities<a href="https://thehackernews.com/2026/01/experts-detect-pakistan-linked-cyber.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two cyber campaigns, Gopher Strike and Sheet Attack, have been identified targeting Indian government entities. These campaigns are linked to a Pakistan-based threat actor and employ sophisticated techniques to compromise systems and exfiltrate data.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 22, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

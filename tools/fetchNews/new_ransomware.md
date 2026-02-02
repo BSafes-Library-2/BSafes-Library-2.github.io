@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+January 30, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MongoDB Ransomware Is Still Actively Hitting Exposed Databases<a href="https://www.esecurityplanet.com/threats/mongodb-ransomware-is-still-actively-hitting-exposed-databases/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MongoDB ransomware continues to be a significant threat, primarily targeting exposed databases due to misconfigurations. Attackers exploit these vulnerabilities by scanning for open MongoDB instances, deleting data, and demanding ransoms.
+</details>
+<div style="text-align: right" markdown="1">
+ESecurity Planet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 23, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

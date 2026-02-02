@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+January 31, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Supply chain attack on eScan antivirus: detecting and remediating malicious updates<a href="https://securelist.com/escan-supply-chain-attack/118688/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A supply chain attack targeted eScan antivirus software, distributing malware through its update server. The attack involved a malicious file that initiated a multi-stage infection chain.
+</details>
+<div style="text-align: right" markdown="1">
+Secure List
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 30, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Op Bizarre Bazaar: New LLMjacking Campaign Targets Unprotected Models<a href="https://hackread.com/operation-bizarre-bazaar-llmjacking-unprotected-models/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Operation Bizarre Bazaar is a significant cyberattack campaign targeting AI systems to steal compute power and resell access. The campaign, led by a hacker known as Hecker, involves exploiting unprotected AI models, particularly those using MCP.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 28, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

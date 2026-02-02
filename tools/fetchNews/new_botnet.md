@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+January 31, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aisuru botnet sets new record with 31.4 Tbps DDoS attack<a href="https://www.bleepingcomputer.com/news/security/aisuru-botnet-sets-new-record-with-314-tbps-ddos-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Aisuru botnet has set a new record with a massive DDoS attack, peaking at 31.4 Tbps and 200 million requests per second. This unprecedented attack targeted multiple companies, primarily in the telecommunications sector.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 17, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

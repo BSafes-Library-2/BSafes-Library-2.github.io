@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+January 31, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ShinyHunters claims it stole10M records from dating apps<a href="https://www.theregister.com/2026/01/29/shinyhunters_match_group/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ShinyHunters, a notorious extortion group, has claimed responsibility for a data breach affecting Match Group, a company that owns popular dating platforms such as Hinge, Match.com, and OkCupid. The breach reportedly involves over 10 million records.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 31, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher’s Notebook: Inside the EmEditor supply chain compromise<a href="https://www.reversinglabs.com/blog/emeditor-supply-chain-compromise?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The EmEditor supply chain compromise involved tampering with Windows Installer (MSI) packages to embed malicious scripts. The attackers used look-alike domains and command-and-control (C2) infrastructure to execute their operations.
+</details>
+<div style="text-align: right" markdown="1">
+Reversing Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 30, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Marquis blames ransomware breach on SonicWall cloud backup hack<a href="https://www.bleepingcomputer.com/news/security/marquis-blames-ransomware-breach-on-sonicwall-cloud-backup-hack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Marquis Software Solutions, a financial services provider, experienced a ransomware attack attributed to a breach of SonicWall's cloud backup service. This incident affected numerous U.S. banks and credit unions.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 28, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

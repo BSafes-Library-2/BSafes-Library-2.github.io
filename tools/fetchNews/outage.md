@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+January 28, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian security systems firm Delta hit by cyberattack, services disrupted<a href="https://therecord.media/russia-delta-security-alarm-company-cyberattack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Delta, a prominent Russian provider of alarm and security systems, has experienced a significant cyberattack, leading to widespread service disruptions. The attack, described as large-scale and coordinated, has affected the company's operations.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 26, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
