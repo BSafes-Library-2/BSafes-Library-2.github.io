@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 28, 2026
+January 31, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aisuru botnet sets new record with 31.4 Tbps DDoS attack<a href="https://www.bleepingcomputer.com/news/security/aisuru-botnet-sets-new-record-with-314-tbps-ddos-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Aisuru botnet has set a new record with a massive DDoS attack, peaking at 31.4 Tbps and 200 million requests per second. This unprecedented attack targeted multiple companies, primarily in the telecommunications sector.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 31, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Supply chain attack on eScan antivirus: detecting and remediating malicious updates<a href="https://securelist.com/escan-supply-chain-attack/118688/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A supply chain attack targeted eScan antivirus software, distributing malware through its update server. The attack involved a malicious file that initiated a multi-stage infection chain.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 31, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ShinyHunters claims it stole10M records from dating apps<a href="https://www.theregister.com/2026/01/29/shinyhunters_match_group/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ShinyHunters, a notorious extortion group, has claimed responsibility for a data breach affecting Match Group, a company that owns popular dating platforms such as Hinge, Match.com, and OkCupid. The breach reportedly involves over 10 million records.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 31, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher’s Notebook: Inside the EmEditor supply chain compromise<a href="https://www.reversinglabs.com/blog/emeditor-supply-chain-compromise?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The EmEditor supply chain compromise involved tampering with Windows Installer (MSI) packages to embed malicious scripts. The attackers used look-alike domains and command-and-control (C2) infrastructure to execute their operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyble Research Discovers ShadowHS, an In-Memory Linux Framework for Long-Term Access<a href="https://thecyberexpress.com/shadowhs-fileless-linux-exploitation-framework/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ShadowHS is an advanced fileless Linux exploitation framework designed for stealthy, in-memory operations. It enables attackers to maintain long-term access to compromised systems without leaving persistent traces.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Marquis blames ransomware breach on SonicWall cloud backup hack<a href="https://www.bleepingcomputer.com/news/security/marquis-blames-ransomware-breach-on-sonicwall-cloud-backup-hack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Marquis Software Solutions, a financial services provider, experienced a ransomware attack attributed to a breach of SonicWall's cloud backup service. This incident affected numerous U.S. banks and credit unions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Op Bizarre Bazaar: New LLMjacking Campaign Targets Unprotected Models<a href="https://hackread.com/operation-bizarre-bazaar-llmjacking-unprotected-models/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Operation Bizarre Bazaar is a significant cyberattack campaign targeting AI systems to steal compute power and resell access. The campaign, led by a hacker known as Hecker, involves exploiting unprotected AI models, particularly those using MCP.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ivanti warns of two EPMM flaws exploited in zero-day attacks<a href="https://www.bleepingcomputer.com/news/security/ivanti-warns-of-two-epmm-flaws-exploited-in-zero-day-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ivanti has disclosed two critical zero-day vulnerabilities in Ivanti EPMM, identified as CVE-2026-1281 and CVE-2026-1340. These vulnerabilities allow remote attackers to execute arbitrary code on vulnerable devices without authentication.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Researcher Finds Exposed Admin Panel for AI Toy<a href="https://thecyberexpress.com/security-researcher-finds-ai-toy-admin-panel/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical security vulnerability was discovered in the Bondu AI toy, where an exposed admin panel allowed unauthorized access to sensitive data, including children's personal information and conversation transcripts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MongoDB Ransomware Is Still Actively Hitting Exposed Databases<a href="https://www.esecurityplanet.com/threats/mongodb-ransomware-is-still-actively-hitting-exposed-databases/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MongoDB ransomware continues to be a significant threat, primarily targeting exposed databases due to misconfigurations. Attackers exploit these vulnerabilities by scanning for open MongoDB instances, deleting data, and demanding ransoms.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 28, 2026 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian security systems firm Delta hit by cyberattack, services disrupted<a href="https://therecord.media/russia-delta-security-alarm-company-cyberattack?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Russian security systems firm Delta hit by cyberattack, services disrupted<a hre
 Delta, a prominent Russian provider of alarm and security systems, has experienced a significant cyberattack, leading to widespread service disruptions. The attack, described as large-scale and coordinated, has affected the company's operations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 28, 2026
+January 28, 2026 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. CISA adds Microsoft Office, GNU InetUtils, SmarterTools SmarterMail, and Linux Kernel flaws to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/187375/security/u-s-cisa-adds-microsoft-office-gnu-inetutils-smartertools-smartermail-and-linux-kernel-flaws-to-its-known-exploited-vulnerabilities-catalog.html?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ U.S. CISA adds Microsoft Office, GNU InetUtils, SmarterTools SmarterMail, and Li
 CISA has added several critical vulnerabilities to its Known Exploited Vulnerabilities catalog. These vulnerabilities affect Microsoft Office, GNU InetUtils, SmarterTools SmarterMail, and the Linux Kernel.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 28, 2026
+January 28, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pyodide Sandbox Escape Enables Remote Code Execution in Grist-Core<a href="https://www.infosecurity-magazine.com/news/pyodide-sandbox-escape-rce-grist/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Pyodide Sandbox Escape Enables Remote Code Execution in Grist-Core<a href="https
 A critical vulnerability in Grist-Core's Pyodide WebAssembly sandbox allows remote code execution (RCE) through malicious spreadsheet formulas. This flaw, with a CVSS score of 9.1, has been patched.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosesecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 28, 2026
+January 28, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical sandbox escape flaw found in popular vm2 NodeJS library<a href="https://www.bleepingcomputer.com/news/security/critical-sandbox-escape-flaw-discovered-in-popular-vm2-nodejs-library/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Critical sandbox escape flaw found in popular vm2 NodeJS library<a href="https:/
 A critical vulnerability, CVE-2026-22709, has been identified in the vm2 Node.js sandbox library, which allows attackers to escape the sandbox and execute arbitrary code on the host system.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 28, 2026
+January 28, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nike investigates data breach after extortion gang leaks files<a href="https://www.bleepingcomputer.com/news/security/nike-investigates-data-breach-after-extortion-gang-leaks-files/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Nike investigates data breach after extortion gang leaks files<a href="https://w
 Nike is investigating a potential cybersecurity incident after World Leaks claimed to have stolen and leaked 1.4TB of corporate data, including nearly 190,000 files related to business operations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 28, 2026
+January 28, 2026 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Detect Pakistan-Linked Cyber Campaigns Aimed at Indian Government Entities<a href="https://thehackernews.com/2026/01/experts-detect-pakistan-linked-cyber.html?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Experts Detect Pakistan-Linked Cyber Campaigns Aimed at Indian Government Entiti
 Two cyber campaigns, Gopher Strike and Sheet Attack, have been identified targeting Indian government entities. These campaigns are linked to a Pakistan-based threat actor and employ sophisticated techniques to compromise systems and exfiltrate data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 28, 2026
+January 28, 2026 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals and nation-state groups are exploiting a six-month old WinRAR defect<a href="https://cyberscoop.com/winrar-defect-active-exploits-google-threat-intel/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Cybercriminals and nation-state groups are exploiting a six-month old WinRAR def
 A critical path-traversal vulnerability in WinRAR is being actively exploited by nation-state groups. The vulnerability, disclosed and patched six months ago, continues to be a target for espionage and financially motivated attacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyber Scoop
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 28, 2026
+January 28, 2026 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 There’s a rash of scam spam coming from a real Microsoft address<a href="https://arstechnica.com/information-technology/2026/01/theres-a-rash-of-scam-spam-coming-from-a-real-microsoft-address/?&web_view=true"> Full Text</a>
@@ -156,29 +316,29 @@ There’s a rash of scam spam coming from a real Microsoft address<a href="https
 A recent phishing scam has been identified, exploiting a legitimate Microsoft email address to deliver scam emails. This advisory provides details on the scam's operation and its implications.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Ars Technica
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2026
+January 27, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emergency Microsoft update fixes in-the-wild Office zero-day<a href="https://securityaffairs.com/187349/hacking/emergency-microsoft-update-fixes-in-the-wild-office-zero-day.html?&web_view=true"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-Microsoft has released an emergency update to address a critical 0-day bugaffecting Microsoft Office 2016–2024 and Microsoft 365 Apps. This bug is actively exploited in the wild and allows attackers to bypass security features.
+Microsoft has released an emergency update to address a critical 0-day bug affecting Microsoft Office 2016–2024 and Microsoft 365 Apps. This bug is actively exploited in the wild and allows attackers to bypass security features.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2026
+January 27, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals say they sold data stolen from US medical manufacturer<a href="https://www.comparitech.com/news/cybercriminals-say-they-sold-data-stolen-from-us-medical-manufacturer/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Cybercriminals say they sold data stolen from US medical manufacturer<a href="ht
 A significant data breach at Cytek Biosciences, a medical manufacturer based in Fremont, California, has been attributed to the ransomware group Rhysida. This breach has compromised sensitive personal and financial information of 331 individuals.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CompariTech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
