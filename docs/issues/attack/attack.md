@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+February 2, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-Linked RedKitten Cyber Campaign Targets Human Rights NGOs and Activists<a href="https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The RedKitten cyber campaign, attributed to a Farsi-speaking threat actor aligned with Iranian state interests, targets NGOs and individuals documenting human rights abuses in Iran.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 31, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -1,4 +1,4 @@
--
+---
 layout: default
 title: Welcome 
 nav_order: 1
@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2026
+February 2, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 California tribal clinics warn patients of data breach that leaked SSNs and medical info<a href="https://www.comparitech.com/news/california-tribal-clinics-warn-patients-of-data-breach-that-leaked-ssns-and-medical-info/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ California tribal clinics warn patients of data breach that leaked SSNs and medi
 A data breach has occurred at the MACT Health Board, affecting several clinics in California's Sierra Foothills. The breach, attributed to the ransomware group Rhysida, has compromised sensitive personal and medical information of patients.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CompariTech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2026
+February 2, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Shadow Directories: A Unique Method to Hijack WordPress Permalinks<a href="https://blog.sucuri.net/2026/01/shadow-directories-a-unique-method-to-hijack-wordpress-permalinks.html?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Shadow Directories: A Unique Method to Hijack WordPress Permalinks<a href="https
 A new method of hijacking WordPress permalinks involves the creation of shadow directories. This technique allows attackers to inject spam content into search engine results without altering the visible content on the website or its database.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sucuri
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2026
+February 2, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Privileged File System Vulnerability Present in a SCADA System<a href="https://unit42.paloaltonetworks.com/iconics-suite-cve-2025-0921/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Privileged File System Vulnerability Present in a SCADA System<a href="https://u
 A vulnerability identified as CVE-2025-0921 has been discovered in the Iconics Suite, a SCADA system used for industrial process control. This vulnerability allows for execution with unnecessary privileges, potentially leading to a DoS condition.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Palo Alto Network
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2026
+February 2, 2026 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iran-Linked RedKitten Cyber Campaign Targets Human Rights NGOs and Activists<a href="https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Iran-Linked RedKitten Cyber Campaign Targets Human Rights NGOs and Activists<a h
 The RedKitten cyber campaign, attributed to a Farsi-speaking threat actor aligned with Iranian state interests, targets NGOs and individuals documenting human rights abuses in Iran.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2026
+February 2, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CrossCurve Bridge Hacked for $3M After Smart Contract Validation Vulnerability Exploited<a href="https://thecyberexpress.com/crosscurve-bridge-3m-cyberattack/?&web_view=true"> Full Text</a>
@@ -108,7 +108,7 @@ CrossCurve Bridge Hacked for $3M After Smart Contract Validation Vulnerability E
 The CrossCurve bridge suffered a cyberattack resulting in a $3 million loss. Attackers exploited a vulnerability in the smart contract infrastructure, specifically a gateway validation bypass within the ReceiverAxelar contract.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

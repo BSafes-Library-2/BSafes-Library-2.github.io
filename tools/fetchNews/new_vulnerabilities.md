@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 2, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shadow Directories: A Unique Method to Hijack WordPress Permalinks<a href="https://blog.sucuri.net/2026/01/shadow-directories-a-unique-method-to-hijack-wordpress-permalinks.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new method of hijacking WordPress permalinks involves the creation of shadow directories. This technique allows attackers to inject spam content into search engine results without altering the visible content on the website or its database.
+</details>
+<div style="text-align: right" markdown="1">
+Sucuri
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 2, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Privileged File System Vulnerability Present in a SCADA System<a href="https://unit42.paloaltonetworks.com/iconics-suite-cve-2025-0921/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability identified as CVE-2025-0921 has been discovered in the Iconics Suite, a SCADA system used for industrial process control. This vulnerability allows for execution with unnecessary privileges, potentially leading to a DoS condition.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Network
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 30, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

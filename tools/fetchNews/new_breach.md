@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+February 2, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+California tribal clinics warn patients of data breach that leaked SSNs and medical info<a href="https://www.comparitech.com/news/california-tribal-clinics-warn-patients-of-data-breach-that-leaked-ssns-and-medical-info/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A data breach has occurred at the MACT Health Board, affecting several clinics in California's Sierra Foothills. The breach, attributed to the ransomware group Rhysida, has compromised sensitive personal and medical information of patients.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 2, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CrossCurve Bridge Hacked for $3M After Smart Contract Validation Vulnerability Exploited<a href="https://thecyberexpress.com/crosscurve-bridge-3m-cyberattack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CrossCurve bridge suffered a cyberattack resulting in a $3 million loss. Attackers exploited a vulnerability in the smart contract infrastructure, specifically a gateway validation bypass within the ReceiverAxelar contract.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 31, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
