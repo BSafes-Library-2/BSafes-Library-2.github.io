@@ -1,4 +1,4 @@
--
+---
 layout: default
 title: Welcome 
 nav_order: 1
@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2026
+February 4, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Seattle-area neurologist warns 13,500 people of data breach that leaked SSNs, medical info<a href="https://www.comparitech.com/news/seattle-area-neurologist-warns-13500-people-of-data-breach-that-leaked-ssns-medical-info/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A data breach has occurred at Neurological Associates of Washington, affecting 13,500 individuals. The breach involved the theft of sensitive information, including Social Security numbers and medical records, by the ransomware group DragonForce.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 4, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. CISA adds SolarWinds Web Help Desk, Sangoma FreePBX, and GitLab flaws to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/187592/security/u-s-cisa-adds-solarwinds-web-help-desk-sangoma-freepbx-and-gitlab-flaws-to-its-known-exploited-vulnerabilities-catalog.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has added several critical vulnerabilities to its Known Exploited Vulnerabilities catalog. These vulnerabilities affect SolarWinds Web Help Desk, Sangoma FreePBX, and GitLab, posing significant security risks to affected systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 4, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Foxit Releases Security Updates for PDF Editor Cloud XSS Vulnerabilities<a href="https://thecyberexpress.com/foxit-pdf-editor-xss-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Foxit Software has addressed multiple cross-site scripting (XSS) vulnerabilities in Foxit PDF Editor Cloud and Foxit eSign. These vulnerabilities could allow attackers to execute arbitrary JavaScript within a user's browser.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 4, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns Python Infostealers Target macOS via Fake Ads and Installers<a href="https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has identified a growing threat where Python-based infostealers are targeting macOS environments. These attacks exploit cross-platform capabilities and trusted platforms to distribute malware at scale.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 4, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How fake party invitations are being used to install remote access tools<a href="https://www.malwarebytes.com/blog/threat-intel/2026/02/how-fake-party-invitations-are-being-used-to-install-remote-access-tools?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated social engineering campaign is targeting Windows users in the UK by using fake party invitations to install ScreenConnect, a legitimate remote access tool, for malicious purposes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 3, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hackers exploit recently patched Microsoft Office bug in attacks<a href="https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-recently-patched-microsoft-office-bug-in-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APT28 is actively exploiting a recently patched vulnerability in Microsoft Office, identified as CVE-2026-21509. This zero-day flaw is being used to target Ukrainian government entities and potentially extends to EU-based organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 3, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Portland, ME schools warn 12,000+ people of data breach that leaked SSNs, financial and medical info<a href="https://www.comparitech.com/news/portland-me-schools-warn-12000-people-of-data-breach-that-leaked-ssns-financial-and-medical-info/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Portland Public Schools in Maine has confirmed a data breach affecting over 12,000 individuals, compromising sensitive personal information. The breach was claimed by the ransomware group RansomHub, known for targeting educational institutions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 3, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colorado clinic warns 65,000+ people of data breach that leaked SSNs, credit cards, and medical info<a href="https://www.comparitech.com/news/colorado-clinic-warns-65000-people-of-data-breach-that-leaked-ssns-credit-cards-and-medical-info/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant data breach at Alpine Ear, Nose & Throat has compromised the personal information of over 65,000 individuals. The breach, attributed to the ransomware group BianLian, involved the theft of sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 3, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Notepad++ hijacking linked to Chinese Lotus Blossom crew<a href="https://www.theregister.com/2026/02/02/notepad_hijacking_lotus_blossom/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated malware campaign leveraging Pulsar RAT has been identified, targeting Windows systems. This campaign employs advanced techniques to evade detection and maintain persistent access, posing a significant threat to affected systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 3, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Panera Bread breach affected 5.1 Million accounts, HIBP Confirms<a href="https://securityaffairs.com/187556/data-breach/panera-bread-breach-affected-5-1-million-accounts-hibp-confirms.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Panera Bread has confirmed a data breach affecting 5.1 million accounts, significantly fewer than the initially reported 14 million. The breach involved the exposure of contact information, including email addresses and physical addresses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 2, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 California tribal clinics warn patients of data breach that leaked SSNs and medical info<a href="https://www.comparitech.com/news/california-tribal-clinics-warn-patients-of-data-breach-that-leaked-ssns-and-medical-info/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ California tribal clinics warn patients of data breach that leaked SSNs and medi
 A data breach has occurred at the MACT Health Board, affecting several clinics in California's Sierra Foothills. The breach, attributed to the ransomware group Rhysida, has compromised sensitive personal and medical information of patients.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CompariTech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2026
+February 2, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Shadow Directories: A Unique Method to Hijack WordPress Permalinks<a href="https://blog.sucuri.net/2026/01/shadow-directories-a-unique-method-to-hijack-wordpress-permalinks.html?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Shadow Directories: A Unique Method to Hijack WordPress Permalinks<a href="https
 A new method of hijacking WordPress permalinks involves the creation of shadow directories. This technique allows attackers to inject spam content into search engine results without altering the visible content on the website or its database.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sucuri
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2026
+February 2, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Privileged File System Vulnerability Present in a SCADA System<a href="https://unit42.paloaltonetworks.com/iconics-suite-cve-2025-0921/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Privileged File System Vulnerability Present in a SCADA System<a href="https://u
 A vulnerability identified as CVE-2025-0921 has been discovered in the Iconics Suite, a SCADA system used for industrial process control. This vulnerability allows for execution with unnecessary privileges, potentially leading to a DoS condition.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Palo Alto Network
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2026
+February 2, 2026 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iran-Linked RedKitten Cyber Campaign Targets Human Rights NGOs and Activists<a href="https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Iran-Linked RedKitten Cyber Campaign Targets Human Rights NGOs and Activists<a h
 The RedKitten cyber campaign, attributed to a Farsi-speaking threat actor aligned with Iranian state interests, targets NGOs and individuals documenting human rights abuses in Iran.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2026
+February 2, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CrossCurve Bridge Hacked for $3M After Smart Contract Validation Vulnerability Exploited<a href="https://thecyberexpress.com/crosscurve-bridge-3m-cyberattack/?&web_view=true"> Full Text</a>
@@ -108,7 +268,7 @@ CrossCurve Bridge Hacked for $3M After Smart Contract Validation Vulnerability E
 The CrossCurve bridge suffered a cyberattack resulting in a $3 million loss. Attackers exploited a vulnerability in the smart contract infrastructure, specifically a gateway validation bypass within the ReceiverAxelar contract.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
