@@ -8,6 +8,62 @@ nav_order: 900029
 
 ## Breach
 ---
+February 4, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Seattle-area neurologist warns 13,500 people of data breach that leaked SSNs, medical info<a href="https://www.comparitech.com/news/seattle-area-neurologist-warns-13500-people-of-data-breach-that-leaked-ssns-medical-info/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A data breach has occurred at Neurological Associates of Washington, affecting 13,500 individuals. The breach involved the theft of sensitive information, including Social Security numbers and medical records, by the ransomware group DragonForce.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 3, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Portland, ME schools warn 12,000+ people of data breach that leaked SSNs, financial and medical info<a href="https://www.comparitech.com/news/portland-me-schools-warn-12000-people-of-data-breach-that-leaked-ssns-financial-and-medical-info/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Portland Public Schools in Maine has confirmed a data breach affecting over 12,000 individuals, compromising sensitive personal information. The breach was claimed by the ransomware group RansomHub, known for targeting educational institutions.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 3, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colorado clinic warns 65,000+ people of data breach that leaked SSNs, credit cards, and medical info<a href="https://www.comparitech.com/news/colorado-clinic-warns-65000-people-of-data-breach-that-leaked-ssns-credit-cards-and-medical-info/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant data breach at Alpine Ear, Nose &amp; Throat has compromised the personal information of over 65,000 individuals. The breach, attributed to the ransomware group BianLian, involved the theft of sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 3, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Panera Bread breach affected 5.1 Million accounts, HIBP Confirms<a href="https://securityaffairs.com/187556/data-breach/panera-bread-breach-affected-5-1-million-accounts-hibp-confirms.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Panera Bread has confirmed a data breach affecting 5.1 million accounts, significantly fewer than the initially reported 14 million. The breach involved the exposure of contact information, including email addresses and physical addresses.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 2, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

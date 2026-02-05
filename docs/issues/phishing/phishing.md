@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+February 4, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns Python Infostealers Target macOS via Fake Ads and Installers<a href="https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has identified a growing threat where Python-based infostealers are targeting macOS environments. These attacks exploit cross-platform capabilities and trusted platforms to distribute malware at scale.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 4, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How fake party invitations are being used to install remote access tools<a href="https://www.malwarebytes.com/blog/threat-intel/2026/02/how-fake-party-invitations-are-being-used-to-install-remote-access-tools?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated social engineering campaign is targeting Windows users in the UK by using fake party invitations to install ScreenConnect, a legitimate remote access tool, for malicious purposes.
+</details>
+<div style="text-align: right" markdown="1">
+Malware Bytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 28, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
