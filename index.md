@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 5, 2026
+February 5, 2026 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hugging Face abused to spread thousands of Android malware variants<a href="https://www.bleepingcomputer.com/news/security/hugging-face-abused-to-spread-thousands-of-android-malware-variants/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Hugging Face abused to spread thousands of Android malware variants<a href="http
 A recent Android malware campaign has been identified, exploiting the Hugging Face platform to distribute thousands of malicious APK variants. The malware, disguised as a security tool named TrustBastion.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 5, 2026
+February 5, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Notepad++ users take note: It’s time to check if you’re hacked<a href="https://arstechnica.com/security/2026/02/notepad-updater-was-compromised-for-6-months-in-supply-chain-attack/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Notepad++ users take note: It’s time to check if you’re hacked<a href="https
 A critical security breach has been identified in the update infrastructure of Notepad++, a widely used text editor for Windows. The breach, attributed to suspected Chinese state hackers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ArsTechnica
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 5, 2026
+February 5, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Major vulnerabilities found in Google Looker, putting self-hosted deployments at risk<a href="https://www.helpnetsecurity.com/2026/02/04/google-looker-vulnerabilities-cve-2025-12743/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Major vulnerabilities found in Google Looker, putting self-hosted deployments at
 Two critical vulnerabilities, collectively known as "LookOut," have been identified in Google Looker, a business intelligence platform used by over 60,000 organizations globally.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 5, 2026
+February 5, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exposed AWS Credentials Lead to AI-Assisted Cloud Breach in 8 Minutes<a href="https://hackread.com/8-minute-takeover-ai-hijack-cloud-access/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Exposed AWS Credentials Lead to AI-Assisted Cloud Breach in 8 Minutes<a href="ht
 A recent cloud breach highlights the dangers of exposed AWS credentials and AI-assisted attacks. An attacker gained full admin access to a company's cloud environment in just eight minutes.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 5, 2026
+February 5, 2026 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA warns of five-year-old GitLab flaw exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-of-five-year-old-gitlab-flaw-exploited-in-attacks/?&web_view=true"> Full Text</a>
@@ -108,7 +108,7 @@ CISA warns of five-year-old GitLab flaw exploited in attacks<a href="https://www
 CISA issued a warning regarding a five-year-old GitLab vulnerability that is actively being exploited. CISA has urged all organizations, including those in the private sector, to prioritize securing their devices against these ongoing attacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

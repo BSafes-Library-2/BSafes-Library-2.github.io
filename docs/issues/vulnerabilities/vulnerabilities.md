@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 5, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major vulnerabilities found in Google Looker, putting self-hosted deployments at risk<a href="https://www.helpnetsecurity.com/2026/02/04/google-looker-vulnerabilities-cve-2025-12743/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two critical vulnerabilities, collectively known as "LookOut," have been identified in Google Looker, a business intelligence platform used by over 60,000 organizations globally.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 4, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

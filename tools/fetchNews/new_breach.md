@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+February 5, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Notepad++ users take note: It’s time to check if you’re hacked<a href="https://arstechnica.com/security/2026/02/notepad-updater-was-compromised-for-6-months-in-supply-chain-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical security breach has been identified in the update infrastructure of Notepad++, a widely used text editor for Windows. The breach, attributed to suspected Chinese state hackers.
+</details>
+<div style="text-align: right" markdown="1">
+ArsTechnica
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 5, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exposed AWS Credentials Lead to AI-Assisted Cloud Breach in 8 Minutes<a href="https://hackread.com/8-minute-takeover-ai-hijack-cloud-access/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent cloud breach highlights the dangers of exposed AWS credentials and AI-assisted attacks. An attacker gained full admin access to a company's cloud environment in just eight minutes.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 4, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
