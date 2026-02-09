@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2026
+February 6, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why a decade-old EnCase driver still works as an EDR killer<a href="https://www.helpnetsecurity.com/2026/02/05/edr-killer-vulnerable-encase-driver/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Why a decade-old EnCase driver still works as an EDR killer<a href="https://www.
 Attackers are exploiting a decade-old EnCase driver to disable 59 endpoint security products. The driver's certificate, issued on December 15, 2006, allows it to load on modern Windows systems due to Microsoft's backward compatibility policies.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2026
+February 6, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Romanian oil pipeline operator Conpet discloses cyberattack<a href="https://www.bleepingcomputer.com/news/security/romanian-oil-pipeline-operator-conpet-discloses-cyberattack-qilin-ransomware/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Romanian oil pipeline operator Conpet discloses cyberattack<a href="https://www.
 The Qilin ransomware gang, known for targeting high-profile organizations, has claimed responsibility for the cyberattack on Conpet, alleging the theft of nearly 1TB of data, including sensitive documents and financial information.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2026
+February 6, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Vulnerabilities in Ilevia EVE X1 Server Allow Remote Exploitation<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-036-04?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Critical Vulnerabilities in Ilevia EVE X1 Server Allow Remote Exploitation<a hre
 The Ilevia EVE X1 Server has been found to contain multiple critical vulnerabilities that could allow attackers to execute arbitrary commands, disclose sensitive information, and escalate privileges.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CISA
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2026
+February 6, 2026 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Technical Analysis of Marco Stealer<a href="https://www.zscaler.com/blogs/security-research/technical-analysis-marco-stealer?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Technical Analysis of Marco Stealer<a href="https://www.zscaler.com/blogs/securi
 Marco Stealer is a sophisticated information stealer targeting browser data, cryptocurrency wallets, and sensitive files. It employs advanced anti-analysis techniques and uses AES-256 encryption for secure C2 communication.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ZScalar
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2026
+February 6, 2026 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Italian university La Sapienza goes offline after cyberattack<a href="https://www.bleepingcomputer.com/news/security/italian-university-la-sapienza-goes-offline-after-cyberattack/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Italian university La Sapienza goes offline after cyberattack<a href="https://ww
 La Sapienza University, Europe's largest by in-campus students, has been hit by a ransomware attack attributed to the pro-Russian group Femwar02. The attack has led to significant disruptions, with IT systems offline and data encrypted.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2026
+February 6, 2026 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AISURU/Kimwolf Botnet Launches Record-Setting 31.4 Tbps DDoS Attack<a href="https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ AISURU/Kimwolf Botnet Launches Record-Setting 31.4 Tbps DDoS Attack<a href="http
 The AISURU/Kimwolf botnet has launched a record-setting DDoS attack, peaking at 31.4 Tbps. This attack is part of a significant increase in DDoS activity in 2025, with Cloudflare mitigating over 47.1 million attacks throughout the year.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2026
+February 6, 2026 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Adds Two Known Exploited Vulnerabilities to Catalog<a href="https://www.cisa.gov/news-events/alerts/2026/02/05/cisa-adds-two-known-exploited-vulnerabilities-catalog?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ CISA Adds Two Known Exploited Vulnerabilities to Catalog<a href="https://www.cis
 CISA has added two vulnerabilities, CVE-2025-11953 and CVE-2026-24423, to its Known Exploited Vulnerabilities (KEV) Catalog. These vulnerabilities are actively exploited and pose significant risks to federal enterprises.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CISA
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2026
+February 6, 2026 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spain's Ministry of Science shuts down systems after breach claims<a href="https://www.bleepingcomputer.com/news/security/spains-ministry-of-science-shuts-down-systems-after-breach-claims/?&web_view=true"> Full Text</a>
@@ -156,7 +156,7 @@ Spain's Ministry of Science shuts down systems after breach claims<a href="https
 Spain's Ministry of Science has partially shut down its IT systems following claims of a cyberattack. The Ministry cited a "technical incident" without confirming the attack.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

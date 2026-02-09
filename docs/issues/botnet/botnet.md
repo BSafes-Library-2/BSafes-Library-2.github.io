@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+February 6, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AISURU/Kimwolf Botnet Launches Record-Setting 31.4 Tbps DDoS Attack<a href="https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The AISURU/Kimwolf botnet has launched a record-setting DDoS attack, peaking at 31.4 Tbps. This attack is part of a significant increase in DDoS activity in 2025, with Cloudflare mitigating over 47.1 million attacks throughout the year.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 31, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

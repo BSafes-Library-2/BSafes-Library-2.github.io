@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 6, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why a decade-old EnCase driver still works as an EDR killer<a href="https://www.helpnetsecurity.com/2026/02/05/edr-killer-vulnerable-encase-driver/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are exploiting a decade-old EnCase driver to disable 59 endpoint security products. The driver's certificate, issued on December 15, 2006, allows it to load on modern Windows systems due to Microsoft's backward compatibility policies.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 6, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerabilities in Ilevia EVE X1 Server Allow Remote Exploitation<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-036-04?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ilevia EVE X1 Server has been found to contain multiple critical vulnerabilities that could allow attackers to execute arbitrary commands, disclose sensitive information, and escalate privileges.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 5, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
