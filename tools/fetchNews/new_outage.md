@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+February 9, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Payments platform BridgePay confirms ransomware attack behind outage<a href="https://www.bleepingcomputer.com/news/security/payments-platform-bridgepay-confirms-ransomware-attack-behind-outage/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BridgePay, a major U.S. payment gateway, has confirmed a ransomware attack that has caused a significant outage across its services. Initial forensic findings indicate that no payment card data has been compromised.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 6, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

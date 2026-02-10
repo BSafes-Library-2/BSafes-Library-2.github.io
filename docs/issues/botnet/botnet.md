@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+February 9, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Construction Firm Hit by Prometei Botnet Hiding in Windows Server<a href="https://hackread.com/uk-construction-firm-prometei-botnet-windows-server/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Prometei botnet, a Russian-linked threat active since 2016, has been identified in a UK construction firm's Windows Server. Known for mining Monero cryptocurrency, it also excels at stealing passwords and maintaining remote control over systems.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 6, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

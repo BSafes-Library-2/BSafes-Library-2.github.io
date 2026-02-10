@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2026
+February 9, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Birmingham mental health authority warns 30,000+ people of data breach that leaked SSNs and medical info<a href="https://www.comparitech.com/news/birmingham-mental-health-authority-warns-30000-people-of-data-breach-that-leaked-ssns-and-medical-info/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Birmingham mental health authority warns 30,000+ people of data breach that leak
 The Jefferson Blount St. Claire Mental Health Authority in Birmingham, Alabama, experienced a significant data breach in November 2025, affecting over 30,000 individuals.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CompariTech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2026
+February 9, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Flickr emails users about data breach, pins it on 3rd party<a href="https://www.theregister.com/2026/02/06/flickr_emails_users_about_data_breach/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Flickr emails users about data breach, pins it on 3rd party<a href="https://www.
 Flickr, a legacy image-sharing platform, has experienced a data breach affecting its global user base. Operating in 190 countries, Flickr has 35 million active users monthly, including 228,000 in Europe.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2026
+February 9, 2026 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 State-backed phishing attacks targeting military officials and journalists on Signal<a href="https://www.helpnetsecurity.com/2026/02/06/state-linked-phishing-europe-journalists-signal/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ State-backed phishing attacks targeting military officials and journalists on Si
 A state-backed hacking group is targeting military officials, journalists, and diplomats in Germany and Europe through phishing attacks on Signal. These attacks aim to gain unauthorized access to accounts by impersonating Signal support.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2026
+February 9, 2026 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Payments platform BridgePay confirms ransomware attack behind outage<a href="https://www.bleepingcomputer.com/news/security/payments-platform-bridgepay-confirms-ransomware-attack-behind-outage/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Payments platform BridgePay confirms ransomware attack behind outage<a href="htt
 BridgePay, a major U.S. payment gateway, has confirmed a ransomware attack that has caused a significant outage across its services. Initial forensic findings indicate that no payment card data has been compromised.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2026
+February 9, 2026 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK Construction Firm Hit by Prometei Botnet Hiding in Windows Server<a href="https://hackread.com/uk-construction-firm-prometei-botnet-windows-server/?&web_view=true"> Full Text</a>
@@ -108,7 +108,7 @@ UK Construction Firm Hit by Prometei Botnet Hiding in Windows Server<a href="htt
 The Prometei botnet, a Russian-linked threat active since 2016, has been identified in a UK construction firm's Windows Server. Known for mining Monero cryptocurrency, it also excels at stealing passwords and maintaining remote control over systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
