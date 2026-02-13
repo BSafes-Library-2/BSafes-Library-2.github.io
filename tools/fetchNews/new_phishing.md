@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+February 11, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pride Month Phishing Targets Employees via Trusted Email Services<a href="https://hackread.com/pride-month-phishing-employees-trusted-email-services/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phishing campaign began in December 2025, initially targeting 504 organizations primarily in the financial services and consulting sectors as part of a testing phase.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 11, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean hackers targeted crypto exec with fake Zoom meeting, ClickFix scam<a href="https://therecord.media/north-korean-hackers-targeted-crypto-exec-clickfix?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean hackers, identified as UNC1069, targeted a cryptocurrency executive using a fake Zoom meeting and ClickFix scam. The attack aimed to enable cryptocurrency theft and fuel future social engineering campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 9, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

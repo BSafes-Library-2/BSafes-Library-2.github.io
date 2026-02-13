@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 12, 2026
+February 12, 2026 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Releases Two Industrial Control Systems Advisories<a href="https://www.cisa.gov/news-events/alerts/2025/12/30/cisa-releases-two-industrial-control-systems-advisories?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ CISA Releases Two Industrial Control Systems Advisories<a href="https://www.cisa
 CISA has released two new ICS advisories on December 30, 2025. These advisories address vulnerabilities in WHILL C2 Wheelchairs and AzeoTech DAQFactory, providing critical information on current security issues and exploits.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CISA
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 12, 2026
+February 12, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple fixes zero-day flaw used in 'extremely sophisticated' attacks<a href="https://www.bleepingcomputer.com/news/security/apple-fixes-zero-day-flaw-used-in-extremely-sophisticated-attacks/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Apple fixes zero-day flaw used in 'extremely sophisticated' attacks<a href="http
 Apple has addressed a zero-day vulnerability, CVE-2026-20700, in its Dynamic Link Editor (dyld), which was exploited in highly sophisticated attacks targeting specific individuals. This marks the first zero-day fix in 2026.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 12, 2026
+February 12, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Georgia healthcare company data breach impacts more than 620,000<a href="https://therecord.media/georgia-healthcare-company-data-breach-impacts-620000?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Georgia healthcare company data breach impacts more than 620,000<a href="https:/
 A significant data breach at ApolloMD, a Georgia-based healthcare provider, occurred between May 22 and May 23, 2025, compromising the sensitive information of 626,540 individuals. The breach was executed by the Qilin ransomware gang.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 12, 2026
+February 12, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Volvo Group hit in massive Conduent data breach<a href="https://securityaffairs.com/187875/security/volvo-group-hit-in-massive-conduent-data-breach.html?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Volvo Group hit in massive Conduent data breach<a href="https://securityaffairs.
 A significant data breach at Conduent has impacted over 25 million individuals, including 17,000 employees of Volvo Group North America. The breach exposed sensitive personal data, making it one of the largest breaches in recent history.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 12, 2026
+February 12, 2026 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crazy ransomware gang abuses employee monitoring tool in attacks<a href="https://www.bleepingcomputer.com/news/security/crazy-ransomware-gang-abuses-employee-monitoring-tool-in-attacks/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Crazy ransomware gang abuses employee monitoring tool in attacks<a href="https:/
 The Crazy ransomware gang is exploiting legitimate employee monitoring software and the SimpleHelp remote support tool to maintain persistence in corporate networks, evade detection, and prepare for ransomware deployment.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 12, 2026
+February 12, 2026 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 First Malicious Outlook Add-In Found Stealing 4,000+ Microsoft Credentials<a href="https://thehackernews.com/2026/02/first-malicious-outlook-add-in-found.html?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ First Malicious Outlook Add-In Found Stealing 4,000+ Microsoft Credentials<a hre
 The "AgreeToSteal" attack marks the first known instance of a malicious Microsoft Outlook add-in in the wild, exploiting the abandoned "AgreeTo" add-in to steal over 4,000 Microsoft credentials.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 11, 2026
+February 11, 2026 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pride Month Phishing Targets Employees via Trusted Email Services<a href="https://hackread.com/pride-month-phishing-employees-trusted-email-services/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Pride Month Phishing Targets Employees via Trusted Email Services<a href="https:
 The phishing campaign began in December 2025, initially targeting 504 organizations primarily in the financial services and consulting sectors as part of a testing phase.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 11, 2026
+February 11, 2026 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ZeroDayRAT malware grants full access to Android, iOS devices<a href="https://www.bleepingcomputer.com/news/security/zerodayrat-malware-grants-full-access-to-android-ios-devices/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ ZeroDayRAT malware grants full access to Android, iOS devices<a href="https://ww
 ZeroDayRAT is a sophisticated mobile spyware platform targeting Android and iOS devices, offering cybercriminals full remote control. It poses significant risks to both individuals and enterprises
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 11, 2026
+February 11, 2026 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Poland Energy Sector Cyber Incident Highlights OT and ICS Security Gaps<a href="https://www.cisa.gov/news-events/alerts/2026/02/10/poland-energy-sector-cyber-incident-highlights-ot-and-ics-security-gaps?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Poland Energy Sector Cyber Incident Highlights OT and ICS Security Gaps<a href="
 A cyber incident in Poland's energy sector targeted OT and ICS systems, affecting renewable energy plants, a combined heat and power plant, and a manufacturing company. The attack exploited vulnerable edge devices.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CISA
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 11, 2026
+February 11, 2026 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean hackers targeted crypto exec with fake Zoom meeting, ClickFix scam<a href="https://therecord.media/north-korean-hackers-targeted-crypto-exec-clickfix?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ North Korean hackers targeted crypto exec with fake Zoom meeting, ClickFix scam<
 North Korean hackers, identified as UNC1069, targeted a cryptocurrency executive using a fake Zoom meeting and ClickFix scam. The attack aimed to enable cryptocurrency theft and fuel future social engineering campaigns.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+February 12, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Georgia healthcare company data breach impacts more than 620,000<a href="https://therecord.media/georgia-healthcare-company-data-breach-impacts-620000?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant data breach at ApolloMD, a Georgia-based healthcare provider, occurred between May 22 and May 23, 2025, compromising the sensitive information of 626,540 individuals. The breach was executed by the Qilin ransomware gang.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 12, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Volvo Group hit in massive Conduent data breach<a href="https://securityaffairs.com/187875/security/volvo-group-hit-in-massive-conduent-data-breach.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant data breach at Conduent has impacted over 25 million individuals, including 17,000 employees of Volvo Group North America. The breach exposed sensitive personal data, making it one of the largest breaches in recent history.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 9, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

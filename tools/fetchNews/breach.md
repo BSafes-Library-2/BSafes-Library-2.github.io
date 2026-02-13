@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+February 9, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Birmingham mental health authority warns 30,000+ people of data breach that leaked SSNs and medical info<a href="https://www.comparitech.com/news/birmingham-mental-health-authority-warns-30000-people-of-data-breach-that-leaked-ssns-and-medical-info/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Jefferson Blount St. Claire Mental Health Authority in Birmingham, Alabama, experienced a significant data breach in November 2025, affecting over 30,000 individuals.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 9, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flickr emails users about data breach, pins it on 3rd party<a href="https://www.theregister.com/2026/02/06/flickr_emails_users_about_data_breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Flickr, a legacy image-sharing platform, has experienced a data breach affecting its global user base. Operating in 190 countries, Flickr has 35 million active users monthly, including 228,000 in Europe.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 6, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
