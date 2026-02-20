@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 20, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerabilities in Jinan USR IOT Technology Limited (PUSR) USR-W610<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-050-03?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple critical vulnerabilities have been identified in the Jinan USR IOT Technology Limited (PUSR) USR-W610 device, potentially allowing unauthorized access and denial-of-service attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 20, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+better-auth Flaw Allows Unauthenticated API Key Creation<a href="https://www.esecurityplanet.com/threats/better-auth-flaw-allows-unauthenticated-api-key-creation/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in the better-auth library allows unauthenticated attackers to create API keys for arbitrary users, posing a significant risk of account takeover and MFA bypass.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 20, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crims hit a $20M jackpot via malware-stuffed ATMs<a href="https://www.theregister.com/2026/02/19/crims_atm_jackpotting/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ATM jackpotting is a significant threat, with over $20 million stolen using malware-assisted techniques. The Ploutus malware exploits the XFS API, allowing attackers to dispense cash without bank authorization.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 20, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers warn Volt Typhoon still embedded in US utilities and some breaches may never be found<a href="https://therecord.media/researchers-warn-volt-typhoon-still-active-critical-infrastructure?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Volt Typhoon continues to target strategically important sites, maintaining long-term access to operational technology networks. This access could enable destructive cyberattacks aimed at slowing U.S. military mobilization.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 19, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Known Exploited Vulnerabilities Catalog<a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2024-7694?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability in TeamT5 ThreatSonar Anti-Ransomware allows remote attackers with administrator privileges to upload malicious files, potentially leading to arbitrary command execution on the server.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 19, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked crew embedded in US energy networks<a href="https://www.theregister.com/2026/02/17/volt_typhoon_dragos/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybersecurity landscape is increasingly threatened by state-sponsored groups, particularly from China and Russia, targeting critical infrastructure in the US. Notably, the Volt Typhoon group has been embedding malware in US energy networks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Abuse ScreenConnect to Hijack PCs via Fake Social Security Emails<a href="https://hackread.com/hackers-screenconnect-hijack-pcs-fake-social-security-emails/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are exploiting fake Social Security Administration (SSA) emails to hijack PCs by abusing the ScreenConnect tool. This attack does not rely on new viruses but rather on hijacking existing tools and weakening system defenses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Keenadu the tablet conqueror and the links between major Android botnets<a href="https://securelist.com/keenadu-android-backdoor/118913/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Keenadu is a sophisticated backdoor targeting Android devices by embedding itself into the firmware. It mirrors the behavior of the Triada backdoor, allowing attackers to control devices remotely and exfiltrate data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SmartLoader Attack Uses Trojanized Oura MCP Server to Deploy StealC Infostealer<a href="https://thehackernews.com/2026/02/smartloader-attack-uses-trojanized-oura.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The SmartLoader campaign involves a sophisticated attack using a trojanized Oura MCP server to deploy the StealC infostealer. Threat actors have invested months in building credibility by creating fake GitHub accounts and repositories.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers target supporters of Iran protests in new espionage campaign<a href="https://therecord.media/hackers-target-iran-protest-supporters-cyber-campaign?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberespionage campaign targets supporters of Iran's anti-government protests, focusing on Farsi-speaking Iranians, activists, and journalists. The campaign exploits the ongoing internet blackout in Iran and is linked to Iranian-aligned hackers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 12, 2026 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
