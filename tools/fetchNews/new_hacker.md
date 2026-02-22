@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+February 18, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers target supporters of Iran protests in new espionage campaign<a href="https://therecord.media/hackers-target-iran-protest-supporters-cyber-campaign?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberespionage campaign targets supporters of Iran's anti-government protests, focusing on Farsi-speaking Iranians, activists, and journalists. The campaign exploits the ongoing internet blackout in Iran and is linked to Iranian-aligned hackers.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 13, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

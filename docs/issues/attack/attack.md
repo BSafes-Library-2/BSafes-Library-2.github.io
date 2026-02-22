@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+February 18, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SmartLoader Attack Uses Trojanized Oura MCP Server to Deploy StealC Infostealer<a href="https://thehackernews.com/2026/02/smartloader-attack-uses-trojanized-oura.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The SmartLoader campaign involves a sophisticated attack using a trojanized Oura MCP server to deploy the StealC infostealer. Threat actors have invested months in building credibility by creating fake GitHub accounts and repositories.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 12, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

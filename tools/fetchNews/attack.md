@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+February 12, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crazy ransomware gang abuses employee monitoring tool in attacks<a href="https://www.bleepingcomputer.com/news/security/crazy-ransomware-gang-abuses-employee-monitoring-tool-in-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Crazy ransomware gang is exploiting legitimate employee monitoring software and the SimpleHelp remote support tool to maintain persistence in corporate networks, evade detection, and prepare for ransomware deployment.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 11, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poland Energy Sector Cyber Incident Highlights OT and ICS Security Gaps<a href="https://www.cisa.gov/news-events/alerts/2026/02/10/poland-energy-sector-cyber-incident-highlights-ot-and-ics-security-gaps?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber incident in Poland's energy sector targeted OT and ICS systems, affecting renewable energy plants, a combined heat and power plant, and a manufacturing company. The attack exploited vulnerable edge devices.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 3, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

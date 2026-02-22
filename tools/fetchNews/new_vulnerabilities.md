@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 20, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerabilities in Jinan USR IOT Technology Limited (PUSR) USR-W610<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-050-03?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple critical vulnerabilities have been identified in the Jinan USR IOT Technology Limited (PUSR) USR-W610 device, potentially allowing unauthorized access and denial-of-service attacks.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 20, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+better-auth Flaw Allows Unauthenticated API Key Creation<a href="https://www.esecurityplanet.com/threats/better-auth-flaw-allows-unauthenticated-api-key-creation/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in the better-auth library allows unauthenticated attackers to create API keys for arbitrary users, posing a significant risk of account takeover and MFA bypass.
+</details>
+<div style="text-align: right" markdown="1">
+ESecurity Planet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 12, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

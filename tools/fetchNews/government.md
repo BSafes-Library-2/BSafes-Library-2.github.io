@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+February 12, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Releases Two Industrial Control Systems Advisories<a href="https://www.cisa.gov/news-events/alerts/2025/12/30/cisa-releases-two-industrial-control-systems-advisories?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has released two new ICS advisories on December 30, 2025. These advisories address vulnerabilities in WHILL C2 Wheelchairs and AzeoTech DAQFactory, providing critical information on current security issues and exploits.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 6, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

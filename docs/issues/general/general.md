@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+February 20, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers warn Volt Typhoon still embedded in US utilities and some breaches may never be found<a href="https://therecord.media/researchers-warn-volt-typhoon-still-active-critical-infrastructure?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Volt Typhoon continues to target strategically important sites, maintaining long-term access to operational technology networks. This access could enable destructive cyberattacks aimed at slowing U.S. military mobilization.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 19, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked crew embedded in US energy networks<a href="https://www.theregister.com/2026/02/17/volt_typhoon_dragos/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybersecurity landscape is increasingly threatened by state-sponsored groups, particularly from China and Russia, targeting critical infrastructure in the US. Notably, the Volt Typhoon group has been embedding malware in US energy networks.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 20, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
