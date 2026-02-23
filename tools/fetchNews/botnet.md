@@ -8,6 +8,18 @@ nav_order: 900025
 
 ## Botnet
 ---
+February 18, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Keenadu the tablet conqueror and the links between major Android botnets<a href="https://securelist.com/keenadu-android-backdoor/118913/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Keenadu is a sophisticated backdoor targeting Android devices by embedding itself into the firmware. It mirrors the behavior of the Triada backdoor, allowing attackers to control devices remotely and exfiltrate data.
+</details>
+<div style="text-align: right" markdown="1">
+</div>
+---
 February 9, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

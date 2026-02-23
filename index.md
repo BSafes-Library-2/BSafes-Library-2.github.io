@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 20, 2026
+February 20, 2026 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Industrial-Scale Fake Coretax Apps Drive $2m Fraud in Indonesia<a href="https://www.infosecurity-magazine.com/news/fake-coretax-apps-fraud-indonesia/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Industrial-Scale Fake Coretax Apps Drive $2m Fraud in Indonesia<a href="https://
 A fraud campaign exploiting Indonesia's Coretax tax platform has resulted in financial losses of $1.5m to $2m. The operation identified 228 new malware samples and 996 phishing URLs, targeting a potential pool of 67 million Indonesian taxpayers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 20, 2026
+February 20, 2026 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Remcos RAT Expands Real-Time Surveillance Capabilities<a href="https://www.infosecurity-magazine.com/news/remcos-rat-expands-real-time/?&web_view=true"> Full Text</a>
@@ -60,23 +60,7 @@ Remcos RAT Expands Real-Time Surveillance Capabilities<a href="https://www.infos
 The Remcos RAT has evolved with new real-time surveillance capabilities and stronger evasion techniques. Originally a legitimate remote management tool, Remcos has been repurposed as a Remote Access Trojan.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 20, 2026
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Critical Vulnerability in Welker OdorEyes EcoSystem Pulse Bypass System<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-050-04?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-A critical vulnerability has been identified in the Welker OdorEyes EcoSystem Pulse Bypass System with XL4 Controller. This vulnerability, which lacks authentication for a critical function, could lead to over- or under-odorization events.
-</details>
-<div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magiazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
