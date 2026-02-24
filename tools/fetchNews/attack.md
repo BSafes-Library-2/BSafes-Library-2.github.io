@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+February 20, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Industrial-Scale Fake Coretax Apps Drive $2m Fraud in Indonesia<a href="https://www.infosecurity-magazine.com/news/fake-coretax-apps-fraud-indonesia/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A fraud campaign exploiting Indonesia's Coretax tax platform has resulted in financial losses of $1.5m to $2m. The operation identified 228 new malware samples and 996 phishing URLs, targeting a potential pool of 67 million Indonesian taxpayers.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 18, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

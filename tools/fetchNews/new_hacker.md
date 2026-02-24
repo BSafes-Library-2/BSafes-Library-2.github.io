@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+February 23, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP<a href="https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian hacking group known as MuddyWater has targeted several organizations and individuals mainly located across the Middle East and North Africa (MENA) region as part of a new campaign codenamed Operation Olalampo.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 18, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
