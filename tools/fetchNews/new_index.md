@@ -34,7 +34,87 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2026
+February 26, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Darktrace Flags 32 Million Phishing Emails in 2025 as Identity Attacks<a href="https://www.infosecurity-magazine.com/news/32m-phishing-emails-detected-2025/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data was collected by Darktrace from incidents across its global customer base and points to a year defined by automation, convergence and accelerating attacker speed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 26, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT37 Adds New Tools For Air-Gapped Networks<a href="https://www.zscaler.com/blogs/security-research/apt37-adds-new-capabilities-air-gapped-networks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ThreatLabz details the Ruby Jumper campaign in the following sections, focusing on the specific malware employed, the deployment methods, and how the final payload is delivered to achieve the ultimate objective.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 24, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japanese chip-testing toolmaker Advantest suffers ransomware attack<a href="https://www.helpnetsecurity.com/2026/02/23/advantest-suffers-ransomware-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japanese tech testing company Advantest has suffered a ransomware attack, the company confirmed last Thursday, after detecting unusual activity within its IT environment on February 15, 2026.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 24, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT28 Targeted European Entities Using Webhook-Based Macro Malware<a href="https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APT28, a Russia-linked state-sponsored threat actor, has been attributed to a campaign targeting selected entities across Western and Central Europe, active from September 2025 through January 2026, according to S2 Grupo’s LAB52 team.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 24, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious OpenClaw Skills Used to Distribute Atomic MacOS Stealer<a href="https://www.trendmicro.com/en_us/research/26/b/openclaw-skills-used-to-distribute-atomic-macos-stealer.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atomic (AMOS) Stealer has evolved from being distributed via cracked software to a more sophisticated supply chain attack that manipulates AI agentic workflows on platforms like OpenClaw.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2026 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP<a href="https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html?&web_view=true"> Full Text</a>
@@ -44,13 +124,13 @@ MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP<a href
 The Iranian hacking group known as MuddyWater has targeted several organizations and individuals mainly located across the Middle East and North Africa (MENA) region as part of a new campaign codenamed Operation Olalampo.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 20, 2026
+February 20, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Vulnerability in Welker OdorEyes EcoSystem Pulse Bypass System<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-050-04?&web_view=true"> Full Text</a>
@@ -60,7 +140,7 @@ Critical Vulnerability in Welker OdorEyes EcoSystem Pulse Bypass System<a href="
 A critical vulnerability has been identified in the Welker OdorEyes EcoSystem Pulse Bypass System with XL4 Controller. This vulnerability, which lacks authentication for a critical function, could lead to over- or under-odorization events.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CISA
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
