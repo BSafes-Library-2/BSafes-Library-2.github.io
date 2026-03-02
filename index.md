@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 26, 2026
+February 26, 2026 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Darktrace Flags 32 Million Phishing Emails in 2025 as Identity Attacks<a href="https://www.infosecurity-magazine.com/news/32m-phishing-emails-detected-2025/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Darktrace Flags 32 Million Phishing Emails in 2025 as Identity Attacks<a href="h
 The data was collected by Darktrace from incidents across its global customer base and points to a year defined by automation, convergence and accelerating attacker speed.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 26, 2026
+February 26, 2026 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APT37 Adds New Tools For Air-Gapped Networks<a href="https://www.zscaler.com/blogs/security-research/apt37-adds-new-capabilities-air-gapped-networks?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ APT37 Adds New Tools For Air-Gapped Networks<a href="https://www.zscaler.com/blo
 ThreatLabz details the Ruby Jumper campaign in the following sections, focusing on the specific malware employed, the deployment methods, and how the final payload is delivered to achieve the ultimate objective.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ZScalar
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 24, 2026
+February 24, 2026 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Japanese chip-testing toolmaker Advantest suffers ransomware attack<a href="https://www.helpnetsecurity.com/2026/02/23/advantest-suffers-ransomware-attack/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Japanese chip-testing toolmaker Advantest suffers ransomware attack<a href="http
 Japanese tech testing company Advantest has suffered a ransomware attack, the company confirmed last Thursday, after detecting unusual activity within its IT environment on February 15, 2026.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 24, 2026
+February 24, 2026 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APT28 Targeted European Entities Using Webhook-Based Macro Malware<a href="https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ APT28 Targeted European Entities Using Webhook-Based Macro Malware<a href="https
 APT28, a Russia-linked state-sponsored threat actor, has been attributed to a campaign targeting selected entities across Western and Central Europe, active from September 2025 through January 2026, according to S2 Grupo’s LAB52 team.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 24, 2026
+February 24, 2026 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious OpenClaw Skills Used to Distribute Atomic MacOS Stealer<a href="https://www.trendmicro.com/en_us/research/26/b/openclaw-skills-used-to-distribute-atomic-macos-stealer.html?&web_view=true"> Full Text</a>
@@ -108,7 +108,7 @@ Malicious OpenClaw Skills Used to Distribute Atomic MacOS Stealer<a href="https:
 Atomic (AMOS) Stealer has evolved from being distributed via cracked software to a more sophisticated supply chain attack that manipulates AI agentic workflows on platforms like OpenClaw.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Trend Micro
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

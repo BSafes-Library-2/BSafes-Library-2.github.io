@@ -11,6 +11,20 @@ nav_order: 900220
 February 20, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerability in Welker OdorEyes EcoSystem Pulse Bypass System<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-050-04?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability has been identified in the Welker OdorEyes EcoSystem Pulse Bypass System with XL4 Controller. This vulnerability, which lacks authentication for a critical function, could lead to over- or under-odorization events.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 20, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Critical Vulnerabilities in Jinan USR IOT Technology Limited (PUSR) USR-W610<a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-050-03?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

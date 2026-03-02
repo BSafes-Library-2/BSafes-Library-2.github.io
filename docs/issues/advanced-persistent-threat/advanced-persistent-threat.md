@@ -8,6 +8,34 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+February 26, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT37 Adds New Tools For Air-Gapped Networks<a href="https://www.zscaler.com/blogs/security-research/apt37-adds-new-capabilities-air-gapped-networks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ThreatLabz details the Ruby Jumper campaign in the following sections, focusing on the specific malware employed, the deployment methods, and how the final payload is delivered to achieve the ultimate objective.
+</details>
+<div style="text-align: right" markdown="1">
+ZScalar
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 24, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT28 Targeted European Entities Using Webhook-Based Macro Malware<a href="https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APT28, a Russia-linked state-sponsored threat actor, has been attributed to a campaign targeting selected entities across Western and Central Europe, active from September 2025 through January 2026, according to S2 Grupo’s LAB52 team.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 3, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
