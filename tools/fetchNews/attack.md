@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+February 24, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japanese chip-testing toolmaker Advantest suffers ransomware attack<a href="https://www.helpnetsecurity.com/2026/02/23/advantest-suffers-ransomware-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japanese tech testing company Advantest has suffered a ransomware attack, the company confirmed last Thursday, after detecting unusual activity within its IT environment on February 15, 2026.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 20, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

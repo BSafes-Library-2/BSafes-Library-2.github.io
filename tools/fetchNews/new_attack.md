@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+March 4, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Paint maker giant AkzoNobel confirms cyberattack on U.S. site<a href="https://www.bleepingcomputer.com/news/security/paint-maker-giant-akzonobel-confirms-cyberattack-on-us-site/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AkzoNobel, a leading paint and coatings company, has confirmed a cyberattack on one of its U.S. sites by the Anubis ransomware gang. The intrusion has been contained, and the impact is limited.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 24, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
