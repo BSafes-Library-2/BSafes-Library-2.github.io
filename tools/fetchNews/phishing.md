@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 4, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Tech Support Spam Deploys Customized Havoc C2 Across Organizations<a href="https://thehackernews.com/2026/03/fake-tech-support-spam-deploys.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated campaign has been identified where threat actors impersonate IT support to deploy the Havoc C2 framework, leading to potential data exfiltration or ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 3, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A fake FileZilla site hosts a malicious download<a href="https://www.malwarebytes.com/blog/threat-intel/2026/03/a-fake-filezilla-site-hosts-a-malicious-download?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A trojanized version of the open-source FTP client FileZilla 3.69.5 has been discovered, circulating online with a malicious `version.dll`. This attack is part of a growing trend where trusted software is used to distribute malware.
+</details>
+<div style="text-align: right" markdown="1">
+Malware Bytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 18, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

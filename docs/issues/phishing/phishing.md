@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 5, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LastPass warns of spoofed alerts aimed at stealing master passwords<a href="https://securityaffairs.com/188911/security/lastpass-warns-of-spoofed-alerts-aimed-at-stealing-master-passwords.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LastPass users are being targeted by a sophisticated phishing campaign that uses spoofed security alerts to steal master passwords. The campaign involves fake email threads and display name spoofing to deceive users into revealing their credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 4, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

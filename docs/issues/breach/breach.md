@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+March 5, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+San Francisco Children’s Council warns 12,000+ people of data breach that leaked SSNs<a href="https://www.comparitech.com/news/san-francisco-childrens-council-warns-12000-people-of-data-breach-that-leaked-ssns/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Children's Council of San Francisco has notified 12,655 individuals of a data breach that compromised names and Social Security numbers. The breach, claimed by the ransomware group SafePay, occurred on August 3, 2025.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker mass-mails HungerRush extortion emails to restaurant patrons<a href="https://www.bleepingcomputer.com/news/security/hacker-mass-mails-hungerrush-extortion-emails-to-restaurant-patrons/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor has launched an extortion campaign targeting patrons of restaurants using the HungerRush POS platform. The attacker claims to have access to sensitive customer data and demands a response from HungerRush to prevent data exposure.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 4, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

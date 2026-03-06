@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+March 4, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LexisNexis confirms data breach as hackers leak stolen files<a href="https://www.bleepingcomputer.com/news/security/lexisnexis-confirms-data-breach-as-hackers-leak-stolen-files/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LexisNexis Legal &amp; Professional confirmed a data breach where hackers accessed its AWS infrastructure via the React2Shell vulnerability. The breach resulted in the exposure of legacy data, including information related to U.S. government employees.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 3, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals say they hacked Southold, NY local government, stole data<a href="https://www.comparitech.com/news/cybercriminals-say-they-hacked-southold-ny-local-government-stole-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack by the Rhysida group targeted the local government of Southold, NY, disrupting critical systems and demanding a ransom of 10 bitcoin. The attack was announced on November 24, 2025, with recovery efforts ongoing as of mid-January.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 3, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+University of Hawaiʻi Cancer Center confirms data leak following ransomware attack<a href="https://therecord.media/university-of-hawaii-ransomware-data-breach?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The University of Hawaii Cancer Center experienced a ransomware attack, leading to a data breach affecting up to 1.2 million individuals. The breach involved data from the Multiethnic Cohort Study and three other epidemiological studies.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 12, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
