@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 6, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress membership plugin bug exploited to create admin accounts<a href="https://www.bleepingcomputer.com/news/security/wordpress-membership-plugin-bug-exploited-to-create-admin-accounts/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in the User Registration &amp; Membership plugin for WordPress is being actively exploited. This flaw allows attackers to create administrator accounts without authentication, affecting over 60,000 sites.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 3, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

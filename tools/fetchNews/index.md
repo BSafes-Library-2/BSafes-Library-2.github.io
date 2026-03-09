@@ -34,6 +34,86 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress membership plugin bug exploited to create admin accounts<a href="https://www.bleepingcomputer.com/news/security/wordpress-membership-plugin-bug-exploited-to-create-admin-accounts/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in the User Registration & Membership plugin for WordPress is being actively exploited. This flaw allows attackers to create administrator accounts without authentication, affecting over 60,000 sites.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2026 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese state hackers target telcos with new malware toolkit<a href="https://www.bleepingcomputer.com/news/security/chinese-state-hackers-target-telcos-with-new-malware-toolkit/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese state-sponsored threat actor, UAT-9244, has been identified targeting telecommunications providers in South America with a sophisticated malware toolkit. This group is associated with the FamousSparrow and Tropic Trooper groups.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2026 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pakistan-Linked APT36 Floods Indian Govt Networks With AI-Made ‘Vibeware’<a href="https://hackread.com/pakistan-apt36-indian-govt-networks-ai-vibeware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APT36, a Pakistan-linked hacking group, is targeting Indian government networks with AI-generated malware known as "Vibeware." This strategy involves overwhelming security systems with numerous low-quality malware samples.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2026 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Jersey county says malware attack took down phone lines, IT systems<a href="https://therecord.media/new-jersey-county-says-malware-attack-took-down-phones?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Passaic County, New Jersey, is dealing with a significant malware attack that has disrupted its phone lines and IT systems. This incident is part of a broader trend of cyberattacks targeting smaller municipalities and healthcare institutions.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wikipedia hit by self-propagating JavaScript worm that vandalized pages<a href="https://www.bleepingcomputer.com/news/security/wikipedia-hit-by-self-propagating-javascript-worm-that-vandalized-pages/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A self-propagating JavaScript worm has impacted Wikipedia, vandalizing pages and modifying user scripts. Wikimedia engineers responded by temporarily restricting editing to investigate and mitigate the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 5, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

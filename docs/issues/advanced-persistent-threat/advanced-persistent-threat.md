@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+March 6, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pakistan-Linked APT36 Floods Indian Govt Networks With AI-Made ‘Vibeware’<a href="https://hackread.com/pakistan-apt36-indian-govt-networks-ai-vibeware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APT36, a Pakistan-linked hacking group, is targeting Indian government networks with AI-generated malware known as "Vibeware." This strategy involves overwhelming security systems with numerous low-quality malware samples.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 26, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
