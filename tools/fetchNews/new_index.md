@@ -34,7 +34,87 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 5, 2026
+March 6, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress membership plugin bug exploited to create admin accounts<a href="https://www.bleepingcomputer.com/news/security/wordpress-membership-plugin-bug-exploited-to-create-admin-accounts/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in the User Registration & Membership plugin for WordPress is being actively exploited. This flaw allows attackers to create administrator accounts without authentication, affecting over 60,000 sites.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese state hackers target telcos with new malware toolkit<a href="https://www.bleepingcomputer.com/news/security/chinese-state-hackers-target-telcos-with-new-malware-toolkit/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese state-sponsored threat actor, UAT-9244, has been identified targeting telecommunications providers in South America with a sophisticated malware toolkit. This group is associated with the FamousSparrow and Tropic Trooper groups.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pakistan-Linked APT36 Floods Indian Govt Networks With AI-Made ‘Vibeware’<a href="https://hackread.com/pakistan-apt36-indian-govt-networks-ai-vibeware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APT36, a Pakistan-linked hacking group, is targeting Indian government networks with AI-generated malware known as "Vibeware." This strategy involves overwhelming security systems with numerous low-quality malware samples.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Jersey county says malware attack took down phone lines, IT systems<a href="https://therecord.media/new-jersey-county-says-malware-attack-took-down-phones?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Passaic County, New Jersey, is dealing with a significant malware attack that has disrupted its phone lines and IT systems. This incident is part of a broader trend of cyberattacks targeting smaller municipalities and healthcare institutions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wikipedia hit by self-propagating JavaScript worm that vandalized pages<a href="https://www.bleepingcomputer.com/news/security/wikipedia-hit-by-self-propagating-javascript-worm-that-vandalized-pages/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A self-propagating JavaScript worm has impacted Wikipedia, vandalizing pages and modifying user scripts. Wikimedia engineers responded by temporarily restricting editing to investigate and mitigate the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 5, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 San Francisco Children’s Council warns 12,000+ people of data breach that leaked SSNs<a href="https://www.comparitech.com/news/san-francisco-childrens-council-warns-12000-people-of-data-breach-that-leaked-ssns/?&web_view=true"> Full Text</a>
@@ -44,13 +124,13 @@ San Francisco Children’s Council warns 12,000+ people of data breach that leak
 The Children's Council of San Francisco has notified 12,655 individuals of a data breach that compromised names and Social Security numbers. The breach, claimed by the ransomware group SafePay, occurred on August 3, 2025.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CompariTech
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 5, 2026
+March 5, 2026 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LastPass warns of spoofed alerts aimed at stealing master passwords<a href="https://securityaffairs.com/188911/security/lastpass-warns-of-spoofed-alerts-aimed-at-stealing-master-passwords.html?&web_view=true"> Full Text</a>
@@ -60,13 +140,13 @@ LastPass warns of spoofed alerts aimed at stealing master passwords<a href="http
 LastPass users are being targeted by a sophisticated phishing campaign that uses spoofed security alerts to steal master passwords. The campaign involves fake email threads and display name spoofing to deceive users into revealing their credentials.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 5, 2026
+March 5, 2026 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multi-Stage "BadPaw" Malware Campaign Targets Ukraine<a href="https://www.infosecurity-magazine.com/news/badpaw-malware-targets-ukraine/?&web_view=true"> Full Text</a>
@@ -76,13 +156,13 @@ Multi-Stage "BadPaw" Malware Campaign Targets Ukraine<a href="https://www.infose
 The "BadPaw" malware campaign targets Ukraine, leveraging a Ukrainian email service to enhance credibility. The attack involves a decoy document referencing a Ukrainian government border crossing appeal.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 5, 2026
+March 5, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker mass-mails HungerRush extortion emails to restaurant patrons<a href="https://www.bleepingcomputer.com/news/security/hacker-mass-mails-hungerrush-extortion-emails-to-restaurant-patrons/?&web_view=true"> Full Text</a>
@@ -92,13 +172,13 @@ Hacker mass-mails HungerRush extortion emails to restaurant patrons<a href="http
 A threat actor has launched an extortion campaign targeting patrons of restaurants using the HungerRush POS platform. The attacker claims to have access to sensitive customer data and demands a response from HungerRush to prevent data exposure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 5, 2026
+March 5, 2026 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware-laced OpenClaw installers get Bing AI search boost<a href="https://www.theregister.com/2026/03/04/fake_openclaw_installers_malware/?&web_view=true"> Full Text</a>
@@ -108,7 +188,7 @@ Malware-laced OpenClaw installers get Bing AI search boost<a href="https://www.t
 Security researchers from Huntress, Jai Minton, and Ryan Dowd, identified malicious GitHub repositories exploiting Bing AI search results to distribute information stealers and GhostSocks malware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
