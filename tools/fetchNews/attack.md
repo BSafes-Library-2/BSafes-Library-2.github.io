@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+March 6, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese state hackers target telcos with new malware toolkit<a href="https://www.bleepingcomputer.com/news/security/chinese-state-hackers-target-telcos-with-new-malware-toolkit/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese state-sponsored threat actor, UAT-9244, has been identified targeting telecommunications providers in South America with a sophisticated malware toolkit. This group is associated with the FamousSparrow and Tropic Trooper groups.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 4, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

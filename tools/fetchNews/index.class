@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2026
+March 9, 2026 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Middle East Conflict Fuels Cyber Attacks<a href="https://www.zscaler.com/blogs/security-research/middle-east-conflict-fuels-opportunistic-cyber-attacks?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Middle East Conflict Fuels Cyber Attacks<a href="https://www.zscaler.com/blogs/s
 The ongoing Middle East conflict has led to a surge in opportunistic cyber attacks. Threat actors are exploiting the situation through phishing, malware distribution, and scams, with notable malware including LOTUSLITE and StealC.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ZScalar
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2026
+March 9, 2026 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 One click on this fake Google Meet update can give attackers control of your PC<a href="https://www.malwarebytes.com/blog/threat-intel/2026/03/one-click-on-this-fake-google-meet-update-can-give-attackers-control-of-your-pc?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ One click on this fake Google Meet update can give attackers control of your PC<
 A phishing attack disguised as a Google Meet update is exploiting a legitimate Windows feature to gain control over victims' devices. This attack highlights a growing trend of using legitimate OS features and cloud platforms for malicious purposes.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Malware Bytes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2026
+March 9, 2026 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Social Security Scam Emails Use Fake Tax Documents to Hijack PCs<a href="https://hackread.com/social-security-scam-emails-fake-tax-doc-hijack-pc/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ New Social Security Scam Emails Use Fake Tax Documents to Hijack PCs<a href="htt
 A new phishing campaign is targeting individuals in the US by impersonating the Social Security Administration. The emails use urgent language such as "Important Disclosures" or "Important Regulatory Information" to prompt immediate action.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2026
+March 9, 2026 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Termite ransomware breaches linked to ClickFix CastleRAT attacks<a href="https://www.bleepingcomputer.com/news/security/termite-ransomware-breaches-linked-to-clickfix-castlerat-attacks/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Termite ransomware breaches linked to ClickFix CastleRAT attacks<a href="https:/
 Velvet Tempest, also known as DEV-0504, is a threat group involved in ransomware attacks for over five years. They have been linked to ransomware strains such as Ryuk, REvil, Conti, BlackMatter, BlackCat/ALPHV, LockBit, and RansomHub.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2026
+March 9, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Nginx UI flaw CVE-2026-27944 exposes server backups<a href="https://securityaffairs.com/189123/security/critical-nginx-ui-flaw-cve-2026-27944-exposes-server-backups.html?&web_view=true"> Full Text</a>
@@ -108,7 +108,7 @@ Critical Nginx UI flaw CVE-2026-27944 exposes server backups<a href="https://sec
 A critical vulnerability in Nginx UI, identified as CVE-2026-27944, allows attackers to download and decrypt server backups without authentication. This flaw poses a significant risk by exposing sensitive data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

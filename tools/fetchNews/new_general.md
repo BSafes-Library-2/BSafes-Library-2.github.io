@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+March 9, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Middle East Conflict Fuels Cyber Attacks<a href="https://www.zscaler.com/blogs/security-research/middle-east-conflict-fuels-opportunistic-cyber-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ongoing Middle East conflict has led to a surge in opportunistic cyber attacks. Threat actors are exploiting the situation through phishing, malware distribution, and scams, with notable malware including LOTUSLITE and StealC.
+</details>
+<div style="text-align: right" markdown="1">
+ZScalar
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 26, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

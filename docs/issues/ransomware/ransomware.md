@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 9, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Termite ransomware breaches linked to ClickFix CastleRAT attacks<a href="https://www.bleepingcomputer.com/news/security/termite-ransomware-breaches-linked-to-clickfix-castlerat-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Velvet Tempest, also known as DEV-0504, is a threat group involved in ransomware attacks for over five years. They have been linked to ransomware strains such as Ryuk, REvil, Conti, BlackMatter, BlackCat/ALPHV, LockBit, and RansomHub.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 30, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

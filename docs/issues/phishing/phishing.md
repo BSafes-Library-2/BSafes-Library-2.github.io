@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 9, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+One click on this fake Google Meet update can give attackers control of your PC<a href="https://www.malwarebytes.com/blog/threat-intel/2026/03/one-click-on-this-fake-google-meet-update-can-give-attackers-control-of-your-pc?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A phishing attack disguised as a Google Meet update is exploiting a legitimate Windows feature to gain control over victims' devices. This attack highlights a growing trend of using legitimate OS features and cloud platforms for malicious purposes.
+</details>
+<div style="text-align: right" markdown="1">
+Malware Bytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Social Security Scam Emails Use Fake Tax Documents to Hijack PCs<a href="https://hackread.com/social-security-scam-emails-fake-tax-doc-hijack-pc/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign is targeting individuals in the US by impersonating the Social Security Administration. The emails use urgent language such as "Important Disclosures" or "Important Regulatory Information" to prompt immediate action.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 5, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
