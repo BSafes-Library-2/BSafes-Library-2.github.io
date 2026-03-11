@@ -34,7 +34,87 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2026
+March 9, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Middle East Conflict Fuels Cyber Attacks<a href="https://www.zscaler.com/blogs/security-research/middle-east-conflict-fuels-opportunistic-cyber-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ongoing Middle East conflict has led to a surge in opportunistic cyber attacks. Threat actors are exploiting the situation through phishing, malware distribution, and scams, with notable malware including LOTUSLITE and StealC.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+One click on this fake Google Meet update can give attackers control of your PC<a href="https://www.malwarebytes.com/blog/threat-intel/2026/03/one-click-on-this-fake-google-meet-update-can-give-attackers-control-of-your-pc?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A phishing attack disguised as a Google Meet update is exploiting a legitimate Windows feature to gain control over victims' devices. This attack highlights a growing trend of using legitimate OS features and cloud platforms for malicious purposes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Social Security Scam Emails Use Fake Tax Documents to Hijack PCs<a href="https://hackread.com/social-security-scam-emails-fake-tax-doc-hijack-pc/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign is targeting individuals in the US by impersonating the Social Security Administration. The emails use urgent language such as "Important Disclosures" or "Important Regulatory Information" to prompt immediate action.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Termite ransomware breaches linked to ClickFix CastleRAT attacks<a href="https://www.bleepingcomputer.com/news/security/termite-ransomware-breaches-linked-to-clickfix-castlerat-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Velvet Tempest, also known as DEV-0504, is a threat group involved in ransomware attacks for over five years. They have been linked to ransomware strains such as Ryuk, REvil, Conti, BlackMatter, BlackCat/ALPHV, LockBit, and RansomHub.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Nginx UI flaw CVE-2026-27944 exposes server backups<a href="https://securityaffairs.com/189123/security/critical-nginx-ui-flaw-cve-2026-27944-exposes-server-backups.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in Nginx UI, identified as CVE-2026-27944, allows attackers to download and decrypt server backups without authentication. This flaw poses a significant risk by exposing sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WordPress membership plugin bug exploited to create admin accounts<a href="https://www.bleepingcomputer.com/news/security/wordpress-membership-plugin-bug-exploited-to-create-admin-accounts/?&web_view=true"> Full Text</a>
@@ -44,13 +124,13 @@ WordPress membership plugin bug exploited to create admin accounts<a href="https
 A critical vulnerability in the User Registration & Membership plugin for WordPress is being actively exploited. This flaw allows attackers to create administrator accounts without authentication, affecting over 60,000 sites.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2026
+March 6, 2026 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese state hackers target telcos with new malware toolkit<a href="https://www.bleepingcomputer.com/news/security/chinese-state-hackers-target-telcos-with-new-malware-toolkit/?&web_view=true"> Full Text</a>
@@ -60,13 +140,13 @@ Chinese state hackers target telcos with new malware toolkit<a href="https://www
 A Chinese state-sponsored threat actor, UAT-9244, has been identified targeting telecommunications providers in South America with a sophisticated malware toolkit. This group is associated with the FamousSparrow and Tropic Trooper groups.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2026
+March 6, 2026 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pakistan-Linked APT36 Floods Indian Govt Networks With AI-Made ‘Vibeware’<a href="https://hackread.com/pakistan-apt36-indian-govt-networks-ai-vibeware/?&web_view=true"> Full Text</a>
@@ -76,13 +156,13 @@ Pakistan-Linked APT36 Floods Indian Govt Networks With AI-Made ‘Vibeware’<a 
 APT36, a Pakistan-linked hacking group, is targeting Indian government networks with AI-generated malware known as "Vibeware." This strategy involves overwhelming security systems with numerous low-quality malware samples.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2026
+March 6, 2026 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Jersey county says malware attack took down phone lines, IT systems<a href="https://therecord.media/new-jersey-county-says-malware-attack-took-down-phones?&web_view=true"> Full Text</a>
@@ -92,13 +172,13 @@ New Jersey county says malware attack took down phone lines, IT systems<a href="
 Passaic County, New Jersey, is dealing with a significant malware attack that has disrupted its phone lines and IT systems. This incident is part of a broader trend of cyberattacks targeting smaller municipalities and healthcare institutions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2026
+March 6, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Wikipedia hit by self-propagating JavaScript worm that vandalized pages<a href="https://www.bleepingcomputer.com/news/security/wikipedia-hit-by-self-propagating-javascript-worm-that-vandalized-pages/?&web_view=true"> Full Text</a>
@@ -108,7 +188,7 @@ Wikipedia hit by self-propagating JavaScript worm that vandalized pages<a href="
 A self-propagating JavaScript worm has impacted Wikipedia, vandalizing pages and modifying user scripts. Wikimedia engineers responded by temporarily restricting editing to investigate and mitigate the attack.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
