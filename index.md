@@ -34,6 +34,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ShinyHunters Hackers Threaten 400 Firms Over Stolen Salesforce Data<a href="https://hackread.com/shinyhunters-hackers-threat-stolen-salesforce-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ShinyHunters, a notorious hacking group, has issued a final warning to approximately 400 organizations, threatening to leak sensitive data unless their extortion demands are met.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-Linked Hackers Hit Qatar with Backdoor Disguised as War News<a href="https://hackread.com/china-hackers-qatar-backdoor-fake-war-news/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked hackers, including the Camaro Dragon group, are targeting Qatar with malware disguised as Middle East conflict news. The attackers are focusing on the Gulf's energy industry and military targets, using tools like PlugX and Cobalt Strike.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2026
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bell Ambulance data breach impacted over 238,000 people<a href="https://securityaffairs.com/189343/data-breach/bell-ambulance-data-breach-impacted-over-238000-people.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant data breach at Bell Ambulance has impacted 237,830 individuals, exposing sensitive personal information. The breach was executed by the Medusa ransomware group, who accessed the network between February 7 and 14, 2025.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 9, 2026 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
