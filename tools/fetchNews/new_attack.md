@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+March 12, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-Linked Hackers Hit Qatar with Backdoor Disguised as War News<a href="https://hackread.com/china-hackers-qatar-backdoor-fake-war-news/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked hackers, including the Camaro Dragon group, are targeting Qatar with malware disguised as Middle East conflict news. The attackers are focusing on the Gulf's energy industry and military targets, using tools like PlugX and Cobalt Strike.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 6, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

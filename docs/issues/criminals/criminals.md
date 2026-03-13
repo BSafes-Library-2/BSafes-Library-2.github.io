@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 12, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ShinyHunters Hackers Threaten 400 Firms Over Stolen Salesforce Data<a href="https://hackread.com/shinyhunters-hackers-threat-stolen-salesforce-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ShinyHunters, a notorious hacking group, has issued a final warning to approximately 400 organizations, threatening to leak sensitive data unless their extortion demands are met.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 28, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
