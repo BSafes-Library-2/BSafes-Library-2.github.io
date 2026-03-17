@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+March 12, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bell Ambulance data breach impacted over 238,000 people<a href="https://securityaffairs.com/189343/data-breach/bell-ambulance-data-breach-impacted-over-238000-people.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant data breach at Bell Ambulance has impacted 237,830 individuals, exposing sensitive personal information. The breach was executed by the Medusa ransomware group, who accessed the network between February 7 and 14, 2025.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 6, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
