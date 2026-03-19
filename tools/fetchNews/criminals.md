@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 16, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Payload Ransomware claims the hack of Royal Bahrain Hospital<a href="https://securityaffairs.com/189467/cyber-crime/payload-ransomware-claims-the-hack-of-royal-bahrain-hospital.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Payload Ransomware group has claimed responsibility for breaching the Royal Bahrain Hospital (RBH), a prominent healthcare facility in Bahrain. The group has stolen 110 GB of data.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affair
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 12, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
