@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 24, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An AI-powered phishing campaign has compromised hundreds of organizations<a href="https://cyberscoop.com/huntress-railway-ai-phishing-campaign-compromised-hundreds-of-organizations/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An AI-powered phishing campaign has compromised 344 organizations across sectors such as construction, law, healthcare, and government. The campaign exploits Microsoft cloud accounts using OAuth tokens.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Scoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 9, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

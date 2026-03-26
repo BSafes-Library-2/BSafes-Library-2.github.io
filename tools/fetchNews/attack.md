@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+March 18, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GlassWorm malware hits 400+ code repos on GitHub, npm, VSCode, OpenVSX<a href="https://www.bleepingcomputer.com/news/security/glassworm-malware-hits-400-plus-code-repos-on-github-npm-vscode-openvsx/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The GlassWorm supply-chain campaign has returned with a new, coordinated attack that targeted hundreds of packages, repositories, and extensions on GitHub, npm, and VSCode/OpenVSX extensions.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 12, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
