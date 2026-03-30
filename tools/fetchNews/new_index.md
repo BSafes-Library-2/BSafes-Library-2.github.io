@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2026
+March 24, 2026 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 An AI-powered phishing campaign has compromised hundreds of organizations<a href="https://cyberscoop.com/huntress-railway-ai-phishing-campaign-compromised-hundreds-of-organizations/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ An AI-powered phishing campaign has compromised hundreds of organizations<a href
 An AI-powered phishing campaign has compromised 344 organizations across sectors such as construction, law, healthcare, and government. The campaign exploits Microsoft cloud accounts using OAuth tokens.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyber Scoop
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2026
+March 24, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker walks away with $24.5 million after breaching Resolv DeFi platform<a href="https://therecord.media/hacker-breaches-resolv-defi-25-million?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Hacker walks away with $24.5 million after breaching Resolv DeFi platform<a href
 A cyberattack on the Resolv DeFi platform resulted in the unauthorized creation of $80 million worth of USR stablecoin, which was exchanged for 11,408 ETH, valued at $24.5 million.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2026
+March 24, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mazda discloses security breach exposing employee and partner data<a href="https://www.bleepingcomputer.com/news/security/mazda-discloses-security-breach-exposing-employee-and-partner-data/?&web_view=true"> Full Text</a>
@@ -76,7 +76,7 @@ Mazda discloses security breach exposing employee and partner data<a href="https
 Mazda Motor Corporation has disclosed a security breach involving a system related to warehouse operations for parts procured from Thailand. The breach exposed sensitive data of employees and business partners.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
