@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+March 24, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker walks away with $24.5 million after breaching Resolv DeFi platform<a href="https://therecord.media/hacker-breaches-resolv-defi-25-million?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberattack on the Resolv DeFi platform resulted in the unauthorized creation of $80 million worth of USR stablecoin, which was exchanged for 11,408 ETH, valued at $24.5 million.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mazda discloses security breach exposing employee and partner data<a href="https://www.bleepingcomputer.com/news/security/mazda-discloses-security-breach-exposing-employee-and-partner-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mazda Motor Corporation has disclosed a security breach involving a system related to warehouse operations for parts procured from Thailand. The breach exposed sensitive data of employees and business partners.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 16, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

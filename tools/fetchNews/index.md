@@ -34,6 +34,70 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telnyx package latest hit in PyPI supply-chain compromise<a href="https://www.theregister.com/2026/03/30/telnyx_pypi_supply_chain_attack_litellm/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Telnyx Python SDK on PyPI has been compromised by TeamPCP, a group linked to the Trivy supply-chain attack. The malicious package versions 4.87.1 and 4.87.2 contain a multi-stage infostealer.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+15-Year-Old strongSwan Flaw Lets Attackers Crash VPNs via Integer Underflow<a href="https://hackread.com/strongswan-flaw-attackers-crash-vpn-integer-underflow/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability, CVE-2026-25075, has been identified in strongSwan's EAP-TTLS plugin, affecting versions 4.5.0 to 6.0.4. This flaw allows attackers to crash VPN services through an integer underflow, leading to massive memory corruption.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2026 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals say they hacked the city of Meriden, CT and stole data<a href="https://www.comparitech.com/news/cybercriminals-say-they-hacked-the-city-of-meriden-ct-and-stole-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware group named Inc has claimed responsibility for a cyberattack on the city of Meriden, CT. The attack, reported by city officials on February 17, has caused significant disruptions, with services still being restored over a month later.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2026 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New RoadK1ll WebSocket implant used to pivot on breached networks<a href="https://www.bleepingcomputer.com/news/security/new-roadk1ll-websocket-implant-used-to-pivot-on-breached-networks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RoadK1ll is a newly identified Node.js implant that enables threat actors to pivot within breached networks. It blends into normal network activity and does not rely on an inbound listener, using a custom WebSocket protocol for communication.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 24, 2026 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

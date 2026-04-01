@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+March 31, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals say they hacked the city of Meriden, CT and stole data<a href="https://www.comparitech.com/news/cybercriminals-say-they-hacked-the-city-of-meriden-ct-and-stole-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware group named Inc has claimed responsibility for a cyberattack on the city of Meriden, CT. The attack, reported by city officials on February 17, has caused significant disruptions, with services still being restored over a month later.
+</details>
+<div style="text-align: right" markdown="1">
+CompariTech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 6, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

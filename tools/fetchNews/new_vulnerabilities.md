@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 31, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+15-Year-Old strongSwan Flaw Lets Attackers Crash VPNs via Integer Underflow<a href="https://hackread.com/strongswan-flaw-attackers-crash-vpn-integer-underflow/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability, CVE-2026-25075, has been identified in strongSwan's EAP-TTLS plugin, affecting versions 4.5.0 to 6.0.4. This flaw allows attackers to crash VPN services through an integer underflow, leading to massive memory corruption.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 18, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

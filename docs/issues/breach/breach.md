@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+March 31, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telnyx package latest hit in PyPI supply-chain compromise<a href="https://www.theregister.com/2026/03/30/telnyx_pypi_supply_chain_attack_litellm/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Telnyx Python SDK on PyPI has been compromised by TeamPCP, a group linked to the Trivy supply-chain attack. The malicious package versions 4.87.1 and 4.87.2 contain a multi-stage infostealer.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 24, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
