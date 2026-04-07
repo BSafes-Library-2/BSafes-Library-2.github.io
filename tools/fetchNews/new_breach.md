@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+April 2, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anthropic Claude Code Leak<a href="https://www.zscaler.com/blogs/security-research/anthropic-claude-code-leak?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anthropic's Claude Code was accidentally leaked, exposing 59.8 MB of source code (513,000 lines, 1,906 files). The leak has been widely distributed on GitHub, with over 84,000 stars and 82,000 forks, posing significant security risks.
+</details>
+<div style="text-align: right" markdown="1">
+ZSCalar
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 31, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

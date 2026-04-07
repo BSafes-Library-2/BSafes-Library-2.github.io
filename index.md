@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2026
+April 2, 2026 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Casbaneiro Phishing Targets Latin America and Europe Using Dynamic PDF Lures<a href="https://thehackernews.com/2026/04/casbaneiro-phishing-targets-latin.html?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Casbaneiro Phishing Targets Latin America and Europe Using Dynamic PDF Lures<a h
 A phishing campaign is targeting Spanish-speaking users in Latin America and Europe, delivering banking trojans like Casbaneiro and Horabot. The campaign employs dynamic PDF lures, WhatsApp automation, and ClickFix social engineering tactics.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2026
+April 2, 2026 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 'NoVoice' Android malware on Google Play infected 2.3 million devices<a href="https://www.bleepingcomputer.com/news/security/novoice-android-malware-on-google-play-infected-23-million-devices/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ April 2, 2026
 The NoVoice Android malware has been discovered on Google Play, infecting over 2.3 million devices. It exploits old Android vulnerabilities to gain root access and primarily targets WhatsApp for data theft.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2026
+April 2, 2026 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anthropic Claude Code Leak<a href="https://www.zscaler.com/blogs/security-research/anthropic-claude-code-leak?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Anthropic Claude Code Leak<a href="https://www.zscaler.com/blogs/security-resear
 Anthropic's Claude Code was accidentally leaked, exposing 59.8 MB of source code (513,000 lines, 1,906 files). The leak has been widely distributed on GitHub, with over 84,000 stars and 82,000 forks, posing significant security risks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ZSCalar
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2026
+April 2, 2026 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crypto platform Drift suspends services after millions stolen in security incident<a href="https://therecord.media/drift-crypto-heist-solana-hacker?&web_view=true"> Full Text</a>
@@ -92,7 +92,7 @@ Crypto platform Drift suspends services after millions stolen in security incide
 Drift Protocol, a decentralized finance platform, has suspended its services following a significant cyberattack resulting in the theft of hundreds of millions of dollars in cryptocurrency.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

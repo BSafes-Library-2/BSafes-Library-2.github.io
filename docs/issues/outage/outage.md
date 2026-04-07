@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+April 2, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto platform Drift suspends services after millions stolen in security incident<a href="https://therecord.media/drift-crypto-heist-solana-hacker?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Drift Protocol, a decentralized finance platform, has suspended its services following a significant cyberattack resulting in the theft of hundreds of millions of dollars in cryptocurrency.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 31, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
