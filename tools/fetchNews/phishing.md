@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 2, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Casbaneiro Phishing Targets Latin America and Europe Using Dynamic PDF Lures<a href="https://thehackernews.com/2026/04/casbaneiro-phishing-targets-latin.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A phishing campaign is targeting Spanish-speaking users in Latin America and Europe, delivering banking trojans like Casbaneiro and Horabot. The campaign employs dynamic PDF lures, WhatsApp automation, and ClickFix social engineering tactics.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 24, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
