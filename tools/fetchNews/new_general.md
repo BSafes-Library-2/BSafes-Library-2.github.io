@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+April 21, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top techniques attackers use to infiltrate your systems today<a href="https://www.csoonline.com/article/4161104/top-techniques-cyberattackers-use-to-infiltrate-your-systems-today.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular tool abuse, ClickFix, and identity-based attacks are among the most prevalent techniques bad actors are deploying these days to break into enterprise networks. 
+</details>
+<div style="text-align: right" markdown="1">
+CSO
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 9, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
