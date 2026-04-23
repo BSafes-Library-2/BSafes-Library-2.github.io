@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 22, 2026 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anthropic investigates report of rogue access to hack-enabling Mythos AI<a href="https://www.theguardian.com/technology/2026/apr/22/anthropic-investigates-report-of-rogue-access-to-hack-enabling-mythos-ai"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The AI developer Anthropic has confirmed it is investigating a report that unauthorised users have gained access to its Mythos model, which it has warned poses risks to cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+CSO
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 31, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
