@@ -8,6 +8,23 @@ nav_order: 900075
 
 ## Government
 ---
+April 28, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Two Known Exploited Vulnerabilities to Catalog<a href="https://www.cisa.gov/news-events/alerts/2026/04/28/cisa-adds-two-known-exploited-vulnerabilities-catalog"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.
+
+CVE-2024-1708 ConnectWise ScreenConnect Path Traversal Vulnerability
+CVE-2026-32202 Microsoft Windows Protection Mechanism Failure Vulnerability
+</details>
+<div style="text-align: right" markdown="1">
+CSO
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 4, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
