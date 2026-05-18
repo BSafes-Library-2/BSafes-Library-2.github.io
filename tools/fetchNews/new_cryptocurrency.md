@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+May 16, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More than $10 million stolen from crypto platform THORChain<a href="https://therecord.media/more-than-10-million-stolen-crypto-platform-thorchain"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cryptocurrency platform THORChain said more than $10 million was stolen during a security incident on Friday morning. 
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 17, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
