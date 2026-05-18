@@ -34,6 +34,70 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2026 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More than $10 million stolen from crypto platform THORChain<a href="https://therecord.media/more-than-10-million-stolen-crypto-platform-thorchain"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cryptocurrency platform THORChain said more than $10 million was stolen during a security incident on Friday morning. 
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2026 -- [Breach](/docs/issues/breach/breach/)<br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Instructure reaches 'agreement' with ShinyHunters to stop data leak<a href="https://www.bleepingcomputer.com/news/security/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Instructure, the edtech giant behind the widely popular Canvas learning management system (LMS), has reached an "agreement" with the ShinyHunters extortion group to prevent the data stolen in a recent breach from being leaked online.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2026 -- [Phishing](/docs/issues/phishing/phishing/)<br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake OpenAI repository on Hugging Face pushes infostealer malware<a href="https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious Hugging Face repository that reached the platform’s trending list impersonated OpenAI’s “Privacy Filter” project to deliver information-stealing malware to Windows users.
+</details>
+<div style="text-align: right" markdown="1">
+CSO
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Palo Alto warns of critical software bug used in firewall attacks<a href="https://therecord.media/palo-alto-warns-of-critical-software-bug-firewalls"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are exploiting a new vulnerability in software from Palo Alto Networks, the company said in an advisory on Wednesday. 
+</details>
+<div style="text-align: right" markdown="1">
+CSO
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 28, 2026 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -65,6 +65,7 @@ Bleeping Computer
 </div>
 </div>
 
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 9, 2026 -- [Phishing](/docs/issues/phishing/phishing/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
