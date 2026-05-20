@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+May 19, 2026 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+America's top cyber-defense agency left a GitHub repo open with with passwords, keys, tokens – and incredibly obvious filenames<a href="https://www.theregister.com/security/2026/05/19/americas-top-cyber-defense-agency-left-a-github-repo-open-with-with-passwords-keys-tokens-and-incredibly-obvious-filenames/5242915"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) left open a GitHub repository named “Private-CISA” containing plain-text passwords, private keys, tokens, and secrets – with obvious file names like “external-secret-repo-creds.yaml” and “AWS-Workspace-Firefox-Passwords.csv” – for six months.
+</details>
+<div style="text-align: right" markdown="1">
+The Register 
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 15, 2025 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
