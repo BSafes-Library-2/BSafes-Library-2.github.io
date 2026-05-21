@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+May 20, 2026 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two U.S. Executives Plead Guilty in India-Based Tech-Support Fraud Schemes<a href="https://cybersecuritynews.com/u-s-executives-plead-guilty-tech-support/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two former executives of a U.S.-based call routing and analytics company have pleaded guilty to federal charges for knowingly enabling India-based call centers to defraud thousands of American victims through elaborate tech-support scam operations spanning nearly six years.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 18, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
