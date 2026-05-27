@@ -44,7 +44,7 @@ Microsoft says it’s making AI ‘safe for work’ in your browser<a href="http
 Microsoft is testing the addition of agentic AI to its corporate browser, Edge for Business. A new version, currently available in a limited preview, will help perform routine tasks more efficiently, according to Microsoft’s partner product manager for Edge, Lindsay Kubasik.
 </details>
 <div style="text-align: right" markdown="1">
-Cyber Security News
+CSO
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

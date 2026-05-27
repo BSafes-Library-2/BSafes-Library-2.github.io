@@ -34,6 +34,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2026 -- [General](/docs/issues/general/general/)<br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft says it’s making AI ‘safe for work’ in your browser<a href="https://www.csoonline.com/article/4176413/microsoft-says-its-making-ai-safe-for-work-in-your-browser-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is testing the addition of agentic AI to its corporate browser, Edge for Business. A new version, currently available in a limited preview, will help perform routine tasks more efficiently, according to Microsoft’s partner product manager for Edge, Lindsay Kubasik.
+</details>
+<div style="text-align: right" markdown="1">
+CSO
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2026 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two U.S. Executives Plead Guilty in India-Based Tech-Support Fraud Schemes<a href="https://cybersecuritynews.com/u-s-executives-plead-guilty-tech-support/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two former executives of a U.S.-based call routing and analytics company have pleaded guilty to federal charges for knowingly enabling India-based call centers to defraud thousands of American victims through elaborate tech-support scam operations spanning nearly six years.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2026 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+America's top cyber-defense agency left a GitHub repo open with with passwords, keys, tokens – and incredibly obvious filenames<a href="https://www.theregister.com/security/2026/05/19/americas-top-cyber-defense-agency-left-a-github-repo-open-with-with-passwords-keys-tokens-and-incredibly-obvious-filenames/5242915"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) left open a GitHub repository named “Private-CISA” containing plain-text passwords, private keys, tokens, and secrets – with obvious file names like “external-secret-repo-creds.yaml” and “AWS-Workspace-Firefox-Passwords.csv” – for six months.
+</details>
+<div style="text-align: right" markdown="1">
+The Register 
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 16, 2026 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
