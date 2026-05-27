@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2026 -- [General](/docs/issues/general/general/)<br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft says it’s making AI ‘safe for work’ in your browser<a href="https://www.csoonline.com/article/4176413/microsoft-says-its-making-ai-safe-for-work-in-your-browser-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is testing the addition of agentic AI to its corporate browser, Edge for Business. A new version, currently available in a limited preview, will help perform routine tasks more efficiently, according to Microsoft’s partner product manager for Edge, Lindsay Kubasik.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 20, 2026 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
