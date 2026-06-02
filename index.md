@@ -34,10 +34,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2026 -- [General](/docs/issues/general/general/)<br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cheap AI has changed the economics of hacking<a href="https://www.scworld.com/perspective/cheap-ai-has-changed-the-economics-of-hacking"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+COMMENTARY: There’s a war of attrition happening across corporate networks right now, and defenders are losing it the same way armies lose wars of attrition: by spending more per engagement than their opponents. The cost of mounting a cyberattack has plummeted, and most security budgets are not attuned to that reality.
+</details>
+<div style="text-align: right" markdown="1">
+SC Media
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 27, 2026 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-ROMANIAN HACKER GETS NEARLY 5 YEARS IN US PRISON OVER NETWORK INTRUSION<a href=""> Full Text</a>
+ROMANIAN HACKER GETS NEARLY 5 YEARS IN US PRISON OVER NETWORK INTRUSION<a href="https://securityaffairs.com/192770/cyber-crime/romanian-hacker-gets-nearly-5-years-in-us-prison-over-network-intrusion.html"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>

@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+May 29, 2026 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cheap AI has changed the economics of hacking<a href="https://www.scworld.com/perspective/cheap-ai-has-changed-the-economics-of-hacking"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+COMMENTARY: There’s a war of attrition happening across corporate networks right now, and defenders are losing it the same way armies lose wars of attrition: by spending more per engagement than their opponents. The cost of mounting a cyberattack has plummeted, and most security budgets are not attuned to that reality.
+</details>
+<div style="text-align: right" markdown="1">
+SC Media
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 22, 2026 <br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
