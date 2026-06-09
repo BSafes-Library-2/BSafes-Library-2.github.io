@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+21 0-Day Vulnerabilities in FFmpeg Enables Remote Code Execution Attacks<a href="https://cybersecuritynews.com/21-0-day-vulnerabilities-in-ffmpeg/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An autonomous security agent uncovered 21 zero-day vulnerabilities in FFmpeg, the world’s most widely deployed media processing library, including a critical RCE-capable heap buffer overflow reachable with a single 183-byte network packet
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 3, 2026 -- [Hacker](/docs/issues/hacker/hacker/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
