@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 9, 2026 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+21 0-Day Vulnerabilities in FFmpeg Enables Remote Code Execution Attacks<a href="https://cybersecuritynews.com/21-0-day-vulnerabilities-in-ffmpeg/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An autonomous security agent uncovered 21 zero-day vulnerabilities in FFmpeg, the world’s most widely deployed media processing library, including a critical RCE-capable heap buffer overflow reachable with a single 183-byte network packet
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 7, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
