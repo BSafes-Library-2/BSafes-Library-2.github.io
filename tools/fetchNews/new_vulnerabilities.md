@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 18, 2026 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+F5 releases out-of-band patches for two critical NGINX bugs<a href="https://www.scworld.com/news/f5-releases-out-of-band-patches-for-two-critical-nginx-bugs"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+F5 on June 17 released out-of-band security patches to address multiple NGINX web server vulnerabilities, two of them critical.
+</details>
+<div style="text-align: right" markdown="1">
+SC Media
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 9, 2026 <br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

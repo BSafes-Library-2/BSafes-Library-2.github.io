@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+June 12, 2026 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Statement on the US government directive to suspend access to Fable 5 and Mythos 5<a href="https://www.anthropic.com/news/fable-mythos-access"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees. The net effect of this order is that we must abruptly disable Fable 5 and Mythos 5 for all our customers to ensure compliance. Access to all other Anthropic models will not be affected.
+</details>
+<div style="text-align: right" markdown="1">
+Anthropic
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2026 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

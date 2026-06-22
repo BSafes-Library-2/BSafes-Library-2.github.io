@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+F5 releases out-of-band patches for two critical NGINX bugs<a href="https://www.scworld.com/news/f5-releases-out-of-band-patches-for-two-critical-nginx-bugs"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+F5 on June 17 released out-of-band security patches to address multiple NGINX web server vulnerabilities, two of them critical.
+</details>
+<div style="text-align: right" markdown="1">
+SC Media
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 12, 2026 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
