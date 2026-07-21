@@ -34,14 +34,31 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2026 -- [Hacker](/docs/issues/hacker/hacker/)<br> 
+July 20, 2026 -- [Malware](/docs/issues/malware/malware/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-Chinese hackers use new Atlas RAT malware in European cyberattacks<a href="https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/"> Full Text</a>
+Hackers Are Turning Microsoft 365 Calendar Invites Into Secret Malware Command Channels<a href="https://cybersecuritynews.com/microsoft-365-calendar-invites-into-malware/"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-A Chinese-speaking cybercrime group has expanded its targeting to the European space, deploying previously undocumented malware and the Atlas backdoor.
+A stealthy new malware strain called HOLLOWGRAPH that hijacks Microsoft 365 calendars to secretly communicate with hackers, disguising malicious commands as ordinary calendar invites.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Security News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2026 -- [General](/docs/issues/general/general/)<br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft expects more Windows security updates from AI-discovered flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says Windows users should expect to see an increase in security updates as the company increasingly relies on artificial intelligence to discover vulnerabilities in its codebase.
 </details>
 <div style="text-align: right" markdown="1">
 Bleeping Computer
@@ -50,46 +67,14 @@ Bleeping Computer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 29, 2026 -- [General](/docs/issues/general/general/)<br> 
+June 23, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-Cheap AI has changed the economics of hacking<a href="https://www.scworld.com/perspective/cheap-ai-has-changed-the-economics-of-hacking"> Full Text</a>
+Hole in widely-used FFmpeg codec could crash media servers or enable RCE<a href="https://www.csoonline.com/article/4188531/hole-in-widely-used-ffmpeg-codec-could-crash-media-servers-or-enable-rce.html"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-COMMENTARY: There’s a war of attrition happening across corporate networks right now, and defenders are losing it the same way armies lose wars of attrition: by spending more per engagement than their opponents. The cost of mounting a cyberattack has plummeted, and most security budgets are not attuned to that reality.
-</details>
-<div style="text-align: right" markdown="1">
-SC Media
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2026 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-ROMANIAN HACKER GETS NEARLY 5 YEARS IN US PRISON OVER NETWORK INTRUSION<a href="https://securityaffairs.com/192770/cyber-crime/romanian-hacker-gets-nearly-5-years-in-us-prison-over-network-intrusion.html"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Romanian hacker Catalin Dragomir (45) will spend 4 years and 8 months in a US prison after admitting he sold access to an Oregon state network.
-</details>
-<div style="text-align: right" markdown="1">
-Security Affairs
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2026 -- [General](/docs/issues/general/general/)<br> 
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Microsoft says it’s making AI ‘safe for work’ in your browser<a href="https://www.csoonline.com/article/4176413/microsoft-says-its-making-ai-safe-for-work-in-your-browser-2.html"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Microsoft is testing the addition of agentic AI to its corporate browser, Edge for Business. A new version, currently available in a limited preview, will help perform routine tasks more efficiently, according to Microsoft’s partner product manager for Edge, Lindsay Kubasik.
+Research from JFrog into the software supply chain vulnerability points to the need for better visibility into applications, including SBOMs. 
 </details>
 <div style="text-align: right" markdown="1">
 CSO
@@ -98,49 +83,17 @@ CSO
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2026 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br> 
+June 18, 2026 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-Two U.S. Executives Plead Guilty in India-Based Tech-Support Fraud Schemes<a href="https://cybersecuritynews.com/u-s-executives-plead-guilty-tech-support/"> Full Text</a>
+F5 releases out-of-band patches for two critical NGINX bugs<a href="https://www.scworld.com/news/f5-releases-out-of-band-patches-for-two-critical-nginx-bugs"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-Two former executives of a U.S.-based call routing and analytics company have pleaded guilty to federal charges for knowingly enabling India-based call centers to defraud thousands of American victims through elaborate tech-support scam operations spanning nearly six years.
+F5 on June 17 released out-of-band security patches to address multiple NGINX web server vulnerabilities, two of them critical.
 </details>
 <div style="text-align: right" markdown="1">
-Cyber Security News
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2026 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-America's top cyber-defense agency left a GitHub repo open with with passwords, keys, tokens – and incredibly obvious filenames<a href="https://www.theregister.com/security/2026/05/19/americas-top-cyber-defense-agency-left-a-github-repo-open-with-with-passwords-keys-tokens-and-incredibly-obvious-filenames/5242915"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-The US Cybersecurity and Infrastructure Security Agency (CISA) left open a GitHub repository named “Private-CISA” containing plain-text passwords, private keys, tokens, and secrets – with obvious file names like “external-secret-repo-creds.yaml” and “AWS-Workspace-Firefox-Passwords.csv” – for six months.
-</details>
-<div style="text-align: right" markdown="1">
-The Register 
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2026 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-More than $10 million stolen from crypto platform THORChain<a href="https://therecord.media/more-than-10-million-stolen-crypto-platform-thorchain"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Cryptocurrency platform THORChain said more than $10 million was stolen during a security incident on Friday morning. 
-</details>
-<div style="text-align: right" markdown="1">
-The Record
+SC Media
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
